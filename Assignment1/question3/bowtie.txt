@@ -1,0 +1,6 @@
+IN: O, M, P, 
+SCC: A, B, C, G
+OUT: D, H
+Tendrils: I, K, L, 
+Tubes: N
+Disconnected: F, E
