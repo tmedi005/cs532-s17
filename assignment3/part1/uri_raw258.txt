@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta name="msvalidate.01" content="413297C6804C62718E0BA66143296F1D"/>
+<!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="dns-prefetch" href="//s3.amazonaws.com"/>
+<link rel="dns-prefetch" href="//fonts.googleapis.com"/>
+<link rel="dns-prefetch" href="//platform.instagram.com"/>
+<link rel="dns-prefetch" href="//upload.wikimedia.org"/>
+<link rel="dns-prefetch" href="//www.cbssports.com"/>
+<link rel="dns-prefetch" href="//ajax.googleapis.com"/>
+<link rel="dns-prefetch" href="//americanfootballfilms.com"/>
+<link rel="dns-prefetch" href="//www.huntlogo.com"/>
+<link rel="dns-prefetch" href="//i.athcdn.com.s3.amazonaws.com"/>
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com"/>
+<link rel="dns-prefetch" href="//edge.quantserve.com"/>
+<link rel="dns-prefetch" href="//www.pentagram.com"/>
+<link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+<link rel="dns-prefetch" href="//ksrcollege.wpengine.netdna-cdn.com"/>
+<link rel="dns-prefetch" href="//netdna.bootstrapcdn.com"/>
+<link rel="dns-prefetch" href="//acc.blogs.starnewsonline.com"/>
+<link rel="dns-prefetch" href="//www.sportsnetworker.com"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
+<meta content="ilvCI_p8bUvq_749dPQEFSxPGHBrkfSdFrd6p8I2-aI" name="google-site-verification"/>
+<link rel="amphtml" href="http://athlonsports.com/overtime/tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga?amp"/>
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Oswald|Source+Sans+Pro:300,400,600" media="all"/><link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.min.css" media="all"/><script data-pagespeed-no-defer>(function(){function d(b){var a=window;if(a.addEventListener)a.addEventListener("load",b,!1);else if(a.attachEvent)a.attachEvent("onload",b);else{var c=a.onload;a.onload=function(){b.call(this);c&&c.call(this)}}}var p=Date.now||function(){return+new Date};window.pagespeed=window.pagespeed||{};var q=window.pagespeed;function r(){this.a=!0}r.prototype.c=function(b){b=parseInt(b.substring(0,b.indexOf(" ")),10);return!isNaN(b)&&b<=p()};r.prototype.hasExpired=r.prototype.c;r.prototype.b=function(b){return b.substring(b.indexOf(" ",b.indexOf(" ")+1)+1)};r.prototype.getData=r.prototype.b;r.prototype.f=function(b){var a=document.getElementsByTagName("script"),a=a[a.length-1];a.parentNode.replaceChild(b,a)};r.prototype.replaceLastScript=r.prototype.f;
+r.prototype.g=function(b){var a=window.localStorage.getItem("pagespeed_lsc_url:"+b),c=document.createElement(a?"style":"link");a&&!this.c(a)?(c.type="text/css",c.appendChild(document.createTextNode(this.b(a)))):(c.rel="stylesheet",c.href=b,this.a=!0);this.f(c)};r.prototype.inlineCss=r.prototype.g;
+r.prototype.h=function(b,a){var c=window.localStorage.getItem("pagespeed_lsc_url:"+b+" pagespeed_lsc_hash:"+a),f=document.createElement("img");c&&!this.c(c)?f.src=this.b(c):(f.src=b,this.a=!0);for(var c=2,k=arguments.length;c<k;++c){var g=arguments[c].indexOf("=");f.setAttribute(arguments[c].substring(0,g),arguments[c].substring(g+1))}this.f(f)};r.prototype.inlineImg=r.prototype.h;
+function t(b,a,c,f){a=document.getElementsByTagName(a);for(var k=0,g=a.length;k<g;++k){var e=a[k],m=e.getAttribute("data-pagespeed-lsc-hash"),h=e.getAttribute("data-pagespeed-lsc-url");if(m&&h){h="pagespeed_lsc_url:"+h;c&&(h+=" pagespeed_lsc_hash:"+m);var l=e.getAttribute("data-pagespeed-lsc-expiry"),l=l?(new Date(l)).getTime():"",e=f(e);if(!e){var n=window.localStorage.getItem(h);n&&(e=b.b(n))}e&&(window.localStorage.setItem(h,l+" "+m+" "+e),b.a=!0)}}}
+function u(b){t(b,"img",!0,function(a){return a.src});t(b,"style",!1,function(a){return a.firstChild?a.firstChild.nodeValue:null})}
+q.i=function(){if(window.localStorage){var b=new r;q.localStorageCache=b;d(function(){u(b)});d(function(){if(b.a){for(var a=[],c=[],f=0,k=p(),g=0,e=window.localStorage.length;g<e;++g){var m=window.localStorage.key(g);if(!m.indexOf("pagespeed_lsc_url:")){var h=window.localStorage.getItem(m),l=h.indexOf(" "),n=parseInt(h.substring(0,l),10);if(!isNaN(n))if(n<=k){a.push(m);continue}else if(n<f||!f)f=n;c.push(h.substring(l+1,h.indexOf(" ",l+1)))}}k="";f&&(k="; expires="+(new Date(f)).toUTCString());document.cookie=
+"_GPSLSC="+c.join("!")+k;g=0;for(e=a.length;g<e;++g)window.localStorage.removeItem(a[g]);b.a=!1}})}};q.localStorageCacheInit=q.i;})();
+pagespeed.localStorageCacheInit();</script><link type="text/css" rel="stylesheet" href="/sites/athlonsports.com/files/advagg_css/css__ylwkc8oUxLg_bWXj9GQfbk3I0zp96FucHi9S22p1Q2w__Il_8C3fQBnWBMkv5dMlb13_mhoFhSiMNllqZcxgE7rE__hemz__HUvMs0UshHAYsSSYv9NZ5bMPUhH-0oSffz4d8.css" media="all"/><link type="text/css" rel="stylesheet" href="/sites/athlonsports.com/files/advagg_css/css__Tez6xSGnNS7DdQSBwYZ1EYwqOmreQ487fvsUuglnh9A__jOmrSOXPHLZQhRmWHwXIzxAT0ufRW4MmbxA4PW8bKRc__hemz__HUvMs0UshHAYsSSYv9NZ5bMPUhH-0oSffz4d8.css" media="all"/><link type="text/css" rel="stylesheet" href="/sites/athlonsports.com/files/advagg_css/css__X7Mk_v03lTe10zGV_leWq5ResAp8xmDbeT5CbfT4B3c__YCJGOg9-XZc2oji-GbqeIeFIf2135zsLr7otf3K3G0g__hemz__HUvMs0UshHAYsSSYv9NZ5bMPUhH-0oSffz4d8.css" media="all"/><link type="text/css" rel="stylesheet" href="/sites/athlonsports.com/files/advagg_css/css__fmJBtLGH-vo6pTHqUdwQUTUMsxLvqQc-Z6wyhwTbMrY__Hwm3xfo0CXSsv-JJao_MpUlCPlI_u9ovO4TeiMoyoQk__hemz__HUvMs0UshHAYsSSYv9NZ5bMPUhH-0oSffz4d8.css" media="all"/><script type="application/ld+json">
+    {"@context":"http:\/\/schema.org","@graph":[{"@context":"http:\/\/schema.org","@type":"Article","mainEntityOfPage":"http:\/\/athlonsports.com\/overtime\/tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga","publisher":{"@type":"Organization","name":"AthlonSports.com","logo":{"type":"ImageObject","url":"https:\/\/s3.amazonaws.com\/ath-clients\/athlon\/logo\/asl-logo-amp.png","height":60,"width":600}},"headline":"Tom Brady Puts Together \"Suspect List\" For Missing Jersey","articleBody":" Tom Brady's jersey went missing shortly after the Super Bowl and he's been on a mission to find it ever since.\n\n&nbsp;\n\nThe Patriots quarterback takes a light-hearted approach to putting together a list of people who could've taken the prized possession, valued&nbsp;by some at around $500 million. Everyone from Julian Edelman to Lady Gaga and even Scooby the dog could've had a hand (or paw) in the crime.&nbsp;\n\n&nbsp;\n\n\n\t\n\t\t\n\t\t\t&nbsp;\n\t\t\n\n\t\tHey @edelman11 \"Ya suspect, yeah you! I don't know what your reputation is in this town, but after that s@?# you pulled, you can bet l'll be looking into you!\"\n\n\t\tA post shared by Tom Brady (@tombrady) on Feb 22, 2017 at 8:39am PST\n\t\n\n\n\n&nbsp;\n ","text":" Tom Brady's jersey went missing shortly after the Super Bowl and he's been on a mission to find it ever since.\n\n&nbsp;\n\nThe Patriots quarterback takes a light-hearted approach to putting together a list of people who could've taken the prized possession, valued&nbsp;by some at around $500 million. Everyone from Julian Edelman to Lady Gaga and even Scooby the dog could've had a hand (or paw) in the crime.&nbsp;\n\n&nbsp;\n\n\n\t\n\t\t\n\t\t\t&nbsp;\n\t\t\n\n\t\tHey @edelman11 \"Ya suspect, yeah you! I don't know what your reputation is in this town, but after that s@?# you pulled, you can bet l'll be looking into you!\"\n\n\t\tA post shared by Tom Brady (@tombrady) on Feb 22, 2017 at 8:39am PST\n\t\n\n\n\n&nbsp;\n ","description":"Tom Bradys jersey went missing shortly after the Super Bowl and hes been on a mission to find it ever since. The Patriots quarterback takes a light-he...","datePublished":"February 22, 2017","dateModified":"February 22, 2017","author":{"@type":"Person","name":"Jasmine Watkins","url":"jasmine.watkins@athlonsports.com","description":"","affiliation":"","email":"jasmine.watkins@athlonsports.com","jobTitle":"editor"},"image":{"@type":"ImageObject","caption":"","representativeOfPage":true,"contentSize":"72098","height":485,"width":860,"dateCreated":"February 22, 2017","fileFormat":"image\/jpeg","headline":"","url":"http:\/\/athlonsports.com\/sites\/athlonsports.com\/files\/styles\/dynamic_lead_wide\/public\/tb_1.jpg?itok=7Q03C86C"}}]}</script>
+<link rel="shortcut icon" href="/sites/athlonsports.com/files/favicon_3.ico" type="image/vnd.microsoft.icon"/>
+<meta name="description" content="Tom Bradys jersey went missing shortly after the Super Bowl and hes been on a mission to find it ever since. The Patriots quarterback takes a light-..."/>
+<meta name="generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/overtime/tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga"/>
+<link rel="shortlink" href="http://athlonsports.com/node/112225"/>
+<link rel="publisher" href="https://www.facebook.com/AthlonSports"/>
+<meta property="og:site_name" content="AthlonSports.com"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://athlonsports.com/overtime/tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga"/>
+<meta property="og:title" content="Tom Brady Puts Together &quot;Suspect List&quot; For Missing Jersey"/>
+<meta property="og:description" content="Tom Bradys jersey went missing shortly after the Super Bowl and hes been on a mission to find it ever since. The Patriots quarterback takes a light-..."/>
+<meta property="og:image" content="http://athlonsports.com/sites/athlonsports.com/files/tb_1.jpg"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@AthlonSports"/>
+<meta name="twitter:creator" content="@JasmineLWatkins"/>
+<meta name="twitter:url" content="http://athlonsports.com/overtime/tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga"/>
+<meta name="twitter:description" content="Tom Bradys jersey went missing shortly after the Super Bowl and hes been on a mission to find it ever since. The Patriots quarterback takes a light-......"/>
+<meta name="twitter:title" content="Tom Brady Puts Together &quot;Suspect List&quot; For Missing Jersey"/>
+<meta name="twitter:image:src" content="http://athlonsports.com/sites/athlonsports.com/files/styles/dynamic_lead_wide/public/tb.jpg?itok=3VVHUosF"/>
+<title>Tom Brady Puts Together "Suspect List" For Missing Jersey</title>
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="//athlonsports.com/sites/athlonsports.com/files/advagg_css/css__MIbGYNqw8X5qjGQRbk1QL3vebney4peQHY2p8g8PKoI__5aLpVLKoGEsAOz-LmlyvqGOuDmRDyO6xn3R1jxadIlQ__hemz__HUvMs0UshHAYsSSYv9NZ5bMPUhH-0oSffz4d8.css" media="all" />
+<![endif]-->
+<!--[if lt IE 9]>
+    <script data-cfasync="false" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script data-cfasync="false"
+            src="http://cdn.athlonsports.com/sites/all/libraries/respondjs/respond.min.js"></script>
+    <link href="http://cdn.athlonsports.com/sites/all/libraries/respondjs/cross-domain/respond-proxy.html"
+          id="respond-proxy" rel="respond-proxy"/>
+    <link href="/sites/all/libraries/respondjs/cross-domain/respond.proxy.gif" id="respond-redirect"
+          rel="respond-redirect"/>
+    <script data-cfasync="false" src="/sites/all/libraries/respondjs/cross-domain/respond.proxy.js"></script>
+    <![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery||document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")</script>
+<script>(function($){var cache={},uuid=0;$.fn.once=function(id,fn){if(typeof id!='string'){if(!(id in cache)){cache[id]=++uuid;}if(!fn){fn=id;}id='jquery-once-'+cache[id];}var name=id+'-processed';var elements=this.not('.'+name).addClass(name);return $.isFunction(fn)?elements.each(fn):elements;};$.fn.removeOnce=function(id,fn){var name=id+'-processed';var elements=this.filter('.'+name).removeClass(name);return $.isFunction(fn)?elements.each(fn):elements;};})(jQuery);</script>
+<script async>var dfp_slots=new Array();var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var gads=document.createElement('script');gads.type='text/javascript';gads.async=true;var useSSL='https:'==document.location.protocol;gads.src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads,node);})();</script>
+<script src="/misc/drupal.js,qolrqad.pagespeed.jm.QeA8k3N5AP.js"></script>
+<script>dfp_slots["rect_atf_center_11487827711"]=function(){googletag.defineSlot("/1065729/Rect_ATF_Center",[[728,90],[970,90],[970,250],[320,50]],"dfp-ad-rect_atf_center_11487827711").set("adsense_ad_types","image").addService(googletag.pubads());}</script>
+<script>dfp_slots["boxflex_art_atf_right_11487827711"]=function(){googletag.defineSlot("/1065729/BoxFlex_ART_ATF_RIGHT",[[300,1050],[300,600],[300,250]],"dfp-ad-boxflex_art_atf_right_11487827711").set("adsense_ad_types","image").addService(googletag.pubads());}</script>
+<script>dfp_slots["boxflex_art_btf_right_float_11487827711"]=function(){googletag.defineSlot("/1065729/BoxFlex_ART_BTF_RIGHT_FLOAT",[[300,1050],[300,600],[300,250]],"dfp-ad-boxflex_art_btf_right_float_11487827711").set("adsense_ad_types","image").addService(googletag.pubads());}</script>
+<script defer>googletag.cmd.push(function(){for(slot in dfp_slots){dfp_slots[slot]();};googletag.pubads().enableAsyncRendering();googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.pubads().setTargeting("section","Overtime");googletag.pubads().setTargeting("path","overtime/tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga");googletag.pubads().setTargeting("path_first","overtime");googletag.pubads().setTargeting("teams",["","","",""]);googletag.pubads().setTargeting("id","112225");googletag.enableServices();});</script>
+<script>;(function($){$(document).ready(function(){if($('.scoreboard-widget-wrapper').length!==0){$('.global-nav').addClass("score-brand-enabled");$('.scoreboard-widget-wrapper').addClass('brand-enabled');}else{$('.global-nav').addClass("brand-enabled");}$('.block-athlon-meganav').addClass('brand-enabled');});})(jQuery);</script>
+<script>var gaId="UA-198298-1";</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="/sites/all/modules,_athlon_media_group,_amg_newsletter,_assets,_js,_blocks,_amg_newsletter_signup_scroll_block.js,qolrqad+modules,_athlon_media_group,_amg_newsletter,_assets,_js,_plugins,_amg_newsletter_registration.js,qolrqad+modules,_athlon_media_group,_amg_newsletter,_assets,_js,_blocks,_amg_newsletter_signup_block.js,qolrqad+themes,_omega,_omega,_js,_jquery.formalize.js,qolrqad+themes,_omega,_omega,_js,_omega-mediaqueries.js,qolrqad.pagespeed.jc.2bkFwBi57m.js"></script><script>eval(mod_pagespeed_RACWTueLXf);</script>
+<script>eval(mod_pagespeed_LJ_6lqLxl5);</script>
+<script>eval(mod_pagespeed_lpDT_JVxus);</script>
+<script>eval(mod_pagespeed_DC$e4NwMEA);</script>
+<script>eval(mod_pagespeed_h_YWBfJ3pS);</script>
+<script>jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"asomega","theme_token":"0kSf3vQgajgPgNveCUjdSaDz3eIR2F5x9UowivUKajI","css":{"http:\/\/fonts.googleapis.com\/css?family=Oswald|Source+Sans+Pro:300,400,600":1,"http:\/\/netdna.bootstrapcdn.com\/font-awesome\/3.2.0\/css\/font-awesome.min.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/athlon\/athlon_filters\/css\/athlon_filters.css":1,"sites\/all\/modules\/athlon\/amg_brand_toolbar\/css\/amg_brand_toolbar.css":1,"sites\/all\/modules\/athlon\/newsletter\/css\/newsletter-signup.css":1,"sites\/all\/modules\/athlon\/athlon_meganav\/css\/athlon_meganav.css":1,"sites\/all\/modules\/athlon_media_group\/amg_newsletter\/assets\/css\/blocks\/amg_newsletter_signup_scroll.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/athlonsports.com\/themes\/asomega\/css\/lt-ie9.css":1,"sites\/athlonsports.com\/themes\/asomega\/css\/global.css":1,"narrow::sites\/athlonsports.com\/themes\/asomega\/css\/asomega-alpha-default.css":1,"narrow::sites\/athlonsports.com\/themes\/asomega\/css\/asomega-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-24.css":1,"normal::sites\/athlonsports.com\/themes\/asomega\/css\/asomega-alpha-default.css":1,"normal::sites\/athlonsports.com\/themes\/asomega\/css\/asomega-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-24.css":1,"wide::sites\/athlonsports.com\/themes\/asomega\/css\/asomega-alpha-default.css":1,"wide::sites\/athlonsports.com\/themes\/asomega\/css\/asomega-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-24.css":1},"js":{"sites\/all\/modules\/athlon\/athlon_meganav\/js\/athlon_meganav.js":1,"sites\/all\/modules\/athlon\/analytics\/js\/analytics_events.js":1,"http:\/\/edge.quantserve.com\/quant.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.3\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/athlon\/amg_brand_toolbar\/js\/amg_brand_toolbar.js":1,"\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery-cookie\/1.4.1\/jquery.cookie.min.js":1,"sites\/all\/modules\/athlon_media_group\/amg_newsletter\/assets\/js\/blocks\/amg_newsletter_signup_scroll_block.js":1,"sites\/all\/modules\/athlon_media_group\/amg_newsletter\/assets\/js\/plugins\/amg_newsletter_registration.js":1,"sites\/all\/modules\/athlon_media_group\/amg_newsletter\/assets\/js\/blocks\/amg_newsletter_signup_block.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1}},"analytics":{"contrib_handle":"jasminewatkins"},"urlIsAjaxTrusted":{"\/overtime\/tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga":true},"amg_globals":{"pageType":"node","enabledContexts":["footer","genesis_interstitial_ad","menu","100_right_rail","leaderboard","80_right_rail_video","content_hub_blog_empty_field_blog"]},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});</script>
+<script data-cfasync="false">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga("create","UA-198298-1",{"name":"amgTracker","legacyCookieDomain":document.location.hostname});ga('amgTracker.require','displayfeatures');ga('amgTracker.require','linkid','linkid.js');ga('amgTracker.send','pageview');</script>
+<script data-cfasync="false">var _sf_startpt=(new Date()).getTime();</script>
+<script data-cfasync="false">var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"8207537"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el);})();</script>
+<script data-cfasync="false">function addOpentagEl(opentagEl){document.getElementsByTagName('head')[0].appendChild(opentagEl);}var opentagEl=document.createElement("script");opentagEl.src="//d3c3cq33003psk.cloudfront.net/opentag-54778-athlonsportsprod.js";if(window.addEventListener){window.addEventListener('load',function(){addOpentagEl(opentagEl)});}else if(window.attachEvent){window.attachEvent('onload',function(){addOpentagEl(opentagEl)});}</script>
+<script>var dfpMoreSlots=[];function attachDfpMoreSlotEvent($){$(document).on('dfpMoreSlotAdded',function(){$.each(dfpMoreSlots,function(index,element){if(typeof element==='function'){element();}});});}if(document.addEventListener){window.addEventListener('load',function(){attachDfpMoreSlotEvent(jQuery);});}else if(document.attachEvent){window.attachEvent('onload',function(){attachDfpMoreSlotEvent(jQuery);});}</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-112225 node-type-news context-overtime">
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<div class="region region-page-top" id="region-page-top">
+<div class="region-inner region-page-top-inner">
+</div>
+</div><div class="page clearfix" id="page">
+<header id="section-header" class="section section-header">
+<div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">
+<div id="zone-menu" class="zone zone-menu clearfix container-24">
+<div class="grid-24 region region-menu" id="region-menu">
+<div class="region-inner region-menu-inner">
+<div class="block block-amg-brand-toolbar block-amg-brand-toolbar block-amg-brand-toolbar-amg-brand-toolbar odd block-without-title" id="block-amg-brand-toolbar-amg-brand-toolbar">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div class="brand-toolbar">
+<ul>
+<li class="brand parade"><a href="http://parade.com" alt="Parade">&nbsp;</a></li>
+<li class="brand community-table"><a href="http://communitytable.parade.com">&nbsp;</a></li>
+<li class="brand athlon-sports"><a href="/">&nbsp;</a></li>
+</ul>
+</div> </div>
+</div>
+</div><div class="block block-athlon-meganav block-athlon-meganav block-athlon-meganav-athlon-meganav even block-without-title" id="block-athlon-meganav-athlon-meganav">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div id="athlon-global-menu" class="global-nav">
+<div class="nav-contents">
+<div id="nav-athlon-social" class="nav-content" style="display:none">
+<ul id="athlon-social">
+<li class="social-four-square">
+<ul>
+<li class="facebook">
+<h3>Like Us</h3>
+<script>(function($,d,s,id){$(window).on('load',function(){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/all.js#xfbml=1";fjs.parentNode.insertBefore(js,fjs);});}(jQuery,document,'script','facebook-jssdk'));</script>
+<div class="fb-like" data-href="http://facebook.com/AthlonSports" data-send="false" data-layout="box_count" data-width="450" data-show-faces="false" data-font="arial"></div>
+<div id="fb-root"></div>
+<a href="https://www.facebook.com/AthlonSports" title="Athlon Sports on Facebook" target="_blank"><i class="icon-facebook icon-5x"></i></a>
+</li>
+<li class="twitter">
+<h3>Follow Us</h3>
+<a href="https://twitter.com/athlonsports" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false">Follow @athlonsports</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+<a href="https://twitter.com/athlonsports" title="Athlon Sports on Twitter" target="_blank"><i class="icon-twitter icon-5x"></i></a>
+</li>
+<li class="you-tube">
+<h3>Subscribe</h3>
+<a href="http://www.youtube.com/subscription_center?add_user=athlonsports" target="_blank"><i class="icon-youtube icon-5x"></i></a>
+</li>
+<li class="google-plus">
+<h3>Follow</h3>
+<div id="plus-one-button">
+<div class="g-plusone" data-size="medium" data-href="http://athlonsports.com"></div>
+<script>(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/plusone.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();</script>
+</div>
+<a href="https://plus.google.com/116565198122591214770/" title="Athlon Sports on Google+" target="_blank"><i class="icon-google-plus icon-4x"></i></a>
+</li>
+</ul>
+</li>
+<li class="newsletter">
+<a href="/rss.xml" title="Athlon Sports RSS Feed"><i class="icon-rss icon-4x" target="_blank"></i>&nbsp;&nbsp;RSS</a>
+</li>
+</ul>
+</div>
+<div id="nav-college-football" class="nav-content" style="display:none">
+<ul>
+<li class="meganav-links">
+<a href="/college-football"><h3>College Football</h3></a>
+<ul class="links"><li class="menu-7626 first"><a href="/college-football">NCAAF Home</a></li><li class="menu-7631"><a href="/college-football/teams">Teams</a></li><li class="menu-7634"><a href="http://www.athlonsports.com/galleries/college-football">Galleries</a></li><li class="menu-9071"><a href="/podcast">Cover 2 Podcast</a></li><li class="menu-7627 last"><a href="http://athlonsports.collegeexpertsclub.com">Pick&#039;em, Play Now!</a></li></ul> </li>
+<li class="college-football-teams">
+<div class="cfb-teams">
+<h3>Conferences</h3>
+<ul>
+<li><a class="acc" href="/college-football/conference/acc">ACC</a></li>
+<li><a class="big-12" href="/college-football/conference/big-12">Big 12</a></li>
+<li><a class="big-east" href="/college-football/conference/american">American</a></li>
+<li><a class="big-10" href="/college-football/conference/big-ten">Big Ten</a></li>
+<li><a class="pac-12" href="/college-football/conference/pac-12">Pac-12</a></li>
+<li><a class="sec" href="/college-football/conference/sec">SEC</a></li>
+</ul>
+</div>
+</li>
+<li class="college-football-articles">
+<h3>College Football Articles</h3>
+<div class="view view-megamenu-articles view-id-megamenu_articles view-display-id-block mega-article-block view-dom-id-440205b66864ef07c104e888509ee96b">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/college-football/grading-college-footballs-head-coach-hires-2017"><script data-pagespeed-no-defer>(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/ngx_pagespeed_beacon','http://athlonsports.com/overtime/tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga','y8LJ9ZJZFd',true,false,'Lx67iKbqTcc');</script><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xTomHerman2017_0.jpg,qitok=KYF8W0O_.pagespeed.ic.77tr6y8C_0.jpg" alt="Tom Herman" title="Tom Herman" data-pagespeed-url-hash="1436321696" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/college-football/grading-college-footballs-head-coach-hires-2017">Grading College Football&#039;s Head Coach Hires for 2017</a></span> </div></li>
+<li class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/college-football/ranking-college-footballs-rosters-2017"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xNickSaban13_4.jpg,qitok=3UVB72va.pagespeed.ic.1ihVCxqtQs.jpg" alt="Nick Saban" title="Nick Saban" data-pagespeed-url-hash="3883782944" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/college-football/ranking-college-footballs-rosters-2017">Ranking College Football&#039;s Rosters for 2017</a></span> </div></li>
+<li class="views-row views-row-3 views-row-odd views-row-last">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/college-football/college-footballs-top-20-impact-juco-transfer-quarterbacks-2017"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xJarrettStidham4_2.jpg,qitok=e9iOyTdz.pagespeed.ic.0YwY4DrDJ5.jpg" alt="Jarrett Stidham" title="Jarrett Stidham" data-pagespeed-url-hash="2058328423" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/college-football/college-footballs-top-20-impact-juco-transfer-quarterbacks-2017">College Football&#039;s Top 20 Impact JUCO Transfer Quarterbacks for 2017</a></span> </div></li>
+</ul></div> </div>
+</div> </li>
+<ul>
+</div>
+<div id="nav-nfl" class="nav-content" style="display:none">
+<ul>
+<li class="meganav-links">
+<a href="/nfl"><h3>NFL</h3></a>
+<ul class="links"><li class="menu-7648 first"><a href="/nfl">NFL Homepage</a></li><li class="menu-7653"><a href="/nfl/teams">Teams</a></li><li class="menu-7658"><a href="/galleries/nfl">Galleries</a></li><li class="menu-7649 last"><a href="http://athlonsports.proexpertsclub.com/">Pick&#039;em, Play Now!</a></li></ul> </li>
+<li class="nfl-teams">
+<div class="nfl-teams">
+<ul>
+<h3>AFC Teams</h3>
+<li><a class="buffalo-logo" href="/nfl/teams/buffalo-bills">Buffalo</a></li>
+<li><a class="miami-logo" href="/nfl/teams/miami-dolphins">Miami</a></li>
+<li><a class="new-england-logo" href="/nfl/teams/new-england-patriots">New England</a></li>
+<li><a class="ny-jets-logo" href="/nfl/teams/new-york-jets">NY Jets</a></li>
+<li><a class="baltimore-logo" href="/nfl/teams/baltimore-ravens">Baltimore</a></li>
+<li><a class="cincinnati-logo" href="/nfl/teams/cincinnati-bengals">Cincinnati</a></li>
+<li><a class="cleveland-logo" href="/nfl/teams/cleveland-browns">Cleveland</a></li>
+<li><a class="pittsburgh-logo" href="/nfl/teams/pittsburgh-steelers">Pittsburgh</a></li>
+<li><a class="houston-logo" href="/nfl/teams/houston-texans">Houston</a></li>
+<li><a class="indianapolis-logo" href="/nfl/teams/indianapolis-colts">Indianapolis</a></li>
+<li><a class="jacksonville-logo" href="/nfl/teams/jacksonville-jaguars">Jacksonville</a></li>
+<li><a class="tenneessee-logo" href="/nfl/teams/tennessee-titans">Tennessee</a></li>
+<li><a class="denver-logo" href="/nfl/teams/denver-broncos">Denver</a></li>
+<li><a class="kc-logo" href="/nfl/teams/kansas-city-chiefs">Kansas City</a></li>
+<li><a class="oakland-logo" href="/nfl/teams/oakland-raiders">Oakland</a></li>
+<li><a class="san-diego-logo" href="/nfl/teams/san-diego-chargers">San Diego</a></li>
+</ul>
+<ul>
+<h3>NFC Teams</h3>
+<li><a class="dallas-logo" href="/nfl/teams/dallas-cowboys">Dallas</a></li>
+<li><a class="ny-giants-logo" href="/nfl/teams/new-york-giants">NY Giants</a></li>
+<li><a class="philadelphia-logo" href="/nfl/teams/philadelphia-eagles">Philadelphia</a></li>
+<li><a class="washington-logo" href="/nfl/teams/washington-redskins">Washington</a></li>
+<li><a class="chicago-logo" href="/nfl/teams/chicago-bears">Chicago</a></li>
+<li><a class="detroit-logo" href="/nfl/teams/detroit-lions">Detroit</a></li>
+<li><a class="greenbay-logo" href="/nfl/teams/green-bay-packers">Green Bay</a></li>
+<li><a class="minnesota-logo" href="/nfl/teams/minnesota-vikings">Minnesota</a></li>
+<li><a class="atlanta-logo" href="/nfl/teams/atlanta-falcons">Atlanta</a></li>
+<li><a class="carolina-logo" href="/nfl/teams/carolina-panthers">Carolina</a></li>
+<li><a class="neworleans-logo" href="/nfl/teams/new-orleans-saints">New Orleans</a></li>
+<li><a class="tampabay-logo" href="/nfl/teams/tampa-bay-buccaneers">Tampa Bay</a></li>
+<li><a class="arizona-logo" href="/nfl/teams/arizona-cardinals">Arizona</a></li>
+<li><a class="sanfrancisco-logo" href="/nfl/teams/san-francisco-49ers">San Francisco</a></li>
+<li><a class="seattle-logo" href="/nfl/teams/seattle-seahawks">Seattle</a></li>
+<li><a class="stlouis-logo" href="/nfl/teams/st-louis-rams">St Louis</a></li>
+</ul>
+</div>
+</li>
+<li class="nfl-articles">
+<h3>NFL Articles</h3>
+<div class="view view-megamenu-articles view-id-megamenu_articles view-display-id-block mega-article-block view-dom-id-ed9f210b474eab7973fcf6fceb557dae">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/nfl/top-10-nfl-free-agents-2017"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xEricBerry_2016_0.jpg,qitok=k03w4Enn.pagespeed.ic.9s8rUFyyz0.jpg" alt="Eric Berry" title="Eric Berry" data-pagespeed-url-hash="2173686571" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/nfl/top-10-nfl-free-agents-2017">Top 10 NFL Free Agents for 2017</a></span> </div></li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/nfl/5-nfl-teams-watch-2017"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xMarcusMariota_2016_4.jpg,qitok=txLwxxKo.pagespeed.ic.X01eVU3D3O.jpg" alt="Marcus Mariota" title="Marcus Mariota" data-pagespeed-url-hash="1731445653" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/nfl/5-nfl-teams-watch-2017">5 NFL Teams to Watch in 2017</a></span> </div></li>
+</ul></div> </div>
+</div> </li>
+</ul>
+</div>
+<div id="nav-college-basketball" class="nav-content" style="display:none">
+<ul>
+<li class="meganav-links">
+<a href="/college-basketball"><h3>College Basketball</h3></a>
+<ul class="links"><li class="menu-7618 first"><a href="/college-basketball">NCAAB Home</a></li><li class="menu-7621"><a href="/college-basketball/teams">Teams</a></li><li class="menu-7624"><a href="http://athlon.bracketbreakdown.com/">Bracket Breakdown</a></li><li class="menu-7625 last"><a href="/galleries/college-basketball">Galleries</a></li></ul> </li>
+<li class="college-basketball-articles">
+<h3>College Basketball Articles</h3>
+<div class="view view-megamenu-articles view-id-megamenu_articles view-display-id-block mega-article-block view-dom-id-c646f09f8f4c825637f6de14b6b6b7f8">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/college-basketball/ncaab-creighton-arizona-state"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xCreighton,P20Team122016-0022.JPG,qitok=udMF18s0.pagespeed.ic.GNRgkhXNnx.jpg" alt="" data-pagespeed-url-hash="1510709879" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/college-basketball/ncaab-creighton-arizona-state">NCAAB: Creighton at Arizona State</a></span> </div></li>
+<li class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/college-basketball/duke-blue-devils-2016-17-basketball-team-preview-and-prediction"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xAllenGrayson_3.jpg,qitok=20QhKka-.pagespeed.ic.Tw530tk1Xc.jpg" alt="" data-pagespeed-url-hash="1595731967" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/college-basketball/duke-blue-devils-2016-17-basketball-team-preview-and-prediction">Duke Blue Devils 2016-17 Basketball Team Preview and Prediction</a></span> </div></li>
+<li class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/college-basketball/indiana-hoosiers-2016-17-basketball-team-preview-and-prediction"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xBryantThomas.jpg,qitok=vH6MyQ4E.pagespeed.ic.HI0tT7Xefe.jpg" alt="" data-pagespeed-url-hash="553917341" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/college-basketball/indiana-hoosiers-2016-17-basketball-team-preview-and-prediction">Indiana Hoosiers 2016-17 Basketball Team Preview and Prediction</a></span> </div></li>
+<li class="views-row views-row-4 views-row-even views-row-last">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/college-basketball/purdue-boilermakers-2016-17-basketball-team-preview-and-prediction"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xSwaniganCaleb.jpg,qitok=svTndvtP.pagespeed.ic.IfURCp3514.jpg" alt="" data-pagespeed-url-hash="145102989" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/college-basketball/purdue-boilermakers-2016-17-basketball-team-preview-and-prediction">Purdue Boilermakers 2016-17 Basketball Team Preview and Prediction</a></span> </div></li>
+</ul></div> </div>
+</div> </li>
+</ul>
+</div>
+<div id="nav-mlb" class="nav-content" style="display:none">
+<ul>
+<li class="meganav-links">
+<a href="/mlb"><h3>MLB</h3></a>
+<ul class="links"><li class="menu-7640 first"><a href="/mlb">MLB Home</a></li><li class="menu-7644"><a href="/mlb/teams">Teams</a></li><li class="menu-7647"><a href="/galleries/mlb">Galleries</a></li><li class="menu-9345 last"><a href="http://amglifestylestore.com/p-2002-athlon-sports-baseball.aspx">Buy Magazine</a></li></ul> </li>
+<li class="mlb-teams">
+<div class="mlb-teams">
+<div class="al-teams">
+<h3>American League</h3>
+<ul>
+<li><a class="orioles-logo" href="/mlb/teams/baltimore-orioles">Baltimore</a></li>
+<li><a class="red-sox-logo" href="/mlb/teams/boston-red-sox">Boston</a></li>
+<li><a class="yankees-logo" href="/mlb/teams/new-york-yankees">NY Yankees</a></li>
+<li><a class="rays-logo" href="/mlb/teams/tamba-bay-rays">Tampa Bay</a></li>
+<li><a class="blue-jays-logo" href="/mlb/teams/toronto-blue-jays">Toronto</a></li>
+<li><a class="white-sox-logo" href="/mlb/teams/chicago-white-sox">Chicago White Sox</a></li>
+<li><a class="indians-logo" href="/mlb/teams/cleveland-indians">Cleveland</a></li>
+<li><a class="tigers-logo" href="/mlb/teams/detroit-tigers">Detroit</a></li>
+<li><a class="royals-logo" href="/mlb/teams/kansas-city-royals">Kansas City</a></li>
+<li><a class="twins-logo" href="/mlb/teams/minnesota-twins">Minnesota</a></li>
+<li><a class="astros-logo" href="/mlb/teams/houston-astros">Houston</a></li>
+<li><a class="angels-logo" href="/mlb/teams/los-angels-angels">LA Angels</a></li>
+<li><a class="athletics-logo" href="/mlb/teams/oakland-athletics">Oakland</a></li>
+<li><a class="mariners-logo" href="/mlb/teams/seattle-mariners">Seattle</a></li>
+<li><a class="rangers-logo" href="/mlb/teams/texas-rangers">Texas</a></li>
+</ul>
+</div>
+<div class="nl-teams">
+<h3>National League</h3>
+<ul>
+<li><a class="braves-logo" href="/mlb/teams/atlanta-braves">Atlanta</a></li>
+<li><a class="marlins-logo" href="/mlb/teams/miami-marlins">Miami</a></li>
+<li><a class="mets-logo" href="/mlb/teams/new-york-mets">NY Mets</a></li>
+<li><a class="phillies-logo" href="/mlb/teams/philadelphia-phillies">Philadelphia</a></li>
+<li><a class="nationals-logo" href="/mlb/teams/washington-nationals">Washington</a></li>
+<li><a class="cubs-logo" href="/mlb/teams/chicago-cubs">Chicago Cubs</a></li>
+<li><a class="reds-logo" href="/mlb/teams/cincinnati-reds">Cincinnati</a></li>
+<li><a class="brewers-logo" href="/mlb/teams/milwaukee-brewers">Milwaukee</a></li>
+<li><a class="pirates-logo" href="/mlb/teams/pittsburgh-pirates">Pittsburgh</a></li>
+<li><a class="cardinals-logo" href="/mlb/teams/st-louis-cardinals">St Louis</a></li>
+<li><a class="diamondbacks-logo" href="/mlb/teams/arizona-diamondbacks">Arizona</a></li>
+<li><a class="rockies-logo" href="/mlb/teams/colorado-rockies">Colorado</a></li>
+<li><a class="dodgers-logo" href="/mlb/teams/los-angeles-dodgers">LA Dodgers</a></li>
+<li><a class="padres-logo" href="/mlb/teams/san-diego-padres">San Diego</a></li>
+<li><a class="giants-logo" href="/mlb/teams/san-francisco-giants">San Francisco</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="mlb-articles">
+<h3>MLB Articles</h3>
+<div class="view view-megamenu-articles view-id-megamenu_articles view-display-id-block mega-article-block view-dom-id-b786e44ff62322c6eeffb0e42c38487a">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/mlb/17-things-watch-during-2017-mlb-season"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/ChicagoCubs_2016_WorldSeries_champions_getty.jpg?itok=lG8q7yqu" alt="" data-pagespeed-url-hash="964664305" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/mlb/17-things-watch-during-2017-mlb-season">17 Things to Watch During the 2017 MLB Season</a></span> </div></li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/mlb/new-york-yankees-2017-preview-predictions-schedule"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xYankees-2-Gary-Sanchez05679.jpg,qitok=D2DQtUJS.pagespeed.ic.OaGfFL6ZmY.jpg" alt="Gary Sanchez" title="Gary Sanchez" data-pagespeed-url-hash="2475941927" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/mlb/new-york-yankees-2017-preview-predictions-schedule">New York Yankees: 2017 Preview, Predictions &amp; Schedule</a></span> </div></li>
+</ul></div> </div>
+</div> </li>
+</ul>
+</div>
+<div id="nav-nascar" class="nav-content" style="display:none">
+<ul>
+<li class="meganav-links">
+<a href="/nascar"><h3>NASCAR</h3></a>
+<ul class="links"><li class="menu-7660 first"><a href="/nascar">NASCAR Home</a></li><li class="menu-7668"><a href="http://www.athlonsports.com/galleries/nascar">Galleries</a></li><li class="menu-8765"><a href="/nascar/daytona-500">Daytona 500</a></li><li class="menu-9346 last"><a href="http://amglifestylestore.com/p-1980-athlon-sports.aspx">Buy Magazine</a></li></ul> </li>
+<li class="nascar-articles">
+<h3>NASCAR Articles</h3>
+<div class="view view-megamenu-articles view-id-megamenu_articles view-display-id-block mega-article-block view-dom-id-480e3111e1e595f8dfe9f124b2803537">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/nascar/kyle-busch-2017-nascar-season-driver-preview"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xKyle_Busch_mencs2017.jpg,qitok=WyiyuqCB.pagespeed.ic.ovn_8ckp1N.jpg" alt="Kyle Busch: 2017 NASCAR Season Driver Preview" title="Kyle Busch: 2017 NASCAR Season Driver Preview" data-pagespeed-url-hash="1870202494" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/nascar/kyle-busch-2017-nascar-season-driver-preview">Kyle Busch: 2017 NASCAR Season Driver Preview</a></span> </div></li>
+<li class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/nascar/kevin-harvick-2017-nascar-season-driver-preview"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xharvick,P20mencs,P20hero2017.jpg,qitok=H1aMf8-I.pagespeed.ic.F4_Bv6pr2G.jpg" alt="Kevin Harvick: 2017 NASCAR Season Driver Preview" title="Kevin Harvick: 2017 NASCAR Season Driver Preview" data-pagespeed-url-hash="4255762298" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/nascar/kevin-harvick-2017-nascar-season-driver-preview">Kevin Harvick: 2017 NASCAR Season Driver Preview</a></span> </div></li>
+<li class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/nascar/dale-earnhardt-jr-2017-nascar-season-driver-preview"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xEarnhardt.jpg,qitok=82AtbWJZ.pagespeed.ic.WdrZu6uB4L.jpg" alt="Dale Earnhardt Jr.: 2017 NASCAR Season Driver Preview" title="Dale Earnhardt Jr.: 2017 NASCAR Season Driver Preview" data-pagespeed-url-hash="258321110" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/nascar/dale-earnhardt-jr-2017-nascar-season-driver-preview">Dale Earnhardt Jr.: 2017 NASCAR Season Driver Preview</a></span> </div></li>
+<li class="views-row views-row-4 views-row-even views-row-last">
+<div class="views-field views-field-field-feautred-image"> <div class="field-content"><a href="/nascar/75-funny-fantasy-nascar-team-names-2017"><img src="/sites/athlonsports.com/files/styles/meganav_rect/public/xNascar,P20Fantasy.jpg,qitok=GMhpqs7J.pagespeed.ic.bXk5YTkm9e.jpg" alt="Funny Fantasy NASCAR Team Names" title="Funny Fantasy NASCAR Team Names" data-pagespeed-url-hash="1790404371" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a></div> </div>
+<div> <span><a href="/nascar/75-funny-fantasy-nascar-team-names-2017">75 Funny Fantasy NASCAR Team Names for 2017</a></span> </div></li>
+</ul></div> </div>
+</div> </li>
+</ul>
+</div>
+<div id="nav-mobile-more" class="nav-content" style="display:none">
+<ul class="athlon-mobile-menu">
+<li class="mobile-home-menu"><a class="home no-sub" href="/">HOME</a>
+<a class="login no-sub" href="/user">LOGIN</a>
+</li>
+<li><a class="ncaaf-menu sub" href="" data-track-event="ncaaf-menu-nav-content">COLLEGE FOOTBALL</a>
+<div class="ncaaf-menu-nav-content two-tier" style="display:none">
+<ul class="links"><li class="menu-7626 first"><a href="/college-football">NCAAF Home</a></li><li class="menu-7631"><a href="/college-football/teams">Teams</a></li><li class="menu-7634"><a href="http://www.athlonsports.com/galleries/college-football">Galleries</a></li><li class="menu-9071"><a href="/podcast">Cover 2 Podcast</a></li><li class="menu-7627 last"><a href="http://athlonsports.collegeexpertsclub.com">Pick&#039;em, Play Now!</a></li></ul> </div>
+</li>
+<li><a class="nfl-menu sub" href="" data-track-event="nfl-menu-nav-content">NFL</a>
+<div class="nfl-menu-nav-content two-tier" style="display:none">
+<ul class="links"><li class="menu-7648 first"><a href="/nfl">NFL Homepage</a></li><li class="menu-7653"><a href="/nfl/teams">Teams</a></li><li class="menu-7658"><a href="/galleries/nfl">Galleries</a></li><li class="menu-7649 last"><a href="http://athlonsports.proexpertsclub.com/">Pick&#039;em, Play Now!</a></li></ul> </div>
+</li>
+<li><a class="fantasy-menu no-sub" href="/fantasy">FANTASY</a></li>
+<li><a class="ncaab-menu sub" href="" data-track-event="ncaab-menu-nav-content">COLLEGE BASKETBALL</a>
+<div class="ncaab-menu-nav-content two-tier" style="display:none">
+<ul class="links"><li class="menu-7618 first"><a href="/college-basketball">NCAAB Home</a></li><li class="menu-7621"><a href="/college-basketball/teams">Teams</a></li><li class="menu-7624"><a href="http://athlon.bracketbreakdown.com/">Bracket Breakdown</a></li><li class="menu-7625 last"><a href="/galleries/college-basketball">Galleries</a></li></ul> </div>
+</li>
+<li><a class="mlb-menu sub" href="" data-track-event="mlb-menu-nav-content">MLB</a>
+<div class="mlb-menu-nav-content two-tier" style="display:none">
+<ul class="links"><li class="menu-7640 first"><a href="/mlb">MLB Home</a></li><li class="menu-7644"><a href="/mlb/teams">Teams</a></li><li class="menu-7647"><a href="/galleries/mlb">Galleries</a></li><li class="menu-9345 last"><a href="http://amglifestylestore.com/p-2002-athlon-sports-baseball.aspx">Buy Magazine</a></li></ul> </div>
+</li>
+<li><a class="nascar-menu sub" href="" data-track-event="nascar-menu-nav-content">NASCAR</a>
+<div class="nascar-menu-nav-content two-tier" style="display:none">
+<ul class="links"><li class="menu-7660 first"><a href="/nascar">NASCAR Home</a></li><li class="menu-7668"><a href="http://www.athlonsports.com/galleries/nascar">Galleries</a></li><li class="menu-8765"><a href="/nascar/daytona-500">Daytona 500</a></li><li class="menu-9346 last"><a href="http://amglifestylestore.com/p-1980-athlon-sports.aspx">Buy Magazine</a></li></ul> </div>
+</li>
+<li><a class="life-menu no-sub" href="/life">Life</a></li>
+<li><a class="magazines-menu no-sub" href="/magazines">Magazines</a></li>
+<li><a class="overtime-menu no-sub" href="/overtime">OverTime</a></li>
+<li><a class="store-menu no-sub" href="https://www.amglifestylestore.com/m-19-athlon-sports.aspx" rel="nofollow" target="_blank">BUY MAGAZINES</a></li>
+</ul>
+</div>
+<div id="nav-mobile-search" class="nav-content" style="display:none">
+<form action="tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+<h2 class="element-invisible">Search form</h2>
+<div class="form-item form-type-textfield form-item-search-block-form">
+<label class="element-invisible" for="edit-search-block-form--2">Search </label>
+<input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-AH18WMVTkwjdporYfeOwpdWZ6yMzr-jsZiYaglOwsGo"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form> </div>
+</div>
+<div class="nav-bar">
+<div class="nav-bar-content">
+<div class="primary-nav">
+<ul class="mobile-nav clearfix">
+<li class="athlon-logo"><a href='/'>Athlon Sports</a></li>
+<li class="left">
+<ul>
+<li id="mobile-search" class="nav-content" style="display:none">
+<form action="tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+<h2 class="element-invisible">Search form</h2>
+<div class="form-item form-type-textfield form-item-search-block-form">
+<label class="element-invisible" for="edit-search-block-form--2">Search </label>
+<input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-AH18WMVTkwjdporYfeOwpdWZ6yMzr-jsZiYaglOwsGo"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form> </li>
+<li class="mobile-more phone"><a class="mobile-more sub" href="#" data-track-event="mobile-more"><i class="icon-reorder icon-2x"></i></a></li>
+<li class="mobile search"><a class="mobile-search sub" href="" data-track-event="mobile-search"><i class="icon-search icon-2x"></i></a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="regular-nav clearfix">
+<li class="athlon-logo"><a class="no-sub" href='/'>Athlon Sports</a></li>
+<li class="left more">
+<ul>
+<li class="external-links">
+<ul>
+<li class="athlon-store"><a href="https://www.amglifestylestore.com/m-19-athlon-sports.aspx" rel="nofollow" target="_blank">Buy Your Magazine Here</a></li>
+<li class="athlon-social"><a class="athlon-social sub" href="" data-track-event="athlon-social">Social</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="right mobile-view">
+<ul>
+<li class="college-football"><a href="/college-football" class="sub" data-track-event="college-football">NCAAF</a></li>
+<li class="college-basketball"><a href="/college-basketball" class="sub" data-track-event="college-basketball">NCAAB</a></li>
+<li class="nfl"><a href="/nfl" class="sub" data-track-event="nfl">NFL</a></li>
+<li class="fantasy"><a href="/fantasy" data-track-event="fantasy">Fantasy</a></li>
+<li class="mlb"><a href="/mlb" class="sub" data-track-event="mlb">MLB</a></li>
+<li class="nascar"><a href="/nascar" class="sub" data-track-event="nascar">NASCAR</a></li>
+<li class="life"><a href="/life" data-track-event="life">Life</a></li>
+<li class="magazines"><a href="/magazines" data-track-event="magazines">Magazines</a></li>
+<li class="overtime"><a href="/overtime" class="overtime">OT</a></li>
+</ul>
+</li>
+<li class="top">
+<ul>
+<li id="nav-search" class="nav-content" style="display:none">
+<form action="tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+<h2 class="element-invisible">Search form</h2>
+<div class="form-item form-type-textfield form-item-search-block-form">
+<label class="element-invisible" for="edit-search-block-form--2">Search </label>
+<input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-AH18WMVTkwjdporYfeOwpdWZ6yMzr-jsZiYaglOwsGo"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form> </li>
+<li class="search"><a class="search" href=""><i class="icon-search"></i></a></li>
+<li class="login"><a href="/user">Log In</a>
+<ul class="usermenu-more">
+<li class="logout"><a href="/user/logout">Logout</a></li>
+</ul>
+</li>
+<li class="mobile-more tablet"><a class="mobile-more sub" href="#" data-track-event="mobile-more"><i class="icon-reorder icon-2x"></i></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">
+<div id="zone-branding" class="zone zone-branding clearfix container-24">
+<div class="grid-24 region region-branding" id="region-branding">
+<div class="region-inner region-branding-inner">
+</div>
+</div> </div>
+</div>
+<div id="zone-ad" class="zone zone-ad clearfix container-24">
+<div class="grid-24 region region-ad-horizontal" id="region-ad-horizontal">
+<div class="region-inner region-ad-horizontal-inner">
+<div class="block block-dfp block-rect-atf-center block-dfp-rect-atf-center odd block-without-title" id="block-dfp-rect-atf-center">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div id="dfp-ad-rect_atf_center_11487827711-wrapper" class="dfp-tag-wrapper"><div id="dfp-ad-rect_atf_center_11487827711" class="dfp-tag-wrapper">
+<script>(function($){$(window).on('load',function(){googletag.cmd.push(function(){googletag.display("dfp-ad-rect_atf_center_11487827711");});});})(jQuery);</script>
+</div>
+</div> </div>
+</div>
+</div> </div>
+</div> </div>
+</header>
+<section id="section-content" class="section section-content">
+<div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">
+<div id="zone-content" class="zone zone-content clearfix container-24">
+<div class="grid-17 region region-content" id="region-content">
+<div class="region-inner region-content-inner">
+<a id="main-content"></a>
+<div class="header">
+<h1 class="title" id="page-title">Tom Brady Puts Together &quot;Suspect List&quot; For Missing Jersey</h1>
+</div>
+<div id="node-112225" class="node node-news clearfix">
+<article class="node node-news node-published node-not-promoted node-not-sticky author-jasmine-watkins odd clearfix" id="node-news-112225">
+<ul class="breadcrumbs">
+<li>
+<a href="/">Home</a> /
+</li>
+<li>
+<a href="/overtime">Overtime</a> /
+</li>
+<li>
+Tom Brady Puts Together "Suspect List" For Missing Jersey </li>
+</ul>
+<div class="byline">
+By <em><a href="/users/jasmine-watkins" title="View user profile." class="username">Jasmine Watkins</a></em>, 2/22/17, 1:09 PM EST </div>
+<div class="article-image"><a href="tom-brady-suspect-list-missing-jersey-new-england-patriots-julian-edelman-lady-gaga"><img src="/sites/athlonsports.com/files/styles/article_top_img/public/xtb_1.jpg,qitok=lSoGf-tl.pagespeed.ic.48CFHkN1T1.jpg" alt="" data-pagespeed-url-hash="3319606681" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+</div>
+<div class="under-image">
+<div class="social-share">
+<div class="addthis_responsive_sharing"></div>
+</div>
+</div>
+<h3 class="subtitle">Everyone from Edelman to Lady Gaga is considered a suspect.</h3>
+<div class="content clearfix">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"> <p>Tom Brady&#39;s jersey went missing shortly after the Super Bowl and he&#39;s been on a mission to find it ever since.</p>
+<p>&nbsp;</p>
+<p>The Patriots quarterback takes a light-hearted approach to putting together a list of people who could&#39;ve taken the prized possession, valued&nbsp;by some at around $500 million. Everyone from Julian Edelman to Lady Gaga and even Scooby the dog could&#39;ve had a hand (or paw) in the crime.&nbsp;</p>
+<p>&nbsp;</p>
+<blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+<div style="padding:8px;">
+<div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;">
+<div style="background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC);display:block;height:44px;margin:0 auto -44px;position:relative;top:-22px;width:44px">&nbsp;</div>
+</div>
+<p style=" margin:8px 0 0 0; padding:0 4px;"><a href="https://www.instagram.com/p/BQ0iXp3BTJe/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Hey @edelman11 &quot;Ya suspect, yeah you! I don&#39;t know what your reputation is in this town, but after that s@?# you pulled, you can bet l&#39;ll be looking into you!&quot;</a></p>
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by Tom Brady (@tombrady) on <time datetime="2017-02-22T16:39:23+00:00" style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;">Feb 22, 2017 at 8:39am PST</time></p>
+</div>
+</blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+<p>&nbsp;</p>
+</div></div></div><div class="field field-name-field-sport-event-date field-type-datetime field-label-above"><div class="field-label">Event Date:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Wednesday, February 22, 2017 - 13:04</span></div></div></div> </div>
+<div class="clearfix">
+<nav class="links node-links clearfix"></nav>
+<div class="under-content">
+<div class="social-share">
+<div class="addthis_responsive_sharing"></div>
+</div>
+</div>
+<div class="related-links">
+<h4>You May Also Enjoy</h4>
+<ul>
+<li>
+<a href="tom-brady-jersey-stolen-after-super-bowl-li-new-england-patriots-locker-room-ebay-kraft-goodell-online">Tom Brady's Jersey Stolen After Super Bowl LI</a>
+</li>
+<li>
+<a href="/saturday-night-live-tom-brady-spoof-snl-deflategate-weekend-update">'Saturday Night Live' Spoofs Tom Brady</a>
+</li>
+<li>
+<a href="tom-brady-super-bowl-commercial-ad-li-new-england-patriots-intel-epic">Tom Brady Stars in "Epic" Super Bowl Commercial</a>
+</li>
+</ul>
+</div>
+</div>
+</article>
+<div class="zergnet-wrapper">
+<h3 class="you-might-like">More Stories:</h3>
+<div id="zergnet-widget-25729"></div>
+<div id="zergnet-widget-35398"></div>
+</div>
+<div class="must-read-one">
+<h3 class="you-might-like">You Might Also Like</h3>
+<div class="must-read-content">
+<ol>
+<li class="must-read-1">
+<a href="/galleries/hottest-fans" target="_blank"><img src="/sites/athlonsports.com/files/styles/six_pack_img/public/xHottest-Fans.jpg,qitok=FoSWzzfp.pagespeed.ic.2klqg_d8Rt.jpg" alt="" data-pagespeed-url-hash="2921621770" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+<a href="/galleries/hottest-fans" class="title" target="_blank">Sports Hottest Fans Galleries</a>
+</li>
+<li class="must-read-2">
+<a href="30-old-sports-logos-need-return" target="_blank"><img src="/sites/athlonsports.com/files/styles/six_pack_img/public/xHoustonAstros_1.jpg,qitok=hSwL5LWq.pagespeed.ic.0UIT8ucwVR.jpg" alt="" data-pagespeed-url-hash="3967134028" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+<a href="30-old-sports-logos-need-return" class="title" target="_blank">30 Old Sports Logos That Need to Return</a>
+</li>
+<li class="must-read-3">
+<a href="/college-football/top-100-college-football-players-bcs-era" target="_blank"><img src="/sites/athlonsports.com/files/styles/six_pack_img/public/xPetersonA_2.jpg,qitok=0fVmfPuY.pagespeed.ic._3HvxXyxsg.jpg" alt="" data-pagespeed-url-hash="1405022552" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+<a href="/college-football/top-100-college-football-players-bcs-era" class="title" target="_blank">Ranking the 100 Greatest Players of the BCS Era</a>
+</li>
+<li class="must-read-4">
+<a href="/college-football-rankings" target="_blank"><img src="/sites/athlonsports.com/files/styles/six_pack_img/public/xJameisWinston9_5_0.jpg,qitok=AQTIs2dM.pagespeed.ic.BlRHz6oX2v.jpg" alt="" data-pagespeed-url-hash="1964755491" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+<a href="/college-football-rankings" class="title" target="_blank">College Football&#039;s Weekly Top 128</a>
+</li>
+<li class="must-read-5">
+<a href="/galleries/cheerleaders" target="_blank"><img src="/sites/athlonsports.com/files/styles/six_pack_img/public/xHot-Oregon-cheerleader_1.jpg,qitok=yqw1P3Cd.pagespeed.ic.6UzqmKvpJu.jpg" alt="" data-pagespeed-url-hash="2017287998" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+<a href="/galleries/cheerleaders" class="title" target="_blank">Most Amazing Cheerleader Galleries</a>
+</li>
+<li class="must-read-6">
+<a href="/college-football/college-footballs-best-and-worst-logos-2013" target="_blank"><img src="/sites/athlonsports.com/files/styles/six_pack_img/public/xLogos_1.png,qitok=6E-_T_qp.pagespeed.ic.VVhF_f6ch8.jpg" alt="" data-pagespeed-url-hash="430045244" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+<a href="/college-football/college-footballs-best-and-worst-logos-2013" class="title" target="_blank">College Football&#039;s Best and Worst Logos</a>
+</li>
+</ol>
+</div>
+</div>
+<div class="crowd-ignite">
+<h3 class="links-from-around">Links From Around the Web</h3>
+<script data-cfasync="false">var _CI=_CI||{};(function(){var script=document.createElement('script');ref=document.getElementsByTagName('script')[0];_CI.counter=(_CI.counter)?_CI.counter+1:1;document.write('<div id="_CI_widget_');document.write(_CI.counter+'"></div>');script.type='text/javascript';script.src='http://widget.crowdignite.com/widgets/29513?_ci_wid=_CI_widget_'+_CI.counter;script.async=true;ref.parentNode.insertBefore(script,ref);})();</script>
+<div id='widget_powered_div' style='width: 100%; background-color: transparent;'><a href='http://crowdignite.com/account/18660' style="font: Times; color:#000000;" target="_blank">Blowing
+Up Blogs</a></div>
+</div>
+<div class="disqus-comment-block" style="clear: both;"></div>
+</div>
+</div>
+</div>
+<aside class="grid-7 region region-sidebar-second" id="region-sidebar-second">
+<div class="region-inner region-sidebar-second-inner">
+<div class="block block-dfp block-boxflex-art-atf-right block-dfp-boxflex-art-atf-right odd block-without-title" id="block-dfp-boxflex-art-atf-right">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div id="dfp-ad-boxflex_art_atf_right_11487827711-wrapper" class="dfp-tag-wrapper"><div id="dfp-ad-boxflex_art_atf_right_11487827711" class="dfp-tag-wrapper">
+<script>(function($){$(window).on('load',function(){googletag.cmd.push(function(){googletag.display("dfp-ad-boxflex_art_atf_right_11487827711");});});})(jQuery);</script>
+</div>
+</div> </div>
+</div>
+</div><div class="block block-amg-newsletter block-default-newsletter block-amg-newsletter-default-newsletter even block-without-title" id="block-amg-newsletter-default-newsletter">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div class="email-signup-wrapper"></div> </div>
+</div>
+</div><div class="block block-whatreading block-whatreading block-whatreading-whatreading odd block-without-title" id="block-whatreading-whatreading">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<h3 class="whatreading-title">What We're Reading</h3>
+<div class="whatreading-wrapper">
+<ul>
+<li class="row-1">
+<a href="/college-football/40-favorite-college-football-cheerleaders-2013" class="image" target="_blank">
+<img src="/sites/athlonsports.com/files/styles/16x9_small/public/xWash_1_1.jpg,qitok=FTtcCSZt.pagespeed.ic.q5AerYvXzn.jpg" alt="" data-pagespeed-url-hash="2082660195" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> </a>
+<a href="/college-football/40-favorite-college-football-cheerleaders-2013" class="title" target="_blank">40 Amazing College Cheerleaders</a>
+</li>
+<li class="row-2">
+<a href="/galleries/cheerleaders" class="image" target="_blank">
+<img src="/sites/athlonsports.com/files/styles/16x9_small/public/xCheerleaderGalleries.jpg,qitok=V5BsnifO.pagespeed.ic.gHgBIj5dHr.jpg" alt="" data-pagespeed-url-hash="4183381847" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> </a>
+<a href="/galleries/cheerleaders" class="title" target="_blank">College Football&#039;s Best Cheerleader Galleries</a>
+</li>
+<li class="row-3">
+<a href="/college-football/what-if-college-football-coaches-were-star-wars-characters#2" class="image" target="_blank">
+<img src="/sites/athlonsports.com/files/styles/16x9_small/public/xStarWarsGraphic_1.jpg,qitok=ICoeRMkG.pagespeed.ic.Tu1PRl5Ryi.jpg" alt="" data-pagespeed-url-hash="3156151851" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> </a>
+<a href="/college-football/what-if-college-football-coaches-were-star-wars-characters#2" class="title" target="_blank">If College Football Coaches Were Star Wars Characters</a>
+</li>
+<li class="row-4">
+<a href="http://amzn.to/2kkXztB" class="image" target="_blank">
+<img src="/sites/athlonsports.com/files/styles/16x9_small/public/xMLB_Preview_Ad_2.jpg,qitok=vdZi-t9C.pagespeed.ic.oNlw9_PnK_.jpg" alt="" data-pagespeed-url-hash="1584098996" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> </a>
+<a href="http://amzn.to/2kkXztB" class="title" target="_blank">Buy NOW!</a>
+</li>
+<li class="row-5">
+<a href="/nfl/ranking-best-and-worst-nfl-uniforms-2013" class="image" target="_blank">
+<img src="/sites/athlonsports.com/files/styles/16x9_small/public/xjacksonville_jaguars_uniform_2013_01_5_0.jpg,qitok=Tc2cSvwr.pagespeed.ic.1INgm7mBe_.jpg" alt="" data-pagespeed-url-hash="3367227201" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> </a>
+<a href="/nfl/ranking-best-and-worst-nfl-uniforms-2013" class="title" target="_blank">Ranking the NFL&#039;s Best and Worst Uniforms</a>
+</li>
+<li class="row-6">
+<a href="/nfl/slideshows/best-nfl-cheerleaders-2012#1" class="image" target="_blank">
+<img src="/sites/athlonsports.com/files/styles/16x9_small/public/xNFL_Cheerleader_3_2.jpg,qitok=8EdRcHMc.pagespeed.ic.s5yRMnKKTu.jpg" alt="" data-pagespeed-url-hash="2418561443" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/> </a>
+<a href="/nfl/slideshows/best-nfl-cheerleaders-2012#1" class="title" target="_blank">Hottest NFL Cheerleaders</a>
+</li>
+</ul>
+</div> </div>
+</div>
+</div><div class="block block-block block-56 block-block-56 even block-without-title" id="block-block-56">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div class="pubexchange_module" id="pubexchange_rail" data-pubexchange-module-id="1228"></div>
+<script>(function(w,d,s,id){w.PUBX=w.PUBX||{pub:"athlon_sports",discover:false,lazy:true};var js,pjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.async=true;js.src="//main.pubexchange.com/loader.min.js";pjs.parentNode.insertBefore(js,pjs);}(window,document,"script","pubexchange-jssdk"));</script> </div>
+</div>
+</div><div class="block block-dfp block-boxflex-art-btf-right-float block-dfp-boxflex-art-btf-right-float odd block-without-title" id="block-dfp-boxflex-art-btf-right-float">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div id="dfp-ad-boxflex_art_btf_right_float_11487827711-wrapper" class="dfp-tag-wrapper"><div id="dfp-ad-boxflex_art_btf_right_float_11487827711" class="dfp-tag-wrapper">
+<script>(function($){$(window).on('load',function(){googletag.cmd.push(function(){googletag.display("dfp-ad-boxflex_art_btf_right_float_11487827711");});});})(jQuery);</script>
+</div>
+</div> </div>
+</div>
+</div> </div>
+</aside> </div>
+</div></section>
+<footer id="section-footer" class="section section-footer">
+<div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">
+<div id="zone-footer" class="zone zone-footer clearfix container-24">
+<div class="grid-24 region region-footer-second" id="region-footer-second">
+<div class="region-inner region-footer-second-inner">
+<div class="block block-block block-44 block-block-44 odd block-without-title" id="block-block-44">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<span class="ad-link-footer"> <span class="ad-link-footer--item"> Athlonsports.com</span> | <a class="ad-link-footer--item" href="/cdn-cgi/l/email-protection#cfa7aaa3bf8faebba7a3a0a1bcbfa0bdbbbce1aca0a2">Support</a> | <a class="ad-link-footer--item" href="http://www.athlonmediagroup.com/contact/" rel="nofollow" target="_blank">Contact Us</a> | <a class="ad-link-footer--item" href="http://www.athlonmediagroup.com/athlon-sports/" rel="nofollow" target="_blank">Media Kit</a> | <a class="ad-link-footer--item" href="/cdn-cgi/l/email-protection#a7c5d2c0d4e7c6d3cfcbc8c9d4d7c8d5d3d489c4c8ca">Report a Bug</a> | <a class="ad-link-footer--item" href="/cdn-cgi/l/email-protection#abcecfc2dfc4d9d8ebcadfc3c7c4c5d8dbc4d9dfd885c8c4c6"> Corrections</a> | <a class="ad-link-footer--item" href="/about-us" target="_blank">About Us</a> | <a class="ad-link-footer--item" href="http://games.athlonsports.com/" target="_blank">Privacy Policy</a> | <a class="ad-link-footer--item" href="/feed/all/rss" target="_blank">RSS</a><br><span class="ad-link-footer--item">&copy; Athlon Sports Inc | All rights reserved.</span></span> </div>
+</div>
+</div> </div>
+</div> </div>
+</div></footer> </div>
+<div class="nl-signup-scrollbox loading"><div class="email-signup-wrapper"></div></div>
+<script src="/sites/all/modules/athlon/athlon_meganav,_js,_athlon_meganav.js,qolrqad+analytics,_js,_analytics_events.js,qolrqad.pagespeed.jc.8PU9P2RgIe.js"></script><script>eval(mod_pagespeed_ibzfSvmulb);</script>
+<script>eval(mod_pagespeed_sslNU9sV27);</script>
+<script src="//edge.quantserve.com/quant.js"></script>
+<script data-cfasync="false">var _sf_async_config=_sf_async_config||{};_sf_async_config.uid=17212;_sf_async_config.domain='athlonsports.com';(function(){function loadChartbeat(){window._sf_endpt=(new Date()).getTime();var e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('type','text/javascript');e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');document.body.appendChild(e);}var oldonload=window.onload;window.onload=(typeof window.onload!='function')?loadChartbeat:function(){oldonload();loadChartbeat();};})();</script>
+<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>

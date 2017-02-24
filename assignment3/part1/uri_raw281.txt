@@ -1,0 +1,2504 @@
+<!doctype html>
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!-->
+<html class="no-js" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" id="ng-app" ng-app="adage">
+<!--<![endif]-->
+<head profile="http://a9.com/-/spec/opensearch/1.1/">
+   <script>
+	window['optimizely'] = window['optimizely'] || [];
+	if (typeof adageUser != "undefined") {
+		window['optimizely'].push(["customTag", 'membership_tier', adageUser.getUserTier()]);
+	}
+</script>
+
+	<script src="//cdn.optimizely.com/js/925388773.js"></script>
+
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcHVldXGwYAVFZaAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+
+    <title>See All the Ads From Super Bowl LI, Best to Worst, A to Z | Special: Super Bowl - AdAge</title>
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, user-scalable=no" />
+    <meta property="fb:pages" content="194053120879" />
+    <!-- For Windows 8 -->
+    <meta name="application-name" content="Advertising Age"/>
+    <meta name="msapplication-TileColor" content="#000"/>
+    <meta name="msapplication-TileImage" content="assets/ico/win8-120.png"/>
+
+
+    <!-- For iPad 3 -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/ico/apple-touch-icon-144.png" />
+    <!-- For iPhone 4 -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114.png" />
+    <!-- For iPad 1-->
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72.png" />
+    <!-- For iPhone 3G, iPod Touch and Android -->
+    <link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-57.png" />
+    <!-- For everything else -->
+    <link rel="shortcut icon" href="/assets/ico/favicon.png" />
+    <!--iOS -->
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <!-- Legacy header -->
+    <meta name="apple-itunes-app" content="app-id=590091347, app-argument=https://itunes.apple.com/us/app/advertising-age/id590091347?ls=1&mt=8">
+
+    <meta name="adage_template" content="Article.php" />
+<meta name="original-source" content="http://adage.com/article/special-report-super-bowl/ads-super-bowl-li-a-z/307736/" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta property="og:title" content="See All the Ads From Super Bowl LI, Best to Worst, A to Z" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://adage.com/article/special-report-super-bowl/ads-super-bowl-li-a-z/307736/" />
+<meta name="twitter:card" value="summary">
+<meta name="twitter:site" value="@adage">
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<meta name="distribution" content="global" />
+<meta content="http://gaia.adage.com/images/bin/image/jumbo/Screen_Shot_20170205_at_9.22.46_PM.jpg" name="twitter:image" />
+<meta property="og:image" content="http://gaia.adage.com/images/bin/image/x-large/Screen_Shot_20170205_at_9.22.46_PM.jpg" />
+<link rel="image_src" href="http://gaia.adage.com/images/bin/image/x-small/Screen_Shot_20170205_at_9.22.46_PM.jpg" />
+<meta name="description" content="Relive the highs and lows of advertising&#039;s biggest day of the year." />
+<meta name="og:description" value="Relive the highs and lows of advertising&#039;s biggest day of the year." />
+<meta name="date" content="2017-02-05" />
+<meta class="swiftype" name="type" data-type="enum" content="article" />
+<meta class="swiftype" name="section" data-type="string" content="Special: Super Bowl" />
+<meta class="swiftype" name="title" data-type="string" content="See All the Ads From Super Bowl LI, Best to Worst, A to Z" />
+<meta class="swiftype" name="headline" data-type="string" content="See All the Ads From Super Bowl LI, Best to Worst, A to Z" />
+<meta class="swiftype" name="image" data-type="enum" content="http://gaia.adage.com/images/bin/image/x-large/Screen_Shot_20170205_at_9.22.46_PM.jpg" />
+<meta class="swiftype" name="description" data-type="text" content="Relive the highs and lows of advertising&#039;s biggest day of the year." />
+<meta class="swiftype" name="url" data-type="enum" content="http://adage.com/article/special-report-super-bowl/ads-super-bowl-li-a-z/307736/" />
+<meta class="swiftype" name="published_at" data-type="date" content="2017-02-05T22:30:00-05:00" />
+<meta class="swiftype" name="tags" data-type="string" content="Creativity" />
+<meta class="swiftype" name="tags" data-type="string" content="Special Report: Super Bowl" />
+<meta class="swiftype" name="tags" data-type="string" content="Sports" />
+<meta class="swiftype" name="tags" data-type="string" content="TV" />
+    <link rel="alternate" type="application/rdf+xml" href="http://adage.com/rss-feed?section_id=792&xml=RSS1" title="Advertising Age - Special Report: Super Bowl RSS Feed" />
+<link rel="alternate" type="application/atom+xml" href="http://adage.com/rss-feed?section_id=792&xml=ATOM" title="Advertising Age - Special Report: Super Bowl RSS Feed" />
+<link rel="alternate" type="application/rss+xml" href="http://adage.com/rss-feed?section_id=792&xml=RSS2" title="Advertising Age - Special Report: Super Bowl RSS Feed" />
+<link rel="canonical" href="http://adage.com/article/special-report-super-bowl/ads-super-bowl-li-a-z/307736/" />
+
+    <link rel="search" type="application/opensearchdescription+xml" href="/xml/AdAge_OpenSearch.php" title="Advertising Age" />
+    <link href="https://plus.google.com/101792368055128831913/" rel="publisher" />
+
+    <!-- css -->
+   <link href="http://gaia.adage.com/assets/css/core.css?1486753628" media="all" rel="stylesheet" type="text/css" />
+   <link href="http://gaia.adage.com/assets/css/modal.css?1466703828" media="all" rel="stylesheet" type="text/css" />
+   <link href="http://gaia.adage.com/assets/css/ribbon-messenger.css?1466703828" media="all" rel="stylesheet" type="text/css" />
+
+    <!-- ad age global js -->
+    <script type="text/javascript">var cookieDomain = 'adage.com'; </script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/libs/jquery-1.9.1.min.js?1466703826" use_min="false" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/libs/jquery.cookie.js?1466703826" use_min="false" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/user.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/user.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/redirect.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/redirect.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/init.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/init.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/script.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/script.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/plugins.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/plugins.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/adBlockDetector.js?1486753622" min_src="http://gaia.adage.com/assets/js/min/adBlockDetector.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/adBlockInit.js?1486753623" min_src="http://gaia.adage.com/assets/js/min/adBlockInit.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/ribbon-messenger.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/ribbon-messenger.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/ribbon-messenger-init.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/ribbon-messenger-init.js" use_min="true" ></script>
+    <!-- brightcove -->
+    <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+    <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/modal.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/modal.js" use_min="true" ></script>
+    <!-- sharecount beta -->
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/sharecount.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/sharecount.js" use_min="true" ></script>
+
+    <!--[if (gte IE 6)&(lte IE 8)]>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/libs/selectivizr-min.js?1466703826" use_min="false" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/ie.js?1466703825" use_min="false" ></script>
+    <![endif]-->
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+   <!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "16193073" });
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=16193073&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+   <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19574238-1']);
+  _gaq.push(['_setDomainName', '.adage.com']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_setAllowLinker', true]);
+  
+_gaq.push(['_setCustomVar',
+    1,
+    'BusinessType',
+ '00 - Not Set',
+    1
+ ]);
+    
+    _gaq.push(['_setCustomVar',
+        2,
+        'ArticleTag',
+    '|creativity|special_report_super_bowl|sports|tv|',
+        3
+     ]);
+      _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+   
+    <!-- end ad age global js -->
+
+    <!-- ad age all articles js -->
+
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/javascript.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/javascript.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/porte.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/porte.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/counter.js?1486753623" min_src="http://gaia.adage.com/assets/js/min/counter.js" use_min="true" ></script>
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/AAIndiaRedirect.js?1486753622" min_src="http://gaia.adage.com/assets/js/min/AAIndiaRedirect.js" use_min="true" ></script>
+
+    <!-- DFP Ad Implementation -->
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/dfp-ads.js?1486753628" min_src="http://gaia.adage.com/assets/js/min/dfp-ads.js" use_min="true" ></script>
+
+    <!-- ad age page specific js -->
+    <script type="text/javascript">var articleId = "307736"; var clientSidePorte = "1"</script>
+    <script type="text/javascript">var indiaRedirectEnabled = "1";</script>
+    <script src="//js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js" type="text/javascript"></script>
+
+    <script type="text/javascript">(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="http://s.moatads.com/adagecontent38Ni09a/moatcontent.js";a.parentNode.insertBefore(b,a)})();</script>
+<script type="text/javascript">var articleObj = {"articleId":"307736","tags":[{"id":"54","name":"Creativity","parent_name":"Category","url":"\/tag\/creativity\/54"},{"name":"Special Report: Super Bowl","url":"http:\/\/adage.com\/section\/special-report-super-bowl\/792"},{"id":"50","name":"Sports","parent_name":"Category","url":"\/tag\/sports\/50"},{"id":"5","name":"TV","parent_name":"Discipline","url":"\/tag\/tv\/5"}],"postDate":"2017-02-05 22:30:00","freeDays":"7","freeForever":"0","parentSection":"26","aaoc":0,"authors":[],"sections":[{"sectionName":"Special: Super Bowl","displayName":"Special Report: Super Bowl"}]}</script>
+
+    <!-- Tweet widget -->
+    <script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+
+    <!-- sharrre -->
+   <script type="text/javascript" src="http://gaia.adage.com/assets/js/min/jquery.sharrre.js?1486753637" min_src="http://gaia.adage.com/assets/js/min/jquery.sharrre.js" use_min="true" ></script>
+
+    
+
+    <script type="text/javascript" language="JavaScript">
+        $.ajax({
+            url: '/api/article/rendered_simplereach/307736',
+            dataType: 'json',
+            success: function(data, status){
+                if (status == "success") {
+                    $("#simpleReach").append(data.html);
+                }
+            }
+        });
+
+    </script>
+
+    <div id="simpleReach"></div>
+
+    <script>
+        document.addEventListener('spot-im-start-sso', function(event) {
+            var codeA = event.detail.codeA;
+            var callback = event.detail.callback;
+            window.spotImSSOCallback = callback;
+            startSSO(codeA);
+        }, false);
+
+        function startSSO(codeA) {
+            var httpRequest = new XMLHttpRequest();
+            httpRequest.onreadystatechange = function() {
+                if (httpRequest.readyState === XMLHttpRequest.DONE) {
+                    if (httpRequest.status === 200) {
+                        var codeB = httpRequest.responseText;
+                        window.spotImSSOCallback(codeB);
+                    }
+                }
+            };
+
+            if (typeof adageUser != "undefined" && adageUser.userID != null) {
+                httpRequest.open('GET', '/sso-spotim?codeA=' + codeA + '&e=' + adageUser.user.Profile.email + '&n=' + adageUser.user.Profile.firstName + ' ' + adageUser.user.Profile.lastName + '&u=' + adageUser.user.Profile.username);
+                httpRequest.send();
+            }
+        }
+    </script>
+    <script type="text/javascript">!function(t,e,n){function a(t){var  a=e.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===e.location.protocol?"https":"http")+":"+n,(t||e.body||e.head).appendChild(a)}function o(){var t=e.getElementsByTagName("script"),n=t[t.length-1];return n.parentNode} var p=o();t.spotId="sp_4GrOeURq",t.parentElement=p,a(p)}(window.SPOTIM={},document,"//www.spot.im/launcher/bundle.js");</script>
+
+    <script type="text/javascript" src="//storage.googleapis.com/cdn.pippio.com/sdk/pippio.min.js" async></script>
+
+    <!-- Crazy Egg Heat Map Tracking -->
+    <script type="text/javascript">
+    setTimeout(function(){var a=document.createElement("script");
+    var b=document.getElementsByTagName("script")[0];
+    a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0060/8637.js?"+Math.floor(new Date().getTime()/3600000);
+    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+    </script>
+</head>
+
+<body>
+
+<!-- floating nav -->
+
+<script type="text/javascript">
+//OAS configuration
+OAS_sitepage = 'www.adage.com/special_reports/special_report_super_bowl/';
+OAS_listpos = 'Position1,Position4,x91,x01,x21,x11,x02,x12,x03, Frame2,x51,x52';
+</script>
+
+
+<div class="shortcut-bar full-custom-nav-bar" data-behavior="full_custom_shortcut_bar">
+    <div class="container" data-section-id="792">
+        <p class="logo">
+            <a href="/" onclick="trackOutboundLink(this, 'Logo-shortcutbar-Link', 'Homepage', '/'); return false;">Advertising Age</a>
+        </p>
+
+        <button type="button" role="button" aria-label="Toggle Navigation" class="full-custom-menu-button">
+            <span class="burger"></span>
+        </button>
+
+        <span id="floating-nav-login">
+			<ul class="tools">
+				<li id="floating-nav-logged-in" class="user" style="display:none">
+					<a href="#" data-behavior="go_to_profile">
+						<i class="icon-user"></i>
+					</a>
+				</li>
+				<li id="floating-nav-not-logged-in" style="display:none" class="login-btn-floating-nav"><a
+                        id="adage-login" href="#" data-behavior="go_to_login"
+                        title="Login using your existing Advertising Age account">Login</a></li>
+				<li id="floating-nav-not-logged-in" style="display:none"><a
+                        href="/membership">Become a member</i></a></li>
+				<li class="search">
+					<a href="#" class="toggle"><i class="icon-search">Search</i></a>
+                    <!-- Search Form -->
+                    <div class="search-form-container">
+                        <div class="container">
+                            <div data-st-search-form="main_search_form"></div>
+                        </div>
+                    </div>
+
+                    <script type="text/liquid" id="ac_pages">
+                        <div class="ac_result">
+                            <img src="{{ result.image }}?maxw=70" />
+                            <div class="ac_headline">{{ result.headline }}</div>
+                            <div class="ac_date">{{ result.published_at | date: "%B %e, %Y" }}</div>
+                        </div>
+                    </script>
+				</li>
+			</ul>
+             <div id="shareme" data-url="http://adage.com/article/special-report-super-bowl/ads-super-bowl-li-a-z/307736/" data-text="See All the Ads From Super Bowl LI, Best to Worst, A to Z"
+                  data-title="Advertising Age"></div>
+		</span>
+    </div><!-- / .container -->
+</div><!-- / .shortcut-bar -->
+
+<script>
+    $(document).ready(function () {
+        $('#shareme').sharrre({
+            share: {
+                facebook: true,
+                twitter: true,
+                linkedin: true,
+                googlePlus: true
+            },
+            template: '<ul class="full-custom-social-links social-mini tiny" id="socialbar"><li><a href="#" class="toggle" data-target="twitter"><i class="icon-twitter">Twitter</i></a></li><li><a href="#" class="toggle" data-target="facebook"><i class="icon-facebook">Facebook</i></a></li><li><a href="#" data-target="googlePlus" class="toggle"><i class="icon-gplus">Google+</i></a></li><li><a href="#" data-target="linkedin" class="toggle"><i class="icon-linkedin">LinkedIn</i></a></li></ul>',
+            enableHover: false,
+            enableTracking: true,
+            render: function (api, options) {
+                $(api.element).on('click', 'a', function(e) {
+                    if (typeof $(this).data('target') != 'undefined') {
+                        api.openPopup($(this).data('target'));
+                        e.preventDefault();
+                    } else if ($(this).prop('href').slice(-1) != '#') {
+                        window.location = $(this).prop('href');
+                    }
+                });
+            }
+        });
+    });
+
+    var menuButton = $('.full-custom-menu-button');
+    var navMenu = $('#floating-nav-login');
+    var navMenuVisible = true;
+
+    menuButton.on('click', function() {
+        $(this).toggleClass('active');
+        navMenu.toggle();
+    });
+
+    $(window).on('resize', function() {
+        if (! navMenuVisible && ! menuButton.is(':visible')) {
+            navMenuVisible = true;
+            navMenu.show();
+            menuButton.removeClass('active');
+        } else if (navMenuVisible && menuButton.is(':visible')) {
+            navMenuVisible = false;
+            navMenu.hide();
+        }
+    });
+</script>
+
+
+
+<div class="overlay active modal-active" id="porte-overlay" style="display: none"></div>
+
+<div class="modal abs active" id="porte-reg-form-modal"  style="display: none">
+	<div class="modal-content">
+
+			<div id="registration-process">
+
+				<div class="top-strip">
+					<span>Aleady a member? <a data-behavior="go_to_login" href="#">Sign in</a></span>
+				</div><!-- / .top-strip -->
+
+				<div class="row intro">
+					<h3 class="t">Get More From Ad Age</h3>
+					<p>Register to become a member today. You'll get the essential information you need to do your job better, including</p>
+					<ul class="custom">
+						<li>7 free articles per month on Ad Age and Creativity</li>
+						<li>Ability to comment on articles and creative work </li>
+						<li>Access to 9 custom e-newsletters like Ad Age Daily, Ad Age Digital and CMO Strategy</li>
+					</ul>
+					<p>To get unlimited content and more benefits, check out our <a onclick="trackOutboundLink(this, 'Reg Modal', 'Clickthrough', 'Membership'); return false;" href="/membership">Membership</a> page</p>
+				</div><!-- / .row.intro -->
+
+				<div class="row btn-wrap">
+					<a href="#" data-behavior="go_to_register" class="btn-primary block-btn">Register Now <i class="icon-cta-white"></i></a>
+				</div><!-- / .btn-wrap -->
+
+			</div><!-- reg hide -->
+
+	</div><!-- / .modal-content -->
+</div><!-- / .modal -->
+
+
+
+<!-- Obscuring overlay & modal -->
+<div id="porte-obscure-modal" class="modal submodal">
+  <div class="modal-content">
+    <div class="row insert">
+
+    <div class="cols-four">
+          <h3 class="t alt">Want more Access, Content &amp; Connections?</h3>
+          <p>We are glad you are enjoying Advertising Age. To get uninterrupted access and additional benefits, become a member today.</p>
+
+          <p><a href="/membership" onclick="trackOutboundLink(this, 'Paywall', 'Clickthrough', 'Membership'); return false;" class="btn btn-primary block-300 porte-btn">Upgrade to Membership<i class="icon-cta-white"></i></a>
+          </p>
+    </div><!-- / .row.intro -->
+
+    <div class="cols-four">
+		<div class="porte-ad">
+			<figure>
+
+			</figure>
+		</div>
+	</div>
+
+	</div>
+	<div class="porte paywall">
+		<p class="help">Already a member? <a data-behavior="go_to_login" href="#">Log in</a> or go back to the <a href="/">homepage</a>.</p>
+	</div>
+  </div><!-- / .modal-content -->
+</div>
+
+<div id="porte-obscure-overlay" class="paywall-obscure-overlay"></div>
+
+
+
+
+<div class="overlay active modal-active" id="adblock-overlay" style="display: none"></div>
+
+<div class="modal abs active" id="adblock-modal"  style="display: none">
+	<div class="modal-content adblock-modal-content">
+
+			<div>
+
+				<div class="row intro">
+				    <p>Hey, there.</p>
+					<p>It looks like you're using an ad blocker.</p>
+					<p>The news and features are funded in part by our advertisers. To support Ad Age and the industry we cover please either:</p>
+					<div class="btn-wrap">
+						<a href="/membership" class="btn-primary block-btn">SUBSCRIBE</a>
+						<span>or</span>
+                        <a href="/whitelist" class="btn-primary block-btn">WHITELIST US</a>
+                    </div><!-- / .btn-wrap -->
+                    <div class="adage-tredmark"></div>
+				</div><!-- / .row.intro -->
+
+
+			</div>
+
+	</div><!-- / .modal-content -->
+</div><!-- / .modal -->
+
+
+<article id="main" class="full-custom-container" data-channel="Special Reports" data-section="Special Report: Super Bowl"><adage_no_lookbook_links />
+<style type="text/css">.bannerad {
+        margin: 0 auto;
+        clear: both;
+        position: relative;
+        width: 980px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+
+    }
+  
+  
+  
+  .sblogo {
+    float: left;
+    width: 10%;
+    margin-left: 130px;
+    margin-top: -10px;
+  }
+  .sblogo img {
+    width:100%;
+  }
+  
+  
+  .headline {
+  
+      font-family: "TiemposHeadline-Black","Tiempos Headline Black",Georgia,"Times New Roman",Times,serif;
+    font-size: 35px;
+    max-width: 750px;
+    margin: 0 auto;
+    line-height: 1.3;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .intro {
+font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+        max-width: 660px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+    font-weight: 300;
+    padding-top: 7px;
+  }
+  
+  
+     .ad img {
+        margin: 0 auto;
+
+    }
+  
+  .ad {
+    width:100%;
+  }
+  
+  
+  .video-body {
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+  
+      .credits {
+        font-size: 14px;
+        color: #999;
+        border-top: solid 1px #d3d3d3;
+        padding-top: 10px;
+        margin: 20px;
+        width: 1200px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+        margin-top: 40px;
+    }
+  
+  .brightcove-html5-container.video-js {
+    margin-bottom: 20px;
+}
+  
+  
+  #video-first {
+  float: left;
+    width: 54%;
+    margin-left: 30px;
+    margin-bottom: 60px;
+  }
+  
+  
+#video-second {
+    float: left;
+    width: 39%;
+    margin-left: 30px;
+    margin-top: 15px;
+    border-bottom: 2px solid #d3d3d3;
+	padding-bottom: 20px;
+}
+  
+  
+  #video-list figure {
+width: 45%;
+    padding-right: 10px;
+    float: left;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+        height: 250px;
+  }
+  
+ 
+  
+  #video-list figure img:first-child {
+    width: 100%;
+  }
+  
+  #current-video-tweet {
+float: right;
+    height: 21px;
+    width: 57px;
+    padding-right: 5px;
+    margin-top: 2px;
+}
+
+  
+  #video-list {
+    width: 100%;
+    height: 411px;
+    padding: 0px 10px 10px 0px;
+    position: relative;
+    margin: 15px 0 7px 0;
+    overflow: auto;
+    clear: both;
+  }
+
+
+
+
+#current-video-info-box #current-video-title{
+    font-size: 17px;
+    padding-bottom: 12px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    padding-top: 5px;
+    text-transform: uppercase;
+    color: #999;
+    letter-spacing: 0.05em;
+}
+
+#current-video-info-box #current-marketer-title{
+    font-family: "TiemposHeadline-medium",Georgia,"Times New Roman",Times,serif;
+    margin-bottom: 15px;
+    font-size: 35px;
+    font-weight: 300;
+    color: #111;
+    padding-top: 5px;
+}
+
+
+#current-video-rating {
+	padding-top: 0px;
+}
+
+
+#super-bowl-search-box form input {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 15px;
+	color: #000;
+	font-weight: normal;
+	background: none;
+	margin-left: 0px;
+	border-bottom: none;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background-color: #ededed;
+	padding: 11px;}
+
+	#video-nav-box {
+    font-family: Helvetica,Arial,sans-serif;
+    width: 100%;
+    height: 20px;
+    padding: 0px 0px 13px 0px;
+    border-bottom: 2px solid #d3d3d3;
+    font-weight: 500;
+    clear: both;
+	}
+
+	
+
+#current-video-info-box #current-video-agency {
+    font-family: Helvetica,Arial,sans-serif;
+    color: #111;
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    margin-top: 0px;
+    line-height: 1.2em;
+    font-style: italic;
+	}
+
+
+	#current-video-info-box {
+    clear:both;
+        width: 640px;
+	}
+
+	#super-bowl-search-box {
+		position: relative;
+		bottom: 18px;
+		width: 155px;
+		float: right;
+		right: 17px;
+		margin-right: 10px;
+	}
+
+
+
+
+	#sort-selector {
+    float: left;
+    margin-top: -9px;
+    padding: 0px 0px 0 0px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 0px;
+    padding-left: 10px;
+	}
+
+	#video-nav-box a {
+		cursor: pointer;
+		color: #2cc4ff;
+		margin-bottom: 0px;
+		padding: 9px;
+	}
+
+	#ratings-sort{
+		padding-left: 10px;
+	}
+	.sort-unselected {
+		font-size: 100%;
+		color: #2cc4ff;
+		position: relative;
+	}
+
+	.sort-selected {
+		font-weight: 600;
+		font-size: 100%;
+		background-color: #2cc4ff;
+		color: #fff !important;
+	}
+  
+  #tabinstructions {
+    float: left;
+    margin-top: -8px;
+    font-family: Helvetica,verdana,sans-serif;
+    text-transform: none;
+    font-size: 15px;
+    color: #909090;
+    padding: 0 0px 0 0px;
+    position: relative;
+    font-weight: 800;
+    margin-left: 5px;
+}
+
+  .bcls-thumbnail img:first-child {
+      float: none;
+    width: 290px;
+    padding-right: 10px;
+  }
+  
+  .bcls-thumbnail figcaption {
+    font-size: 13px;
+    padding-top: 3px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #999;
+    letter-spacing: 0.05em;
+  }
+  
+  .bcls-thumbnail h2 { 
+    color: #222;
+    line-height: 1.3em;
+    font-family: "TiemposHeadline-medium",Georgia,"Times New Roman",Times,serif;
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-top: 9px;
+  }
+  
+  
+  .bcls-thumbnail h3 {
+font-family: Helvetica,Arial,sans-serif;
+    color: #111;
+    font-size: 14px;
+    margin-bottom: 7px;
+    margin-top: 4px;
+    line-height: 1.2em;
+    font-style: italic;
+  }
+  
+  
+   @media only screen and (min-width : 1201px){
+     .sblogo img:hover{
+    opacity: 0.8;
+      cursor:pointer;
+  }
+    
+    
+     #video-list figure:hover {
+    background-color: #f6f6f6;
+  }
+    
+    
+  }
+  
+  @media only screen and (min-width : 769px) and (max-width : 1200px) {
+  
+    .sblogo {
+    float: left;
+    width: 15%;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+    
+    
+    .bannerad {
+            max-width: 100%;
+            padding-top: 30px;
+            padding-bottom: 30px;
+
+        }
+    
+    .video-body {
+      max-width:640px;
+    }
+    
+    .credits {
+     max-width:640px;
+    }
+    
+    #video-first {
+        float: none;
+    width: 100%;
+          margin-bottom: 40px;
+          margin-left: 0px;
+    }    
+    
+    #video-second {
+        float: none;
+    width: 100%;
+          margin-left: 0px;
+    }
+    
+    #video-list {
+  height: 100%;
+      white-space: nowrap;
+    overflow: auto;
+    }
+    
+    #video-list figure {
+        float: none;
+    width: 30%;
+    margin: 0 auto;
+          display: inline-block;
+          padding-left: 0px;
+          vertical-align: middle;
+          white-space: normal;
+    }
+    
+    
+  }
+
+
+	@media only screen and (min-width : 479px) and (max-width : 768px) {
+  .video-body {
+max-width: 440px;
+    }
+    
+    .brightcove-html5-container.video-js {
+    width: 440px !important;
+    height: 247.5px;
+}
+    
+    .credits {
+    max-width: 440px;
+    }
+    
+    #current-video-tweet {
+    margin-top: 5px;
+}
+    
+    .headline {
+    font-size: 30px;}
+
+    
+    .intro {
+    font-size: 17px;
+    padding-bottom: 40px;
+}
+    
+    .sblogo {
+    width: 20%;
+    margin-right: 5px;
+          margin-left: 0px;
+}
+       .bannerad {
+            width: 100%;
+            padding-top: 30px;
+            padding-bottom: 30px;
+
+        }
+
+    
+    #current-video-info-box {
+    clear: both;
+    width: 440px;
+}
+    
+    #video-first {
+    float: none;
+    width: 100%;
+    margin-bottom: 40px;
+    margin-left: 0px;
+    }    
+    
+    #video-second {
+        float: none;
+    width: 100%;
+          margin-left: 0px;
+    }
+    
+    #video-list {
+  height: 100%;
+      white-space: nowrap;
+    overflow: auto;
+    }
+    
+    
+    #current-video-info-box #current-marketer-title {
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+    
+    #current-video-info-box #current-video-title {
+    font-size: 16px;
+    padding-bottom: 7px;
+    padding-top: 5px;
+}
+    
+    #current-video-info-box #current-video-agency {
+    font-size: 16px;
+    margin-bottom: 7px;
+    margin-top: 0px;
+}
+    
+    #tabinstructions {
+    font-size: 14px;
+}
+    
+    #sort-selector {
+    font-size: 14px;
+}
+    
+    #super-bowl-search-box form input {
+    font-size: 14px;
+}
+    
+    #video-list figure {
+    float: none;
+        width: 40%;
+    margin: 0 auto;
+          display: inline-block;
+          padding-left: 0px;
+        vertical-align: middle;
+          white-space: normal;
+}
+    
+    
+
+		}
+
+		@media only screen and (max-width : 478px) {
+
+.sblogo {
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 30%;
+    margin-left: 0px;
+      margin-top:0px;
+}
+
+    .intro {
+    font-size: 16px;
+    line-height: 1.5;
+    padding-bottom: 30px;
+}
+    
+     .bannerad {
+            width: 330px;
+            padding-top: 30px;
+            padding-bottom: 30px;
+
+        }
+    
+	 .video-body {
+max-width: 300px;
+    }
+    
+    .credits {
+    max-width: 300px;
+    }
+    
+    #current-video-info-box {
+    clear: both;
+    width: 300px;
+}
+    
+    #video-first {
+    float: none;
+    width: 100%;
+    margin-bottom: 25px;
+    margin-left: 0px;
+    }    
+    
+    .brightcove-html5-container.video-js {
+    margin-bottom: 10px;
+}
+    
+    #video-second {
+        float: none;
+    width: 100%;
+          margin-left: 0px;
+    }
+    
+#video-list {
+    height: 100%;
+    white-space: nowrap;
+    overflow: auto;
+          margin: 5px 0 7px 0;
+}
+    #current-video-info-box #current-marketer-title {
+    margin-bottom: 5px;
+    font-size: 22px;
+}
+    
+    #current-video-info-box #current-video-title {
+    font-size: 15px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+    
+    #current-video-info-box #current-video-agency {
+    font-size: 15px;
+    margin-bottom: 4px;
+    margin-top: 0px;
+}
+    
+    #tabinstructions {
+ font-size: 13px;
+      margin-left:0px;
+}
+    
+    #sort-selector {
+font-size: 13px;
+}
+    
+    #super-bowl-search-box form input {
+    font-size: 13px;
+          padding: 8px;
+}
+    
+#video-list figure {
+    float: none;
+    width: 60%;
+    margin: 0 auto;
+    display: inline-block;
+          padding-left: 0px;
+        vertical-align: middle;
+          white-space: normal;
+}
+    
+    #video-nav-box a {
+    padding: 7px;
+}
+    
+#super-bowl-search-box {
+    position: static;
+    float: none;
+    right: 0px;
+    margin-right: 0px;
+    clear: left;
+    padding-top: 15px;
+}
+    
+    #video-nav-box {
+    height: 100%;
+}
+    
+    
+    .headline {
+      font-size:24px;
+    }
+    
+    .sp_button {
+      display:none;
+    }
+
+
+			}
+</style>
+ <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script> <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script> <script>
+
+</script> <script language="JavaScript" type="text/javascript" src="http://adage.com/scripts/edit/js/super-bowl-2013/jquery.sortElements.js"></script> <script language="JavaScript" type="text/javascript" src="http://adage.com/scripts/edit/js/super-bowl-2013/jquery.placeholdize.min.js"></script> <script language="JavaScript" type="text/javascript" src="http://adage.com/scripts/edit/js/super-bowl-2013/jquery.scrollTo-1.4.2-min.js"></script> <script language="JavaScript" type="text/javascript" src="http://adage.com/scripts/edit/js/super-bowl-2013/jquery.localscroll-1.2.7-min.js"></script>
+<div class="bannerad">
+<div class="ad">
+<div id="LB_01"> </div>
+</div>
+</div>
+
+<div class="video-body">
+<div class="headline">See All the Ads From Super Bowl LI, Best to Worst, A to Z</div>
+
+<div class="sblogo"><a href="http://adage.com/special-reports/superbowl/148" target="_blank"><img src="http://gaia.adage.com/images/bin/image/SB_SR_button20161108.jpeg" /></a></div>
+
+<div class="intro">Relive the highs and lows of advertising's biggest day of the year. And read Nat Ives' complete Super Bowl LI ad review <a href="http://adage.com/article/special-report-super-bowl/super-bowl-ad-review/307853/" target="_blank">right here</a>. Follow Ad Age on <a href="https://twitter.com/adage" targer="_blank">Twitter</a>.</div>
+
+<div class="video-box">
+<div id="video-first">
+<div id="video-embed-holder">
+<video class="video-js brightcove-html5-container" controls="" data-account="377748811" data-application-id="" data-embed="default" data-player="BkeObTWBe" data-video-id="5306680865001" id="video-player"> </video>
+<script src="//players.brightcove.net/377748811/BkeObTWBe_default/index.min.js"></script><script>
+$(function () {
+    var videoInfo = [
+
+        {
+            id: 5306680865001,
+            title: 'Gentlemen',
+            marketer: 'Bai Brands',
+            agency: 'In-house',
+            thumbnail: 'Bai_-_Jentlemen_17',
+            rating: '4',
+            hash: 'Gentlemen'
+        },
+
+        {
+            id: 5306709654001,
+            title: 'Yearbooks',
+            marketer: 'Honda',
+            agency: 'RPA',
+            thumbnail: 'SB51_Honda_Yearbooks',
+            rating: '4',
+            hash: 'Yearbooks'
+        },
+                     {
+            id: 5311585929001,
+            title: 'Four More Years',
+            marketer: "It's a 10 Hair Care",
+            agency: 'Havas Edge and Hungry Man Productions',
+            thumbnail: 'hair20170205',
+            rating: '4',
+            hash: 'FourMoreYears'
+        },
+        {
+            id: 5300207723001,
+            title: 'Cleaner Of Your Dreams',
+            marketer: 'Mr. Clean',
+            agency: 'Leo Burnett Toronto',
+            thumbnail: '_Mr_Clean-_Cleaner_of_Your_Dreams_17',
+            rating: '4',
+            hash: 'CleanerOfYourDreams'
+        },
+
+
+        {
+            id: 5302861022001,
+            title: 'Calling JohnMalkovich.com',
+            marketer: 'Squarespace',
+            agency: 'JohnXHannes',
+            thumbnail: 'Squarespace_-_Calling_JohnMalkovich_17',
+            rating: '4',
+            hash: 'CallingJohnMalkovichCom'
+        },
+
+
+        {
+            id: 5308111257001,
+            title: 'The Journey Begins',
+            marketer: '84 Lumber',
+            agency: 'Brunner',
+            thumbnail: '84lumber20170202',
+            rating: '3-half',
+            hash: 'TheJourneyBegins'
+        },
+        
+          {
+            id: 5315985532001,
+            title: "Finger Lick",
+            marketer: 'Amazon Alexa',
+            agency: 'In-house',
+            thumbnail: 'Super_Bowl_LI__Amazon_Alexa__Finger_Lick',
+            rating: '3-half',
+            hash: 'FingerLick'
+        },
+        
+         {
+            id: 5315975008001,
+            title: "Buster",
+            marketer: 'Amazon Alexa',
+            agency: 'In-house',
+            thumbnail: 'Super_Bowl_LI__Amazon_Alexa__Buster',
+            rating: '3-half',
+            hash: 'Buster'
+        },
+        
+         {
+            id: 5315977431001,
+            title: "My Girl",
+            marketer: 'Amazon Alexa',
+            agency: 'In-house',
+            thumbnail: 'Super_Bowl_LI__Amazon_Alexa__My_Girl',
+            rating: '3-half',
+            hash: 'MyGirl'
+        },
+
+        {
+            id: 5307092557001,
+            title: 'Secret Society',
+            marketer: 'Avocados From Mexico',
+            agency: 'GSD&M',
+            thumbnail: 'Avocados_From_Mexico-_Big_Game_2017_Commercial',
+            rating: '3-half',
+            hash: 'SecretSociety'
+        },
+
+        {
+            id: 5307468097001,
+            title: 'Ghost Spuds',
+            marketer: 'Bud Light',
+            agency: 'Wieden & Kennedy New York',
+            thumbnail: 'BudLightSuperBowlImage1722',
+            rating: '3-half',
+            hash: 'GhostSpuds'
+        },
+
+        {
+            id: 5309557581001,
+            title: "Easy Rider",
+            marketer: 'Mercedez-Benz',
+            agency: 'Merkley and Partners, Antoni of Berlin',
+            thumbnail: 'Super_Bowl_51__Mercedes__Easy_Driver_17',
+            rating: '3-half',
+            hash: 'EasyRider'
+        },
+        
+                {
+            id: 5311664392001,
+            title: "Old West",
+            marketer: 'Snickers',
+            agency: 'BBDO',
+            thumbnail: 'SNICKERS_Presents_A_Live_Super_Bowl_Commercial_30',
+            rating: '3-half',
+            hash: 'OldWest'
+        },
+        
+        
+        
+        {
+            id: 5309480600001,
+            title: "#Punished",
+            marketer: 'T-Mobile',
+            agency: 'Publicis Seattle',
+            thumbnail: 'Super_Bowl_51__TMobile__Punished',
+            rating: '3-half',
+            hash: 'Punished'
+        },
+        {
+            id: 5309477884001,
+            title: "#NSFWireless",
+            marketer: 'T-Mobile',
+            agency: 'Publicis Seattle',
+            thumbnail: 'Super_Bowl_51__TMobile__NSFWireless',
+            rating: '3-half',
+            hash: 'NSFWireless'
+        },
+                {
+            id: 5309915620001,
+            title: "Bradshaw Stain",
+            marketer: 'Tide',
+            agency: 'Saatchi & Saatchi',
+            thumbnail: 'Super_Bowl_51__Bradshaw_Stain_17',
+            rating: '3-half',
+            hash: 'BradshawStain'
+        },
+        
+        {
+            id: 5309937701001,
+            title: "Restain",
+            marketer: 'Tide',
+            agency: 'Saatchi & Saatchi',
+            thumbnail: 'Super_Bowl_51_-_Tide_-_Restain_17',
+            rating: '3-half',
+            hash: 'Restain'
+        },
+
+
+
+
+        {
+            id: 5307928853001,
+            title: '#DisruptiveWorld',
+            marketer: 'Wix.com',
+            agency: 'internal',
+            thumbnail: 'Super_Bowl_51_-_Wix.com_-_DisruptiveWorld_17',
+            rating: '3-half',
+            hash: 'DisruptiveWorld'
+        },
+
+
+        {
+            id: 5306489436001,
+            title: 'Daughter',
+            marketer: 'Audi',
+            agency: 'Venables Bell & Partners',
+            thumbnail: 'Audi_-_Daughter_17_th',
+            rating: '3',
+            hash: 'Daughter'
+        },
+
+        {
+            id: 5304707643001,
+            title: 'Born the Hard Way',
+            marketer: 'Budweiser',
+            agency: 'Anomaly',
+            thumbnail: 'Super_Bowl_51__Budweiser__Born_The_Hard_Way_17',
+            rating: '3',
+            hash: 'BornTheHardWay'
+        },
+
+        {
+            id: 5302827578001,
+            title: 'Go Further',
+            marketer: 'Ford',
+            agency: 'GTB',
+            thumbnail: 'Supe_Bowl_51_-_Ford_-_Go_Further_17',
+            rating: '3',
+            hash: 'GoFurther'
+        },
+        {
+            id: 5305937715001,
+            title: 'Heroes Journey',
+            marketer: 'Kia',
+            agency: 'David & Goliath',
+            thumbnail: 'Kia_Niro20170131',
+            rating: '3',
+            hash: 'HeroesJourney'
+        },
+        {
+            id: 5308657735001,
+            title: 'Our Bar',
+            marketer: 'Michelob Ultra',
+            agency: 'FCB Chicago',
+            thumbnail: 'Super_Bowl_51__Michelob_Ultra__Our_Bar_17',
+            rating: '3',
+            hash: 'OurBar'
+        },
+        
+           {
+            id: 5310682325001,
+            title: 'Tacos',
+            marketer: 'Sprite',
+            agency: 'Wieden & Kennedy New York',
+            thumbnail: 'SB51_SPRITE_TACOS1_3X2222',
+            rating: '3',
+            hash: 'Tacos'
+        },
+        
+        
+        {
+            id: 5307919580001,
+            title: '#UnlimitedMoves',
+            marketer: 'T-Mobile',
+            agency: 'Publicis Seattle',
+            thumbnail: 'Super_Bowl_51_-_T-Mobile_-_UnlimitedMoves_17',
+            rating: '3',
+            hash: 'UnlimitedMoves'
+        },
+
+
+  {
+            id: 5311502759001,
+            title: 'We Accept',
+            marketer: 'Airbnb',
+            agency: 'In-house',
+            thumbnail: 'bnb20170205',
+            rating: '2-half',
+            hash: 'WeAccept'
+        }
+        ,
+          
+               {
+            id: 5311388433001,
+            title: 'Mozzafiato',
+            marketer: 'Alfa Romeo',
+            agency: 'Doner',
+            thumbnail: 'Super_Bowl_51_-_Alfa_Romeo_Giulia_-_Mozzafiato',
+            rating: '2-half',
+            hash: 'Mozzafiato'
+        },
+
+
+        {
+            id: 5305545651001,
+            title: 'Buschhhhh',
+            marketer: 'Busch',
+            agency: 'Deutsch New York',
+            thumbnail: 'Super_Bowl_51__Busch__BUSCHHHHH_17',
+            rating: '2-half',
+            hash: 'Buschhhhh'
+        },
+        
+         {
+            id: 5310682324001,
+            title: 'Love Story',
+            marketer: 'Coca-Cola',
+            agency: 'Fitzco/McCann Atlanta',
+            thumbnail: 'SB51_Coke_LoveStory_3x2222',
+            rating: '2-half',
+            hash: 'LoveStory'
+        },
+        
+        
+        {
+            id: 5305482013001,
+            title: 'Good Morning',
+            marketer: 'GoDaddy',
+            agency: 'Bullish',
+            thumbnail: 'GoDaddy-_Good_Morning_17',
+            rating: '2-half',
+            hash: 'GoodMorning'
+        },
+        {
+            id: 5308620417001,
+            title: 'Man & Machine',
+            marketer: 'Lexus',
+            agency: 'Team One',
+            thumbnail: 'Lexus_Man_and_Machine_17',
+            rating: '2-half',
+            hash: 'ManMachine'
+        },
+        
+                 {
+            id: 5311357369001,
+            title: 'Inside These Lines',
+            marketer: 'NFL',
+            agency: 'Translation',
+            thumbnail: 'Super_Bowl_51_-_NFL_-_Inside_These_Lines',
+            rating: '2-half',
+            hash: 'InsideTheseLines'
+        },
+
+
+        {
+            id: 5294006009001,
+            title: 'Romance',
+            marketer: 'Skittles',
+            agency: 'Adam & Eve/DDB',
+            thumbnail: 'Skittles_Romance_Super_Bowl_spot_17',
+            rating: '2-half',
+            hash: 'Romance'
+        },
+
+        {
+            id: 5307092646001,
+            title: 'Humpty Hospital',
+            marketer: 'TurboTax',
+            agency: 'Wieden & Kennedy',
+            thumbnail: 'Super_Bowl_51__TurboTax__Humpty_Hospital_17',
+            rating: '2-half',
+            hash: 'HumptyHospital'
+        },
+        
+          {
+            id: 5311359201001,
+            title: 'Dear Predictable',
+            marketer: 'Alfa Romeo',
+            agency: 'The Richards Group',
+            thumbnail: 'Super_Bowl_51_-_Alfa_Romeo_Giulia_-_Dear_Predictable',
+            rating: '2',
+            hash: 'DearPredictable'
+        },
+
+        {
+            id: 5305577924001,
+            title: 'Pee Wee',
+            marketer: 'Buick',
+            agency: 'EngageM-1',
+            thumbnail: 'Supe_Bowl_51__Buick__Pee_Wee_17',
+            rating: '2',
+            hash: 'PeeWee'
+        },
+
+
+        {
+            id: 5300270272001,
+            title: "America's Halftime Bathroom Break",
+            marketer: 'Febreze',
+            agency: 'Grey',
+            thumbnail: '_Febreze-_Americas_Halftime_Bathroom_Break_17',
+            rating: '2',
+            hash: 'AmericasHalftimeBathroomBreak'
+        },
+
+
+        {
+            id: 5309913761001,
+            title: "Google Home",
+            marketer: 'Google',
+            agency: '72andSunny',
+            thumbnail: 'Super_Bowl_51_-_Google_-_Google_Home_17_update',
+            rating: '2',
+            hash: 'GoogleHome'
+        },
+        {
+            id: 5277132547001,
+            title: 'Brady Everyday',
+            marketer: 'Intel',
+            agency: 'McGarryBowen',
+            thumbnail: 'Intel_-_Brady_Everyday_17',
+            rating: '2',
+            hash: 'BradyEveryday'
+        },
+
+
+        {
+            id: 5305071441001,
+            title: 'Colonel vs. Colonel',
+            marketer: 'KFC',
+            agency: 'Wieden & Kennedy',
+            thumbnail: 'Super_Bowl_51__KFC__Colonel_vs._Colonel_17',
+            rating: '2',
+            hash: 'ColonelvsColonel'
+        },
+        {
+            id: 5305173270001,
+            title: 'False Cabinet',
+            marketer: "King's Hawaiian",
+            agency: 'Levit Agency',
+            thumbnail: 'Kings_Hawaiian-_False_Cabinet_17',
+            rating: '2',
+            hash: 'FalseCabinet'
+        },
+
+        {
+            id: 5305598663001,
+            title: 'Inspiration Drops',
+            marketer: 'Lifewtr',
+            agency: 'Hustle, Chicago (R/GA)',
+            thumbnail: 'Super_Bowl_51__LIFEWTR_Inspiration_Drops_17',
+            rating: '2',
+            hash: 'InspirationDrops'
+        },
+        {
+            id: 5308445495001,
+            title: 'Super Bowl Baby Legends',
+            marketer: 'NFL',
+            agency: 'Grey',
+            thumbnail: 'NFLLegacyStill20170202',
+            rating: '2',
+            hash: 'SuperBowlBabyLegends'
+        },
+
+        {
+            id: 5306489434001,
+            title: 'Always Exploring',
+            marketer: 'Nintendo',
+            agency: 'Leo Burnett',
+            thumbnail: 'LZBOTW_TVC_220170201',
+            rating: '2',
+            hash: 'AlwaysExploring'
+        },
+
+
+        {
+            id: 5308455671001,
+            title: '10 Dimensions',
+            marketer: 'Persil ProClean',
+            agency: 'TBWA',
+            thumbnail: 'Super_Bowl_51__Persil_ProClean__10_Dimensions_17',
+            rating: '2',
+            hash: '10Dimensions'
+        },
+        
+                  {
+            id: 5312750262001,
+            title: 'Manifesto',
+            marketer: 'Turkish Airlines',
+            agency: 'M&C Saatchi/Istanbul',
+            thumbnail: 'turkish20170206',
+            rating: '2',
+            hash: 'Manifesto'
+        }
+        ,
+
+        {
+            id: 5307952378001,
+            title: 'Tech Team',
+            marketer: 'WeatherTech',
+            agency: 'Pinnacle Advertising',
+            thumbnail: 'Super_Bowl_51_-_WeatherTech_-_Tech_Team_17',
+            rating: '2',
+            hash: 'TechTeam'
+        },
+
+        {
+            id: 5302823561001,
+            title: 'Cold Storage',
+            marketer: "Wendy's",
+            agency: 'VML',
+            thumbnail: 'Super_Bowl_51_-_Wendys_-_Cold_Storage_17',
+            rating: '2',
+            hash: 'ColdStorage'
+        },
+        
+         {
+            id: 5311388432001,
+            title: 'Riding Dragons',
+            marketer: 'Alfa Romeo',
+            agency: 'Art Machine',
+            thumbnail: 'Super_Bowl_51_-_Alfa_Romeo_-_Riding_Dragon',
+            rating: '1-half',
+            hash: 'RidingDragons'
+        },
+        
+                   
+               {
+            id: 5311579691001,
+            title: 'Power Past',
+            marketer: 'American Petroleum Institute',
+            agency: 'GSD&M',
+            thumbnail: 'Screen_Shot_20170205_at_9.22.46_PM',
+            rating: '1-half',
+            hash: 'PowerPast'
+        },
+
+
+        {
+            id: 5309371105001,
+            title: "Future",
+            marketer: 'H&R Block',
+            agency: 'Fallon',
+            thumbnail: 'Super_Bowl_51_-_H&R_Block_-_Future',
+            rating: '1-half',
+            hash: 'Future'
+        },
+        
+        
+        {
+            id: 5310575283001,
+            title: "I Need You",
+            marketer: 'Michelin',
+            agency: 'TBWA/Chiat/Day',
+            thumbnail: 'michelin_super_bowl_321200',
+            rating: '1-half',
+            hash: 'INeedYou'
+        },
+        
+        
+                
+        {
+            id: 5311585959001,
+            title: "Arnold's One-Liners",
+            marketer: 'Mobile Strike',
+            agency: '215McCann',
+            thumbnail: 'Official_Mobile_Strike_Super_Bowl_51_TV_Commercial_Arnold',
+            rating: '1-half',
+            hash: 'ArnoldOneLiners'
+        },
+        
+        
+                
+        {
+            id: 5321635424001,
+            title: "Towel Drop",
+            marketer: 'Proactiv',
+            agency: 'In-house',
+            thumbnail: 'Proactiv__Olivia_Munn_Towel_Drop_17',
+            rating: '1-half',
+            hash: 'TowelDrop'
+        },
+        
+        {
+            id: 5321650739001,
+            title: "Together",
+            marketer: 'SoFi',
+            agency: 'In-house',
+            thumbnail: 'Super_Bowl_51__SoFi__Together',
+            rating: '1-half',
+            hash: 'Together'
+        },
+
+
+
+        {
+            id: 5309480594001,
+            title: "#BagofUnlimited",
+            marketer: 'T-Mobile',
+            agency: 'Publicis Seattle',
+            thumbnail: 'Super_Bowl_51__TMobile__BagofUnlimited_',
+            rating: '1-half',
+            hash: 'BagofUnlimited'
+        },
+
+
+        {
+            id: 5307897523001,
+            title: 'The Battle For Evony',
+            marketer: 'Top Games',
+            agency: 'Butler, Shine, Stern & Partners',
+            thumbnail: '_Top_Games-_The_Battle_of_Evony_17',
+            rating: '1-half',
+            hash: 'TheBattleForEvony'
+        },
+
+
+        {
+            id: 5306310057001,
+            title: 'Treadmill',
+            marketer: 'Wonderful Pistachios',
+            agency: 'Wonderful Agency (internal)',
+            thumbnail: 'Wonderful_Pistachios__Ernie_Gets_Physical_17',
+            rating: '1-half',
+            hash: 'Treadmill'
+        },
+             {
+            id: 5310734719001,
+            title: 'Real Awful Moms',
+            marketer: 'World of Tanks',
+            agency: 'Mekanism',
+            thumbnail: 'Super_Bowl_51_-_World_of_Tanks_-Real_Awful_Moms',
+            rating: '1-half',
+            hash: 'RealAwfulMoms'
+        },
+             {
+            id: 5310734718001,
+            title: 'Teensy House Buyers',
+            marketer: 'World of Tanks',
+            agency: 'Mekanism',
+            thumbnail: '_Super_Bowl_51_-_World_of_Tanks_-Teensy_House_Buye',
+            rating: '1-half',
+            hash: 'TeensyHouseBuyers'
+        },
+
+
+        {
+            id: 5300093202001,
+            title: "Nature's Gift",
+            marketer: 'Fiji Water',
+            agency: 'Wonderful Agency (internal)',
+            thumbnail: 'FIJI_Water_-_Natures_Gift_17',
+            rating: '1',
+            hash: 'NaturesGift'
+        },
+        
+       
+        
+                {
+            id: 5311647321001,
+            title: "The Walking Dead - Football is Over",
+            marketer: 'AMC',
+            agency: 'In-house',
+            thumbnail: 'walkingdead20170205',
+            rating: '0',
+            hash: 'TheWalkingDead'
+        },
+
+        {
+            id: 5309328196001,
+            title: "The Handmaid's Tale",
+            marketer: 'Hulu',
+            agency: 'In-house',
+            thumbnail: 'Super_Bowl_51__Hulu__The_Handmaids_Tale_222',
+            rating: '0',
+            hash: 'TheHandmaidsTale'
+        },
+        
+                {
+            id: 5311585932001,
+            title: "Stranger Things 2",
+            marketer: 'Netflix',
+            agency: 'In-house',
+            thumbnail: 'Stranger_Things_2__Super_Bowl_2017_Ad',
+            rating: '0',
+            hash: 'StrangerThings2'
+        },
+
+
+        {
+            id: 5307882910001,
+            title: "Ghost in the Shell",
+            marketer: 'Paramount',
+            agency: 'In-house',
+            thumbnail: 'SB51_Paramount_GhostInTheShell3_3x2233',
+            rating: '0',
+            hash: 'GhostInTheShell'
+        },
+
+
+        {
+            id: 5309907423001,
+            title: "Transformers: The Last Knight",
+            marketer: 'Paramount',
+            agency: 'In-house',
+            thumbnail: 'Super_Bowl_51_-_Paramount_-_Transformers_The_Last_Knight',
+            rating: '0',
+            hash: 'TransformersTheLastKnight'
+        },
+                {
+            id: 5310664529001,
+            title: 'Life',
+            marketer: 'Sony Pictures',
+            agency: '',
+            thumbnail: 'SB51_SonyPictures_Life_3x2_11200',
+            rating: '0',
+            hash: 'Life'
+        },
+
+
+        {
+            id: 5306844970001,
+            title: 'Car',
+            marketer: 'Sprint',
+            agency: 'Droga5',
+            thumbnail: 'Sprint---Car-17',
+            rating: '0',
+            hash: 'Car'
+        }
+        
+        
+
+            
+
+       
+            
+      
+
+    ];
+    
+
+    videojs("video-player").ready(function () {
+        var
+            videos = [],
+            videoIndex = [],
+            player = this,
+            i,
+            counter = 0,
+            list = 0,
+            videoList = document.getElementById('video-list'),
+            fragment = document.createDocumentFragment();
+
+
+        /**
+         * Called when videos array is populated
+         * Creates a figure/img/caption element block that to be injected into the DOM
+         */
+        function configureVideoList() {
+            for (var x = 0; x < videoInfo.length; x++) {
+                // add elements for the thumbnail display
+                var figure = document.createElement('figure'),
+                    caption = document.createElement('figcaption'),
+                    marketer = document.createElement('h2'),
+                    agency = document.createElement('h3'),
+                    rating = document.createElement('img'),
+                    thumbnail = document.createElement('img'),
+                    videoName;
+
+                // attach the index of this video object to the figure element
+                figure.setAttribute('data-video-index', x);
+                figure.setAttribute('class', 'bcls-thumbnail');
+                // set properties for the thumbnail and caption elements and put the figure together
+                caption.setAttribute('class', 'video-title');
+                marketer.setAttribute('class', 'video-marketer');
+                agency.setAttribute('class', 'video-agency');
+                thumbnail.setAttribute('class', 'video-thumbnail');
+                thumbnail.setAttribute('thumbnail', videoInfo[x].thumbnail);
+
+                rating.setAttribute('class', 'video-rating');
+                rating.setAttribute('data-rating', videoInfo[x].rating);
+
+                videoName = document.createTextNode(videoInfo[x].title);
+                marketerName = document.createTextNode(videoInfo[x].marketer);
+                agencyName = document.createTextNode(videoInfo[x].agency);
+
+                if (videoInfo[x].rating == "0") {
+
+                    rating.src = '/images/bin/image/stars' + videoInfo[x].rating + '.png';
+                }
+
+                else {
+
+                    rating.src = '/images/bin/image/stars-' + videoInfo[x].rating + '-2.png';
+
+                }
+
+
+                thumbnail.src = '/images/bin/image/' + videoInfo[x].thumbnail + '.jpg';
+
+                caption.appendChild(videoName);
+                agency.appendChild(agencyName);
+                marketer.appendChild(marketerName);
+                figure.appendChild(thumbnail);
+                figure.appendChild(marketer);
+                figure.appendChild(caption);
+                figure.appendChild(agency);
+                figure.appendChild(rating);
+
+                figure.addEventListener('click', playVideo);
+
+                // add the figure to the document fragment
+                fragment.appendChild(figure);
+                // now that the thumbnail display is complete, add it to the DOM
+                videoList.appendChild(fragment);
+            }
+            //Put first video in video array list in player
+            var selectedVideoIndex = 0;
+            var hash = window.location.hash.substr(1);
+
+            if (hash) {
+
+                for (var i = 0; i < videoInfo.length; i++) {
+                    if (videoInfo[i].hash == hash) {
+                        selectedVideoIndex = i;
+                    }
+                }
+            }
+
+            setVideoAttributes(selectedVideoIndex);
+
+            player.catalog.getVideo(videoInfo[selectedVideoIndex].id, function (error, video) {
+                    // handle error here
+                    //addVideoToList(i, video);
+                    player.catalog.load(video);
+                    // player.play();
+                });
+            //player.catalog.load(videoInfo[selectedVideoIndex]);
+            //player.play();
+
+        }
+
+        var videosLoaded = false;
+
+
+        /**
+         * event handler for click events on the thumbnails - loads and plays the associated video
+         */
+        function playVideo() {
+            var videoIndex = parseInt(this.getAttribute('data-video-index'));
+
+                    setVideoAttributes(videoIndex);
+
+            player.catalog.getVideo(videoInfo[videoIndex].id, function (error, video) {
+                    // handle error here
+                    //addVideoToList(i, video);
+                    player.catalog.load(video);
+                    player.play();
+                });
+
+            
+        }
+configureVideoList();
+        // retrieve the video objects
+        /*for (i = 0; i < videoInfo.length; i++) {
+            (function (i, vid) {
+                player.catalog.getVideo(vid.id, function (error, video) {
+                    
+                    // handle error here
+                    addVideoToList(i, video);
+                });
+            })(i, videoInfo[i]);
+
+        }*/
+
+        /**
+         * adds a retrieved video to an array so that it can loaded later
+         */
+       /* function addVideoToList(i, video) {
+            // save the returned video object in the videos array
+            
+            videos.push(video);
+            videoIndex.push(i);
+            
+            
+            if (videos.length == videoInfo.length) {
+            
+                videosLoaded = true;
+                configureVideoList();
+            }
+        }*/
+
+        function setVideoAttributes(videoIndex) {
+            var video = videoInfo[videoIndex];
+            var marketer = video.marketer;
+            var agency = video.agency;
+            var title = video.title;
+
+
+            var rating = video.rating;
+
+
+            window.location.hash = video.hash;
+
+            var encodedURL = encodeURIComponent(window.location);
+
+   if (marketer == "Wix.com") {
+              
+	         var twitterUrl = "//platform.twitter.com/widgets/tweet_button.html?url=" + encodedURL + "&count=none&via=adage&counturl=" + encodedURL + "&related=adage&size=large&hashtags=SuperBowl&via=adage&text=Watch the Spot: " + marketer + " - %23" + "DisruptiveWorld";              
+              }
+              
+              else {if (title == "#UnlimitedMoves") {
+              
+               var twitterUrl = "//platform.twitter.com/widgets/tweet_button.html?url=" + encodedURL + "&count=none&via=adage&counturl=" + encodedURL + "&related=adage&size=large&hashtags=SuperBowl&via=adage&text=Watch the Spot: " + marketer + " - %23" + "UnlimitedMoves"; 
+              
+              }
+              
+              else {if (title == "#BagofUnlimited") {
+              
+                         var twitterUrl = "//platform.twitter.com/widgets/tweet_button.html?url=" + encodedURL + "&count=none&via=adage&counturl=" + encodedURL + "&related=adage&size=large&hashtags=SuperBowl&via=adage&text=Watch the Spot: " + marketer + " - %23" + "BagofUnlimited"; 
+              
+              }
+              
+              else {
+              
+              if (title == "#Punished") {
+                             var twitterUrl = "//platform.twitter.com/widgets/tweet_button.html?url=" + encodedURL + "&count=none&via=adage&counturl=" + encodedURL + "&related=adage&size=large&hashtags=SuperBowl&via=adage&text=Watch the Spot: " + marketer + " - %23" + "Punished"; 
+              
+              
+              
+              }
+              
+            else {
+              
+              if (title == "#NSFWireless") {
+              
+                                 var twitterUrl = "//platform.twitter.com/widgets/tweet_button.html?url=" + encodedURL + "&count=none&via=adage&counturl=" + encodedURL + "&related=adage&size=large&hashtags=SuperBowl&via=adage&text=Watch the Spot: " + marketer + " - %23" + "NSFWireless"; 
+              
+              }
+              
+              
+              else {
+              
+              if (marketer == "Lexus"){
+              
+              
+               var twitterUrl = "//platform.twitter.com/widgets/tweet_button.html?url=" + encodedURL + "&count=none&via=adage&counturl=" + encodedURL + "&related=adage&size=large&hashtags=SuperBowl&via=adage&text=Watch the Spot: " + marketer + " - " + "Man %26 Machine"; 
+              
+              
+              }
+              
+        
+             else 
+             
+             
+          if (title == "Future"){
+              
+              
+               var twitterUrl = "//platform.twitter.com/widgets/tweet_button.html?url=" + encodedURL + "&count=none&via=adage&counturl=" + encodedURL + "&related=adage&size=large&hashtags=SuperBowl&via=adage&text=Watch the Spot: " + "H%26R Block" + " - " + title; 
+              
+              
+              }
+              
+              else {
+              { var twitterUrl = "//platform.twitter.com/widgets/tweet_button.html?url=" + encodedURL + "&count=none&via=adage&counturl=" + encodedURL + "&related=adage&size=large&hashtags=SuperBowl&via=adage&text=Watch the Spot: " + marketer + " - " + title;              
+              }
+                }
+                
+                }
+              }
+              }
+                    }
+              }
+
+
+            $('#twitFrame').prop('src', twitterUrl);
+            $('#current-marketer-title').html(marketer);
+            $('#current-video-title').html(title);
+            $('#current-video-agency').html(agency);
+            $('#current-marketer-title').html(marketer);
+
+            if (rating == "0") {
+
+                $('#current-video-rating img').prop('src', '/images/bin/image/stars' + rating + '.png');
+            }
+
+            else {
+
+
+                $('#current-video-rating img').prop('src', '/images/bin/image/stars-' + rating + '-2.png');
+
+            }
+
+        }
+
+    });
+
+
+	var videoContainer = $('#video-list');
+    
+    
+
+    
+	$('#search input').on('keyup', function(e) {
+          
+          var val = $(this).val().toLowerCase();
+     	 var videos = videoContainer.find('figure');
+          
+		if (val.length > 2) {
+       
+             
+               videos.each(function() {
+                    var title = $(this).find('.video-title').html().toLowerCase();
+                    var marketer = $(this).find('.video-marketer').html().toLowerCase();
+                    var agency = $(this).find('.video-agency').html().toLowerCase();
+              
+               
+               	   if (title.indexOf(val) === -1 && marketer.indexOf(val) === -1 && agency.indexOf(val) === -1) {
+               	        $(this).fadeOut(400);
+                	} else {
+                         $(this).fadeIn(400);
+                    }
+               });
+          } else {
+              videos.fadeIn(400);
+          }
+	});
+    
+    
+    
+    $('#ratings-sort').on('click', function() {
+    	if ($(this).hasClass('sort-selected')) { 
+           return;
+        }
+        
+        var vids = videoContainer.find('figure');
+        
+        
+        $(this).addClass('sort-selected');
+        $(this).removeClass('sort-unselected');
+        
+        $('#marketer-sort').addClass('sort-unselected');
+        $('#marketer-sort').removeClass('sort-selected');
+    
+        var videos = vids.sort(function(a,b) {
+            var ratingA = String($(a).find('.video-rating').data('rating')).replace('-half', '.5');
+            var ratingB = String($(b).find('.video-rating').data('rating')).replace('-half', '.5');
+             return ratingB - ratingA;
+        });
+            
+    
+        $('#video-list').html(videos);
+    });
+    
+    $('#marketer-sort').on('click', function() {
+    if ($(this).hasClass('sort-selected')) { 
+           return;
+        }
+        
+        var vids = videoContainer.find('figure');
+                
+        $(this).addClass('sort-selected');
+        $(this).removeClass('sort-unselected');
+        
+        $('#ratings-sort').addClass('sort-unselected');
+        $('#ratings-sort').removeClass('sort-selected');
+    
+        var videosb = vids.sort(function(a, b)         {     
+            var marketerA = $(a).find('.video-marketer').text().toLowerCase();
+            var marketerB = $(b).find('.video-marketer').text().toLowerCase();
+            
+            return marketerA.localeCompare(marketerB);
+        });
+        
+        var seen = {};
+        
+        videosb.each(function() {
+            var title = $(this).find('.video-title').text()
+            if (seen[title]) {
+                $(this).remove();
+            } else {
+                seen[title] = true;
+            }
+        });
+            
+        $('#video-list').html(videosb);
+});
+
+});
+      
+        
+
+
+	</script></div>
+
+<div id="current-video-info-box">
+<div id="current-video-tweet"><iframe allowtransparency="true" frameborder="0" id="twitFrame" scrolling="no" src="//platform.twitter.com/widgets/tweet_button.html?url=http://adage.com/article/special-report-super-bowl/ads-super-bowl-50-a-z/302443/&count=none&via=adage&counturl=http://adage.com/article/special-report-super-bowl/ads-super-bowl-50-a-z/302443/&related=adage&size=large&hashtags=superbowl&text=See All the Ads From Super Bowl 50, Best to Worst, A to Z: "></iframe></div>
+
+<div id="current-marketer-title"> </div>
+
+<div id="current-video-title"> </div>
+
+<div id="current-video-agency"> </div>
+
+<div id="current-video-rating"><img alt="4" src="http://adage.com/images/bin/image/stars-4-2.png" /></div>
+</div>
+</div>
+
+<div id="video-second">
+<div id="video-nav-box">
+<div id="tabinstructions">Sorted by:</div>
+
+<div id="sort-selector"><a class="sort-selected" id="ratings-sort">Rating</a> <a class="sort-unselected" id="marketer-sort">Brand</a></div>
+
+<div class="clearfix" id="super-bowl-search-box">
+<form id="search" name="search" onsubmit="return false"><input autocomplete="off" id="search_phrase" name="search_phrase" placeholder="Type to search spots..." /> </form>
+</div>
+</div>
+
+<div id="video-list"> </div>
+</div>
+</div>
+</div>
+
+<div class="bannerad" style="padding-top: 60px;">
+<div class="ad">
+<div id="LB_03"> </div>
+</div>
+</div>
+
+<div class="credits">Web production: Chen Wu.</div>
+<script>
+
+ 
+</script></article>
+<div class="wp-wrapper grey">
+    <div id="maxwidth">
+        <section class="module-caps subscribe">
+            <div class="container border-top">
+                <header>
+                    <strong>Become a Member</strong>
+                </header>
+
+                <ul class="inline">
+                    <li><a href="/membership" title="Register Now">Register Now</a></li>
+                    <li><a href="https://sec.crain.com/AA/Login.aspx?ReturnUrl=%2fAA%2fCustomers%2fSiteSubscriptions.aspx" onclick="trackCrossDomainClick(this, 'Become a member footer', 'Desktop', 'renew'); return false;" title="Renew">Renew</a></li>
+                    <li><a href="/help/subscribe" title="Membership Benefits">Membership Benefits</a></li>
+                    <li><a href="/datacenter" title="Datacenter">Datacenter</a></li>
+                </ul>
+
+                <img src="http://adage.com/assets/images/footer-subscribe-devices-white.png" alt="" class="align-center">
+            </div><!-- / .container -->
+        </section><!-- / .module-caps.subscribe -->
+    </div>
+</div>
+
+<!-- START SiteCatalyst -->
+<script type="text/javascript">
+var s_account="crainadage";
+
+function getCookie(name) {
+  var value = "; " + document.cookie;
+  var parts = value.split("; " + name + "=");
+  if (parts.length == 2) return parts.pop().split(";").shift();
+}
+
+var s_loggedInCookie = 'CSDemos';
+
+var s_firstPartyTracking = true;
+</script>
+<script language="JavaScript" type="text/javascript" src="http://crain-global.s3.amazonaws.com/s_crainsc.js">
+
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s_crainsc.pageName = "/article/special-report-super-bowl/ads-super-bowl-li-a-z/307736/";
+s_crainsc.channel = "adage_news";
+s_crainsc.prop1 = s_crainsc.eVar1 = "special_report_super_bowl";
+s_crainsc.prop2 = s_crainsc.eVar2 = "special_report_super_bowl";
+s_crainsc.prop5 = s_crainsc.prop6 = "adage_news:special_report_super_bowl:article";
+s_crainsc.prop25 = s_crainsc.eVar27 = "special_report_super_bowl";
+s_crainsc.prop26 = s_crainsc.eVar28 = "20170205"; // the article's post date
+s_crainsc.prop27 = s_crainsc.eVar29 = "";
+s_crainsc.prop28 = s_crainsc.eVar30 = "article:307736";
+s_crainsc.prop29 = s_crainsc.eVar31 = "article";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s_crainsc.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="//crain.d1.sc.omtrdc.net/b/ss/crainadage/1/H.24.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- END SiteCatalyst -->
+
+
+
+<footer id="page-footer" role="contentinfo">
+	<div class="container">
+		<p class="logo-white">
+			<a href="/">Advertising Age</a>
+		</p>
+
+		<p class="strap">&nbsp;<br />&nbsp;</p>
+
+		<ul class="social">
+			<li>
+				<a href="http://www.facebook.com/AdAge" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Facebook', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-facebook">Facebook</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://twitter.com/adage" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Twitter', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-twitter">Twitter</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://www.linkedin.com/company/advertising-age?trk=top_nav_home" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'LinkedIn', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-linkedin">LinkedIn</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://plus.google.com/101792368055128831913/?prsrc=3" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Google Plus', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-gplus">Google+</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://www.pinterest.com/advertisingage" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Pinterest', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-pinterest">Pinterest</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://instagram.com/advertisingage" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Instagram', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-instagram">Instagram</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://www.youtube.com/AdAge" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'YouTube', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-youtube">YouTube</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://adage.tumblr.com" onclick="trackOutboundLink(this, 'Footer-Social-Icons', 'Tumblr', this.getAttribute('href')); return false;" target="_new">
+					<span class="icon-tumblr">Tumblr</span>
+				</a>
+			</li>
+		</ul><!-- / .social -->
+
+		<hr />
+
+		<nav id="nav-footer">
+
+			<ul>
+				<li><small>Copyright &copy; 1994-2017</small></li>
+				<li><a href="http://www.crain.com/" title="Crain Communications">Crain Communications</a></li>
+<li><a href="/privacy" title="Privacy Statement">Privacy Statement</a></li>
+<li><a href="/terms/" title="Terms of Use">Terms of Use</a></li>
+<li><a href="/help/about-us" title="About Us">About Us</a></li>
+<li><a href="/help/advertise" title="Advertise">Advertise</a></li>
+<li><a href="/help/reprints" title="Reprints">Reprints</a></li>
+<li><a href="/help/contact-us" title="Contact Us">Contact Us</a></li>
+
+			</ul>
+
+		</nav><!-- / #nav-footer -->
+	</div><!-- / .container -->
+</footer><!-- / #page-footer -->
+
+
+<aside id="sub-footer">
+	<div class="container">
+		<nav id="nav-subfooter">
+			<ul>
+					
+
+	<li class="nav-item-AD AGE"><a href="http://adage.com" title="AD AGE"><span>AD AGE</span></a></li>
+
+	
+
+	<li class="nav-item-Creativity"><a href="http://creativity-online.com" title="Creativity"><span>Creativity</span></a></li>
+
+	
+
+	<li class="nav-item-LookBook"><a href="http://adage.com/lookbook/" title="LookBook"><span>LookBook</span></a></li>
+
+	
+
+	<li class="nav-item-Datacenter"><a href="http://adage.com/datacenter/" title="Datacenter"><span>Datacenter</span></a></li>
+
+	
+
+	<li class="nav-item-Resources"><a href="http://adage.com/resources/" title="Resources"><span>Resources</span></a></li>
+
+	
+
+	<li class="nav-item-Events"><a href="http://adage.com/events/" title="Events"><span>Events</span></a></li>
+
+	
+
+	<li class="nav-item-Jobs"><a href="http://jobs.adagetalentworks.com/" title="Jobs"><span>Jobs</span></a></li>
+
+	
+
+	<li class="nav-item-On Campus"><a href="http://adage.com/adage-on-campus/" title="On Campus"><span>On Campus</span></a></li>
+
+
+			</ul>
+		</nav>
+		<p class="credits">Site by <a href="http://area17.com">AREA 17</a></p>
+
+	</div>
+</aside><!-- / #sub-footer -->
+
+<!-- Total time: 1487005558.78 --><!-- Custom Audience Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '473036029510636');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=473036029510636&ev=PageView&noscript=1"/></noscript>
+<!-- End Custom Audience Pixel Code -->
+
+
+<!--adblock-->
+<img src="//dbg52463.moatads.com?a=2c4108ffdb9c4b859aa0999767de9160" style="display:none;">
+<img src="//d5i9o0tpq9sa1.cloudfront.net?a=2c4108ffdb9c4b859aa0999767de9160" style="display:none;">
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = 'D85DCECE96FB418B';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+
+<!-- adding tracking pixelcode -->
+<script src="https://api.b2c.com/api/init-105ksyb0ql3ef21itif.js" data-cfasync="false" async></script>
+<noscript><img src="https://api.b2c.com/api/noscript-105ksyb0ql3ef21itif.gif"></noscript> 
+
+
+
+<!-- EOL -->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-fbFZFDIZ_p3uo"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-fbFZFDIZ_p3uo.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript">
+var _sf_async_config={uid:25465,domain:"adage.com"};
+_sf_async_config.useCanonical = true;
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+
+   <script>
+    var swiftype_key = '9Vb8tQqGzsf13b3nkdnR';
+    var swiftype_superbowl_key = 'ReLrduzwDDiyKP-PE35T';
+    var dateTo;
+</script>
+<script src="/assets/js/min/swiftype-components.js"></script>
+<script src="/assets/js/min/swiftype-config.js"></script>
+<script type="text/javascript">
+    SwiftypeComponents.onReady(function() {
+        SwiftypeComponents.Dispatcher.run("search", [{
+            type: 'add_filter_range',
+            data: {
+                field: 'published_at',
+                from: dateFrom,
+                to: dateTo
+            },
+            update_results: true
+        }]);
+
+        var firstLoad = true;
+
+        SwiftypeComponents.stores.search.parameter.on("arguments_changed", function() {
+            if (! firstLoad) {
+                var top = $('.search-results-container').offset().top;
+                top = ($('.shortcut-bar').css('display') == 'none') ? top : top - $('.shortcut-bar').outerHeight();
+
+                $('html, body').animate({
+                    scrollTop: top
+                }, 400);
+            }
+
+            firstLoad = false;
+        });
+
+        SwiftypeComponents.stores.superbowl.parameter.on("arguments_changed", function() {
+            if (! firstLoad) {
+                var top = $('.superbowl-header').offset().top - 20;
+
+                $('html, body').animate({
+                    scrollTop: top
+                }, 400);
+            }
+
+            firstLoad = false;
+        });
+
+        SwiftypeComponents.react.mountAll();
+    }); 
+</script>
+
+    <script type="text/javascript" src="//s.swiftypecdn.com/cc/9Vb8tQqGzsf13b3nkdnR.js"></script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9ca448880a","applicationID":"5007852","transactionName":"YVRaYUEFWUVWAE0KDFgebUdaS1ZEQwpaDwYYQVBF","queueTime":0,"applicationTime":88,"ttGuid":"","agentToken":"","atts":"TRNZFwkfSks=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+<script>
+  if (typeof adageUser != "undefined" && adageUser.userID != null) {
+    var context = new Pippio.Context(1944);
+    context.addEmail(adageUser.user.Profile.email);
+    Pippio.sync(context);
+  }
+/*
+  function myCallback(result) {
+    console.log(adageUser.user.Profile.email);
+    console.log(result);
+  }
+  Pippio.queryGraph(context, myCallback);
+*/
+</script>
+
+
+</html>

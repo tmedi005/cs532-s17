@@ -1,0 +1,16 @@
+   #[1]alternate [2]alternate
+
+   Team Stream
+   Bleacher Report
+   Your Teamʼs News First! Get your teamʼs news and scores from across the
+   web in one place with personalized streams that sends alerts as soon as
+   stories break. Be the first to know all your teamʼs news!
+   See this content immediately after install
+
+   [3]Get The App
+
+References
+
+   1. ios-app://418075935/teamstream/open?link_click_id=link-347163109422979185
+   2. android-app://com.bleacherreport.android.teamstream/teamstream/open?link_click_id=link-347163109422979185
+   3. file:///home/tmedina/cs432/assignment3/part1/{{action}}

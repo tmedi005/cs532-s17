@@ -1,0 +1,144 @@
+   IFRAME: [1]//www.googletagmanager.com/ns.html?id=GTM-55K9HD
+
+   ____________________
+   (*) ALL of these words
+   ( ) This EXACT phrase
+   ( ) ANY of these words
+   [Category_____]
+   ____________________
+   [Proximity________________]
+   ____________________
+   ____________________
+
+                               (BUTTON) SEARCH
+
+   ____________________ Submit
+
+                               ADVANCED SEARCH
+
+   MENU (BUTTON)
+   [2]EXPLORE
+     * [3]EXPLORE ALL
+     *
+
+     * [4]GET THE APP
+     * [5]SUBMIT STORY
+     * [6]Login
+
+     [7]Explore
+
+     [8]About
+
+     [9]Viewfind Grants
+
+     [10]Viewfind Brands
+
+
+     * [11]About
+     * [12]Contact
+     * [13]FAQ
+     * [14]Contributor Benefits
+     *
+     * [15]ViewFind Grants
+     * [16]ViewFind Brands
+     *
+     * [17]Terms of Use
+     * [18]Ethical Guidelines
+     * [19]Privacy Policy
+
+     *
+     * [20]Login
+
+   >
+
+     * [email.svg]
+     * [facebook.svg]
+     * [twitter.svg]
+
+   SHARE
+     * [email.svg]
+     * [facebook.svg]
+     * [twitter.svg]
+
+   (BUTTON) {{story.activePictureCount}}   PHOTOS
+
+{{story.headline}}
+
+   by {{ story.display_name }}
+   [21]Social Documentary Network
+   {{story.address}} -
+     __________________________________________________________________
+
+   (BUTTON) VIEW SLIDESHOW [{{picture.urlOriginalCDN}}]
+     __________________________________________________________________
+
+Like this story? Share it!
+
+     * [facebook.svg]
+     * [twitter.svg]
+     * [email.svg]
+     __________________________________________________________________
+
+Personal Perspective
+
+   {{ story.display_name }}
+   (BUTTON) follow
+     __________________________________________________________________
+
+   More From Viewfind
+   {{story.headline}}
+   {{story.display_name}}
+
+   [22][App_Store_Badge.svg]
+     *
+     *
+     *
+     *
+
+   [23]ABOUT [24]CONTACT [25]FAQ [26]BRANDS [27]ETHICAL GUIDELINES
+   [28]SUPPLEMENTAL TERMS [29]TERMS OF USE [30]PRIVACY
+   © Copyright ViewFind, Inc., 2017. All rights reserved.
+
+References
+
+   Visible links
+   1. file://www.googletagmanager.com/ns.html?id=GTM-55K9HD
+   2. file:///worldview
+   3. file:///worldview
+   4. https://itunes.apple.com/us/app/viewfind-visual-storytelling/id1068717213?mt=8
+   5. file:///editor
+   6. https://viewfind.com/account/login
+   7. file:///worldview
+   8. file:///about
+   9. file:///grant
+  10. http://brands.viewfind.com/
+  11. file:///about
+  12. file:///contact_us
+  13. file:///faq
+  14. file:///contributors
+  15. file:///grant
+  16. http://brands.viewfind.com/
+  17. file:///terms/terms_of_use
+  18. file:///terms/code_of_ethics
+  19. file:///terms/privacy
+  20. https://viewfind.com/account/login
+  21. http://socialdocumentary.net/
+  22. https://itunes.apple.com/us/app/viewfind-visual-storytelling/id1068717213?mt=8
+  23. https://viewfind.com/about
+  24. https://viewfind.com/contact_us
+  25. https://viewfind.com/faq
+  26. http://brands.viewfind.com/
+  27. https://viewfind.com/terms/code_of_ethics
+  28. https://viewfind.com/terms/supplemental_terms
+  29. https://viewfind.com/terms/terms_of_use
+  30. https://viewfind.com/terms/privacy
+
+   Hidden links:
+  32. https://viewfind.com/frontpage
+  33. file://localhost/search
+  34. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw262.txt
+  35. https://viewfind.com/home
+  36. https://www.facebook.com/ViewFind-834075266671405/
+  37. https://twitter.com/view_find
+  38. https://instagram.com/viewfind/
+  39. https://www.linkedin.com/company/viewfind

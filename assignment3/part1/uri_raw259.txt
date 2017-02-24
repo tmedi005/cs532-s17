@@ -1,0 +1,1918 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="no-js ie-browser lt-ie9"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie-browser ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+
+	<script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://patriotswire.usatoday.com/xmlrpc.php">
+
+	
+	<!--[if lt IE 9]>
+    <script src="https://s0.wp.com/wp-content/themes/vip/usatoday-lawrence/js/lib/html5.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="https://s0.wp.com/wp-content/themes/vip/usatoday-lawrence/ie8.css">
+	<![endif]-->
+
+	<!--[if gte IE 9]>
+	<link rel="stylesheet" type="text/css" href="https://s0.wp.com/wp-content/themes/vip/usatoday-lawrence/ie9.css">
+	<![endif]-->
+
+	
+	
+<meta name="description" content="Tom Brady&#039;s got a long list of suspects for his stolen jersey, which was valued at around $500,000." /><meta name="news_keywords" content="Tom Brady, New England Patriots, stolen, jersey, Super Bowl LI, suspect list, facebook" />
+<meta name="keywords" content="tom brady, new england patriots, stolen, jersey, super bowl li, suspect list, facebook" />
+<title>Look at Tom Brady&#8217;s &#8216;suspect board&#8217; for his stolen Super Bowl jersey | Patriots Wire</title>
+<meta name="google-site-verification" content="no3A69hVM5ut63_reMWqC5VegUmDtCMsgeO4Wh_iBY8" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=patriotswire.usatoday.com&amp;id=105974746&amp;t=1487835548&amp;back=http%3A%2F%2Fpatriotswire.usatoday.com%2F2017%2F02%2F22%2Flook-at-tom-bradys-suspect-board-for-his-stolen-jersey%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//native.sharethrough.com' />
+<link rel='dns-prefetch' href='//mtrx.go.sonobi.com' />
+<link rel='dns-prefetch' href='//usatodaysports-d.openx.net' />
+<link rel='dns-prefetch' href='//c.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//ws.sharethis.com' />
+<link rel='dns-prefetch' href='//cdn4.wibbitz.com' />
+<link rel='dns-prefetch' href='//tags.tiqcdn.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//usatpatriotswire.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Patriots Wire &raquo; Feed" href="http://patriotswire.usatoday.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Patriots Wire &raquo; Comments Feed" href="http://patriotswire.usatoday.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Patriots Wire &raquo; Look at Tom Brady&#039;s &#039;suspect board&#039; for his stolen Super Bowl jersey Comments Feed" href="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1473172720h&ver=4.6.1-RC1-38499"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJyFT8tSwzAM/CGMCc0AF4bP4Cy7wlErWR7bIdO/x2mmMOVhLp5deVe7sksyXmPFWK3MJvEcKBa7JK9iihDj6Ru79aXc2N9tTEcs9oA1gT+aM+vJvWZsc0lQV4XgngAZpcl6NkkPF9cKp5bVjdnqO5cylmLaKzSLqVML+qeerFW2O2wTXk82K9molZq7fIIfO7co+07JzgWq7uFkGJaM0ePl8xUKOOrVCaiG1UMljVfEvDFQ7lkzOtbQYDif8UX/qjqNNrA64FXwIs/D+PQ43N0Pu/HwAS2H0qE=' type='text/css' media='all' />
+<script>var googletag_cmd_push = function(o){ return googletag.cmd.push( o ); };</script><script type='text/javascript'>
+/* <![CDATA[ */
+var prebidOptions = {"timeout":"500","prebid":[{"name":"_d_banner_flex","appnexus":9357953,"indexId":148,"IndexSiteId":189635,"aolPlacement":3917894,"aolNetwork":9488.1,"rubiconAccountId":10968,"rubiconSiteId":26280,"rubiconZoneId":498710},{"name":"_d_atf_flex","appnexus":9357952,"indexId":146,"IndexSiteId":189633,"aolPlacement":3917895,"aolNetwork":9488.1,"rubiconAccountId":10968,"rubiconSiteId":26280,"rubiconZoneId":498710},{"name":"_d_btf_flex","appnexus":9358027,"indexId":147,"IndexSiteId":189634,"aolPlacement":3917896,"aolNetwork":9488.1,"rubiconAccountId":10968,"rubiconSiteId":26280,"rubiconZoneId":498710},{"name":"_mw_320x50","appnexus":9358030,"indexId":150,"IndexSiteId":189636,"aolPlacement":3917897,"aolNetwork":9488.1,"rubiconAccountId":10968,"rubiconSiteId":33144,"rubiconZoneId":498726},{"name":"_mw_300x250","appnexus":9358028,"indexId":149,"IndexSiteId":189637,"aolPlacement":3917898,"aolNetwork":9488.1,"rubiconAccountId":10968,"rubiconSiteId":33144,"rubiconZoneId":498726}],"tablet":"","mobile":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyFjlsKwjAQRTdkjJWK/RHXkqbXOrF5mEla6uqNoh9iURgYmDn3IacgyOkhd2Bpylwz4vxaa8Mr+QsQlvqoEtaW3BvW3iW49GCtb2mAyIyo+nIrRie/wAXPyYK5QAvfz0rkRsL0FzNIQemLiGC6fbmmM0qeHCnIzCr5Ts1iUFOE03gWimipK6qjPVR1s9821a7emDspA3BC'></script>
+<script type='text/javascript' src='https://mtrx.go.sonobi.com/morpheus.usatoday.1587.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://usatodaysports-d.openx.net/w/1.0/jstag?nc=7103-USA_RON&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://c.amazon-adsystem.com/aax2/amzn_ads.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript'>
+var amznAcctId = "3090";
+				try {
+					amznads.getAds( amznAcctId );
+					var key    = 'amznslots',
+					    values = amznads.getTokens(); //comma separated
+				}
+				catch(e) { /*ignore*/}
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var usatoday_gallery_ajax_object = {"publisherGA":"UA-61268516-21","sharethispubid":"fd7eb3e3-60ab-4eeb-9e7b-cb89e8ec8c83"};
+var _usmgOptions = {"ipdir":"r","gaid":"UA-61268516-21","dfpid":"","pid":"SMG_Q_OO","ads":[],"tlmurl":"http:\/\/tags.tiqcdn.com\/utag\/gci\/patriotswire\/prod\/utag.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVjkESgjAMRS9kyMDgyMbxLLEETCmlNi3I7a0L3TrsMv//9ya4BTCLT+wTpgfPrLhKwKyUlp52CC6P4hUpCIzkHEcpE1LlpGi1DPtQ8q1UsNZVU1k94R+noy2yN/zhdZIATvwEw2KywiCvowr7zBz3aibxR1En9y+uScy0H35f+vgzlLvwt/lat92l6br23Ng32huDog=='></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var utag_data = {"ssts":"sports:wires:patriotswire","priority_asset":"","blogname":"patriotswire","videoincluded":"no","platform":"desktop","contenttype":"story pages","assetid":"16847","headline":"Look at Tom Brady's 'suspect board' for his stolen Super Bowl jersey","byline":"Henry McKenna","taxonomykeywords":"New England Patriots, super bowl LI, Tom Brady"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tags.tiqcdn.com/utag/gci/patriotswire/prod/utag.js?ver=4.6.1-RC1-38499'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://usatpatriotswire.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/p7aES6-4nJ' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fpatriotswire.usatoday.com%2F2017%2F02%2F22%2Flook-at-tom-bradys-suspect-board-for-his-stolen-jersey%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fpatriotswire.usatoday.com%2F2017%2F02%2F22%2Flook-at-tom-bradys-suspect-board-for-his-stolen-jersey%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Look at Tom Brady&#039;s &#039;suspect board&#039; for his stolen Super Bowl jersey" />
+<meta property="og:url" content="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" />
+<meta property="og:description" content="Tom Brady&#8217;s got a long list of suspects for his stolen jersey, which was valued at around $500,000. While that&#8217;s serious money, Brady&#8217;s suspect list was not particularly serious. …" />
+<meta property="article:published_time" content="2017-02-22T17:12:15+00:00" />
+<meta property="article:modified_time" content="2017-02-22T23:00:44+00:00" />
+<meta property="og:site_name" content="Patriots Wire" />
+<meta property="og:image" content="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=1200" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="849" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:image:src" content="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@Patriots_Wire" />
+<meta property="article:publisher" content="https://www.facebook.com/usatodaysports" />
+<link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/eeb5801dcd861712862155f301c589e9?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/eeb5801dcd861712862155f301c589e9?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/eeb5801dcd861712862155f301c589e9?s=114" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://patriotswire.usatoday.com/osd.xml" title="Patriots Wire" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<script type="text/javascript">!function(t,e,n){function a(t){var a=e.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===e.location.protocol?"https":"http")+":"+n,(t||e.body||e.head).appendChild(a)}function o(){var t=e.getElementsByTagName("script"),n=t[t.length-1];return n.parentNode} var p=o();t.spotId="sp_4SJEOR9T",t.parentElement=p,a(p)}(window.SPOTIM={},document,"//www.spot.im/launcher/bundle.js");</script><style type="text/css">
+.articleBody a,
+.author__description a,
+.error404 .entry-content a,
+.search-no-results .entry-content a,
+.archive-no-results .entry-content a,
+.nav__item--parent > a:after,
+.nav__item--podcast .nav__item-link,
+.mobile-nav__item--podcast .mobile-nav__item-link,
+.mobile-nav__footer-menu .mobile-nav__item a:active,
+.trending__item:before,
+.trending__link,
+.hero__shares,
+.column h3 > a:hover,
+.second-tab-content p > a:hover,
+.single-related p > a:hover,
+.sidebar-upper .widget_usat_sidebar_top_posts_widget .text-block a:hover,
+.widget--box .text-block a:hover,
+.widget--section-promo p > a:hover,
+.column .meta-info a,
+.zone--video .medium .author a,
+.block--hero .reply-block,
+.social-cta__button,
+.social-cta__notice--error,
+#footer-info .togglee a:hover,
+#footer-info .togglee a:active,
+.article__subheading,
+.articleBody h2,
+.error404 .entry-content h2,
+.search-no-results .entry-content h2,
+.archive-no-results .entry-content h2,
+.article__author a,
+.author__twitter a,
+.articleBody .pq,
+.error404 .entry-content .pq,
+.search-no-results .entry-content .pq,
+.archive-no-results .entry-content .pq,
+.single-related .block__shares,
+.widget--section-promo .block__shares,
+.article__back:before,
+.article__back:hover,
+.archive .heading .taxonomy,
+.search-results .heading .taxonomy,
+.search-results .heading > span,
+.archive.author .heading h1 a,
+.widget_text .textwidget a,
+.sidebar-upper .widget_usat_sidebar_top_posts_widget .text-block > h2,
+.widget--box .text-block > h2,
+.widget--author a {
+	color: #d6202b;
+}
+
+.mobile-stream-tabs h2,
+.column .heading-small h2,
+.sidebar-upper .widget .heading-small h2,
+.single-related .heading-small h2,
+.mobile-stream-tabs > div {
+	border-bottom-color: #d6202b;
+}
+
+@media all and (min-width: 1000px) {
+	.branding__logo-link {
+		border-bottom-color: #d6202b;
+	}
+}
+
+.article__pagination .article__pagination__button:hover,
+.article__pagination .article__pagination__link:hover,
+.article__pagination .article__pagination__button:active,
+.article__pagination .article__pagination__link:active {
+	border-color: #d6202b;
+}
+
+.nav__item:hover,
+.nav__item--current,
+#footer-info {
+	border-top-color: #d6202b;
+}
+
+.articleBody blockquote:not(.pq),
+.error404 .entry-content blockquote:not(.pq),
+.search-no-results .entry-content blockquote:not(.pq),
+.archive-no-results .entry-content blockquote:not(.pq) {
+	border-left-color: #d6202b;
+}
+
+.article__back,
+.newsletter__input {
+	border-color: #d6202b;
+}
+
+.hero__label,
+.column .block .img-holder .meta,
+.second-tab-content h2,
+.single-related .fixed-height-img-holder.link .meta,
+.mobile-nav__menu .mobile-nav__item > a:active,
+.mobile-nav__menu .mobile-nav__item--current > a,
+.article__pagination__current,
+.articleBody:after,
+.error404 .entry-content:after,
+.search-no-results .entry-content:after,
+.archive-no-results .entry-content:after,
+.story-share-buttons .share-count,
+.newsletter__button {
+	background-color: #d6202b;
+}
+
+@media all and (min-width: 1000px) {
+	.branding {
+		border-bottom-color: #d6202b;
+	}
+}
+
+</style>
+<link rel="canonical" href="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" />
+		<style>
+			.wpcom-related-posts ul li {
+				list-style-type: none;
+				display: inline-block;
+			}
+		</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Patriots Wire" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Get the latest Patriots news, schedule, photos and rumors from Patriots Wire, the best Patriots blog available." /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://patriotswire.usatoday.com/feed/;icon-uri=http://0.gravatar.com/blavatar/eeb5801dcd861712862155f301c589e9?s=16" />
+<!-- Include google_services.js -->
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+	var bottomAdMobileRendered = false;
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script>
+
+</script>
+<!-- helper function for targeting the url -->
+<script type='text/javascript'>
+(function(e,t){function i(){e.googletag=e.googletag||{};e.sdpTargeting=this.urlTargeting();e._sitePage=e.sdpTargeting.sp}var n,r;i.prototype.urlTargeting=function(){var t=e.location.pathname.replace(/\/$/,""),n=new RegExp("/([^/]*)","ig"),r=t.match(n),i=["/"],s="";if(r&&t!=="/"){var o="",u=r.length;if(u>0){for(var a=0;a<u;a++){o=r[a];i.push(o);for(var f=a+1;f<u;f++){o+=r[f];i.push(o)}if(a===0){i.splice(-1,1);s=o}}}i.push(s)}i=i.reverse();var l=e.location.toString().replace(/\=/ig,":").match(/\?(.+)$/),c=RegExp.$1.split("&"),h=e.location.toString().replace(/\/*(\?|\&|\x26)*(\w+=\w+)*$/,"");var p=h.replace(/http:\/\//,"").split("/");var d=p.length==1?"main":p[1].match(/^$|^index\.(php|htm|html)+$/i)?"main":"general";return{title:h,targetPaths:i.slice(0,9),fullPath:i[0],queryStr:c,domainName:e.location.hostname,sp:d}};n=new i})(window,document)
+</script>
+<script type='text/javascript'>
+if (typeof amznads !== "undefined") {
+	var key = 'amznslots';
+	var values = amznads.getTokens(); //comma separated
+}
+</script>
+<script type='text/javascript'>
+window.dfpTargetingObject = {"kw":["New England Patriots","super bowl LI","Tom Brady","Henry McKenna","Patriots News"],"category":"Patriots News","isMobile":"0"};
+googletag_cmd_push(function() {
+window.lawrence_dfp_desktop_skin = googletag.defineSlot("/7103/SMG_Q_OO/skin/sports/general/patswire", [1,1], "acm-ad-tag-lawrence_dfp_desktop_skin").addService(googletag.pubads().setTargeting('kw',["New England Patriots","super bowl LI","Tom Brady","Henry McKenna","Patriots News"]).setTargeting('category',["Patriots News","Tom Brady"]).setTargeting("title", sdpTargeting.title).setTargeting("targetPaths", sdpTargeting.targetPaths).setTargeting("fullPath", sdpTargeting.fullPath).setTargeting("queryStr", sdpTargeting.queryStr).setTargeting("domainName", sdpTargeting.domainName) );window.lawrence_dfp_desktop_interstitial = googletag.defineSlot("/7103/SMG_Q_OO/interstitial/sports/general/patswire", [2,1], "acm-ad-tag-lawrence_dfp_desktop_interstitial").addService(googletag.pubads().setTargeting('kw',["New England Patriots","super bowl LI","Tom Brady","Henry McKenna","Patriots News"]).setTargeting('category',["Patriots News","Tom Brady"]).setTargeting("title", sdpTargeting.title).setTargeting("targetPaths", sdpTargeting.targetPaths).setTargeting("fullPath", sdpTargeting.fullPath).setTargeting("queryStr", sdpTargeting.queryStr).setTargeting("domainName", sdpTargeting.domainName) );window.lawrence_dfp_desktop_sponsor_by_logo = googletag.defineSlot("/7103/SMG_Q_OO/logo/sports/general/patswire", [[100,50]], "acm-ad-tag-lawrence_dfp_desktop_sponsor_by_logo").addService(googletag.pubads().setTargeting('kw',["New England Patriots","super bowl LI","Tom Brady","Henry McKenna","Patriots News"]).setTargeting('category',["Patriots News","Tom Brady"]).setTargeting("title", sdpTargeting.title).setTargeting("targetPaths", sdpTargeting.targetPaths).setTargeting("fullPath", sdpTargeting.fullPath).setTargeting("queryStr", sdpTargeting.queryStr).setTargeting("domainName", sdpTargeting.domainName) );window.lawrence_dfp_desktop_top = googletag.defineSlot("/7103/SMG_Q_OO/728x90_flex/sports/general/patswire", [[728,90],[970,66],[970,250]], "acm-ad-tag-lawrence_dfp_desktop_top").addService(googletag.pubads().setTargeting('kw',["New England Patriots","super bowl LI","Tom Brady","Henry McKenna","Patriots News"]).setTargeting('category',["Patriots News","Tom Brady"]).setTargeting("title", sdpTargeting.title).setTargeting("targetPaths", sdpTargeting.targetPaths).setTargeting("fullPath", sdpTargeting.fullPath).setTargeting("queryStr", sdpTargeting.queryStr).setTargeting("domainName", sdpTargeting.domainName) );window.lawrence_dfp_desktop_top_300x250 = googletag.defineSlot("/7103/SMG_Q_OO/300x250_1a/sports/general/patswire", [[300,250],[300,600]], "acm-ad-tag-lawrence_dfp_desktop_top_300x250").addService(googletag.pubads().setTargeting('kw',["New England Patriots","super bowl LI","Tom Brady","Henry McKenna","Patriots News"]).setTargeting('category',["Patriots News","Tom Brady"]).setTargeting("title", sdpTargeting.title).setTargeting("targetPaths", sdpTargeting.targetPaths).setTargeting("fullPath", sdpTargeting.fullPath).setTargeting("queryStr", sdpTargeting.queryStr).setTargeting("domainName", sdpTargeting.domainName) );window.lawrence_dfp_desktop_native = googletag.defineSlot("/7103/SMG_Q_OO/native/sports/general/patswire", [[640,170],[3,1]], "acm-ad-tag-lawrence_dfp_desktop_native").addService(googletag.pubads().setTargeting('kw',["New England Patriots","super bowl LI","Tom Brady","Henry McKenna","Patriots News"]).setTargeting('category',["Patriots News","Tom Brady"]).setTargeting("title", sdpTargeting.title).setTargeting("targetPaths", sdpTargeting.targetPaths).setTargeting("fullPath", sdpTargeting.fullPath).setTargeting("queryStr", sdpTargeting.queryStr).setTargeting("domainName", sdpTargeting.domainName) );window.lawrence_dfp_desktop_outstream = googletag.defineSlot("/7103/SMG_Q_OO/outstream/sports/general/patswire", [4,1], "acm-ad-tag-lawrence_dfp_desktop_outstream").addService(googletag.pubads().setTargeting('kw',["New England Patriots","super bowl LI","Tom Brady","Henry McKenna","Patriots News"]).setTargeting('category',["Patriots News","Tom Brady"]).setTargeting("title", sdpTargeting.title).setTargeting("targetPaths", sdpTargeting.targetPaths).setTargeting("fullPath", sdpTargeting.fullPath).setTargeting("queryStr", sdpTargeting.queryStr).setTargeting("domainName", sdpTargeting.domainName) );window.wasabiAsyncStickAd = false;
+if ( ! window.hasOwnProperty( 'wasabiAsyncStickCallback' ) ) {
+	window.wasabiAsyncStickCallback = function() {
+		'use strict';
+		window.wasabiAsyncStickAd = true;
+	};
+}
+//googletag.pubads().enableSingleRequest();
+try { amznads.setTargetingForGPTAsync( 'amznslots' ); } catch(e) { /*ignore*/ }
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+	setTimeout(function() {
+		initAdserver();
+	}, PREBID_TIMEOUT);
+});
+</script>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s0.wp.com/?custom-css=1&#038;csblog=7aES6&#038;cscache=6&#038;csrev=3" />
+		
+	<script type="text/javascript">
+		var is_user_logged_in = 0;
+	</script>
+
+</head>
+
+<body class="single single-post postid-16847 single-format-standard mp6 customizer-styles-applied highlander-enabled highlander-light">
+
+	
+	<div id='acm-ad-tag-lawrence_dfp_desktop_skin' style='width:1px; height:1px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('acm-ad-tag-lawrence_dfp_desktop_skin'); });</script></div><div id='acm-ad-tag-lawrence_dfp_desktop_interstitial' style='width:2px; height:1px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('acm-ad-tag-lawrence_dfp_desktop_interstitial'); });</script></div><div id='acm-ad-tag-lawrence_dfp_desktop_outstream' style='width:4px; height:1px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('acm-ad-tag-lawrence_dfp_desktop_outstream'); });</script></div>
+	
+<div id="wrapper">
+
+	
+	<div class="wrapper-holder">
+
+		<div
+	class="branding "
+	id="nav-branding"
+>
+	<span class="branding__logos">
+					<a
+				href="http://patriotswire.usatoday.com"
+				title="Patriots Wire"
+				class="branding__logo-link "
+			>
+				<img
+					src="https://usatpatriotswire.files.wordpress.com/2016/08/patriotswirelogo.png"
+					alt="Patriots Wire"
+					class="branding__logo"
+					height="30"
+								>
+			</a>
+		
+			</span>
+
+	
+	<span class="branding__search">
+		<form method="get" class="branding__search-form" action="http://patriotswire.usatoday.com" role="search">
+			<input type="text" name="s" value="" placeholder="search Patriots Wire" class="branding__search-input">
+			<a class="branding__search-close"></a>
+		</form>
+	</span>
+
+		<a class="branding__mobile"></a>
+</div>
+<header class="nav ">
+	<nav class="nav__wrap">
+		<ul class="nav__menu">
+			<li id="menu-item-2082" class="nav__item nav__item--tom-brady"><a href="http://patriotswire.usatoday.com/category/tom-brady/">Tom Brady</a></li>
+<li id="menu-item-16445" class="nav__item nav__item--bill-belichick"><a href="http://patriotswire.usatoday.com/category/bill-belichick/">Bill Belichick</a></li>
+<li id="menu-item-174" class="nav__item nav__item--patriots-news"><a href="http://patriotswire.usatoday.com/category/patriots-news/">Patriots News</a></li>
+<li id="menu-item-175" class="nav__item nav__item--patriots-analysis"><a href="http://patriotswire.usatoday.com/category/patriots-analysis/">Patriots Analysis</a></li>
+<li id="menu-item-2083" class="nav__item nav__item--gronk"><a href="http://patriotswire.usatoday.com/category/gronk/">Gronk</a></li>
+<li id="menu-item-16444" class="nav__item nav__item--julian-edelman"><a href="http://patriotswire.usatoday.com/category/julian-edelman/">Julian Edelman</a></li>
+<li id="menu-item-2080" class="nav__item nav__item--video"><a href="http://patriotswire.usatoday.com/category/video/">Video</a></li>
+<li id="menu-item-2081" class="nav__item nav__item--film-study"><a href="http://patriotswire.usatoday.com/category/film-study/">Film Study</a></li>
+		</ul>
+		<ul class="nav__social ">
+					</ul>
+	</nav>
+</header>
+
+		
+		
+		<div id="main" class="site-main no-more-heroes">
+
+			<div id="header-ad" class="header-ad--below-nav">
+	<div id='acm-ad-tag-lawrence_dfp_desktop_top' style='width:%width%px; height:%height%px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('acm-ad-tag-lawrence_dfp_desktop_top'); });</script></div></div>
+
+
+<div id="primary" class="content-area">
+	<div id="content" class="site-content" role="main">
+
+		
+		
+			<article id="post-16847" class="post-16847 post type-post status-publish format-standard has-post-thumbnail hentry category-patriots-news category-tom-brady tag-new-england-patriots tag-super-bowl-li tag-tom-brady" itemscope itemtype="http://schema.org/NewsArticle">
+
+				<div class="article__title ">
+	<h1 class="article__headline">Look at Tom Brady's 'suspect board' for his stolen Super Bowl jersey</h1>
+
+			<img width="1000" height="600" src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=1000&amp;h=600&amp;crop=1" class="article__image wp-post-image" alt="HOUSTON, TX - FEBRUARY 02:  Tom Brady #12 of the New England Patriots answers questions during Super Bowl LI media availability at the J.W. Marriott on February 2, 2017 in Houston, Texas.  (Photo by Bob Levey/Getty Images)" srcset="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=1000&amp;h=600&amp;crop=1 1000w, https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=2000&amp;h=1200&amp;crop=1 2000w, https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=150&amp;h=90&amp;crop=1 150w, https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=300&amp;h=180&amp;crop=1 300w, https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=768&amp;h=461&amp;crop=1 768w, https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=1024&amp;h=614&amp;crop=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" data-attachment-id="15544" data-permalink="http://patriotswire.usatoday.com/2017/02/03/watch-martellus-bennett-scare-the-crap-out-of-tom-brady/new-england-patriots-media-availability/" data-orig-file="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg" data-orig-size="3000,2547" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5&quot;,&quot;credit&quot;:&quot;Getty Images&quot;,&quot;camera&quot;:&quot;Canon EOS-1D X&quot;,&quot;caption&quot;:&quot;HOUSTON, TX - FEBRUARY 02:  Tom Brady #12 of the New England Patriots answers questions during Super Bowl LI media availability at the J.W. Marriott on February 2, 2017 in Houston, Texas.  (Photo by Bob Levey\/Getty Images)&quot;,&quot;created_timestamp&quot;:&quot;1486078140&quot;,&quot;copyright&quot;:&quot;2017 Getty Images&quot;,&quot;focal_length&quot;:&quot;200&quot;,&quot;iso&quot;:&quot;2500&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;New England Patriots Media Availability&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="New England Patriots Media Availability" data-image-description="" data-medium-file="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=300" data-large-file="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=1000" />		<cite class="article__source"></cite>
+		<div class="article__gradient"></div>
+	</div>
+<h1 class="article__headline article__headline--mobile">Look at Tom Brady's 'suspect board' for his stolen Super Bowl jersey</h1>
+
+				<header class="entry-header  ">
+
+					
+<h2 class="cat-show">
+	<a href="http://patriotswire.usatoday.com/category/tom-brady/" class="" itemprop="articleSection">Tom Brady</a></h2>
+
+					
+					<div id="headline">
+						<h1 class="entry-title" itemprop="name headline">Look at Tom Brady's 'suspect board' for his stolen Super Bowl jersey</h1>
+											</div>
+
+					
+					
+					<div class="meta-info single-headline" id="entry-byline">
+						
+<p itemprop="author" itemscope itemtype="http://schema.org/Person">
+
+	By <a href="http://patriotswire.usatoday.com/author/henry-mckenna/" title="Posts by Henry McKenna" class="author url fn" rel="author">Henry McKenna</a> 
+		<span class="post-date updated">14 hours ago</span>
+
+	
+	
+					<span class="author-twitter-follow-button">
+				<a href="http://twitter.com/McKennAnalysis" class="twitter-follow-button" data-show-count="false">
+					Follow					@McKennAnalysis				</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			</span>
+		
+	</p>
+					</div>
+
+					<div id='acm-ad-tag-lawrence_dfp_mobile_sponsor_by_logo' style='width:%width%px; height:%height%px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('acm-ad-tag-lawrence_dfp_mobile_sponsor_by_logo'); });</script></div>
+				</header>
+
+				
+				
+				
+				<div id="content-container">
+					<div class="entry-content normal-format">
+
+						
+						<div class="story-share-buttons extra sms">
+	<div class="share-button share-count">
+		<span class="icomoon icon-shares"></span>
+		<span class="count">233</span>
+		<span class="share-text">shares</span>
+	</div>
+	<div st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" data-track="patriotswirestoryfb" class="share-button share-facebook st_facebook_custom" id="share-facebook">
+		<span class="icomoon icon-facebook"></span>
+		<span class="share-text">share</span>
+	</div>
+	<div st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" data-track="patriotswirestorytwitter" class="share-button share-twitter st_twitter_custom" id="share-twitter" st_via="" st_username="">
+		<span class="icomoon icon-twitter"></span>
+		<span class="share-text">tweet</span>
+	</div>
+	<div st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" data-track="patriotswirestorysms" class="share-button share-sms" id="share-sms">
+		<span class="icomoon icon-sms"></span>
+		<span class="share-text">sms</span>
+	</div>
+	<div st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" data-track="patriotswirestorywhatsapp" class="share-button share-whatsapp" id="share-whatsapp">
+		<span class="icomoon icon-whatsapp"></span>
+		<span class="share-text">send</span>
+	</div>
+
+			<div st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" data-track="patriotswirestoryemail" class="share-button share-email st_email_custom" id="share-email" st_summary="">
+				<span class="icomoon icon-email"></span>
+			<span class="share-text">email</span>
+		</div>
+</div>
+
+<div class="st_buttons_for_api">
+	<span class="st_facebook_hcount" st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" displayText="Facebook"></span>
+	<span class="st_twitter_hcount" st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" displayText="Tweet"></span>
+	<span class="st_email_hcount" st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" displayText="Email"></span>
+</div>
+
+						
+						<div class="article__author">
+	<p itemprop="author" itemscope itemtype="http://schema.org/Person">
+		By: <a href="http://patriotswire.usatoday.com/author/henry-mckenna/" title="Posts by Henry McKenna" class="author url fn" rel="author">Henry McKenna</a>		| 14 hours ago		<span class="article__author__widgets">
+										<span class="author-twitter-follow-button author__twitter">
+	<a href="http://twitter.com/McKennAnalysis" class="twitter-follow-button" data-show-count="false">
+		Follow @McKennAnalysis	</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</span>
+					</span>
+	</p>
+
+	</div>
+
+
+						
+						<div class="articleBody" itemprop="articleBody"><div>
+<div style="display: block; position: relative; max-width: 100%;">
+<div style="padding-top: 56.25%;"><video data-video-id="5330552337001" data-account="29906170001" data-player="rJxkAPZIm" data-embed="default" class="video-js" id="videojs-brightcove-player-247624-5330552337001" controls style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;"></video><script src="https://players.brightcove.net/29906170001/rJxkAPZIm_default/index.js"></script></div>
+</div>
+</div>
+<p>Tom Brady&#8217;s got a long list of suspects for his stolen jersey, which was <a href="https://www.nytimes.com/2017/02/21/sports/football/tom-brady-missing-jersey-new-england-patriots.html?_r=0">valued at around $500,000</a>. While that&#8217;s serious money, Brady&#8217;s suspect list was not particularly serious.</p>
+<p>Brady <a href="https://www.facebook.com/TomBrady/photos/a.233362006704957.53331.214003275307497/1457718784269267/?type=3&amp;theater&amp;notif_t=notify_me_page&amp;notif_id=1487639512386133">posted the list to Facebook</a> on Wednesday.</p>
+<p>Brady included ring-lovers Julian Edelman and Gollum from the book and movie series Lord of the Rings. Brady&#8217;s court sketch from the Deflategate hearing somehow made its way onto the board. The list also includes Jaws, Brady&#8217;s dog Scooby and Lady Gaga, among others.</p>
+<p>&#8220;Hey <a href="https://www.facebook.com/JulianEdelman/">Edelman</a> &#8216;Ya suspect, yeah you! I don&#8217;t know what your reputation is in this town, but after that s@?# you pulled, you can bet l&#8217;ll be looking into you!'&#8221; Brady wrote.</p>
+<p><fb:post href="https://www.facebook.com/TomBrady/photos/a.233362006704957.53331.214003275307497/1457718784269267/?type=3&#038;theater&#038;notif_t=notify_me_page&#038;notif_id=1487639512386133" data-width="552"></fb:post></p>
+</div>
+
+						
+						
+						<p class="post-tags post-tags--hide"><a href="http://patriotswire.usatoday.com/tag/new-england-patriots/" rel="tag">New England Patriots</a>, <a href="http://patriotswire.usatoday.com/tag/super-bowl-li/" rel="tag">super bowl LI</a>, <a href="http://patriotswire.usatoday.com/tag/tom-brady/" rel="tag">Tom Brady</a>, <a href="http://patriotswire.usatoday.com/category/patriots-news/" rel="category tag">Patriots News</a>, <a href="http://patriotswire.usatoday.com/category/tom-brady/" rel="category tag">Tom Brady</a></p>
+						<div class="story-share-buttons extra sms">
+	<div class="share-button share-count">
+		<span class="icomoon icon-shares"></span>
+		<span class="count">233</span>
+		<span class="share-text">shares</span>
+	</div>
+	<div st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" data-track="patriotswirestoryfb" class="share-button share-facebook st_facebook_custom" id="share-facebook">
+		<span class="icomoon icon-facebook"></span>
+		<span class="share-text">share</span>
+	</div>
+	<div st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" data-track="patriotswirestorytwitter" class="share-button share-twitter st_twitter_custom" id="share-twitter" st_via="" st_username="">
+		<span class="icomoon icon-twitter"></span>
+		<span class="share-text">tweet</span>
+	</div>
+	<div st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" data-track="patriotswirestorysms" class="share-button share-sms" id="share-sms">
+		<span class="icomoon icon-sms"></span>
+		<span class="share-text">sms</span>
+	</div>
+	<div st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" data-track="patriotswirestorywhatsapp" class="share-button share-whatsapp" id="share-whatsapp">
+		<span class="icomoon icon-whatsapp"></span>
+		<span class="share-text">send</span>
+	</div>
+
+			<div st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" data-track="patriotswirestoryemail" class="share-button share-email st_email_custom" id="share-email" st_summary="">
+				<span class="icomoon icon-email"></span>
+			<span class="share-text">email</span>
+		</div>
+</div>
+
+<div class="st_buttons_for_api">
+	<span class="st_facebook_hcount" st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" displayText="Facebook"></span>
+	<span class="st_twitter_hcount" st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" displayText="Tweet"></span>
+	<span class="st_email_hcount" st_url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" st_short_url="http://wp.me/p7aES6-4nJ" displayText="Email"></span>
+</div>
+					</div><!-- .entry-content -->
+				</div><!-- #content-container -->
+
+				
+			</article><!-- #post-## -->
+
+		
+		<div class="container divider"></div><div class="container single-related container--wibbitz">
+	<div class="heading-small"><h2>Recommended Videos</h2></div>
+	<div class="wibbitz-widget" style="margin: 20px">
+		<div wibbitz="embed-player-widget"></div>
+	</div>
+</div>
+
+<div class="container single-related">
+
+		<div class="heading-small">
+		<h2>More <span>Patriots Wire</span></h2>
+	</div>
+	
+		<div class="holder-column">
+			<div class="column">
+				
+<article class="block block-single-related" itemscope itemtype="http://schema.org/NewsArticle">
+	<a href="http://patriotswire.usatoday.com/2017/02/06/did-these-fans-steal-tom-bradys-super-bowl-li-jersey/" data-track="patriotswirefeaturedstories" title="Did these fans steal Tom Brady&#039;s Super Bowl LI jersey?" class="link fixed-height-img-holder short responsiveshort " rel="nofollow" style="background-image: url('https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633960226.jpg?w=295&#038;h=231&#038;crop=1');" itemprop="url" >
+		<img src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633960226.jpg?w=295&#038;h=231&#038;crop=1" width="206" height="165" alt="Did these fans steal Tom Brady&#039;s Super Bowl LI jersey?" itemprop="image">
+				<span class="ie-overlay-hack"></span>
+	</a>
+
+	<div class="text-block ">
+		<h2>
+			<a href="http://patriotswire.usatoday.com/category/tom-brady/" class="category" itemprop="articleSection">Tom Brady</a>					</h2>
+
+		<p><a data-track="patriotswirefeaturedstories" href="http://patriotswire.usatoday.com/2017/02/06/did-these-fans-steal-tom-bradys-super-bowl-li-jersey/" title="Did these fans steal Tom Brady&#039;s Super Bowl LI jersey?" itemprop="url" >Did these fans steal Tom Brady's Super Bowl LI jersey?</a></p>
+
+			</div>
+</article>
+
+<article class="block block-single-related" itemscope itemtype="http://schema.org/NewsArticle">
+	<a href="http://patriotswire.usatoday.com/2017/02/06/tom-brady-asks-fans-for-help-finding-super-bowl-li-jersey/" data-track="patriotswirefeaturedstories" title="Tom Brady asks fans for help finding stolen Super Bowl LI jersey" class="link fixed-height-img-holder short responsiveshort " rel="nofollow" style="background-image: url('https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633956620.jpg?w=295&#038;h=231&#038;crop=1');" itemprop="url" >
+		<img src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633956620.jpg?w=295&#038;h=231&#038;crop=1" width="206" height="165" alt="Tom Brady asks fans for help finding stolen Super Bowl LI jersey" itemprop="image">
+				<span class="ie-overlay-hack"></span>
+	</a>
+
+	<div class="text-block ">
+		<h2>
+			<a href="http://patriotswire.usatoday.com/category/tom-brady/" class="category" itemprop="articleSection">Tom Brady</a>					</h2>
+
+		<p><a data-track="patriotswirefeaturedstories" href="http://patriotswire.usatoday.com/2017/02/06/tom-brady-asks-fans-for-help-finding-super-bowl-li-jersey/" title="Tom Brady asks fans for help finding stolen Super Bowl LI jersey" itemprop="url" >Tom Brady asks fans for help finding stolen Super Bowl LI jersey</a></p>
+
+			</div>
+</article>
+
+<article class="block block-single-related" itemscope itemtype="http://schema.org/NewsArticle">
+	<a href="http://patriotswire.usatoday.com/2017/02/06/tom-brady-suspects-super-bowl-li-jersey-was-stolen-after-game/" data-track="patriotswirefeaturedstories" title="Tom Brady suspects Super Bowl LI jersey was stolen after game" class="link fixed-height-img-holder short responsiveshort " rel="nofollow" style="background-image: url('https://usatpatriotswire.files.wordpress.com/2017/02/usatsi_9861772.jpg?w=295&#038;h=231&#038;crop=1');" itemprop="url" >
+		<img src="https://usatpatriotswire.files.wordpress.com/2017/02/usatsi_9861772.jpg?w=295&#038;h=231&#038;crop=1" width="206" height="165" alt="Tom Brady suspects Super Bowl LI jersey was stolen after game" itemprop="image">
+				<span class="ie-overlay-hack"></span>
+	</a>
+
+	<div class="text-block ">
+		<h2>
+			<a href="http://patriotswire.usatoday.com/category/tom-brady/" class="category" itemprop="articleSection">Tom Brady</a>					</h2>
+
+		<p><a data-track="patriotswirefeaturedstories" href="http://patriotswire.usatoday.com/2017/02/06/tom-brady-suspects-super-bowl-li-jersey-was-stolen-after-game/" title="Tom Brady suspects Super Bowl LI jersey was stolen after game" itemprop="url" >Tom Brady suspects Super Bowl LI jersey was stolen after game</a></p>
+
+			</div>
+</article>
+			</div>
+		</div>
+
+	</div>
+<div class="container single-related" id="rcjsload_bf5c5f"></div><div class="container single-related container--comments">
+	<div class="heading-small">
+		<h2>Comments</h2>
+	</div>
+
+	<div id="comments" class="comments-area">
+	<div
+		class="spot-im-frame-inpage"
+		data-post-id="16847"
+		data-disqus-url="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/"
+		data-disqus-identifier="16847 http://patriotswire.usatoday.com/p=16847"
+	></div>
+</div>
+</div>
+<div class="container column container--stories">
+	<div class="heading-small">
+		<h2>Latest</h2>
+	</div>
+	<div id='acm-ad-tag-lawrence_dfp_desktop_native' style='width:%width%px; height:%height%px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('acm-ad-tag-lawrence_dfp_desktop_native'); });</script></div>
+		<article class="block big " itemscope itemtype="http://schema.org/NewsArticle">
+
+			
+				<div class="img-holder none light">
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/22/martellus-bennett-asks-if-youd-take-less-money-in-your-job/"
+						title="Martellus Bennett asks if you&#039;d take less money in your job"
+						class="link fixed-height-img-holder responsiveshort"
+						rel="nofollow"
+						style="background-image: url('https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633436162.jpg?w=192&#038;h=150&#038;crop=1');"
+						itemprop="url"
+						>
+
+						
+						
+						<img src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633436162.jpg?w=192&#038;h=150&#038;crop=1" width="320" height="250" alt="Martellus Bennett asks if you&#039;d take less money in your job" itemprop="image">
+						<span class="ie-overlay-hack"></span>
+
+						
+													<a
+								data-track="patriotswiremostrecent"
+								href="http://patriotswire.usatoday.com/2017/02/22/martellus-bennett-asks-if-youd-take-less-money-in-your-job/"
+								title="Martellus Bennett asks if you&#039;d take less money in your job"
+								class="ico-comments"
+								rel="nofollow"
+								itemprop="url"
+								>
+									0							</a>
+											</a>
+
+											
+<div class="meta" onclick="location.href='http://patriotswire.usatoday.com/2017/02/22/martellus-bennett-asks-if-youd-take-less-money-in-your-job/';">
+	<div class="reply-block">
+		<a
+			data-track="patriotswiremostrecent"
+			href="http://patriotswire.usatoday.com/2017/02/22/martellus-bennett-asks-if-youd-take-less-money-in-your-job/"
+			title="Martellus Bennett asks if you&#039;d take less money in your job"
+			class="reply" rel="nofollow"
+			>reply </a>
+					<span class="share-text">
+	<span class="social-count">
+		<span>245</span>
+		shares	</span>
+</span>
+			</div>
+</div>
+									</div>
+
+			
+			<div class="mobile-date">
+				8hr			</div>
+
+			<div class="content  ">
+				
+				<h3>
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/22/martellus-bennett-asks-if-youd-take-less-money-in-your-job/"
+						title="Martellus Bennett asks if you&#039;d take less money in your job"
+						itemprop="url" 						>
+							Martellus Bennett asks if you'd take less money in your job					</a>
+				</h3>
+
+				
+				
+				<footer class="meta-info">
+					<p>
+						<a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a><span class="dot">&middot;</span>						<span class="time">9 hours ago </span>
+						<span class="dot">&middot;</span>
+						<span class="author-links">
+							<a href="http://patriotswire.usatoday.com/author/henry-mckenna/" title="Posts by Henry McKenna" class="author url fn" rel="author">Henry McKenna</a>													</span>
+					</p>
+				</footer>
+
+				
+				
+				
+			</div>
+		</article>
+	<article class="block block--hero">
+	<a
+		data-track="patriotswiremostrecent"
+		href="http://patriotswire.usatoday.com/2017/02/22/everyone-advised-robert-kraft-against-hiring-bill-belichick-in-2000/"
+		title="Everyone advised Robert Kraft against hiring Bill Belichick in 2000"
+		rel=""
+		itemprop="url"
+		class="block__link"
+			>
+		<img
+			src="https://usatpatriotswire.files.wordpress.com/2017/02/usatsi_9862415.jpg?w=680&#038;h=420&#038;crop=1"
+			width="680"
+			height="420"
+			alt="Everyone advised Robert Kraft against hiring Bill Belichick in 2000"
+			itemprop="image"
+			class="block__image"
+		>
+			</a>
+	<div class="block__content">
+		<h4 class="block__category">
+			<a href="http://patriotswire.usatoday.com/category/patriots-news/" class="block__category__link" itemprop="articleSection">Patriots News</a>		</h4>
+		<h2 class="block__title">
+			<a
+				data-track="patriotswiremostrecent"
+				href="http://patriotswire.usatoday.com/2017/02/22/everyone-advised-robert-kraft-against-hiring-bill-belichick-in-2000/"
+				title="Everyone advised Robert Kraft against hiring Bill Belichick in 2000"
+				itemprop="url"
+				rel=""
+				class="block__title__link"
+							>
+					Everyone advised Robert Kraft against hiring Bill Belichick in 2000			</a>
+		</h2>
+							
+<div class="meta" onclick="location.href='http://patriotswire.usatoday.com/2017/02/22/everyone-advised-robert-kraft-against-hiring-bill-belichick-in-2000/';">
+	<div class="reply-block">
+		<a
+			data-track="patriotswiremostrecent"
+			href="http://patriotswire.usatoday.com/2017/02/22/everyone-advised-robert-kraft-against-hiring-bill-belichick-in-2000/"
+			title="Everyone advised Robert Kraft against hiring Bill Belichick in 2000"
+			class="reply" rel="nofollow"
+			>reply </a>
+					<span class="share-text">
+	<span class="social-count">
+		<span>50</span>
+		shares	</span>
+</span>
+			</div>
+</div>
+			</div>
+</article>
+<article class="block block--hero">
+	<a
+		data-track="patriotswiremostrecent"
+		href="http://patriotswire.usatoday.com/2017/02/22/patriots-uncharacteristically-unprepared-for-potential-departure-of-donta-hightower/"
+		title="Patriots uncharacteristically unprepared for potential departure of Dont&#039;a Hightower"
+		rel=""
+		itemprop="url"
+		class="block__link"
+			>
+		<img
+			src="https://usatpatriotswire.files.wordpress.com/2017/02/usatsi_9862015.jpg?w=680&#038;h=420&#038;crop=1"
+			width="680"
+			height="420"
+			alt="Patriots uncharacteristically unprepared for potential departure of Dont&#039;a Hightower"
+			itemprop="image"
+			class="block__image"
+		>
+			</a>
+	<div class="block__content">
+		<h4 class="block__category">
+			<a href="http://patriotswire.usatoday.com/category/patriots-analysis/" class="block__category__link" itemprop="articleSection">Patriots Analysis</a>		</h4>
+		<h2 class="block__title">
+			<a
+				data-track="patriotswiremostrecent"
+				href="http://patriotswire.usatoday.com/2017/02/22/patriots-uncharacteristically-unprepared-for-potential-departure-of-donta-hightower/"
+				title="Patriots uncharacteristically unprepared for potential departure of Dont&#039;a Hightower"
+				itemprop="url"
+				rel=""
+				class="block__title__link"
+							>
+					Patriots uncharacteristically unprepared for potential departure of Dont'a Hightower			</a>
+		</h2>
+							
+<div class="meta" onclick="location.href='http://patriotswire.usatoday.com/2017/02/22/patriots-uncharacteristically-unprepared-for-potential-departure-of-donta-hightower/';">
+	<div class="reply-block">
+		<a
+			data-track="patriotswiremostrecent"
+			href="http://patriotswire.usatoday.com/2017/02/22/patriots-uncharacteristically-unprepared-for-potential-departure-of-donta-hightower/"
+			title="Patriots uncharacteristically unprepared for potential departure of Dont&#039;a Hightower"
+			class="reply" rel="nofollow"
+			>reply </a>
+					<span class="share-text">
+	<span class="social-count">
+		<span>100</span>
+		shares	</span>
+</span>
+			</div>
+</div>
+			</div>
+</article>
+
+		<article class="block big " itemscope itemtype="http://schema.org/NewsArticle">
+
+			
+				<div class="img-holder none light">
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://bearswire.usatoday.com/2017/02/22/several-teams-preparing-to-make-blockbuster-offer-for-garoppolo/"
+						title="Several teams preparing to make &#039;blockbuster offer&#039; for Jimmy Garoppolo"
+						class="link fixed-height-img-holder responsiveshort"
+						rel="nofollow"
+						style="background-image: url('https://usatpatriotswire.files.wordpress.com/2016/09/usatsi_9537793.jpg?w=192&#038;h=150&#038;crop=1');"
+						itemprop="url"
+						>
+
+						
+						
+						<img src="https://usatpatriotswire.files.wordpress.com/2016/09/usatsi_9537793.jpg?w=192&#038;h=150&#038;crop=1" width="320" height="250" alt="Several teams preparing to make &#039;blockbuster offer&#039; for Jimmy Garoppolo" itemprop="image">
+						<span class="ie-overlay-hack"></span>
+
+						
+													<a
+								data-track="patriotswiremostrecent"
+								href="http://bearswire.usatoday.com/2017/02/22/several-teams-preparing-to-make-blockbuster-offer-for-garoppolo/"
+								title="Several teams preparing to make &#039;blockbuster offer&#039; for Jimmy Garoppolo"
+								class="ico-comments"
+								rel="nofollow"
+								itemprop="url"
+								>
+									0							</a>
+											</a>
+
+											
+<div class="meta" onclick="location.href='http://bearswire.usatoday.com/2017/02/22/several-teams-preparing-to-make-blockbuster-offer-for-garoppolo/';">
+	<div class="reply-block">
+		<a
+			data-track="patriotswiremostrecent"
+			href="http://bearswire.usatoday.com/2017/02/22/several-teams-preparing-to-make-blockbuster-offer-for-garoppolo/"
+			title="Several teams preparing to make &#039;blockbuster offer&#039; for Jimmy Garoppolo"
+			class="reply" rel="nofollow"
+			>reply </a>
+					<span class="share-text">
+	<span class="social-count">
+		<span>390</span>
+		shares	</span>
+</span>
+			</div>
+</div>
+									</div>
+
+			
+			<div class="mobile-date">
+				14hr			</div>
+
+			<div class="content  ">
+				
+				<h3>
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://bearswire.usatoday.com/2017/02/22/several-teams-preparing-to-make-blockbuster-offer-for-garoppolo/"
+						title="Several teams preparing to make &#039;blockbuster offer&#039; for Jimmy Garoppolo"
+						itemprop="url" 						>
+							Several teams preparing to make 'blockbuster offer' for Jimmy Garoppolo					</a>
+				</h3>
+
+				
+				
+				<footer class="meta-info">
+					<p>
+						<a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a><span class="dot">&middot;</span>						<span class="time">15 hours ago </span>
+						<span class="dot">&middot;</span>
+						<span class="author-links">
+							<a href="http://patriotswire.usatoday.com/author/henry-mckenna/" title="Posts by Henry McKenna" class="author url fn" rel="author">Henry McKenna</a>													</span>
+					</p>
+				</footer>
+
+				
+				
+				
+			</div>
+		</article>
+	
+		<article class="block big " itemscope itemtype="http://schema.org/NewsArticle">
+
+			
+				<div class="img-holder none light">
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/22/report-real-possibility-martellus-bennett-will-leave-patriots-in-free-agency/"
+						title="Report: &#039;Real possibility&#039; Martellus Bennett will leave Patriots in free agency"
+						class="link fixed-height-img-holder responsiveshort"
+						rel="nofollow"
+						style="background-image: url('https://usatpatriotswire.files.wordpress.com/2017/01/gettyimages-630626400.jpg?w=192&#038;h=150&#038;crop=1');"
+						itemprop="url"
+						>
+
+						
+						
+						<img src="https://usatpatriotswire.files.wordpress.com/2017/01/gettyimages-630626400.jpg?w=192&#038;h=150&#038;crop=1" width="320" height="250" alt="Report: &#039;Real possibility&#039; Martellus Bennett will leave Patriots in free agency" itemprop="image">
+						<span class="ie-overlay-hack"></span>
+
+						
+													<a
+								data-track="patriotswiremostrecent"
+								href="http://patriotswire.usatoday.com/2017/02/22/report-real-possibility-martellus-bennett-will-leave-patriots-in-free-agency/"
+								title="Report: &#039;Real possibility&#039; Martellus Bennett will leave Patriots in free agency"
+								class="ico-comments"
+								rel="nofollow"
+								itemprop="url"
+								>
+									0							</a>
+											</a>
+
+											
+<div class="meta" onclick="location.href='http://patriotswire.usatoday.com/2017/02/22/report-real-possibility-martellus-bennett-will-leave-patriots-in-free-agency/';">
+	<div class="reply-block">
+		<a
+			data-track="patriotswiremostrecent"
+			href="http://patriotswire.usatoday.com/2017/02/22/report-real-possibility-martellus-bennett-will-leave-patriots-in-free-agency/"
+			title="Report: &#039;Real possibility&#039; Martellus Bennett will leave Patriots in free agency"
+			class="reply" rel="nofollow"
+			>reply </a>
+					<span class="share-text">
+	<span class="social-count">
+		<span>20</span>
+		shares	</span>
+</span>
+			</div>
+</div>
+									</div>
+
+			
+			<div class="mobile-date">
+				16hr			</div>
+
+			<div class="content  ">
+				
+				<h3>
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/22/report-real-possibility-martellus-bennett-will-leave-patriots-in-free-agency/"
+						title="Report: &#039;Real possibility&#039; Martellus Bennett will leave Patriots in free agency"
+						itemprop="url" 						>
+							Report: 'Real possibility' Martellus Bennett will leave Patriots in free agency					</a>
+				</h3>
+
+				
+				
+				<footer class="meta-info">
+					<p>
+						<a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a><span class="dot">&middot;</span>						<span class="time">16 hours ago </span>
+						<span class="dot">&middot;</span>
+						<span class="author-links">
+							<a href="http://patriotswire.usatoday.com/author/henry-mckenna/" title="Posts by Henry McKenna" class="author url fn" rel="author">Henry McKenna</a>													</span>
+					</p>
+				</footer>
+
+				
+				
+				
+			</div>
+		</article>
+	
+		<article class="block big " itemscope itemtype="http://schema.org/NewsArticle">
+
+			
+				<div class="img-holder none light">
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/22/3-round-mock-draft-patriots-get-lb-to-replace-jamie-collins-rb-to-replace-blount/"
+						title="3-round Mock draft: Patriots get LB to replace Jamie Collins, RB to replace Blount"
+						class="link fixed-height-img-holder responsiveshort"
+						rel="nofollow"
+						style="background-image: url('https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-621278886.jpg?w=192&#038;h=150&#038;crop=1');"
+						itemprop="url"
+						>
+
+						
+						
+						<img src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-621278886.jpg?w=192&#038;h=150&#038;crop=1" width="320" height="250" alt="3-round Mock draft: Patriots get LB to replace Jamie Collins, RB to replace Blount" itemprop="image">
+						<span class="ie-overlay-hack"></span>
+
+						
+													<a
+								data-track="patriotswiremostrecent"
+								href="http://patriotswire.usatoday.com/2017/02/22/3-round-mock-draft-patriots-get-lb-to-replace-jamie-collins-rb-to-replace-blount/"
+								title="3-round Mock draft: Patriots get LB to replace Jamie Collins, RB to replace Blount"
+								class="ico-comments"
+								rel="nofollow"
+								itemprop="url"
+								>
+									0							</a>
+											</a>
+
+											
+<div class="meta" onclick="location.href='http://patriotswire.usatoday.com/2017/02/22/3-round-mock-draft-patriots-get-lb-to-replace-jamie-collins-rb-to-replace-blount/';">
+	<div class="reply-block">
+		<a
+			data-track="patriotswiremostrecent"
+			href="http://patriotswire.usatoday.com/2017/02/22/3-round-mock-draft-patriots-get-lb-to-replace-jamie-collins-rb-to-replace-blount/"
+			title="3-round Mock draft: Patriots get LB to replace Jamie Collins, RB to replace Blount"
+			class="reply" rel="nofollow"
+			>reply </a>
+					<span class="share-text">
+	<span class="social-count">
+		<span>69</span>
+		shares	</span>
+</span>
+			</div>
+</div>
+									</div>
+
+			
+			<div class="mobile-date">
+				16hr			</div>
+
+			<div class="content  ">
+				
+				<h3>
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/22/3-round-mock-draft-patriots-get-lb-to-replace-jamie-collins-rb-to-replace-blount/"
+						title="3-round Mock draft: Patriots get LB to replace Jamie Collins, RB to replace Blount"
+						itemprop="url" 						>
+							3-round Mock draft: Patriots get LB to replace Jamie Collins, RB to replace Blount					</a>
+				</h3>
+
+				
+				
+				<footer class="meta-info">
+					<p>
+						<a href="http://patriotswire.usatoday.com/category/patriots-analysis/" class="category" itemprop="articleSection">Patriots Analysis</a><span class="dot">&middot;</span>						<span class="time">17 hours ago </span>
+						<span class="dot">&middot;</span>
+						<span class="author-links">
+							<a href="http://patriotswire.usatoday.com/author/henry-mckenna/" title="Posts by Henry McKenna" class="author url fn" rel="author">Henry McKenna</a>													</span>
+					</p>
+				</footer>
+
+				
+				
+				
+			</div>
+		</article>
+	
+		<article class="block big " itemscope itemtype="http://schema.org/NewsArticle">
+
+			
+				<div class="img-holder none light">
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/22/5-stories-patriots-fans-should-read-022217/"
+						title="5 stories Patriots fans should read 02/22/17"
+						class="link fixed-height-img-holder responsiveshort"
+						rel="nofollow"
+						style="background-image: url('https://usatpatriotswire.files.wordpress.com/2017/01/usatsi_9745014.jpg?w=192&#038;h=150&#038;crop=1');"
+						itemprop="url"
+						>
+
+						
+						
+						<img src="https://usatpatriotswire.files.wordpress.com/2017/01/usatsi_9745014.jpg?w=192&#038;h=150&#038;crop=1" width="320" height="250" alt="5 stories Patriots fans should read 02/22/17" itemprop="image">
+						<span class="ie-overlay-hack"></span>
+
+						
+													<a
+								data-track="patriotswiremostrecent"
+								href="http://patriotswire.usatoday.com/2017/02/22/5-stories-patriots-fans-should-read-022217/"
+								title="5 stories Patriots fans should read 02/22/17"
+								class="ico-comments"
+								rel="nofollow"
+								itemprop="url"
+								>
+									0							</a>
+											</a>
+
+											
+<div class="meta" onclick="location.href='http://patriotswire.usatoday.com/2017/02/22/5-stories-patriots-fans-should-read-022217/';">
+	<div class="reply-block">
+		<a
+			data-track="patriotswiremostrecent"
+			href="http://patriotswire.usatoday.com/2017/02/22/5-stories-patriots-fans-should-read-022217/"
+			title="5 stories Patriots fans should read 02/22/17"
+			class="reply" rel="nofollow"
+			>reply </a>
+					<span class="share-text">
+	<span class="social-count">
+		<span>12</span>
+		shares	</span>
+</span>
+			</div>
+</div>
+									</div>
+
+			
+			<div class="mobile-date">
+				17hr			</div>
+
+			<div class="content  ">
+				
+				<h3>
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/22/5-stories-patriots-fans-should-read-022217/"
+						title="5 stories Patriots fans should read 02/22/17"
+						itemprop="url" 						>
+							5 stories Patriots fans should read 02/22/17					</a>
+				</h3>
+
+				
+				
+				<footer class="meta-info">
+					<p>
+						<a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a><span class="dot">&middot;</span>						<span class="time">17 hours ago </span>
+						<span class="dot">&middot;</span>
+						<span class="author-links">
+							<a href="http://patriotswire.usatoday.com/author/allengra/" title="Posts by Jaydeen Allen" class="author url fn" rel="author">Jaydeen Allen</a>													</span>
+					</p>
+				</footer>
+
+				
+				
+				
+			</div>
+		</article>
+	<article class="block block--hero">
+	<a
+		data-track="patriotswiremostrecent"
+		href="http://patriotswire.usatoday.com/2017/02/22/could-patriots-sign-jared-cook-if-martellus-bennett-leaves/"
+		title="Could Patriots sign Jared Cook if Martellus Bennett leaves?"
+		rel=""
+		itemprop="url"
+		class="block__link"
+			>
+		<img
+			src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-631245226.jpg?w=680&#038;h=420&#038;crop=1"
+			width="680"
+			height="420"
+			alt="Could Patriots sign Jared Cook if Martellus Bennett leaves?"
+			itemprop="image"
+			class="block__image"
+		>
+			</a>
+	<div class="block__content">
+		<h4 class="block__category">
+			<a href="http://patriotswire.usatoday.com/category/patriots-news/" class="block__category__link" itemprop="articleSection">Patriots News</a>		</h4>
+		<h2 class="block__title">
+			<a
+				data-track="patriotswiremostrecent"
+				href="http://patriotswire.usatoday.com/2017/02/22/could-patriots-sign-jared-cook-if-martellus-bennett-leaves/"
+				title="Could Patriots sign Jared Cook if Martellus Bennett leaves?"
+				itemprop="url"
+				rel=""
+				class="block__title__link"
+							>
+					Could Patriots sign Jared Cook if Martellus Bennett leaves?			</a>
+		</h2>
+							
+<div class="meta" onclick="location.href='http://patriotswire.usatoday.com/2017/02/22/could-patriots-sign-jared-cook-if-martellus-bennett-leaves/';">
+	<div class="reply-block">
+		<a
+			data-track="patriotswiremostrecent"
+			href="http://patriotswire.usatoday.com/2017/02/22/could-patriots-sign-jared-cook-if-martellus-bennett-leaves/"
+			title="Could Patriots sign Jared Cook if Martellus Bennett leaves?"
+			class="reply" rel="nofollow"
+			>reply </a>
+					<span class="share-text">
+	<span class="social-count">
+		<span>206</span>
+		shares	</span>
+</span>
+			</div>
+</div>
+			</div>
+</article>
+
+		<article class="block big " itemscope itemtype="http://schema.org/NewsArticle">
+
+			
+				<div class="img-holder none light">
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/21/legarrette-blount-wants-to-re-sign-with-patriots-i-love-it-there/"
+						title="LeGarrette Blount wants to re-sign with Patriots: &#039;I love it there&#039;"
+						class="link fixed-height-img-holder responsiveshort"
+						rel="nofollow"
+						style="background-image: url('https://usatpatriotswire.files.wordpress.com/2016/12/usatsi_8276374.jpg?w=192&#038;h=150&#038;crop=1');"
+						itemprop="url"
+						>
+
+						
+						
+						<img src="https://usatpatriotswire.files.wordpress.com/2016/12/usatsi_8276374.jpg?w=192&#038;h=150&#038;crop=1" width="320" height="250" alt="LeGarrette Blount wants to re-sign with Patriots: &#039;I love it there&#039;" itemprop="image">
+						<span class="ie-overlay-hack"></span>
+
+						
+													<a
+								data-track="patriotswiremostrecent"
+								href="http://patriotswire.usatoday.com/2017/02/21/legarrette-blount-wants-to-re-sign-with-patriots-i-love-it-there/"
+								title="LeGarrette Blount wants to re-sign with Patriots: &#039;I love it there&#039;"
+								class="ico-comments"
+								rel="nofollow"
+								itemprop="url"
+								>
+									0							</a>
+											</a>
+
+											
+<div class="meta" onclick="location.href='http://patriotswire.usatoday.com/2017/02/21/legarrette-blount-wants-to-re-sign-with-patriots-i-love-it-there/';">
+	<div class="reply-block">
+		<a
+			data-track="patriotswiremostrecent"
+			href="http://patriotswire.usatoday.com/2017/02/21/legarrette-blount-wants-to-re-sign-with-patriots-i-love-it-there/"
+			title="LeGarrette Blount wants to re-sign with Patriots: &#039;I love it there&#039;"
+			class="reply" rel="nofollow"
+			>reply </a>
+					<span class="share-text">
+	<span class="social-count">
+		<span>1.3k</span>
+		shares	</span>
+</span>
+			</div>
+</div>
+									</div>
+
+			
+			<div class="mobile-date">
+				2d			</div>
+
+			<div class="content  ">
+				
+				<h3>
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/21/legarrette-blount-wants-to-re-sign-with-patriots-i-love-it-there/"
+						title="LeGarrette Blount wants to re-sign with Patriots: &#039;I love it there&#039;"
+						itemprop="url" 						>
+							LeGarrette Blount wants to re-sign with Patriots: 'I love it there'					</a>
+				</h3>
+
+				
+				
+				<footer class="meta-info">
+					<p>
+						<a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a><span class="dot">&middot;</span>						<span class="time">February 21, 2017 2:02 pm ET </span>
+						<span class="dot">&middot;</span>
+						<span class="author-links">
+							<a href="http://patriotswire.usatoday.com/author/henry-mckenna/" title="Posts by Henry McKenna" class="author url fn" rel="author">Henry McKenna</a>													</span>
+					</p>
+				</footer>
+
+				
+				
+				
+			</div>
+		</article>
+	
+		<article class="block big " itemscope itemtype="http://schema.org/NewsArticle">
+
+			
+				<div class="img-holder none light">
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/21/jets-2015-revis-tampering-was-exponentially-worse-than-initially-reported/"
+						title="Jets&#039; 2015 Revis tampering was exponentially worse than initially reported"
+						class="link fixed-height-img-holder responsiveshort"
+						rel="nofollow"
+						style="background-image: url('https://usatpatriotswire.files.wordpress.com/2017/02/usatsi_9659298.jpg?w=192&#038;h=150&#038;crop=1');"
+						itemprop="url"
+						>
+
+						
+						
+						<img src="https://usatpatriotswire.files.wordpress.com/2017/02/usatsi_9659298.jpg?w=192&#038;h=150&#038;crop=1" width="320" height="250" alt="Jets&#039; 2015 Revis tampering was exponentially worse than initially reported" itemprop="image">
+						<span class="ie-overlay-hack"></span>
+
+						
+													<a
+								data-track="patriotswiremostrecent"
+								href="http://patriotswire.usatoday.com/2017/02/21/jets-2015-revis-tampering-was-exponentially-worse-than-initially-reported/"
+								title="Jets&#039; 2015 Revis tampering was exponentially worse than initially reported"
+								class="ico-comments"
+								rel="nofollow"
+								itemprop="url"
+								>
+									0							</a>
+											</a>
+
+											
+<div class="meta" onclick="location.href='http://patriotswire.usatoday.com/2017/02/21/jets-2015-revis-tampering-was-exponentially-worse-than-initially-reported/';">
+	<div class="reply-block">
+		<a
+			data-track="patriotswiremostrecent"
+			href="http://patriotswire.usatoday.com/2017/02/21/jets-2015-revis-tampering-was-exponentially-worse-than-initially-reported/"
+			title="Jets&#039; 2015 Revis tampering was exponentially worse than initially reported"
+			class="reply" rel="nofollow"
+			>reply </a>
+					<span class="share-text">
+	<span class="social-count">
+		<span>65</span>
+		shares	</span>
+</span>
+			</div>
+</div>
+									</div>
+
+			
+			<div class="mobile-date">
+				2d			</div>
+
+			<div class="content  ">
+				
+				<h3>
+					<a
+						data-track="patriotswiremostrecent"
+						href="http://patriotswire.usatoday.com/2017/02/21/jets-2015-revis-tampering-was-exponentially-worse-than-initially-reported/"
+						title="Jets&#039; 2015 Revis tampering was exponentially worse than initially reported"
+						itemprop="url" 						>
+							Jets' 2015 Revis tampering was exponentially worse than initially reported					</a>
+				</h3>
+
+				
+				
+				<footer class="meta-info">
+					<p>
+						<a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a><span class="dot">&middot;</span>						<span class="time">February 21, 2017 1:26 pm ET </span>
+						<span class="dot">&middot;</span>
+						<span class="author-links">
+							<a href="http://patriotswire.usatoday.com/author/samsmith3795/" title="Posts by Sam Benson Smith" class="author url fn" rel="author">Sam Benson Smith</a>													</span>
+					</p>
+				</footer>
+
+				
+				
+				
+			</div>
+		</article>
+	</div>
+<a href="http://patriotswire.usatoday.com" class="article__back">More Patriots Wire</a>
+
+		
+	</div><!-- #content -->
+</div><!-- #primary -->
+
+
+<div id="secondary" class="widget-area container sidebar--follow" role="complementary">
+
+	
+	<aside id="sidebar-read-more" class="widget sidebar-upper">
+
+		<div class="widget sidebar-ad top">
+			<div id='acm-ad-tag-lawrence_dfp_desktop_top_300x250' style='width:%width%px; height:%height%px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('acm-ad-tag-lawrence_dfp_desktop_top_300x250'); });</script></div>		</div>
+
+		
+		<div class="widget widget--newsletter widget--box" id="newsletter_widget-2"><div class="heading-small">
+	<h2>Newsletter</h2>
+</div>
+
+<div class="newsletter__wrapper">
+
+	<form action="http://patriotswire.usatoday.com/wp-json/usat/v1/gems/subscribe/">
+
+		<h3 class="newsletter__header">Want the latest news and insights on your favorite team?</h3>
+
+		<input
+			type="email"
+			class="newsletter__input"
+			placeholder="Enter your email address"
+			name="email"
+			required
+		>
+		<button
+			type="submit"
+			class="newsletter__button"
+		>Sign up</button>
+
+		<p class="newsletter__text">Sign up for our newsletter and get every update delivered to your inbox!</p>
+
+	</form>
+
+	<div class="newsletter__state newsletter__state--success">
+
+		<h3 class="newsletter__header">Success</h3>
+
+		<p class="newsletter__text">
+			Thanks for signing up.<br>
+			You'll be waking up a little more awesome tomorrow.
+		</p>
+
+	</div>
+
+	<div class="newsletter__state newsletter__state--error">
+
+		<h3 class="newsletter__header">Whoa!</h3>
+
+		<p class="newsletter__text newsletter__text--error">
+			Something went wrong.
+		</p>
+
+		<button class="newsletter__button newsletter__button--reset">
+			Try again?
+		</button>
+
+	</div>
+</div>
+</div><div class="widget widget_usat_sidebar_top_posts_widget" id="usat_sidebar_top_posts_widget-2">		<div class="col1 right" id="sticky-sidebar">
+				<div class="heading-small">
+		<h2>10 Most <span>Popular</span></h2>
+	</div>
+				
+					<article class="block standard-thumbnail" itemscope itemtype="http://schema.org/NewsArticle">
+						<a style="background-image:url('https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633940794.jpg?w=480');" data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/16/this-is-the-most-belichick-thing-ever/" title="This is the most Belichick thing ever" class="img-holder link light" rel="nofollow" itemprop="url">
+				<img src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633940794.jpg?w=100&#038;h=100&#038;crop=1" alt="This is the most Belichick thing ever" itemprop="image">
+
+								<span class="ie-overlay-hack"></span>
+                                			</a>
+						<div class="mobile-date">
+				1w			</div>
+			<div class="text-block">	
+															 		<h2>
+			 			<span>35k</span>
+			 			 shares			 						 		</h2>
+			 									<p><a data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/16/this-is-the-most-belichick-thing-ever/" title="This is the most Belichick thing ever" itemprop="url" >This is the most Belichick thing ever</a></p>
+				<p class="widget-date">February 16, 2017</p>
+				<h2 class="widget-category"><a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a>				</h2>
+							</div>
+		</article>
+				<article class="block standard-thumbnail" itemscope itemtype="http://schema.org/NewsArticle">
+						<a style="background-image:url('https://usatpatriotswire.files.wordpress.com/2016/10/gettyimages-52740509-e1477671154257.jpg?w=387');" data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/19/tom-brady-explains-why-he-missed-white-house-trip-under-barack-obama/" title="Tom Brady explains why he missed White House trip under Barack Obama" class="img-holder link light" rel="nofollow" itemprop="url">
+				<img src="https://usatpatriotswire.files.wordpress.com/2016/10/gettyimages-52740509-e1477671154257.jpg?w=100&#038;h=100&#038;crop=1" alt="Tom Brady explains why he missed White House trip under Barack Obama" itemprop="image">
+
+								<span class="ie-overlay-hack"></span>
+                                			</a>
+						<div class="mobile-date">
+				4d			</div>
+			<div class="text-block">	
+															 		<h2>
+			 			<span>14k</span>
+			 			 shares			 						 		</h2>
+			 									<p><a data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/19/tom-brady-explains-why-he-missed-white-house-trip-under-barack-obama/" title="Tom Brady explains why he missed White House trip under Barack Obama" itemprop="url" >Tom Brady explains why he missed White House trip under Barack Obama</a></p>
+				<p class="widget-date">February 19, 2017</p>
+				<h2 class="widget-category"><a href="http://patriotswire.usatoday.com/category/tom-brady/" class="category" itemprop="articleSection">Tom Brady</a>				</h2>
+							</div>
+		</article>
+				<article class="block standard-thumbnail" itemscope itemtype="http://schema.org/NewsArticle">
+						<a style="background-image:url('https://usatpatriotswire.files.wordpress.com/2016/12/usatsi_8276374.jpg?w=439');" data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/21/legarrette-blount-wants-to-re-sign-with-patriots-i-love-it-there/" title="LeGarrette Blount wants to re-sign with Patriots: &#039;I love it there&#039;" class="img-holder link light" rel="nofollow" itemprop="url">
+				<img src="https://usatpatriotswire.files.wordpress.com/2016/12/usatsi_8276374.jpg?w=100&#038;h=100&#038;crop=1" alt="LeGarrette Blount wants to re-sign with Patriots: &#039;I love it there&#039;" itemprop="image">
+
+								<span class="ie-overlay-hack"></span>
+                                			</a>
+						<div class="mobile-date">
+				2d			</div>
+			<div class="text-block">	
+															 		<h2>
+			 			<span>1.3k</span>
+			 			 shares			 						 		</h2>
+			 									<p><a data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/21/legarrette-blount-wants-to-re-sign-with-patriots-i-love-it-there/" title="LeGarrette Blount wants to re-sign with Patriots: &#039;I love it there&#039;" itemprop="url" >LeGarrette Blount wants to re-sign with Patriots: 'I love it there'</a></p>
+				<p class="widget-date">February 21, 2017</p>
+				<h2 class="widget-category"><a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a>				</h2>
+							</div>
+		</article>
+				<article class="block standard-thumbnail" itemscope itemtype="http://schema.org/NewsArticle">
+						<a style="background-image:url('https://usatpatriotswire.files.wordpress.com/2017/02/usatsi_9862015.jpg?w=480');" data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/patriots-uncharacteristically-unprepared-for-potential-departure-of-donta-hightower/" title="Patriots uncharacteristically unprepared for potential departure of Dont&#039;a Hightower" class="img-holder link light" rel="nofollow" itemprop="url">
+				<img src="https://usatpatriotswire.files.wordpress.com/2017/02/usatsi_9862015.jpg?w=100&#038;h=100&#038;crop=1" alt="Patriots uncharacteristically unprepared for potential departure of Dont&#039;a Hightower" itemprop="image">
+
+								<span class="ie-overlay-hack"></span>
+                                			</a>
+						<div class="mobile-date">
+				14hr			</div>
+			<div class="text-block">	
+															 		<h2>
+			 			<span>100</span>
+			 			 shares			 						 		</h2>
+			 									<p><a data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/patriots-uncharacteristically-unprepared-for-potential-departure-of-donta-hightower/" title="Patriots uncharacteristically unprepared for potential departure of Dont&#039;a Hightower" itemprop="url" >Patriots uncharacteristically unprepared for potential departure of Dont'a Hightower</a></p>
+				<p class="widget-date"></p>
+				<h2 class="widget-category"><a href="http://patriotswire.usatoday.com/category/patriots-analysis/" class="category" itemprop="articleSection">Patriots Analysis</a>				</h2>
+							</div>
+		</article>
+				<article class="block standard-thumbnail" itemscope itemtype="http://schema.org/NewsArticle">
+						<a style="background-image:url('https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=400');" data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" title="Look at Tom Brady&#039;s &#039;suspect board&#039; for his stolen Super Bowl jersey" class="img-holder link light" rel="nofollow" itemprop="url">
+				<img src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633604920.jpg?w=100&#038;h=100&#038;crop=1" alt="Look at Tom Brady&#039;s &#039;suspect board&#039; for his stolen Super Bowl jersey" itemprop="image">
+
+								<span class="ie-overlay-hack"></span>
+                                			</a>
+						<div class="mobile-date">
+				14hr			</div>
+			<div class="text-block">	
+															 		<h2>
+			 			<span>233</span>
+			 			 shares			 						 		</h2>
+			 									<p><a data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/look-at-tom-bradys-suspect-board-for-his-stolen-jersey/" title="Look at Tom Brady&#039;s &#039;suspect board&#039; for his stolen Super Bowl jersey" itemprop="url" >Look at Tom Brady's 'suspect board' for his stolen Super Bowl jersey</a></p>
+				<p class="widget-date"></p>
+				<h2 class="widget-category"><a href="http://patriotswire.usatoday.com/category/tom-brady/" class="category" itemprop="articleSection">Tom Brady</a>				</h2>
+							</div>
+		</article>
+				<article class="block standard-thumbnail" itemscope itemtype="http://schema.org/NewsArticle">
+						<a style="background-image:url('https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-631245226.jpg?w=480');" data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/could-patriots-sign-jared-cook-if-martellus-bennett-leaves/" title="Could Patriots sign Jared Cook if Martellus Bennett leaves?" class="img-holder link light" rel="nofollow" itemprop="url">
+				<img src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-631245226.jpg?w=100&#038;h=100&#038;crop=1" alt="Could Patriots sign Jared Cook if Martellus Bennett leaves?" itemprop="image">
+
+								<span class="ie-overlay-hack"></span>
+                                			</a>
+						<div class="mobile-date">
+				17hr			</div>
+			<div class="text-block">	
+															 		<h2>
+			 			<span>206</span>
+			 			 shares			 						 		</h2>
+			 									<p><a data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/could-patriots-sign-jared-cook-if-martellus-bennett-leaves/" title="Could Patriots sign Jared Cook if Martellus Bennett leaves?" itemprop="url" >Could Patriots sign Jared Cook if Martellus Bennett leaves?</a></p>
+				<p class="widget-date"></p>
+				<h2 class="widget-category"><a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a>				</h2>
+							</div>
+		</article>
+				<article class="block standard-thumbnail" itemscope itemtype="http://schema.org/NewsArticle">
+						<a style="background-image:url('https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633436162.jpg?w=480');" data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/martellus-bennett-asks-if-youd-take-less-money-in-your-job/" title="Martellus Bennett asks if you&#039;d take less money in your job" class="img-holder link light" rel="nofollow" itemprop="url">
+				<img src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-633436162.jpg?w=100&#038;h=100&#038;crop=1" alt="Martellus Bennett asks if you&#039;d take less money in your job" itemprop="image">
+
+								<span class="ie-overlay-hack"></span>
+                                			</a>
+						<div class="mobile-date">
+				8hr			</div>
+			<div class="text-block">	
+															 		<h2>
+			 			<span>245</span>
+			 			 shares			 						 		</h2>
+			 									<p><a data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/martellus-bennett-asks-if-youd-take-less-money-in-your-job/" title="Martellus Bennett asks if you&#039;d take less money in your job" itemprop="url" >Martellus Bennett asks if you'd take less money in your job</a></p>
+				<p class="widget-date"></p>
+				<h2 class="widget-category"><a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a>				</h2>
+							</div>
+		</article>
+				<article class="block standard-thumbnail" itemscope itemtype="http://schema.org/NewsArticle">
+						<a style="background-image:url('https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-621278886.jpg?w=480');" data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/3-round-mock-draft-patriots-get-lb-to-replace-jamie-collins-rb-to-replace-blount/" title="3-round Mock draft: Patriots get LB to replace Jamie Collins, RB to replace Blount" class="img-holder link light" rel="nofollow" itemprop="url">
+				<img src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-621278886.jpg?w=100&#038;h=100&#038;crop=1" alt="3-round Mock draft: Patriots get LB to replace Jamie Collins, RB to replace Blount" itemprop="image">
+
+								<span class="ie-overlay-hack"></span>
+                                			</a>
+						<div class="mobile-date">
+				16hr			</div>
+			<div class="text-block">	
+															 		<h2>
+			 			<span>69</span>
+			 			 shares			 						 		</h2>
+			 									<p><a data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/3-round-mock-draft-patriots-get-lb-to-replace-jamie-collins-rb-to-replace-blount/" title="3-round Mock draft: Patriots get LB to replace Jamie Collins, RB to replace Blount" itemprop="url" >3-round Mock draft: Patriots get LB to replace Jamie Collins, RB to replace Blount</a></p>
+				<p class="widget-date"></p>
+				<h2 class="widget-category"><a href="http://patriotswire.usatoday.com/category/patriots-analysis/" class="category" itemprop="articleSection">Patriots Analysis</a>				</h2>
+							</div>
+		</article>
+				<article class="block standard-thumbnail" itemscope itemtype="http://schema.org/NewsArticle">
+						<a style="background-image:url('https://usatpatriotswire.files.wordpress.com/2017/02/usatsi_9862415.jpg?w=424');" data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/everyone-advised-robert-kraft-against-hiring-bill-belichick-in-2000/" title="Everyone advised Robert Kraft against hiring Bill Belichick in 2000" class="img-holder link light" rel="nofollow" itemprop="url">
+				<img src="https://usatpatriotswire.files.wordpress.com/2017/02/usatsi_9862415.jpg?w=100&#038;h=100&#038;crop=1" alt="Everyone advised Robert Kraft against hiring Bill Belichick in 2000" itemprop="image">
+
+								<span class="ie-overlay-hack"></span>
+                                			</a>
+						<div class="mobile-date">
+				13hr			</div>
+			<div class="text-block">	
+															 		<h2>
+			 			<span>50</span>
+			 			 shares			 						 		</h2>
+			 									<p><a data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/22/everyone-advised-robert-kraft-against-hiring-bill-belichick-in-2000/" title="Everyone advised Robert Kraft against hiring Bill Belichick in 2000" itemprop="url" >Everyone advised Robert Kraft against hiring Bill Belichick in 2000</a></p>
+				<p class="widget-date"></p>
+				<h2 class="widget-category"><a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a>				</h2>
+							</div>
+		</article>
+				<article class="block standard-thumbnail" itemscope itemtype="http://schema.org/NewsArticle">
+						<a style="background-image:url('https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-634163858.jpg?w=480');" data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/21/jimmy-garoppolos-mom-is-on-top-of-every-one-of-his-trade-rumors/" title="Jimmy Garoppolo&#039;s mom is on top of every one of his trade rumors" class="img-holder link light" rel="nofollow" itemprop="url">
+				<img src="https://usatpatriotswire.files.wordpress.com/2017/02/gettyimages-634163858.jpg?w=100&#038;h=100&#038;crop=1" alt="Jimmy Garoppolo&#039;s mom is on top of every one of his trade rumors" itemprop="image">
+
+								<span class="ie-overlay-hack"></span>
+                                			</a>
+						<div class="mobile-date">
+				2d			</div>
+			<div class="text-block">	
+															 		<h2>
+			 			<span>802</span>
+			 			 shares			 						 		</h2>
+			 									<p><a data-track="patriotswiremostshared" href="http://patriotswire.usatoday.com/2017/02/21/jimmy-garoppolos-mom-is-on-top-of-every-one-of-his-trade-rumors/" title="Jimmy Garoppolo&#039;s mom is on top of every one of his trade rumors" itemprop="url" >Jimmy Garoppolo's mom is on top of every one of his trade rumors</a></p>
+				<p class="widget-date">February 21, 2017</p>
+				<h2 class="widget-category"><a href="http://patriotswire.usatoday.com/category/patriots-news/" class="category" itemprop="articleSection">Patriots News</a>				</h2>
+							</div>
+		</article>
+					
+		</div>
+		</div>
+		<div class="widget sidebar-ad bottom">
+			<div id='acm-ad-tag-lawrence_dfp_desktop_bottom_300x250' style='width:%width%px; height:%height%px;'><script type='text/javascript'>
+					(function ($, win, doc) {
+						$(doc).ready(function () {
+							var lazyLoadAd = function (event) {
+								if( ! bottomAdMobileRendered ){
+									var container = $( '#acm-ad-tag-lawrence_dfp_desktop_bottom_300x250' ).offset(),
+									    adLoadPoint = $( window ).scrollTop() + $( window ).height();
+
+									if ( adLoadPoint >= container.top ) {
+										$( win ).off( 'scroll', lazyLoadAd );
+										googletag_cmd_push( function() {window["lawrence_dfp_desktop_bottom_300x250"] = googletag.defineSlot("/7103/SMG_Q_OO/300x250_2a/sports/general/patswire", [[300,250],[300,600]], "acm-ad-tag-lawrence_dfp_desktop_bottom_300x250").addService(googletag.pubads().setTargeting('kw',["New England Patriots","super bowl LI","Tom Brady","Henry McKenna","Patriots News"]).setTargeting('category',["Patriots News","Tom Brady"]).setTargeting("title", sdpTargeting.title).setTargeting("targetPaths", sdpTargeting.targetPaths).setTargeting("fullPath", sdpTargeting.fullPath).setTargeting("queryStr", sdpTargeting.queryStr).setTargeting("domainName", sdpTargeting.domainName) );
+											if ( 'undefined' !== typeof amznads ) {
+												(function() {
+												    var key = 'amznslots';
+												    var values = amznads.getTokens();
+												    try {
+												        googletag.pubads().clearTargeting( 'amznslots' );
+												        amznads.setTargetingForGPTAsync( 'amznslots' );
+												    } catch(e) {}
+												})();
+											}
+
+											googletag.display( 'acm-ad-tag-lawrence_dfp_desktop_bottom_300x250' );
+												prebidHelper.requestBid( 'lawrence_dfp_desktop_bottom_300x250' );
+										});
+									}
+								}
+							};
+							$(win).on('scroll', lazyLoadAd);
+						});
+						googletag_cmd_push( function() {
+							googletag.pubads().addEventListener( 'slotRenderEnded', function( evt ) {
+								var cnterDim,
+									tagId = evt.slot.getSlotId().getDomId();
+
+								if ( 'acm-ad-tag-lawrence_dfp_desktop_bottom_300x250' === tagId ) {
+									cnterDim = evt.size;
+
+									if ( cnterDim instanceof Array ) {
+										$( '#acm-ad-tag-lawrence_dfp_desktop_bottom_300x250' ).css({
+											width : cnterDim[0],
+											height : auto
+										});
+									}
+								}
+							});
+						});
+					})(jQuery, window, document);</script></div>		</div>
+
+		
+<div id="footer-info">
+	<p class="footer__logo">
+		<a href="http://usatodaysports.com" rel="nofollow" target="_blank">
+			<img src="https://usatpatriotswire.files.wordpress.com/2016/08/usa_today_sdp_extremehoriz.png" alt="USA Today Sports">
+		</a>
+	</p>
+
+	<div class="togglee">
+		<div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="http://patriotswire.usatoday.com/corrections/">Corrections</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://patriotswire.usatoday.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="http://patriotswire.usatoday.com/privacy-notice-your-california-privacy-rights/">Privacy Notice / Your California Privacy Rights</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="/privacy/#adchoices">Ad Choices</a></li>
+</ul></div>
+				<p class="footer-legal">
+			This site is neither endorsed, nor sponsored by, nor affiliated with Patriots Wire or NFL Properties LLC. PATRIOTS is a registered trademark of the Patriots Wire LLC.		</p>
+		
+		<p class="poweredby-wordpress">
+			Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a>		</p>
+	</div>
+
+	<p class="toggler">
+		<a href="#footer-toggle" rel="nofollow">
+			More Information		</a>
+		<span class="arrow-up"></span>
+	</p>
+
+	<script type="text/javascript">
+		var footer_expand_text   = "More Information";
+		var footer_collapse_text = "Less Information";
+	</script>
+</div>
+
+	</aside>
+
+	<div id="secondary-bottom"></div>
+
+</div><!-- #secondary -->
+<div style="clear:both;"></div>
+			</div><!-- Site Main -->
+		</div><!-- Wrapper Holder -->
+	</div><!-- Wrapper -->
+
+	
+	<!-- wpcom_wp_footer -->
+<script type="text/javascript">
+(function() {
+var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "http://trends.revcontent.com/serve.js.php?w=45666&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_bf5c5f"); rcds.appendChild(rcel);
+})();
+</script>
+<div class="mobile-nav" id="mobile-nav-holder">
+	<div class="mobile-nav__header">
+		<img class="mobile-nav__logo" src="https://usatpatriotswire.files.wordpress.com/2016/08/patriotswirefavicon.png" alt="Patriots Wire">
+		<a class="mobile-nav__breadcrumb" href="http://patriotswire.usatoday.com">Home</a>
+		<span class="mobile-nav__close"></span>
+	</div>
+		<ul class="mobile-nav__social ">
+					<li class="mobile-nav__item mobile-nav__item--stalk">Follow us&hellip;</li>
+					</ul>
+	<ul class="mobile-nav__menu">
+		<li class="mobile-nav__item mobile-nav__item--tom-brady"><a href="http://patriotswire.usatoday.com/category/tom-brady/">Tom Brady</a></li>
+<li class="mobile-nav__item mobile-nav__item--bill-belichick"><a href="http://patriotswire.usatoday.com/category/bill-belichick/">Bill Belichick</a></li>
+<li class="mobile-nav__item mobile-nav__item--patriots-news"><a href="http://patriotswire.usatoday.com/category/patriots-news/">Patriots News</a></li>
+<li class="mobile-nav__item mobile-nav__item--patriots-analysis"><a href="http://patriotswire.usatoday.com/category/patriots-analysis/">Patriots Analysis</a></li>
+<li class="mobile-nav__item mobile-nav__item--gronk"><a href="http://patriotswire.usatoday.com/category/gronk/">Gronk</a></li>
+<li class="mobile-nav__item mobile-nav__item--julian-edelman"><a href="http://patriotswire.usatoday.com/category/julian-edelman/">Julian Edelman</a></li>
+<li class="mobile-nav__item mobile-nav__item--video"><a href="http://patriotswire.usatoday.com/category/video/">Video</a></li>
+<li class="mobile-nav__item mobile-nav__item--film-study"><a href="http://patriotswire.usatoday.com/category/film-study/">Film Study</a></li>
+	</ul>
+	<ul class="mobile-nav__footer-menu">
+		<li id="menu-item-15" class="mobile-nav__item mobile-nav__item--corrections"><a href="http://patriotswire.usatoday.com/corrections/">Corrections</a></li>
+<li id="menu-item-13" class="mobile-nav__item mobile-nav__item--terms-of-service"><a href="http://patriotswire.usatoday.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-14" class="mobile-nav__item mobile-nav__item--privacy-notice-your-california-privacy-rights"><a href="http://patriotswire.usatoday.com/privacy-notice-your-california-privacy-rights/">Privacy Notice / Your California Privacy Rights</a></li>
+<li id="menu-item-12" class="mobile-nav__item mobile-nav__item--ad-choices"><a href="/privacy/#adchoices">Ad Choices</a></li>
+
+				<li class="mobile-nav__item mobile-nav__item--legal">
+			This site is neither endorsed, nor sponsored by, nor affiliated with Patriots Wire or NFL Properties LLC. PATRIOTS is a registered trademark of the Patriots Wire LLC.		</li>
+		
+					<li class="mobile-nav__item mobile-nav__item--vipcom">
+				Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a>			</li>
+			</ul>
+
+			<a
+			class="mobile-nav__footer"
+			href="http://usatodaysports.com"
+			target="_blank"
+			title="USA Today Sports"
+			rel="nofollow"
+		>
+			<img class="mobile-nav__footer-image" src="https://usatpatriotswire.files.wordpress.com/2016/08/usat-logo-mobile-off-canvas.png">
+		</a>
+	</div>
+<div id="main_ad" style="height:1px; width:1px; overflow:auto;position: absolute;left: -999em;"><!--AD UNIT 4--></div><script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201708y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/usatpatriotswire.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/usatpatriotswire.wordpress.com\/wp-login.php?action=logout&_wpnonce=769c8a4cfc","homeURL":"http:\/\/patriotswire.usatoday.com\/","postID":"16847","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVy0sOQDAUheENqevRhIlYC3VDq61yWywfMWEiMf3P+WBzTEzWo/WgCDpcpUC3x4oieEwmMKdDLy2BliMSzAEDDo3tNC4fZzEZcyZ2I3XpFmiTDv+gVzhhbaqUFwnPeVpm6gAi2kfU'></script>
+<script type='text/javascript' src='https://native.sharethrough.com/assets/sfp.js?ver=1'></script>
+<script type='text/javascript'>
+var switchTo5x=true;var useFastShare=false; var __st_loadLate=true;
+</script>
+<script type='text/javascript' src='https://ws.sharethis.com/button/buttons.js'></script>
+<script type='text/javascript'>
+stLight.options({"publisher":"fd7eb3e3-60ab-4eeb-9e7b-cb89e8ec8c83","doNotHash":false,"doNotCopy":true,"hashAddressBar":false,"newOrZero":"zero","onhover":false,"shorten:":"false","tracking":true,"publisherGA":"UA-61268516-21","servicePopup":true});
+</script>
+<script type='text/javascript' async="async" src='//cdn4.wibbitz.com/patriotswire/embed.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _LAWRENCE_MAIN_EXPORTS = {"right_rail_ad_delay":{"distance":"2000","seconds":"10","active":"1"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wasabiFacebookReferral = "0";
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJydkt1OwzAMhV+ILBQGggvEs7ip6Rzy08VOQ99+LhICsQmx3kXROd85sWPbZFxOgkmsHDAi25kmWxkkD7CYAK1gcmg920C99ceKZdm5nN8Jd55v7BWACJSu9QhCoBoNfqicKSf+TYjVTKGOlNjemZXjP3EGEoRFyJ0ZLkV+ERow9LQiqlDYaE0w0wiiZbf5mQbsoWwzQ9E3h3/t5tx8aUM/5gtDpGS0mgpZsOjJ5BlL0cL8ffcHgQ+5iMurXOPewGGvX2njmLFxQNFM02gYURTzGl+6/dNj93D7fN/5E0Q8FWs='></script>
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'105974746','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'105974746','v':'wpcom','tz':'-5','user_id':'0','post':'16847','subd':'usatpatriotswire'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=105974746&v=wpcomvt&tz=-5&user_id=0&post=16847&subd=usatpatriotswire&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTcvN1dHVE8tU1Y5Tk5xJUNPdGUvNWlURCVDWHdySjhHMEF6azhRa2xxSC5tLj1TNUl6MTFIVmxZcy1+TzIrTzh0S3Y2czV3RCtsSzNtajdZcjhnVDRONW5OaEc/eTI9ck9PTC9BYi9weD0sT19KeC94flZNJktVUVd3WGk0Tnxsa1hOVGdrQ0kydGZRLnl+UnVVQ2tRSF9oM35kVUZuRlV8OEpRUlo9aFk1dmpQQXp5bDVoZEZdS2slcXVdP1p2Ul9TVnVYJVk='}]);
+_stq.push([ 'clickTrackerInit', '105974746', '16847' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>
+
+
+<!--
+$$\
+$$ |
+$$ |      $$$$$$\  $$\  $$\  $$\  $$$$$$\   $$$$$$\  $$$$$$$\   $$$$$$$\  $$$$$$\
+$$ |      \____$$\ $$ | $$ | $$ |$$  __$$\ $$  __$$\ $$  __$$\ $$  _____|$$  __$$\
+$$ |      $$$$$$$ |$$ | $$ | $$ |$$ |  \__|$$$$$$$$ |$$ |  $$ |$$ /      $$$$$$$$ |
+$$ |     $$  __$$ |$$ | $$ | $$ |$$ |      $$   ____|$$ |  $$ |$$ |      $$   ____|
+$$$$$$$$\$$$$$$$ |\$$$$$\$$$$  |$$ |      \$$$$$$$\ $$ |  $$ |\$$$$$$$\ \$$$$$$$\
+\________|\_______| \_____\____/ \__|       \_______|\__|  \__| \_______| \_______|
+
+Brought to you by your good friends at USA Today Sports.
+-->
