@@ -1,0 +1,569 @@
+    #[1]alternate [2]alternate [3]publisher
+
+   [4]Sporting News [5]SN
+     * [6]Login
+     * [7]Register
+     * [8]My Account
+
+     * Edition:
+     * [us.png?v1] USA
+     * |
+     * [australia.png] AUS
+
+   [9]Sporting News [10]Menu
+     *
+          + Edition:
+          + [us.png] USA
+          + |
+          + [australia.png] AUS
+     * [11]NFL
+     * [12]MLB
+     * [13]NBA
+     * [14]NHL
+     * [15]NCAAF
+     * [16]NCAAB
+     * [17]NASCAR
+     * [18]FANTASY
+     * [19]SOCCER
+     * [20]ATHLETICS
+     * [21]TENNIS
+     * [22]GOLF
+     * [23]MMA
+     * [24]WWE
+     * [25]OTHER SPORTS
+     * [26]MORE
+          + [27]SN ON FACEBOOK
+          + [28]SN ON TWITTER
+          + [29]SN ON INSTAGRAM
+          + [30]GOAL
+          + [31]WRITERS
+          + [32]NEWSLETTER
+          + [33]SHOP
+
+     * [34]NFL
+          + [35]NFL Home
+          + [36]Video
+          + [37]Photos
+          + [38]Lists
+          + [39]Scores
+          + [40]Schedule
+          + [41]Standings
+          + [42]Draft
+          + [43]News Archive
+          +
+          +
+               o [44]Shop
+     * [45]MLB
+          + [46]MLB Home
+          + [47]Video
+          + [48]Photos
+          + [49]Lists
+          + [50]Scores
+          + [51]Schedule
+          + [52]Standings
+          + [53]News Archive
+          + [54]Shop
+     * [55]NBA
+          + [56]NBA Home
+          + [57]Video
+          + [58]Photos
+          + [59]Lists
+          + [60]Scores
+          + [61]Schedule
+          + [62]Standings
+          + [63]News Archive
+          + [64]Shop
+     * [65]NHL
+          + [66]NHL Home
+          + [67]Video
+          + [68]Photos
+          + [69]Lists
+          + [70]Scores
+          + [71]Schedule
+          + [72]Standings
+          + [73]News Archive
+          + [74]Shop
+     * [75]NCAAF
+          + [76]NCAAF Home
+          + [77]Video
+          + [78]Photos
+          + [79]Lists
+          + [80]Scores
+          + [81]Schedule
+          + [82]Standings
+          + [83]Polls
+          + [84]News Archive
+          +
+          +
+               o [85]Shop
+     * [86]NCAAB
+          + [87]NCAAB Home
+          + [88]Bracket
+          + [89]Video
+          + [90]Photos
+          + [91]Lists
+          + [92]Scores
+          + [93]Schedule
+          + [94]Standings
+          + [95]Polls
+          + [96]News Archive
+          +
+          +
+               o [97]Shop
+     * [98]NASCAR
+          + [99]NASCAR Home
+          + [100]Video
+          + [101]Photos
+          + [102]Lists
+          + [103]Schedule
+          + [104]Standings
+          + [105]News Archive
+          + [106]Shop
+     * [107]FANTASY
+          + [108]FANTASY Home
+          + [109]Player Updates
+          + [110]Rankings
+          + [111]Daily Fantasy
+          + [112]DFS Lineup Builder
+          +
+          +
+               o [113]News Archive
+     * [114]SOCCER
+          + [115]SOCCER Home
+          + [116]Video
+          + [117]Photos
+          + [118]Lists
+          + [119]News Archive
+          + [120]Shop
+     * All Sports
+          + [121]ATHLETICS
+          + [122]TENNIS
+          + [123]GOLF
+          + [124]MMA
+          + [125]WWE
+          + [126]OTHER SPORTS
+     * MORE
+          + [127]SN on Facebook
+          + [128]SN on Twitter
+          + [129]SN on Instagram
+          + [130]Goal
+          + [131]Writers
+          +
+          + [132]Newsletter
+          +
+          + [133]Shop
+
+     * [134]NFL
+          + [135]NFL Home
+          + [136]Video
+          + [137]Photos
+          + [138]Lists
+          + [139]Scores
+          + [140]Schedule
+          + [141]Standings
+          +
+          +
+               o [142]Draft
+               o
+               o [143]News Archive
+               o
+               o [144]Shop
+     * [145]MLB
+          + [146]MLB Home
+          + [147]Video
+          + [148]Photos
+          + [149]Lists
+          + [150]Scores
+          + [151]Schedule
+          + [152]Standings
+          +
+          +
+               o [153]News Archive
+               o
+               o [154]Shop
+     * [155]NBA
+          + [156]NBA Home
+          + [157]Video
+          + [158]Photos
+          + [159]Lists
+          + [160]Scores
+          + [161]Schedule
+          + [162]Standings
+          +
+          +
+               o [163]News Archive
+               o
+               o [164]Shop
+     * [165]NHL
+          + [166]NHL Home
+          + [167]Video
+          + [168]Photos
+          + [169]Lists
+          + [170]Scores
+          + [171]Schedule
+          + [172]Standings
+          +
+          +
+               o [173]News Archive
+               o
+               o [174]Shop
+     * [175]NCAAF
+          + [176]NCAAF Home
+          + [177]Video
+          + [178]Photos
+          + [179]Lists
+          + [180]Scores
+          + [181]Schedule
+          + [182]Standings
+          +
+          +
+               o [183]Polls
+               o
+               o [184]News Archive
+               o
+               o [185]Shop
+     * [186]NCAAB
+          + [187]NCAAB Home
+          + [188]Bracket
+          + [189]Video
+          + [190]Photos
+          + [191]Lists
+          + [192]Scores
+          + [193]Schedule
+          +
+          +
+               o [194]Standings
+               o
+               o [195]Polls
+               o
+               o [196]News Archive
+               o
+               o [197]Shop
+     * All Sports
+          + [198]NASCAR
+          + [199]FANTASY
+          + [200]SOCCER
+          + [201]ATHLETICS
+          + [202]TENNIS
+          + [203]GOLF
+          + [204]MMA
+          + [205]WWE
+          + [206]OTHER SPORTS
+     * MORE
+          + [207]SN on Facebook
+          + [208]SN on Twitter
+          + [209]SN on Instagram
+          +
+          + [210]Goal
+          +
+          + [211]Writers
+          +
+          + [212]Newsletter
+          +
+          + [213]Shop
+
+Well this is
+embarrassing.
+
+   Sorry, the page you were looking for could not be found on Sporting
+   News.
+   [214]Home
+
+Trending Now
+
+   [215]pic
+
+[216]Candice Wiggins: I paid for being a straight woman in a 98-percent-gay
+WNBA
+
+   [217]pic
+
+[218]MLB gets it wrong — again — with change to intentional walk rule
+
+   [219]pic
+
+[220]Adam Vinatieri 'begging' Pat McAfee to reconsider retirement, return to
+Colts
+
+   [221]pic
+
+[222]Danica Patrick estimates she's had a dozen concussions in her career
+
+     * [223]Sporting News
+     * [224]Media Kit
+     * [225]Contact
+     * [226]Privacy Policy
+     * [227]Perform Group
+     * [228]Facebook [229]Twitter [230]Instagram [231]Newsletter
+
+   © 2017 [232]Sporting News Media and its licensors. All rights reserved.
+
+   [233]Sporting News
+     *
+
+     * [234]Media Kit
+     * [235]Contact
+     * [236]Privacy Policy
+     * [237]Perform Group
+
+   © 2017 [238]Sporting News Media and its licensors. All rights reserved.
+
+   [p?c1=2&c2=6035805&cv=2.0&cj=1]
+
+References
+
+   Visible links
+   1. http://www.sportingnews.com/error/page-not-found
+   2. http://www.sportingnews.com/error/page-not-found
+   3. https://plus.google.com/115523108392991665451/
+   4. http://www.sportingnews.com/
+   5. file:///
+   6. file:///home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+   7. file:///home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+   8. file:///my-account
+   9. http://www.sportingnews.com/
+  10. file:///home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+  11. file:///nfl
+  12. file:///mlb
+  13. file:///nba
+  14. file:///nhl
+  15. file:///ncaa-football
+  16. file:///ncaa-basketball
+  17. file:///nascar
+  18. file:///fantasy
+  19. file:///soccer
+  20. file:///athletics
+  21. file:///tennis
+  22. file:///golf
+  23. file:///mma
+  24. file:///wwe
+  25. file:///other-sports
+  26. file:///home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+  27. https://www.facebook.com/sportingnews
+  28. https://www.twitter.com/sportingnews
+  29. https://instagram.com/sportingnews/
+  30. http://www.goal.com/
+  31. file:///writers
+  32. file:///newsletter/signup
+  33. http://shop.sportingnews.com/
+  34. file:///nfl
+  35. file:///nfl
+  36. file:///nfl/videos
+  37. file:///nfl/photos
+  38. file:///nfl/lists
+  39. file:///nfl/scoreboard
+  40. file:///nfl/schedule
+  41. file:///nfl/standings
+  42. file:///nfl/draft
+  43. file:///nfl/news
+  44. http://www.fanatics.com/NFL/partnerid/9938
+  45. file:///mlb
+  46. file:///mlb
+  47. file:///mlb/videos
+  48. file:///mlb/photos
+  49. file:///mlb/lists
+  50. file:///mlb/scoreboard
+  51. file:///mlb/schedule
+  52. file:///mlb/standings
+  53. file:///mlb/news
+  54. http://www.fanatics.com/MLB/partnerid/9938
+  55. file:///nba
+  56. file:///nba
+  57. file:///nba/videos
+  58. file:///nba/photos
+  59. file:///nba/lists
+  60. file:///nba/scoreboard
+  61. file:///nba/schedule
+  62. file:///nba/standings
+  63. file:///nba/news
+  64. http://www.fanatics.com/NBA/partnerid/9938
+  65. file:///nhl
+  66. file:///nhl
+  67. file:///nhl/videos
+  68. file:///nhl/photos
+  69. file:///nhl/lists
+  70. file:///nhl/scoreboard
+  71. file:///nhl/schedule
+  72. file:///nhl/standings
+  73. file:///nhl/news
+  74. http://www.fanatics.com/NHL/partnerid/9938
+  75. file:///ncaa-football
+  76. file:///ncaa-football
+  77. file:///ncaa-football/videos
+  78. file:///ncaa-football/photos
+  79. file:///ncaa-football/lists
+  80. file:///ncaa-football/scoreboard
+  81. file:///ncaa-football/schedule
+  82. file:///ncaa-football/standings
+  83. file:///ncaa-football/polls
+  84. file:///ncaa-football/news
+  85. http://www.fanatics.com/COLLEGE/partnerid/9938
+  86. file:///ncaa-basketball
+  87. file:///ncaa-basketball
+  88. file:///ncaa-basketball/tournament/2016/bracket
+  89. file:///ncaa-basketball/videos
+  90. file:///ncaa-basketball/photos
+  91. file:///ncaa-basketball/lists
+  92. file:///ncaa-basketball/scoreboard
+  93. file:///ncaa-basketball/schedule
+  94. file:///ncaa-basketball/standings
+  95. file:///ncaa-basketball/polls
+  96. file:///ncaa-basketball/news
+  97. http://www.fanatics.com/COLLEGE/partnerid/9938
+  98. file:///nascar
+  99. file:///nascar
+ 100. file:///nascar/videos
+ 101. file:///nascar/photos
+ 102. file:///nascar/lists
+ 103. file:///nascar/schedule
+ 104. file:///nascar/standings
+ 105. file:///nascar/news
+ 106. http://www.fanatics.com/NASCAR/partnerid/9938
+ 107. file:///fantasy
+ 108. file:///fantasy
+ 109. file:///fantasy/player-updates
+ 110. file:///fantasy/tag/rankings
+ 111. file:///fantasy/tag/dfs
+ 112. http://www.rotoql.com/sportingnews/
+ 113. file:///fantasy/news
+ 114. file:///soccer
+ 115. file:///soccer
+ 116. file:///soccer/videos
+ 117. file:///soccer/photos
+ 118. file:///soccer/lists
+ 119. file:///soccer/news
+ 120. http://www.fanatics.com/pages/World_Soccer/partnerid/9938
+ 121. file:///athletics
+ 122. file:///tennis
+ 123. file:///golf
+ 124. file:///mma
+ 125. file:///wwe
+ 126. file:///other-sports
+ 127. https://www.facebook.com/sportingnews
+ 128. https://www.twitter.com/sportingnews
+ 129. https://instagram.com/sportingnews/
+ 130. http://www.goal.com/
+ 131. file:///writers
+ 132. file:///newsletter/signup
+ 133. http://shop.sportingnews.com/
+ 134. file:///nfl
+ 135. file:///nfl
+ 136. file:///nfl/videos
+ 137. file:///nfl/photos
+ 138. file:///nfl/lists
+ 139. file:///nfl/scoreboard
+ 140. file:///nfl/schedule
+ 141. file:///nfl/standings
+ 142. file:///nfl/draft
+ 143. file:///nfl/news
+ 144. http://www.fanatics.com/NFL/partnerid/9938
+ 145. file:///mlb
+ 146. file:///mlb
+ 147. file:///mlb/videos
+ 148. file:///mlb/photos
+ 149. file:///mlb/lists
+ 150. file:///mlb/scoreboard
+ 151. file:///mlb/schedule
+ 152. file:///mlb/standings
+ 153. file:///mlb/news
+ 154. http://www.fanatics.com/MLB/partnerid/9938
+ 155. file:///nba
+ 156. file:///nba
+ 157. file:///nba/videos
+ 158. file:///nba/photos
+ 159. file:///nba/lists
+ 160. file:///nba/scoreboard
+ 161. file:///nba/schedule
+ 162. file:///nba/standings
+ 163. file:///nba/news
+ 164. http://www.fanatics.com/NBA/partnerid/9938
+ 165. file:///nhl
+ 166. file:///nhl
+ 167. file:///nhl/videos
+ 168. file:///nhl/photos
+ 169. file:///nhl/lists
+ 170. file:///nhl/scoreboard
+ 171. file:///nhl/schedule
+ 172. file:///nhl/standings
+ 173. file:///nhl/news
+ 174. http://www.fanatics.com/NHL/partnerid/9938
+ 175. file:///ncaa-football
+ 176. file:///ncaa-football
+ 177. file:///ncaa-football/videos
+ 178. file:///ncaa-football/photos
+ 179. file:///ncaa-football/lists
+ 180. file:///ncaa-football/scoreboard
+ 181. file:///ncaa-football/schedule
+ 182. file:///ncaa-football/standings
+ 183. file:///ncaa-football/polls
+ 184. file:///ncaa-football/news
+ 185. http://www.fanatics.com/COLLEGE/partnerid/9938
+ 186. file:///ncaa-basketball
+ 187. file:///ncaa-basketball
+ 188. file:///ncaa-basketball/tournament/2016/bracket
+ 189. file:///ncaa-basketball/videos
+ 190. file:///ncaa-basketball/photos
+ 191. file:///ncaa-basketball/lists
+ 192. file:///ncaa-basketball/scoreboard
+ 193. file:///ncaa-basketball/schedule
+ 194. file:///ncaa-basketball/standings
+ 195. file:///ncaa-basketball/polls
+ 196. file:///ncaa-basketball/news
+ 197. http://www.fanatics.com/COLLEGE/partnerid/9938
+ 198. file:///nascar
+ 199. file:///fantasy
+ 200. file:///soccer
+ 201. file:///athletics
+ 202. file:///tennis
+ 203. file:///golf
+ 204. file:///mma
+ 205. file:///wwe
+ 206. file:///other-sports
+ 207. https://www.facebook.com/sportingnews
+ 208. https://www.twitter.com/sportingnews
+ 209. https://instagram.com/sportingnews/
+ 210. http://www.goal.com/
+ 211. file:///writers
+ 212. file:///newsletter/signup
+ 213. http://shop.sportingnews.com/
+ 214. http://www.sportingnews.com/
+ 215. file:///nba/news/candice-wiggins-wnba-gay-players-98-percent-stanford/qab07s9l340p1kcdist9uir9c
+ 216. file:///nba/news/candice-wiggins-wnba-gay-players-98-percent-stanford/qab07s9l340p1kcdist9uir9c
+ 217. file:///mlb/news/mlb-intentional-walk-rule-change-four-balls-rob-manfred-mlbpa/1o9acsw40j8fk1pq4ovb2ox6ae
+ 218. file:///mlb/news/mlb-intentional-walk-rule-change-four-balls-rob-manfred-mlbpa/1o9acsw40j8fk1pq4ovb2ox6ae
+ 219. file:///nfl/news/adam-vinatieri-pat-mcafee-retirement-surgery-colts-kicker-punter-holder/1l98u22uj1ad31nhc6yz2v32he
+ 220. file:///nfl/news/adam-vinatieri-pat-mcafee-retirement-surgery-colts-kicker-punter-holder/1l98u22uj1ad31nhc6yz2v32he
+ 221. file:///nascar/news/danica-patrick-concussions-nascar-wrecks-career-dale-earnhardt-jr-daytona-500/10r5311bpudb1102srw611extw
+ 222. file:///nascar/news/danica-patrick-concussions-nascar-wrecks-career-dale-earnhardt-jr-daytona-500/10r5311bpudb1102srw611extw
+ 223. http://www.sportingnews.com/
+ 224. http://www.performgroup.com/brands/sporting-news/
+ 225. http://www.sportingnews.com/customer-service/contact
+ 226. http://www.sportingnews.com/privacy
+ 227. http://www.performgroup.co.uk/
+ 228. https://www.facebook.com/sportingnews
+ 229. http://twitter.com/sportingnews
+ 230. https://instagram.com/sportingnews/
+ 231. http://www.sportingnews.com/newsletter/signup
+ 232. file:///
+ 233. http://www.sportingnews.com/
+ 234. http://www.performgroup.com/brands/sporting-news/
+ 235. file:///customer-service/contact
+ 236. http://www.sportingnews.com/privacy
+ 237. http://www.performgroup.co.uk/
+ 238. http://www.sportingnews.com/
+
+   Hidden links:
+ 240. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+ 241. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+ 242. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+ 243. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+ 244. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+ 245. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+ 246. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+ 247. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+ 248. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+ 249. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw198.txt
+ 250. https://www.facebook.com/sportingnews
+ 251. http://twitter.com/sportingnews
+ 252. https://instagram.com/sportingnews/
+ 253. http://www.sportingnews.com/newsletter/signup

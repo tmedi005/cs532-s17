@@ -1,0 +1,2290 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-touch no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-touch no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-touch no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie9 no-touch no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-touch no-js"> <!--<![endif]-->
+
+<head>
+  <meta name="p:domain_verify" content="49c1e7c268eb6ec0930fe0cf63509aff"/>
+  <meta charset="UTF-8">
+  <meta name="msvalidate.01" content="6D0D8F8E4C802E5F217134942AEE67CB" />
+  <meta name="google-site-verification" content="TNf2JgWur2vTbU4Nu3QuMxPd4c4RjfOx1gb0LTCzU6k" />
+
+  <meta name="msvalidate.01" content="34DE7B1182B324B88C1EBA5CB63D7757" />
+
+  <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+  <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+  <link rel="shortcut icon" type="image/png" href="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/favicon.png?1206723538536721720">
+
+  <title>
+    
+    NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point St
+    &ndash; SportsManiaUSA.com
+    
+  </title>
+
+  
+  <meta name="description" content="This awsome loose style hat with a strap on the back to adjust to whatever size you need will look and fit great for anyone ! Ths hat also has th eold 3 point s">
+  
+
+  <link rel="canonical" href="https://sportsmaniausa.com/products/nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-stance-logo-hat">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  
+
+  <meta property="og:type" content="product">
+  <meta property="og:title" content="NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat">
+  
+  <meta property="og:image" content="http://cdn.shopify.com/s/files/1/0232/4875/products/145e42b5b3dc3ca975baace79e98c7dcae80587f_grande.jpg?v=1487103254">
+  <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0232/4875/products/145e42b5b3dc3ca975baace79e98c7dcae80587f_grande.jpg?v=1487103254">
+  
+  <meta property="og:price:amount" content="19.99">
+  <meta property="og:price:currency" content="USD">
+
+
+  <meta property="og:description" content="This awsome loose style hat with a strap on the back to adjust to whatever size you need will look and fit great for anyone ! Ths hat also has th eold 3 point s">
+
+  <meta property="og:url" content="https://sportsmaniausa.com/products/nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-stance-logo-hat">
+  <meta property="og:site_name" content="SportsManiaUSA.com">
+
+
+
+  <!-- style sheet -->
+  <link href="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/manic_style.css?1206723538536721720" rel="stylesheet" type="text/css" media="all" />
+
+  <!-- slider style sheet -->
+  <link href="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/flexslider.css?1206723538536721720" rel="stylesheet" type="text/css" media="all" />
+
+  <!-- caro style -->
+  <link href="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/owl.carousel.css?1206723538536721720" rel="stylesheet" type="text/css" media="all" />
+
+  <link href="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/easy-responsive-tabs.css?1206723538536721720" rel="stylesheet" type="text/css" media="all" />
+
+
+
+  <link rel="alternate" type="application/json+oembed" href="https://sportsmaniausa.com/products/nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-stance-logo-hat.oembed" />
+<script>
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "sports-mania.myshopify.com";
+      Shopify.theme = {"name":"manic-theme","id":8516373,"theme_store_id":null,"role":"main"};
+      Shopify.theme.handle = 'null';
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script>
+
+
+<script>
+//<![CDATA[
+    (function() {
+      function asyncLoad() {
+        var urls = ["https:\/\/app.addshoppers.com\/query\/apps\/shopify\/plugin?id=5429d608a387647c96714483\u0026shop=sports-mania.myshopify.com","https:\/\/cdn.ywxi.net\/js\/1.js?shop=sports-mania.myshopify.com","https:\/\/cdn.ywxi.net\/js\/1.js?shop=sports-mania.myshopify.com","https:\/\/assets.cartactivity.com\/assets\/recent_activities.js?shop=sports-mania.myshopify.com","https:\/\/service.fishbowlprizes.com\/widget\/5d77b36701c9f18ca8435a72ea2dee3e4430fb89\/?shop=sports-mania.myshopify.com","\/\/findify-assets-2bveeb6u8ag.netdna-ssl.com\/search\/prod\/sports-mania.myshopify.com.min.js?shop=sports-mania.myshopify.com","https:\/\/messenger-commerce.shopifyapps.com\/message_us.js?version=1476110490\u0026shop=sports-mania.myshopify.com"];
+        for (var i = 0; i < urls.length; i++) {
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = urls[i];
+          var x = document.getElementsByTagName('script')[0];
+          x.parentNode.insertBefore(s, x);
+        }
+      }
+      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
+    })();
+
+//]]>
+</script>
+<script id="__st">
+//<![CDATA[
+var __st={"a":2324875,"offset":-18000,"reqid":"65add637-499c-4886-ac5b-8e62143c01d2","pageurl":"sportsmaniausa.com\/collections\/new-england-patriots\/products\/nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-stance-logo-hat","u":"891c600fba20","p":"product","rtyp":"product","rid":8849284417};
+//]]>
+</script>
+<script>
+//<![CDATA[
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
+
+//]]>
+</script>
+<meta id="shopify-digital-wallet" data-iframe-url="/2324875/digital_wallets/dialog" />
+<script src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-668547562549a84f5dfa01ef82607987f85ecbe1c8301faf25059becfa208199.js" defer="defer"></script>
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"product":{"id":8849284417,"vendor":"New Era","type":"Hat","variants":[{"id":30558385857,"price":1999,"name":"NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat - Adjustable \/ Blue \/ NFL","public_title":"Adjustable \/ Blue \/ NFL","sku":"884990900577"}]}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.02.22.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":2324875}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Google Analytics":{"trackingId":"UA-41150321-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["238943096469939"],"agent":"plshopify1.2"},"Pinterest Pixel":{"pixelId":"2612597044654"}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"product","resourceType":"product","resourceId":8849284417}
+        );
+      
+            
+        window.ShopifyAnalytics.lib.track(
+          "Viewed Product",
+          {"variantId":30558385857,"productId":8849284417,"name":"NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat - Adjustable \/ Blue \/ NFL","price":"19.99","currency":"USD","sku":"884990900577","brand":"New Era","variant":"Adjustable \/ Blue \/ NFL","category":"Hat","nonInteraction":true}
+        );
+      
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4e845435421548920fb58bb05f3fd9d8c43b5f09166ad6f568589cf558d53147.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":2324875,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/2324875","merchantName":"SportsManiaUSA.com","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"]}</script>
+<meta id="amazon-payments-metadata" data-amazon-payments="true" data-amazon-payments-seller-id="A3CGR3J9BJWERX" data-amazon-payments-callback-url="https://checkout.shopify.com/2324875/amazon_payments/callback" data-amazon-payments-sandbox-mode="false" data-amazon-payments-client-id="amzn1.application-oa2-client.56702bd2faa64af79aeb5f8f7abe21b2" data-amazon-payments-region="US" data-amazon-payments-language="en-US" data-amazon-payments-widget-library-url="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js" />
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-58ff4851771198757821d3c9d81e4744b0728ebf1a4b750f8e1e9d7ce6f611d8.js" defer="defer" crossorigin="anonymous" integrity="sha256-WP9IUXcRmHV4IdPJ2B5HRLByjr8aS3UPjh6dfOb2Edg="></script>
+
+<meta name="shopify-checkout-api-token" content="8204f14f500eea828d446d5afb0676ae" />
+
+<link rel="stylesheet" media="all" href="//cdn.shopify.com/s/assets/storefront/additional-checkout-buttons-e666b0b8a20c90d1eaafcc0f38897f2b4ab8af21f68426b37926e48a2ae452c2.css" />
+
+  
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/respond.min.js?1206723538536721720" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="//sportsmaniausa.com/search?q=204a82643d95056e042ea873d61d4c0b" id="respond-redirect" rel="respond-redirect" />
+<script src="//sportsmaniausa.com/search?q=204a82643d95056e042ea873d61d4c0b" type="text/javascript"></script>
+<![endif]-->
+<!--[if lt IE 8]>
+<script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/json2.js?1206723538536721720" type="text/javascript"></script>
+<![endif]-->
+
+
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Raleway:600" rel="stylesheet" type="text/css" media="all" />
+  
+
+
+  
+
+
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/modernizr.min.js?1206723538536721720" type="text/javascript"></script>
+
+  
+
+
+  <script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/jquery-1.9.0.js?1206723538536721720" type="text/javascript"></script>  
+  <!--[if lt IE 9]>
+<script src="js/modernizr.js"></script>
+<![endif]-->
+  <script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/superfish.js?1206723538536721720" type="text/javascript"></script>
+  <!--<script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/easyaspie.js?1206723538536721720" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+$('nav').easyPie();
+});    
+</script>-->
+
+  <!-- slider jquery -->
+  <script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/jquery.flexslider.js?1206723538536721720" type="text/javascript"></script>
+
+  <script type="text/javascript">
+
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "fade",
+        slideshow: true,
+        slideshowSpeed: 5000,
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+    });
+
+  </script>
+
+  <script type="text/javascript">
+    (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/THsjiiV5yggIfc6hzfvxMB7mpnvhpbclm0cqYB5k/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+  </script>
+
+  <script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/jquery-columns-plugin.js?1206723538536721720" type="text/javascript"></script>
+
+
+  
+
+
+  <!--  -->
+
+</head>
+
+<body id="nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-st" class="template-product">
+
+            
+              
+
+
+<script type="text/javascript">
+  
+
+  var HE_DOMAIN = 'http://www.socialshopwave.com';
+  Ssw = {};
+  function sswRun(application) {
+    if(typeof ssw != typeof 'function') {
+      var _loadSswLib = setInterval(function(){
+        if (typeof ssw != 'undefined' && ssw) {
+          clearInterval(_loadSswLib);
+          window.sswIsAppPro = function(app){
+            return (typeof window.ssw.apps['default'] !== 'undefined' && window.ssw.apps['default'] != 'lite' && window.ssw.apps['default'] != 'starter') || (typeof window.ssw.apps[app] !== 'undefined' && window.ssw.apps[app] != 'free' && window.ssw.apps[app] != 'starter');
+          };
+          application(ssw);
+        }
+      }, 10);
+    } else application(ssw);
+  }
+  sswApp = {"default":0};
+  
+  var currency_format = "${{amount}} USD";
+  var shop_name = "SportsManiaUSA.com";
+  sswProxyUrl = "\/apps\/ssw-instagram";
+  sswLangs = {
+    data: {},
+    add: function(key, value) {
+      this.data[key] = value;
+    },
+    t: function(key, params) {
+      var value = key;
+      if (typeof this.data[key] !== 'undefined') {
+        value = this.data[key];
+      }
+      value = (value.indexOf("translation missing:") < 0) ? value : key;
+      if (params) {
+        value = value.replace(/%(\d+)%/g, function(match, number) {
+          return (typeof params[number] != 'undefined') ? params[number] : match;
+        });
+      }
+      return value;
+    },
+    p: function(key_singular, key_plural, count, params) {
+      if (count == 1) {
+        return this.t(key_singular, params);
+      } else {
+        return this.t(key_plural, params);
+      }
+    }
+  };
+  
+
+
+sswLangs.data = {"checkout":"", "sold_out":"translation missing: en.socialshopwave.sold_out","add_to_cart":"Add To Cart","view_more":"","unfollow":"","cancel":"translation missing: en.socialshopwave.cancel","following":"","pending":"","follow":"","already_faved":"","already_unfaved":"","fave":"translation missing: en.socialshopwave.fave","faved":"translation missing: en.socialshopwave.faved","fave_icon":"","faved_icon":"","my_faves":"translation missing: en.socialshopwave.my_faves","unfave":"translation missing: en.socialshopwave.unfave","untitled_favelist":"","drop_to_add":"","add_new_favelist":"","drop_remove_fave":"","already_registered_and_sent_invite_message":"","favelist_default":"","drop_create_favelist":"","favelist_title":"","confirm_remove_favelist":"","add_to_faves":"","remove_from_faves":"","fave_empty_board":"","fave_empty_list":"","added_to_wishlist":"","sunday":"","monday":"","tuesday":"","wednesday":"","thursday":"","friday":"","saturday":"","sun":"","mon":"","tue":"","wed":"","thu":"","fri":"","sat":"","su":"","mo":"","tu":"","we":"","th":"","fr":"","sa":"","january":"","february":"","march":"","april":"","may":"","june":"","july":"","august":"","september":"","october":"","november":"","december":"","jan":"","feb":"","mar":"","apr":"","may":"","jun":"","jul":"","aug":"","sep":"","oct":"","nov":"","dec":"","required_field":"","not_valid_email_address":"","no_more_than_count_characters":"","at_least_count_characters":"","quantity_new_update":"","quantity_new_updates":"","message_or_upload_any_media_to_share":"","not_valid_url":"","feed_is_empty":"","already_registered_to_social_service":"","already_registered_to_social_service2":"","already_registered_and_disabled_account":"","permission_share_to_facebook":"","log_in_to_fave":"","sign_up_to_fave":"","in_quantity":"","quantity_ago":"","a_few_seconds":"","a_minute":"","quantity_minutes":"","an_hour":"","quantity_hours":"","a_day":"","quantity_days":"","a_month":"","quantity_months":"","a_year":"","quantity_years":"","remove_this_board":"","successfully_shared_faves":"","quantity_review2":"translation missing: en.socialshopwave.quantity_review2","quantity_reviews2":"translation missing: en.socialshopwave.quantity_reviews2","this_email_is_already_used":"","incorrect_data":"","tumblr_user_not_found":"","not_created_customer_on_shopify":null,"problem_on_create_user":"","not_able_to_log_in_you_socially":"","invalid_login_credentials":"","email_is_already_associated":"","unavailable":"","fave_variant_adding_to_cart":"","fave_variant_added_to_cart":"","login_to_leave_comment":""};
+
+</script>
+<style id="ssw-temp-styles">
+  #ssw-cart-modal, #ssw-suggest-login, .ssw-modal, .ssw-hide, .ssw-dropdown-menu, #ssw-topauth ul.ssw-dropdown-menu,.ssw-widget-login ul.ssw-dropdown-menu{display: none;}
+</style>
+<script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/ssw-app.js?1206723538536721720" type="text/javascript"></script>
+<style id="ssw-design-preview"></style>
+
+  <input id="ssw_cid" type="hidden" value="0" />
+
+
+
+
+
+
+
+
+
+            
+
+  <div class="menu_bg"></div>
+
+  <div class="wrapper">
+
+    <div class="top-bar">
+      <div class="container">
+        <span><img src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/ship-icon1.png?1206723538536721720" alt="Flat Rate Shipping" /></span>
+        <p>$4.99 Flat Rate Shipping* on all orders</p>
+        <span><img src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/ship-icon2.png?1206723538536721720" alt="Flat Rate Shipping" /></span>
+      </div>
+    </div>
+    <!-- top-bar ends -->
+
+    <header>
+      <div class="container">
+        <div class="logo">
+          
+          <a id="logo" href="/" role="banner">
+            <img src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/logo.png?1206723538536721720" alt="SportsManiaUSA.com" />
+          </a>
+          
+        </div>
+        <!-- logo ends -->
+        <div class="contact">
+          <span>Toll Free NUmber <a href="tel:+1-855-224-6120">855 224 6120</a></span>
+          <span>Easy return</span>
+        </div>
+        <!-- contact ends -->
+        <div class="top-links">
+          <ul>
+            <li><a href="/">home</a></li>
+            <li><a href="/pages/faqs">FAQs</a></li>
+            <li><a href="/pages/contact-us">customer service</a></li>                
+            
+            
+            <li><a href="/account/login" id="customer_login_link">log in</a></li>
+            
+            
+          </ul>
+        </div>
+        <!-- top-links ends -->
+        <div class="search-cart">
+          <form action="/search" method="get" id="search-form" role="search" class="large--right">
+            <input type="hidden" name="type" value="product">
+            <input name="q" type="text" id="search-field" placeholder="Search Products by keyword..." class="hint">
+            <input type="image" src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/search-icon.png?1206723538536721720"/>
+          </form>
+          <div class="cart-items">
+            <a href="/cart">(0) view cart</a>
+          </div>
+          <!-- cart-items ends -->
+        </div>
+        <!-- search-cart ends -->
+      </div>
+      <!-- container ends -->
+    </header>
+    <!-- header ends -->
+
+
+    <nav role="navigation">
+      <div class="container">
+        <div class="menu_toogle"><span></span></div>
+        <div id="cssmenu" class="SideCategoryListClassic BlockContent">
+          <ul class="category-list">
+            
+            
+            
+            
+            
+
+            <script>
+              jQuery(function() {
+                  
+                var mylist = jQuery('ul.college');
+                
+
+                //  var listitems = mylist.children('li').get();
+                //   listitems.sort(function(x, y) {
+                //    var compA = jQuery(x).text().toLowerCase();
+                //    var compB = jQuery(y).text().toLowerCase();
+                //    return (compA < compB) ? -1 : (compA > compB) ? 1 : 0;
+                //   })
+                // jQuery.each(listitems, function(index, item) { mylist.append(item); });
+
+                   
+                $('.college').cols(5);
+                
+
+              });
+            </script>  
+
+
+            <li>
+              <a href="http://sportsmaniausa.com/pages/teams-ncaa">College</a>
+              
+              <ul style="display:none;">
+                
+                <li>
+                  <a href="/collections/alabama-crimson-tide">Alabama Crimson Tide </a>
+                </li>
+                
+                <li>
+                  <a href="/collections/arizona-state-sun-devils">Arizona State Sun Devils</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/arizona-wildcats">Arizona Wildcats</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/auburn-tigers">Auburn Tigers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/brigham-young-cougars">Brigham Young Cougars</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/california-berkeley-golden-bears">California Berkeley Golden Bears</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/cincinnati-bearcats">Cincinnati Bearcats</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/colorado-state-rams">Colorado State Rams</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/2013-college-world-series/College-World-Series">College World Series Baseball</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/connecticut-huskies">Connecticut Huskies</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/clemson-tigers">Clemson Tigers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/duke-blue-devils">Duke Blue Devils</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/east-carolina-pirates">East Carolina Pirates</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/florida-state-seminoles">Florida State Seminoles</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/florida-gators">Florida Gators</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/final-four">Final Four Basketball</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/georgia-bulldogs">Georgia Bulldogs </a>
+                </li>
+                
+                <li>
+                  <a href="/collections/georgia-southern-eagles">Georgia Southern Eagles</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/georgia-tech-yellow-jackets">Georgia Tech Yellow Jackets</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/gonzaga-bulldogs">Gonzaga Bulldogs</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/houston-cougars">Houston Cougars</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/illinois-fighting-illini">Illinois Fighting Illini</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/indiana-hoosiers">Indiana Hoosiers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/iowa-hawkeyes">Iowa Hawkeyes</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/iowa-state-cyclones">Iowa State Cyclones</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/kansas-jayhawks">Kansas Jayhawks</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/kansas-state-wildcats">Kansas State Wildcats</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/kentucky-wildcats">Kentucky Wildcats</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/louisiana-state-tigers">Louisiana State Tigers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/louisville-cardinals">Louisville Cardinals</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/marshall-thundering-herd">Marshall Thundering Herd</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/maryland-terrapins">Maryland Terrapins</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/memphis-tigers">Memphis Tigers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/michigan-hats-snapback-hat">Michigan Wolverines</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/miami-hurricanes">Miami Hurricanes</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/missouri-tigers">Missouri Tigers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/minnesota-golden-gophers">Minnesota Golden Gophers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/mississippi-rebels">Mississippi Rebels</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/mississippi-state-bulldogs">Mississippi State Bulldogs</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/michigan-state-hats-snapback-hat">Michigan State Spartans </a>
+                </li>
+                
+                <li>
+                  <a href="/collections/montana-grizzlies">Montana Grizzlies</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/n-carolina-state-wolfpack">N. Carolina State Wolfpack</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/nebraska-cornhuskers">Nebraska Cornhuskers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/north-carolina-tar-heels">North Carolina Tar Heels</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/northern-iowa-panthers">Northern Iowa Panthers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/northwestern-wildcats">Northwestern Wildcats</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/notre-dame-fighting-irish">Notre Dame Fighting Irish</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/ohio-state-buckeyes">Ohio State Buckeyes</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/oklahoma-sooners">Oklahoma Sooners</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/oklahoma-state-cowboys">Oklahoma State Cowboys</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/oregon-ducks">Oregon Ducks</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/oregon-state-beavers">Oregon State Beavers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/penn-state-nittany-lions">Penn State Nittany Lions</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/pittsburgh-panthers">Pittsburgh Panthers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/purdue-boilermakers">Purdue Boilermakers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/south-carolina-gamecocks">South Carolina Gamecocks</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/south-florida-bulls">South Florida Bulls</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/southern-miss-golden-eagles">Southern Miss Golden Eagles</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/stetson-hatters">Stetson Hatters</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/syracuse-orange">Syracuse Orange</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/tennessee-volunteers">Tennessee Volunteers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/texas-a-m-aggies">Texas A&M Aggies</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/texas-christian-horned-frogs">Texas Christian Horned Frogs</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/texas-longhorns">Texas Longhorns</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/texas-tech-red-raiders">Texas Tech Red Raiders</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/central-florida-golden-knights">UCF Knights</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/uc-irvine-ant-eaters">UC Irvine Ant Eaters</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/ucla-bruins">Ucla Bruins</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/unc-wilmington">Unc Wilmington</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/university-of-north-florida-ospreys">University Of North Florida Ospreys</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/university-of-southern-california">USC Trojans</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/utah-utes">Utah Utes</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/vanderbilt-commodores">Vanderbilt Commodores</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/virginia-cavaliers">Virginia Cavaliers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/virginia-tech-hokies">Virginia Tech Hokies</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/wake-forest">Wake Forest</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/washington-huskies">Washington Huskies</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/washington-state-cougars">Washington State Cougars</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/west-virginia-mountaineers">West Virginia Mountaineers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/wisconsin-badgers">Wisconsin Badgers</a>
+                </li>
+                
+              </ul>
+              
+            </li>
+            
+            
+            
+            
+            
+
+            <script>
+              jQuery(function() {
+                  
+                var mylist = jQuery('ul.nfl');
+                
+
+                //  var listitems = mylist.children('li').get();
+                //   listitems.sort(function(x, y) {
+                //    var compA = jQuery(x).text().toLowerCase();
+                //    var compB = jQuery(y).text().toLowerCase();
+                //    return (compA < compB) ? -1 : (compA > compB) ? 1 : 0;
+                //   })
+                // jQuery.each(listitems, function(index, item) { mylist.append(item); });
+
+                   
+                $('.nfl').cols(5);
+                
+
+              });
+            </script>  
+
+
+            <li>
+              <a href="http://sportsmaniausa.com/pages/teams-nfl">NFl</a>
+              
+              <ul style="display:none;">
+                
+                <li>
+                  <a href="/collections/arizona-cardinals/Arizona-Cardinals">Arizona Cardinals</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/atlanta-falcons-1/Atlanta-Falcons">Atlanta Falcons</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/baltimore-ravens/Baltimore-Ravens">Baltimore Ravens</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/buffalo-bills/Buffalo-Bills">Buffalo Bills</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/carolina-panthers/Carolina-Panthers">Carolina Panthers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/chicago-bears/Chicago-Bears">Chicago Bears</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/cincinnati-bengals/Cincinnati-Bengals">Cincinnati Bengals</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/cleveland-browns/Cleveland-Browns">Cleveland Browns</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/dallas-cowboys/Dallas-Cowboys">Dallas Cowboys</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/denver-broncos/Denver-Broncos">Denver Broncos</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/detroit-lions-1/Detroit-Lions">Detroit Lions </a>
+                </li>
+                
+                <li>
+                  <a href="/collections/green-bay-packers/Green-Bay-Packers">Green Bay Packers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/houston-texans/Houston-Texans">Houston Texans</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/indianapolis-colts/Indianapolis-Colts">Indianapolis Colts</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/jacksonville-jaguars/Jacksonville-Jaguars">Jacksonville Jaguars </a>
+                </li>
+                
+                <li>
+                  <a href="/collections/kansas-city-chiefs/Kansas-City-Chiefs">Kansas City Chiefs</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/miami-dolphins/Miami-Dolphins">Miami Dolphins </a>
+                </li>
+                
+                <li>
+                  <a href="/collections/minnesota-vikings/Minnesota-Vikings">Minnesota Vikings</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/new-england-patriots/New-England-Patriots">New England Patriots</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/new-orleans-saints/New-Orleans-Saints">New Orleans Saints</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/new-york-giants/New-York-Giants">New York Giants</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/new-york-jets/New-York-Jets">New York Jets</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/oakland-raiders/Oakland-Raiders">Oakland Raiders</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/philadelphia-eagles/Philadelphia-Eagles">Philadelphia Eagles</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/pittsburgh-steelers/Pittsburgh-Steelers">Pittsburgh Steelers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/san-diego-chargers/San-Diego-Chargers">San Diego Chargers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/san-francisco-49ers/San-Francisco-49ers">San Francisco 49ers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/seattle-seahawks/Seattle-Seahawks">Seattle Seahawks</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/st-louis-rams/St-Louis-Rams">St Louis Rams</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/tennessee-titans/Tennessee-Titans">Tennessee Titans</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/tampa-bay-buccaneers/Tampa-Bay-Buccaneers">Tampa Bay Buccaneers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/washington-redskins/Washington-Redskins">Washington Redskins</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/super-bowl/Super-Bowl">Super Bowl Gear</a>
+                </li>
+                
+              </ul>
+              
+            </li>
+            
+            
+            
+            
+            
+
+            <script>
+              jQuery(function() {
+                  
+                var mylist = jQuery('ul.mlb');
+                
+
+                //  var listitems = mylist.children('li').get();
+                //   listitems.sort(function(x, y) {
+                //    var compA = jQuery(x).text().toLowerCase();
+                //    var compB = jQuery(y).text().toLowerCase();
+                //    return (compA < compB) ? -1 : (compA > compB) ? 1 : 0;
+                //   })
+                // jQuery.each(listitems, function(index, item) { mylist.append(item); });
+
+                   
+                $('.mlb').cols(5);
+                
+
+              });
+            </script>  
+
+
+            <li>
+              <a href="http://sportsmaniausa.com/pages/teams-mlb">MLB</a>
+              
+              <ul style="display:none;">
+                
+                <li>
+                  <a href="/collections/arizona-diamondbacks/Arizona-Diamondbacks">Arizona Diamondbacks</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/atlanta-braves/Atlanta-Braves">Atlanta Braves</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/baltimore-orioles/Baltimore-Orioles">Baltimore Orioles</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/boston-red-sox/Boston-Red-Sox">Boston Red Sox </a>
+                </li>
+                
+                <li>
+                  <a href="/collections/chicago-cubs/Chicago-Cubs">Chicago Cubs</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/chicago-white-sox/Chicago-White-Sox">Chicago White Sox</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/cincinnati-reds/Cincinnati-Reds">Cincinnati Reds</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/cleveland-indians/Cleveland-Indians">Cleveland Indians</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/colorado-rockies/Colorado-Rockies">Colorado Rockies</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/detroit-tigers-1/Detroit-Tigers">Detroit Tigers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/houston-astros/Houston-Astros">Houston Astros</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/kansas-city-royals/Kansas-City-Royals">Kansas City Royals</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/los-angeles-anaheim-angels/Los-Angeles-Angels">Los Angeles Angels</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/los-angeles-dodgers/Los-Angeles-Dodgers">Los Angeles Dodgers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/milwaukee-brewers/Milwaukee-Brewers">Milwaukee Brewers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/minnesota-twins/Minnesota-Twins">Minnesota Twins</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/miami-marlins/Miami-Marlins">Miami Marlins</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/new-york-mets/New-York-Mets">New York Mets</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/new-york-yankees/New-York-Yankees">New York Yankees </a>
+                </li>
+                
+                <li>
+                  <a href="/collections/oakland-athletics/Oakland-Athletics">Oakland Athletics</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/philadelphia-phillies/Philadelphia-Phillies">Philadelphia Phillies</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/pittsburgh-pirates/Pittsburgh-Pirates">Pittsburgh Pirates</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/san-diego-padres/San-Diego-Padres">San Diego Padres</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/san-francisco-giants/San-Francisco-Giants">San Francisco Giants</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/seattle-mariners/Seattle-Mariners">Seattle Mariners</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/st-louis-cardinals">St. Louis Cardinals</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/tampa-bay-rays/Tampa-Bay-Rays">Tampa Bay Rays</a>
+                </li>
+                
+                <li>
+                  <a href="http://sportsmaniausa.com/search?type=product&q=Toronto+Blue+Jays&x=0&y=0">Toronto Blue Jays</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/texas-rangers/Texas-Rangers">Texas Rangers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/washington-nationals/Washington-Nationals">Washington Nationals</a>
+                </li>
+                
+              </ul>
+              
+            </li>
+            
+            
+            
+            
+            
+
+            <script>
+              jQuery(function() {
+                
+                var mylist = jQuery('ul.nhl');
+                
+
+                //  var listitems = mylist.children('li').get();
+                //   listitems.sort(function(x, y) {
+                //    var compA = jQuery(x).text().toLowerCase();
+                //    var compB = jQuery(y).text().toLowerCase();
+                //    return (compA < compB) ? -1 : (compA > compB) ? 1 : 0;
+                //   })
+                // jQuery.each(listitems, function(index, item) { mylist.append(item); });
+
+                   
+                $('.nhl').cols(5);
+                
+
+              });
+            </script>  
+
+
+            <li>
+              <a href="http://sportsmaniausa.com/pages/teams-nhl">NHL</a>
+              
+              <ul style="display:none;">
+                
+                <li>
+                  <a href="/collections/anaheim-ducks/Anaheim-Ducks">Anaheim Ducks</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/boston-bruins/Boston-Bruins">Boston Bruins</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/buffalo-sabres/Buffalo-Sabres">Buffalo Sabres</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/calgary-flames/Calgary-Flames">Calgary Flames</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/carolina-hurricanes/Carolina-Hurricanes">Carolina Hurricanes</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/chicago-blackhawks/Chicago-Blackhawks">Chicago Blackhawks</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/colorado-avalanche/Colorado-Avalanche">Colorado Avalanche</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/columbus-blue-jackets/Columbus-Blue-Jackets">Columbus Blue Jackets</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/dallas-stars/Dallas-Stars">Dallas Stars</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/detroit-red-wings">Detroit Red Wings</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/edmonton-oilers/Edmonton-Oilers">Edmonton Oilers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/florida-panthers/Florida-Panthers">Florida Panthers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/los-angeles-kings/Los-Angeles-Kings">Los Angeles Kings</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/minnesota-wild/Minnesota-Wild">Minnesota Wild</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/montreal-canadiens/Montreal-Canadiens">Montreal Canadiens</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/nashville-predators/Nashville-Predators">Nashville Predators</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/new-jersey-devils/New-Jersey-Devils">New Jersey Devils</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/new-york-islanders/New-York-Islanders">New York Islanders</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/new-york-rangers/New-York-Rangers">New York Rangers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/ottawa-senators/Ottawa-Senators">Ottawa Senators</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/philadelphia-flyers/Philadelphia-Flyers">Philadelphia Flyers</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/phoenix-coyotes/Phoenix-Coyotes">Phoenix Coyotes</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/pittsburgh-penguins/Pittsburgh-Penguins">Pittsburgh Penguins</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/san-jose-sharks/San-Jose-Sharks">San Jose Sharks</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/st-louis-blues/St-Louis-Blues">St Louis Blues</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/tampa-bay-lightning/Tampa-Bay-Lightning">Tampa Bay Lightning</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/toronto-maple-leafs/Toronto-Maple-Leafs">Toronto Maple Leafs</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/vancouver-canucks/Vancouver-Canucks">Vancouver Canucks</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/washington-capitals/Washington-Capitals">Washington Capitals</a>
+                </li>
+                
+                <li>
+                  <a href="/collections/winnipeg-jets/Winnipeg-Jets">Winnipeg Jets</a>
+                </li>
+                
+              </ul>
+              
+            </li>
+            
+            
+            
+            
+            
+
+            <script>
+              jQuery(function() {
+                
+
+                //  var listitems = mylist.children('li').get();
+                //   listitems.sort(function(x, y) {
+                //    var compA = jQuery(x).text().toLowerCase();
+                //    var compB = jQuery(y).text().toLowerCase();
+                //    return (compA < compB) ? -1 : (compA > compB) ? 1 : 0;
+                //   })
+                // jQuery.each(listitems, function(index, item) { mylist.append(item); });
+
+                
+
+              });
+            </script>  
+
+
+            <li>
+              <a href="http://sportsmaniausa.com/collections/super-bowl-merchandise">Super Bowl</a>
+              
+            </li>
+            
+            
+            
+            
+            
+
+            <script>
+              jQuery(function() {
+                
+
+                //  var listitems = mylist.children('li').get();
+                //   listitems.sort(function(x, y) {
+                //    var compA = jQuery(x).text().toLowerCase();
+                //    var compB = jQuery(y).text().toLowerCase();
+                //    return (compA < compB) ? -1 : (compA > compB) ? 1 : 0;
+                //   })
+                // jQuery.each(listitems, function(index, item) { mylist.append(item); });
+
+                
+
+              });
+            </script>  
+
+
+            <li>
+              <a href="http://sportsmaniausa.com/collections/national-championship">National Championship</a>
+              
+            </li>
+            
+            
+            
+            
+            
+
+            <script>
+              jQuery(function() {
+                
+
+                //  var listitems = mylist.children('li').get();
+                //   listitems.sort(function(x, y) {
+                //    var compA = jQuery(x).text().toLowerCase();
+                //    var compB = jQuery(y).text().toLowerCase();
+                //    return (compA < compB) ? -1 : (compA > compB) ? 1 : 0;
+                //   })
+                // jQuery.each(listitems, function(index, item) { mylist.append(item); });
+
+                
+
+              });
+            </script>  
+
+
+            <li>
+              <a href="http://sportsmaniausa.com/collections/new-era-hats">New Era</a>
+              
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+      <!-- container ends -->
+    </nav>
+    <!-- nav ends -->
+
+
+    <div class="container" role="main">
+      <section class="inner-content">
+        
+        <meta itemprop="url" content="https://sportsmaniausa.com/products/nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-stance-logo-hat">
+<meta itemprop="image" content="//cdn.shopify.com/s/files/1/0232/4875/products/145e42b5b3dc3ca975baace79e98c7dcae80587f_grande.jpg?v=1487103254">
+
+
+
+
+<div id="breadcrumbs" class="bread-crumb">
+   <ul>
+     <li><a href="/">Home</a></li>
+   
+      
+      <li><a href="/collections/new-england-patriots">New England Patriots</a></li>
+      
+      <li>NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat</li>
+   
+  </ul>
+</div>
+<!-- bread-crumb ends -->
+
+
+
+
+
+<div id="product-photos" class="product-main">
+
+  
+  
+  <div id="product-photo-container">
+    
+    <a href="//cdn.shopify.com/s/files/1/0232/4875/products/145e42b5b3dc3ca975baace79e98c7dcae80587f_1024x1024.jpg?v=1487103254" rel="gallery">
+      <img src="//cdn.shopify.com/s/files/1/0232/4875/products/145e42b5b3dc3ca975baace79e98c7dcae80587f_grande.jpg?v=1487103254" alt="NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat" data-image-id="20513433089" id="productPhotoImg">
+    </a>
+    
+  </div>
+
+  
+
+  
+
+</div>
+<!-- product-main ends -->
+
+<form action="/cart/add" method="post" enctype="multipart/form-data">
+  
+  <div class="product-details" id="product-content" itemscope itemtype="http://schema.org/Product">
+
+    <h1 itemprop="name">NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat</h1>
+
+    <div class="pro-review">
+    
+      <div class="yotpo bottomLine"
+           data-appkey="THsjiiV5yggIfc6hzfvxMB7mpnvhpbclm0cqYB5k"
+           data-domain="sports-mania.myshopify.com"
+           data-product-id="8849284417"
+           data-product-models="8849284417"
+           data-name="NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat"
+           data-url=""
+           data-image-url="//cdn.shopify.com/s/files/1/0232/4875/products/145e42b5b3dc3ca975baace79e98c7dcae80587f_large.jpg%3Fv=1487103254"
+           data-description="&lt;p&gt;This awsome loose style hat with a strap on the back to adjust to whatever size you need will look and fit great for anyone ! Ths hat also has th eold 3 point stance man logo on the front center of the hat !&lt;/p&gt;"
+           data-bread-crumbs="New England patriots;New England Patriots Hats;">
+      </div>
+    </div>
+
+    <span itemprop="price" class="pro-price">
+      $19.99
+    </span>
+
+    <meta itemprop="priceCurrency" content="USD">
+    
+    <link itemprop="availability" href="http://schema.org/InStock">
+    
+
+    <div class="stock">
+      <p>Availability  </p>
+      <span>
+        In Stock
+      </span>
+    </div>
+    
+    <div class="stock">
+      <p>Sku </p>
+      <span id="sku">884990900577</span>
+    </div>
+    
+    
+    <!-- stock ends -->
+
+    
+    
+
+    <div class="select-wrappers">
+      <select id="product-select" name="id" class="hidden">
+        
+        <option selected value="30558385857">Adjustable / Blue / NFL - $19.99</option>
+        
+      </select>
+    </div>
+
+    
+    <div class="quan">    
+      <p>Quantity </p>        
+      <form>
+        <input type='button' value='-' class='qtyminus' field='quantity' />           
+        <input id="quantity" type='text' name='quantity' value='1' class='qty' />           
+        <input type='button' value='+' class='qtyplus' field='quantity' />
+      </form>
+    </div>
+    
+    <!-- quan ends -->
+
+    <div class="add-cart">
+      <!--<input type="submit" value="add to cart" />    -->
+      <input style="float: left;width: 35%;" type="image" alt="add to cart" src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/add-to-cart-button-blue.png?1206723538536721720" />
+
+    </div>
+    <!-- add-cart ends -->
+
+    
+
+
+
+
+
+<div class="share">
+  <div class="share-icons" data-permalink="https://sportsmaniausa.com/products/nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-stance-logo-hat">
+    <p>Share</p>
+    <ul>
+
+      
+      <li class="fb"><a target="_blank" href="//www.facebook.com/sharer.php?u=https://sportsmaniausa.com/products/nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-stance-logo-hat" class="share-facebook">Facebook</a></li>
+      
+
+      
+      <li class="tweet"><a target="_blank" href="//twitter.com/share?url=https://sportsmaniausa.com/products/nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-stance-logo-hat&amp;text=NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat" class="share-twitter">Twitter</a></li>
+      
+
+      
+
+      
+      <li class="pin"><a target="_blank" href="//pinterest.com/pin/create/button/?url=https://sportsmaniausa.com/products/nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-stance-logo-hat&amp;media=//cdn.shopify.com/s/files/1/0232/4875/products/145e42b5b3dc3ca975baace79e98c7dcae80587f_1024x1024.jpg?v=1487103254&amp;description=NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat" class="share-pinterest">
+        Pinit
+        </a></li>
+      
+      
+      
+
+      
+      <li class="gplus"><a target="_blank" href="//plus.google.com/share?url=https://sportsmaniausa.com/products/nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-stance-logo-hat" class="share-google">Google Plus</a></li>
+      
+
+    </ul>
+  </div>
+  <!-- share-icons ends -->
+</div>
+
+  </div>
+  <!-- product-details ends --> 
+
+
+  
+</form>
+
+
+<!--Horizontal Tab-->
+<div id="horizontalTab">
+  <ul class="resp-tabs-list">
+    <li>Details</li>
+    <li>Reviews</li>
+  </ul>
+  <div class="resp-tabs-container">
+    <div>
+      <p>This awsome loose style hat with a strap on the back to adjust to whatever size you need will look and fit great for anyone ! Ths hat also has th eold 3 point stance man logo on the front center of the hat !</p>
+    </div>
+    <div>
+      
+      <div class="yotpo yotpo-main-widget"
+           data-product-id="8849284417"
+           data-name="NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat"
+           data-url=""
+           data-image-url="//cdn.shopify.com/s/files/1/0232/4875/products/145e42b5b3dc3ca975baace79e98c7dcae80587f_large.jpg%3Fv=1487103254"
+           data-description="&lt;p&gt;This awsome loose style hat with a strap on the back to adjust to whatever size you need will look and fit great for anyone ! Ths hat also has th eold 3 point stance man logo on the front center of the hat !&lt;/p&gt;">
+      </div>
+      
+      
+    </div>
+  </div>
+</div>
+<!--Horizontal Tab ends-->  
+
+
+  
+
+  
+
+  
+
+  
+    
+
+    <div class="category-products related-products">
+      <h1>Similar items</h1>
+      <ul class="owl-carousel1">
+
+        
+        
+          
+            
+              
+              
+
+
+
+
+
+
+<li class=" ">
+  <div class="pro-details">
+    <a href="/collections/new-england-patriots/products/nfl-new-england-super-bowl-51-liquid-blue-mens-horizontal-tie-die-t-shirt">
+      <span><img src="//cdn.shopify.com/s/files/1/0232/4875/products/0b52fd4090fb797ea941baaaf9dc6c0d96027dc6_large.jpg?v=1487450692" alt="NFL New England Super Bowl 51 Liquid Blue Mens Horizontal Tie-Die T-Shirt"></span>                                    
+      <p>"NFL New England Super Bowl 51 Liquid Blue Mens Horizontal Tie-Die T-Shirt"</p> 
+    </a>
+    <span class="cat-price">$29.99</span>
+  </div>
+  <!-- pro-details -->                                
+  <!--  <div class="pro-view">                                
+<span>$29.99</span>                                    
+<a href="/collections/new-england-patriots/products/nfl-new-england-super-bowl-51-liquid-blue-mens-horizontal-tie-die-t-shirt">view item</a>                                
+</div>
+product-view ends --> 
+
+</li>
+
+
+            
+          
+        
+          
+            
+              
+              
+
+
+
+
+
+
+<li class=" ">
+  <div class="pro-details">
+    <a href="/collections/new-england-patriots/products/nfl-new-england-patriots-super-bowl-51-champions-liquid-blue-mens-shield-tie-die-t-shirt">
+      <span><img src="//cdn.shopify.com/s/files/1/0232/4875/products/65209c300b843fd16ab3bf5084c6b9497b8870dc_large.jpg?v=1487450604" alt="NFL New England Patriots Super Bowl 51 Champions Liquid Blue Mens Shield Tie-Die T-Shirt"></span>                                    
+      <p>"NFL New England Patriots Super Bowl 51 Champions Liquid Blue Mens Shield Tie-Die T-Shirt"</p> 
+    </a>
+    <span class="cat-price">$29.99</span>
+  </div>
+  <!-- pro-details -->                                
+  <!--  <div class="pro-view">                                
+<span>$29.99</span>                                    
+<a href="/collections/new-england-patriots/products/nfl-new-england-patriots-super-bowl-51-champions-liquid-blue-mens-shield-tie-die-t-shirt">view item</a>                                
+</div>
+product-view ends --> 
+
+</li>
+
+
+            
+          
+        
+          
+            
+              
+              
+
+
+
+
+
+
+<li class=" ">
+  <div class="pro-details">
+    <a href="/collections/new-england-patriots/products/nfl-new-england-patriots-super-bowl-51-champions-liquid-blue-ladies-tie-die-v-neck">
+      <span><img src="//cdn.shopify.com/s/files/1/0232/4875/products/1a93092bf42b08a8a28110b1a14c49d161991087_large.jpg?v=1487448260" alt="NFL New England Patriots Super Bowl 51 Champions Liquid Blue Ladies Tie Die V-Neck"></span>                                    
+      <p>"NFL New England Patriots Super Bowl 51 Champions Liquid Blue Ladies Tie Die V-Neck"</p> 
+    </a>
+    <span class="cat-price">$29.99</span>
+  </div>
+  <!-- pro-details -->                                
+  <!--  <div class="pro-view">                                
+<span>$29.99</span>                                    
+<a href="/collections/new-england-patriots/products/nfl-new-england-patriots-super-bowl-51-champions-liquid-blue-ladies-tie-die-v-neck">view item</a>                                
+</div>
+product-view ends --> 
+
+</li>
+
+
+            
+          
+        
+          
+            
+              
+              
+
+
+
+
+
+
+<li class="last ">
+  <div class="pro-details">
+    <a href="/collections/new-england-patriots/products/nfl-new-england-patriots-39-thirty-game-day-team-hat">
+      <span><img src="//cdn.shopify.com/s/files/1/0232/4875/products/cd1541ad157cb24e7b660fbf99ae16c9ce22dcad_large.png?v=1487361176" alt="NFL New England Patriots 39THIRTY Game Day Team Hat"></span>                                    
+      <p>"NFL New England Patriots 39THIRTY Game Day Team Hat"</p> 
+    </a>
+    <span class="cat-price">$23.99</span>
+  </div>
+  <!-- pro-details -->                                
+  <!--  <div class="pro-view">                                
+<span>$23.99</span>                                    
+<a href="/collections/new-england-patriots/products/nfl-new-england-patriots-39-thirty-game-day-team-hat">view item</a>                                
+</div>
+product-view ends --> 
+
+</li>
+
+
+            
+          
+        
+          
+            
+          
+        
+
+      </ul>
+    </div><!-- #additional-products-container -->
+
+  
+
+ <!-- related products ends --> 
+  
+
+<script src="//cdn.shopify.com/s/assets/themes_support/option_selection-f3dd7ba25bddfb6b0fe9addc0cae11dc709eeb6a469ec7f66f49e3abc4ce8c81.js" type="text/javascript"></script>
+
+<script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/easyResponsiveTabs.js?1206723538536721720" type="text/javascript"></script>
+  <script type="text/javascript">
+    $(document).ready(function () {
+      $('#horizontalTab').easyResponsiveTabs({
+        type: 'default', //Types: default, vertical, accordion           
+        width: 'auto', //auto or any width like 600px
+        fit: true,   // 100% fit in a container
+        closed: 'accordion', // Start closed if in accordion view
+        activate: function(event) { // Callback function if tab is switched
+          var $tab = $(this);
+          var $info = $('#tabInfo');
+          var $name = $('span', $info);
+
+          $name.text($tab.text());
+
+          $info.show();
+        }
+      });
+
+      $('#verticalTab').easyResponsiveTabs({
+        type: 'vertical',
+        width: 'auto',
+        fit: true
+      });
+    });
+  </script>
+
+
+<script>
+  $(function() {
+
+    var selectCallback = function(variant, selector) {
+
+      var $add = $('#add'),
+          $addText = $('#addText'),
+          $backorder = $('#backorder'),
+          $price = $('#product-price'),
+          $featuredImage = $('#productPhotoImg');
+
+      if (variant) {
+        
+        $("#sku").html(variant.sku);
+
+        // Update variant image, if one is set
+        // Call standard.switchImage function in shop.js
+        if (variant.featured_image) {
+          var newImg = variant.featured_image,
+              el = $featuredImage[0];
+          Shopify.Image.switchImage(newImg, el, standard.switchImage);
+        }
+
+        if (variant.available) {
+
+          // Selected a valid variant that is available
+          $addText.text('Add to Cart');
+          $add.removeClass('disabled').removeAttr('disabled').fadeTo(200,1);
+
+          // If item is back ordered yet can still be ordered, we'll show special message
+          if (variant.inventory_management && variant.inventory_quantity <= 0) {
+            $('#selected-variant').html("NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat" + ' - ' + variant.title);
+            $backorder.removeClass('hidden').fadeTo(200,1);
+          } else {
+            $backorder.fadeTo(200,0).addClass('hidden');
+          }
+
+        } else {
+          // Variant is sold out
+          $backorder.fadeTo(200,0).addClass('hidden');
+          $addText.text('Sold Out');
+          $add.addClass('disabled').attr('disabled', 'disabled').fadeTo(200,0.5);
+        }
+
+        // Whether the variant is in stock or not, we can update the price and compare at price
+        if ( variant.compare_at_price > variant.price ) {
+          // Update price field
+          $price.html('<span class="product-price on-sale">'+ Shopify.formatMoney(variant.price, "${{amount}}") +'</span>'+'&nbsp;<span class="product-compare-price">'+Shopify.formatMoney(variant.compare_at_price, "${{amount}}")+ '</span>');
+                                                                                  } else {
+                                                                                  // Update price field
+                                                                                  $price.html('<span class="product-price">'+ Shopify.formatMoney(variant.price, "${{amount}}") + '</span>' );
+                                                                                  }
+
+                                                                                  
+
+        } else {
+          // variant doesn't exist
+          $backorder.fadeTo(200,0).addClass('hidden');
+          $addText.text('Unavailable');
+          $add.addClass('disabled').attr('disabled', 'disabled').fadeTo(200,0.5);
+        }
+
+      };
+
+      new Shopify.OptionSelectors('product-select', {
+        product: {"id":8849284417,"title":"NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat","handle":"nfl-new-england-patriots-new-era-core-shore-blue-adjustable-3-point-stance-logo-hat","description":"\u003cp\u003eThis awsome loose style hat with a strap on the back to adjust to whatever size you need will look and fit great for anyone ! Ths hat also has th eold 3 point stance man logo on the front center of the hat !\u003c\/p\u003e","published_at":"2017-02-14T15:14:00-05:00","created_at":"2017-02-14T15:14:14-05:00","vendor":"New Era","type":"Hat","tags":["New England patriots","New England Patriots Hats"],"price":1999,"price_min":1999,"price_max":1999,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":30558385857,"title":"Adjustable \/ Blue \/ NFL","option1":"Adjustable","option2":"Blue","option3":"NFL","sku":"884990900577","requires_shipping":true,"taxable":true,"featured_image":{"id":20513433089,"product_id":8849284417,"position":1,"created_at":"2017-02-14T15:14:14-05:00","updated_at":"2017-02-14T15:14:14-05:00","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0232\/4875\/products\/145e42b5b3dc3ca975baace79e98c7dcae80587f.jpg?v=1487103254","variant_ids":[30558385857]},"available":true,"name":"NFL New England Patriots New Era Core Shore Blue Adjustable 3 Point  Stance Logo Hat - Adjustable \/ Blue \/ NFL","public_title":"Adjustable \/ Blue \/ NFL","options":["Adjustable","Blue","NFL"],"price":1999,"weight":0,"compare_at_price":null,"inventory_quantity":12,"inventory_management":"shopify","inventory_policy":"deny","barcode":null}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/0232\/4875\/products\/145e42b5b3dc3ca975baace79e98c7dcae80587f.jpg?v=1487103254"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/0232\/4875\/products\/145e42b5b3dc3ca975baace79e98c7dcae80587f.jpg?v=1487103254","options":["Size","Color","League"],"content":"\u003cp\u003eThis awsome loose style hat with a strap on the back to adjust to whatever size you need will look and fit great for anyone ! Ths hat also has th eold 3 point stance man logo on the front center of the hat !\u003c\/p\u003e"},
+        onVariantSelected: selectCallback,
+        enableHistoryState: true
+      });
+
+      // Add label if only one product option and it isn't 'Title'
+      
+
+                                           });
+
+      Shopify.Image.preload(["\/\/cdn.shopify.com\/s\/files\/1\/0232\/4875\/products\/145e42b5b3dc3ca975baace79e98c7dcae80587f.jpg?v=1487103254"], 'grande');
+      Shopify.Image.preload(["\/\/cdn.shopify.com\/s\/files\/1\/0232\/4875\/products\/145e42b5b3dc3ca975baace79e98c7dcae80587f.jpg?v=1487103254"], '1024x1024');
+
+</script>
+
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+    // This button will increment the value
+    $('.qtyplus').click(function(e){
+        // Stop acting like a button
+        e.preventDefault();
+        // Get the field name
+        fieldName = $(this).attr('field');
+        // Get its current value
+        var currentVal = parseInt($('input[name='+fieldName+']').val());
+        // If is not undefined
+        if (!isNaN(currentVal)) {
+            // Increment
+            $('input[name='+fieldName+']').val(currentVal + 1);
+        } else {
+            // Otherwise put a 0 there
+            $('input[name='+fieldName+']').val(0);
+        }
+    });
+    // This button will decrement the value till 0
+    $(".qtyminus").click(function(e) {
+        // Stop acting like a button
+        e.preventDefault();
+        // Get the field name
+        fieldName = $(this).attr('field');
+        // Get its current value
+        var currentVal = parseInt($('input[name='+fieldName+']').val());
+        // If it isn't undefined or its greater than 0
+        if (!isNaN(currentVal) && currentVal > 0) {
+            // Decrement one
+            $('input[name='+fieldName+']').val(currentVal - 1);
+        } else {
+            // Otherwise put a 0 there
+            $('input[name='+fieldName+']').val(0);
+        }
+    });
+});
+</script>
+<!-- QUANTITY BOX QUERY ENDS -->
+
+        
+
+
+        
+        <div class="news-letter">
+
+          <form class="contact-form" action="//sportsmaniausa.us7.list-manage.com/subscribe/post" method="POST">
+            <label>Be Social With Us, Subcribe for latest updates:</label>
+            <input type="hidden" name="u" value="95b35f027e22056a74b217e0e">
+            <input type="hidden" name="id" value="6aba0eda3c">
+            <input type="email" class="required email textbox" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" placeholder="your@email.com">
+            <input type="submit" class="btn styled-submit btn1 action_button" name="submit" value="Sign Up">
+          </form>
+
+
+        </div>
+        
+
+
+      </section>
+    </div><!-- #content -->
+
+    <footer>
+
+      <div class="foot1">
+
+        <div class="container">
+
+          <div class="foot-links">
+            <ul>
+              
+              <li>
+                <h5>Customer Service</h5>
+                <ul>
+                  
+                  <li><a href="/pages/contact-us" title="Contact Us ">Contact Us </a></li>
+                  
+                  <li><a href="/pages/faqs" title="FAQs">FAQs</a></li>
+                  
+                  <li><a href="/pages/help" title="Help">Help</a></li>
+                  
+                  <li><a href="/pages/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+                  
+                </ul>
+              </li>
+              
+
+              
+              <li>
+                <h5>Worry Free Shopping</h5>
+                <ul>
+                  
+                  <li><a href="/pages/satisfaction-guarantee" title="Satisfaction Guarantee">Satisfaction Guarantee</a></li>
+                  
+                  <li><a href="/pages/safe-shopping" title="Safe Shopping">Safe Shopping</a></li>
+                  
+                  <li><a href="/pages/flat-rate-shipping" title="Flat Rate Shipping">Flat Rate Shipping</a></li>
+                  
+                  <li><a href="/pages/365-day-returns" title="365-Day Returns">365-Day Returns</a></li>
+                  
+                </ul>
+              </li>
+              
+
+              
+              <li>
+                <h5>Information</h5>
+                <ul>
+                  
+                  <li><a href="/pages/about-us" title="About Us">About Us</a></li>
+                  
+                  <li><a href="/pages/corporate-info" title="Corporate Info">Corporate Info</a></li>
+                  
+                  <li><a href="/pages/sports-mania-jacksonville" title="Sports Mania Jacksonville">Sports Mania Jacksonville</a></li>
+                  
+                  <li><a href="/pages/sports-mania-detroit" title="Sports Mania Detroit">Sports Mania Detroit</a></li>
+                  
+                  <li><a href="/pages/mania-blogs" title="Mania Blogs">Mania Blogs</a></li>
+                  
+                  <li><a href="/pages/contact-us" title="Employment Opportunities">Employment Opportunities</a></li>
+                  
+                </ul>
+              </li>
+                                  
+
+            </ul>
+          </div>
+          <!-- foot1 ends -->
+
+          <div class="foot-text">
+            <!--<p>
+Sports Mania USA is your College Apparel & NFL Shop featuring an endless assortment of sports apparel, merchandise and fan gear. We are the primary source for all the latest team gear for sports including NCAA and College Sports Apparel, Baseball Caps and T-Shirts. Find thousands of authentic items throughout our store with tons of new gear arriving daily including College Football Gear and College Football Jerseys.
+</p>-->
+
+            <p>
+              Sports Mania USA is your go to store for all your licensed sports apparel, merchandise and fan gear with fast shipping. We are the Sports
+              Team headquarters for the latest gear for sports including. Nike NFL Jerseys,<a href="http://sportsmaniausa.com/pages/teams-mlb"> MLB Merchandise</a>, <a href="http://sportsmaniausa.com/pages/teams-ncaa">NCAA Merchandise</a>, and <a href="http://sportsmaniausa.com/search?type=product&q=new+era&x=0&y=0">New Era Hats</a> and 
+              sports t-shirts. Presenting an endless collection of licensed sports apparel, College World Series Gear,<a href="http://sportsmaniausa.com/collections/jacksonville-jaguars/Jacksonville-Jaguars"> Jacksonville Jaguar Products</a>,
+              <a href="http://sportsmaniausa.com/collections/jacksonville-jaguars/jacksonville-jaguars-hats">Jaguar Hats</a>, Jaguar Snapback Hats, Rose Bowl, Super Bowl, Gator Products, FSU Championship T shirts. We are your key resource for all your 
+              most up-to-date player and fan merchandise. Find thousands of authentic items throughout our store with tons of new gear arriving daily.
+              <br /><br />Powered by <a href="/">sportsmaniausa.com</a>
+            </p>
+
+
+          </div><!-- footer_text ends -->
+
+          <div class="foot-social">
+
+            <ul class="social-links inline-list">
+              
+              <li class="tweet">
+                <a class="icon-fallback-text" target="_blank" href="https://twitter.com/SportsManiaUSA" title="SportsManiaUSA.com on Twitter">
+                  <span class="icon icon-twitter" aria-hidden="true"></span>
+                  <span class="fallback-text">Twitter</span>
+                </a>
+              </li>
+              
+              
+              <li class="fb">
+                <a class="icon-fallback-text" target="_blank" href="https://www.facebook.com/SportsManiaUSA/?ref=hl" title="SportsManiaUSA.com on Facebook">
+                  <span class="icon icon-facebook" aria-hidden="true"></span>
+                  <span class="fallback-text">Facebook</span>
+                </a>
+              </li>
+              
+              
+              <li class="four">
+                <a class="icon-fallback-text" target="_blank" href="https://foursquare.com/sportsmaniausa" title="SportsManiaUSA.com on Tumblr">
+                  <span class="icon icon-tumblr" aria-hidden="true"></span>
+                  <span class="fallback-text">Tumblr</span>
+                </a>
+              </li>
+              
+
+              
+              <li class="pin">
+                <a class="icon-fallback-text" target="_blank" href="http://www.pinterest.com/sportsmaniajax" title="SportsManiaUSA.com on Pinterest">
+                  <span class="icon icon-pinterest" aria-hidden="true"></span>
+                  <span class="fallback-text">Pinterest</span>
+                </a>
+              </li>
+              
+              
+              <li class="ytube">
+                <a class="icon-fallback-text" target="_blank" href="https://www.youtube.com/user/904sports" title="SportsManiaUSA.com on YouTube">
+                  <span class="icon icon-youtube" aria-hidden="true"></span>
+                  <span class="fallback-text">YouTube</span>
+                </a>
+              </li>
+              
+              
+              <li class="inst">
+                <a class="icon-fallback-text" target="_blank" href="http://instagram.com/SportsManiaUSA" title="SportsManiaUSA.com on Instagram">
+                  <span class="icon icon-instagram" aria-hidden="true"></span>
+                  <span class="fallback-text">Instagram</span>
+                </a>
+              </li>
+              
+              <li class="fbsend">
+                <script type="text/javascript" src="//w.sharethis.com/button/buttons.js"></script>
+                <script type="text/javascript">stLight.options({publisher: "3c2d8185-5d19-404b-b558-16f22cee31fe", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+                <span class='st_fbsend_large' displayText='Facebook Send'></span>
+              </li>
+              <!--    
+ -->
+            </ul>
+
+          </div>
+          <!-- foot-social ends --->
+
+        </div>
+        <!-- container ends -->
+
+      </div>
+      <!-- foot-links ends -->
+
+      <div class="foot2">
+
+        <div class="container">
+
+          <p>
+            © 2014 SportsManiaUSA.com, Inc., All rights reserved. No portion of this site may be reproduced or duplicated without the express permission of Sports Mania, Inc.
+            Your source for College Football Gear and NFL Jerseys
+          </p>
+
+          <ul>
+            <li><a href="/pages/privacy-policy">privacy policy</a>|</li>
+            <li><a href="#">tearms &amp; conditions</a>|</li>
+            <li><a href="/sitemap.xml" target="_blank">site maps</a></li>
+          </ul>
+
+          <span><img src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/pay-icon.png?1206723538536721720" alt="Payment" /></span>
+
+        </div>
+        <!-- container ends -->
+
+      </div>
+      <!-- foot2 ends -->     
+
+    </footer>
+    <!-- footer ends -->
+
+  </div>
+
+  
+  
+  <script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/jquery.flexslider.min.js?1206723538536721720" type="text/javascript"></script>
+  
+  
+  
+  <script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/social-buttons.js?1206723538536721720" type="text/javascript"></script>
+  
+
+  
+  <script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/plugins.js?1206723538536721720" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/shop.js?1206723538536721720" type="text/javascript"></script>
+
+
+
+  <!-- QUANTITY BOX QUERY STARTS -->
+  <script type="text/javascript">
+    jQuery(document).ready(function(){
+      // This button will increment the value
+      $('.qtyplus').click(function(e){
+        // Stop acting like a button
+        e.preventDefault();
+        // Get the field name
+        fieldName = $(this).attr('field');
+        // Get its current value
+        var currentVal = parseInt($('input[name='+fieldName+']').val());
+        // If is not undefined
+        if (!isNaN(currentVal)) {
+          // Increment
+          $('input[name='+fieldName+']').val(currentVal + 1);
+        } else {
+          // Otherwise put a 0 there
+          $('input[name='+fieldName+']').val(0);
+        }
+      });
+      // This button will decrement the value till 0
+      $(".qtyminus").click(function(e) {
+        // Stop acting like a button
+        e.preventDefault();
+        // Get the field name
+        fieldName = $(this).attr('field');
+        // Get its current value
+        var currentVal = parseInt($('input[name='+fieldName+']').val());
+        // If it isn't undefined or its greater than 0
+        if (!isNaN(currentVal) && currentVal > 0) {
+          // Decrement one
+          $('input[name='+fieldName+']').val(currentVal - 1);
+        } else {
+          // Otherwise put a 0 there
+          $('input[name='+fieldName+']').val(0);
+        }
+      });
+    });
+  </script>
+  <!-- QUANTITY BOX QUERY ENDS -->
+
+  <!-- caro js -->
+  <script src="//cdn.shopify.com/s/files/1/0232/4875/t/10/assets/owl.carousel.js?1206723538536721720" type="text/javascript"></script>
+
+
+  <!-- home caro -->
+  <script>
+
+    $(".owl-carousel").owlCarousel({
+
+      // Most important owl features
+      items : 10,
+      itemsCustom : false,
+      itemsDesktop : [1199,10],
+      itemsDesktopSmall : [951,6],
+      itemsTablet: [700,4],
+      itemsTabletSmall: false,
+      itemsMobile : [479,3],
+      singleItem : false,
+      itemsScaleUp : false,
+
+
+    });
+
+
+  </script>
+
+  <!-- product caro -->
+  <script>
+
+    $(".owl-carousel1").owlCarousel({
+
+      // Most important owl features
+      items : 2,
+      itemsCustom : false,
+      itemsDesktop : [1199,2],
+      itemsDesktopSmall : [951,2],
+      itemsTablet: [700,2],
+      itemsTabletSmall: false,
+      itemsMobile : [479,1],
+      singleItem : false,
+      itemsScaleUp : false,
+
+
+    });
+
+
+  </script>
+
+
+  <!-- AddShoppers Tracking Code Start -->
+  <script type="text/javascript">
+    AddShoppersTracking = {
+      image: '' // add URL for custom product image (RECOMMENDED if not using Product Schema)
+    }
+    var js = document.createElement('script'); js.type = 'text/javascript'; js.async = true; js.id = 'AddShoppers';
+    js.src = ('https:' == document.location.protocol ? 'https://shop.pe' : 'http://cdn.shop.pe') + '/widget/widget_async.js#5429d608a387647c96714483';
+    document.getElementsByTagName("head")[0].appendChild(js);
+  </script>
+  <!-- AddShoppers Tracking Code End -->
+  <script src="//ssl.reellabs.com/main.js"></script>
+
+
+  <!-- Google Code for Remarketing Tag -->
+
+  <!--------------------------------------------------
+
+Remarketing tags may not be associated with personally identifiable 
+
+information or placed on pages related to sensitive categories. See more 
+
+information and instructions on how to setup the tag on: 
+
+http://google.com/ads/remarketingsetup
+
+--------------------------------------------------->
+
+  <script type="text/javascript">
+
+    /* <![CDATA[ */
+
+    var google_conversion_id = 943707230;
+
+    var google_custom_params = window.google_tag_params;
+
+    var google_remarketing_only = true;
+
+    /* ]]> */
+
+  </script>
+
+  <script type="text/javascript" 
+
+          src="//www.googleadservices.com/pagead/conversion.js">
+
+  </script>
+
+  <noscript>
+
+    <div style="display:inline;">
+
+      <img height="1" width="1" style="border-style:none;" alt="" 
+
+           src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/943707230/?va
+
+                lue=0&amp;guid=ON&amp;script=0"/>
+
+    </div>
+
+  </noscript>
+
+
+  <div class="findify_page_product" style="display:none">8849284417</div>
+</body>
+</html>

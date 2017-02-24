@@ -1,0 +1,1421 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta name="msvalidate.01" content="066B5B85928051E8DD433C78D150E764" />
+        <meta name="description" content="The Best and Funniest Vine Videos on the Internet and New Vines added every minute!">
+            <meta name="keywords" content="best vines, funny vines, vine compilation, comedy, vine search, search vine, twitter videos, videos for twitter, vine online viewer">
+
+        <meta name="title" content="Best Vines for TOMBRADY Compilation - November 3, 2016 Thursday Night">
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta property="og:title" content="Best Vines for TOMBRADY Compilation - November 3, 2016 Thursday Night" />
+        <meta property="og:description" content='' />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://www.best-vine-videos.com/Best-Vines-For-TOMBRADY-Compilation---November-3,-2016-Thursday-Night-5103985.html" />
+        <meta property="og:image" content="http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg" />
+        <meta property="og:site_name" content="http://www.best-vine-videos.com" />
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@">
+        <meta name="twitter:url" content="http://www.best-vine-videos.com/Best-Vines-For-TOMBRADY-Compilation---November-3,-2016-Thursday-Night-5103985.html">
+        <meta name="twitter:title" content="Best Vines for TOMBRADY Compilation - November 3, 2016 Thursday Night">
+        <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg">
+        <meta property="fb:app_id" content="?" />
+        <meta name="verify-v1" content="?" />
+        <meta itemprop="url" content="http://www.best-vine-videos.com/Best-Vines-For-TOMBRADY-Compilation---November-3,-2016-Thursday-Night-5103985.html" />
+                <meta name="author" content="">
+                   <meta name="msvalidate.01" content="066B5B85928051E8DD433C78D150E764" />
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1">
+        <meta charset="UTF-8">
+                        <title>Best Vines For TOMBRADY Compilation - November 3, 2016 Thursday Night | Best-Vine-Videos.com</title>
+        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans"/>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+
+        <!-- jQuery library -->
+        <script src="https://code.jquery.com/jquery-1.12.3.min.js" integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ=" crossorigin="anonymous"></script>
+        <!-- CSS file -->
+        <link rel="stylesheet" href="/EasyAutocomplete-1.3.3/easy-autocomplete.css">
+
+        <!-- Additional CSS Themes file - not required-->
+        <link rel="stylesheet" href="/EasyAutocomplete-1.3.3/easy-autocomplete.themes.css">
+        <!-- Using jQuery with a CDN -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/easy-autocomplete/1.3.3/jquery.easy-autocomplete.js"></script>
+
+        <!-- Latest compiled JavaScript -->
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <script type="text/javascript">var switchTo5x = true;</script>
+        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+        <script type="text/javascript">stLight.options({
+                publisher: "90c8bac6-e4ce-4116-bf9a-ffda9fd17833",
+                doNotHash: false,
+                doNotCopy: false,
+                hashAddressBar: false
+            });</script>
+        <script type="text/javascript" src="/js/main.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
+        <link rel="stylesheet" type="text/css" href="/css/colors.css">
+    </head>
+    <body>
+    <div class="top" style="border-bottom:1px solid #A2A2D0;">
+        <div class="box">
+
+            <a href="/">                <div class="logo-box">
+                    <div class="rainbow-fav-container" style="background: #A2A2D0;"><i
+                            class="fa fa-vine fa-fw rainbow-fav"></i></div><div class="logo-title">Best-Vine-Videos</div></a></div>
+
+        <div class="search-box">
+            <form id="search-form" class="form-inline" role="form" method="get" action="/Search/">
+                <div class="input-group">
+                    <input type="text" id="search-links" class="form-control search-form" style="border: #86608E;" name="q" placeholder="Search"
+                        >
+                    <!--DO NOT NEED TRAILING SLASH "/" As HTML5 FORMS SLASHES ARE NO LONGER REQUIRED--> <span
+                        class="input-group-btn"><button type="submit" class="btn btn-primary search-btn"
+                                                        data-target="#search-form" style="background: #A2A2D0; border: #86608E; height: 33.8px;"><i class="fa fa-search">
+                        <!--FONT AWESOME font @ "http://fortawesome.github.io/Font-Awesome/" --></i>
+                </button></span>
+                </div>
+                <script>
+
+                    $(document).ready(function() {
+
+                        var options = {
+
+                            url: function(phrase) {
+                                if (phrase !== "") {
+                                    return "/searchJson.php?q=" + phrase;
+                                }
+                            },
+
+                            getValue: "text",
+
+                            requestDelay: 300,
+
+                            theme: "square",
+
+                            template: {
+                                type: "links",
+                                fields: {
+                                    link: "website-link"
+                                }
+                            },
+                            list: {
+                                maxNumberOfElements: 10
+
+                            }
+
+
+                        };
+
+                        $("#search-links").easyAutocomplete(options);
+                    });
+
+                </script>
+        </div>
+
+
+
+        </form>
+
+                    </div>
+        <div class="box">
+
+            <div class="center"><script>
+function openWin(url) {
+myWindow = window.open(url, "myWindow");
+}</script><a href="http://www.dictionaryvoice.com" onClick="openWin('http://www.meseed.com/Visit.php?visit=4');return false" target="_blank">ಠ_ರೃ♡</a><a href="http://www.dictionaryvoice.com" onClick="openWin('http://www.meseed.com/Visit.php?visit=4');return false" target="_blank"> try: DictionaryVoice.com pronounce words</a></div>        </div>
+    </div>
+    <div class="bottom">
+
+
+    <div class="box">
+
+        <h1><span itemprop="name">Best Vines for <a href="/Search/?order=newest&q=tombrady" style="color: #A2A2D0; text-transform: uppercase;">tombrady</a> Compilation - November 3, 2016 Thursday Night</span></h1></div>
+        <div class="box-ad-cpu">
+
+
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Flexible Mobile -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-6547315753979149"
+                 data-ad-slot="6090980310"
+                 data-ad-format="auto"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script></div>
+            <div class="box">
+        <div class="content">
+            <div id="player"></div>
+<script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key="9gfDZez0QVEpRrU7FRW/EpJeIH+CND0DFNEMUw==";</script>
+<div id="myElement"></div>
+
+<script type="text/javascript">
+jwplayer("myElement").setup({
+playlist: [
+          {
+  file: 'https://v.cdn.vine.co/r/videos/7A1C3AAA26991792385464168448_1ca5431185d.3.1_O_cRNs9GiOH_laWR0MhjxJBCTDc05sOF9xyBcbgvYVkG9wOi4U.jjAvh7uJ8Mqut.mp4',
+  title: 'Tom Brady Drake NWTS TomBrady IGotMyEyesOnYou',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hvzI3AAWL6F'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/39B7EE964A1165861622489948160_34869431c33.1.5.1304304938753396928.mp4',
+  title: 'Brady threw that last touchdown like thispatnation tombrady emmanuelhudson',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'Op3XduDBqaZ'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/BB8F2FA61E1001284542016958464_11320518a89.3.4_tS8wRyTpSrAUX60d0WbmlfNE0hgmtFrZc.1nmidX6CTuoxkZuiKgHvcWsNpvn_hS.mp4?versionId=DYTgm_2TKeTHeJ15AFObaMe0pvli0129',
+  title: 'HoodSportsWithGametime PreSnap Tom Brady Be Like Comedy jokes footballstuff nfl tombrady pats saints NFLonFOX voiceovers',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hH9ewFArihm'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/E68D950AC81173879319131766784_34bf9606023.1.5.15866538639809584240.mp4',
+  title: 'newenglandpatriots win the superbowl and shut down seahawksnation and loud mouth RichardSherman gronk tombrady patriotsnation nfl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OtExTx1HPeK'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/E83BDE1CBD1272388377933135872_1c2bd66377b.3.2.mp4',
+  title: 'gronktombradyedelmanpatriotsnewenglandpatriotspatriotsnationPatsNationpatsnflhappyhalloweenusafootballLOL',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'e35LxzIZKlM'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/4D0C77FC1E1171265023272689664_3b864e39226.1.5.16962121804917924098.mp4',
+  title: 'Who let the air out DeflateGate patriotsnation PatsNation patriots newenglandpatriots nfl gronk tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OTM79XzeqX6'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/B5C1967DCC1001302898296168448_1e4fe9f9e2c.3.4_F0UMDLYlvSVKwjLK0bCZ7r1UTM8IPGNsd_7vTcuwF8oJHJpy8_Iw.NEE6VD_qXgf.mp4?versionId=1WW5mongI6HWr6JbL8ZJhk.8scSKYKIb',
+  title: 'Hood Sports With GAMETIME  HoodSportsWithGametime  comedy jokes voiceovers DrewBreesBeLike WhiteBoyJuke JukeStick saints',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hH9Eb3iaWta'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/4FB79E28F81287236593270603776_10608b7a64b.3.2.mp4',
+  title: 'The party boy Rob Gronkowski theasaprc gronkedelmantombradypatriotspatstouchdownpatsnationpatriotsnationnfl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iZ6PphQHHzg'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/9CAB3E81681171364484598968320_3f536a4a146.1.5.1214160340399688112.mp4',
+  title: 'Pump up The Balls Pump Them Up DeflateGate newenglandpatriots PatsNation patriotsnation patriots nfl tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OTi72QlE2i9'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/8E31E8EF8E1269143125524660224_1dc2b4b30d7.3.2.mp4',
+  title: 'Malcolm Butler  patriotsmalcolmbutlergronkedelmanjulianedelmanrobgronkowskigronktombradygoatnflusaPatsNationpatsSB49',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eVJe0QJ93bD'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/8B95760B891028783432412672000_1736337a2cc.4.6.12171277365816326193_eLCHIRkKbQ3wZx3wbB8_jv57r2cQy52O.wYHTEux245ID5Lw16wGya7C0pUlamBn.mp4',
+  title: 'Headed to the Pro Bowl nfl athletics washboardabs tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'h9PPBZB7mIp'
+},
+          {
+  file: '',
+  title: 'This is how I pictured it a few weeks ago NFLVoiceOver tombrady trainingday',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hEt17wQYgbD'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/73A71A2B541270590775008837632_14743fd390a.3.2.mp4',
+  title: 'DeionLewissorryhelloadelepatriotspatsnationpatriotsnationpatsnewenglandnewenglandpatriotstombradygronknfl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eYh9eeKvTMn'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/FF791A2FFE1286183679500410880_1c94081b292.3.2.mp4',
+  title: 'White to Amendola to Brady patriotspatsnationpatriotsnationnewenglandpatriotsnewenglandpatsnflamendolatombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'i70WZ2Ag1Qv'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/8AEDB006EA1268055930487328768_125f24c96ae.3.2.mp4',
+  title: ' Jamie Collins  patriotspats patsnationtombradygronkgronkowskiedelmanusanflnewenglandpatriotscatrawfootballbestvines',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'e9tp0qdn2Jq'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/EF7AAB4BA81001323870776713216_1f38ab9e0d7.3.4_L36LPCAMd1aOB7K6FuoIp1efIeojK48_a8E6_bu9oN0YS_MlYADksNwOPWQpCquQ.mp4',
+  title: 'WHODAT who PatsNation TomBrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hHV6hx30EA9'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/E0906D64BB1220878104260911104_3765fab652d.4.0.18053778548014758051.mp4',
+  title: 'when your homie wont stop bringing up Tom Brady  full songvideo on youtubecomsongify songify relatable tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eOFlVewOuDp'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/6F9531D8D41277510050252304384_4d5c6b6e397.3.0.4911978571430027952.mp4',
+  title: 'patriots tombrady brady goat PatsNation  Patriotic Nation ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iBXWjEQgDL3'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/EC01AF4BE71267676636707770368_1bbe31fdf2f.3.2.mp4',
+  title: 'NEvsINDtombradyedelmangronkpatriotspatspatsnationnewenglandpatriotsusanflbestsportplaysbestcelebrationstouchdowntdfootball',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'e96AwQJQJ7W'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/FB63448A131258267131930472448_4d08aeb25ba.1.0.4401693234746733518.mp4',
+  title: 'The play of the gameinfinityswoSithfootballBestSportsPlaysnewenglandrobgronkowskijulianedelmanPatsNationpatriotsnfltombradyusa',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'ePtaXPemDz1'
+},
+          {
+  file: '',
+  title: 'No Vine Title',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'et5nBFXPqAx'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/0647B0100D1287960613460860928_191dd465035.3.2.mp4',
+  title: 'LeGarrette BlountpatriotspatspatsnationpatriotsnationnewenglandpatriotsnfltombradyedelmantouchdownusalolTD',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iZYw73P2pHw'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/9FECCC86BD980369075488411648_1f4697ad04c.3.1_47sXcQIByLBN.blsXCC61wLxCcpQn1Miu9PfJ5YDVEKnrrEunXtifyhumEoSmK31.mp4',
+  title: 'What TrapLord TomBrady ESPN',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hOuY3X67Mdd'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/41C3AAE87D1186160283128074240_SW_WEBM_1425776844633287b2c3629.mp4',
+  title: 'Mike Tyson Fighting A White Tiger MikeTyson IronMike IronMikeTyson TheChamp',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OEnimePqtvK'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/EAFE9AC3F11297045253353771008_14191b76e63.3.2.mp4',
+  title: 'Tom Brady is on ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'ihgV9DIn2Px'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/0D5535A8C31255736453355470848_449ab435a8e.0.2.10898900533611524234.mp4',
+  title: 'TomBrady  GOAT  snapchatproblemshomestuckEMABiggestFans5SOSupdatesnapchatstoriespitchsmashbatmanvsrobinpatspatriots',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eUZVIB1pQ51'
+},
+          {
+  file: '',
+  title: 'No Vine Title',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eHQWDQ1gZBx'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/17A56BC14F1259004944066162688_48361f7a2cc.1.0.7319662613681248832.mp4',
+  title: 'BOOMpatriotsnewenglandpatriotsnewenglandPatsNationtombradyBestSportsPlaysbradyrobgronkowskigronkjulianedelmannfledelmanusa',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'exmhI2lTxIA'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/E478B6F8EC1281823041974050816_147dfe543bc.3.2.mp4',
+  title: 'turkeytombradydannyamendolajulianedelmangronkpatspatriotspatsnationpatriotsnationnewenglandnflfootballadele',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iamEj72jeX0'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/FBE0287EE01280737439186903040_1bc6d2aa5aa.3.2.mp4',
+  title: 'patriotstouchdownnflusanewenglandtombradypatsPatsNationpatriotsnationBestSportsPlaysLOLTDfootballfunny',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'izgAL0iPzEU'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/A46EB18EFF1142227308321947648_3181c98db3a.0.1.14125636155591056138.mp4',
+  title: 'How The Fk Did You Catch That  Tom Brady  ARJ newengland patriots Denver Broncos nfl football Brady tombrady gronkowski',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'Oev5TQVKXrz'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/B4B0C37FA01174577279062740992_337f8087ef6.1.4.9499422976565124400.mp4',
+  title: 'IM DEAD DOUBLETAP IF YOU LAUGHED BeastmodeSports patriots seahawks marshawnlynch SB49 KatyPerry malcolmbutler tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OFOQAvTQvPE'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/04F7D9A3091265525745804357632_12685a5cd8b.3.2.mp4',
+  title: ' Devin Mccourty patriotspatsnationpatstombradygronkedelmanlolusanflBestSportsPlaysnewnewenglandnewenglandpatriotsfunny',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eEm6bUzeKYW'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/E1F2678EA51271661613811941376_1a55f1c5549.3.2.mp4',
+  title: 'wtfbradytombradygronkedelmanpatriotsPatsNationpatriotsnationpatsnewenglandpatriotshotlineblingdrakenflLOL',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eYY7bH1mDWT'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/254AC8667F1308984837268758528_172cfb2e92e.3.2.mp4',
+  title: ' New England Patriots ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'i10AW2M5ZzA'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/A63E4ABE641256463924405604352_4c9e19ad608.0.2.10458666992652185197.mp4',
+  title: 'Quickest nfl w receiverpatriotspatsPatsNationjulianedelmangronkbradytombradyrobgronkowskinewenglandnewenglandpatriotsupdate',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eUdQ7nbLYBq'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/26BCFB03371374228249575653376_129560793ec.4.7.mp4',
+  title: 'Tom Brady the best quarterback in nfl history Haters comment down below ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5qV1Ixujwm3'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/BDE126A8071166219332011896832_3610854ea72.1.5.15389172998515395262.mp4',
+  title: 'Patriots are onto the AFC Championship game patriots nfl NFLplayoffs football tombrady nepatriots PatsNation pats gronk boston',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'ODKOnLw0KBe'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/518BE84F0A1208642958774489088_1cd2a575d14.4.7.mp4',
+  title: 'LIKE AND REVINE IF YOU SUPPORT BRADY IGNORETHENOISE PATSNATION TomBrady defakegate',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'emq2V1lnH9I'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/FBA692E6DA1400671307091349504_5edf6ed582d.39.0.23C63FA5-1929-4892-8FD2-A58B89EBB3BB.mp4',
+  title: 'Roger goodell will give Tom Brady at least one more SB trophy double tap if u agree  Brady is playing better compared to other seasons',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5wmiptAFbwd'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/E9C2E2D34D1242693437510815744_3d010afdb48.4.6.15141786368717794055.mp4',
+  title: 'patspatriotsnflSB49tombradybradygronkrobgronkowskirobgronkowskinewenglandBestCelebrationsBestFootballHitsjulianedelmannfl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'edZrpe1d1Px'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/F364E3B68C1290940146010980352_4c602856818.5.0.6717488282943012874.mp4',
+  title: 'Tom Brady realDonaldTrump Trump TomBrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iKPq5ip2tUM'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/AF6A5C02861288341859546054656_48085d126da.4.1.563493402636949235.mp4',
+  title: 'It feels like it was just yesterday  Super Bowl predictions for this year anybody ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'imKuTtIa1h9'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/85110A8D661157112621187670016_3dbfb46c207.1.3.4960923999432211516.mp4',
+  title: 'Vine by NowThis',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OgdhDe5qM3B'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/E0581D36E91266614043939115008_1a42622d8c5.3.2.mp4',
+  title: 'GOAT tombrady  edelmangronkpatriotspatspatsnationnewenglandpatriotsnewenglandusalolfunnybestsportplaysnflbrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eE2q0Pu6xPn'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/1589456C691170204789582249984_SW_WEBM_1421972768306f451d363ed.mp4',
+  title: 'Deflated balls tombrady DeflateGate deflated ball patriots football sports superbowl comedy',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OIDbrduueOg'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B92CCA15181210080702973296640_3617214b490.3.1.9513723003465617974.mp4',
+  title: 'I came in with deflated balls TomBrady DeflateGate nfl patriots patriotsnation',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eK7WxBdLKAD'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/185F21FFDD1303096930163126272_1e1e7d48398.4.7.mp4',
+  title: 'What a season thanks 4 all the last game between us and the Super Bowl lets see what happensGame day Lets GO',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iibBFPZnD2p'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/E122BD255D1236546379283832832_345650a1433.4.2.15974559413717991317.mp4',
+  title: 'runpatriotsPatsNationpatsnflBestCelebrationsBestSportsPlaysfootballhitsfootballhahatombradyjulianedelman robgronkowskiLOL',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eg5ghUvuX1D'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/C4E14E49821198865100221079552_3ef55550288.2.1.2292775604799118442.mp4',
+  title: 'Pain will always subside     PatsNationmotivatedmotivationMotivationVinepatriotstombradybrady12nflAFCchampionsnewenglandpain',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'euqjxlzp7h5'
+},
+          {
+  file: '',
+  title: 'No Vine Title',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'ePq2Xdj2w2b'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/1B106BA7761265144296588361728_1760c660c99.3.2.mp4',
+  title: 'Week 3 Win vs Jaguars 51  17 patriotspatsnewenglandnewenglandpatriotsedelmangronktombradyBestSportsPlaysfunnyPatsNationnfl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'e0VlxLE1ZPL'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/EA5E0F14911288377448928563200_467e27decca.5.0.14104588905087576091.mp4',
+  title: 'young rich and handsome',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'imA7iX9lYAu'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/462B20E6AE1007047970300309504_1c4944494ef.3.4_1UFfEh.qslS3m0revsLqSnbMDKt6NV7McGNZhBeL5e4GEfBxpA6vOz2iq1tN1Cae.mp4',
+  title: 'Tom Brady gets crushed by Nate Clements Song Miley Cyrus  Wrecking Ball CAKED UP REMIX tombrady patriots wreckingball mileycyrus',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hDnxVOHdD3I'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/17FA307BA61302771341606395904_180d2cb1d96.4.7.mp4',
+  title: 'Get hyped 4 tomorrows gameTom Brady looking for his 7th appearance in a Super Bowl  Lets GO',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iiuqIjOXl7q'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B22AF1F34B1310006182668292096_5035329ead4.3.0.13079312610050908100.mp4',
+  title: 'Tom Bradys flee flicker play to Randy Moss when he threw 5 touchdowns in 1 quarter Tom Terrific  Patriotic Nation  TomBrady football',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'inrLnD5VDbj'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/348C78885E987499143172165632_1ae80b5d213.3.1_bW8qH0hnoeOmitJ0fGtd_Vzy3TJlipzmdkTzfEoLJNJH7tP.PRh8lvqcKKxD2xCF.mp4',
+  title: 'Tom Brady gets smashed tombrady patriots nfl footballhits buffalobills buffalo football funny',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hJngvOwa5X9'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/A6167F1D0A1019039746963775488_14aadde36c5.4.3.268803994843169735_MB11jAQOxmVS7nZSxTjcItFR.lJvfNL9.zdcXgsc_CfY5p652MFDk0hQvlupVCmq.mp4',
+  title: 'Listening in on Tom Brady whining to himself NflVoiceovers nfl tombrady HoodSportsWithGametime BadLipReading',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hPxdrV1h03P'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/25127BC0F31173934719210299392_374276efe32.1.5.5985302010056239575.mp4',
+  title: 'My team the Patriots win their 4th Super Bowl superbowl seahawks SB49 PatsNation patriots nepatriots boston Seattle tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OtVrZ2mvYhw'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/D9C118AD791323922819645870080_5c935b94f98.9.0.10384549741318941741.mp4',
+  title: 'The GOAT tombrady goat patriots newengland TheZone',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'ipBtz2wm9pM'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/9060B15E141260037428468133888_4745626ecf7.1.0.17399209191746106592.mp4',
+  title: 'Week2 Win patriotsnewenglandnewenglandpatriotsPatsNationbradytombradyedelmangronkgronkowskinflusaBestSportsPlaysfailfunny',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'exxiBQZ2WeM'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/914A98C6451211450021858693120_32fd3066c36.3.1.4562062859012282238.mp4',
+  title: 'tombrady DeflateGate PatsNation  newenglandpatriots boston gronk patriotsnation',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eK3OU2vwmJ2'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/5387994AFF1251374735485730816_SW_WEBM_1441325195994ee0dd1d519.mp4',
+  title: 'Can you pump up the football DeflateGate tombrady patriots',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eTrI0a91bTW'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/1DDD9AE45B1238647841665478656_3115cdfd11e.4.4.3627349096124301611.mp4',
+  title: 'TomBrady with the one handed catch from JulianEdelman at training camp TrickPlay Patriots NFL',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eXjt5JKIHj1'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/8B79668D9C991601704137089024_17fd765a3a8.3.1_Wkfiw71.THCKFLR2wCE9qmetUodugGLn4voBqb1mSfGYaS87IxoUkWtC40LEa69j.mp4',
+  title: 'IM DYING OMG TomBrady Wreckingball mileycyrus comedy spoof patriots nfl Patriots4Life',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hnYYxYlFIZE'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/C874D8396E1168798969917235200_34fe16f6ff9.1.5.14327988869570304974.mp4',
+  title: 'Congrats to the AFC Champs newenglandpatriots now road to superbowl 49 PatsNation gopats tombrady Touchdown Playoffs nfl TD',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OjUYLOgEAma'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/E6BDDBEF14987542988152868864_18ab94aa6cc.3.1_t3l7ZD57SyH8DTJvI72GgFNnvAz3arvwWvpTpzbqNEHkZDviXi4dz3TCZWbsVPDW.mp4',
+  title: 'Tom Brady gets it Big Football hits part 9 Tombrady NFL football hard hits bighits bills patriots',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hJvQDUWz6dw'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/0A816BCF6B1243667911580041216_32490a15b20.4.6.8418795814679482509.mp4',
+  title: 'newenglandpatriots preseason vine gameday nfl preseason PatsNation tombrady gronk gronkowski DeflateGate what champions',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'edFxr3IEWiE'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/DA2505CD031210763971905859584_3bef8d94864.3.1.15902302123348795361.mp4',
+  title: 'DeflateGate tombrady baller cool giselle patriots nfl Boppz Lee Page Christopher Michael Everett football littlewhiteliesitold',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eKXIqr9l3zP'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/983DA3C55C1255400382834868224_4815af21511.0.2.511646984908413377.mp4',
+  title: 'MissAmerica TomBrady Deflategate',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eFYQZjprunp'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/F392B800CD1344430260884017152_5a051525a29.17.0.1508396914722098180.mp4',
+  title: 'The Legend The Greatest of all time 4x SB champion Tom Brady PatsNation TheZone GOAT tombrady  Patriotic Nation ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'i0pxeVJ2bIn'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/8A80F3A2D31174047753735704576_22888116b56.5.1.4827352484704506928.mp4',
+  title: 'TomBrady and  RichardSherman The faces of victory and defeat SuperBowlXLIX',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OtLEdYv3H6H'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/30A650D2421251241325610086400_SW_WEBM_1441293380816ef03d02dd5.mp4',
+  title: 'TomBrady to patriotsnation right now',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eTJjxJmZMpI'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/355BC21B3A991579041540763648_1281c69533e.3.2_k.SWNqUZbU_p_OcMTFq5IhMb76VGe_sjmqBZNOk4jNpCTPCWGe_tkDjLqiT.qE9D.mp4',
+  title: 'Im crying tombrady wreckingball lol',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hnYhAtuhq1a'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/293FD9800E1174220646415560704_3c5c7baa4d5.1.5.12185473854018138545.mp4',
+  title: ' Tom Bradys celebration dance SuperBowlSunday KatyPerry tombrady patriots superbowl seahawks RichardSherman celebration lol',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OFWzLj5UXUA'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/61C10A79551189071911704272896_3e4e11af3ce.1.5.12371148631556852115.mp4',
+  title: 'As Requested Frost Sports patriots newenglandpatriots newengland nfl football clevlandCaviliers tombrady julianedelman DezBryant',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OVAY2F5bhWA'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/48665CA5431171320042714259456_315eb135127.1.5.4379183580441001840.mp4',
+  title: 'That move y hope something better at superbowl49Touchdown PatsNation PatsNation nfl amendola tombrady newenglandpatriots',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OTOQaMnAXEV'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/1CCF4CE2E61170096739592581120_SW_WEBM_1421947008525676f52c42c.mp4',
+  title: 'Double tap to find out who leads his team to the TOP STILL  30  in for the win',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OIHlWjL9HX2'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/87F4D031701181811242588332032_32efb1b6135.1.5.16245230778781643951.mp4',
+  title: 'All we do is win ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OQUrbVzvBdm'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/BFEDE5989B1308568871216848896_478e37c5e50.5.1.5842126556810397222.mp4',
+  title: 'Now that the whole SB hype is over lets just get back into focusing on our team',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'i1dIlKQ5lpn'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/2AA33A00D71170187786826199040_3547ce67640.1.5.7571867179732794672.mp4',
+  title: 'Doble tap to see who Will take it all at superbowl49 PatsNationgronk newenglandpatriotsseahawksGoHawksTouchdowntombradynfl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OIptK2lQYPH'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/0E7BF0FDD41301727161484750848_1185611a2e2.3.2.mp4',
+  title: 'One Last Rodeo  Brady or Manning  VM for requests',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'ieJQWz2tJ6j'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/2E0F01FBB31172294716700708864_SW_WEBM_1422471010195589588e6e4.mp4',
+  title: 'superbowlXLVIII superbowl superbowlprediction superbowlpredictfrom a cholo pick tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OTVWFJEeMnJ'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/E7EB672DAC1251372976876736512_SW_WEBM_1441324778794df5f26bc42.mp4',
+  title: 'This is funny AF romanto100k tombrady DeflateGate',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eTrDuAxztH3'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/562188EADA1168956772296388608_3af63347c66.1.5.15815962260203553658.mp4',
+  title: 'patriots superbowl tombrady robgronkowski RevisIsland',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'Oj0Tnv6Bh3j'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/9440470C191140846817982996480_2d04b0ceb33.5.1.16457753956620875444.mp4',
+  title: 'Sunday Guitar Loop guitar tombrady loop johnlegend allofme',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OOd01ZAWtXD'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/19C6D0F7A71172323567669837824_3d3b8e05a39.1.5.6280595876317478909.mp4',
+  title: 'deflategate tombradysballs deflatedballs balls notasexualthing billbelichick tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OTVL7BnbPFE'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/52630B68CD1174234344215199744_SW_WEBM_14229334743663c8048e412.mp4',
+  title: 'BdotOMGmovement superbowl RichardSherman seahawks BdotOMG patriots tombrady marshawnlynch',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OFW6zZK3Kb1'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/2FF33E73C71173891050708910080_17952d766cd.4.7.mp4',
+  title: 'Seattle fans in the last 20 seconds of the game SuperBowl Patriots Seattle ToughGame TomBrady RusselWilson BeastMode  videoshop',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'Ot9ZMFAVwvq'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/ABB5E8E1C01313204905607065600_55400b5ca6b.5.0.9803151387412681041.mp4',
+  title: 'Brady slays more than just football',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'irvKDr5DmMr'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/E8716F3FD61282957353679519744_3524bc8297b.1.5.4262301323944778313.mp4',
+  title: 'Peyton Mannings new commercial',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iaEB7b7nDId'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/F95A4B58CC1316276431722323968_5099aa23f86.5.0.9752992083868134810.mp4',
+  title: 'wouldnt change a thing',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'igep6x6rPBM'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/1AD76A4D171209887148015226880_3247960fca6.3.1.18140890365584199300.mp4',
+  title: 'Figured Id make a highlight film for Tom Brady  PumpItUp DeflateGate TomBrady Pats Patriots FootballEdit Edit KingRackbar',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'emlMvKAgvHI'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/49FB3F2D021307737487149793280_1454763049183c18f9c7.3251.mp4',
+  title: 'tombrady goat patriots pats PatsNation brady  Patriotic Nation ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'i1ajlKIKLIV'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/13525BF2DB1349179965769445376_50f1eb70478.19.0.0297600E-03F0-4520-9859-4136C4F88B03.mp4',
+  title: 'Jerod Mayo',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iVXtmmuWOmu'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/43798109F91173886417290547200_37b23e4df5d.1.5.5234731646051634447.mp4',
+  title: 'What we all were thinking when marshawn didnt run the ball  Super Bowl football bullshit dumbafcoaches BdotOMGmovement',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'Ot9BhXz0YYb'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/882DB9180C1309080753766014976_515d762d964.3.0.6190289865125200784.mp4',
+  title: 'young Tom Brady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'i1VaXgM3ZOO'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/35299DC4881089650745533673472_13f3d1723a3.3.2.mp4',
+  title: 'patriots newenglandpatrios football randymoss tombrady sports edits',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'MImOzA93QMZ'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/AF3A3684B81251311710166839296_SW_WEBM_144131015496334d1e96523.mp4',
+  title: 'TomBrady has a message to his haters By NathanVieira',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eTnPp3YLHF1'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/A3057089781303073875160092672_1ddc63430d4.3.2.mp4',
+  title: 'New England Patriots requested Will they make it to Superbowl 50 VM for requests',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iiqeFVLaE7Q'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/658717C2C3985492821739970560_1ac0e519809.3.1_fhQlZ5eQ621k.lMk0rWZioG4mI9RExRZ73cuInxAr5zbdM8oJ12DvLnO8uJiuGue.mp4',
+  title: 'Tombrady gets clocked by nateclements nfl footballhits newenglandpatriots buffalobills',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'h5A7j6MdZBB'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/97607FB2CE1174001010222510080_314202f328a.1.5.1977999905659491725.mp4',
+  title: 'Richard Sherman  SuperBowl Patriots Seahawks Follow RichardSherman OhDontDoit TomBrady SuperBowlXLIX Relatable BdotOMGmovement',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'Ot3rUPtXrxV'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/AD2DFC448F1174806120251138048_SW_WEBM_1423069803966fb90e26b9a.mp4',
+  title: 'Crazy Plane Crash Over Freeway PlaneCrash',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OFvIQK5E3IJ'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/AC7585052B1188260163048849408_34bc0eac190.1.5.2402491167607774955.mp4',
+  title: 'Double tap if u are a fan of the Patriots Patriots Nfl Football NewEngland SuperBowl VineEdit TheBest TomBrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'O9tgThYvl1b'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/ED4FD99F5D1176060345027018752_373637491d2.1.5.1280620884186904885.mp4',
+  title: 'julianedelman tombrady PatsNation superbowl robgronkowski dannyamendola',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OUqn79WZaAq'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/3FFB440CA51075554849678114816_18b216ea278.3.2.mp4?versionId=4SyhrwmAosaEgPjxoxH_dnN1aTLbz.0z',
+  title: 'Tom Brady gets killed Follow for more sportsbassdrops TomBrady killed',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'M6gZeF3WOVI'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B9B3E869901016629419189723136_1e852c02e0a.4.4.10738268550593843905_1mK35Hz.jJtuy_P3dlLEIbPfFt19AFNvmiBG2IWWBAOh_S.Akwzujjzlgz4HdNTC.mp4',
+  title: 'Hi Mom tombrady julianedelman Patriots HiMom',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hUeu61ueUUO'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/60597064381170448572958072832_3f004c726ef.1.5.17804129299175982110.mp4',
+  title: 'Commentary w James Davidson  BdotOMGmovement',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OIPHEA5FIjp'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/07E86E57A91252740101365542912_49f90cc86ee.0.1.2677554721802079109.mp4',
+  title: 'President Obamas got jokes in Boston TomBrady BarackObama LaborDay boston politics CNN',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'etOUQtWBxTX'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/A888F250F61243207025031340032_SW_WEBM_14393778632350895ef18ff.mp4',
+  title: 'MattDamon says that TomBrady is the best pick ever',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'edv9x31zhqx'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/1FAAE7CE071033057741222162432_1d8796305be.4.6.13786912344331182_0uwmeFv.sp0jSoiMCDOpyBMP3uMsubIEFvvIRMEXz983k3nQxtZsBB20HQyS7V9V.mp4?versionId=uCiD_4HCXrTFKYBH8gGacxdBEccWe_Ug',
+  title: 'LeGarrette Blount does Ray Lewis Dance FTB raylewis legarretteBlount patriots nfldances nfl baltimoreravens tombrady bighit',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'h31JPqOqvvB'
+},
+          {
+  file: '',
+  title: 'BRADY IS A BEAST Tombrady pats patriots beast  newengland 12',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'Mi9WQbt93AO'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/57390990821378616374767050752_53b1ef3e223.31.0.DB4CEA7E-2089-4C50-8A7E-2AE398092BE9.mp4',
+  title: 'PatsNation tombrady patriots brady tombrady goat    Patriotic Nation ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5MpvUExbYFu'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/9B44D9546D1150947808044802048_39091e4618a.1.1.2853668917648332462.mp4',
+  title: 'Week13GBvsNE Rodgers Vs Brady  SuperbowlPreviewGoPackGoSuperbowlPreviewAaronRodgersTomBradyGreenBayPackersNewEnglandPatriotd MVP',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OnxU3AOvK6b'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/6BA817AF5B1169130074809982976_3273770645e.1.5.13924442799292297682.mp4',
+  title: 'tombrady michealphelps yah TheWHIPdance',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'Oj3ETDz9U12'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/EB2E73341F1022958638119395328_1e9d447aca0.4.4.1550449491098610704_Yt051ViNSDmQCzgmNKVFNEEQuvzWdfQlU7hj_TbzrrQtY12mqhkbkmWKv_.0KfHD.mp4',
+  title: 'Our NFL insider catches up with Tom Brady to address the recent rumors Patriots tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'h2A6dI2LgTi'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/7A3C2A9E331174186891642535936_346450a58c3.1.5.2311907307298343460.mp4',
+  title: 'Tom Bradys Reaction to Malcolm Butlers interception superbowl patriots tombrady seahawks malcolmbutler',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OFazaz3WEIX'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/636025C6ED1140461679050907648_3299feba4ac.0.1.4926332272965601047.mp4',
+  title: 'Tom Brady to Rob Gronkowski from last years epic clash against the Broncos tombrady bradyvsmanning gopats gronk pats ManningVSBrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OO5bgAhAVKO'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/33C84FF1EE1305001237103718400_405143a45d4.5.1.16925436107404019023.mp4',
+  title: 'personal foul Or dance move  LOL eyekonik footballhits football denver patriots tombrady LOL PeytonManning love ThugLife head',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'i51eHuaHAIh'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/62731FB5AD1132148112639905792_25895129719.5.1.13045551100171717176.mp4',
+  title: 'You spike it  No you Spike it  TomBrady PATS NFL  Patriots julianedelman 1211',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OAhaejzDgYQ'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/C7EB1BDD221163730349680218112_33753f744ee.1.5.1549445300327017248.mp4',
+  title: 'Double tap to see who u are tombrady OdellBeckham richardsherman percyharvin nfl bighits sports',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'Odj1KezLxUt'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/C6836C83C31303087476944060416_SW_WEBM_1453654475979a24f2f2efc.mp4',
+  title: 'ALERT TomBrady has arrived at SportsAuthority Field for the AFCChampionship',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iiqUBrOZjHe'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/235B77ADA51084939234898591744_15718b9019f.4.7.mp4',
+  title: 'Nate Clements Destroys Tom Brady footballhits footballnation hitstick darksolo getsmacked tombrady getdestroyed patriots Vidlab',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'MphXzjtemmu'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/CF231E9D5F1146182319078891520_3b05677d88a.0.1.2016901937738427120.mp4',
+  title: 'Vine by Kaitlynn',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'O5E5YbKzJ9m'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/C2293DC77D996312470689923072_1aa532f7908.3.1_l7tDCP6fKPdNQr0V9EOcN6BAcIz1guZARhITKKuAEB9d55niZijU9XaPg3kRTREk.mp4',
+  title: 'Hi mom tombrady nfl SundayNightFootball peacesign hilarious theman patriots',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'h62tAWFLmH1'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B303BDA69C1001289855285764096_1928b2c0e03.3.4_futkYzTS579kZz7tj.KJMszwQTF2CgrqMHuO7i7d1XoqA2MqbKdAmyEr8wyitSwa.mp4',
+  title: 'voiceover tombrady pats nfl funny haha',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hH9r5wbFjTe'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B9F13F1E171125630797034999808_1a2cf756c3b.3.2.mp4',
+  title: 'TomBrady character  inspired by the talented Meg Grunewald  check her out  bestsportsvines',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'O7b35ImlztX'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/52CB2E65F91247357707456507904_SW_WEBM_1440366926681902cd13671.mp4',
+  title: 'The Ball  Handler chicago newenglandpatriots DeflateGate  chicagonavypier comedy patriots tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eDlxXQvWgOO'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/C0960700FE993376707182493696_192e22e4531.3.3_p_o9lQfY8d3EDpUaZLie1caWOMhv4.n.tcgJC089Kb9Ob5b4fzr3RiJh1iLnZV.S.mp4',
+  title: 'DYING  patriots tombrady wreckingball',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hruij7FgJBV'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/1CC35913CF1321988325766217728_57b55cab538.9.0.1714365209023791950.mp4',
+  title: 'Jamie Collins is always turning up the heat ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iw26bea5KmA'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/49ABD86D591146971418781941760_35c45a75135.0.1.12976715082322690510.mp4',
+  title: 'Best partners in the NFL tombrady robgronkowski newenglandpatriots nfl superbowl Who do you think will win the Super Bowl this year',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OJ57HzDB7l9'
+},
+          {
+  file: '',
+  title: 'No Vine Title',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'exmEnrbdAeu'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/A7C26B8BE41251976077346586624_4522fec0789.0.1.14285750459302577086.mp4',
+  title: 'Roger Goodell do you still believe that Tom Brady is guilty no nfl football tombrady deflategate rogergoodell newenglandpatriots',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eT2PzKt5ZXm'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/E996191C8A1173912573096185856_SW_WEBM_142285675763608fdae5595.mp4',
+  title: 'patriots PatsNation patsfanforlife patnation MALCOMBUTLER ThugLife superbowl seahawks russelwilson tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'Ot9QmAaVFTb'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/A1987A1B401176564739082498048_3eafecfb868.1.5.15523986766192174558.mp4',
+  title: 'Tom Brady and Julian Edelman tombrady julianedelman superbowl superbowl2015 patriots seahawks celebration',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OUXdtTAztBX'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/1E6FDDD9D61173871580796047360_33319261284.1.5.5400371733794457144.mp4',
+  title: 'RichardSherman Super  superbowl ohmygod Seattle patriots tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OtEwAVVJuPJ'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/E7B6DB66F41174098887242301440_3f9492d5ca2.1.5.8365240218889069694.mp4',
+  title: 'seattleseahawks fans last night SB49 seahawks newenglandpatriots superbowl tombrady KatyPerry RichardSherman patriots BEASTMODE',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OFB11AlKb1q'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/9A3778602B1242179672855711744_3ccd8defa73.4.6.600371935654098293.mp4',
+  title: 'Ill be making posting most of the requests later today ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'ewQlBQAr6Jl'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/15D632D8B71169479202249252864_35041574974.1.5.522147110062027933.mp4',
+  title: 'Who do you think will winsuperbowl2015 patriots newengland gronkowski edelman tombrady superbowl49 hawksvspats NFL',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OIKJxqFVF0p'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/00286FBDE81266425605646872576_41d1830b1f5.1.1.2080827027409041231.mp4',
+  title: 'tom brady requested by sarah rask daniel brady is free 12 Jacob Noel',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eEtwBtT5nLa'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/5B8D4DE72E1173055431896403968_304809db0a6.1.5.15308033234360639375.mp4',
+  title: 'Double tap if youd give Tom Brady a high five highfive tombrady newenglandpatriots patriots newengland followformore NFLEDITS yolo',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OtJBqiQr1OZ'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/136B11309B1212178165150384128_3fd5f1d38dc.3.1.12125540315361721941.mp4',
+  title: 'Revine if you support Tom  patriots newenglandpatriots SuperBowlXLIX tombrady freetombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eA1q5XJelWd'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/43E3FAC41F1156372114509631488_SW_WEBM_1418674804763bd94f76dae.mp4',
+  title: 'tombrady TomBradystyle',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OgZBwqMZPX3'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/52217414DC1173766538956800000_1422821910425c8ed72c.7655.mp4',
+  title: 'Lol who let the air out djStevePorter billbelichick tombrady robgronkowski SuperBowlSunday',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OtQJPrJ5BbO'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/33A14C77411001322419660922880_16e297ce19a.3.4_shC1vFCp2GWXJlyJKF84lMCIV0_gBFpLGQIrRcRnbqpHnbBV97bjysG4IoNkx4SO.mp4',
+  title: 'Did this just happen pats patriots patsnation Isthisreallife tombrady football nfl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hHVvD6HOiJH'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/058D033CEA1273174018115477504_18851f59833.3.2.mp4',
+  title: 'New England Patriots 732 NewEnglandPatriots NFL TomBrady undefeated FootballEdits TheZone',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'e30DmwUV61I'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/5C24B6DA6B1217681631079796736_35bdbd977ec.3.3.2936522077793808116.mp4',
+  title: 'Champs',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'ehPQ9tjLqbX'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B84C5052A41001366568464191488_16f72bfcbd2.3.4_AojtSiccHEomR8QAhwuK52FOcb7hlUj7oU.NxSgO595PuNEI5KTmBwpS2kCFrRJR.mp4',
+  title: 'Saints fans be like NE pats patriots NO Saints NFL nfl comedy sunday kevinHart kevin football sports novsne',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hHYPaevpJdx'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/EC32C0B68C1176566563420483584_34736298813.1.5.11117215757649075407.mp4',
+  title: 'Tom Brady and Mark Wahlberg tombrady MarkWahlburg superbowl superbowl2015 patriots seahawks bestever markymark goat',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OUXjxP1I2qx'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/1053697303977810104978485248_1f86ac022d9.3.1_BRaxQeQ1fr_eXSW5auBaR9pdX.8uG_CR4jPMmyIduysPTvbtwuAfDLTteYfgymZk.mp4',
+  title: 'I wonder who that was for patriots tombrady',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'hhrY2VuiQ2u'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/7BE79B84B61322995746617896960_5ffc9e06d5f.9.0.10514623429639496094.mp4',
+  title: 'sorry but I couldnt resist  cobrastyle',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'idvxwhU1UQl'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/6DA741A3501210060864213159936_314d96b7ece.3.1.14304916304683496713.mp4',
+  title: 'energy enemies tombrady DeflateGate drake newenglandpatriots patriots PatsNation',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eKWgXXLqPXW'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/7EFA86899E1173779152563032064_31ce8281704.1.5.200386051535982886.mp4',
+  title: 'Lets go pats  superbowl SuperBowlSunday PatsNation patriots robgronkowski tombrady ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OtQPMrXg9KY'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/48F1C2DDC51143217210735607808_3b33c41f312.0.1.1731632461760807473.mp4',
+  title: 'Sorry for not postingamericanfootball  footballedit tombrady patriots sports sorry footballsunday',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-TOMBRADY-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'OizZgMK9ml9'
+}],
+width: "100%",
+          aspectratio: "1:1",
+      autostart: true,
+});
+
+</script>
+
+        </div>
+    </div>
+    <div class="box-ad-cpu">
+
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Flexible Mobile -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-6547315753979149"
+         data-ad-slot="6090980310"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script></div>
+
+    <div class="box">
+                <div class="list-group">
+
+                        <a class="list-group-item" href="/Email/?title=Best+Vines+for+TOMBRADY+Compilation+-+November+3%2C+2016+Thursday+Night&url=Best-Vines-For-TOMBRADY-Compilation---November-3,-2016-Thursday-Night-5103985.html"><i
+                    class="fa fa-envelope-o fa-fw"></i>&nbsp; Email "Best Vines for TOMBRADY Compilation" to Friends</a>
+
+
+            <a class="list-group-item" href="javascript:void(0);" id="alerts-button"><i
+                    class="fa fa-mail-forward fa-fw"></i>&nbsp;
+                Receive Emails for Future tombrady Vines</a>
+
+            <div id="alerts-div">
+                <form action="/joinNewsletter.php" method="get"><h3>Email: <input type="text" name="email" value=""><input type="hidden" name="keyword" value="tombrady"><input type="hidden" name="join" value="1"><input type="submit" class="hand" value="Join Subscription for &quot;tombrady&quot;" title="Receive an Email for New tombrady Posts"></form></h3>            </div>
+
+            <a class="list-group-item" href="javascript:void(0);" id="link-button"><i class="fa fa-chain fa-fw"></i>&nbsp;
+                Link to "Best Vines for TOMBRADY Compilation"</a>
+
+            <div id="link-div">
+                <h3>Share: <input onClick="this.select();" value="http://www.best-vine-videos.com/Best-Vines-For-TOMBRADY-Compilation---November-3,-2016-Thursday-Night-5103985.html" style="width: 100%;"/></h3>            </div>
+            </a>
+            <a class="list-group-item" href="javascript:void(0);" id="socialmedia-button"><i
+                    class="fa fa-thumbs-o-up fa-fw"></i>&nbsp; Share on Facebook, Twitter, and more</a>
+
+            <div id="socialmedia-div">
+                
+        <div class="social">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=253077174717798&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="fb-like" data-href="http://www.best-vine-videos.com/Best-Vines-For-TOMBRADY-Compilation---November-3,-2016-Thursday-Night-5103985.html/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div></div><div class="list-results">
+
+<span class='st_facebook_vcount' displayText='Facebook'></span>
+<span class='st_twitter_vcount' displayText='Tweet'></span>
+<span class='st_linkedin_vcount' displayText='LinkedIn'></span>
+<span class='st_pinterest_vcount' displayText='Pinterest'></span>
+</div>            </div>
+        </div>
+    </div>
+    <div class="box-ad-cpu">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Large Rectangle -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:336px;height:280px"
+             data-ad-client="ca-pub-6547315753979149"
+             data-ad-slot="5481525515"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+<div class="box"><h1>Hashtags in Compilation</h1>
+<div class="content"><a href="/Search/?order=newest&q=DRAKE" class="color-0">DRAKE</a> <a href="/Search/?order=newest&q=NWTS" class="color-1">NWTS</a> <a href="/Search/?order=newest&q=TOMBRADY" class="color-2">TOMBRADY</a> <a href="/Search/?order=newest&q=IGOTMYEYESONYOU" class="color-3">IGOTMYEYESONYOU</a> <a href="/Search/?order=newest&q=PATNATION" class="color-4">PATNATION</a> <a href="/Search/?order=newest&q=EMMANUELHUDSON" class="color-5">EMMANUELHUDSON</a> <a href="/Search/?order=newest&q=PRESNAP" class="color-6">PRESNAP</a> <a href="/Search/?order=newest&q=COMEDY" class="color-7">COMEDY</a> <a href="/Search/?order=newest&q=JOKES" class="color-8">JOKES</a> <a href="/Search/?order=newest&q=FOOTBALLSTUFF" class="color-9">FOOTBALLSTUFF</a> <a href="/Search/?order=newest&q=PATS" class="color-10">PATS</a> <a href="/Search/?order=newest&q=SAINTS" class="color-11">SAINTS</a> <a href="/Search/?order=newest&q=NFLONFOX" class="color-12">NFLONFOX</a> <a href="/Search/?order=newest&q=VOICEOVERS" class="color-13">VOICEOVERS</a> <a href="/Search/?order=newest&q=NEWENGLANDPATRIOTS" class="color-14">NEWENGLANDPATRIOTS</a> <a href="/Search/?order=newest&q=SUPERBOWL" class="color-15">SUPERBOWL</a> <a href="/Search/?order=newest&q=SEAHAWKSNATION" class="color-16">SEAHAWKSNATION</a> <a href="/Search/?order=newest&q=RICHARDSHERMAN" class="color-17">RICHARDSHERMAN</a> <a href="/Search/?order=newest&q=GRONK" class="color-18">GRONK</a> <a href="/Search/?order=newest&q=PATRIOTSNATION" class="color-19">PATRIOTSNATION</a> <a href="/Search/?order=newest&q=EDELMAN" class="color-20">EDELMAN</a> <a href="/Search/?order=newest&q=PATRIOTS" class="color-21">PATRIOTS</a> <a href="/Search/?order=newest&q=PATSNATION" class="color-22">PATSNATION</a> <a href="/Search/?order=newest&q=HAPPYHALLOWEEN" class="color-23">HAPPYHALLOWEEN</a> <a href="/Search/?order=newest&q=FOOTBALL" class="color-24">FOOTBALL</a> <a href="/Search/?order=newest&q=DEFLATEGATE" class="color-25">DEFLATEGATE</a> <a href="/Search/?order=newest&q=DREWBREESBELIKE" class="color-26">DREWBREESBELIKE</a> <a href="/Search/?order=newest&q=WHITEBOYJUKE" class="color-27">WHITEBOYJUKE</a> <a href="/Search/?order=newest&q=JUKESTICK" class="color-28">JUKESTICK</a> <a href="/Search/?order=newest&q=THEASAPRC" class="color-29">THEASAPRC</a> <a href="/Search/?order=newest&q=TOUCHDOWN" class="color-30">TOUCHDOWN</a> <a href="/Search/?order=newest&q=MALCOLMBUTLER" class="color-31">MALCOLMBUTLER</a> <a href="/Search/?order=newest&q=JULIANEDELMAN" class="color-32">JULIANEDELMAN</a> <a href="/Search/?order=newest&q=ROBGRONKOWSKI" class="color-33">ROBGRONKOWSKI</a> <a href="/Search/?order=newest&q=GOAT" class="color-34">GOAT</a> <a href="/Search/?order=newest&q=SB49" class="color-35">SB49</a> <a href="/Search/?order=newest&q=ATHLETICS" class="color-36">ATHLETICS</a> <a href="/Search/?order=newest&q=WASHBOARDABS" class="color-37">WASHBOARDABS</a> <a href="/Search/?order=newest&q=NFLVOICEOVER" class="color-38">NFLVOICEOVER</a> <a href="/Search/?order=newest&q=TRAININGDAY" class="color-39">TRAININGDAY</a> <a href="/Search/?order=newest&q=SORRY" class="color-40">SORRY</a> <a href="/Search/?order=newest&q=HELLO" class="color-41">HELLO</a> <a href="/Search/?order=newest&q=ADELE" class="color-42">ADELE</a> <a href="/Search/?order=newest&q=NEWENGLAND" class="color-43">NEWENGLAND</a> <a href="/Search/?order=newest&q=AMENDOLA" class="color-44">AMENDOLA</a> <a href="/Search/?order=newest&q=GRONKOWSKI" class="color-45">GRONKOWSKI</a> <a href="/Search/?order=newest&q=BESTVINES" class="color-46">BESTVINES</a> <a href="/Search/?order=newest&q=WHODAT" class="color-47">WHODAT</a> <a href="/Search/?order=newest&q=SONGIFY" class="color-48">SONGIFY</a> <a href="/Search/?order=newest&q=RELATABLE" class="color-49">RELATABLE</a> <a href="/Search/?order=newest&q=BRADY" class="color-50">BRADY</a> <a href="/Search/?order=newest&q=NEVSIND" class="color-51">NEVSIND</a> <a href="/Search/?order=newest&q=BESTSPORTPLAYS" class="color-52">BESTSPORTPLAYS</a> <a href="/Search/?order=newest&q=BESTCELEBRATIONS" class="color-53">BESTCELEBRATIONS</a> <a href="/Search/?order=newest&q=INFINITY" class="color-54">INFINITY</a> <a href="/Search/?order=newest&q=SITH" class="color-55">SITH</a> <a href="/Search/?order=newest&q=BESTSPORTSPLAYS" class="color-56">BESTSPORTSPLAYS</a> <a href="/Search/?order=newest&q=TRAPLORD" class="color-57">TRAPLORD</a> <a href="/Search/?order=newest&q=ESPN" class="color-58">ESPN</a> <a href="/Search/?order=newest&q=MIKETYSON" class="color-59">MIKETYSON</a> <a href="/Search/?order=newest&q=IRONMIKE" class="color-60">IRONMIKE</a> <a href="/Search/?order=newest&q=IRONMIKETYSON" class="color-61">IRONMIKETYSON</a> <a href="/Search/?order=newest&q=THECHAMP" class="color-62">THECHAMP</a> <a href="/Search/?order=newest&q=SNAPCHATPROBLEMS" class="color-63">SNAPCHATPROBLEMS</a> <a href="/Search/?order=newest&q=HOMESTUCK" class="color-64">HOMESTUCK</a> <a href="/Search/?order=newest&q=EMABIGGESTFANS5SOS" class="color-65">EMABIGGESTFANS5SOS</a> <a href="/Search/?order=newest&q=UPDATE" class="color-66">UPDATE</a> <a href="/Search/?order=newest&q=SNAPCHATSTORIES" class="color-67">SNAPCHATSTORIES</a> <a href="/Search/?order=newest&q=PITCHSMASH" class="color-68">PITCHSMASH</a> <a href="/Search/?order=newest&q=BATMANVSROBIN" class="color-69">BATMANVSROBIN</a> <a href="/Search/?order=newest&q=TURKEY" class="color-70">TURKEY</a> <a href="/Search/?order=newest&q=DANNYAMENDOLA" class="color-71">DANNYAMENDOLA</a> <a href="/Search/?order=newest&q=FUNNY" class="color-72">FUNNY</a> <a href="/Search/?order=newest&q=DENVER" class="color-73">DENVER</a> <a href="/Search/?order=newest&q=BRONCOS" class="color-74">BRONCOS</a> <a href="/Search/?order=newest&q=BEASTMODESPORTS" class="color-75">BEASTMODESPORTS</a> <a href="/Search/?order=newest&q=SEAHAWKS" class="color-76">SEAHAWKS</a> <a href="/Search/?order=newest&q=MARSHAWNLYNCH" class="color-77">MARSHAWNLYNCH</a> <a href="/Search/?order=newest&q=KATYPERRY" class="color-78">KATYPERRY</a> <a href="/Search/?order=newest&q=HOTLINEBLING" class="color-79">HOTLINEBLING</a> <a href="/Search/?order=newest&q=NFLPLAYOFFS" class="color-80">NFLPLAYOFFS</a> <a href="/Search/?order=newest&q=NEPATRIOTS" class="color-81">NEPATRIOTS</a> <a href="/Search/?order=newest&q=BOSTON" class="color-82">BOSTON</a> <a href="/Search/?order=newest&q=IGNORETHENOISE" class="color-83">IGNORETHENOISE</a> <a href="/Search/?order=newest&q=DEFAKEGATE" class="color-84">DEFAKEGATE</a> <a href="/Search/?order=newest&q=BESTFOOTBALLHITS" class="color-85">BESTFOOTBALLHITS</a> <a href="/Search/?order=newest&q=TRUMP" class="color-86">TRUMP</a> <a href="/Search/?order=newest&q=DEFLATED" class="color-87">DEFLATED</a> <a href="/Search/?order=newest&q=BALL" class="color-88">BALL</a> <a href="/Search/?order=newest&q=SPORTS" class="color-89">SPORTS</a> <a href="/Search/?order=newest&q=FOOTBALLHITS" class="color-90">FOOTBALLHITS</a> <a href="/Search/?order=newest&q=HAHA" class="color-91">HAHA</a> <a href="/Search/?order=newest&q=MOTIVATED" class="color-92">MOTIVATED</a> <a href="/Search/?order=newest&q=MOTIVATION" class="color-93">MOTIVATION</a> <a href="/Search/?order=newest&q=MOTIVATIONVINE" class="color-94">MOTIVATIONVINE</a> <a href="/Search/?order=newest&q=AFCCHAMPIONS" class="color-95">AFCCHAMPIONS</a> <a href="/Search/?order=newest&q=PAIN" class="color-96">PAIN</a> <a href="/Search/?order=newest&q=WRECKINGBALL" class="color-97">WRECKINGBALL</a> <a href="/Search/?order=newest&q=MILEYCYRUS" class="color-98">MILEYCYRUS</a> <a href="/Search/?order=newest&q=BUFFALOBILLS" class="color-99">BUFFALOBILLS</a> <a href="/Search/?order=newest&q=BUFFALO" class="color-100">BUFFALO</a> <a href="/Search/?order=newest&q=NFLVOICEOVERS" class="color-101">NFLVOICEOVERS</a> <a href="/Search/?order=newest&q=BADLIPREADING" class="color-102">BADLIPREADING</a> <a href="/Search/?order=newest&q=SEATTLE" class="color-103">SEATTLE</a> <a href="/Search/?order=newest&q=THEZONE" class="color-104">THEZONE</a> <a href="/Search/?order=newest&q=FAIL" class="color-105">FAIL</a> <a href="/Search/?order=newest&q=TRICKPLAY" class="color-106">TRICKPLAY</a> <a href="/Search/?order=newest&q=SPOOF" class="color-107">SPOOF</a> <a href="/Search/?order=newest&q=PATRIOTS4LIFE" class="color-108">PATRIOTS4LIFE</a> <a href="/Search/?order=newest&q=GOPATS" class="color-109">GOPATS</a> <a href="/Search/?order=newest&q=PLAYOFFS" class="color-110">PLAYOFFS</a> <a href="/Search/?order=newest&q=HARD" class="color-111">HARD</a> <a href="/Search/?order=newest&q=HITS" class="color-112">HITS</a> <a href="/Search/?order=newest&q=BIGHITS" class="color-113">BIGHITS</a> <a href="/Search/?order=newest&q=BILLS" class="color-114">BILLS</a> <a href="/Search/?order=newest&q=GAMEDAY" class="color-115">GAMEDAY</a> <a href="/Search/?order=newest&q=PRESEASON" class="color-116">PRESEASON</a> <a href="/Search/?order=newest&q=CHAMPIONS" class="color-117">CHAMPIONS</a> <a href="/Search/?order=newest&q=BALLER" class="color-118">BALLER</a> <a href="/Search/?order=newest&q=COOL" class="color-119">COOL</a> <a href="/Search/?order=newest&q=GISELLE" class="color-120">GISELLE</a> <a href="/Search/?order=newest&q=MISSAMERICA" class="color-121">MISSAMERICA</a> <a href="/Search/?order=newest&q=SUPERBOWLXLIX" class="color-122">SUPERBOWLXLIX</a> <a href="/Search/?order=newest&q=SUPERBOWLSUNDAY" class="color-123">SUPERBOWLSUNDAY</a> <a href="/Search/?order=newest&q=CELEBRATION" class="color-124">CELEBRATION</a> <a href="/Search/?order=newest&q=CLEVLANDCAVILIERS" class="color-125">CLEVLANDCAVILIERS</a> <a href="/Search/?order=newest&q=DEZBRYANT" class="color-126">DEZBRYANT</a> <a href="/Search/?order=newest&q=SUPERBOWL49" class="color-127">SUPERBOWL49</a> <a href="/Search/?order=newest&q=GOHAWKS" class="color-128">GOHAWKS</a> <a href="/Search/?order=newest&q=SUPERBOWLXLVIII" class="color-129">SUPERBOWLXLVIII</a> <a href="/Search/?order=newest&q=SUPERBOWLPREDICTION" class="color-130">SUPERBOWLPREDICTION</a> <a href="/Search/?order=newest&q=CHOLO" class="color-131">CHOLO</a> <a href="/Search/?order=newest&q=ROMANTO100K" class="color-132">ROMANTO100K</a> <a href="/Search/?order=newest&q=REVISISLAND" class="color-133">REVISISLAND</a> <a href="/Search/?order=newest&q=GUITAR" class="color-134">GUITAR</a> <a href="/Search/?order=newest&q=LOOP" class="color-135">LOOP</a> <a href="/Search/?order=newest&q=JOHNLEGEND" class="color-136">JOHNLEGEND</a> <a href="/Search/?order=newest&q=ALLOFME" class="color-137">ALLOFME</a> <a href="/Search/?order=newest&q=TOMBRADYSBALLS" class="color-138">TOMBRADYSBALLS</a> <a href="/Search/?order=newest&q=DEFLATEDBALLS" class="color-139">DEFLATEDBALLS</a> <a href="/Search/?order=newest&q=BALLS" class="color-140">BALLS</a> <a href="/Search/?order=newest&q=NOTASEXUALTHING" class="color-141">NOTASEXUALTHING</a> <a href="/Search/?order=newest&q=BILLBELICHICK" class="color-142">BILLBELICHICK</a> <a href="/Search/?order=newest&q=BDOTOMGMOVEMENT" class="color-143">BDOTOMGMOVEMENT</a> <a href="/Search/?order=newest&q=BDOTOMG" class="color-144">BDOTOMG</a> <a href="/Search/?order=newest&q=TOUGHGAME" class="color-145">TOUGHGAME</a> <a href="/Search/?order=newest&q=RUSSELWILSON" class="color-146">RUSSELWILSON</a> <a href="/Search/?order=newest&q=BEASTMODE" class="color-147">BEASTMODE</a> <a href="/Search/?order=newest&q=VIDEOSHOP" class="color-148">VIDEOSHOP</a> <a href="/Search/?order=newest&q=PUMPITUP" class="color-149">PUMPITUP</a> <a href="/Search/?order=newest&q=FOOTBALLEDIT" class="color-150">FOOTBALLEDIT</a> <a href="/Search/?order=newest&q=EDIT" class="color-151">EDIT</a> <a href="/Search/?order=newest&q=KINGRACKBAR" class="color-152">KINGRACKBAR</a> <a href="/Search/?order=newest&q=SUPER" class="color-153">SUPER</a> <a href="/Search/?order=newest&q=BULLSHIT" class="color-154">BULLSHIT</a> <a href="/Search/?order=newest&q=DUMBAFCOACHES" class="color-155">DUMBAFCOACHES</a> <a href="/Search/?order=newest&q=NEWENGLANDPATRIOS" class="color-156">NEWENGLANDPATRIOS</a> <a href="/Search/?order=newest&q=RANDYMOSS" class="color-157">RANDYMOSS</a> <a href="/Search/?order=newest&q=EDITS" class="color-158">EDITS</a> <a href="/Search/?order=newest&q=NATECLEMENTS" class="color-159">NATECLEMENTS</a> <a href="/Search/?order=newest&q=FOLLOW" class="color-160">FOLLOW</a> <a href="/Search/?order=newest&q=OHDONTDOIT" class="color-161">OHDONTDOIT</a> <a href="/Search/?order=newest&q=PLANECRASH" class="color-162">PLANECRASH</a> <a href="/Search/?order=newest&q=VINEEDIT" class="color-163">VINEEDIT</a> <a href="/Search/?order=newest&q=THEBEST" class="color-164">THEBEST</a> <a href="/Search/?order=newest&q=SPORTSBASSDROPS" class="color-165">SPORTSBASSDROPS</a> <a href="/Search/?order=newest&q=KILLED" class="color-166">KILLED</a> <a href="/Search/?order=newest&q=HIMOM" class="color-167">HIMOM</a> <a href="/Search/?order=newest&q=BARACKOBAMA" class="color-168">BARACKOBAMA</a> <a href="/Search/?order=newest&q=LABORDAY" class="color-169">LABORDAY</a> <a href="/Search/?order=newest&q=POLITICS" class="color-170">POLITICS</a> <a href="/Search/?order=newest&q=MATTDAMON" class="color-171">MATTDAMON</a> <a href="/Search/?order=newest&q=RAYLEWIS" class="color-172">RAYLEWIS</a> <a href="/Search/?order=newest&q=LEGARRETTEBLOUNT" class="color-173">LEGARRETTEBLOUNT</a> <a href="/Search/?order=newest&q=NFLDANCES" class="color-174">NFLDANCES</a> <a href="/Search/?order=newest&q=BALTIMORERAVENS" class="color-175">BALTIMORERAVENS</a> <a href="/Search/?order=newest&q=BIGHIT" class="color-176">BIGHIT</a> <a href="/Search/?order=newest&q=BEAST" class="color-177">BEAST</a> <a href="/Search/?order=newest&q=WEEK13" class="color-178">WEEK13</a> <a href="/Search/?order=newest&q=GBVSNE" class="color-179">GBVSNE</a> <a href="/Search/?order=newest&q=GOPACKGO" class="color-180">GOPACKGO</a> <a href="/Search/?order=newest&q=SUPERBOWLPREVIEW" class="color-181">SUPERBOWLPREVIEW</a> <a href="/Search/?order=newest&q=AARONRODGERS" class="color-182">AARONRODGERS</a> <a href="/Search/?order=newest&q=GREENBAYPACKERS" class="color-183">GREENBAYPACKERS</a> <a href="/Search/?order=newest&q=NEWENGLANDPATRIOTD" class="color-184">NEWENGLANDPATRIOTD</a> <a href="/Search/?order=newest&q=MICHEALPHELPS" class="color-185">MICHEALPHELPS</a> <a href="/Search/?order=newest&q=THEWHIPDANCE" class="color-186">THEWHIPDANCE</a> <a href="/Search/?order=newest&q=BRADYVSMANNING" class="color-187">BRADYVSMANNING</a> <a href="/Search/?order=newest&q=MANNINGVSBRADY" class="color-188">MANNINGVSBRADY</a> <a href="/Search/?order=newest&q=EYEKONIK" class="color-189">EYEKONIK</a> <a href="/Search/?order=newest&q=PEYTONMANNING" class="color-190">PEYTONMANNING</a> <a href="/Search/?order=newest&q=LOVE" class="color-191">LOVE</a> <a href="/Search/?order=newest&q=THUGLIFE" class="color-192">THUGLIFE</a> <a href="/Search/?order=newest&q=HEAD" class="color-193">HEAD</a> <a href="/Search/?order=newest&q=ODELLBECKHAM" class="color-194">ODELLBECKHAM</a> <a href="/Search/?order=newest&q=PERCYHARVIN" class="color-195">PERCYHARVIN</a> <a href="/Search/?order=newest&q=SPORTSAUTHORITY" class="color-196">SPORTSAUTHORITY</a> <a href="/Search/?order=newest&q=AFCCHAMPIONSHIP" class="color-197">AFCCHAMPIONSHIP</a> <a href="/Search/?order=newest&q=FOOTBALLNATION" class="color-198">FOOTBALLNATION</a> <a href="/Search/?order=newest&q=HITSTICK" class="color-199">HITSTICK</a> <a href="/Search/?order=newest&q=DARKSOLO" class="color-200">DARKSOLO</a> <a href="/Search/?order=newest&q=GETSMACKED" class="color-201">GETSMACKED</a> <a href="/Search/?order=newest&q=GETDESTROYED" class="color-202">GETDESTROYED</a> <a href="/Search/?order=newest&q=VIDLAB" class="color-203">VIDLAB</a> <a href="/Search/?order=newest&q=SUNDAYNIGHTFOOTBALL" class="color-204">SUNDAYNIGHTFOOTBALL</a> <a href="/Search/?order=newest&q=PEACESIGN" class="color-205">PEACESIGN</a> <a href="/Search/?order=newest&q=HILARIOUS" class="color-206">HILARIOUS</a> <a href="/Search/?order=newest&q=THEMAN" class="color-207">THEMAN</a> <a href="/Search/?order=newest&q=VOICEOVER" class="color-208">VOICEOVER</a> <a href="/Search/?order=newest&q=BESTSPORTSVINES" class="color-209">BESTSPORTSVINES</a> <a href="/Search/?order=newest&q=CHICAGO" class="color-210">CHICAGO</a> <a href="/Search/?order=newest&q=CHICAGONAVYPIER" class="color-211">CHICAGONAVYPIER</a> <a href="/Search/?order=newest&q=ROGERGOODELL" class="color-212">ROGERGOODELL</a> <a href="/Search/?order=newest&q=PATSFANFORLIFE" class="color-213">PATSFANFORLIFE</a> <a href="/Search/?order=newest&q=MALCOMBUTLER" class="color-214">MALCOMBUTLER</a> <a href="/Search/?order=newest&q=SUPERBOWL2015" class="color-215">SUPERBOWL2015</a> <a href="/Search/?order=newest&q=OHMYGOD" class="color-216">OHMYGOD</a> <a href="/Search/?order=newest&q=SEATTLESEAHAWKS" class="color-217">SEATTLESEAHAWKS</a> <a href="/Search/?order=newest&q=HAWKSVSPATS" class="color-218">HAWKSVSPATS</a> <a href="/Search/?order=newest&q=HIGHFIVE" class="color-219">HIGHFIVE</a> <a href="/Search/?order=newest&q=FOLLOWFORMORE" class="color-220">FOLLOWFORMORE</a> <a href="/Search/?order=newest&q=NFLEDITS" class="color-221">NFLEDITS</a> <a href="/Search/?order=newest&q=YOLO" class="color-222">YOLO</a> <a href="/Search/?order=newest&q=FREETOMBRADY" class="color-223">FREETOMBRADY</a> <a href="/Search/?order=newest&q=TOMBRADYSTYLE" class="color-224">TOMBRADYSTYLE</a> <a href="/Search/?order=newest&q=DJSTEVEPORTER" class="color-225">DJSTEVEPORTER</a> <a href="/Search/?order=newest&q=ISTHISREALLIFE" class="color-226">ISTHISREALLIFE</a> <a href="/Search/?order=newest&q=UNDEFEATED" class="color-227">UNDEFEATED</a> <a href="/Search/?order=newest&q=FOOTBALLEDITS" class="color-228">FOOTBALLEDITS</a> <a href="/Search/?order=newest&q=SUNDAY" class="color-229">SUNDAY</a> <a href="/Search/?order=newest&q=KEVINHART" class="color-230">KEVINHART</a> <a href="/Search/?order=newest&q=KEVIN" class="color-231">KEVIN</a> <a href="/Search/?order=newest&q=NOVSNE" class="color-232">NOVSNE</a> <a href="/Search/?order=newest&q=MARKWAHLBURG" class="color-233">MARKWAHLBURG</a> <a href="/Search/?order=newest&q=BESTEVER" class="color-234">BESTEVER</a> <a href="/Search/?order=newest&q=MARKYMARK" class="color-235">MARKYMARK</a> <a href="/Search/?order=newest&q=ENERGY" class="color-236">ENERGY</a> <a href="/Search/?order=newest&q=ENEMIES" class="color-237">ENEMIES</a> <a href="/Search/?order=newest&q=AMERICANFOOTBALL" class="color-238">AMERICANFOOTBALL</a> <a href="/Search/?order=newest&q=FOOTBALLSUNDAY" class="color-239">FOOTBALLSUNDAY</a> </div></div>    <div class="box"><h1>Vines Seen in Compilation</h1>
+    
+        <div class="list-group">
+
+<a class="list-group-item" href="Vines/Tom-Brady-Drake-NWTS-TomBrady-IGotMyEyesOnYou-HvzI3AAWL6F.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#1</b> Tom Brady <span class="color-1">#Drake</span> <span class="color-2">#NWTS</span> <span class="color-3">#TomBrady</span> <span class="color-4">#IGotMyEyesOnYou</span> </a><a class="list-group-item" href="Vines/Brady-Threw-That-Last-Touchdown-Like-Thispatnation-Tombrady-Emmanuelhudson-Twitter-Joell-Bates-Op3XduDBqaZ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#2</b> Brady threw that last touchdown like this.....<span class="color-5">#patnation</span> <span class="color-6">#tombrady</span> <span class="color-7">#emmanuelhudson</span> </a><a class="list-group-item" href="Vines/HoodSportsWithGametime-PreSnap-Tom-Brady-Be-Like-Comedy-Jokes-Footballstuff-Nfl-Tombrady-Pats-Saints-NFLonFOX-Voiceovers-Twitter-HoodSportsWith-GAMETIME-HH9ewFArihm.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#3</b> <span class="color-8">#HoodSportsWithGametime</span> <span class="color-9">#PreSnap</span> Tom Brady Be Like! <span class="color-10">#Comedy</span> <span class="color-11">#jokes</span> <span class="color-12">#footballstuff</span> <span class="color-13">#nfl</span> <span class="color-14">#tombrady</span> <span class="color-15">#pats</span> <span class="color-16">#saints</span> <span class="color-17">#NFLonFOX</span> <span class="color-18">#voiceovers</span> </a><a class="list-group-item" href="Vines/Newenglandpatriots-Win-The-Superbowl-And-Shut-Down-Seahawksnation-And-Loud-Mouth-RichardSherman-Gronk-Tombrady-Patriotsnation-Nfl-Twitter-JJForte-OtExTx1HPeK.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#4</b> <span class="color-19">#newenglandpatriots</span> win the <span class="color-20">#superbowl</span> and shut down <span class="color-21">#seahawksnation</span> and loud mouth <span class="color-22">#RichardSherman</span> <span class="color-23">#gronk</span> <span class="color-24">#tombrady</span> <span class="color-25">#patriotsnation</span> <span class="color-26">#nfl</span> </a><a class="list-group-item" href="Vines/GronktombradyedelmanpatriotsnewenglandpatriotspatriotsnationPatsNationpatsnflhappyhalloweenusafootballLOL-Twitter-Bro-E35LxzIZKlM.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#5</b> 👻🎃#gronk#tombrady#edelman#patriots#newenglandpatriots#patriotsnation#PatsNation#pats#nfl#happyhalloween#usa#football<span class="color-39">#LOL</span> </a><a class="list-group-item" href="Vines/Who-Let-The-Air-Out-DeflateGate-Patriotsnation-PatsNation-Patriots-Newenglandpatriots-Nfl-Gronk-Tombrady-Twitter-Shane-Tyler-OTM79XzeqX6.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#6</b> Who let the air out?? <span class="color-40">#DeflateGate</span> <span class="color-41">#patriotsnation</span> <span class="color-42">#PatsNation</span> <span class="color-43">#patriots</span> <span class="color-44">#newenglandpatriots</span> <span class="color-45">#nfl</span> <span class="color-46">#gronk</span> <span class="color-47">#tombrady</span> </a><a class="list-group-item" href="Vines/Hood-Sports-With-GAMETIME-HoodSportsWithGametime-Comedy-Jokes-Voiceovers-DrewBreesBeLike-WhiteBoyJuke-JukeStick-Saints-Twitter-Gametimeu00ae-Henderson-HH9Eb3iaWta.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#7</b> Hood Sports With GAMETIME 🏈⚾️🏀✔️ <span class="color-48">#HoodSportsWithGametime</span>  <span class="color-49">#comedy</span> <span class="color-50">#jokes</span> <span class="color-51">#voiceovers</span> <span class="color-52">#DrewBreesBeLike</span> <span class="color-53">#WhiteBoyJuke</span> <span class="color-54">#JukeStick</span> <span class="color-55">#saints</span> </a><a class="list-group-item" href="Vines/The-Party-Boy-Rob-Gronkowski-Theasaprc-Gronkedelmantombradypatriotspatstouchdownpatsnationpatriotsnationnfl-Twitter-Jonesey-Jones-IZ6PphQHHzg.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#8</b> 🍻The party boy, Rob Gronkowski🔥 <span class="color-56">#theasaprc</span> #gronk#edelman#tombrady#patriots#pats#touchdown#patsnation#patriotsnation<span class="color-65">#nfl</span> </a><a class="list-group-item" href="Vines/Pump-Up-The-Balls-Pump-Them-Up-DeflateGate-Newenglandpatriots-PatsNation-Patriotsnation-Patriots-Nfl-Tombrady-Twitter-John-Colon-Jr-OTi72QlE2i9.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#9</b> "Pump up The Balls Pump Them Up" <span class="color-66">#DeflateGate</span> <span class="color-67">#newenglandpatriots</span> <span class="color-68">#PatsNation</span> <span class="color-69">#patriotsnation</span> <span class="color-70">#patriots</span> <span class="color-71">#nfl</span> <span class="color-72">#tombrady</span> </a><a class="list-group-item" href="Vines/Malcolm-Butler-PatriotsmalcolmbutlergronkedelmanjulianedelmanrobgronkowskigronktombradygoatnflusaPatsNationpatsSB49-Twitter-U2022-Patriotic-Nation-U2022-EVJe0QJ93bD.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#10</b> 🏆Malcolm Butler 🙌🏼 ||#patriots#malcolmbutler#gronk#edelman#julianedelman#robgronkowski#gronk#tombrady#goat#nfl#usa#PatsNation#pats<span class="color-86">#SB49</span> </a><a class="list-group-item" href="Vines/Headed-To-The-Pro-Bowl-Nfl-Athletics-Washboardabs-Tombrady-Twitter-Maranda-Gambone-H9PPBZB7mIp.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#11</b> Headed to the Pro Bowl! <span class="color-87">#nfl</span> <span class="color-88">#athletics</span> <span class="color-89">#washboardabs</span> <span class="color-90">#tombrady</span> </a><a class="list-group-item" href="Vines/This-Is-How-I-Pictured-It-A-Few-Weeks-Ago-NFLVoiceOver-Tombrady-Trainingday-HEt17wQYgbD.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#12</b> This is how I pictured it a few weeks ago <span class="color-91">#NFLVoiceOver</span> <span class="color-92">#tombrady</span> <span class="color-93">#trainingday</span> </a><a class="list-group-item" href="Vines/DeionLewissorryhelloadelepatriotspatsnationpatriotsnationpatsnewenglandnewenglandpatriotstombradygronknfl-Twitter-Poop-On-My-Dog-EYh9eeKvTMn.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#13</b> 🔥DeionLewis🔥#sorry#hello#adele#patriots#patsnation#patriotsnation#pats#newengland#newenglandpatriots#tombrady#gronk<span class="color-105">#nfl</span> </a><a class="list-group-item" href="Vines/White-To-Amendola-To-Brady-Patriotspatsnationpatriotsnationnewenglandpatriotsnewenglandpatsnflamendolatombrady-Twitter-Carlos-Ochoa-I70WZ2Ag1Qv.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#14</b> White to Amendola to Brady🔥 #patriots#patsnation#patriotsnation#newenglandpatriots#newengland#pats#nfl#amendola<span class="color-114">#tombrady</span> </a><a class="list-group-item" href="Vines/Jamie-Collins-Patriotspats-Patsnationtombradygronkgronkowskiedelmanusanflnewenglandpatriotscatrawfootballbestvines-Twitter-Chris-Bearden-E9tp0qdn2Jq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#15</b> 🏆 Jamie Collins 🇺🇸 ||#patriots<span class="color-116">#pats</span> #patsnation#tombrady#gronk#gronkowski#edelman#usa#nfl#newenglandpatriots#cat#raw#football<span class="color-128">#bestvines</span> </a><a class="list-group-item" href="Vines/WHODAT-Who-PatsNation-TomBrady-Twitter-Huntlee-Hallma-HHV6hx30EA9.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#16</b> <span class="color-129">#WHODAT</span> who? <span class="color-130">#PatsNation</span> <span class="color-131">#TomBrady</span> </a><a class="list-group-item" href="Vines/When-Your-Homie-Won't-Stop-Bringing-Up-Tom-Brady-Full-Song-Video-On-Youtubecom-Songify-Songify-Relatable-Tombrady-Twitter-Robert-EOFlVewOuDp.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#17</b> when your homie won't stop bringing up Tom Brady 😭🙅🏈 full song/video on youtube.com/songify <span class="color-132">#songify</span> <span class="color-133">#relatable</span> <span class="color-134">#tombrady</span> </a><a class="list-group-item" href="Vines/Patriots-Tombrady-Brady-Goat-PatsNation-Patriotic-Nation-Twitter-Damn-Bagels-IBXWjEQgDL3.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#18</b> <span class="color-135">#patriots</span> <span class="color-136">#tombrady</span> <span class="color-137">#brady</span> <span class="color-138">#goat</span> <span class="color-139">#PatsNation</span> • Patriotic Nation • </a><a class="list-group-item" href="Vines/NEvsINDtombradyedelmangronkpatriotspatspatsnationnewenglandpatriotsusanflbestsportplaysbestcelebrationstouchdowntdfootball-Twitter-Emilie-McCormack-E96AwQJQJ7W.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#19</b> #NEvsIND#tombrady#edelman#gronk#patriots#pats#patsnation#newenglandpatriots#usa#nfl#bestsportplays#bestcelebrations#touchdown#td<span class="color-154">#football</span> </a><a class="list-group-item" href="Vines/The-Play-Of-The-GameinfinityswoSithfootballBestSportsPlaysnewenglandrobgronkowskijulianedelmanPatsNationpatriotsnfltombradyusa-Twitter-Patriotic-Nation-Patriots-EPtaXPemDz1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#20</b> The play of the game#infinity#swo#Sith#football#BestSportsPlays#newengland#robgronkowski#julianedelman#PatsNation#patriots#nfl#tombrady<span class="color-167">#usa</span> </a><a class="list-group-item" href="Vines/Twitter-Christopher-Sarkissian-Et5nBFXPqAx.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#21</b>  </a><a class="list-group-item" href="Vines/LeGarrette-BlountpatriotspatspatsnationpatriotsnationnewenglandpatriotsnfltombradyedelmantouchdownusalolTD-Twitter-Kaveh-IZYw73P2pHw.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#22</b> ⛓LeGarrette Blount⛓#patriots#pats#patsnation#patriotsnation#newenglandpatriots#nfl#tombrady#edelman#touchdown#usa#lol<span class="color-179">#TD</span> </a><a class="list-group-item" href="Vines/What-TrapLord-TomBrady-ESPN-Twitter-Jaidyn-Madison-HOuY3X67Mdd.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#23</b> What??? <span class="color-180">#TrapLord</span> <span class="color-181">#TomBrady</span> <span class="color-182">#ESPN</span> </a><a class="list-group-item" href="Vines/Mike-Tyson-Fighting-A-White-Tiger-MikeTyson-IronMike-IronMikeTyson-TheChamp-Twitter-Humboldt-Jay-U00a9-OEnimePqtvK.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#24</b> "Mike Tyson Fighting A White Tiger." <span class="color-183">#MikeTyson</span> <span class="color-184">#IronMike</span> <span class="color-185">#IronMikeTyson</span> <span class="color-186">#TheChamp</span> </a><a class="list-group-item" href="Vines/Tom-Brady-Is-On-Twitter-Courtney-Closson-IhgV9DIn2Px.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#25</b> Tom Brady is on 🔥 </a><a class="list-group-item" href="Vines/TomBrady-GOAT-SnapchatproblemshomestuckEMABiggestFans5SOSupdatesnapchatstoriespitchsmashbatmanvsrobinpatspatriots-Twitter-Diegu00f8-Sarria-15M-EUZVIB1pQ51.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#26</b> TomBrady : G.O.A.T.🏆🏆🏆🏆 || #snapchatproblems#homestuck#EMABiggestFans5SOS#update#snapchatstories#pitchsmash#batmanvsrobin#pats<span class="color-195">#patriots</span> </a><a class="list-group-item" href="Vines/Twitter-BrandanBouchard-EHQWDQ1gZBx.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#27</b>  </a><a class="list-group-item" href="Vines/BOOMpatriotsnewenglandpatriotsnewenglandPatsNationtombradyBestSportsPlaysbradyrobgronkowskigronkjulianedelmannfledelmanusa-Twitter-Patriotic-Nation-Patriots-ExmhI2lTxIA.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#28</b> BOOM💥#patriots#newenglandpatriots#newengland#PatsNation#tombrady#BestSportsPlays#brady#robgronkowski#gronk#julianedelman#nfl#edelman<span class="color-208">#usa</span> </a><a class="list-group-item" href="Vines/Turkeytombradydannyamendolajulianedelmangronkpatspatriotspatsnationpatriotsnationnewenglandnflfootballadele-Twitter-Courtney-IamEj72jeX0.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#29</b> #turkey#tombrady#dannyamendola#julianedelman#gronk#pats#patriots#patsnation#patriotsnation#newengland#nfl#football<span class="color-221">#adele</span> </a><a class="list-group-item" href="Vines/PatriotstouchdownnflusanewenglandtombradypatsPatsNationpatriotsnationBestSportsPlaysLOLTDfootballfunny-Twitter-Sarah-Gronkowski-IzgAL0iPzEU.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#30</b> 🙌🏼🏈#patriots#touchdown#nfl#usa#newengland#tombrady#pats#PatsNation#patriotsnation#BestSportsPlays#LOL#TD#football<span class="color-235">#funny</span> </a><a class="list-group-item" href="Vines/How-The-Fk-Did-You-Catch-That-Tom-Brady-ARJ-Newengland-Patriots-Denver-Broncos-Nfl-Football-Brady-Tombrady-Gronkowski-Twitter-BELEVE-Oev5TQVKXrz.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#31</b> "How The F**k Did You Catch That?" - Tom Brady || <span class="color-236">#ARJ</span> <span class="color-237">#newengland</span> <span class="color-238">#patriots</span> <span class="color-239">#Denver</span> <span class="color-240">#Broncos</span> <span class="color-241">#nfl</span> <span class="color-242">#football</span> <span class="color-243">#Brady</span> <span class="color-244">#tombrady</span> <span class="color-245">#gronkowski</span> </a><a class="list-group-item" href="Vines/IM-DEAD-DOUBLETAP-IF-YOU-LAUGHED-BeastmodeSports-Patriots-Seahawks-Marshawnlynch-SB49-KatyPerry-Malcolmbutler-Tombrady-Twitter-Landon-OFOQAvTQvPE.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#32</b> IM DEAD‼️😂 DOUBLE-TAP IF YOU LAUGHED👊😂🔥🔥 <span class="color-246">#BeastmodeSports</span> <span class="color-247">#patriots</span> <span class="color-248">#seahawks</span> <span class="color-249">#marshawnlynch</span> <span class="color-250">#SB49</span> <span class="color-251">#KatyPerry</span> <span class="color-252">#malcolmbutler</span> <span class="color-253">#tombrady</span> </a><a class="list-group-item" href="Vines/Devin-Mccourty-PatriotspatsnationpatstombradygronkedelmanlolusanflBestSportsPlaysnewnewenglandnewenglandpatriotsfunny-Twitter-Spoons20-EEm6bUzeKYW.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#33</b> 💥 Devin Mccourty 🔥#patriots#patsnation#pats#tombrady#gronk#edelman#lol#usa#nfl#BestSportsPlays#new#newengland#newenglandpatriots<span class="color-267">#funny</span> </a><a class="list-group-item" href="Vines/WtfbradytombradygronkedelmanpatriotsPatsNationpatriotsnationpatsnewenglandpatriotshotlineblingdrakenflLOL-Twitter-Tyler-Rau-EYY7bH1mDWT.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#34</b> #wtf#brady#tombrady#gronk#edelman#patriots#PatsNation#patriotsnation#pats#newenglandpatriots#hotlinebling#drake#nfl<span class="color-281">#LOL😂</span> </a><a class="list-group-item" href="Vines/New-England-Patriots-Twitter-Cameron-LeVangie-I10AW2M5ZzA.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#35</b> ❤️ New England Patriots 🔥 </a><a class="list-group-item" href="Vines/Quickest-Nfl-W-ReceiverpatriotspatsPatsNationjulianedelmangronkbradytombradyrobgronkowskinewenglandnewenglandpatriotsupdate-Twitter-William-EUdQ7nbLYBq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#36</b> 😏Quickest <span class="color-282">#nfl</span> w receiver?||#patriots#pats#PatsNation#julianedelman#gronk#brady#tombrady#robgronkowski#newengland#newenglandpatriots<span class="color-293">#update</span> </a><a class="list-group-item" href="Vines/Tom-Brady-The-Best-Quarterback-In-Nfl-History-Haters-Comment-Down-Below-Twitter-Joey-Jeffries-5qV1Ixujwm3.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#37</b> Tom Brady, the best quarterback in nfl history 🏆🎉🔥
+Haters comment down below :) </a><a class="list-group-item" href="Vines/Patriots-Are-Onto-The-AFC-Championship-Game-Patriots-Nfl-NFLplayoffs-Football-Tombrady-Nepatriots-PatsNation-Pats-Gronk-Boston-Twitter-AshCahh-ODKOnLw0KBe.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#38</b> Patriots are onto the AFC Championship game! <span class="color-294">#patriots</span> <span class="color-295">#nfl</span> <span class="color-296">#NFLplayoffs</span> <span class="color-297">#football</span> <span class="color-298">#tombrady</span> <span class="color-299">#nepatriots</span> <span class="color-300">#PatsNation</span> <span class="color-301">#pats</span> <span class="color-302">#gronk</span> <span class="color-303">#boston</span> </a><a class="list-group-item" href="Vines/LIKE-AND-REVINE-IF-YOU-SUPPORT-BRADY-IGNORETHENOISE-PATSNATION-TomBrady-Defakegate-Twitter-John-Wielgosz-Emq2V1lnH9I.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#39</b> LIKE AND REVINE IF YOU SUPPORT BRADY! <span class="color-304">#IGNORETHENOISE</span> <span class="color-305">#PATSNATION</span> <span class="color-306">#TomBrady</span> <span class="color-307">#defakegate</span> </a><a class="list-group-item" href="Vines/Roger-Goodell-Will-Give-Tom-Brady-At-Least-One-More-SB-Trophy-Double-Tap-If-U-Agree-Brady-Is-Playing-Better-Compared-To-Other-Seasons-Twitter-U2022-Patriotic-Nation-U2022-5wmiptAFbwd.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#40</b> Roger goodell will give Tom Brady at least one more SB trophy, double tap if u agree || Brady is playing better compared to other seasons </a><a class="list-group-item" href="Vines/PatspatriotsnflSB49tombradybradygronkrobgronkowskirobgronkowskinewenglandBestCelebrationsBestFootballHitsjulianedelmannfl-Twitter-Nhoj-Llih-EdZrpe1d1Px.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#41</b> 😈||#pats#patriots#nfl#SB49#tombrady#brady#gronk#robgronkowski#robgronkowski#newengland#BestCelebrations#BestFootballHits#julianedelman<span class="color-310">#nfl</span> </a><a class="list-group-item" href="Vines/Tom-Brady-RealDonaldTrump-Trump-TomBrady-Twitter-DARB-IKPq5ip2tUM.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#42</b> Tom Brady realDonaldTrump <span class="color-322">#Trump</span> <span class="color-323">#TomBrady</span> </a><a class="list-group-item" href="Vines/It-Feels-Like-It-Was-Just-Yesterday-Super-Bowl-Predictions-For-This-Year-Anybody-Twitter-Boston-Strong-ImKuTtIa1h9.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#43</b> It feels like it was just yesterday. 😔 Super Bowl predictions for this year anybody? 😏 </a><a class="list-group-item" href="Vines/Vine-By-NowThis-Twitter-Alexa-Layne-OgdhDe5qM3B.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#44</b> Vine by NowThis </a><a class="list-group-item" href="Vines/GOAT-Tombrady-Edelmangronkpatriotspatspatsnationnewenglandpatriotsnewenglandusalolfunnybestsportplaysnflbrady-Twitter-Steven-Randazzo-EE2q0Pu6xPn.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#45</b> GOAT <span class="color-324">#tombrady</span> || #edelman#gronk#patriots#pats#patsnation#newenglandpatriots#newengland#usa#lol#funny#bestsportplays#nfl<span class="color-337">#brady</span> </a><a class="list-group-item" href="Vines/Deflated-Balls-Tombrady-DeflateGate-Deflated-Ball-Patriots-Football-Sports-Superbowl-Comedy-Twitter-U265acalebu265a-OIDbrduueOg.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#46</b> Deflated balls <span class="color-338">#tombrady</span> <span class="color-339">#DeflateGate</span> <span class="color-340">#deflated</span> <span class="color-341">#ball</span> <span class="color-342">#patriots</span> <span class="color-343">#football</span> <span class="color-344">#sports</span> <span class="color-345">#superbowl</span> <span class="color-346">#comedy</span> </a><a class="list-group-item" href="Vines/I-Came-In-With-Deflated-Balls-TomBrady-DeflateGate-Nfl-Patriots-Patriotsnation-Twitter-Anthony-Petix-EK7WxBdLKAD.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#47</b> I came in with deflated balls. <span class="color-347">#TomBrady</span> <span class="color-348">#DeflateGate</span> <span class="color-349">#nfl</span> <span class="color-350">#patriots</span> <span class="color-351">#patriotsnation</span> </a><a class="list-group-item" href="Vines/What-A-Season-Thanks-4-All-The-Last-Game-Between-Us-And-The-Super-Bowl-Let's-See-What-HappensGame-Day-Let's-GO-Twitter-Matt-Needham-IibBFPZnD2p.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#48</b> What a season thanks 4 all, the last game between us and the Super Bowl, let's see what happens.
+
+Game day 
+Let's GO </a><a class="list-group-item" href="Vines/RunpatriotsPatsNationpatsnflBestCelebrationsBestSportsPlaysfootballhitsfootballhahatombradyjulianedelman-RobgronkowskiLOL-Twitter-Patriotic-Nation-Patriots-Eg5ghUvuX1D.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#49</b> 🏃💨#run#patriots#PatsNation#pats#nfl#BestCelebrations#BestSportsPlays#footballhits#football#haha#tombrady<span class="color-363">#julianedelman</span> #robgronkowski<span class="color-365">#LOL</span> </a><a class="list-group-item" href="Vines/Pain-Will-Always-Subside----PatsNationmotivatedmotivationMotivationVinepatriotstombradybrady12nflAFCchampionsnewenglandpain-Twitter-Dominic-Ledesma-Euqjxlzp7h5.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#50</b> Pain will always subside. ///    #PatsNation#motivated#motivation#MotivationVine#patriots#tombrady#brady#12#nfl#AFCchampions#newengland<span class="color-377">#pain</span> </a><a class="list-group-item" href="Vines/Twitter-Tyler-Barron-EPq2Xdj2w2b.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#51</b>  </a><a class="list-group-item" href="Vines/Week-3-Win-Vs-Jaguars-51-17-PatriotspatsnewenglandnewenglandpatriotsedelmangronktombradyBestSportsPlaysfunnyPatsNationnfl-Twitter-Justin-Schulte-E0VlxLE1ZPL.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#52</b> Week 3 Win vs Jaguars, 51 - 17 ||#patriots#pats#newengland#newenglandpatriots#edelman#gronk#tombrady#BestSportsPlays#funny#PatsNation<span class="color-388">#nfl</span> </a><a class="list-group-item" href="Vines/Young-Rich-And-Handsome-Twitter-Rob-Giuffre-ImA7iX9lYAu.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#53</b> "young, rich, and handsome" </a><a class="list-group-item" href="Vines/Tom-Brady-Gets-Crushed-By-Nate-Clements-Song-Miley-Cyrus-Wrecking-Ball-CAKED-UP-REMIX-Tombrady-Patriots-Wreckingball-Mileycyrus-Twitter-Random-Vines-HDnxVOHdD3I.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#54</b> Tom Brady gets crushed by Nate Clements [Song: Miley Cyrus - Wrecking Ball (CAKED UP REMIX)] <span class="color-389">#tombrady</span> <span class="color-390">#patriots</span> <span class="color-391">#wreckingball</span> <span class="color-392">#mileycyrus</span> </a><a class="list-group-item" href="Vines/Get-Hyped-4-Tomorrow's-GameTom-Brady-Looking-For-His-7th-Appearance-In-A-Super-Bowl-Let's-GO-Twitter-Awesome-Basketball-Tricks-20-IiuqIjOXl7q.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#55</b> Get hyped 4 tomorrow's game
+
+Tom Brady looking for his 7th appearance in a Super Bowl  
+
+Let's GO </a><a class="list-group-item" href="Vines/Tom-Brady's-Flee-Flicker-Play-To-Randy-Moss-When-He-Threw-5-Touchdowns-In-1-Quarter-Tom-Terrific-Patriotic-Nation-TomBrady-Football-Twitter-Vibe-Boost-InrLnD5VDbj.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#56</b> Tom Brady's flee flicker play to Randy Moss when he threw 5 touchdowns in 1 quarter, Tom Terrific • Patriotic Nation • <span class="color-393">#TomBrady</span> <span class="color-394">#football</span> </a><a class="list-group-item" href="Vines/Tom-Brady-Gets-Smashed-Tombrady-Patriots-Nfl-Footballhits-Buffalobills-Buffalo-Football-Funny-Twitter-Kyra-Marshall-HJngvOwa5X9.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#57</b> Tom Brady gets smashed <span class="color-395">#tombrady</span> <span class="color-396">#patriots</span> <span class="color-1">#nfl</span> <span class="color-2">#footballhits</span> <span class="color-3">#buffalobills</span> <span class="color-4">#buffalo</span> <span class="color-5">#football</span> <span class="color-6">#funny</span> </a><a class="list-group-item" href="Vines/Listening-In-On-Tom-Brady-Whining-To-Himself-NflVoiceovers-Nfl-Tombrady-HoodSportsWithGametime-BadLipReading-Twitter-CrossOvu20acr-HPxdrV1h03P.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#58</b> Listening in on Tom Brady whining to himself <span class="color-7">#NflVoiceovers</span> <span class="color-8">#nfl</span> <span class="color-9">#tombrady</span> <span class="color-10">#HoodSportsWithGametime</span> <span class="color-11">#BadLipReading</span> </a><a class="list-group-item" href="Vines/My-Team-The-Patriots-Win-Their-4th-Super-Bowl-Superbowl-Seahawks-SB49-PatsNation-Patriots-Nepatriots-Boston-Seattle-Tombrady-Twitter-Jay-OtVrZ2mvYhw.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#59</b> My team the Patriots win their 4th Super Bowl! <span class="color-12">#superbowl</span> <span class="color-13">#seahawks</span> <span class="color-14">#SB49</span> <span class="color-15">#PatsNation</span> <span class="color-16">#patriots</span> <span class="color-17">#nepatriots</span> <span class="color-18">#boston</span> <span class="color-19">#Seattle</span> <span class="color-20">#tombrady</span> </a><a class="list-group-item" href="Vines/The-GOAT-Tombrady-Goat-Patriots-Newengland-TheZone-Twitter-MLH-IpBtz2wm9pM.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#60</b> 🐐The G.O.A.T🐐 <span class="color-21">#tombrady</span> <span class="color-22">#goat</span> <span class="color-23">#patriots</span> <span class="color-24">#newengland</span> <span class="color-25">#TheZone</span> </a><a class="list-group-item" href="Vines/Week2-Win-PatriotsnewenglandnewenglandpatriotsPatsNationbradytombradyedelmangronkgronkowskinflusaBestSportsPlaysfailfunny-Twitter-Patriotic-Nation-Patriots-ExxiBQZ2WeM.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#61</b> Week2 Win🍻 ||#patriots#newengland#newenglandpatriots#PatsNation#brady#tombrady#edelman#gronk#gronkowski#nfl#usa#BestSportsPlays#fail<span class="color-39">#funny</span> </a><a class="list-group-item" href="Vines/Tombrady-DeflateGate-PatsNation-Newenglandpatriots-Boston-Gronk-Patriotsnation-Twitter-Frostic-Nova-EK3OU2vwmJ2.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#62</b> <span class="color-40">#tombrady</span> <span class="color-41">#DeflateGate</span> <span class="color-42">#PatsNation</span>  <span class="color-43">#newenglandpatriots</span> <span class="color-44">#boston</span> <span class="color-45">#gronk</span> <span class="color-46">#patriotsnation</span> </a><a class="list-group-item" href="Vines/Can-You-Pump-Up-The-Football-DeflateGate-Tombrady-Patriots-Twitter-Super-Bob-ETrI0a91bTW.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#63</b> Can you pump up the football <span class="color-47">#DeflateGate</span> <span class="color-48">#tombrady</span> <span class="color-49">#patriots</span> </a><a class="list-group-item" href="Vines/TomBrady-With-The-One-Handed-Catch-From-JulianEdelman-At-Training-Camp-TrickPlay-Patriots-NFL-Twitter-Jake-Reardon-EXjt5JKIHj1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#64</b> <span class="color-50">#TomBrady</span> with the one handed catch from <span class="color-51">#JulianEdelman</span> at training camp <span class="color-52">#TrickPlay</span> <span class="color-53">#Patriots</span> <span class="color-54">#NFL</span> </a><a class="list-group-item" href="Vines/IM-DYING-OMG-TomBrady-Wreckingball-Mileycyrus-Comedy-Spoof-Patriots-Nfl-Patriots4Life-Twitter-ToriAlexandra12-HnYYxYlFIZE.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#65</b> IM DYING OMG <span class="color-55">#TomBrady</span> <span class="color-56">#Wreckingball</span> <span class="color-57">#mileycyrus</span> <span class="color-58">#comedy</span> <span class="color-59">#spoof</span> <span class="color-60">#patriots</span> <span class="color-61">#nfl</span> <span class="color-62">#Patriots4Life</span> </a><a class="list-group-item" href="Vines/Congrats-To-The-AFC-Champs-Newenglandpatriots-Now-Road-To-Superbowl-49--PatsNation-Gopats-Tombrady-Touchdown-Playoffs-Nfl-TD-Twitter-U265b-U0110iego-R-Sarria-U265b-OjUYLOgEAma.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#66</b> Congrats to the <span class="color-63">#AFC</span> Champs 🎉🏆🇺🇸🙌<span class="color-64">#newenglandpatriots</span> now road to <span class="color-65">#superbowl</span> 49// <span class="color-66">#PatsNation</span> <span class="color-67">#gopats</span> <span class="color-68">#tombrady</span> <span class="color-69">#Touchdown</span> <span class="color-70">#Playoffs</span> <span class="color-71">#nfl</span> <span class="color-72">#TD</span> </a><a class="list-group-item" href="Vines/Tom-Brady-Gets-It-Big-Football-Hits-Part-9-Tombrady-NFL-Football-Hard-Hits-Bighits-Bills-Patriots-Twitter-Brandon-Antesberger-HJvQDUWz6dw.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#67</b> Tom Brady gets it!!! Big Football hits part 9! <span class="color-73">#Tombrady</span> <span class="color-74">#NFL</span> <span class="color-75">#football</span> <span class="color-76">#hard</span> <span class="color-77">#hits</span> <span class="color-78">#bighits</span> <span class="color-79">#bills</span> <span class="color-80">#patriots</span> </a><a class="list-group-item" href="Vines/Newenglandpatriots-Preseason-Vine-Gameday-Nfl-Preseason-PatsNation-Tombrady-Gronk-Gronkowski-DeflateGate-What-Champions-Twitter-Joffthemoff-EdFxr3IEWiE.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#68</b> <span class="color-81">#newenglandpatriots</span> pre-season vine. <span class="color-82">#gameday</span> <span class="color-83">#nfl</span> <span class="color-84">#preseason</span> <span class="color-85">#PatsNation</span> <span class="color-86">#tombrady</span> <span class="color-87">#gronk</span> <span class="color-88">#gronkowski</span> <span class="color-89">#DeflateGate</span> what? <span class="color-90">#champions</span> </a><a class="list-group-item" href="Vines/DeflateGate-Tombrady-Baller-Cool-Giselle-Patriots-Nfl-Boppz-Lee-Page-Christopher-Michael-Everett-Football-Littlewhiteliesitold-Twitter-ONEPieceAddict-EKXIqr9l3zP.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#69</b> <span class="color-91">#DeflateGate</span> <span class="color-92">#tombrady</span> <span class="color-93">#baller</span> <span class="color-94">#cool</span> <span class="color-95">#giselle</span> <span class="color-96">#patriots</span> <span class="color-97">#nfl</span> Boppz, Lee Page, Christopher Michael Everett <span class="color-98">#football</span> <span class="color-99">#littlewhiteliesitold</span> </a><a class="list-group-item" href="Vines/MissAmerica-TomBrady-Deflategate-Twitter-James-Hesketh-EFYQZjprunp.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#70</b> <span class="color-100">#MissAmerica</span> <span class="color-101">#TomBrady</span> <span class="color-102">#Deflategate</span> </a><a class="list-group-item" href="Vines/The-Legend-The-Greatest-Of-All-Time-4x-SB-Champion-Tom-Brady-PatsNation-TheZone-GOAT-Tombrady-Patriotic-Nation-Twitter-PatriotsNationu2122-I0pxeVJ2bIn.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#71</b> The Legend ,The Greatest of all time, 4x SB champion ,Tom Brady🙌🏾🔵🔴🏆 <span class="color-103">#PatsNation</span> <span class="color-104">#TheZone</span> <span class="color-105">#GOAT</span> <span class="color-106">#tombrady</span> • Patriotic Nation • </a><a class="list-group-item" href="Vines/TomBrady-And-RichardSherman-The-Faces-Of-Victory-And-Defeat-SuperBowlXLIX-Twitter-Jason-Sitty-OtLEdYv3H6H.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#72</b> <span class="color-107">#TomBrady</span> and  #RichardSherman. The faces of victory and defeat. <span class="color-109">#SuperBowlXLIX</span> </a><a class="list-group-item" href="Vines/TomBrady-To-Patriotsnation-Right-Now-Twitter-Angie-Kim-ETJjxJmZMpI.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#73</b> <span class="color-110">#TomBrady</span> to <span class="color-111">#patriotsnation</span> right now... </a><a class="list-group-item" href="Vines/I'm-Crying-Tombrady-Wreckingball-Lol-Twitter-Mary-Brown-HnYhAtuhq1a.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#74</b> I'm crying. <span class="color-112">#tombrady</span> <span class="color-113">#wreckingball</span> <span class="color-114">#lol</span> </a><a class="list-group-item" href="Vines/Tom-Brady's-Celebration-Dance-SuperBowlSunday-KatyPerry-Tombrady-Patriots-Superbowl-Seahawks-RichardSherman-Celebration-Lol-Twitter-Taylor-Weir-OFWzLj5UXUA.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#75</b> 😂😂 Tom Brady's celebration dance <span class="color-115">#SuperBowlSunday</span> <span class="color-116">#KatyPerry</span> <span class="color-117">#tombrady</span> <span class="color-118">#patriots</span> <span class="color-119">#superbowl</span> <span class="color-120">#seahawks</span> <span class="color-121">#RichardSherman</span> <span class="color-122">#celebration</span> <span class="color-123">#lol</span> </a><a class="list-group-item" href="Vines/As-Requested-Frost-Sports-Patriots-Newenglandpatriots-Newengland-Nfl-Football-ClevlandCaviliers-Tombrady-Julianedelman-DezBryant-Twitter-SoiledHickory-OVAY2F5bhWA.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#76</b> As Requested Frost Sports™ <span class="color-124">#patriots</span> <span class="color-125">#newenglandpatriots</span> <span class="color-126">#newengland</span> <span class="color-127">#nfl</span> <span class="color-128">#football</span> <span class="color-129">#clevlandCaviliers</span> <span class="color-130">#tombrady</span> <span class="color-131">#julianedelman</span> <span class="color-132">#DezBryant</span> </a><a class="list-group-item" href="Vines/That-Move-Y-Hope-Something-Better-At-Superbowl49Touchdown-PatsNation-PatsNation-Nfl-Amendola-Tombrady-Newenglandpatriots-Twitter-U265b-U0110iego-R-Sarria-U265b-OTOQaMnAXEV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#77</b> 👏That move, y hope something better at #superbowl49🏆💰<span class="color-134">#Touchdown</span> <span class="color-135">#PatsNation</span> <span class="color-135">#PatsNation</span> <span class="color-137">#nfl</span> <span class="color-138">#amendola</span> <span class="color-139">#tombrady</span> <span class="color-140">#newenglandpatriots</span> </a><a class="list-group-item" href="Vines/Double-Tap-To-Find-Out-Who-Leads-His-Team-To-The-TOP-STILL-30-In-For-The-Win-Twitter-PJ-Kelley-OIHlWjL9HX2.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#78</b> Double tap to find out who leads his team to the TOP👍 STILL $ 30 💵 in for the win😆 </a><a class="list-group-item" href="Vines/All-We-Do-Is-Win-Twitter-Alex-Chase-OQUrbVzvBdm.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#79</b> All we do is win! 🎉 </a><a class="list-group-item" href="Vines/Now-That-The-Whole-SB-Hype-Is-Over-Let's-Just-Get-Back-Into-Focusing-On-Our-Team-Twitter-Nicole-I1dIlKQ5lpn.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#80</b> Now that the whole SB hype is over, let's just get back into focusing on our team. </a><a class="list-group-item" href="Vines/Doble-Tap-To-See-Who-Will-Take-It-All-At-Superbowl49-PatsNationgronk-NewenglandpatriotsseahawksGoHawksTouchdowntombradynfl-Twitter-Milan-Echols-OIptK2lQYPH.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#81</b> Doble tap to see who Will take it all at <span class="color-141">#superbowl49</span> 🎉💰🎈🏈🏆💸🎊🙌🙏#PatsNation<span class="color-143">#gronk</span> #newenglandpatriots#seahawks#GoHawks#Touchdown#tombrady<span class="color-149">#nfl</span> </a><a class="list-group-item" href="Vines/One-Last-Rodeo-Brady-Or-Manning-VM-For-Requests-Twitter-Sports-Vidz-IeJQWz2tJ6j.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#82</b> One Last Rodeo.  
+
+Brady or Manning? 🐐 
+
+VM for requests. </a><a class="list-group-item" href="Vines/SuperbowlXLVIII-Superbowl-Superbowlprediction-Superbowlpredictfrom-A-Cholo-Pick-Tombrady-Twitter-NaTuRaL-BoRN-CoMeDiaN-OTVWFJEeMnJ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#83</b> <span class="color-150">#superbowlXLVIII</span> <span class="color-151">#superbowl</span> <span class="color-152">#superbowlprediction</span> <span class="color-153">#superbowlpredictfrom</span> a <span class="color-154">#cholo</span> pick <span class="color-155">#tombrady</span> </a><a class="list-group-item" href="Vines/This-Is-Funny-AF-Romanto100k-Tombrady-DeflateGate-Twitter-Officiallybentonriphaylie-ETrDuAxztH3.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#84</b> This is funny AF <span class="color-156">#romanto100k</span> <span class="color-157">#tombrady</span> <span class="color-158">#DeflateGate</span> </a><a class="list-group-item" href="Vines/Patriots-Superbowl-Tombrady-Robgronkowski-RevisIsland-Twitter-Brian-McGuinn-Oj0Tnv6Bh3j.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#85</b> <span class="color-159">#patriots</span> <span class="color-160">#superbowl</span> <span class="color-161">#tombrady</span> <span class="color-162">#robgronkowski</span> <span class="color-163">#RevisIsland</span> </a><a class="list-group-item" href="Vines/Sunday-Guitar-Loop-Guitar-Tombrady-Loop-Johnlegend-Allofme-OOd01ZAWtXD.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#86</b> Sunday Guitar Loop <span class="color-164">#guitar</span> <span class="color-165">#tombrady</span> <span class="color-166">#loop</span> <span class="color-167">#johnlegend</span> <span class="color-168">#allofme</span> </a><a class="list-group-item" href="Vines/Deflategate-Tombradysballs-Deflatedballs-Balls-Notasexualthing-Billbelichick-Tombrady-Twitter-Oerbital-OTVL7BnbPFE.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#87</b> <span class="color-169">#deflategate</span> <span class="color-170">#tombradysballs</span> <span class="color-171">#deflatedballs</span> <span class="color-172">#balls</span> <span class="color-173">#notasexualthing</span> <span class="color-174">#billbelichick</span> <span class="color-175">#tombrady</span> </a><a class="list-group-item" href="Vines/BdotOMGmovement-Superbowl-RichardSherman-Seahawks-BdotOMG-Patriots-Tombrady-Marshawnlynch-Twitter-Kevin-Rooney-OFW6zZK3Kb1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#88</b> <span class="color-176">#BdotOMGmovement</span> <span class="color-177">#superbowl</span> <span class="color-178">#RichardSherman</span> <span class="color-179">#seahawks</span> <span class="color-180">#BdotOMG</span> <span class="color-181">#patriots</span> <span class="color-182">#tombrady</span> <span class="color-183">#marshawnlynch</span> </a><a class="list-group-item" href="Vines/Seattle-Fans-In-The-Last-20-Seconds-Of-The-Game-SuperBowl-Patriots-Seattle-ToughGame-TomBrady-RusselWilson-BeastMode-Videoshop-Twitter-Black-Opps-Ot9ZMFAVwvq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#89</b> Seattle fans in the last 20 seconds of the game <span class="color-184">#SuperBowl</span> <span class="color-185">#Patriots</span> <span class="color-186">#Seattle</span> <span class="color-187">#ToughGame</span> <span class="color-188">#TomBrady</span> <span class="color-189">#RusselWilson</span> <span class="color-190">#BeastMode</span>  <span class="color-191">#videoshop</span> </a><a class="list-group-item" href="Vines/Brady-Slays-More-Than-Just-Football-Twitter-Kyle-Edwards-IrvKDr5DmMr.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#90</b> Brady slays more than just football </a><a class="list-group-item" href="Vines/Peyton-Manning's-New-Commercial-Twitter-JDEPatriot66-IaEB7b7nDId.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#91</b> Peyton Manning's new commercial </a><a class="list-group-item" href="Vines/Wouldn't-Change-A-Thing-Twitter-Josh-Sokolosky-Igep6x6rPBM.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#92</b> wouldn't change a thing </a><a class="list-group-item" href="Vines/Figured-I'd-Make-A-Highlight-Film-For-Tom-Brady-PumpItUp-DeflateGate-TomBrady-Pats-Patriots-FootballEdit-Edit-KingRackbar-Twitter-Ryan-Bourdeau-EmlMvKAgvHI.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#93</b> Figured I'd make a highlight film for Tom Brady 😂😂😂 <span class="color-192">#PumpItUp</span> <span class="color-193">#DeflateGate</span> <span class="color-194">#TomBrady</span> <span class="color-195">#Pats</span> <span class="color-196">#Patriots</span> <span class="color-197">#FootballEdit</span> <span class="color-198">#Edit</span> <span class="color-199">#KingRackbar</span> </a><a class="list-group-item" href="Vines/Tombrady-Goat-Patriots-Pats-PatsNation-Brady-Patriotic-Nation-Twitter-Da-Best-56-I1ajlKIKLIV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#94</b> <span class="color-200">#tombrady</span> <span class="color-201">#goat</span> <span class="color-202">#patriots</span> <span class="color-203">#pats</span> <span class="color-204">#PatsNation</span> <span class="color-205">#brady</span> • Patriotic Nation • </a><a class="list-group-item" href="Vines/Jerod-Mayo-Twitter-Nicky-B--RIP--Pktl-IVXtmmuWOmu.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#95</b> Jerod Mayo😭😭 </a><a class="list-group-item" href="Vines/What-We-All-Were-Thinking-When-Marshawn-Didn't-Run-The-Ball-Super-Bowl-Football-Bullshit-Dumbafcoaches-BdotOMGmovement-Twitter-Luis-Ot9BhXz0YYb.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#96</b> What we all were thinking when marshawn didn't run the ball! 😤😤😤😡😡😡 <span class="color-206">#Super</span> Bowl <span class="color-207">#football</span> <span class="color-208">#bullshit</span> <span class="color-209">#dumbafcoaches</span> <span class="color-210">#BdotOMGmovement</span> </a><a class="list-group-item" href="Vines/Young-Tom-Brady-Twitter-LolILikeDogs-I1VaXgM3ZOO.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#97</b> -young Tom Brady </a><a class="list-group-item" href="Vines/Patriots-Newenglandpatrios-Football-Randymoss-Tombrady-Sports-Edits-Twitter-Unstoppable-Sports-MImOzA93QMZ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#98</b> <span class="color-211">#patriots</span> <span class="color-212">#newenglandpatrios</span> <span class="color-213">#football</span> <span class="color-214">#randymoss</span> <span class="color-215">#tombrady</span> <span class="color-216">#sports</span> <span class="color-217">#edits</span> </a><a class="list-group-item" href="Vines/TomBrady-Has-A-Message-To-His-Haters-By-NathanVieira-Twitter-Kerin-Coleman-ETnPp3YLHF1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#99</b> <span class="color-218">#TomBrady</span> has a message to his haters. By @NathanVieira. </a><a class="list-group-item" href="Vines/New-England-Patriots-Requested-Will-They-Make-It-To-Superbowl-50-VM-For-Requests-Twitter-Hype-Sports-Hamki-IiqeFVLaE7Q.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#100</b> New England Patriots (requested) 
+
+Will they make it to Superbowl 50? 
+
+VM for requests. </a><a class="list-group-item" href="Vines/Tombrady-Gets-Clocked-By-Nateclements-Nfl-Footballhits-Newenglandpatriots-Buffalobills-Twitter-Lucas-Uralli-H5A7j6MdZBB.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#101</b> <span class="color-219">#Tombrady</span> gets clocked by <span class="color-220">#nateclements</span> <span class="color-221">#nfl</span> <span class="color-222">#footballhits</span> <span class="color-223">#newenglandpatriots</span> <span class="color-224">#buffalobills</span> </a><a class="list-group-item" href="Vines/Richard-Sherman-SuperBowl-Patriots-Seahawks-Follow-RichardSherman-OhDontDoit-TomBrady-SuperBowlXLIX-Relatable-BdotOMGmovement-Twitter-Vanessa-Ot3rUPtXrxV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#102</b> Richard Sherman!!! 🏈 <span class="color-225">#SuperBowl</span> <span class="color-226">#Patriots</span> <span class="color-227">#Seahawks</span> <span class="color-228">#Follow</span> <span class="color-229">#RichardSherman</span> <span class="color-230">#OhDontDoit</span> <span class="color-231">#TomBrady</span> <span class="color-232">#SuperBowlXLIX</span> <span class="color-233">#Relatable</span> <span class="color-234">#BdotOMGmovement</span> </a><a class="list-group-item" href="Vines/Crazy-Plane-Crash-Over-Freeway-PlaneCrash-Twitter-Ohiodipper-OFvIQK5E3IJ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#103</b> "Crazy Plane Crash Over Freeway." <span class="color-235">#PlaneCrash</span> </a><a class="list-group-item" href="Vines/Double-Tap-If-U-Are-A-Fan-Of-The-Patriots-Patriots-Nfl-Football-NewEngland-SuperBowl-VineEdit-TheBest-TomBrady-Twitter-Inactive-O9tgThYvl1b.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#104</b> Double tap if u are a fan of the Patriots! 
+
+<span class="color-236">#Patriots</span> <span class="color-237">#Nfl</span> <span class="color-238">#Football</span> <span class="color-239">#NewEngland</span> <span class="color-240">#SuperBowl</span> <span class="color-241">#VineEdit</span> <span class="color-242">#TheBest</span> <span class="color-243">#TomBrady</span> </a><a class="list-group-item" href="Vines/Julianedelman-Tombrady-PatsNation-Superbowl-Robgronkowski-Dannyamendola-Twitter-Patriots56-OUqn79WZaAq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#105</b> <span class="color-244">#julianedelman</span> <span class="color-245">#tombrady</span> <span class="color-246">#PatsNation</span> <span class="color-247">#superbowl</span> <span class="color-248">#robgronkowski</span> <span class="color-249">#dannyamendola</span> </a><a class="list-group-item" href="Vines/Tom-Brady-Gets-Killed-Follow-For-More-Sportsbassdrops-TomBrady-Killed-Twitter-Sports-Bass-Dropsu2122-M6gZeF3WOVI.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#106</b> Tom Brady gets killed!!! (Follow for more!!) <span class="color-250">#sportsbassdrops</span> <span class="color-251">#TomBrady</span> <span class="color-252">#killed</span> </a><a class="list-group-item" href="Vines/Hi-Mom-Tombrady-Julianedelman-Patriots-HiMom-Twitter-Sami-Dannhauser-HUeu61ueUUO.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#107</b> Hi Mom <span class="color-253">#tombrady</span> <span class="color-254">#julianedelman</span> <span class="color-255">#Patriots</span> <span class="color-256">#HiMom</span> </a><a class="list-group-item" href="Vines/Commentary-W-James-Davidson-BdotOMGmovement-Twitter-James-Davidson-OIPHEA5FIjp.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#108</b> Commentary w/ James Davidson 🎥 <span class="color-257">#BdotOMGmovement</span> </a><a class="list-group-item" href="Vines/President-Obama's-Got-Jokes-In-Boston-TomBrady-BarackObama-LaborDay-Boston-Politics-CNN-Twitter-CNN-Politics-EtOUQtWBxTX.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#109</b> President Obama's got jokes in Boston <span class="color-258">#TomBrady</span> <span class="color-259">#BarackObama</span> <span class="color-260">#LaborDay</span> <span class="color-261">#boston</span> <span class="color-262">#politics</span> <span class="color-263">#CNN</span> </a><a class="list-group-item" href="Vines/MattDamon-Says-That-TomBrady-Is-The-Best-Pick-Ever-Twitter-Peezy-Edv9x31zhqx.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#110</b> <span class="color-264">#MattDamon</span> says that <span class="color-265">#TomBrady</span> is the best pick ever. </a><a class="list-group-item" href="Vines/LeGarrette-Blount-Does-Ray-Lewis-Dance-FTB-Raylewis-LegarretteBlount-Patriots-Nfldances-Nfl-Baltimoreravens-Tombrady-Bighit-Twitter-Football-Is-Life-H31JPqOqvvB.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#111</b> LeGarrette Blount does Ray Lewis Dance.🏉 <span class="color-266">#FTB</span> <span class="color-267">#raylewis</span> <span class="color-268">#legarretteBlount</span> <span class="color-269">#patriots</span> <span class="color-270">#nfldances</span> <span class="color-271">#nfl</span> <span class="color-272">#baltimoreravens</span> <span class="color-273">#tombrady</span> <span class="color-274">#bighit</span> </a><a class="list-group-item" href="Vines/BRADY-IS-A-BEAST-Tombrady-Pats-Patriots-Beast-Newengland-12-Mi9WQbt93AO.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#112</b> BRADY IS A BEAST! <span class="color-275">#Tombrady</span> <span class="color-276">#pats</span> <span class="color-277">#patriots</span> <span class="color-278">#beast</span>  <span class="color-279">#newengland</span> <span class="color-280">#12</span> </a><a class="list-group-item" href="Vines/PatsNation-Tombrady-Patriots-Brady-Tombrady-Goat--Patriotic-Nation-Twitter-Patdaxk-5MpvUExbYFu.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#113</b> <span class="color-281">#PatsNation</span> <span class="color-282">#tombrady</span> <span class="color-283">#patriots</span> <span class="color-284">#brady</span> <span class="color-282">#tombrady</span> <span class="color-286">#goat</span> 🐐  • Patriotic Nation • </a><a class="list-group-item" href="Vines/Week13GBvsNE-Rodgers-Vs-Brady-SuperbowlPreviewGoPackGoSuperbowlPreviewAaronRodgersTomBradyGreenBayPackersNewEnglandPatriotd-MVP-Twitter-Nathan-Pagel-OnxU3AOvK6b.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#114</b> #Week13<span class="color-288">#GBvsNE</span> Rodgers Vs. Brady 🏈 SuperbowlPreview?#GoPackGo#SuperbowlPreview#AaronRodgers#TomBrady#GreenBayPackers<span class="color-294">#NewEnglandPatriotd</span> <span class="color-295">#MVP</span> </a><a class="list-group-item" href="Vines/Tombrady-Michealphelps-Yah-TheWHIPdance-Twitter-Treviar-Oj3ETDz9U12.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#115</b> <span class="color-296">#tombrady</span> <span class="color-297">#michealphelps</span> <span class="color-298">#yah</span> <span class="color-299">#TheWHIPdance</span> </a><a class="list-group-item" href="Vines/Our-NFL-Insider-Catches-Up-With-Tom-Brady-To-Address-The-Recent-Rumors-Patriots-Tombrady-Twitter-Softball96-H2A6dI2LgTi.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#116</b> Our NFL insider catches up with Tom Brady to address the recent rumors. <span class="color-300">#Patriots</span> <span class="color-301">#tombrady</span> </a><a class="list-group-item" href="Vines/Tom-Brady's-Reaction-To-Malcolm-Butlers-Interception-Superbowl-Patriots-Tombrady-Seahawks-Malcolmbutler-Twitter-Marcus-OFazaz3WEIX.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#117</b> Tom Brady's Reaction to Malcolm Butlers interception <span class="color-302">#superbowl</span> <span class="color-303">#patriots</span> <span class="color-304">#tombrady</span> <span class="color-305">#seahawks</span> <span class="color-306">#malcolmbutler</span> </a><a class="list-group-item" href="Vines/Tom-Brady-To-Rob-Gronkowski-From-Last-Years-Epic-Clash-Against-The-Broncos-Tombrady-Bradyvsmanning-Gopats-Gronk-Pats-ManningVSBrady-OO5bgAhAVKO.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#118</b> Tom Brady to Rob Gronkowski from last years epic clash against the Broncos! <span class="color-307">#tombrady</span> <span class="color-308">#bradyvsmanning</span> <span class="color-309">#gopats</span> <span class="color-310">#gronk</span> <span class="color-311">#pats</span> <span class="color-312">#ManningVSBrady</span> </a><a class="list-group-item" href="Vines/Personal-Foul-Or-Dance-Move-LOL-Eyekonik-Footballhits-Football-Denver-Patriots-Tombrady-LOL-PeytonManning-Love-ThugLife-Head-Twitter-EyeKoniku2122-Official-I51eHuaHAIh.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#119</b> personal foul! Or dance move ?! LOL <span class="color-313">#eyekonik</span> <span class="color-314">#footballhits</span> <span class="color-315">#football</span> <span class="color-316">#denver</span> <span class="color-317">#patriots</span> <span class="color-318">#tombrady</span> <span class="color-319">#LOL</span> <span class="color-320">#PeytonManning</span> <span class="color-321">#love</span> <span class="color-322">#ThugLife</span> <span class="color-323">#head</span> </a><a class="list-group-item" href="Vines/You-Spike-It-No-You-Spike-It-TomBrady-PATS-NFL-Patriots-Julianedelman-1211-Twitter-Danielle-Leal-OAhaejzDgYQ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#120</b> "You spike it, " No, you Spike it " <span class="color-324">#TomBrady</span> <span class="color-325">#PATS</span> <span class="color-326">#NFL</span> 👌👏🏈🏈🏈🏈 <span class="color-327">#Patriots</span> <span class="color-328">#julianedelman</span> 1⃣2⃣🏈1⃣1⃣ </a><a class="list-group-item" href="Vines/Double-Tap-To-See-Who-U-Are-Tombrady-OdellBeckham-Richardsherman-Percyharvin-Nfl-Bighits-Sports-Twitter-Ben-Odj1KezLxUt.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#121</b> Double tap to see who u are <span class="color-329">#tombrady</span> <span class="color-330">#OdellBeckham</span> <span class="color-331">#richardsherman</span> <span class="color-332">#percyharvin</span> <span class="color-333">#nfl</span> <span class="color-334">#bighits</span> <span class="color-335">#sports</span> </a><a class="list-group-item" href="Vines/ALERT-TomBrady-Has-Arrived-At-SportsAuthority-Field-For-The-AFCChampionship-Twitter-Owen-IiqUBrOZjHe.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#122</b> ALERT: <span class="color-336">#TomBrady</span> has arrived at <span class="color-337">#SportsAuthority</span> Field for the #AFCChampionship. </a><a class="list-group-item" href="Vines/Nate-Clements-Destroys-Tom-Brady-Footballhits-Footballnation-Hitstick-Darksolo-Getsmacked-Tombrady-Getdestroyed-Patriots-Vidlab-Twitter-Alan-Poteet-MphXzjtemmu.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#123</b> Nate Clements Destroys Tom Brady <span class="color-339">#footballhits</span> <span class="color-340">#footballnation</span> <span class="color-341">#hitstick</span> <span class="color-342">#darksolo</span> <span class="color-343">#getsmacked</span> <span class="color-344">#tombrady</span> <span class="color-345">#getdestroyed</span> <span class="color-346">#patriots</span> <span class="color-347">#Vidlab</span> </a><a class="list-group-item" href="Vines/Vine-By-Kaitlynn-Twitter-Vickie-Harris-O5E5YbKzJ9m.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#124</b> Vine by Kaitlynn </a><a class="list-group-item" href="Vines/Hi-Mom-Tombrady-Nfl-SundayNightFootball-Peacesign-Hilarious-Theman-Patriots-Twitter-Johnny-Edwards-H62tAWFLmH1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#125</b> Hi mom. <span class="color-348">#tombrady</span> <span class="color-349">#nfl</span> <span class="color-350">#SundayNightFootball</span> <span class="color-351">#peacesign</span> <span class="color-352">#hilarious</span> <span class="color-353">#theman</span> <span class="color-354">#patriots</span> </a><a class="list-group-item" href="Vines/Voiceover-Tombrady-Pats-Nfl-Funny-Haha-Twitter-Jared-Bixler-HH9r5wbFjTe.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#126</b> <span class="color-355">#voiceover</span> <span class="color-356">#tombrady</span> <span class="color-357">#pats</span> <span class="color-358">#nfl</span> <span class="color-359">#funny</span> haha!! </a><a class="list-group-item" href="Vines/TomBrady-Character-Inspired-By-The-Talented-Meg-Grunewald-Check-Her-Out-Bestsportsvines-Twitter-Angela-Snow-O7b35ImlztX.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#127</b> <span class="color-360">#TomBrady</span> character. [ inspired by the talented Meg Grunewald • check her out ] <span class="color-361">#bestsportsvines</span> </a><a class="list-group-item" href="Vines/The-Ball-Handler-Chicago-Newenglandpatriots-DeflateGate-Chicagonavypier-Comedy-Patriots-Tombrady-Twitter-Okay-Jules-I-Follow-Back-EDlxXQvWgOO.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#128</b> The Ball  Handler <span class="color-362">#chicago</span> <span class="color-363">#newenglandpatriots</span> <span class="color-364">#DeflateGate</span>  <span class="color-365">#chicagonavypier</span> <span class="color-366">#comedy</span> <span class="color-367">#patriots</span> <span class="color-368">#tombrady</span> </a><a class="list-group-item" href="Vines/DYING-Patriots-Tombrady-Wreckingball-Twitter-Jenna-DePasquale-Hruij7FgJBV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#129</b> DYING 😂😂😂 <span class="color-369">#patriots</span> <span class="color-370">#tombrady</span> <span class="color-371">#wreckingball</span> </a><a class="list-group-item" href="Vines/Jamie-Collins-Is-Always-Turning-Up-The-Heat-Twitter-Bradybaddies-Iw26bea5KmA.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#130</b> Jamie Collins is always turning up the heat 🔥🔥 </a><a class="list-group-item" href="Vines/Best-Partners-In-The-NFL-Tombrady-Robgronkowski-Newenglandpatriots-Nfl-Superbowl-Who-Do-You-Think-Will-Win-The-Super-Bowl-This-Year-Twitter-Support-OJ57HzDB7l9.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#131</b> Best partners in the NFL? <span class="color-372">#tombrady</span> <span class="color-373">#robgronkowski</span> <span class="color-374">#newenglandpatriots</span> <span class="color-375">#nfl</span> <span class="color-376">#superbowl</span> Who do you think will win the Super Bowl this year? </a><a class="list-group-item" href="Vines/Twitter-Bring-Me-The-Carlile-U2620-ExmEnrbdAeu.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#132</b>  </a><a class="list-group-item" href="Vines/Roger-Goodell-Do-You-Still-Believe-That-Tom-Brady-Is-Guilty-No-Nfl-Football-Tombrady-Deflategate-Rogergoodell-Newenglandpatriots-Twitter-Caleb-Love-ET2PzKt5ZXm.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#133</b> "Roger Goodell, do you still believe that Tom Brady is guilty" <span class="color-377">#no</span> <span class="color-378">#nfl</span> <span class="color-379">#football</span> <span class="color-380">#tombrady</span> <span class="color-381">#deflategate</span> <span class="color-382">#rogergoodell</span> <span class="color-383">#newenglandpatriots</span> </a><a class="list-group-item" href="Vines/Patriots-PatsNation-Patsfanforlife-Patnation-MALCOMBUTLER-ThugLife-Superbowl-Seahawks-Russelwilson-Tombrady-Twitter-Cyrus-Lono-Ot9QmAaVFTb.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#134</b> <span class="color-384">#patriots</span> <span class="color-385">#PatsNation</span> <span class="color-386">#patsfanforlife</span> <span class="color-387">#patnation</span> <span class="color-388">#MALCOMBUTLER</span> <span class="color-389">#ThugLife</span> <span class="color-390">#superbowl</span> <span class="color-391">#seahawks</span> <span class="color-392">#russelwilson</span> <span class="color-393">#tombrady</span> </a><a class="list-group-item" href="Vines/Tom-Brady-And-Julian-Edelman-Tombrady-Julianedelman-Superbowl-Superbowl2015-Patriots-Seahawks-Celebration-Twitter-U2661Loui-Afu2661-OUXdtTAztBX.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#135</b> Tom Brady and Julian Edelman <span class="color-394">#tombrady</span> <span class="color-395">#julianedelman</span> <span class="color-396">#superbowl</span> <span class="color-1">#superbowl2015</span> <span class="color-2">#patriots</span> <span class="color-3">#seahawks</span> <span class="color-4">#celebration</span> </a><a class="list-group-item" href="Vines/RichardSherman-Super-Superbowl-Ohmygod-Seattle-Patriots-Tombrady-Twitter-Charlie-Rocci-OtEwAVVJuPJ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#136</b> <span class="color-5">#RichardSherman</span> <span class="color-6">#Super</span>  <span class="color-7">#superbowl</span> <span class="color-8">#ohmygod</span> <span class="color-9">#Seattle</span> <span class="color-10">#patriots</span> <span class="color-11">#tombrady</span> </a><a class="list-group-item" href="Vines/Seattleseahawks-Fans-Last-Night-SB49-Seahawks-Newenglandpatriots-Superbowl-Tombrady-KatyPerry-RichardSherman-Patriots-BEASTMODE-Twitter-Ksteelo-OFB11AlKb1q.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#137</b> <span class="color-12">#seattleseahawks</span> fans last night <span class="color-13">#SB49</span> <span class="color-14">#seahawks</span> <span class="color-15">#newenglandpatriots</span> <span class="color-16">#superbowl</span> <span class="color-17">#tombrady</span> <span class="color-18">#KatyPerry</span> <span class="color-19">#RichardSherman</span> <span class="color-20">#patriots</span> <span class="color-21">#BEASTMODE</span> </a><a class="list-group-item" href="Vines/I'll-Be-Making-Posting-Most-Of-The-Requests-Later-Today-Twitter-DaOneAndOnlyBoochiBoi-EwQlBQAr6Jl.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#138</b> I'll be making/ posting most of the requests later today 😌 </a><a class="list-group-item" href="Vines/Who-Do-You-Think-Will-Winsuperbowl2015-Patriots-Newengland-Gronkowski-Edelman-Tombrady-Superbowl49-Hawksvspats-NFL-Twitter-Taylor-Hemmirwin-OIKJxqFVF0p.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#139</b> Who do you think will win❓<span class="color-22">#superbowl2015</span> <span class="color-23">#patriots</span> <span class="color-24">#newengland</span> <span class="color-25">#gronkowski</span> <span class="color-26">#edelman</span> <span class="color-27">#tombrady</span> <span class="color-28">#superbowl49</span> <span class="color-29">#hawksvspats</span> <span class="color-30">#NFL</span> </a><a class="list-group-item" href="Vines/Tom-Brady-Requested-By-Sarah-Rask-Daniel-Brady-Is-Free-12-Jacob-Noel-Twitter-Edelman-Edits-EEtwBtT5nLa.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#140</b> tom brady 😈requested by sarah rask, daniel <span class="color-31">#brady</span> is free #12, Jacob Noel </a><a class="list-group-item" href="Vines/Double-Tap-If-You'd-Give-Tom-Brady-A-High-Five-Highfive-Tombrady-Newenglandpatriots-Patriots-Newengland-Followformore-NFLEDITS-Yolo-Twitter-SCORPION-SPORTS-RDS-OtJBqiQr1OZ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#141</b> Double tap if you'd give Tom Brady a high five. <span class="color-33">#highfive</span> <span class="color-34">#tombrady</span> <span class="color-35">#newenglandpatriots</span> <span class="color-36">#patriots</span> <span class="color-37">#newengland</span> <span class="color-38">#followformore</span> <span class="color-39">#NFLEDITS</span> <span class="color-40">#yolo</span> </a><a class="list-group-item" href="Vines/Revine-If-You-Support-Tom-Patriots-Newenglandpatriots-SuperBowlXLIX-Tombrady-Freetombrady-Twitter-Chris-Sherman-EA1q5XJelWd.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#142</b> Revine if you support Tom 🙌🏼 <span class="color-41">#patriots</span> <span class="color-42">#newenglandpatriots</span> <span class="color-43">#SuperBowlXLIX</span> <span class="color-44">#tombrady</span> <span class="color-45">#freetombrady</span> </a><a class="list-group-item" href="Vines/Tombrady-TomBradystyle-Twitter-Iamnamrok-OgZBwqMZPX3.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#143</b> <span class="color-46">#tombrady</span> <span class="color-47">#TomBradystyle</span> </a><a class="list-group-item" href="Vines/Lol-Who-Let-The-Air-Out-DjStevePorter-Billbelichick-Tombrady-Robgronkowski-SuperBowlSunday-Twitter-Deidre-Minniti-OtQJPrJ5BbO.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#144</b> Lol who let the air out <span class="color-48">#djStevePorter</span> <span class="color-49">#billbelichick</span> <span class="color-50">#tombrady</span> <span class="color-51">#robgronkowski</span> <span class="color-52">#SuperBowlSunday</span> </a><a class="list-group-item" href="Vines/Did-This-Just-Happen-Pats-Patriots-Patsnation-Isthisreallife-Tombrady-Football-Nfl-Twitter-Maddie-HHVvD6HOiJH.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#145</b> Did this just happen? <span class="color-53">#pats</span> <span class="color-54">#patriots</span> <span class="color-55">#patsnation</span> <span class="color-56">#Isthisreallife</span> <span class="color-57">#tombrady</span> <span class="color-58">#football</span> <span class="color-59">#nfl</span> </a><a class="list-group-item" href="Vines/New-England-Patriots-7-32-NewEnglandPatriots-NFL-TomBrady-Undefeated-FootballEdits-TheZone-Twitter-Damion-Valencia-E30DmwUV61I.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#146</b> New England Patriots! (7/32) 
+<span class="color-60">#NewEnglandPatriots</span> <span class="color-61">#NFL</span> <span class="color-62">#TomBrady</span> <span class="color-63">#undefeated</span> 
+
+
+
+
+
+
+<span class="color-64">#FootballEdits</span> <span class="color-65">#TheZone</span> </a><a class="list-group-item" href="Vines/Champs-Twitter-Alex-Fisher-EhPQ9tjLqbX.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#147</b> Champs </a><a class="list-group-item" href="Vines/Saints-Fans-Be-Like-NE-Pats-Patriots-NO-Saints-NFL-Nfl-Comedy-Sunday-KevinHart-Kevin-Football-Sports-Novsne-Twitter-Joey-Lindley-HHYPaevpJdx.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#148</b> Saints fans be like..... <span class="color-66">#NE</span> <span class="color-67">#pats</span> <span class="color-68">#patriots</span> <span class="color-69">#NO</span> <span class="color-70">#Saints</span> <span class="color-71">#NFL</span> <span class="color-72">#nfl</span> <span class="color-73">#comedy</span> <span class="color-74">#sunday</span> <span class="color-75">#kevinHart</span> <span class="color-76">#kevin</span> <span class="color-77">#football</span> <span class="color-78">#sports</span> <span class="color-79">#novsne</span> </a><a class="list-group-item" href="Vines/Tom-Brady-And-Mark-Wahlberg-Tombrady-MarkWahlburg-Superbowl-Superbowl2015-Patriots-Seahawks-Bestever-Markymark-Goat-Twitter-Jackie-Hughes-OUXjxP1I2qx.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#149</b> Tom Brady and Mark Wahlberg <span class="color-80">#tombrady</span> <span class="color-81">#MarkWahlburg</span> <span class="color-82">#superbowl</span> <span class="color-83">#superbowl2015</span> <span class="color-84">#patriots</span> <span class="color-85">#seahawks</span> <span class="color-86">#bestever</span> <span class="color-87">#markymark</span> <span class="color-88">#goat</span> </a><a class="list-group-item" href="Vines/I-Wonder-Who-That-Was-For-Patriots-Tombrady-Twitter-Lakshaye-HhrY2VuiQ2u.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#150</b> I wonder who that was for. <span class="color-89">#patriots</span> <span class="color-90">#tombrady</span> </a><a class="list-group-item" href="Vines/Sorry-But-I-Couldn't-Resist-Cobrastyle-Twitter-PrimeHD-IdvxwhU1UQl.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#151</b> sorry but I couldn't resist | cobrastyle </a><a class="list-group-item" href="Vines/Energy-Enemies-Tombrady-DeflateGate-Drake-Newenglandpatriots-Patriots-PatsNation-Twitter-Harrison-Giuliano-EKWgXXLqPXW.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#152</b> <span class="color-91">#energy</span> <span class="color-92">#enemies</span> <span class="color-93">#tombrady</span> <span class="color-94">#DeflateGate</span> <span class="color-95">#drake</span> <span class="color-96">#newenglandpatriots</span> <span class="color-97">#patriots</span> <span class="color-98">#PatsNation</span> </a><a class="list-group-item" href="Vines/Lets-Go-Pats-Superbowl-SuperBowlSunday-PatsNation-Patriots-Robgronkowski-Tombrady-Twitter-Salsa-Edits-OtQPMrXg9KY.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#153</b> Lets go pats 🔵🔴🏈!! <span class="color-99">#superbowl</span> <span class="color-100">#SuperBowlSunday</span> <span class="color-101">#PatsNation</span> <span class="color-102">#patriots</span> <span class="color-103">#robgronkowski</span> <span class="color-104">#tombrady</span> # </a><a class="list-group-item" href="Vines/Sorry-For-Not-Postingamericanfootball-Footballedit-Tombrady-Patriots-Sports-Sorry-Footballsunday-Twitter-Mert-Karanfil-OizZgMK9ml9.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#154</b> Sorry for not posting😁<span class="color-105">#americanfootball</span>  <span class="color-106">#footballedit</span> <span class="color-107">#tombrady</span> <span class="color-108">#patriots</span> <span class="color-109">#sports</span> <span class="color-110">#sorry</span> <span class="color-111">#footballsunday</span> </a><div class="box"><h1>More tombrady Vine Compilations</h1>        <div class="list-group">
+<a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---October-25,-2016-Tuesday-Night-5091560.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-0">TOMBRADY</span> Compilation - October 25, 2016 Tuesday Night </a><a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---December-19,-2015-Saturday-Night-4862551.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-1">TOMBRADY</span> Compilation - December 19, 2015 Saturday Night </a><a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---October-15,-2015-Thursday-4282797.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-2">TOMBRADY</span> Compilation - October 15, 2015 Thursday </a><a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---October-2,-2015-Friday-Night-4134561.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-3">TOMBRADY</span> Compilation - October 2, 2015 Friday Night </a><a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---October-1,-2015-Thursday-Night-4122197.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-4">TOMBRADY</span> Compilation - October 1, 2015 Thursday Night </a><a class="list-group-item" href="/Trending-On-Vine-TOMBRADY-Vines-Compilation---September-14,-2015-Monday-3905827.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending on Vine <span class="color-5">TOMBRADY</span> Vines Compilation - September 14, 2015 Monday </a><a class="list-group-item" href="/Trending-On-Vine-TOMBRADY-Vines-Compilation---September-13,-2015-Sunday-3898541.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending on Vine <span class="color-6">TOMBRADY</span> Vines Compilation - September 13, 2015 Sunday </a><a class="list-group-item" href="/Trending-On-Vine-TOMBRADY-Vines-Compilation---September-12,-2015-Saturday-3888363.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending on Vine <span class="color-7">TOMBRADY</span> Vines Compilation - September 12, 2015 Saturday </a><a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---September-10,-2015-Thursday-3867180.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-8">TOMBRADY</span> Compilation - September 10, 2015 Thursday </a><a class="list-group-item" href="/Trending-On-Vine-TOMBRADY-Vines-Compilation---September-10,-2015-Thursday-3865200.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending on Vine <span class="color-9">TOMBRADY</span> Vines Compilation - September 10, 2015 Thursday </a></div><h1>Related Vine Compilations</h1>
+<div class="box"><a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---October-25,-2016-Tuesday-Night-5091560.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-10">TOMBRADY</span> Compilation - October 25, 2016 Tuesday Night </a><a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---December-19,-2015-Saturday-Night-4862551.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-11">TOMBRADY</span> Compilation - December 19, 2015 Saturday Night </a><a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---October-15,-2015-Thursday-4282797.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-12">TOMBRADY</span> Compilation - October 15, 2015 Thursday </a><a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---October-2,-2015-Friday-Night-4134561.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-13">TOMBRADY</span> Compilation - October 2, 2015 Friday Night </a><a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---October-1,-2015-Thursday-Night-4122197.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-14">TOMBRADY</span> Compilation - October 1, 2015 Thursday Night </a><a class="list-group-item" href="/Trending-On-Vine-TOMBRADY-Vines-Compilation---September-14,-2015-Monday-3905827.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending on Vine <span class="color-15">TOMBRADY</span> Vines Compilation - September 14, 2015 Monday </a><a class="list-group-item" href="/Trending-On-Vine-TOMBRADY-Vines-Compilation---September-13,-2015-Sunday-3898541.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending on Vine <span class="color-16">TOMBRADY</span> Vines Compilation - September 13, 2015 Sunday </a><a class="list-group-item" href="/Trending-On-Vine-TOMBRADY-Vines-Compilation---September-12,-2015-Saturday-3888363.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending on Vine <span class="color-17">TOMBRADY</span> Vines Compilation - September 12, 2015 Saturday </a><a class="list-group-item" href="/Best-Vines-For-TOMBRADY-Compilation---September-10,-2015-Thursday-3867180.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-18">TOMBRADY</span> Compilation - September 10, 2015 Thursday </a><a class="list-group-item" href="/Trending-On-Vine-TOMBRADY-Vines-Compilation---September-10,-2015-Thursday-3865200.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending on Vine <span class="color-19">TOMBRADY</span> Vines Compilation - September 10, 2015 Thursday </a><a class="list-group-item" href="/EVYN-COLLINS-Evyncollins-Best-Vines-Compilation-And-Favorite-Revines---September-10,-2015-Thursday-3865199.html"><i
+                    class="fa fa-play-circle fa-fw"></i> <span class="color-20">EVYN COLLINS (/EVYNCOLLINS)</span> Best Vines Compilation and Favorite Revines - September 10, 2015 Thursday </a><a class="list-group-item" href="/Best-Vines-For-ANTHONY-Ant-Compilation---September-10,-2015-Thursday-3865198.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-21">ANTHONY (/ANT)</span> Compilation - September 10, 2015 Thursday </a><a class="list-group-item" href="/Trending-Vines-For-EDIT-On-Twitter-Compilation---September-10,-2015-Thursday-3865197.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-22">EDIT</span> on Twitter Compilation - September 10, 2015 Thursday </a><a class="list-group-item" href="/Trending-Vines-For-ACAPELLA-On-Twitter-Compilation---September-10,-2015-Thursday-3865196.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-23">ACAPELLA</span> on Twitter Compilation - September 10, 2015 Thursday </a><a class="list-group-item" href="/ANTHONY-Ant-Best-Vines-Compilation-And-Favorite-Revines---September-10,-2015-Thursday-3865195.html"><i
+                    class="fa fa-play-circle fa-fw"></i> <span class="color-24">ANTHONY (/ANT)</span> Best Vines Compilation and Favorite Revines - September 10, 2015 Thursday </a><a class="list-group-item" href="/BYCMKUN--MOMENTS-BYCMKUNMoments-Best-Vines-Compilation-And-Favorite-Revines---September-10,-2015-Thursday-3865194.html"><i
+                    class="fa fa-play-circle fa-fw"></i> <span class="color-25">BYCMKUN  MOMENTS (/BYCM_KUN.MOMENTS)</span> Best Vines Compilation and Favorite Revines - September 10, 2015 Thursday </a></div></div></div><div class="box">
+    <div class="list-group">
+        <a class="list-group-item" href="http://www.amazon.com/?_encoding=UTF8&tag=vinewebsite-20" target="_blank"><i
+                class="fa fa-amazon fa-fw"></i>&nbsp;
+            Please consider supporting this site by Clicking Here and Bookmarking whenever you search and shop Amazon. It costs you nothing but it supports us and gives us credit and we appreciate it greatly.
+        </a>
+    </div>
+</div>
+<div class="box-cpu-ad">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Flexible Mobile -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-6547315753979149"
+         data-ad-slot="6090980310"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-mH5HUHve3C46d"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-mH5HUHve3C46d.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+</body>
+</html>

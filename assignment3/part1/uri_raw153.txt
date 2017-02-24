@@ -1,0 +1,1043 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1; user-scalable=0;">
+<link rel="icon" type="image/png" href="http://winningdemocrats.com/wp-content/themes/ares/images/wdfavicon.png" />
+<title>Trump Will Hate What These REAL Patriots Hung At The Feet Of The Statue Of Liberty &lsaquo; Winning Democrats</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href='//winningdemocrats.com/wp-content/cache/wpfc-minified/604adcde87a556cce97ba67710da9d83/1487799915index.css' />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script type="text/javascript" src="http://winningdemocrats.com/wp-content/themes/ares/ads/ads.js?v=3"></script>
+<link rel="pingback" href="http://winningdemocrats.com/xmlrpc.php" />
+<script>
+jQuery(document).ready(function($){
+$( window ).resize(function() {
+var windowSize = $( window ).width() -40;
+$( '.fb-comments iframe' ).css('width',windowSize);
+console.log(windowSize);
+});
+var windowsize = $(window).width();
+if (windowsize > 500) {
+console.log('SIDEBAR AD INSERTED!');
+$('.sidebar-ads').html('<div id="rcjsload_9a45b1"></div><script type="text/javascript">(function() {var rcel = document.createElement("script");rcel.id = "rc_" + Math.floor(Math.random() * 1000);rcel.type = "text/javascript";rcel.src = "http://trends.revcontent.com/serve.js.php?w=14745&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);rcel.async = true;var rcds = document.getElementById("rcjsload_9a45b1"); rcds.appendChild(rcel);})();<\/script>');
+// sidebardeskad
+$('.sidebaradjs').html('<div id="rcjsload_56b81a"></div><script type="text/javascript">(function() {var rcel = document.createElement("script");rcel.id = "rc_" + Math.floor(Math.random() * 1000);rcel.type = "text/javascript";rcel.src = "http://trends.revcontent.com/serve.js.php?w=14744&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);rcel.async = true;var rcds = document.getElementById("rcjsload_56b81a"); rcds.appendChild(rcel);})();<\/script>');
+$('.sidebar').show();
+} else {
+$('.sidebar').hide();
+console.log('SIDEBAR AD REMOVED!');
+// top mobile ad
+//$('.mobiletoprevcontent').html('<div id="rcjsload_96b1c3"></div><script type="text/javascript">(function() {var rcel = document.createElement("script");rcel.id = "rc_" + Math.floor(Math.random() * 1000);rcel.type = "text/javascript";rcel.src = "http://trends.revcontent.com/serve.js.php?w=14746&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);rcel.async = true;var rcds = document.getElementById("rcjsload_96b1c3"); rcds.appendChild(rcel);})();<\/script>');
+// ad area #2
+$('.adarea2').html('<div id="rcjsload_c412b6"></div><script type="text/javascript">(function() {var rcel = document.createElement("script");rcel.id = "rc_" + Math.floor(Math.random() * 1000);rcel.type = "text/javascript";rcel.src = "http://trends.revcontent.com/serve.js.php?w=14744&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);rcel.async = true;var rcds = document.getElementById("rcjsload_c412b6"); rcds.appendChild(rcel);})();<\/script>');
+}
+});
+</script>
+<link rel="shortcut icon" href="http://winningdemocrats.com/wp-content/themes/ares/data/1450482260_2015-12-18_18-43-55.jpg" />
+<!-- Template stylesheet -->
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Winning Democrats &raquo; Feed" href="http://winningdemocrats.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Winning Democrats &raquo; Comments Feed" href="http://winningdemocrats.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Winning Democrats &raquo; Trump Will Hate What These REAL Patriots Hung At The Feet Of The Statue Of Liberty Comments Feed" href="http://winningdemocrats.com/trump-will-hate-what-these-real-patriots-hung-at-the-feet-of-the-statue-of-liberty/feed/" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>    <script>
+window.OneSignal = window.OneSignal || [];
+OneSignal.push( function() {
+OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+OneSignal.setDefaultNotificationUrl("http://winningdemocrats.com");
+var oneSignal_options = {};
+window._oneSignalInitOptions = oneSignal_options;
+oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '2aeeea7b-005a-4070-8c2c-5b63ef797823';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['httpPermissionRequest'] = { };
+oneSignal_options['httpPermissionRequest']['enable'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['disable'] = true;
+oneSignal_options['subdomainName'] = "https://winningdemocrats.onesignal.com";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.668b47bc-14aa-4b15-bbce-a605ba29fca6";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+OneSignal.init(window._oneSignalInitOptions);
+});
+function documentInitOneSignal() {
+var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+}
+if (document.readyState === 'complete') {
+documentInitOneSignal();
+}
+else {
+window.addEventListener("load", function(event){
+documentInitOneSignal();
+});
+}
+</script>
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/winningdemocrats.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jqueryui_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/0811d279530291b1e815e2325d9001c8/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='screen_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/624ac430eef7d6f10c16e359d193fa43/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/de96ee42df589ceec300bd8523b3c7ee/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tipsy_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/49f052a65b3b96178c0310961be83428/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/cf98703c97b654e6ce5214d6284b742e/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/0ee0ca2cef0bd5ff774a5b41f63938e3/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='grid_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/10afa7363e9023117bd03dfaa4e4e518/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pp_menu_style-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/660cb9c3670a050dbfd715dab502507f/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='colorpicker.css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/fe4dc69902dd0a68c58373b08d3c7c84/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/2104ee67517fd52b26119c836cc563a3/1487799915index.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://winningdemocrats.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/jquery-ui.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/colorpicker.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/eye.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/utils.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/fancybox/jquery.fancybox-1.3.0.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/jquery.easing.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/jquery.nivo.slider.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/hint.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/jquery.validate.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/jquery.tipsy.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/browser.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/flexslider/jquery.flexslider-min.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/custom.js?ver=2.3'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/themes/ares/js/fbscripts.js?ver=2.3'></script>
+<link rel='https://api.w.org/' href='http://winningdemocrats.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://winningdemocrats.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://winningdemocrats.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='This Yellow-Bellied Republican Rep Threatens To Cancel Town Hall If Protesters Show Up (VIDEO)' href='http://winningdemocrats.com/this-yellow-bellied-republican-rep-threatens-to-cancel-town-hall-if-protesters-show-up-video/' />
+<link rel='next' title='One Of Trump&#8217;s First Executive Orders Is Severely Hurting Military Families' href='http://winningdemocrats.com/one-of-trumps-first-executive-orders-is-severely-hurting-military-families/' />
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel="canonical" href="http://winningdemocrats.com/trump-will-hate-what-these-real-patriots-hung-at-the-feet-of-the-statue-of-liberty/" />
+<link rel='shortlink' href='http://winningdemocrats.com/?p=33268' />
+<link rel="alternate" type="application/json+oembed" href="http://winningdemocrats.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwinningdemocrats.com%2Ftrump-will-hate-what-these-real-patriots-hung-at-the-feet-of-the-statue-of-liberty%2F" />
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Fix for bottom anchoring of Facebook share button so that
+it isn't covered by the Google Adsense bottom-anchored
+floating ad. */
+.socialfooterwrap {
+bottom: 71px !important; 
+}
+#onesignal-bell-container {
+z-index: 9999999999 !important; 
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "ca-pub-9292789304436098",
+enable_page_level_ads: true
+});
+</script>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="icon" href="http://winningdemocrats.com/wp-content/uploads/2015/12/cropped-2015-12-18_18-30-53-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://winningdemocrats.com/wp-content/uploads/2015/12/cropped-2015-12-18_18-30-53-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://winningdemocrats.com/wp-content/uploads/2015/12/cropped-2015-12-18_18-30-53-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://winningdemocrats.com/wp-content/uploads/2015/12/cropped-2015-12-18_18-30-53-270x270.jpg" />
+<style type="text/css" id="wp-custom-css">
+body {
+color: #000 !important;
+font-size: 16px;
+}
+.carousel .item {
+line-height: 600px;
+overflow: hidden;
+min-height: 300px;
+}		</style>
+<!--[if IE 7]>
+<link rel="stylesheet" href='//winningdemocrats.com/wp-content/cache/wpfc-minified/a2866e9fb56f3becab113951e773149b/1487799915index.css' type="text/css" media="all"/>
+<![endif]-->
+<style type="text/css">
+#header_wrapper, #nivo_caption_wrapper .caption_cat, #content_wrapper .sidebar .content .sidebar_widget li h2.widgettitle, h2.widgettitle, .post_img .caption_cat, .pagination span.current, .pagination a:hover, table tr th, .flex-control-nav li a.active
+{ 
+background: #4c69ba; 
+}
+.pagination span.current, .pagination a:hover
+{
+border: 1px solid #4c69ba;
+}
+#footer h2.widgettitle
+{
+color: #4c69ba;
+}
+</style>
+<!-- FACEBOOK OG INFO -->
+<meta property="fb:app_id" content="1555147758043521" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Trump Will Hate What These REAL Patriots Hung At The Feet Of The Statue Of Liberty" />
+<meta property="og:url" content="http://winningdemocrats.com/trump-will-hate-what-these-real-patriots-hung-at-the-feet-of-the-statue-of-liberty/" />
+<meta property="og:description" content="In your face, Trump! " />
+<meta property="og:site_name" content="Democrats Winning the Hearts and Minds" />
+<meta property="og:image" content="http://winningdemocrats.com/wp-content/uploads/2017/02/Liberty-Getty.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:image" content="http://winningdemocrats.com/wp-content/uploads/2017/02/Liberty-Getty.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<!-- END FACEBOOK OG INFO -->
+<style type="text/css">
+@media (max-width: 480px) {
+#content_wrapper {
+margin-left: -43px !important;
+}
+}
+</style>
+</head>
+<body class="post-template-default single single-post postid-33268 single-format-standard">
+<link rel="stylesheet" type="text/css" href="http://codeddesign.org/clients/dncpetition/style.css" media="screen" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="http://codeddesign.org/clients/dncpetition/js/pledgejs.js"></script>
+<style>
+@media screen and (max-width: 730px) {
+.pledge-mobilewrapper, .pledge-mobilefixedformwrap {
+margin-top: -10px;
+}
+}
+</style>
+<!-- DESKTOP PLEDGE FORM -->
+<div class="pledge-desktopview">
+<div class="pledgeremove"></div>
+<div class="pledge-wrapper">
+<div class="pledge-bgflag"></div>
+<div class="pledge-mainwrapper">
+<div class="pledge-text"></div>
+<div class="pledge-form">
+<div class="pledge-petitiontext">SIGN PETITION:</div>
+<div class='gf_browser_unknown gform_wrapper dnc-petition_wrapper' id='gform_wrapper_1' ><a id='gf_1' class='gform_anchor' ></a><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1' class='dnc-petition' action='/trump-will-hate-what-these-real-patriots-hung-at-the-feet-of-the-statue-of-liberty/#gf_1'>
+<div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1' class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_1' >Full Name</label><div class='ginput_container ginput_container_text'><input name='input_1' id='input_1_1' type='text' value='' class='medium'  tabindex='1'  placeholder='full name..'  aria-invalid="false" /></div></li><li id='field_1_3' class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_3' >Email Address</label><div class='ginput_container ginput_container_email'>
+<input name='input_3' id='input_1_3' type='text' value='' class='medium' tabindex='2'   placeholder='email address..'/>
+</div></li>
+</ul></div>
+<div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='submit' tabindex='3' onclick='if(window["gf_submitting_1"]){return false;}  window["gf_submitting_1"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} window["gf_submitting_1"]=true;  jQuery("#gform_1").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=1' />
+<input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+<input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImE2ZTViYjBkYTgyYTQ4NjQ4MGNhMjkxYjViNjFmNjA5Il0=' />
+<input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+<input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+<input type='hidden' name='gform_field_values' value='' />
+</div>
+</form>
+</div>
+<iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1'>This iframe contains the logic required to handle AJAX powered Gravity Forms.</iframe>
+<script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 1, 'http://winningdemocrats.com/wp-content/plugins/gravityforms-master/images/spinner.gif' );jQuery('#gform_ajax_frame_1').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'http://winningdemocrats.com/wp-content/plugins/gravityforms-master/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message_1').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith('<' + 'div id=\'gforms_confirmation_message_1\' class=\'gform_confirmation_message_1 gforms_confirmation_message\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message_1').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );</script><script type='text/javascript'> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/winningdemocrats.com\/wp-content\/plugins\/gravityforms-master","number_formats":[],"spinnerUrl":"http:\/\/winningdemocrats.com\/wp-content\/plugins\/gravityforms-master\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+Placeholders.enable();
+}} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script>				
+<!--
+<form class="pledge-petitionform">
+<input class="pledge-petitionforminput" type="text" placeholder="full name..">
+<input class="pledge-petitionforminput" type="text" placeholder="email address..">
+<submit>submit</submit>
+</form>
+-->
+</div>
+</div>	
+</div>
+</div>	
+<!-- END DESKTOP PLEDGE FORM -->
+<!-- MOBILE PLEDGE FORM -->
+<div class="pledge-mobileview">
+<div class="pledgeremove"></div>
+<div class="pledge-mobilewrapper">
+<div class="pledge-mobilebgflag"></div>
+<div class="pledge-mobilemainwrapper">
+<div class="pledge-mobiletext"></div>
+<div class="pledge-mobilesignupbutton">sign the petition</div>
+<div class="pledge-mobilehavesigned">3,957 have already signed.</div>
+</div>
+</div>
+<div class="pledge-mobilefixedformwrap" style="display:none;">
+<div class="pledge-fixedmobilebgflag"></div>
+<div class="pledge-fixedmobilewrapper">
+<div class="pledge-fixedmobiletext"></div>
+<div class="pledge-dncbadgewrapper">
+<div class="pledge-dncbadge"></div>
+</div>
+<div class="pledge-fixedformbg">
+<div class="pledge-fixedformtext">I will work and vote to<br> <span>Remove Republicans</span> <br>from office in 2018!</div>
+<div class='gf_browser_unknown gform_wrapper dnc-petition_wrapper' id='gform_wrapper_1' ><a id='gf_1' class='gform_anchor' ></a><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1' class='dnc-petition' action='/trump-will-hate-what-these-real-patriots-hung-at-the-feet-of-the-statue-of-liberty/#gf_1'>
+<div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1' class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_1' >Full Name</label><div class='ginput_container ginput_container_text'><input name='input_1' id='input_1_1' type='text' value='' class='medium'  tabindex='1'  placeholder='full name..'  aria-invalid="false" /></div></li><li id='field_1_3' class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_3' >Email Address</label><div class='ginput_container ginput_container_email'>
+<input name='input_3' id='input_1_3' type='text' value='' class='medium' tabindex='2'   placeholder='email address..'/>
+</div></li>
+</ul></div>
+<div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='submit' tabindex='3' onclick='if(window["gf_submitting_1"]){return false;}  window["gf_submitting_1"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} window["gf_submitting_1"]=true;  jQuery("#gform_1").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=1' />
+<input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+<input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImE2ZTViYjBkYTgyYTQ4NjQ4MGNhMjkxYjViNjFmNjA5Il0=' />
+<input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+<input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+<input type='hidden' name='gform_field_values' value='' />
+</div>
+</form>
+</div>
+<iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1'>This iframe contains the logic required to handle AJAX powered Gravity Forms.</iframe>
+<script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 1, 'http://winningdemocrats.com/wp-content/plugins/gravityforms-master/images/spinner.gif' );jQuery('#gform_ajax_frame_1').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'http://winningdemocrats.com/wp-content/plugins/gravityforms-master/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message_1').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith('<' + 'div id=\'gforms_confirmation_message_1\' class=\'gform_confirmation_message_1 gforms_confirmation_message\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message_1').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );</script><script type='text/javascript'> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/winningdemocrats.com\/wp-content\/plugins\/gravityforms-master","number_formats":[],"spinnerUrl":"http:\/\/winningdemocrats.com\/wp-content\/plugins\/gravityforms-master\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+Placeholders.enable();
+}} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script>				
+<!--
+<form class="pledge-fixedpetitionform">
+<input class="pledge-fixedpetitionforminput" type="text" placeholder="full name..">
+<input class="pledge-fixedpetitionforminput" type="text" placeholder="email address..">
+<submit>submit</submit>
+</form>
+-->
+</div>
+</div>
+</div>	
+</div>
+<!-- END MOBILE PLEDGE FORM -->	
+<script>console.log('waypoint 1')</script>
+<input type="hidden" id="pp_homepage_slider_trans" name="pp_homepage_slider_trans" value="fold"/>
+<!-- Begin template wrapper -->
+<div id="wrapper">
+<!-- Begin header -->
+<div id="header_wrapper"></div>
+<!-- End header -->
+<br class="clear"/>
+<div class="standard_wrapper header">
+<div class="logo">
+<!-- Begin logo -->
+<a id="custom_logo" href="http://winningdemocrats.com"><img src="http://winningdemocrats.com/wp-content/themes/ares/data/1450915423_1447948607_wdlogo.jpg" alt=""/></a>
+<div class="hamburger" style="display:none;"></div>
+<!-- End logo -->
+</div>
+<script>console.log('waypoint 2')</script>
+<div class="header_ads">
+<!-- HEADER ADS -->
+<script type="text/javascript" src="http://a.intgr.net/tags/163_1.js"></script>
+<!-- END HEADER ADS -->
+</div>
+<script>console.log('waypoint 3')</script>
+<br class="clear"/>
+</div>
+<script>console.log('waypoint 4')</script>
+<br class="clear"/>
+<div class="standard_wrapper">
+<div class="menu-main-menu2-container"><ul id="main_menu" class="main_nav"><li id="menu-item-556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-556"><a href="/">Home</a></li>
+<li id="menu-item-543" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-543"><a href="http://winningdemocrats.com/category/news/">News</a></li>
+<li id="menu-item-2514" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2514"><a href="http://winningdemocrats.com/category/politics/">Politics</a></li>
+<li id="menu-item-2515" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2515"><a href="http://winningdemocrats.com/category/guns/">Guns</a></li>
+<li id="menu-item-2516" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2516"><a href="http://winningdemocrats.com/category/religion/">Religion</a></li>
+<li id="menu-item-2518" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2518"><a href="http://winningdemocrats.com/category/lgbt/">LGBT</a></li>
+<li id="menu-item-2523" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2523"><a href="http://winningdemocrats.com/category/healthcare/">Healthcare</a></li>
+<li id="menu-item-2642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2642"><a href="http://winningdemocrats.com/category/gop-lies/">GOP Lies</a></li>
+<li id="menu-item-3413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3413"><a href="http://winningdemocrats.com/category/racism/">Racism</a></li>
+<li id="menu-item-3416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3416"><a href="http://winningdemocrats.com/category/womens-issues/">Women&#8217;s Issues</a></li>
+<li id="menu-item-3414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3414"><a href="http://winningdemocrats.com/category/video/">Video</a></li>
+</ul></div>		</div>
+<div id="menu_border_wrapper"></div>
+<br class="clear"/>
+<!-- Begin content -->
+<div id="content_wrapper">
+<div class="inner">
+<!-- Begin main content -->
+<div class="inner_wrapper">
+<div class="sidebar_content">
+<div class="indexadspace deskad topgooglead removefromdesk"></div>
+<div class="indexadspace mobilead mobiletoprevcontent removefromdesk" style="width:100%"></div>
+<h2 class="widgettitle header">Trump Will Hate What These REAL Patriots Hung At The Feet Of The Statue Of Liberty</h2>
+<!-- Begin each blog post -->
+<div class="post_wrapper">
+<div class="post_img">
+<!--
+<a href="http://winningdemocrats.com/trump-will-hate-what-these-real-patriots-hung-at-the-feet-of-the-statue-of-liberty/" title="Trump Will Hate What These REAL Patriots Hung At The Feet Of The Statue Of Liberty">
+<img src="http://winningdemocrats.com/wp-content/uploads/2017/02/Liberty-Getty.jpg" alt="" class=""/>
+</a>
+-->
+</div>
+<div class="post_inner_wrapper">
+<div class="post_header_wrapper single">
+<br/>
+<div class="post_detail">
+Posted by Conover Kennard on 22 Feb 2017								</div>
+</div>
+<div class="post_social single">
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwinningdemocrats.com%2Ftrump-will-hate-what-these-real-patriots-hung-at-the-feet-of-the-statue-of-liberty%2F&amp;send=false&amp;layout=button_count&amp;width=200&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=268239076529520" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:83px; height:21px;margin-right:10px;" allowTransparency="true"></iframe>
+<a style="margin-left:10px;" href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-text="Trump Will Hate What These REAL Patriots Hung At The Feet Of The Statue Of Liberty" data-url="http://winningdemocrats.com/trump-will-hate-what-these-real-patriots-hung-at-the-feet-of-the-statue-of-liberty/">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+</div>
+<br class="clear"/><br/><hr/>
+<div class="wd-articleimage">
+<img width="640" height="390" src="http://winningdemocrats.com/wp-content/uploads/2017/02/Liberty-Getty.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />							</div>
+<div class='code-block code-block-4' style='margin: 8px 0px;'><!-- ARTICLE SHARE BUTTONS -->
+<div class="bottom-socialwrap">
+<div class="socialwrap-title">Share this Article!</div>
+<a href="" target="_blank" class="socicon-facebook fburl">
+<div class="facebooklike-left"><i class="icon-facebook"></i> Share on Facebook</div>
+</a>
+<a href="https://twitter.com/intent/tweet?text=<?php the_title();?>&url=<?php the_permalink();?>&image=<?php echo wp_get_attachment_url( get_post_thumbnail_id( get_the_id() ) );?>?w=640" target="_blank" class="socicon-twitter twurl">
+<div class="twitterlike-right"><i class="icon-twitter"></i> Share on Twitter</div>
+</a>
+</div>
+<style>
+.bottom-socialwrap {float: left;width: calc(100% - 40px);padding: 30px 20px;margin: 30px 0;background-color: #ffffff;border-top: 7px solid #eee;border-bottom: 7px solid #eee;}
+.socialwrap-title {float: left;width: 100%;text-align: center;font-size: 21px;color: #CA0002;font-family: verdana;letter-spacing: 0.6px;margin-top: -13px;margin-bottom: 16px;}
+.facebooklike-left {float: left;width: 47%;height: 46px;background: #3960BA;text-align: center;color: #FFFFFF;font-size: 14px;line-height: 46px;font-family: 'Open Sans', sans-serif;}
+.icon-facebook:before {content: "\f09a";font-family: FontAwesome;font-style: normal;padding-right: 6px;display:inline-block;}
+.twitterlike-right {float: right;width: 47%;height: 46px;background: #52A6F7;text-align: center;color: #FFFFFF;font-size: 14px;line-height: 46px;font-family: 'Open Sans', sans-serif;}
+.icon-twitter:before {content: "\f099";font-family: FontAwesome;font-style: normal;padding-right: 6px;display:inline-block;}
+@media screen and (max-width:500px) {.bottom-socialwrap {width: 100% !important;padding: 30px 0 !important;}.icon-facebook, .icon-twitter {display: none;}}
+</style>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script>
+jQuery(document).ready(function($){
+var currentPageTitle = $('.post h1 a').text();
+var currentPage = window.location.href;
+$('.fburl').attr('href', 'https://www.facebook.com/sharer/sharer.php?u='+currentPage);
+$('.twurl').attr('href', 'https://twitter.com/intent/tweet?text='+currentPageTitle+'&url='+currentPage);
+$('.socicon-facebook').click( function() {
+winWidth = 520;
+winHeight = 350;
+var winTop = (screen.height / 2) - (winHeight / 2);
+var winLeft = (screen.width / 2) - (winWidth / 2);
+var currentPageTitle = $('.post h1 a').text();
+var currentPage = window.location.href;
+window.open('https://www.facebook.com/sharer/sharer.php?u=' + currentPage, 'sharer', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight);
+});
+});
+</script></div><p>Although it was quickly taken down, a banner reading &#8220;Refugees welcome&#8221; was put up on the base of the Statue of Liberty Tuesday afternoon by activists, sending a strong message to alleged president Donald Trump. Authorities do not know who is responsible the hanging banner.</p><div class='code-block code-block-2' style='text-align: center; margin: 8px auto;'><div class="googlead singlepostgooglead">
+<div class="includegoogleadtomobile"></div>
+<script data-cfasync="false" type='text/javascript'>
+var dT = /iPad/.test(navigator.userAgent)?"t":/Mobile|iP(hone|od)|Android|BlackBerry|IEMobile|Silk/.test(navigator.userAgent)?"m":"d";
+if (dT == 'd'){
+<!--//<![CDATA[
+document.MAX_ct0 ='';
+var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+var m3_r = Math.floor(Math.random()*99999999999);
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("zoneid=344262");document.write("&amp;nodis=1");
+document.write ('&amp;cb=' + m3_r);
+if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+document.write ("&amp;loc=" + escape(window.location).substring(0,1600));
+if (document.context) document.write ("&context=" + escape(document.context));
+if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+}
+if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+var publisherurl = "%%SITE%%";
+var macro = "%%SI" + "TE%%";
+if (publisherurl !== macro) document.write ("&amp;publisherurl="+publisherurl);
+document.write ("'></scr"+"ipt>");
+//]]&gt;-->
+} else{
+jQuery('.includegoogleadtomobile').html('<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"><\/script><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-9946785509227106" data-ad-slot="8692274271"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>');
+}
+</script>
+</div></div>
+<p>The stunning banner measures 3 feet by 20 feet. At around 12:50 p.m. it was unfurled atop the pedestal, according to National Park Service police.  It was in plain view, affixed to the outside of the public observation deck at the base of the statue by nylon rope, ABC<a href="http://abcnews.go.com/US/banner-reading-refugees-appears-base-statue-liberty/story?id=45642874" target="_blank"> reports</a>.</p><div class='code-block code-block-5' style='margin: 8px 0px;'><a href="https://www.youtube.com/channel/UCewIHE_qTt39EcXLrSk6nwg?sub_confirmation=1" target="_blank" class="ytsub-wrapper"><div class="ytsub-margin"><div class="ytsub-text">Subscribe to our Youtube Channel</div><div class="ytsub-button"></div></div></a><style>.ytsub-wrapper{width:100%;float:left;margin:24px 0;background:#D12827;height:46px;text-decoration:none;}.ytsub-margin{width:440px;margin:0 auto}.ytsub-text{float:left;font-size:18px;font-family:helvetica,arial,sans-serif;color:#fff;margin-top:12px;}.ytsub-button{background:url(https://s29.postimg.org/rogixn1br/ytsub_button.jpg);width:120px;height:28px;float:right;margin-top:9px;position:relative;z-index:9999;}@media screen and (max-width:469px) {.ytsub-wrapper {height: 88px;}.ytsub-margin {width:340px;display:inline;}.ytsub-text {font-size:17px;text-align:center;width:100%;margin-top:12px;display:inline;}.ytsub-button {top:43px;float: none;margin: 0 auto;background-repeat: no-repeat;}}</style></div>
+<p>Twitter user <a href="https://twitter.com/AltStatLiberty/status/834106148601155585?ref_src=twsrc%5Etfw" target="_blank">@AltStatLiberty</a> tweeted out a photo of the massive banner.</p><div class='code-block code-block-1' style='text-align: center; margin: 8px auto;'><div id="middlecontentadinsert"></div></div>
+<blockquote class="twitter-tweet" data-lang="en">
+<p dir="ltr" lang="en">Patriots unfurled a massive banner at the foot of Lady Liberty.</p>
+<p>When injustice is being perpetuated, we must all stand up<a href="https://twitter.com/hashtag/RefugeesWelcome?src=hash">#RefugeesWelcome</a> <a href="https://t.co/rz3Qtwzqco">pic.twitter.com/rz3Qtwzqco</a></p>
+<p>— Alt Lady Liberty (@AltStatLiberty) <a href="https://twitter.com/AltStatLiberty/status/834106148601155585">February 21, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br />
+Affixing signs to the Statue of Liberty or its pedestal is &#8220;strictly prohibited&#8221; and an investigation is underway to identify the people who placed the banner there, the National Park Service said.</p><div class='code-block code-block-6' style='margin: 8px 0px;'><div style="float:left;width:100%;">
+<script data-cfasync="false" src="http://cdn.a3m.io/i1.js"></script>
+</div></div>
+<p>Trump&#8217;s immigration policy is chaotic, just like his presidency is. DHS officials told reporters that they were working on a plan to send migrants who had entered the United States from Mexico back to Mexico, even if they were not citizens of that country.</p>
+<p>Got that? They plan to send immigrants from other countries to Mexico. That little detail is <a href="https://www.propublica.org/article/trump-plan-deport-anyone-crossing-mexican-border-regardless-of-nationality" target="_blank">buried deep</a> in the Trump administration&#8217;s plan to round up undocumented immigrants.</p>
+<p>It&#8217;s as if Trump wants a war <a href="https://www.propublica.org/article/trump-plan-deport-anyone-crossing-mexican-border-regardless-of-nationality" target="_blank">with Mexico</a>:</p>
+<blockquote><p>If present immigration trends continue, that could mean the United States would push hundreds of thousands of Guatemalans, Hondurans, Salvadorans, Brazilians, Ecuadorians, even Haitians into Mexico. Currently, such people are detained in the U.S. and allowed to request asylum.</p></blockquote>
+<p>Meanwhile, Eric Trump has <a href="http://thehill.com/homenews/news/320043-trump-winery-seeks-more-foreign-help-report" target="_blank">requested permission </a>for 23 foreign workers to work for his Virginia winery. Those workers are to plant and harvest grapes for his business. This, following Donald Trump&#8217;s promise to bring back jobs for U.S. citizens.</p>
+<p>Still left at the Statue of Liberty&#8217;s base is a plaque which reads, &#8220;Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!&#8221;</p>
+<hr />
+<p><em>Photo by Kena Betancur/Getty Images.</em></p>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div>
+<div class="indexadspace googlead bottomgooglead">
+<center><div class="switchlockerdome"></div></center>
+</div>
+<div class="indexadspace sidebardeskad sidebaradjs" style="width:100%;margin-top:-20px;"></div>
+<div class="desktop-newsmax" style="width: 100%;border-top: 2px solid #eee;border-bottom: 2px solid #eee;padding-top: 13px;display: inline-block;padding-bottom: 13px;">
+<!-- NEWSMAX ADS -->
+<div id="2FjVZ8fOXjVB-nsN6BfdbHSPj7GwBuscZ6SZvn7Q"></div>
+<!-- END NEWSMAX ADS -->
+</div>
+</div>
+<!-- NEWSMAX ADS -->
+</div>
+<!-- End each blog post -->
+<div class="post_wrapper mobilead adarea2" style="float:left;padding:10px;width:calc(100% - 30px);"></div>
+<div class="mobile-newsmax post_wrapper" style="float:left;padding:21px;width:calc(100% - 42px);"></div>
+<div class="post_wrapper">
+<div class="connatixadspot">
+<center>
+<!-- CONNATIX -->
+<div class="connatix-headerad"></div>
+<!-- END CONNATIX -->
+</center>
+</div>
+</div>
+<center>
+<div class="googabovecomments" style="margin-top:27px;margin-bottom:0px;"></div>
+</center>
+<div class="post_wrapper" style="min-height:200px;height: auto;float: left;">
+<!--<div class="fb-comments"></div>-->
+<div class="comments">
+<style>
+#respond {
+position: relative;
+}
+.specialHide {
+height: 100% !important;
+padding: 0 !important;
+border: 0 !important;
+overflow: hidden;
+}
+.fb_iframe_widget_fluid {
+float: left !important;
+width: 100% !important;
+}
+#comments {
+position: relative;
+float: left;
+width: 100%;
+margin-bottom: 40px;
+}
+.comments {
+float: left;
+width: calc(100% - 24px);
+}
+.fbauthtext {
+float: left;
+width: 100%;
+text-align: center;
+color: #3A455F;
+font-size: 14px;
+font-family: 'Lato', sans-serif;
+/*margin-top: 184px;*/
+margin-top: 46px;
+font-weight: bold;
+}
+.fb-authorization .fbauthbutton {
+background: url('http://news.addictinginfoent.netdna-cdn.com/wp-content/themes/groopspeaknews/images/fbloginbutton.jpg');
+width: 177px !important;
+height: 32px !important;
+margin: 0 auto;
+/*margin-top: 215px;*/
+margin-top:75px;
+margin-bottom: 10px;
+}
+.fb-commentterms {
+float: right;
+margin-bottom: -18px;
+position: relative;
+z-index: 999;
+font-family: sans-serif;
+font-weight: 600;
+color: #777777;
+font-size: 13px;
+}
+.fb-commentterms {
+float: right;
+margin-bottom: -18px;
+position: relative;
+z-index: 999;
+font-family: sans-serif;
+font-weight: 600;
+color: #777777;
+font-size: 13px;
+width: 100%;
+text-align: right;
+margin-bottom: 6px;
+}
+@media screen and (max-width:500px) {
+.fb-authorization {
+height: 275px !important;
+}
+}
+</style>
+<!--
+<a href="http://groopspeak.com/terms/" target="_blank"><div class="fb-commentterms">Terms of Service</div></a>
+<div id="respond" class="commentsid specialHide" data-id="33268" style="width:90%;margin:0 auto;">
+<a href="javascript:" class="fb-authorization" style="position:absolute;z-index:9;width:100%;height:100%;background:rgba(255,255,255, 0.7);" data-id="33268">
+<div class="fbauthtext">Please login to Facebook to view comments</div>
+<div class="fbauthbutton"></div>
+</a>
+-->
+<div class="fb-comments" data-href="http://winningdemocrats.com/trump-will-hate-what-these-real-patriots-hung-at-the-feet-of-the-statue-of-liberty/" data-width="100%" data-numposts="5"></div>
+</div><!-- #comments -->
+</div>
+<div class="post_wrapper" style="float:left;margin-bottom:35px;">
+<h2 class="widgettitle">Written by <a href="http://FreakOutNation.com" title="Visit Conover Kennard&#8217;s website" rel="author external">Conover Kennard</a></h2>
+<div id="about_the_author">
+<div class="thumb"><img alt='Conover Kennard' src='http://winningdemocrats.com/wp-content/uploads/2016/06/Conover-Kennard_avatar_1465564556-50x50.jpg' class='avatar avatar-50 photo' height='50' width='50' /></div>
+<div class="description">
+Conover makes tea partiers cry as a hobby. She was Commander of Jade Helm15 during the failed takeover of the South. She's also one of the biggest arseholes on Twitter. At night, she can be found drinking Conservative tears while pulling off the wings of flies just because she can. She is the founder of a Marxist, Commie, Maoist, Socialist site and has contributed to several other sites, blah blah blah. She is an awful person but she doesn't like to brag about that.							</div>
+</div><br class="clear"/>
+</div>
+<div class="underauthoradspace undercommentadspace" style="float:left;width:100%;"></div>
+<script type="text/javascript">
+// HOMEPAGE GOOGLE ADS
+var windowsize = $(window).width();
+if (windowsize > 550) {
+$('.undercommentadspace').html('<center><script type="text/javascript" src="http://winningdemocrats.com/wp-content/themes/ares/ads/intgrad.php?id=163_6"><\/script></center>');
+} else {
+$('.undercommentadspace').html('<center><script type="text/javascript" src="http://winningdemocrats.com/wp-content/themes/ares/ads/intgrad.php?id=163_12"><\/script></center>');
+}
+</script>
+</div>
+<div class="sidebar_wrapper">
+<div class="ads125_wrapper">
+</div>
+<div class="sidebar">
+<div class="content">
+<ul class="sidebar_widget">
+<li id="text-2" class="widget widget_text">			<div class="textwidget"><p><!--
+<div style="float:left;width:100%;position:relative;z-index:9999;margin-left:-12px;margin-top:12px;margin-bottom:-12px;">
+<script src="http://cdn.a3m.io/p846.js" async></script>
+</div>
+--></p>
+</div>
+</li>
+<!-- Start - HTML Javascript Adder plugin v3.9 -->
+<li id="html_javascript_adder-3" class="widget widget_html_javascript_adder">
+<div class="hjawidget textwidget">
+<div class="sidebar-ads">
+<div id="rcjsload_9a45b1"></div>
+<script type="text/javascript">
+(function() {
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "http://trends.revcontent.com/serve.js.php?w=14745&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);
+rcel.async = true;
+var rcds = document.getElementById("rcjsload_9a45b1"); rcds.appendChild(rcel);
+})();
+</script>
+</div>	
+</div>
+</li>
+<!-- End - HTML Javascript Adder plugin v3.9 -->
+<!-- Start - HTML Javascript Adder plugin v3.9 -->
+<li id="html_javascript_adder-12" class="widget widget_html_javascript_adder">
+<div class="hjawidget textwidget">
+<div style="display:inline-block;padding:10px;width:calc(100% - 40px);">
+<div id="2FjVZ8fOXjVB-nsN6BfdbHSPj7GwBuscZ6SZvn7Q"></div>
+<script src="https://s.newsmaxfeednetwork.com/static/js/connectV5.js"></script>
+<div id="xqzc_eyEyW3ozrPbQk9f9rtUrMCDd7bT3YuAwkEX" ></div>
+<div id="STK5jfKzuaovfUD-yyTLTFcLrWUOKO6vcHiF8w38" ></div>
+</div>
+</div>
+</li>
+<!-- End - HTML Javascript Adder plugin v3.9 -->
+<!-- Start - HTML Javascript Adder plugin v3.9 -->
+<li id="html_javascript_adder-11" class="widget widget_html_javascript_adder">
+<div class="hjawidget textwidget">
+<!--
+<div class="underauthoradspace sidebardeskad">
+<center>
+<script type="text/javascript" src="http://a.intgr.net/tags/163_2.js"></script>
+</center>
+</div>
+-->
+</div>
+</li>
+<!-- End - HTML Javascript Adder plugin v3.9 -->
+</ul>
+</div>
+</div>
+<br class="clear"/>
+<div class="sidebar_bottom"></div>
+</div>
+</div>
+<!-- End main content -->
+<br class="clear"/>
+</div>
+<div class="bottom"></div>
+</div>
+<!-- End content -->
+
+<!-- Begin footer -->
+<div class="footer_wrapper" style="float:left;">
+<div id="footer">
+<ul class="sidebar_widget">
+<li id="search-5" class="widget widget_search"><h2 class="widgettitle">SEARCH THE SITE</h2>
+<form role="search" method="get" id="searchform" class="searchform" action="http://winningdemocrats.com/">
+<div>
+<label class="screen-reader-text" for="s">Search for:</label>
+<input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Search" />
+</div>
+</form></li>
+<li id="archives-2" class="widget widget_archive"><h2 class="widgettitle">Archives</h2>
+<ul>
+<li><a href='http://winningdemocrats.com/2017/02/'>February 2017</a></li>
+<li><a href='http://winningdemocrats.com/2017/01/'>January 2017</a></li>
+<li><a href='http://winningdemocrats.com/2016/12/'>December 2016</a></li>
+<li><a href='http://winningdemocrats.com/2016/11/'>November 2016</a></li>
+<li><a href='http://winningdemocrats.com/2016/10/'>October 2016</a></li>
+<li><a href='http://winningdemocrats.com/2016/09/'>September 2016</a></li>
+<li><a href='http://winningdemocrats.com/2016/08/'>August 2016</a></li>
+<li><a href='http://winningdemocrats.com/2016/07/'>July 2016</a></li>
+<li><a href='http://winningdemocrats.com/2016/06/'>June 2016</a></li>
+<li><a href='http://winningdemocrats.com/2016/05/'>May 2016</a></li>
+<li><a href='http://winningdemocrats.com/2016/04/'>April 2016</a></li>
+<li><a href='http://winningdemocrats.com/2016/03/'>March 2016</a></li>
+<li><a href='http://winningdemocrats.com/2016/02/'>February 2016</a></li>
+<li><a href='http://winningdemocrats.com/2016/01/'>January 2016</a></li>
+<li><a href='http://winningdemocrats.com/2015/12/'>December 2015</a></li>
+<li><a href='http://winningdemocrats.com/2015/09/'>September 2015</a></li>
+</ul>
+</li>
+<li id="categories-3" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
+<label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform' >
+<option value='-1'>Select Category</option>
+<option class="level-0" value="37">2016 Election</option>
+<option class="level-0" value="326">Crime</option>
+<option class="level-0" value="8651">Donald Trump</option>
+<option class="level-0" value="374">Economics</option>
+<option class="level-0" value="149">Education</option>
+<option class="level-0" value="4985">Employment</option>
+<option class="level-0" value="32">Environment</option>
+<option class="level-0" value="1886">GOP Hypocrisy</option>
+<option class="level-0" value="38">GOP Lies</option>
+<option class="level-0" value="120">Guns</option>
+<option class="level-0" value="4983">Health</option>
+<option class="level-0" value="33">Healthcare</option>
+<option class="level-0" value="39">Human Interest</option>
+<option class="level-0" value="184">Humor</option>
+<option class="level-0" value="2872">Immigration</option>
+<option class="level-0" value="35">LGBT</option>
+<option class="level-0" value="1">News</option>
+<option class="level-0" value="40">Op-Ed</option>
+<option class="level-0" value="4713">Police Brutality</option>
+<option class="level-0" value="31">Politics</option>
+<option class="level-0" value="34">Racism</option>
+<option class="level-0" value="77">Religion</option>
+<option class="level-0" value="6418">Right-Wing Nut Jobs</option>
+<option class="level-0" value="834">Science</option>
+<option class="level-0" value="6683">Sexism</option>
+<option class="level-0" value="6684">Sexual Harassment</option>
+<option class="level-0" value="596">Social Media</option>
+<option class="level-0" value="414">Supreme Court</option>
+<option class="level-0" value="41">Terrorism</option>
+<option class="level-0" value="2291">The Media</option>
+<option class="level-0" value="8647">Top Stories</option>
+<option class="level-0" value="717">Veterans&#8217; Issues</option>
+<option class="level-0" value="36">Video</option>
+<option class="level-0" value="76">Women&#8217;s Issues</option>
+<option class="level-0" value="750">World</option>
+</select>
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+var dropdown = document.getElementById( "cat" );
+function onCatChange() {
+if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+location.href = "http://winningdemocrats.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+}
+}
+dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+</li>
+<!-- Start - HTML Javascript Adder plugin v3.9 -->
+<li id="html_javascript_adder-13" class="widget widget_html_javascript_adder"><h2 class="widgettitle">News Feed</h2>
+<div class="hjawidget textwidget">
+<script src="https://s.newsmaxfeednetwork.com/static/js/connectV5.js"></script>
+<script type="text/javascript">
+NM.init({
+widgetId: "xqzc_eyEyW3ozrPbQk9f9rtUrMCDd7bT3YuAwkEX",
+template: "NM04" 
+});
+NM.init({ 
+widgetId: "STK5jfKzuaovfUD-yyTLTFcLrWUOKO6vcHiF8w38", 
+template: "NM07", 
+articleContainer: ".post_inner_wrapper" }); 
+NM.init({
+widgetId: "2FjVZ8fOXjVB-nsN6BfdbHSPj7GwBuscZ6SZvn7Q",
+template: "NM03"  }); 
+</script>
+</div>
+</li>
+<!-- End - HTML Javascript Adder plugin v3.9 -->
+</ul>
+<br class="clear"/>
+</div>
+<div id="copyright">
+<div id="copyright_left" style="height:17px;overflow:hidden;">
+Copyright © 2015 Winning Democrats | All Rights Reserved<br /> <a href="http://winningdemocrats.com/mall">Nike Shoes 2016</a>
+</div>
+<div class="social_wrapper">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<!-- End footer -->
+</div>
+<!-- End template wrapper -->
+<!-- FB LIKE BUTTON -->
+<div id="fb-root"></div>
+<!-- START NAV TOGGLE -->
+<div id="navtoggle-wrapper" style="display:none;">
+<div class="searchwrap">
+<form role="search" method="get" id="searchform" class="searchform" action="http://winningdemocrats.com/">
+<div class="searchglass"></div>
+<input type="text" value="" name="s" id="s" placeholder="SEARCH"/>
+<!--<input type="submit" id="searchsubmit" value="Search" />-->
+</form>
+</div>
+<div class="navtoggle-wrapinner">
+<div id="navtoggle-close">&times;</div>
+<div class="navtoggle-wrapleft">
+<div class="navtoggle-header">Explore our Sections</div>
+<li class="categories">.<ul>	<li class="cat-item cat-item-37"><a href="http://winningdemocrats.com/category/2016-election/" >2016 Election</a>
+</li>
+<li class="cat-item cat-item-326"><a href="http://winningdemocrats.com/category/crime/" >Crime</a>
+</li>
+<li class="cat-item cat-item-8651"><a href="http://winningdemocrats.com/category/donald-trump/" >Donald Trump</a>
+</li>
+<li class="cat-item cat-item-374"><a href="http://winningdemocrats.com/category/economics/" >Economics</a>
+</li>
+<li class="cat-item cat-item-149"><a href="http://winningdemocrats.com/category/education/" >Education</a>
+</li>
+<li class="cat-item cat-item-4985"><a href="http://winningdemocrats.com/category/employment/" >Employment</a>
+</li>
+<li class="cat-item cat-item-32"><a href="http://winningdemocrats.com/category/environment/" >Environment</a>
+</li>
+<li class="cat-item cat-item-1886"><a href="http://winningdemocrats.com/category/gop-hypocrisy/" >GOP Hypocrisy</a>
+</li>
+<li class="cat-item cat-item-38"><a href="http://winningdemocrats.com/category/gop-lies/" >GOP Lies</a>
+</li>
+<li class="cat-item cat-item-120"><a href="http://winningdemocrats.com/category/guns/" >Guns</a>
+</li>
+<li class="cat-item cat-item-4983"><a href="http://winningdemocrats.com/category/health/" >Health</a>
+</li>
+<li class="cat-item cat-item-33"><a href="http://winningdemocrats.com/category/healthcare/" >Healthcare</a>
+</li>
+<li class="cat-item cat-item-39"><a href="http://winningdemocrats.com/category/human-interest/" >Human Interest</a>
+</li>
+<li class="cat-item cat-item-184"><a href="http://winningdemocrats.com/category/humor/" >Humor</a>
+</li>
+<li class="cat-item cat-item-2872"><a href="http://winningdemocrats.com/category/immigration/" >Immigration</a>
+</li>
+<li class="cat-item cat-item-35"><a href="http://winningdemocrats.com/category/lgbt/" >LGBT</a>
+</li>
+<li class="cat-item cat-item-1"><a href="http://winningdemocrats.com/category/news/" >News</a>
+</li>
+<li class="cat-item cat-item-40"><a href="http://winningdemocrats.com/category/op-ed/" >Op-Ed</a>
+</li>
+<li class="cat-item cat-item-4713"><a href="http://winningdemocrats.com/category/police-brutality/" >Police Brutality</a>
+</li>
+<li class="cat-item cat-item-31"><a href="http://winningdemocrats.com/category/politics/" >Politics</a>
+</li>
+<li class="cat-item cat-item-34"><a href="http://winningdemocrats.com/category/racism/" >Racism</a>
+</li>
+<li class="cat-item cat-item-77"><a href="http://winningdemocrats.com/category/religion/" >Religion</a>
+</li>
+<li class="cat-item cat-item-6418"><a href="http://winningdemocrats.com/category/right-wing-nut-jobs/" >Right-Wing Nut Jobs</a>
+</li>
+<li class="cat-item cat-item-834"><a href="http://winningdemocrats.com/category/science/" >Science</a>
+</li>
+<li class="cat-item cat-item-6683"><a href="http://winningdemocrats.com/category/sexism/" >Sexism</a>
+</li>
+<li class="cat-item cat-item-6684"><a href="http://winningdemocrats.com/category/sexual-harassment/" >Sexual Harassment</a>
+</li>
+<li class="cat-item cat-item-596"><a href="http://winningdemocrats.com/category/social-media/" >Social Media</a>
+</li>
+<li class="cat-item cat-item-414"><a href="http://winningdemocrats.com/category/supreme-court/" >Supreme Court</a>
+</li>
+<li class="cat-item cat-item-41"><a href="http://winningdemocrats.com/category/terrorism/" >Terrorism</a>
+</li>
+<li class="cat-item cat-item-2291"><a href="http://winningdemocrats.com/category/the-media/" >The Media</a>
+</li>
+<li class="cat-item cat-item-8647"><a href="http://winningdemocrats.com/category/top-stories/" >Top Stories</a>
+</li>
+<li class="cat-item cat-item-717"><a href="http://winningdemocrats.com/category/veterans-issues/" >Veterans&#039; Issues</a>
+</li>
+<li class="cat-item cat-item-36"><a href="http://winningdemocrats.com/category/video/" >Video</a>
+</li>
+<li class="cat-item cat-item-76"><a href="http://winningdemocrats.com/category/womens-issues/" >Women&#039;s Issues</a>
+</li>
+<li class="cat-item cat-item-750"><a href="http://winningdemocrats.com/category/world/" >World</a>
+</li>
+</ul></li>		</div>
+<div class="navtoggle-wrapright">
+<ul>
+<li class="8651 1886 1 " style="display:none;">
+<a href="http://winningdemocrats.com/one-of-trumps-first-executive-orders-is-severely-hurting-military-families/">
+<div class="navright-img">
+<img src="http://winningdemocrats.com/wp-content/uploads/2017/02/501319708.jpg" title="One Of Trump&#8217;s First Executive Orders Is Severely Hurting Military Families">
+</div>
+<div class="navright-title">
+<span>One Of Trump&#8217;s First Executive Orders Is Severely Hurting Military Families</span>
+</div>
+</a>
+</li>
+<li class="8651 2872 1 31 8647 " style="display:none;">
+<a href="http://winningdemocrats.com/trump-will-hate-what-these-real-patriots-hung-at-the-feet-of-the-statue-of-liberty/">
+<div class="navright-img">
+<img src="http://winningdemocrats.com/wp-content/uploads/2017/02/Liberty-Getty.jpg" title="Trump Will Hate What These REAL Patriots Hung At The Feet Of The Statue Of Liberty">
+</div>
+<div class="navright-title">
+<span>Trump Will Hate What These REAL Patriots Hung At The Feet Of The Statue Of Liberty</span>
+</div>
+</a>
+</li>
+<li class="1886 31 8647 " style="display:none;">
+<a href="http://winningdemocrats.com/this-yellow-bellied-republican-rep-threatens-to-cancel-town-hall-if-protesters-show-up-video/">
+<div class="navright-img">
+<img src="http://winningdemocrats.com/wp-content/uploads/2017/02/2017-02-22_10-37-50.jpg" title="This Yellow-Bellied Republican Rep Threatens To Cancel Town Hall If Protesters Show Up (VIDEO)">
+</div>
+<div class="navright-title">
+<span>This Yellow-Bellied Republican Rep Threatens To Cancel Town Hall If Protesters Show Up (VIDEO)</span>
+</div>
+</a>
+</li>
+<li class="8651 1 36 " style="display:none;">
+<a href="http://winningdemocrats.com/airport-security-targets-lindsey-lohan-for-wearing-headscarf-video/">
+<div class="navright-img">
+<img src="http://winningdemocrats.com/wp-content/uploads/2017/02/GettyImages-452723148.jpg" title="Airport Security Targets Lindsey Lohan For Wearing Headscarf (VIDEO)">
+</div>
+<div class="navright-title">
+<span>Airport Security Targets Lindsey Lohan For Wearing Headscarf (VIDEO)</span>
+</div>
+</a>
+</li>
+<li class="8651 1 31 " style="display:none;">
+<a href="http://winningdemocrats.com/trump-is-planning-on-deporting-non-mexican-immigrants-to-a-country-theyre-not-from/">
+<div class="navright-img">
+<img src="http://winningdemocrats.com/wp-content/uploads/2017/02/Trump-Immigrants.jpg" title="Trump Is Planning On Deporting Non-Mexican Immigrants To A Country They&#8217;re Not From">
+</div>
+<div class="navright-title">
+<span>Trump Is Planning On Deporting Non-Mexican Immigrants To A Country They&#8217;re Not From</span>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- END NAV TOGGLE -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-CR_FUckkEtQQm"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-CR_FUckkEtQQm.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<script>
+// INCLUDE AD'S INSIDE CONTENT
+jQuery(document).ready(function($){
+//return false;
+$('.middlegooglead').hide();
+var googleTop = $('.middlegooglead').offset().top - $('.topgooglead').offset().top;
+var googleBottom = $('.middlegooglead').offset().top - $('.bottomgooglead').offset().top;
+if(googleBottom <= '-800px' && googleBottom <= '-800px') {
+$('.middlegooglead').show();
+}
+console.log('to top: ' + googleTop + ' / to bottom: ' + googleBottom);	
+});
+</script>
+<script>
+// GOOGLE ANALYTICS
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-28821011-11', 'auto');
+ga('send', 'pageview');
+</script>
+<div style="display:none">
+<div class="grofile-hash-map-117e4046b24d1e7da532f32ee0cf4aa0">
+</div>
+</div>
+<link rel='stylesheet' id='gforms_reset_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/0e6e56f02fcda2da88323d15454d8a41/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/e855275d52b571f2b97c0578078b30ef/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/53dd876c0b795a908031d2c238ff9711/1487799915index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='//winningdemocrats.com/wp-content/cache/wpfc-minified/ed026aaaf0b75646bc512700027f11c2/1487799915index.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201708'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/plugins/gravityforms-master/js/jquery.json.min.js?ver=2.1.0.1'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/plugins/gravityforms-master/js/gravityforms.min.js?ver=2.1.0.1'></script>
+<script type='text/javascript' src='http://winningdemocrats.com/wp-content/plugins/gravityforms-master/js/placeholders.jquery.min.js?ver=2.1.0.1'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201708.js' async defer></script>
+<script type='text/javascript'>
+_stq = window._stq || [];
+_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'103557939',post:'33268',tz:'-6',srv:'winningdemocrats.com'} ]);
+_stq.push([ 'clickTrackerInit', '103557939', '33268' ]);
+</script>
+<script src="https://s.newsmaxfeednetwork.com/static/js/connectV5.js"></script>
+<script type="text/javascript">
+NM.init({
+widgetId: "2FjVZ8fOXjVB-nsN6BfdbHSPj7GwBuscZ6SZvn7Q",
+template: "NM07"
+});
+NM.init({
+widgetId: "-9FdLti55aQn819uvjMC80Tf000Ixnz9aSu0Oon2",
+template: "NM03"
+});
+NM.init({
+widgetId: "xqzc_eyEyW3ozrPbQk9f9rtUrMCDd7bT3YuAwkEX",
+template: "NM04"
+});
+NM.init({
+widgetId: "STK5jfKzuaovfUD-yyTLTFcLrWUOKO6vcHiF8w38",
+template: "NM12"
+articleSelector: ".post_inner_wrapper"
+});
+</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.18973898887634 seconds, on 22-02-17 15:46:55 --><!-- via php -->

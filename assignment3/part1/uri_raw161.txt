@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="en">
+<head itemscope>
+	<title>New England Patriots: One player to jail, coaches could testify in murder trial - UPI.com</title>
+	<meta name="description" content="It's an abnormal offseason for the New England Patriots when one player is headed to jail and coaches might testify in a double-murder trial." />
+	<meta name="keywords" content="Aaron Hernandez, Bill Belichick, Josh McDaniels, Robert Kraft, New England Patriots" />
+	<meta name="news_keywords" content="Aaron Hernandez, Bill Belichick, Josh McDaniels, Robert Kraft, New England Patriots">
+	<link rel="canonical" href="http://www.upi.com/Sports_News/NFL/2017/02/22/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial/7891487817947/" />
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />	<meta itemprop="publisher" content="UPI.com" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+	<link href="//fonts.googleapis.com/css?family=Droid+Serif:400,400i,700i|Lato:400,700|Montserrat:400,700" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="http://www.upi.com/upi/dw/css/upi.v9.css?sv=1" />
+	<link rel="stylesheet" type="text/css" href="http://www.upi.com/upi/dw/css/upi.v9.media.css?sv=1" />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/upi/dw/js/jquery.ph_ss.v9.js"></script>
+	<script src="http://www.upi.com/upi/dw/js/f.v9.js?sv=1"></script>
+	<meta name="google-site-verification" content="yJ-Wc2yIGJWT4MrxQ3Al2HpsnFIKVXT9KgXHHkd1IvU" />
+	<meta name="google-site-verification" content="vnkcuJA1Q89cLmy4OZpuQKOf5Jf6ny_RVh7BpxZ11a0" />
+	<meta property="og:site_name" content="UPI"/> 
+	<meta property="fb:app_id" content="130795020312660"/>	
+	<meta property="fb:pages" content="101911273177707" />
+	<meta property="og:description" content="It's an abnormal offseason for the New England Patriots when one player is headed to jail and coaches might testify in a double-murder trial."/>
+	<meta property="og:url" content="http://www.upi.com/Sports_News/NFL/2017/02/22/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial/7891487817947/"/>
+	<meta property="og:title" content="New England Patriots: One player to jail, coaches could testify in murder trial"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:image" content="http://cdnph.upi.com/sv/ph/og/upi/7891487817947/2017/1/41d8bd09351cd22b4dfc6e04a1e1f6af/v1.5/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial.jpg"/>
+	<meta property="og:image:width" content="600"/>
+	<meta property="og:image:height" content="399"/> 
+	<meta property="og:image" content="http://cdnph.upi.com/sv/ph/og/upi_com/7891487817947/2017/2/f2600dba61004401b4e86849e257a57d/v1.5/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial.jpg"/>
+	<meta property="og:image:width" content="600"/>
+	<meta property="og:image:height" content="399"/> 
+	<meta property="og:image" content="http://cdnph.upi.com/sv/ph/og/upi/7891487817947/2017/3/4a0a94d7c6297725d2314b1a100eacc9/v1.5/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial.jpg"/>
+	<meta property="og:image:width" content="600"/>
+	<meta property="og:image:height" content="400"/> 
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@UPI"> 
+	<meta name="twitter:title" content="New England Patriots: One player to jail, coaches could testify in murder trial">
+	<meta name="twitter:description" content="It's an abnormal offseason for the New England Patriots when one player is headed to jail and coaches might testify in a double-murder trial.">
+	<meta name="twitter:image" content="http://cdnph.upi.com/ph/st/th/7891487817947/2017/upi/41d8bd09351cd22b4dfc6e04a1e1f6af/v2.1/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial.jpg?lg=4">
+		
+	<meta itemprop="name" content="New England Patriots: One player to jail, coaches could testify in murder trial" />
+	<meta itemprop="datePublished" content="2017-02-22T21:50:00-05:00" />
+	<meta itemprop="author" content="Alex Butler" /> 
+	<meta itemprop="description" content="It's an abnormal offseason for the New England Patriots when one player is headed to jail and coaches might testify in a double-murder trial." />
+	<meta itemprop="image" content="http://cdnph.upi.com/sv/ph/og/upi/7891487817947/2017/1/41d8bd09351cd22b4dfc6e04a1e1f6af/v1.5/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial.jpg" />
+	<script>
+	function c_stat(u, p) {jQuery.post(u, 'ref='+encodeURIComponent(document.referrer)+'&'+p);}
+	jQuery.noConflict();
+	enl_cfg = {iframe: 1, x: 1150, y: jQuery(window).height()-50, resize: 1};
+	function upi_pt(u, t) {u = u.replace(window.location.protocol +'//' + window.location.hostname,'');ga('send', 'pageview', u);}
+	function upi_pt_c(u, t, c1, c2) {u = u.replace(window.location.protocol +'//' + window.location.hostname,'');ga('send', 'pageview', u);}
+	</script>
+	 
+<script type="application/ld+json">
+	{
+	"@context": "http://schema.org",
+	"@type": "NewsArticle",
+	"mainEntityOfPage":{
+	"@type":"WebPage",
+	"@id":"http://www.upi.com/Sports_News/NFL/2017/02/22/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial/7891487817947/"
+	},
+	 
+	"headline": "New England Patriots: One player to jail, coaches could testify in murder trial",
+		"image": {"@type": "ImageObject","url": "http://cdnph.upi.com/ph/st/th/7891487817947/2017/upi/41d8bd09351cd22b4dfc6e04a1e1f6af/v1.5/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial.jpg?lg=5","height": 1100,"width": 732},	"datePublished": "2017-02-22T21:50:00-05:00",
+	"dateModified": "2017-02-22T21:50:00-05:00",
+		"author": {"@type": "Person","name": "Alex Butler"},		"publisher": {"@type": "Organization","name": "UPI","logo": {"@type": "ImageObject","url": "http://www.upi.com/img/upi_logo_ndc.png","width": 68,"height": 39}},
+	"potentialAction": {"@type": "SearchAction","target": "http://www.upi.com/search?ss={search_term_string}","query-input": "required name=search_term_string"}
+		,"description": "It's an abnormal offseason for the New England Patriots when one player is headed to jail and coaches might testify in a double-murder trial."	}
+</script>
+	
+	
+
+<script>var PREBID_TIMEOUT = 1200;var adUnits = [{code: 'div-ad-top', sizes: [[970,250],[970,90],[728,90]], bids: [{bidder: 'aol',params: {placement: '4410618',network: '9870.1'}}]},{code: 'div-ad-r', sizes: [[300,1050],[300,600] [300,250]], bids: [{bidder: 'aol',params: {placement: '4410619',network: '9870.1'}}]},{code: 'div-ad-r1', sizes: [[300, 600],[300, 250]], bids: [{bidder: 'aol',params: {placement: '4410620',network: '9870.1'}}]},{code: 'div-ad-rel_embed', sizes: [[300,250]], bids: [{bidder: 'aol',params: {placement: '4407415',network: '9870.1'}}]},{code: 'div-ad-btf', sizes: [[728,90]], bids: [{bidder: 'aol',params: {placement: '4407423',network: '9870.1'}}]}];var pbjs = pbjs || {};pbjs.que = pbjs.que || [];</script>
+<script type='text/javascript' src='//vlibs.advertising.com/prebid/adapters=openx,appnexus,rubicon,aol,indexExchange,sovrn,adform,sonobi,brealtime;/prebid-1.x.x.js' async></script>
+<script>
+var googletag = googletag || {};googletag.cmd = googletag.cmd || [];googletag.cmd.push(function() {googletag.pubads().disableInitialLoad();});pbjs.que.push(function() {pbjs.enableAnalytics({provider: 'aol',options: {}});pbjs.addAdUnits(adUnits);pbjs.requestBids({timeout: PREBID_TIMEOUT,bidsBackHandler: function() {googletag.cmd.push(function() {pbjs.que.push(function() {pbjs.setTargetingForGPTAsync();googletag.pubads().refresh();});});}});});
+</script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+	if(document.referrer) {
+		var rf =  document.referrer.match(/:\/\/(.[^/]+)/)[1];
+		if(rf) {googletag.pubads().setTargeting('Referral', rf);}
+	}
+	googletag.pubads().setTargeting('ArticleID', '7891487817947');
+	googletag.pubads().setTargeting('PageType', 'Article');
+	googletag.pubads().setTargeting('Section', 'sports');
+	googletag.pubads().setTargeting('SubSection', 'football');
+	googletag.pubads().setTargeting('Author', 'Alex Butler');
+gam_top = googletag.defineSlot('/1009753/UPI_728x90_ATF', [[970,250],[728, 90]], 'div-ad-top').addService(googletag.pubads());
+	googletag.defineSlot('/1009753/UPI_728x90_BTF', [728, 90], 'div-ad-btf').addService(googletag.pubads());
+	gam_right = googletag.defineSlot('/1009753/UPI_300x250_R', [[300, 250], [300, 1050], [300, 600], [160, 600]], 'div-ad-r').addService(googletag.pubads());
+	gam_right1 = googletag.defineSlot('/1009753/UPI_300x250_R1', [[300, 250], [160, 600]], 'div-ad-r1').addService(googletag.pubads());
+	
+	googletag.defineSlot('/1009753/UPI_1x1_ROS', [1, 1], 'div-ad-1x1').addService(googletag.pubads()); 
+	googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+});
+
+
+
+
+</script>
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "15071286" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=15071286&cv=2.0&cj=1" />
+</noscript>
+	<link rel="shortcut icon" href="http://www.upi.com/favicon.ico" />
+	<link rel="alternate" type="application8/rss+xml" title="UPI.com - Latest Stories" href="http://rss.upi.com/news/news.rss" /><script type="text/javascript">if(rr = location.hash.toString().match('ph([0-9]+)')) {if(rr[1]) window.location = 'http://www.upi.com/Sports_News/NFL/2017/02/22/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial/7891487817947/ph'+rr[1]+'/';}</script> 
+<script async type='text/javascript' src='//cdn.connatix.com/min/connatix.renderer.infeed.min.js' data-connatix-token='cd03d45b-2e01-4b6f-9525-3c78f6e9dfe2'></script> 
+</head>
+<body>
+		<header>
+			
+	
+	<div id="tc_nav">
+		<div style="max-width: 1195px; margin: 0 auto;">
+			<div class="m_nav_ico" style="padding: 15px 15px 0 0; float: right;" onclick="mn_init();"><span></span></div>
+			<a href="http://www.upi.com/?utm_source=upi&utm_campaign=nav&utm_medium=logo" class="main_logo"><img src="http://www.upi.com/upi/dw/img/upi_logo.svg" class="udc_logo"></a>
+	<script>
+	function upi_srch() {
+		var cont = jQuery('nav #s_dd');
+		if (cont.is(":visible")) {
+			cont.fadeOut(100, function() {jQuery('nav #top_nav .tl_nav.f').fadeIn(100);});
+		} else {
+			jQuery('nav #top_nav .tl_nav.f').fadeOut(100, function() {cont.fadeIn(100, function() {jQuery('.ss_af').focus();});});
+		}
+	}
+	</script>
+	
+	<nav>
+		<ul id="top_nav">
+			<li class="m" style="padding-top: 20px;">
+			<a href="http://www.upi.com/?utm_source=upi&utm_campaign=nav&utm_medium=logo_m"><img src="http://www.upi.com/upi/dw/img/logo_clr.png"></a>
+			<div class="m_nav_ico" style="float:right;margin-right:25px;" onclick="mn_init();"><span></span></div><div style="clear: both;"></div></li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Top_News/?utm_source=upi&utm_campaign=nav&utm_medium=tn" title="Top News">Top News</a>
+				<span class="expand ps" data-uid="tn"></span>
+				<ul class="sb_tns tn">
+					<li class="tn_s"><a href="http://www.upi.com/Top_News/US/?utm_source=upi&utm_campaign=nav&utm_medium=tn_us" title="U.S. News">U.S. News</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Top_News/World-News/?utm_source=upi&utm_campaign=nav&utm_medium=tn_wn" title="World News">World News</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Top_News/Voices/?utm_source=upi&utm_campaign=nav&utm_medium=tn_an" title="Voices">Voices</a></li>
+				</ul>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Entertainment_News/?utm_source=upi&utm_campaign=nav&utm_medium=en" title="Entertainment">Entertainment</a>
+				<span class="expand ps" data-uid="en"></span>
+				<ul class="sb_tns en">
+					<li class="tn_s"><a href="http://www.upi.com/Entertainment_News/Movies/?utm_source=upi&utm_campaign=nav&utm_medium=en_mo" title="Movies">Movies</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Entertainment_News/Music/?utm_source=upi&utm_campaign=nav&utm_medium=en_mu" title="Music">Music</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Entertainment_News/TV/?utm_source=upi&utm_campaign=nav&utm_medium=en_tv" title="TV">TV</a></li>
+				</ul>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Odd_News/?utm_source=upi&utm_campaign=nav&utm_medium=on" title="Odd News">Odd News</a>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Defense-News/?utm_source=upi&utm_campaign=nav&utm_medium=dfn" title="Defense">Defense</a>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Energy-News/?utm_source=upi&utm_campaign=nav&utm_medium=eng" title="Energy">Energy</a>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Sports_News/?utm_source=upi&utm_campaign=nav&utm_medium=spn" title="Sports">Sports</a>
+				<span class="expand ps" data-uid="spn"></span>
+				<ul class="sb_tns spn">
+					<li class="tn_s"><a href="http://www.upi.com/2016-fantasy-football/?utm_source=upi&utm_campaign=nav&utm_medium=ffb" title="Fantasy Football">Fantasy Football </a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/NFL/?utm_source=upi&utm_campaign=nav&utm_medium=nfl" title="NFL">NFL</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/NBA/?utm_source=upi&utm_campaign=nav&utm_medium=nba" title="NBA">NBA</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/MLB/?utm_source=upi&utm_campaign=nav&utm_medium=mlb" title="MLB">MLB</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/NHL/?utm_source=upi&utm_campaign=nav&utm_medium=nhl" title="NHL">NHL</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/Golf/?utm_source=upi&utm_campaign=nav&utm_medium=gf" title="Golf">Golf</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/Tennis/?utm_source=upi&utm_campaign=nav&utm_medium=te" title="Tennis">Tennis</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/College-Football/?utm_source=upi&utm_campaign=nav&utm_medium=fbc" title="College Football">College Football</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/College-Basketball/?utm_source=upi&utm_campaign=nav&utm_medium=bkc" title="College Basketball">College Basketball</a></li>
+				</ul>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Science_News/?utm_source=upi&utm_campaign=nav&utm_medium=scn" title="Science">Science</a>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Health_News/?utm_source=upi&utm_campaign=nav&utm_medium=hn" title="Health">Health</a>
+			</li>
+			<li class="tl_nav f"><a href="http://www.upi.com/News_Photos/?utm_source=upi&utm_campaign=nav&utm_medium=ph" title="Photos">Photos</a>
+				<span class="expand ps" data-uid="ph"></span>
+				<ul class="sb_tns ph">
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/latest/?utm_source=upi&utm_campaign=nav&utm_medium=la" title="Latest Photos">Latest Photos</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/2016-Olympics/?utm_source=upi&utm_campaign=nav&utm_medium=ol" title="2016 Olympics">2016 Olympics</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/News/?utm_source=upi&utm_campaign=nav&utm_medium=nw" title="News">News</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/Entertainment/?utm_source=upi&utm_campaign=nav&utm_medium=en" title="Entertainment">Entertainment</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/Sports/?utm_source=upi&utm_campaign=nav&utm_medium=sp" title="Sports">Sports</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/Features/?utm_source=upi&utm_campaign=nav&utm_medium=fe" title="Features">Features</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/Archives/?utm_source=upi&utm_campaign=nav&utm_medium=ar" title="Archives">Archives</a></li>
+				</ul>
+			</li>
+			<li class="tl_nav f"><a href="http://www.upi.com/Archives/?utm_source=upi&utm_campaign=nav&utm_medium=arc" title="Archive">Archive</a>
+				<span class="expand ps" data-uid="arc"></span>
+				<ul class="sb_tns arc">
+					<li class="tn_s"><a href="http://www.upi.com/Top_News/2017/02/22/UPI-Almanac-for-Wednesday-Feb-22-2017/4071487511673/?utm_source=upi&utm_campaign=nav&utm_medium=al" title="The Almanac">The Almanac</a></li>
+				</ul>
+			</li>
+						<li class="tl_nav m">
+				<a href="http://www.upi.com/search/?utm_source=upi&utm_campaign=nav&utm_medium=search_m" title="Search">Search</a>
+			</li>
+			<li class="tl_nav m soc">
+								<a href="https://facebook.com/unitedpress" target="_blank" title="Facebook"><img src="/upi/dw/img/clear.gif" class="rf_ico w f"  title="Facebook" alt="Facebook"></a>
+								<a href="https://twitter.com/upi" target="_blank" title="Twitter"><img src="/upi/dw/img/clear.gif" class="rf_ico w t"  title="Twitter" alt="Twitter"></a>
+								<a href="https://plus.google.com/+UpiNews/posts" target="_blank" title="Google+"><img src="/upi/dw/img/clear.gif" class="rf_ico w g"  title="Google+" alt="Google+"></a>
+								<a href="https://instagram.com/upi" target="_blank" title="Instagram"><img src="/upi/dw/img/clear.gif" class="rf_ico w is"  title="Instagram" alt="Instagram"></a>
+							</li>
+										
+			<li class="tl_nav f t_s_i nm">
+				<a href="#" class="ip" onclick="upi_srch(); return false;" title="search"><img src="http://www.upi.com/img/clear.gif" class="s_ico upi_spr"  title="search" alt="search"></a>
+			</li>
+					</ul>
+		<div id="s_dd">
+			<img src="http://www.upi.com/img/clear.gif" class="close upi_spr"  title="search" alt="search" onclick="upi_srch();">
+			<form method="get" action="/search" id="t_srch">
+				<img src="http://www.upi.com/img/clear.gif" class="s_ico upi_spr"  title="search" alt="search" style="position: absolute; left: 10px; top: 7px; ">
+				<input type="hidden" name="utm_source" value="upi">
+				<input type="hidden" name="utm_campaign" value="nav">
+				<input type="hidden" name="utm_medium" value="search">
+				<input type="submit" value="FIND" class="btn">
+				<input type="text" name="ss" value="" placeholder="Type in your Search Term" class="in no_style ss_af" id="upi_t_sb">
+			</form>
+			<script>jQuery(document).ready(function() {jQuery("#upi_t_sb").autocomplete({source: "/ac.io"}).on( "autocompleteselect", function( event, ui ) {} ).autocomplete("widget").addClass("stac");});</script>
+		</div>
+		<div style="clear: both;"></div>
+	</nav>
+	
+			
+			
+		
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+	</header>
+	<div id="pgt"></div>
+	<div id="tc_b" align="center">
+		<div class="ad_slot"><div align='center'><div id='div-ad-top' style='min-height: 90px'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-ad-top'); });</script></div></div>
+</div>	</div>
+
+<div class="ad_slot"><div id='div-ad-1x1' style='width:1px; height:1px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-ad-1x1'); });</script></div>
+</div>	<div style="clear: both;"></div>
+	
+	
+	<div id="px_f">
+		<div id="px" class="sv">
+		<div style="clear: both;"></div>
+	<div style="clear: both;"></div>
+		<div class="c_p">
+				<div class="breadcrumb grey">
+			<a href="http://www.upi.com/" title="Home">Home</a> 
+			 / 
+			<a href="http://www.upi.com/Sports_News/" title="Sports News">Sports News</a> 			 / <a href="http://www.upi.com/Sports_News/NFL/" title="NFL">NFL</a>		</div>
+				<h1 class="st_headline title" itemprop="headline">New England Patriots: One player to jail, coaches could testify in murder trial</h1>
+				<div style="clear: both;"></div>
+		<div class="meta grey">
+						By <a href="http://www.upi.com/author/Alex-Butler/">Alex Butler</a> 
+			
+			
+			 
+			
+			 &nbsp;&nbsp;|&nbsp;&nbsp;						Feb. 22, 2017 at 9:50 PM						<div style="display: inline; padding: 0 10px;" class="tw_if"><a href="https://twitter.com/upisports" class="twitter-follow-button" data-show-count="false">Follow @upisports</a></div><style type="text/css">.tw_if iframe{vertical-align: bottom;}</style>		</div>
+		<div style="clear: both;"></div>
+					<div id="share_ico_c" class="ico_s_1 top_sh_x">
+											<div class="top_sh_in_x">
+						<div class="ico sia_x"><div class="cmt ib" onclick="upi_cmt_t();"><img src="/img/clear.gif" class="upi_spr" title="Comments" alt="Comments"><a href="#comments" onclick="return false;"><span class="fb_cm_cnt"><span class="fb-comments-count" data-href="http://upi.com/6497014"></span></span> Comments</a></div></div>
+						<div class="ico sib_x" onclick="upi_share_1.fb(); return false;"><div class="ib f"><img src="/img/clear.gif" class="upi_spr" title="share with facebook" alt="share with facebook"></div></div>
+			<div class="ico sib_x"><a class="tw_btn_ln" href="https://twitter.com/intent/tweet?url=http://upi.com/6497014t&text=New+England+Patriots%3A+One+player+to+jail%2C+coaches+could+testify+in+murder+trial&via=upisports"><div class="ib t"><img src="/img/clear.gif" class="upi_spr" title="share with twitter" alt="share with twitter"></div></a></div>
+									<div class="ico sib_x" onclick="upi_ol.go('/email?ol=2&u=http%3A%2F%2Fupi.com%2F6497014&t='+encodeURIComponent(document.title), {iframe: 1, x: 500, y: 700, resize: 0});"><div class="ib e" title="email"><img src="/img/clear.gif" class="upi_spr"></div></div>
+			<div class="ico sib_x" onclick="window.open('http://www.upi.com/Sports_News/NFL/2017/02/22/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial/7891487817947/print', '_blank', 'width=700,height=600,scrollbars=yes,resizable=yes');" title="print"><div class="ib p"><img src="/img/clear.gif" class="upi_spr"></div></div>			
+			
+									
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+	<div style="clear: both;"></div>
+		
+	
+	<script>
+		function upi_cmt_t() {
+						if(jQuery('#share_ico_c').hasClass('fixed_fl')) {
+				upi_ol.go('/upi/dw/comments?u=http%3A%2F%2Fupi.com%2F6497014',  {iframe: 1, x: 650, y: jQuery(window).height()-50, resize: 1});
+			}else{
+				jQuery.scrollTo('.upi_c_top', {offset: {top: -100}})
+			}
+		}
+		var	upi_share_1 = {
+			su: 'http://upi.com/6497014',
+			fb: function() {
+				FB.ui({method: 'feed', link: upi_share_1.su+'f'}, function(response) {});
+			},
+			hvr: null
+		}
+				window.twttr = (function (d,s,id) {
+		  var t, js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+		  js.src="https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+		  return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+		}(document, "script", "twitter-wjs"));				
+			</script>
+	</div>
+		<div class="c_ab">
+			<div class="c_p">
+				<div id="c_story">
+					
+							<div style="margin-bottom: 10px; border-bottom: 1px solid #cccccc;">
+			<div id="ph_sS" class="sPh7891487817947">
+				<div class="ph mxy">
+															<div class="ph_n l pnn" data-nav="p"><img src="/img/clear.gif" class="upi_spr_v"></div>
+					<div class="ph_n r pnn" data-nav="n"><img src="/img/clear.gif" class="upi_spr_v"></div>
+															
+					<div class="rt"><span>1</span> of 3</div>
+															
+					
+										<div class="pi"></div>
+					<div class="ph_c" onclick="ph_sSsPh7891487817947.go(ph_sSsPh7891487817947.n);">
+						<div class="img" id="ph1"><img src="http://cdnph.upi.com/svc/sv/upi/7891487817947/2017/1/41d8bd09351cd22b4dfc6e04a1e1f6af/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial.jpg" ></div>
+						<div class="img2" id="ph2"><img src="/img/clear.gif"  style="display: none;"></div>
+						<div id="ph_emb" align="center"></div>
+						<div style="clear: both;"></div>
+					</div>
+				</div>
+								<div class="caption" style="padding: 10px 10px 0 10px;">
+								<script type="text/javascript">
+					document.write('New England Patriots tight end Aaron Hernandez takes off his helmet during warms up before the AFC Championship game against the Baltimore Ravens at Gillette Stadium in Foxboro, Massachusetts on January 22, 2012.   UPI/Matthew Healey');
+				</script>
+								<div class="lp" onclick="lic_photo('41d8bd09351cd22b4dfc6e04a1e1f6af');"> | <span class="blu_l">License Photo</span></div>				</div>
+				<div style="clear: both;"></div>
+			</div>
+		</div>
+	<div style="clear: both;"></div>
+	<script type="text/javascript">
+		sS_jssPh7891487817947 = {"t":3,"photos":{"1":{"p":"http:\/\/cdnph.upi.com\/svc\/sv\/upi\/7891487817947\/2017\/1\/41d8bd09351cd22b4dfc6e04a1e1f6af\/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial.jpg","id":"41d8bd09351cd22b4dfc6e04a1e1f6af","src":"upi","c":"New England Patriots tight end Aaron Hernandez takes off his helmet during warms up before the AFC Championship game against the Baltimore Ravens at Gillette Stadium in Foxboro, Massachusetts on January 22, 2012.   UPI\/Matthew Healey","xy":[600,399],"lp":1},"2":{"p":"http:\/\/cdnph.upi.com\/svc\/sv\/upi_com\/7891487817947\/2017\/2\/f2600dba61004401b4e86849e257a57d\/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial.jpg","id":"f2600dba61004401b4e86849e257a57d","src":"upi_com","c":"New England Patriots wide receiver Michael Floyd warms up on the field several hours before the start of Super Bowl LI on Feb. 5, 2017 at NRG Stadium in Houston.  (EPA\/TANNEN MAURY)","xy":[600,399]},"3":{"p":"http:\/\/cdnph.upi.com\/svc\/sv\/upi\/7891487817947\/2017\/3\/4a0a94d7c6297725d2314b1a100eacc9\/New-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial.jpg","id":"4a0a94d7c6297725d2314b1a100eacc9","src":"upi","c":"New England Patriots defensive coordinator Matt Patricia (L-R), head coach Bill Belichick, offensive coordinator Josh McDaniels and special teams coach Joe Judge celebrate after defeating the Atlanta Falcons in Super Bowl LI at NRG Stadium in Houston on February 5, 2017. The Patriots defeated the Falcons 34-28 in the Super Bowl's first overtime game.    Photo by Brian Kersey\/UPI","xy":[600,400],"lp":1}}};
+	</script>
+	<script type="text/javascript" src="/upi/dw/js/photo_ss.v2.js?u=http%3A%2F%2Fwww.upi.com%2FSports_News%2FNFL%2F2017%2F02%2F22%2FNew-England-Patriots-One-player-to-jail-coaches-could-testify-in-murder-trial%2F7891487817947%2F&js_f=sPh7891487817947&c=1&pn=1&ra=gam_right&max_y=431&pn_xtr=ph&nnf=1&p=3&n=2"></script>
+					
+											<div class="st_text_c">
+																			
+												<article itemprop="articleBody"><div id="article">
+<p><span class="story_dl">Feb. 22 (UPI) --</span> It's an abnormal offseason for the <a href="http://www.upi.com/topic/New_England_Patriots/" title="New England Patriots" class="tpstyle">New England Patriots</a> when one player is headed to jail and coaches might testify in a double-murder trial.</p>
+<p><a href="http://www.upi.com/topic/Bill_Belichick/" title="Bill Belichick" class="tpstyle">Bill Belichick</a> and <a href="http://www.upi.com/topic/Josh_McDaniels/" title="Josh McDaniels" class="tpstyle">Josh McDaniels</a> could be involved in <a href="http://www.upi.com/topic/Aaron_Hernandez/" title="Aaron Hernandez" class="tpstyle">Aaron Hernandez</a>'s double murder case, <a class="tpstyle" href="https://www.bostonglobe.com/metro/2017/02/22/aaron-hernandez-juror-looking-for-something/TicTLL7ZlGb60yixassOgJ/story.html" target="_blank" title="Globe on Patriots">according to the <em>Boston Globe</em></a>. Wide receiver Michael Floyd was recently <a class="tpstyle" href="http://www.upi.com/Sports_News/NFL/2017/02/17/New-England-Patriots-Michael-Floyd-sentenced-to-four-months-in-jail/3241487366954/" target="_blank" title="UPI on Hernandez">sentenced to four months in jail</a> for a December DUI.<div align="center"> <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2273204076532554";
+/* UPI 300x250 InRead ROS */
+google_ad_slot = "6964009394";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div></p>
+<p>The former Patriots tight end pleaded not guilty to shooting and killing two men in 2012. He is already serving a life sentence for killing Odin Lloyd in 2013.</p>
+<p>Patriots owner <a href="http://www.upi.com/topic/Robert_Kraft/" title="Robert Kraft" class="tpstyle">Robert Kraft</a> testified in the Lloyd trial, while Belichick was also on the witness list.</p>
+<p>During his testimony, Kraft told the judge that Hernandez <a class="tpstyle" href="http://www.si.com/nfl/2015/03/31/aaron-hernandez-trial-robert-kraft-testifies" target="_blank" title="SI on Hernandez">told him he was innocent</a>.</p>
+<p>Hernandez, 27, is charged with killing Daniel de Abreu and Safiro Furtado in 2012. The duo was killed in an alleged drive-by shooting.</p>
+<p>Opening statements for the case are set for March 1. Hernandez played in 38 games for the Patriots, before being released.</p>
+</div></article>
+							<div style="margin: 20px 0; font-style: italic; font-weight: bold;">Follow us on <a href="https://facebook.com/unitedpress" target="_blank">Facebook</a>, <a href="https://twitter.com/upi" target="_blank">Twitter</a>, and <a href="https://www.instagram.com/upi/" target="_blank">Instagram</a> for more news from UPI.com</div>
+													<div style="clear: both; margin-bottom: 10px;"></div>
+						
+<div style="width: 320px; float: right;"></div>
+
+	<div style="">
+		<div style="font-size: 16px; color: #224455; font-weight: bold;">Related UPI Stories</div>
+		<style type="text/css">
+		.rec_stories_sp	{ margin-top: 5px; list-style: disc; }
+		.rec_stories_sp li	{ margin-bottom: 10px; padding-left: 10px;  margin-left: 20px; }
+		</style>
+		
+		<ul class="rec_stories_sp">
+		
+		
+		<li class=""><a href="http://www.upi.com/Sports_News/NBA/2017/02/22/Dwyane-Wade-Chris-Bosh-have-weekend-boat-trip-in-Miami/5861487816250/?st_rec=7891487817947"  title="Dwyane Wade, Chris Bosh have weekend boat trip in Miami">Dwyane Wade, Chris Bosh have weekend boat trip in Miami</a>
+		
+		<li class=""><a href="http://www.upi.com/Sports_News/MLB/2017/02/22/Colby-Rasmus-pleases-haters-by-shaving-beard/6831487812513/?st_rec=7891487817947"  title="Colby Rasmus pleases haters by shaving beard">Colby Rasmus pleases haters by shaving beard</a>
+		
+		<li class=""><a href="http://www.upi.com/Sports_News/NBA/2017/02/22/Atlanta-Hawks-Twitter-account-gets-feisty-with-fans-about-trade-rumors/6831487811674/?st_rec=7891487817947"  title="Atlanta Hawks Twitter account gets feisty with fans about trade rumors">Atlanta Hawks Twitter account gets feisty with fans about trade rumors</a>
+				</ul>
+		
+		</div>
+							
+						<div style="clear: both;"></div>
+						
+						
+				<div id="share_ico_c" class="ico_s_2">
+					<div class="bottom_sh_in_x">
+									<div class="ico"><div class="cmt ib"><img src="/img/clear.gif" class="upi_spr" title="Comments" alt="Comments"><a href="#comments" onclick="jQuery.scrollTo('.upi_c_top', {offset: {top: -100}}); return false;"><span class="fb_cm_cnt"><span class="fb-comments-count" data-href="http://upi.com/6497014"></span></span> Comments</a></div></div>
+						<div class="ico"><a href="#" onclick="upi_share_2.fb(); return false;"><div class="ib f"><img src="/img/clear.gif" class="upi_spr" title="share with facebook" alt="share with facebook"></div></a></div>
+			<div class="ico"><a class="tw_btn_ln" href="https://twitter.com/intent/tweet?url=http://upi.com/6497014t&text=New+England+Patriots%3A+One+player+to+jail%2C+coaches+could+testify+in+murder+trial&via=upisports"><div class="ib t"><img src="/img/clear.gif" class="upi_spr" title="share with twitter" alt="share with twitter"></div></a></div>
+			<div class="ico share_input" onclick="jQuery(this).find('input').focus();"><div class="ib_l l"><img src="/img/clear.gif" class="upi_spr"><input type="text" value="http://upi.com/6497014" onclick="jQuery(this).select();"><div style="clear: both;"></div></div></div>
+
+									
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+	<div style="clear: both;"></div>
+		
+	
+	<script>
+		function upi_cmt_t() {
+						if(jQuery('#share_ico_c').hasClass('fixed_fl')) {
+				upi_ol.go('/upi/dw/comments?u=http%3A%2F%2Fupi.com%2F6497014',  {iframe: 1, x: 650, y: jQuery(window).height()-50, resize: 1});
+			}else{
+				jQuery.scrollTo('.upi_c_top', {offset: {top: -100}})
+			}
+		}
+		var	upi_share_2 = {
+			su: 'http://upi.com/6497014',
+			fb: function() {
+				FB.ui({method: 'feed', link: upi_share_2.su+'f'}, function(response) {});
+			},
+			hvr: null
+		}
+			</script>
+												<div style="clear: both; border-bottom: 1px solid #cccccc;"></div>
+						<div style="font-size: 10pt; margin-top: 10px;">Topics: <a href="http://www.upi.com/topic/Aaron_Hernandez/">Aaron Hernandez</a>, <a href="http://www.upi.com/topic/Bill_Belichick/">Bill Belichick</a>, <a href="http://www.upi.com/topic/Josh_McDaniels/">Josh McDaniels</a>, <a href="http://www.upi.com/topic/Robert_Kraft/">Robert Kraft</a>, <a href="http://www.upi.com/topic/New_England_Patriots/">New England Patriots</a></div>												
+	</div>
+							<script type="text/javascript">c_stat('/story/stat/7891487817947/', 'bl=Alex Butler');</script> 
+						<div style="clear: both; margin: 20px 0;"></div>
+						<ins class="adbladeads" data-cid="13899-2480782411" data-host="web.adblade.com" data-tag-type="4" style="display:none"></ins>
+<script async src="http://web.adblade.com/js/ads/async/show.js" type="text/javascript"></script>						<div style="clear: both; margin-top: 20px;"></div>
+							<div class="upi_c_top"></div>
+	<a name="comments" id="comments_top"></a>
+	<div id="fb_comments"><div class="fb-comments" data-href="http://upi.com/6497014" data-version="v2.3" data-width="100%"></div></div>
+		<div style="margin: 10px 0 ; padding: 10px 0 20px 0; border-bottom: 1px solid #cccccc;" class="feat_rel">
+			<div style="float: left; width: 50%;" class="ph_ol_grad">
+				<div style="margin-right: 10px; position: relative;">
+					<div style="width: 100%;">
+						<div class="sec_tg">Trending</div>
+						<a href="http://www.upi.com/News_Photos/Features/Notable-Deaths-of-2016/fp/9855/?spt=rec_feat&or=1&r=7891487817947">
+						<div class="ph">
+													<div style="max-height: 150px; overflow: hidden;"><img src="http://cdnph.upi.com/related/9411481829763/1/v2.1/5fff3addf99a7f24223f6cf04d1d7e4c/upi/Notable-Deaths-of-2016.jpg" style="width: 100%;" class="photo"></div>							<div class="t_desc">Notable Deaths of 2016</div>
+						</div>
+						
+						</a>
+					</div>
+				</div>
+			</div>
+						<div style="float: left; width: 50%;" class="ph_ol_grad">
+				<div style="margin-left: 10px; position: relative;">
+					<div style="width: 100%;">
+						<div class="sec_tg">Next Article</div>
+						<a href="http://www.upi.com/Sports_News/Tennis/2017/02/22/Angelique-Kerber-tops-Monica-Puig-advances-to-quarterfinals-in-Dubai/6071487816866/?spt=rec_feat&or=2&r=7891487817947">
+						<div class="ph">
+													<div style="max-height: 150px; overflow: hidden;"><img src="http://cdnph.upi.com/ph/st/th/6071487816866/2017/upi/ceb4ddeff0336305474ff8bd80e8d11b/v2.1/Angelique-Kerber-tops-Monica-Puig-advances-to-quarterfinals-in-Dubai.jpg" style="width: 100%;" class="photo"></div>							<div class="t_desc">Angelique Kerber tops Monica Puig, advances to quarterfinals in Dubai</div>
+						</div>
+						
+						</a>
+					</div>
+				</div>
+			</div>
+						<div style="clear: both;"></div>
+		</div>
+						<div style="clear: both;"></div>
+			<style type="text/css">
+		#fifo_hl .upi_item .hl	{ font-size: 16pt; }
+		</style>
+		
+		<div id="fifo_hl">
+			<div class="h_dbl_l">Latest Headlines</div>
+	<div class="upi_item" onclick="window.location = 'http://www.upi.com/Sports_News/NFL/2017/02/23/Dan-Marino-5-others-sign-1-day-contracts-to-officially-retire-as-Miami-Dolphins/5941487827248/?spt=slh&or=1';">
+		<a href="http://www.upi.com/Sports_News/NFL/2017/02/23/Dan-Marino-5-others-sign-1-day-contracts-to-officially-retire-as-Miami-Dolphins/5941487827248/?spt=slh&or=1" title="Dan Marino, 5 others, sign 1-day contracts to officially retire as Miami Dolphins">
+		<img src="http://cdnph.upi.com/ph/st/th/5941487827248/2017/upi/090b2266ee3a35361c96d65b066b99be/v1.2/Dan-Marino-5-others-sign-1-day-contracts-to-officially-retire-as-Miami-Dolphins.jpg?lg=1" class="photo" title="Dan Marino, 5 others, sign 1-day contracts to officially retire as Miami Dolphins" alt="Dan Marino, 5 others, sign 1-day contracts to officially retire as Miami Dolphins">		    		    <span class="hl">Dan Marino, 5 others, sign 1-day contracts to officially retire as Miami Dolphins</span>
+		    		    <span class="p">2 hours ago ago</span>
+		    		    		    <div class="desc"> Dan Marino is calling it a career, a short 18 years after playing his final game for the Miami Dolphins.</div>
+		    	    </a>
+		<div style="clear: both;"></div>
+	</div>
+	<div style="clear: both;"></div>
+	<div class="upi_item" onclick="window.location = 'http://www.upi.com/Sports_News/NFL/2017/02/23/San-Francisco-49ers-new-brass-meets-with-Colin-Kaepernick/5851487827181/?spt=slh&or=2';">
+		<a href="http://www.upi.com/Sports_News/NFL/2017/02/23/San-Francisco-49ers-new-brass-meets-with-Colin-Kaepernick/5851487827181/?spt=slh&or=2" title="San Francisco 49ers' new brass meets with Colin Kaepernick">
+		<img src="http://cdnph.upi.com/ph/st/th/5851487827181/2017/upi/1ca678b6c945d1577fe3faf835a27883/v1.2/San-Francisco-49ers-new-brass-meets-with-Colin-Kaepernick.jpg?lg=1" class="photo" title="San Francisco 49ers' new brass meets with Colin Kaepernick" alt="San Francisco 49ers' new brass meets with Colin Kaepernick">		    		    <span class="hl">San Francisco 49ers' new brass meets with Colin Kaepernick</span>
+		    		    <span class="p">2 hours ago ago</span>
+		    		    		    <div class="desc"> Colin Kaepernick met with newly hired San Francisco 49ers coach Kyle Shanahan and general manager John Lynch on Wednesday.</div>
+		    	    </a>
+		<div style="clear: both;"></div>
+	</div>
+	<div style="clear: both;"></div>
+	<div class="upi_item" onclick="window.location = 'http://www.upi.com/Sports_News/NFL/2017/02/23/Ex-NFLPA-head-Ed-Garvey-dead-at-76/2921487826769/?spt=slh&or=3';">
+		<a href="http://www.upi.com/Sports_News/NFL/2017/02/23/Ex-NFLPA-head-Ed-Garvey-dead-at-76/2921487826769/?spt=slh&or=3" title="Ex-NFLPA head Ed Garvey dead at 76">
+		<img src="http://cdnph.upi.com/ph/st/th/2921487826769/2017/i/14878268445697/v1.2/Ex-NFLPA-head-Ed-Garvey-dead-at-76.jpg?lg=1" class="photo" title="Ex-NFLPA head Ed Garvey dead at 76" alt="Ex-NFLPA head Ed Garvey dead at 76">		    		    <span class="hl">Ex-NFLPA head Ed Garvey dead at 76</span>
+		    		    <span class="p">2 hours ago ago</span>
+		    		    		    <div class="desc"> Ed Garvey, who was the NFL Players Association's first executive director, died Wednesday. He was 76.</div>
+		    	    </a>
+		<div style="clear: both;"></div>
+	</div>
+	<div style="clear: both;"></div>
+	<div class="upi_item" onclick="window.location = 'http://www.upi.com/Sports_News/NFL/2017/02/23/Deshaun-Watson-wants-Dallas-Cowboys-to-draft-him-trade-Dak-Prescott/2711487825898/?spt=slh&or=4';">
+		<a href="http://www.upi.com/Sports_News/NFL/2017/02/23/Deshaun-Watson-wants-Dallas-Cowboys-to-draft-him-trade-Dak-Prescott/2711487825898/?spt=slh&or=4" title="Deshaun Watson wants Dallas Cowboys to draft him, trade Dak Prescott">
+		<img src="http://cdnph.upi.com/ph/st/th/2711487825898/2017/upi/562931e8ab4ed18c3ac70c1cd1a0f6e7/v1.2/Deshaun-Watson-wants-Dallas-Cowboys-to-draft-him-trade-Dak-Prescott.jpg?lg=1" class="photo" title="Deshaun Watson wants Dallas Cowboys to draft him, trade Dak Prescott" alt="Deshaun Watson wants Dallas Cowboys to draft him, trade Dak Prescott">		    		    <span class="hl">Deshaun Watson wants Dallas Cowboys to draft him, trade Dak Prescott</span>
+		    		    <span class="p">2 hours ago ago</span>
+		    		    		    <div class="desc">Feb. 22 (UPI) -- National champion Deshaun Watson has a solution for the Dallas Cowboys' quarterback dilemma.</div>
+		    	    </a>
+		<div style="clear: both;"></div>
+	</div>
+	<div style="clear: both;"></div>
+	<div class="upi_item last" onclick="window.location = 'http://www.upi.com/Sports_News/NFL/2017/02/22/Watch-Detroit-Lions-special-teamer-performs-trick-snap-under-a-camel-in-Jordan/2641487819979/?spt=slh&or=5';">
+		<a href="http://www.upi.com/Sports_News/NFL/2017/02/22/Watch-Detroit-Lions-special-teamer-performs-trick-snap-under-a-camel-in-Jordan/2641487819979/?spt=slh&or=5" title="Watch: Detroit Lions' special teamer performs trick snap under a camel in Jordan">
+		<img src="http://cdnph.upi.com/ph/st/th/2641487819979/2017/i/14878201927850/v1.2/Watch-Detroit-Lions-special-teamer-performs-trick-snap-under-a-camel-in-Jordan.jpg?lg=1" class="photo" title="Watch: Detroit Lions' special teamer performs trick snap under a camel in Jordan" alt="Watch: Detroit Lions' special teamer performs trick snap under a camel in Jordan">		    		    <span class="hl">Watch: Detroit Lions' special teamer performs trick snap under a camel in Jordan</span>
+		    		    <span class="p">4 hours ago ago</span>
+		    		    		    <div class="desc">Feb. 22 (UPI) -- When in Petra, Jordan you have to show off your long snapping skills.</div>
+		    	    </a>
+		<div style="clear: both;"></div>
+	</div>
+	<div style="clear: both;"></div>
+		</div>
+		<div style="clear: both;"></div>
+<div id="unit_88054"><a href="http://upi.com/">UPI Latest</a></div>
+<script type="text/javascript" charset="utf-8">
+  (function() {
+    var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+    sc.src = '//news.fark.com/data/js/88054.js'; sc.charset = 'utf-8';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+  }());
+</script>
+							
+					<div style="clear: both;"></div>
+									</div>
+				<div style="clear: both;"></div>
+			</div>
+		</div>
+	
+	
+		
+	
+	
+		<div class="c_c sv"><div class="c_p_20"><div class="ad_slot"><div id='div-ad-r' style='text-align: center;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-ad-r'); });</script></div>
+</div>				<div class="h_dbl_l">Trending Stories</div>
+						<div class="upi_item rc_mp mp mpr1" onclick="window.location = 'http://www.upi.com/Sports_News/2017/02/22/UFC-Derrick-Lewis-keeps-flirting-with-Ronda-Rousey-after-knocking-out-boyfriend/6321487709855/?utm_source=upi&utm_campaign=mp&utm_medium=1';">
+											<img src="http://cdnph.upi.com/ph/st/th/6321487709855/2017/upi/d49eb0ae915ae3aa867a4c57d74e01af/v1.2/UFC-Derrick-Lewis-keeps-flirting-with-Ronda-Rousey-after-knocking-out-boyfriend.jpg?lg=1" title="UFC: Derrick Lewis keeps flirting with Ronda Rousey after knocking out boyfriend" alt="UFC: Derrick Lewis keeps flirting with Ronda Rousey after knocking out boyfriend">
+											<span class="hl"><a href="http://www.upi.com/Sports_News/2017/02/22/UFC-Derrick-Lewis-keeps-flirting-with-Ronda-Rousey-after-knocking-out-boyfriend/6321487709855/?utm_source=upi&utm_campaign=mp&utm_medium=1" title="UFC: Derrick Lewis keeps flirting with Ronda Rousey after knocking out boyfriend">UFC: Derrick Lewis keeps flirting with Ronda Rousey after knocking out boyfriend</a></span>
+						<div style="clear: both;"></div>
+					</div>
+							<div class="upi_item rc_mp mp mpr2" onclick="window.location = 'http://www.upi.com/Sports_News/2017/02/22/Danica-Patrick-estimates-dozen-concussions-in-NASCAR-career/8441487787345/?utm_source=upi&utm_campaign=mp&utm_medium=2';">
+											<img src="http://cdnph.upi.com/ph/st/th/8441487787345/2017/upi/36c4fe19aedd8582ea6b53e0a9ea9802/v1.2/Danica-Patrick-estimates-dozen-concussions-in-NASCAR-career.jpg?lg=1" title="Danica Patrick estimates dozen concussions in NASCAR career" alt="Danica Patrick estimates dozen concussions in NASCAR career">
+											<span class="hl"><a href="http://www.upi.com/Sports_News/2017/02/22/Danica-Patrick-estimates-dozen-concussions-in-NASCAR-career/8441487787345/?utm_source=upi&utm_campaign=mp&utm_medium=2" title="Danica Patrick estimates dozen concussions in NASCAR career">Danica Patrick estimates dozen concussions in NASCAR career</a></span>
+						<div style="clear: both;"></div>
+					</div>
+							<div class="upi_item rc_mp mp mpr3" onclick="window.location = 'http://www.upi.com/Sports_News/NFL/2017/02/22/Cleveland-Browns-Top-free-agency-NFL-draft-needs-for-2017/2721487745539/?utm_source=upi&utm_campaign=mp&utm_medium=3';">
+											<img src="http://cdnph.upi.com/ph/st/th/2721487745539/2017/upi/8b6315bc18e923fae1bdf36bd60bb6ee/v1.2/Cleveland-Browns-Top-free-agency-NFL-draft-needs-for-2017.jpg?lg=1" title="Cleveland Browns: Top free agency, NFL draft needs for 2017" alt="Cleveland Browns: Top free agency, NFL draft needs for 2017">
+											<span class="hl"><a href="http://www.upi.com/Sports_News/NFL/2017/02/22/Cleveland-Browns-Top-free-agency-NFL-draft-needs-for-2017/2721487745539/?utm_source=upi&utm_campaign=mp&utm_medium=3" title="Cleveland Browns: Top free agency, NFL draft needs for 2017">Cleveland Browns: Top free agency, NFL draft needs for 2017</a></span>
+						<div style="clear: both;"></div>
+					</div>
+							<div class="upi_item rc_mp mp mpr4" onclick="window.location = 'http://www.upi.com/Sports_News/Golf/2017/02/21/2017-Honda-Classic-10-picks-to-win/1081487712427/?utm_source=upi&utm_campaign=mp&utm_medium=4';">
+											<img src="http://cdnph.upi.com/ph/st/th/1081487712427/2017/upi/e518b2ad3fb04e59a5b8d490e10ccdc9/v1.2/2017-Honda-Classic-10-picks-to-win.jpg?lg=1" title="2017 Honda Classic: 10 picks to win" alt="2017 Honda Classic: 10 picks to win">
+											<span class="hl"><a href="http://www.upi.com/Sports_News/Golf/2017/02/21/2017-Honda-Classic-10-picks-to-win/1081487712427/?utm_source=upi&utm_campaign=mp&utm_medium=4" title="2017 Honda Classic: 10 picks to win">2017 Honda Classic: 10 picks to win</a></span>
+						<div style="clear: both;"></div>
+					</div>
+							<div class="upi_item rc_mp mp mpr5" onclick="window.location = 'http://www.upi.com/Sports_News/NFL/2017/02/21/Green-Bay-Packers-Top-free-agency-NFL-draft-needs-for-2017/7371487712850/?utm_source=upi&utm_campaign=mp&utm_medium=5';">
+											<img src="http://cdnph.upi.com/ph/st/th/7371487712850/2017/upi/daa90ea9d41f2bd1ba16cd59eb66053e/v1.2/Green-Bay-Packers-Top-free-agency-NFL-draft-needs-for-2017.jpg?lg=1" title="Green Bay Packers: Top free agency, NFL draft needs for 2017" alt="Green Bay Packers: Top free agency, NFL draft needs for 2017">
+											<span class="hl"><a href="http://www.upi.com/Sports_News/NFL/2017/02/21/Green-Bay-Packers-Top-free-agency-NFL-draft-needs-for-2017/7371487712850/?utm_source=upi&utm_campaign=mp&utm_medium=5" title="Green Bay Packers: Top free agency, NFL draft needs for 2017">Green Bay Packers: Top free agency, NFL draft needs for 2017</a></span>
+						<div style="clear: both;"></div>
+					</div>
+			<div style="clear: both;"></div>
+			
+			<style type="text/css">
+	#more_collections .blk2_1, 
+	#more_collections .blk2_2	{ width: 47%; float: left; margin-bottom: 10px; }
+	#more_collections .blk2_1	{ clear: left; }
+	#more_collections .blk2_1.mr	{ margin-right: 6%;}
+			
+			</style>
+			
+			
+			<div id="more_collections">
+				<div class="h_dbl_l">More Collections</div>
+				<a href="http://www.upi.com/Entertainment_News/Photos/Photos-from-the-2017-Sports-Illustrated-Swimsuit-issue-launch-event/fp/10915/?spt=rel_sp&cnt=1" title="2017 SI Swimsuit issue launch">
+				<div class="blk2_1 mr">
+					<img src="http://cdnph.upi.com/related/8861487351639/1/v1.2/e3515e318d3b46e55e26074ebea98825/upi/2017-SI-Swimsuit-issue-launch.jpg" title="2017 SI Swimsuit issue launch" alt="2017 SI Swimsuit issue launch" style="width: 100%;">
+					<div class="t_desc">2017 SI Swimsuit issue launch</div>
+				</div>
+				</a>
+				<a href="http://www.upi.com/Sports_News/Photos/Super-Bowl-LI-New-England-Patriots-vs-Atlanta-Falcons/fp/10887/?spt=rel_sp&cnt=2" title="Best of Super Bowl LI">
+				<div class="blk2_2 mr">
+					<img src="http://cdnph.upi.com/related/8861487351639/2/v1.2/6759bb9daac6c8f47395d54b8b5cc63f/upi/Best-of-Super-Bowl-LI.jpg" title="Best of Super Bowl LI" alt="Best of Super Bowl LI" style="width: 100%;">
+					<div class="t_desc">Best of Super Bowl LI</div>
+				</div>
+				</a>
+				<a href="http://www.upi.com/Entertainment_News/Photos/14000-copies-of-Jerry-Maguire-on-VHS-tape-find-a-home-in-Los-Angeles/fp/10843/?spt=rel_sp&cnt=3" title="14k copies of Jerry Maguire on VHS">
+				<div class="blk2_1 mr">
+					<img src="http://cdnph.upi.com/related/8861487351639/3/v1.2/88e867b7061ab7fd651a8669a8f7038f/upi/14k-copies-of-Jerry-Maguire-on-VHS.jpg" title="14k copies of Jerry Maguire on VHS" alt="14k copies of Jerry Maguire on VHS" style="width: 100%;">
+					<div class="t_desc">14k copies of Jerry Maguire on VHS</div>
+				</div>
+				</a>
+				<a href="http://www.upi.com/Entertainment_News/Photos/Lada-Gaga-headlines-2017-Super-Bowl-halftime-show/fp/10888/?spt=rel_sp&cnt=4" title="2017 Super Bowl halftime show">
+				<div class="blk2_2 mr">
+					<img src="http://cdnph.upi.com/related/8861487351639/4/v1.2/30d6af0fd24082f8ab365ceb954e410d/upi/2017-Super-Bowl-halftime-show.jpg" title="2017 Super Bowl halftime show" alt="2017 Super Bowl halftime show" style="width: 100%;">
+					<div class="t_desc">2017 Super Bowl halftime show</div>
+				</div>
+				</a>
+			</div>
+			<div style="clear: both;"></div>
+			<div id="rcst"></div>
+			<div id="rc_r1"><div class="ad_slot"><div id='div-ad-r1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-ad-r1'); });</script></div>
+</div></div>
+						<style type="text/css">
+			.rcf	{ position: fixed; top: 100px; margin-left: 10px; z-index: 5; }
+			</style>
+
+			<script>
+			var adrfd = null;
+			var r1st = null;
+			function rc_ad() {
+				rcst = jQuery('#rcst').position();
+				rcft = jQuery('#p_footer').position();
+				if(wnd_st+jQuery('#rc_r1').height()+200 > rcft.top) {
+					jQuery('#rc_r1').removeClass('rcf');
+				} else if (
+				wnd_st > rcst.top-100
+				) {
+					if(!r1st) r1st = wnd_st;
+					jQuery('#rc_r1').addClass('rcf');
+					if(!adrfd && (r1st+1000) < wnd_st) {
+						googletag.pubads().refresh([gam_right1]);
+						adrfd = 1;
+					}
+				}else{
+					jQuery('#rc_r1').removeClass('rcf');
+				}
+			}
+			jQuery(document).ready(function() {
+				rc_ad();
+				jQuery(window).resize(function() {
+					rc_ad();
+				}).scroll(function() {
+				rc_ad();
+				});
+			});
+		</script>
+		
+			
+	
+	
+</div></div>				<div style="clear: both;"></div>
+
+
+	</div>
+	
+	
+	</div>
+</div>
+
+
+			<div style="text-align: center; width: 730px; margin: 0 auto 50px auto;">
+			<div class="ad_slot"><div id='div-ad-btf' style='margin: 20px auto;' align='center'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-ad-btf'); });</script></div>
+</div>		</div>
+	
+	<div id="p_footer">
+		<div class="xy">
+			<div class="ip">
+				<div class="c_a">
+					<div class="hdr">Explore UPI</div>
+										<div class="exp_sec">
+						<ul>						<li><a href="http://www.upi.com/Top_News/?utm_source=upi&utm_campaign=ftr&utm_medium=tn" title="Top News">Top News</a>
+</li>
+												<li><a href="http://www.upi.com/Entertainment_News/?utm_source=upi&utm_campaign=ftr&utm_medium=en" title="Entertainment News">Entertainment News</a>
+</li>
+												<li><a href="http://www.upi.com/Odd_News/?utm_source=upi&utm_campaign=ftr&utm_medium=on" title="Odd News">Odd News</a>
+</li>
+												<li><a href="http://www.upi.com/Sports_News/?utm_source=upi&utm_campaign=ftr&utm_medium=spn" title="Sports News">Sports News</a>
+</li>
+												</ul>
+					</div>
+										<div class="exp_sec">
+						<ul>						<li><a href="http://www.upi.com/Science_News/?utm_source=upi&utm_campaign=ftr&utm_medium=scn" title="Science News">Science News</a>
+</li>
+												<li><a href="http://www.upi.com/Health_News/?utm_source=upi&utm_campaign=ftr&utm_medium=hn" title="Health News">Health News</a>
+</li>
+												<li><a href="http://www.upi.com/News_Photos/?utm_source=upi&utm_campaign=ftr&utm_medium=" title="News Photos">News Photos</a>
+</li>
+												<li><a href="http://www.upi.com/Top_News/World-News/?utm_source=upi&utm_campaign=ftr&utm_medium=tn_wn" title="World News">World News</a>
+</li>
+												<li><a href="http://www.upi.com/Top_News/US/?utm_source=upi&utm_campaign=ftr&utm_medium=tn_us" title="U.S. News">U.S. News</a>
+</li>
+												</ul>
+					</div>
+										<div class="exp_sec">
+						<ul>						<li><a href="http://www.upi.com/Energy-News/?utm_source=upi&utm_campaign=ftr&utm_medium=eng" title="Energy News">Energy News</a>
+</li>
+												<li><a href="http://www.upi.com/Defense-News/?utm_source=upi&utm_campaign=ftr&utm_medium=dfn" title="Defense News">Defense News</a>
+</li>
+												<li><a href="http://www.upi.com/Archives/?utm_source=upi&utm_campaign=ftr&utm_medium=" title="UPI Archives">UPI Archives</a>
+</li>
+												</ul>
+					</div>
+										<div style="clear: both;"></div>
+					<div style="margin: 30px 0; display: block;">
+												<a itemprop="sameAs" href="https://facebook.com/unitedpress" target="_blank" title="Facebook"><img src="/upi/dw/img/clear.gif" class="rf_ico w f"  title="Facebook" alt="Facebook"></a>
+												<a itemprop="sameAs" href="https://twitter.com/upi" target="_blank" title="Twitter"><img src="/upi/dw/img/clear.gif" class="rf_ico w t"  title="Twitter" alt="Twitter"></a>
+												<a itemprop="sameAs" href="https://plus.google.com/+UpiNews/posts" target="_blank" title="Google+"><img src="/upi/dw/img/clear.gif" class="rf_ico w g"  title="Google+" alt="Google+"></a>
+												<a itemprop="sameAs" href="https://instagram.com/upi" target="_blank" title="Instagram"><img src="/upi/dw/img/clear.gif" class="rf_ico w is"  title="Instagram" alt="Instagram"></a>
+												<a itemprop="sameAs" href="https://www.pinterest.com/upicom/" target="_blank" title="Pinterest"><img src="/upi/dw/img/clear.gif" class="rf_ico w p"  title="Pinterest" alt="Pinterest"></a>
+												<a itemprop="sameAs" href="https://www.linkedin.com/company/united-press-international" target="_blank" title="Linkedin"><img src="/upi/dw/img/clear.gif" class="rf_ico w in"  title="Linkedin" alt="Linkedin"></a>
+												<div style="clear: both;"></div>
+					</div>
+					<div style="clear: both;"></div>
+				</div>
+				<div class="c_b">
+					<div class="hdr">United Press International</div>
+					<div class="desc">
+						<p>United Press International is a leading provider of news, photos and information to millions of readers around the globe via UPI.com and its licensing services.
+						<p>With a history of reliable reporting dating back to 1907, today's UPI is a credible source for the most important stories of the day, continually updated  - a one-stop site for U.S. and world news, as well as entertainment, trends, science, health and stunning photography. UPI also provides insightful reports on key topics of geopolitical importance, including energy and security.
+					</div>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+		</div>
+		<div class="c_fa">
+			<div class="xy">
+				<div class="ip">
+					<form method="post" action="/accounts/register/?spt=fp" id="ftr_mailer">
+					<input type="hidden" name="from_rc" value="1">
+					<div class="ca">Stay up to Date</div>
+					<div class="cb"><input type="name" name="name" placeholder="Your name" class="txt" required="1"></div>
+					<div class="cc"><input type="email" name="email" placeholder="Email address" class="txt" required="1"></div>
+					<div class="cd"><input type="submit" value="Subscribe" class="btn"></div></form>
+					<div style="clear: both;"></div>
+				</div>
+			</div>
+		</div>
+		<div class="c_fb">
+			<div class="xy">
+				<div class="ip">
+					<a href="http://www.upi.com/"><img src="http://www.upi.com/upi/dw/img/logo_clr.png" class="logo"></a>
+					<ul>
+						<li><a href="http://www.upi.com/accounts/" target="_blank">Login</a></li>
+						<li><a href="http://about.upi.com/contact/" target="_blank">Contact</a></li>
+						<li><a href="http://about.upi.com/advertising/advertise-online" target="_blank">Advertise Online with UPI</a></li>
+						<li><a href="http://www.upi.com/feedback/news-tips" target="_blank">Submit News Tips</a></li>
+						<li><span class="u_link" style="color: #ffffff !important;" onclick="window.open('/feedback?u='+encodeURI(window.location)+'&x='+wnd_x+'&y='+wnd_y, '_blank', 'width=700,height=600,scrollbars=yes,resizable=yes');">Feedback</span></li>
+					</ul>
+					<div style="clear: both;"></div>
+				</div>
+			</div>
+		</div>
+		<div class="c_fc">
+			<div class="xy">
+				<div class="ip">
+					Copyright &copy; 2017 United Press International, Inc. All Rights Reserved.
+					<div style="float: right;"><a href="http://about.upi.com/terms" target="_blank">TERMS OF USE</a> | <a href="http://about.upi.com/privacy-policy" target="_blank">PRIVACY POLICY</a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript">(function () {var po = document.createElement('script');po.type = 'text/javascript';po.async = true;po.src = 'https://plus.google.com/js/client:plusone.js?onload=start';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po, s);})();</script>
+	<div id="fb-root"></div>
+	<script>window.fbAsyncInit = function() {FB.init({appId : '130795020312660',xfbml : true,version : 'v2.3'});};(function(d, s, id){var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) {return;}js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+	<script type="text/javascript">
+	    (function() {
+	        function async_load(script_url){
+	            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+	            var s = document.createElement('script'); s.src = protocol + script_url;
+	            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+	        }
+	        bm_website_code = 'A0E473E745A945B1';
+	        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+	        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+	    })();
+	</script>
+
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-1342607-1', 'auto');
+	ga('require', 'displayfeatures'); 
+	ga('set', 'dimension1', 'Alex Butler'); 
+	ga('set', 'dimension5', '4'); 
+	ga('send', 'pageview');	</script>	
+	
+	
+<script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    _sf_async_config.uid = 4027;
+    _sf_async_config.domain = 'www.upi.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = 'NFL';    _sf_async_config.authors = 'Alex Butler';
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function() {
+                oldonload();
+                loadChartbeat();
+            };
+    })();
+</script>	
+	
+ 
+
+		<script type="text/javascript">
+		function chk_cxy() {fn_cxy(jQuery('.c_ab'), jQuery('.c_c'), 360);}		jQuery(document).ready(function() {chk_cxy();jQuery(window).resize(function() {chk_cxy();});}).resize(function() {chk_cxy();});
+	</script>
+	</body>
+</html>
