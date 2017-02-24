@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<!--[if lte IE 7]><html class="lte-ie7" lang="en"><![endif]-->
+<!--[if IE 8]><html class="ie8" lang="en"><![endif]-->
+<!--[if gte IE 9]><!--><html lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="google-site-verification" content="VMEhSFG-Y2SZWoQMpe2U1ecNgLbqF0eEmXyubnpO-WE">
+  <meta name="p:domain_verify" content="dc2c1feb7f88489ef9b24b708d533bc3"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>MAKERS + NFL Women's Summit</title>
+  <meta property="article:publisher" content="https://www.facebook.com/makerswomen" />
+  <meta name="viewport" content="width=device-width, user-scalable=0, initial-scale=1.0" />
+  <!--[if lte IE 8]>
+  <script type="text/javascript" src="/sites/all/themes/makers/js/lib/css3-mediaqueries.js"></script>
+  <![endif]-->
+  <script type="text/javascript" async>
+    (function() {
+      var config = {
+        kitId: 'gfm2zxi'
+      };
+      var d = false;
+      var tk = document.createElement('script');
+      tk.src = '//use.typekit.net/' + config.kitId + '.js';
+      tk.type = 'text/javascript';
+      tk.async = 'true';
+      tk.onload = tk.onreadystatechange = function() {
+        var rs = this.readyState;
+        if (d || rs && rs != 'complete' && rs != 'loaded') return;
+        d = true;
+        try { Typekit.load(config); } catch (e) {}
+      };
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(tk, s);
+    })();
+  </script>
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/makers/img/favicon_114.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/makers/img/favicon_72.png">
+  <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/makers/img/favicon_57.png">
+  <link rel="stylesheet" type="text/css" href="/sites/all/themes/makers/css/nfl-womens-summit-fba26baa22.min.css">
+  <link rel="canonical" href="/nflwomenssummit" />
+<meta content="NFL Women&#039;s Summit" about="/nflwomenssummit" property="dc:title" />
+<meta about="/nflwomenssummit" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<meta name="description" content="MAKERS is proud to be the exclusive livestream partner of the second NFL Women&#039;s Summit at Super Bowl LI, that streamed live February 3-4, 2017." />
+<meta property="og:title" content="NFL Women&#039;s Summit" />
+<meta property="og:description" content="MAKERS is proud to be the exclusive livestream partner of the second NFL Women&#039;s Summit at Super Bowl LI, that streamed live February 3-4, 2017." />
+<meta property="og:site_name" content="MAKERS" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.makers.com/nflwomenssummit" />
+<meta property="fb:app_id" content="852781118133338" />
+<meta property="twitter:site" content="@makerswomen" />
+</head>
+<body>
+  <a href="/">
+    <img id="makers-nfl-back" src="/sites/all/themes/makers/img/makers-back-button.png" height="58" width="81" alt="Back to Makers" />
+  </a>
+  <div class="restrict-width center-block margin-bottom-small">
+    <img id="makers-nfl-logo" class="center-block" src="/sites/all/themes/makers/img/makers-nfl-logo.png"
+      alt="MAKERS + NFL Women's Summit" />
+  </div>
+  <section class="restrict-width center-block margin-bottom-small">
+    <script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?hasCompanion=0&height=auto&width=100&ratio=1&responsive=true&sid=577&colorPallet=%23FFFFFF&playerSkinType=5&videoControlDisplayColor=%23757575&playList=5897cd6be3bb562feb0a8cde&overlay=1&videoGroupID=&relatedMode=0&continuous=1&wmode=transparent&onReady=playerSeedOnReady&onTimeUpdate=handleTimeUpdate&onVideoDataLoaded=videoDataLoaded&autoStart=0&pid=56f2b70de4b04ca7ad39e5ab"></script>  </section>
+  <section class="restrict-width center-block margin-bottom-small">
+    <iframe id="pulse-iframe" src="https://i.engage.ms/NFLWS" class="center-block"
+      height="1600" width="100%" frameBorder="0" style="display: block; max-width: 767px; background-color: #000;">
+    </iframe>
+  </section>
+  <section class="restrict-width center-block margin-bottom-small">
+    <div class="padding">
+      <div class="title">
+        THE NFL WOMEN’S SUMMIT: PLAYS FOR LIFE | WATCH HERE AND PARTICIPATE IN LIVE POLLS
+      </div>
+      <p>MAKERS is proud to be the exclusive livestream partner of the second NFL Women&#39;s Summit at Super Bowl LI, that streamed live February 3-4, 2017.</p>
+<p>Building on the success of the inaugural NFL Women&#39;s Summit that was exclusively livestreamed on MAKERS.com at Super Bowl 50 in San Francisco, the NFL evolves 2017&#39;s Summit into a dynamic and interactive experience for teens and adults alike. Nearly 300 teen girls from across the Houston, TX area will come together with a wide range of leaders to inspire young women to be whatever they want to be in life, and highlight the important role that advocates play in reaching those goals.</p>
+<p>Watch the first part of the summit in the player above and the remaining segments below.</p>
+<p><strong>PART 2</strong></p>
+<center>
+	<!-- TAG START { player: "Player: The NFL Women's Summit: Plays for Life | Part 2", owner: "Makers AOL", for: "Makers AOL" } -->
+	<div class="vdb_player vdb_5899ff47cc52c76ef503b7b4568b7c55ff690a17e0a1568d" id="5899ff47cc52c76ef503b7b4">
+		<script type="text/javascript" src="//delivery.vidible.tv/jsonp/pid=5899ff47cc52c76ef503b7b4/568b7c55ff690a17e0a1568d.js"></script></div>
+	<!-- TAG END { date: 02/07/17 } --></center>
+<p><strong>PART 3</strong></p>
+<center>
+	<!-- TAG START { player: "Player: The NFL Women's Summit: Plays for Life | Part 3", owner: "Makers AOL", for: "Makers AOL" } -->
+	<div class="vdb_player vdb_5899ff7354dea30b43173d4b568b7c55ff690a17e0a1568d" id="5899ff7354dea30b43173d4b">
+		<script type="text/javascript" src="//delivery.vidible.tv/jsonp/pid=5899ff7354dea30b43173d4b/568b7c55ff690a17e0a1568d.js"></script></div>
+	<!-- TAG END { date: 02/07/17 } --></center>
+<p><strong>PART 4</strong></p>
+<center>
+	<!-- TAG START { player: "Player: The NFL Women's Summit: Plays for Life | Part 4", owner: "Makers AOL", for: "Makers AOL" } -->
+	<div class="vdb_player vdb_5899ff91e3bb564bbcacfdc0568b7c55ff690a17e0a1568d" id="5899ff91e3bb564bbcacfdc0">
+		<script type="text/javascript" src="//delivery.vidible.tv/jsonp/pid=5899ff91e3bb564bbcacfdc0/568b7c55ff690a17e0a1568d.js"></script></div>
+	<!-- TAG END { date: 02/07/17 } --></center>
+<p><strong>#NFLWomensSummit</strong></p>
+<div>
+	<a class="twitter-hashtag-button" href="https://twitter.com/intent/tweet?button_hashtag=NFLWomensSummit&amp;text=https://goo.gl/kBd8wD">Tweet #NFLWomensSummit</a></div>
+    </div>
+  </section>
+  <script async>
+      // this allows us to scroll to sections and resize the iframe dynamically
+      (function() {
+          try {
+              var getOrigin = function(url) {
+                  var f = '://', idx = url.indexOf(f), s = url.substring(0, idx),
+                      ms = url.substring(idx + f.length), dp = ms.substring(0, ms.indexOf('/') || ms.length);
+                  return s + f + dp;
+              };
+
+              var hs, pi = document.getElementById('pulse-iframe'), t = { height: 0, scroll: 1, ping: 2, pong: 3 },
+                  targetOrigin = getOrigin(pi.getAttribute('src')), selfOrigin = getOrigin(window.location.toString());
+              var receiveMessage = function(e) {
+                  if (e.origin !== targetOrigin) {
+                      return;
+                  }
+                  if (!e.data) {
+
+                      return;
+                  }
+                  var d = JSON.parse(e.data);
+                  if (d.type === t.height && d.value > 0) {
+                      pi.height = d.value;
+                  } else if (d.type === t.scroll) {
+                      var rect = pi.getBoundingClientRect();
+                      // reset scroll to iframe
+                      window.scrollBy(0, rect.top);
+                      // scoll down d.value more
+                      window.scrollBy(0, d.value - 60);
+                  } else if (d.type === t.ping) {
+                      var m = { type: t.pong, value: d.value };
+                      pi.contentWindow.postMessage(JSON.stringify(m), targetOrigin);
+                  }
+              };
+              window.addEventListener('message', receiveMessage, false);
+
+              // send first ping message so two way communication is setup
+              var startup = function() {
+                  hs = true;
+                  var m = { type: t.ping, origin: selfOrigin };
+                  pi.contentWindow.postMessage(JSON.stringify(m), targetOrigin);
+              };
+              // load immediately or in 5 seconds try
+              pi.onload = startup;
+              // onload will be called more than once if the inner page reloads
+              setTimeout(function() { if (!hs) { startup(); } }, 5000);
+          } catch(err) { }
+      })();
+  </script>
+
+  <script>
+    var MAKERS_CONFIG = {
+        isMobile: false
+    };
+    try {
+        MAKERS_CONFIG.isMobile = window.matchMedia('(max-device-width: 758px)').matches;
+    } catch(e) {}
+</script>
+
+  <script async>
+    window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+    return t;
+  }(document, "script", "twitter-wjs"));</script>
+
+  
+
+<script type="text/javascript">
+    // A/B Testing
+    var abTestingLoader = function(testName) {
+        var random        = Math.random(),
+            carouselDelay;
+
+        var abCreateCookie = function (name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = '; expires='+date.toGMTString();
+            }
+            else var expires = '';
+            document.cookie = name+'='+value+expires+'; path=/';
+        };
+
+        var abReadCookie = function (name) {
+            var nameEQ = name + '=';
+            var ca = document.cookie.split(';');
+            for(var i=0;i < ca.length;i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            }
+            return null;
+        };
+        var abEraseCookie = function (name) {
+            self.createCookie(name,'',-1);
+        };
+
+        var abTestingCookie = function(testId) {
+            setTimeout(function() {
+                abCreateCookie('mkABTesting'+testId, 1, 365);
+            },500);
+        };
+
+        var testOption = function(testName, testId, var14Value) {
+            try {
+                MAKERS_CONFIG.eVar14 = var14Value;
+                MAKERS_CONFIG.cobrand = testId;
+            } catch(e) {
+            }
+        }
+
+        if (abReadCookie('mkABTesting0')) {
+            testOption(testName, 'control', 'makers|dlrot|control');
+            MAKERS_CONFIG.carouselDelay = 5;
+        } else if (abReadCookie('mkABTesting1')) {
+            testOption(testName, '8sec', 'makers|dlrot|8sec');
+            MAKERS_CONFIG.carouselDelay = 8;
+        } else if (random < 0.5) { // 50% control
+            testOption(testName, 'control', 'makers|dlrot|control');
+            abTestingCookie(0);
+            MAKERS_CONFIG.carouselDelay = 5;
+        } else { // 50% test 1
+            testOption(testName, '8sec', 'makers|dlrot|8sec');
+            abTestingCookie(1);
+            MAKERS_CONFIG.carouselDelay = 8;
+        };
+    };
+
+    // A/B test for carousel pause time
+    abTestingLoader('carouselTime');
+
+    bN_cfg = {
+        h: location.hostname,
+        b: "b.makers.com",
+        p: {
+            dL_ch: "us.makers",
+            dL_dpt: "main",
+            dL_sDpt: "main",
+            dL_cmsID: "",
+            cms_src: "Drupal",
+            cobrand: MAKERS_CONFIG.cobrand
+        }
+    };
+
+    function runOmni() {
+        s_265.pfxID="mak";
+        s_265.pageName="nfl womens summit main";
+        s_265.channel="us.makers";
+        s_265.linkInternalFilters="javascript:,makers.com";
+        s_265.prop1="nfl womens summit";
+        s_265.prop2="main";
+        s_265.prop6="spo_makers";
+        s_265.prop9="";
+        s_265.prop16="";
+        s_265.prop19="";
+        s_265.prop22="";
+        s_265.prop23="01-30-2017";
+        s_265.eVar11="";
+        s_265.prop52="";
+        s_265.prop59="";
+        s_265.prop54="drupal";
+        s_265.prop62="video_5min_entrybody";
+        s_265.prop65="original_content";
+        if ("" != "") {
+            s_265.prop69="";
+        }
+        s_265.prop6custom="spo_makers";
+        if ("" != "") {
+            s_265.prop70="";
+        }
+        
+        s_265.events="";
+        s_265.mmxgo=true;
+        if (MAKERS_CONFIG.eVar14) {
+            s_265.eVar14 = MAKERS_CONFIG.eVar14;
+        }
+        
+        
+        var s_code=s_265.t();
+    }
+
+    s_265_account ="aolmakers,aolsvc";
+
+    (function(){
+        var d = document, s = d.createElement('script');
+        s.type = 'text/javascript';
+        s.src = (location.protocol == 'https:' ? 'https://s' : 'http://o') + '.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture.min.js';
+        d.getElementsByTagName('head')[0].appendChild(s);
+    })();
+</script></body>
+</html>

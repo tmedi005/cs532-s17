@@ -1,0 +1,1572 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" >
+<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.fanragsports.com/feed/" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.fanragsports.com/feed/rss/" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.fanragsports.com/feed/atom/" />
+<link rel="pingback" href="http://www.fanragsports.com/xmlrpc.php" />
+
+<meta property="og:image" content="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2015/04/15165030/hernandez.jpg" />
+<meta name="twitter:image" content="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2015/04/15165030/hernandez.jpg" />
+
+<meta property="og:type" content="article" />
+<meta property="og:description" content="New England Patriots head coach Bill Belichick may be called to testify at former tight end Aaron Hernandez&#8217;s double murder trial if his name is chosen off the defense&#8217;s witness list. Offensive coordinator Josh McDaniels is also mentioned on the same list, as the defense prepares their witnesses in a 2012 case in which Hernandez [&hellip;]" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="http://www.fanragsports.com/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/">
+<meta name="twitter:title" content="Report: Patriots&#8217; Bill Belichick may have to testify at Aaron Hernandez&#8217;s trial">
+<meta name="twitter:description" content="New England Patriots head coach Bill Belichick may be called to testify at former tight end Aaron Hernandez&#8217;s double murder trial if his name is chosen off the defense&#8217;s witness list. Offensive coordinator Josh McDaniels is also mentioned on the same list, as the defense prepares their witnesses in a 2012 case in which Hernandez [&hellip;]">
+
+
+<title>Report: Bill Belichick May Have To Testify At Aaron Hernandez&#039;s Trial</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="New England Patriots head coach Bill Belichick may be called to testify at former tight end Aaron Hernandez&#039;s double murder trial if his ..."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.fanragsports.com/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/" />
+<link rel="publisher" href="https://plus.google.com/+FanRagSports/posts"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Report: Bill Belichick May Have To Testify At Aaron Hernandez&#039;s Trial" />
+<meta property="og:description" content="New England Patriots head coach Bill Belichick may be called to testify at former tight end Aaron Hernandez&#039;s double murder trial if his ..." />
+<meta property="og:url" content="http://www.fanragsports.com/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/" />
+<meta property="og:site_name" content="FanRag Sports" />
+<meta property="article:publisher" content="https://www.facebook.com/FanRagSports/" />
+<meta property="article:tag" content="FRS News" />
+<meta property="article:tag" content="New England Patriots" />
+<meta property="article:tag" content="Today&#039;s NFL News" />
+<meta property="article:section" content="FRS News" />
+<meta property="article:published_time" content="2017-02-22T20:17:29+00:00" />
+<meta property="og:image" content="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2015/04/15165030/hernandez.jpg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="702" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="New England Patriots head coach Bill Belichick may be called to testify at former tight end Aaron Hernandez&#039;s double murder trial if his ..." />
+<meta name="twitter:title" content="Report: Bill Belichick May Have To Testify At Aaron Hernandez&#039;s Trial" />
+<meta name="twitter:site" content="@FanRagSports" />
+<meta name="twitter:image" content="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2015/04/15165030/hernandez.jpg" />
+<meta name="twitter:creator" content="@FanRagSports" />
+<meta property="DC.date.issued" content="2017-02-22T20:17:29+00:00" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="FanRag Sports &raquo; Feed" href="http://www.fanragsports.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FanRag Sports &raquo; Comments Feed" href="http://www.fanragsports.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FanRag Sports &raquo; Report: Patriots&#8217; Bill Belichick may have to testify at Aaron Hernandez&#8217;s trial Comments Feed" href="http://www.fanragsports.com/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.fanragsports.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='siteorigin-panels-front-css'  href='http://www.fanragsports.com/wp-content/plugins/siteorigin-panels/css/front.css?ver=2.4.25' type='text/css' media='all' />
+<link rel='stylesheet' id='idangerous-swiper-css'  href='http://www.fanragsports.com/wp-content/plugins/appswiper/css/style.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.fanragsports.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theiaPostSlider-css'  href='http://www.fanragsports.com/wp-content/plugins/theia-post-slider/css/font-theme.css?ver=1.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theiaPostSlider-font-css'  href='http://www.fanragsports.com/wp-content/plugins/theia-post-slider/fonts/style.css?ver=1.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-consent-style-css'  href='http://www.fanragsports.com/wp-content/plugins/uk-cookie-consent/assets/css/style.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://www.fanragsports.com/wp-content/themes/flex-mag/style.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-reset-css'  href='http://www.fanragsports.com/wp-content/themes/flex-mag/css/reset.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-fontawesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mvp-style-css'  href='http://www.fanragsports.com/wp-content/themes/flex-frs-mag/style.css?ver=4.7.2' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='mvp-iecss-css'  href='http://www.fanragsports.com/wp-content/themes/flex-frs-mag/css/iecss.css?ver=4.7.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='mvp-media-queries-css'  href='http://www.fanragsports.com/wp-content/themes/flex-mag/css/media-queries.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sportspost-css'  href='http://www.fanragsports.com/wp-content/plugins/sportspost/public/css/sportspost-public.css?ver=2.0.0' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var appp_ajax_login = {"processing":"Logging in....","required":"Fields are required","error":"Error Logging in"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/theia-post-slider/js/balupton-history.js/jquery.history.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/theia-post-slider/js/async.min.js?ver=14.09.2014'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/theia-post-slider/js/tps.js?ver=1.13.0'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/theia-post-slider/js/main.js?ver=1.13.0'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/theia-post-slider/js/tps-transition-simple.js?ver=1.13.0'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/themes/flex-frs-mag/responsive-videos.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='http://www.fanragsports.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fanragsports.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fanragsports.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://www.fanragsports.com/?p=246358' />
+<link rel="alternate" type="application/json+oembed" href="http://www.fanragsports.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.fanragsports.com%2Fnews%2Freport-patriots-bill-belichick-may-testify-aaron-hernandezs-trial%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.fanragsports.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.fanragsports.com%2Fnews%2Freport-patriots-bill-belichick-may-testify-aaron-hernandezs-trial%2F&#038;format=xml" />
+
+<!-- Twitter Cards Meta By WPDeveloper.net -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@FanRagSports" />
+<meta name="twitter:creator" content="@FanRagSports" />
+<meta name="twitter:url" content="http://www.fanragsports.com/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/" />
+<meta name="twitter:title" content="Report: Patriots&#8217; Bill Belichick may have to testify at Aaron Hernandez&#8217;s trial" />
+<meta name="twitter:description" content="New England Patriots head coach Bill Belichick may be called to testify at former tight end Aaron Hernandez&#039;s double murder trial if his name is chosen off the defense&#039;s witness list. [...]" />
+<meta name="twitter:image" content="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2015/04/15165030/hernandez.jpg" />
+<!-- Twitter Cards Meta By WPDeveloper.net  Try 3-->
+
+			<meta property="fb:pages" content="114015722095486" />
+			<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57647468-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-JvLy08cR-K0m8"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-JvLy08cR-K0m8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"CHWXk1a4eFf2N8", domain:"fanragsports.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=CHWXk1a4eFf2N8" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<script type="text/javascript">
+var onloadCallback = function() {
+grecaptcha.render('frs-cap', {
+'sitekey' : '6LeSIxYTAAAAAKgYlawNJcWHh_OOVZ0z3TonLD2Y'
+});
+};
+</script>
+<!-- Begin comScore Tag --> <script> var _comscore = _comscore || []; 
+_comscore.push({ c1: "2", c2: "18120612" }); (function() { var s = 
+document.createElement("script"), el = 
+document.getElementsByTagName("script")[0]; s.async = true; s.src = 
+(document.location.protocol == "https:" ? "
+https://sb
+" : "
+http://b
+") + 
+".
+scorecardresearch.com/beacon.js
+"; el.parentNode.insertBefore(s, el); 
+})(); </script> <noscript> <img 
+src="
+http://b.scorecardresearch.com/p?c1=2&c2=18120612&cv=2.0&cj=1
+" /> 
+</noscript> <!-- End comScore Tag -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2312818254081580",
+    enable_page_level_ads: true
+  });
+</script><script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+		<style>
+			.theiaPostSlider_nav.fontTheme ._title,
+			.theiaPostSlider_nav.fontTheme ._text {
+				line-height: 60px;
+			}
+
+			.theiaPostSlider_nav.fontTheme ._button {
+				color: #af0200;
+			}
+
+			.theiaPostSlider_nav.fontTheme ._button ._2 span {
+				font-size: 60px;
+				line-height: 60px;
+			}
+
+			.theiaPostSlider_nav.fontTheme ._button:hover,
+			.theiaPostSlider_nav.fontTheme ._button:focus {
+				color: #fd0200;
+			}
+
+			.theiaPostSlider_nav.fontTheme ._disabled {
+				color: #565656 !important;
+			}
+		</style>
+		<style id="ctcc-css" type="text/css" media="screen">
+				#catapult-cookie-bar {
+					box-sizing: border-box;
+					max-height: 0;
+					opacity: 0;
+					z-index: 99999;
+					overflow: hidden;
+					color: #ddd;
+					position: fixed;
+					left: 0;
+					bottom: 0;
+					width: 100%;
+					background-color: #464646;
+				}
+				#catapult-cookie-bar a {
+					color: #fff;
+				}
+				#catapult-cookie-bar .x_close span {
+					background-color: ;
+				}
+				button#catapultCookie {
+					background:;
+					color: ;
+					border: 0; padding: 6px 9px; border-radius: 3px;
+				}
+				#catapult-cookie-bar h3 {
+					color: #ddd;
+				}
+				.has-cookie-bar #catapult-cookie-bar {
+					opacity: 1;
+					max-height: 999px;
+					min-height: 30px;
+				}</style>
+<style type='text/css'>
+@import url(//fonts.googleapis.com/css?family=Oswald:400,700|Lato:400,700|Work+Sans:900|Montserrat:400,700|Open+Sans:800|Playfair+Display:400,700,900|Quicksand|Raleway:200,400,700|Roboto+Slab:400,700|Merriweather:100,200,300,400,500,600,700,800,900|Merriweather:100,200,300,400,500,600,700,800,900|Merriweather:100,200,300,400,400i,500,600,700,700i,800,900|Roboto+Slab:100,200,300,400,400i,500,600,700,700i,800,900|Roboto+:100,200,300,400,500,600,700,800,900&subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese);
+
+#wallpaper {
+	background: url() no-repeat 50% 0;
+	}
+body,
+.blog-widget-text p,
+.feat-widget-text p,
+.post-info-right,
+span.post-excerpt,
+span.feat-caption,
+span.soc-count-text,
+#content-main p,
+#commentspopup .comments-pop,
+.archive-list-text p,
+.author-box-bot p,
+#post-404 p,
+.foot-widget,
+#home-feat-text p,
+.feat-top2-left-text p,
+.feat-wide1-text p,
+.feat-wide4-text p,
+#content-main table,
+.foot-copy p,
+.video-main-text p {
+	font-family: 'Roboto Slab', sans-serif;
+	}
+
+a,
+a:visited,
+.post-info-name a {
+	color: #1C6AFC;
+	}
+
+a:hover {
+	color: #1C6AFC;
+	}
+
+.fly-but-wrap,
+span.feat-cat,
+span.post-head-cat,
+.prev-next-text a,
+.prev-next-text a:visited,
+.prev-next-text a:hover {
+	background: #AF0200;
+	}
+
+.fly-but-wrap {
+	background: #AF0200;
+	}
+
+.fly-but-wrap span {
+	background: #ffffff;
+	}
+
+.woocommerce .star-rating span:before {
+	color: #AF0200;
+	}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background-color: #AF0200;
+	}
+
+.woocommerce span.onsale,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+	background-color: #AF0200;
+	}
+
+span.post-header {
+	border-top: 4px solid #AF0200;
+	}
+
+#main-nav-wrap,
+nav.main-menu-wrap,
+.nav-logo,
+.nav-right-wrap,
+.nav-menu-out,
+.nav-logo-out,
+#head-main-top {
+	-webkit-backface-visibility: hidden;
+	background: #252525;
+	}
+
+nav.main-menu-wrap ul li a,
+.nav-menu-out:hover ul li:hover a,
+.nav-menu-out:hover span.nav-search-but:hover i,
+.nav-menu-out:hover span.nav-soc-but:hover i,
+span.nav-search-but i,
+span.nav-soc-but i {
+	color: #ffffff;
+	}
+
+.nav-menu-out:hover li.menu-item-has-children:hover a:after,
+nav.main-menu-wrap ul li.menu-item-has-children a:after {
+	border-color: #ffffff transparent transparent transparent;
+	}
+
+.nav-menu-out:hover ul li a,
+.nav-menu-out:hover span.nav-search-but i,
+.nav-menu-out:hover span.nav-soc-but i {
+	color: #eeeeee;
+	}
+
+.nav-menu-out:hover li.menu-item-has-children a:after {
+	border-color: #eeeeee transparent transparent transparent;
+	}
+
+.nav-menu-out:hover ul li ul.mega-list li a,
+.side-list-text p,
+.row-widget-text p,
+.blog-widget-text h2,
+.feat-widget-text h2,
+.archive-list-text h2,
+h2.author-list-head a,
+.mvp-related-text a {
+	color: #1C6AFC;
+	}
+
+ul.mega-list li:hover a,
+ul.side-list li:hover .side-list-text p,
+ul.row-widget-list li:hover .row-widget-text p,
+ul.blog-widget-list li:hover .blog-widget-text h2,
+.feat-widget-wrap:hover .feat-widget-text h2,
+ul.archive-list li:hover .archive-list-text h2,
+ul.archive-col-list li:hover .archive-list-text h2,
+h2.author-list-head a:hover,
+.mvp-related-posts ul li:hover .mvp-related-text a {
+	color: #1C6AFC !important;
+	}
+
+span.more-posts-text,
+a.inf-more-but,
+#comments-button a,
+#comments-button span.comment-but-text {
+	border: 1px solid #1C6AFC;
+	}
+
+span.more-posts-text,
+a.inf-more-but,
+#comments-button a,
+#comments-button span.comment-but-text {
+	color: #1C6AFC !important;
+	}
+
+#comments-button a:hover,
+#comments-button span.comment-but-text:hover,
+a.inf-more-but:hover,
+span.more-posts-text:hover {
+	background: #1C6AFC;
+	}
+
+nav.main-menu-wrap ul li a,
+ul.col-tabs li a,
+nav.fly-nav-menu ul li a,
+.foot-menu .menu li a {
+	font-family: 'Roboto ', sans-serif;
+	}
+
+.feat-top2-right-text h2,
+.side-list-text p,
+.side-full-text p,
+.row-widget-text p,
+.feat-widget-text h2,
+.blog-widget-text h2,
+.prev-next-text a,
+.prev-next-text a:visited,
+.prev-next-text a:hover,
+span.post-header,
+.archive-list-text h2,
+#woo-content h1.page-title,
+.woocommerce div.product .product_title,
+.woocommerce ul.products li.product h3,
+.video-main-text h2,
+.mvp-related-text a {
+	font-family: 'Merriweather', sans-serif;
+	}
+
+.feat-wide-sub-text h2,
+#home-feat-text h2,
+.feat-top2-left-text h2,
+.feat-wide1-text h2,
+.feat-wide4-text h2,
+.feat-wide5-text h2,
+h1.post-title,
+#content-main h1.post-title,
+#post-404 h1,
+h1.post-title-wide,
+#content-main blockquote p,
+#commentspopup #content-main h1 {
+	font-family: 'Merriweather', sans-serif;
+	}
+
+h3.home-feat-title,
+h3.side-list-title,
+#infscr-loading,
+.score-nav-menu select,
+h1.cat-head,
+h1.arch-head,
+h2.author-list-head,
+h3.foot-head,
+.woocommerce ul.product_list_widget span.product-title,
+.woocommerce ul.product_list_widget li a,
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta,
+.woocommerce .related h2,
+.woocommerce div.product .woocommerce-tabs .panel h2,
+.woocommerce div.product .product_title,
+#content-main h1,
+#content-main h2,
+#content-main h3,
+#content-main h4,
+#content-main h5,
+#content-main h6 {
+	font-family: 'Merriweather', sans-serif;
+	}
+
+</style>
+	
+<style type="text/css">
+
+
+.post-cont-out,
+.post-cont-in {
+	margin-right: 0;
+	}
+.nav-links {
+	display: none;
+	}
+
+
+
+
+
+
+
+
+h3.side-list-title {
+    color: #777;
+}
+div#text-8.side-widget.widget_text,
+div#text-9.side-widget.widget_text {
+    background: transparent;
+    padding: 0px;
+}
+#sidebar-wrap .feat-widget-cont {
+    margin-top: 10px !important;
+}
+#tab-col3 #sidebar-wrap .feat-widget-cont {
+    background: #fff;
+}
+#tab-col3 #sidebar-wrap .home-title-wrap {
+    margin-bottom: 15px;
+    padding: 15px 15px 0 15px;
+    background: #fff;
+    width:90%;
+}
+#tab-col3 #sidebar-wrap h4.post-header {
+    margin-bottom: 0;
+}
+.bracket.standings.light-blue {
+    margin: auto;
+    max-width: 960px;
+}
+p.simple-image {
+    margin-bottom: 15px;
+}
+p.more {
+    text-align: center;
+    line-height: 130%;
+}
+#winnerbox {
+    display:none;
+}
+.btext {
+    display: none;
+}
+#bracket-footer {
+    background: none repeat scroll 0 0 #a5a5ad;
+}
+#bracket-footer.current {
+    background: none repeat scroll 0 0 #666;
+}
+#bracket1 {
+    margin: auto;
+    max-width: 960px;
+}
+#bracket1 h4 {
+    display: block;
+    vertical-align: middle;
+}
+#bracket1 p.slot.slot1 {
+    font-size: 10px;
+    line-height: 100%;
+    vertical-align: middle;
+}
+#bracket1 p.slot.slot1.right1 {
+    text-align:right;
+}
+#bracket1 p.slot.slot2 {
+    font-size: 10px;
+    line-height: 0;
+    vertical-align: middle;
+}
+#bracket1 p.slot.slot2.right1 {
+    text-align:right;
+}
+#bracket1 td.round_1_r {
+    padding-right: 10px;
+    text-align: right;
+    vertical-align: middle;
+}
+#bracket1 td.round_1_l {
+    padding-left: 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+#bracket1 td.round_1 {
+    background-color: #af0200;
+    border: 1px solid #fff;
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+table.gridtable th {
+    background-color: #03003d;
+    color:#fff
+}
+ul.fam-sites {
+    text-align: center;
+}
+li.fam-sites a {
+    font-weight: 400;
+    color: #000;
+    text-align:center;
+    margin-bottom: 10px;
+    width: 100%;
+    font-family: "Oswald",sans-serif;
+}
+li.fam-sites a:hover {
+        color: #af0200;
+}
+li.fam-sites  {
+    color: #af0200;
+    font-size: 145%;
+    font-weight: 400;
+    line-height: 155%;
+    text-align:center;
+    margin-bottom: 10px;
+    width: 100%;
+    font-family: "Oswald",sans-serif;
+    padding-bottom: 3px;
+    
+}
+html#facebook {
+    background: none repeat scroll 0 0 #fff;
+}
+#mvp_facebook_widget-5 &gt; iframe {
+    background: none repeat scroll 0 0 #fff;
+}
+.s-results {
+    margin-top: -50px;
+}
+#heading {
+    margin-top: 52px;
+    padding-top: 20px;
+    /*background: #DD8729 none repeat scroll 0 0;*/
+}
+#head-wrap-cat {
+    margin-top: 0px;
+    padding-top: 20px;
+    width: 100%;
+}
+#heading #category-header-wrap {
+    max-width: 100%;
+    text-align: center;
+    margin-right: 0;
+}
+#heading #category-header-wrap h1 {
+   float: none;
+   color: #03003b;
+}
+.sports-tabs {
+	background-color: white;
+	padding: 3px;
+	margin-left: -12px;
+	margin-right: -12px;
+	margin-top: -10px;
+	margin-bottom: 10px;
+	text-align: center;
+        clear:left;
+}
+
+.sports-tabs a {
+	font-family: 'Roboto Slab', sans-serif;
+	color: black;
+	margin-right: 6px;
+	font-size: 15px;
+}
+
+.sports-tabs ul {
+	padding-bottom: 13px;
+	-webkit-padding-start: 0;
+	padding-left: 25px;
+}
+
+.sports-tabs ul li {
+	float: left;
+	list-style-type: none;
+	padding-bottom: 10px;
+}
+
+.tab_content, .stab_content {
+    display: none;
+	clear:left;
+}
+
+.nlposts-ulist-container .nav li  {
+	margin-top: 0 !important;
+}
+
+#sidebar-wrap .nlposts-ulist-container .nav li, #sidebar-wrap .widget_display_topics ul li {
+	list-style-position: inside;
+margin-bottom:10px;
+}
+
+#sidebar-wrap .nlposts-ulist-container .nav li div.nlposts-caption h3 a:before, #sidebar-wrap .widget_display_topics ul li a:before {
+	content: "» ";
+	color: #701415;
+	margin-left: -11px;
+}
+
+h3.nlposts-ulist-title {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+h3.nlposts-ulist-title a {
+	color: #000000;
+	font-size: 12pt;
+	font-family: 'Oswald', sans-serif;
+	line-height: 0;
+font-weight:normal;
+}
+.feat-top2-right-text h2, .side-list-text p, .side-full-text p, .row-widget-text p, .feat-widget-text h2, .blog-widget-text h2, .prev-next-text a, .prev-next-text a:visited, .prev-next-text a:hover, span.post-header, .archive-list-text h2, #woo-content h1.page-title, .woocommerce div.product .product_title, .woocommerce ul.products li.product h3, .video-main-text h2 {
+    font-weight:bold;
+}
+.widget-ad {
+    background: transparent;
+}
+#sprtcstr-wrap {
+    padding-bottom: 15px;
+}
+#text-9 {
+    padding-bottom: 20px;
+}
+.ad-above-match {
+    margin-bottom: 55px;
+}
+#locked-below-post {
+    /*margin-top:20px;*/
+    margin-bottom: 40px;
+    float:left;
+    width:100%;
+}
+#ad-below-soc {
+    margin-bottom: 30px;
+    width:100%;
+}
+ul.mega-list li:hover a, ul.side-list li:hover .side-list-text p, ul.row-widget-list li:hover .row-widget-text p, ul.blog-widget-list li:hover .blog-widget-text h2, .feat-widget-wrap:hover .feat-widget-text h2, ul.archive-list li:hover .archive-list-text h2, ul.archive-col-list li:hover .archive-list-text h2, h2.author-list-head a:hover, .mvp-related-posts ul li:hover .mvp-related-text a {
+      text-decoration:underline;
+}
+a:hover {
+     text-decoration:underline;
+}
+#content-main ul li, #content-main ol li {
+    line-height: 1.6em;
+}
+.mvp-related-text a {
+    font-weight: 700;
+}
+.nlposts-container.nlposts-ulist-container {
+    background: #fff;
+    float: left;
+    margin-top: 15px !important;
+    padding: 15px 5%;
+    position: relative;
+    width: 90%;
+}
+h5.nlposts-ulist-title a {
+    font-family: 'Helvetica', sans-serif;
+    color: #1C6AFC;
+    font-size: 1rem;
+    line-height: 130%;
+    width: 100%;
+}
+h5.nlposts-ulist-title {
+    padding-bottom: 10px;
+}
+ul.nlposts-ulist-excerpt li a {
+    font-size: .9rem;
+    line-height: 130%;
+    width: 100%;
+    color: #1C6AFC;
+}
+a.side-list-blog {
+    color: #999;
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+    font-size: .65rem;
+    font-weight: 400;
+    line-height: 100%;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    width: 100%;
+    font-style:normal;
+}
+li.nlposts-ulist-litem {
+    border-bottom: #333 solid 1px;
+    padding: 10px 0;
+}
+a.net-auth {
+    color: #afafaf;
+}
+.nlposts-ulist-container .nlposts-ulist-meta {
+    color: #afafaf;
+    font-family: "Montserrat",sans-serif;
+    font-size: 0.65rem;
+    font-style: italic;
+    line-height: 130%;
+    padding-top: 5px;
+    width: 100%;
+}
+.in-post-sec {
+    width: 100%
+    position:relative;
+}
+.in-post-ad {
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:20px;
+}
+.fmfl-games {
+    position: relative;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+}
+.fmfl-games-col1,
+.fmfl-games-col2  {
+    width: 47%;
+    display: inline-block;
+    position: relative;
+}
+.fmfl-games-col1 {
+    margin-right: 5%;
+}
+.fmfl-games-col2 {
+    vertical-align: top;
+}
+.fmfl-gms-col1-row1,
+.fmfl-gms-col2-row1 {
+    width: 100%;
+    display: inline-flex;
+}
+.fmfl-img {
+    display: inline-block;
+    width: auto;
+    overflow: hidden;
+    position: relative;
+}
+.fmfl-title {
+    display: inline-block;
+    width: 80%;
+    position: relative;
+}
+#content-main h3.fmfl {
+    font-size: 38px;
+    font-weight: inherit;
+    margin: 20px;
+}
+#content-main .fmfl-games h4.fmfl {
+    font-size: 15px;
+}
+#content-main ul.fmfl-gms {
+    list-style: none;
+}
+#content-main .fmfl-games ul.fmfl-gms li {
+    margin-left: 18px;
+    padding: 2px 0;
+    line-height: 1.3;
+}
+.fmfl-gms-row2-bot {
+    width: 100%;
+    position: relative;
+}
+.gms-row2-col2 {
+    width: 35%;
+    display: inline-block;
+}
+.gms-row2-col1 {
+    width: 60%;
+    display: inline-block;
+}
+.fmfl-gms-col1-row3, .fmfl-gms-col2-row3 {
+    margin-top: 30px;
+}
+#content-main .fmfl-gms-col1-row3 p, #content-main .fmfl-gms-col2-row3 p {
+    font-size: 12px;
+}
+#content-main p.fmfl-cookys {
+    font-size: 11px;
+}
+@media screen and (max-width: 1023px) {
+      .left-ad-rel {
+          display: none !important;
+        }
+}</style>
+
+<link rel="amphtml" href="http://www.fanragsports.com/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/amp/" /><link rel="icon" href="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/06/05212105/cropped-frs-1024-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/06/05212105/cropped-frs-1024-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/06/05212105/cropped-frs-1024-180x180.png" />
+<meta name="msapplication-TileImage" content="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/06/05212105/cropped-frs-1024-270x270.png" />
+
+</head>
+
+<body class="post-template-default single single-post postid-246358 single-format-standard desktop theiaPostSlider_body">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMFZ45"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<div id="site" class="left relative">
+		<div id="site-wrap" class="left relative">
+						<div id="fly-wrap">
+	<div class="fly-wrap-out">
+		<div class="fly-side-wrap">
+			<ul class="fly-bottom-soc left relative">
+									<li class="fb-soc">
+						<a href="http://www.facebook.com/FanragSports" target="_blank">
+						<i class="fa fa-facebook-square fa-2"></i>
+						</a>
+					</li>
+													<li class="twit-soc">
+						<a href="http://www.twitter.com/FanragSports" target="_blank">
+						<i class="fa fa-twitter fa-2"></i>
+						</a>
+					</li>
+													<li class="pin-soc">
+						<a href="http://www.pinterest.com/fanragsports/" target="_blank">
+						<i class="fa fa-pinterest fa-2"></i>
+						</a>
+					</li>
+																	<li class="goog-soc">
+						<a href="https://plus.google.com/+FanRagSports/posts" target="_blank">
+						<i class="fa fa-google-plus fa-2"></i>
+						</a>
+					</li>
+													<li class="yt-soc">
+						<a href="https://www.youtube.com/channel/UClSrD-yuPoB-BC1FT3_fqQQ" target="_blank">
+						<i class="fa fa-youtube-play fa-2"></i>
+						</a>
+					</li>
+																	<li class="tum-soc">
+						<a href="http://www.FanragSports.tumblr.com" target="_blank">
+						<i class="fa fa-tumblr fa-2"></i>
+						</a>
+					</li>
+													<li class="rss-soc">
+						<a href="http://www.fanragsports.com/feed/rss/" target="_blank">
+						<i class="fa fa-rss fa-2"></i>
+						</a>
+					</li>
+							</ul>
+		</div><!--fly-side-wrap-->
+		<div class="fly-wrap-in">
+			<div id="fly-menu-wrap">
+				<nav class="fly-nav-menu left relative">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-39536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39536"><a href="http://www.fanragsports.com/college-basketball-scores/">CBB Scores &#8211; Mens</a></li>
+<li id="menu-item-151398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151398"><a href="http://www.fanragsports.com/college-basketball-standings/">CBB Standings &#8211; Mens</a></li>
+<li id="menu-item-39544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39544"><a href="http://www.fanragsports.com/nba-scores/">NBA Scores</a></li>
+<li id="menu-item-151399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151399"><a href="http://www.fanragsports.com/nba-standings/">NBA Standings</a></li>
+<li id="menu-item-53967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53967"><a href="http://www.fanragsports.com/nfl-scores/">NFL Scores</a></li>
+<li id="menu-item-151400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151400"><a href="http://www.fanragsports.com/nfl-standings/">NFL Standings</a></li>
+<li id="menu-item-39539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39539"><a href="http://www.fanragsports.com/nhl-scores/">NHL Scores</a></li>
+<li id="menu-item-151401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151401"><a href="http://www.fanragsports.com/nhl-standings/">NHL Standings</a></li>
+<li id="menu-item-142454" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-142454"><a href="http://www.fanragsports.com/news/">News</a></li>
+<li id="menu-item-142449" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-142449"><a href="http://www.fanragsports.com/cbb/">CBB</a>
+<ul class="sub-menu">
+	<li id="menu-item-159251" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159251"><a href="http://www.fanragsports.com/tag/the-rothstein-files/">The Rothstein Files</a></li>
+</ul>
+</li>
+<li id="menu-item-142450" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142450"><a href="http://www.fanragsports.com/cfb/">CFB</a></li>
+<li id="menu-item-157670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-157670"><a href="http://www.fanragsports.com/fantasy/">Fantasy</a>
+<ul class="sub-menu">
+	<li id="menu-item-159237" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159237"><a href="http://www.fanragsports.com/tag/fantasy-baseball/">Fantasy Baseball</a></li>
+	<li id="menu-item-159238" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159238"><a href="http://www.fanragsports.com/tag/fantasy-basketball/">Fantasy Basketball</a></li>
+	<li id="menu-item-159231" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159231"><a href="http://www.fanragsports.com/tag/fantasy-football/">Fantasy Football</a></li>
+	<li id="menu-item-159239" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159239"><a href="http://www.fanragsports.com/tag/fantasy-hockey/">Fantasy Hockey</a></li>
+	<li id="menu-item-207885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207885"><a href="http://www.fanragsports.com/fantasy-motorsports-fmfl/">Fantasy Motorsports Game</a></li>
+</ul>
+</li>
+<li id="menu-item-142451" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-142451"><a href="http://www.fanragsports.com/mlb/">MLB</a>
+<ul class="sub-menu">
+	<li id="menu-item-159240" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159240"><a href="http://www.fanragsports.com/tag/inside-baseball/">Inside Baseball</a></li>
+	<li id="menu-item-159244" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159244"><a href="http://www.fanragsports.com/tag/minor-league-baseball/">Minor League Baseball</a></li>
+</ul>
+</li>
+<li id="menu-item-142452" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142452"><a href="http://www.fanragsports.com/mma/">MMA</a></li>
+<li id="menu-item-142453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-142453"><a href="http://www.fanragsports.com/nba/">NBA</a>
+<ul class="sub-menu">
+	<li id="menu-item-159245" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159245"><a href="http://www.fanragsports.com/tag/nba-draft/">NBA Draft</a></li>
+	<li id="menu-item-159252" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159252"><a href="http://www.fanragsports.com/tag/the-skip-pass/">The Skip Pass</a></li>
+	<li id="menu-item-159253" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159253"><a href="http://www.fanragsports.com/tag/the-starting-5/">The Starting 5</a></li>
+</ul>
+</li>
+<li id="menu-item-142455" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-142455"><a href="http://www.fanragsports.com/nfl/">NFL</a>
+<ul class="sub-menu">
+	<li id="menu-item-159246" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159246"><a href="http://www.fanragsports.com/tag/nfl-draft/">NFL Draft</a></li>
+</ul>
+</li>
+<li id="menu-item-142456" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-142456"><a href="http://www.fanragsports.com/nhl/">NHL</a>
+<ul class="sub-menu">
+	<li id="menu-item-159247" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-159247"><a href="http://www.fanragsports.com/tag/nhl-draft/">NHL Draft</a></li>
+</ul>
+</li>
+<li id="menu-item-139480" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139480"><a href="http://www.fanragsports.com/podcast/">Podcast</a></li>
+<li id="menu-item-187405" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187405"><a href="http://www.fanragsports.com/now/">FRS Now</a></li>
+<li id="menu-item-142457" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142457"><a href="http://www.fanragsports.com/soccer/">Soccer</a></li>
+<li id="menu-item-50544" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-50544"><a href="http://www.fanragsports.com/tennis/">Tennis</a></li>
+<li id="menu-item-175961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175961"><a href="http://www.fanragsports.com/frs-youtube-videos/">Videos</a></li>
+<li id="menu-item-142469" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142469"><a href="http://www.fanragsports.com/womens/">Womens Sports</a></li>
+<li id="menu-item-142458" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142458"><a href="http://www.fanragsports.com/wwe/">WWE</a></li>
+<li id="menu-item-193323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-193323"><a>Connect</a>
+<ul class="sub-menu">
+	<li id="menu-item-193326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193326"><a href="http://www.floridafootballinsiders.com">Florida Football Insiders</a></li>
+	<li id="menu-item-208661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-208661"><a href="http://www.frs.golf">FRS.Golf</a></li>
+	<li id="menu-item-193327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193327"><a href="http://www.thefantasydoctots.com">The Fantasy Doctors</a></li>
+</ul>
+</li>
+</ul></div>				</nav>
+			</div><!--fly-menu-wrap-->
+		</div><!--fly-wrap-in-->
+	</div><!--fly-wrap-out-->
+</div><!--fly-wrap-->			<div id="head-main-wrap" class="left relative">
+				<div id="head-main-top" class="left relative">
+																																										</div><!--head-main-top-->
+				<div id="main-nav-wrap">
+					<div class="nav-out">
+						<div class="nav-in">
+							<div id="main-nav-cont" class="left" itemscope itemtype="http://schema.org/Organization">
+								<div class="nav-logo-out">
+									<div class="nav-left-wrap left relative">
+										<div class="fly-but-wrap news left relative">
+											<span></span>
+											<span></span>
+											<span></span>
+											<span></span>
+										</div><!--fly-but-wrap-->
+																					<div class="nav-logo left">
+																									<a itemprop="url" href="http://www.fanragsports.com/"><img itemprop="logo" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/fanrag_sports_logo_sm.png" alt="FanRag Sports" /></a>
+																																					<h2 class="mvp-logo-title">FanRag Sports</h2>
+																							</div><!--nav-logo-->
+																			</div><!--nav-left-wrap-->
+									<div class="nav-logo-in">
+										<div class="nav-menu-out">
+											<div class="nav-menu-in">
+												<nav class="main-menu-wrap left">
+													<div class="menu-top-bar-container"><ul id="menu-top-bar" class="menu"><li id="menu-item-80697" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80697"><a>Scores</a>
+<ul class="sub-menu">
+	<li id="menu-item-144149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-144149"><a href="http://www.fanragsports.com/college-basketball-scores/">CBB Scores &#8211; Mens</a>
+	<ul class="sub-menu">
+		<li id="menu-item-150777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150777"><a href="http://www.fanragsports.com/college-basketball-standings/">CBB Standings &#8211; Mens</a></li>
+	</ul>
+</li>
+	<li id="menu-item-80699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80699"><a href="http://www.fanragsports.com/nba-scores/">NBA Scores</a>
+	<ul class="sub-menu">
+		<li id="menu-item-150779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150779"><a href="http://www.fanragsports.com/nba-standings/">NBA Standings</a></li>
+	</ul>
+</li>
+	<li id="menu-item-125467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-125467"><a href="http://www.fanragsports.com/nfl-scores/">NFL Scores</a>
+	<ul class="sub-menu">
+		<li id="menu-item-150780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150780"><a href="http://www.fanragsports.com/nfl-standings/">NFL Standings</a></li>
+	</ul>
+</li>
+	<li id="menu-item-80700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80700"><a href="http://www.fanragsports.com/nhl-scores/">NHL Scores</a>
+	<ul class="sub-menu">
+		<li id="menu-item-150781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150781"><a href="http://www.fanragsports.com/nhl-standings/">NHL Standings</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-140558" class="mega-dropdown news menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-140558"><a href="http://www.fanragsports.com/news/">News</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/news/report-lakers-seeking-second-round-pick-exchange-nick-young/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/14161450/AP_16188448176548-300x180.jpg" class="unlazy wp-post-image" alt="FILE - In this March 2, 2016, file photo, Los Angeles Lakers forward Nick Young smiles after hitting a 3-point basket against the Denver Nuggets during the second half of an NBA basketball game in Denver. A video posted by TMZ on July 5, 2016, shows Young holding a firework in his hand as it explodes. (AP Photo/David Zalubowski, File)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/14161450/AP_16188448176548-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/14161450/AP_16188448176548-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Report: Lakers seeking second-round pick in exchange for Nick Young</a></li><li><a href="http://www.fanragsports.com/news/report-wizards-heat-looking-trade-partners-ahead-deadline/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22222218/450p77150928027_Miami_Heat_Media_Day-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22222218/450p77150928027_Miami_Heat_Media_Day-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22222218/450p77150928027_Miami_Heat_Media_Day-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22222218/450p77150928027_Miami_Heat_Media_Day-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Report: Wizards, Heat looking for trade partners ahead of deadline</a></li><li><a href="http://www.fanragsports.com/news/report-redskins-showing-interest-tony-romo/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22220800/BAR1410271490_redskins_at_cowboys-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22220800/BAR1410271490_redskins_at_cowboys-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22220800/BAR1410271490_redskins_at_cowboys-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22220800/BAR1410271490_redskins_at_cowboys-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Report: Redskins showing interest in Tony Romo</a></li><li><a href="http://www.fanragsports.com/news/manny-pacquiao-announces-negotiations-amir-khan/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22220551/AP142721534834-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22220551/AP142721534834-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22220551/AP142721534834-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22220551/AP142721534834-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Manny Pacquiao announces he is in negotiations with Amir Khan</a></li><li><a href="http://www.fanragsports.com/news/butler-upsets-villanova-nets-first-road-win-ap-top-5-program-history/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22214215/DAL170219_Depaul_at_Butler_1129-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22214215/DAL170219_Depaul_at_Butler_1129-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22214215/DAL170219_Depaul_at_Butler_1129-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22214215/DAL170219_Depaul_at_Butler_1129-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Butler upsets Villanova, nets first road win over AP Top 5 in program history</a></li></ul></div></li>
+<li id="menu-item-141969" class="mega-dropdown college menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141969"><a href="http://www.fanragsports.com/cbb/">CBB</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/cbb/bubble-watch-arkansas-razorbacks/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22132027/DEL_170117_Arkansas_vs_Texas_AM_068-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22132027/DEL_170117_Arkansas_vs_Texas_AM_068-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22132027/DEL_170117_Arkansas_vs_Texas_AM_068-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22132027/DEL_170117_Arkansas_vs_Texas_AM_068-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Bubble Watch: Arkansas Razorbacks</a></li><li><a href="http://www.fanragsports.com/cbb/west-coast-wednesday-ncaa-tournament-bubbles-at-stake-this-week/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21103744/AP_17050148799336-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21103744/AP_17050148799336-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21103744/AP_17050148799336-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21103744/AP_17050148799336-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>West Coast Wednesday: NCAA Tournament bubbles at stake this week</a></li><li><a href="http://www.fanragsports.com/cbb/mid-major-teams-players-and-coaches-to-keep-an-eye-on/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22074353/918m161228062_UNC_Monmouth-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22074353/918m161228062_UNC_Monmouth-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22074353/918m161228062_UNC_Monmouth-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22074353/918m161228062_UNC_Monmouth-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Mid-major teams, players and coaches to keep an eye on</a></li><li><a href="http://www.fanragsports.com/cbb/florida-state-on-the-verge-of-losing-its-season/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22061421/DCR170218_Florida_State_at_Pitt21675-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22061421/DCR170218_Florida_State_at_Pitt21675-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22061421/DCR170218_Florida_State_at_Pitt21675-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22061421/DCR170218_Florida_State_at_Pitt21675-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Florida State on the verge of losing its season</a></li><li><a href="http://www.fanragsports.com/cbb/rothstein-files-clock-northwestern/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/09/30222955/Rothstein-Files-300x180.png" class="unlazy wp-post-image" alt="northwestern" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/09/30222955/Rothstein-Files-300x180.png 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/09/30222955/Rothstein-Files-768x461.png 768w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/09/30222955/Rothstein-Files-450x270.png 450w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/09/30222955/Rothstein-Files.png 1000w" sizes="(max-width: 300px) 100vw, 300px" /></div>Rothstein Files: Clock is ticking on Northwestern</a></li></ul></div></li>
+<li id="menu-item-141968" class="mega-dropdown college menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141968"><a href="http://www.fanragsports.com/cfb/">CFB</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/cfb/evaluations-of-fbs-defensive-coordinator-hires-in-2017/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22084734/357161015929_UCONN_at_USF-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22084734/357161015929_UCONN_at_USF-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22084734/357161015929_UCONN_at_USF-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22084734/357161015929_UCONN_at_USF-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Evaluations of FBS defensive coordinator hires in 2017</a></li><li><a href="http://www.fanragsports.com/cfb/2017-preview-big-12s-top-defensive-linemen-must-be-versatile/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22062951/42616101578_Iowa_State_v_Texas-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22062951/42616101578_Iowa_State_v_Texas-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22062951/42616101578_Iowa_State_v_Texas-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22062951/42616101578_Iowa_State_v_Texas-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>2017 preview: Big 12&#8217;s top defensive linemen must be versatile</a></li><li><a href="http://www.fanragsports.com/cfb/top-michigan-story-lines-heading-into-2017/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21161350/31831273174_6527ec6f5a_o-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21161350/31831273174_6527ec6f5a_o-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21161350/31831273174_6527ec6f5a_o-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21161350/31831273174_6527ec6f5a_o-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Top Michigan story lines heading into 2017</a></li><li><a href="http://www.fanragsports.com/cfb/liberty-desperately-wants-to-become-baylor-no-matter-the-cost/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21180452/CAM160917018_Liberty_v_SMU-300x180.jpg" class="unlazy wp-post-image" alt="17 September 2016: Liberty Flames head coach Turner Gill during the college football game between the SMU Mustangs and the Liberty Flames at Gerald Ford Stadium in Dallas, Texas. (Photo by Matthew Visinsky/Icon Sportswire)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21180452/CAM160917018_Liberty_v_SMU-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21180452/CAM160917018_Liberty_v_SMU-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21180452/CAM160917018_Liberty_v_SMU-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Liberty desperately wants to become Baylor, no matter the cost</a></li><li><a href="http://www.fanragsports.com/cfb/coaching-turnover-isnt-unique-asu-lay-cfb-landscape/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/26075510/AP_16331080439435-300x180.jpg" class="unlazy wp-post-image" alt="Arizona State coach Todd Graham, right, and Arizona coach Rich Rodriguez talk before an NCAA college football game, Friday, Nov. 25, 2016, in Tucson, Ariz. (AP Photo/Rick Scuteri)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/26075510/AP_16331080439435-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/26075510/AP_16331080439435-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Coaching turnover isn&#8217;t unique to ASU; it’s the lay of the CFB landscape</a></li></ul></div></li>
+<li id="menu-item-157264" class="mega-dropdown fantasy menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157264"><a href="http://www.fanragsports.com/fantasy/">Fantasy</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/fantasy/fanrag-sports-fantasy-baseball-guide-2017-outfielders/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20104307/CEM20160621007Angels-vs-Astros-300x180.jpg" class="unlazy wp-post-image" alt="Los Angeles Angels center fielder Mike Trout (27) looks on after hitting the ball for a single against the Houston Astros during a baseball game between the Houston Astros and the Los Angeles Angels during a MLB baseball game at Minute Maid Park, Tuesday, June 21, 2016, in Houston. ( Juan DeLeon / Icon Sportswire )" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20104307/CEM20160621007Angels-vs-Astros-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20104307/CEM20160621007Angels-vs-Astros-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20104307/CEM20160621007Angels-vs-Astros-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>FanRag Sports Fantasy Baseball Guide 2017: Outfielders</a></li><li><a href="http://www.fanragsports.com/fantasy/fanrag-fantasy-racing-schedule-feb-24-26/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22113805/AAV17021912824_Daytona_500-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22113805/AAV17021912824_Daytona_500-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22113805/AAV17021912824_Daytona_500-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22113805/AAV17021912824_Daytona_500-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>FanRag Fantasy Racing Schedule Feb. 24-26</a></li><li><a href="http://www.fanragsports.com/fantasy/fantasy-basketball-fallout-rockets-trade-lou-williams/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22092208/AP_17032224006296-300x180.jpg" class="unlazy wp-post-image" alt="Los Angeles Lakers&#039; Lou Williams drives to the basket past Denver Nuggets&#039; Gary Harris during the second half of an NBA basketball game, Tuesday, Jan. 31, 2017, in Los Angeles. The Lakers won 120-116. (AP Photo/Jae C. Hong)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22092208/AP_17032224006296-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22092208/AP_17032224006296-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22092208/AP_17032224006296-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>The fantasy basketball fallout from Rockets&#8217; trade for Lou Williams</a></li><li><a href="http://www.fanragsports.com/fantasy/fantasy-basketball-waiver-wire-watch-week-18/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21074238/AP_170411103912401-300x180.jpg" class="unlazy wp-post-image" alt="Philadelphia 76ers&#039; Dario Saric (9) reacts after sinking a basket against the Orlando Magic during the final moments of an NBA basketball game, Thursday, Feb. 9, 2017, in Orlando, Fla. (AP Photo/John Raoux)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21074238/AP_170411103912401-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21074238/AP_170411103912401-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21074238/AP_170411103912401-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Fantasy basketball waiver wire watch: Week 18</a></li><li><a href="http://www.fanragsports.com/fantasy/fantasy-basketball-fallout-demarcus-cousins-trade/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20094551/AP_16314252305984-1-e1487609227211-300x180.jpg" class="unlazy wp-post-image" alt="Sacramento Kings center DeMarcus Cousins, center, goes to the basket against New Orleans Pelicans&#039; Terrence Jones, left, and Omer Asik, right, during the second half of an NBA basketball game in Sacramento, Calif., Tuesday, Nov. 8, 2016. The Kings won 102-94. (AP Photo/Rich Pedroncelli)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20094551/AP_16314252305984-1-e1487609227211-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20094551/AP_16314252305984-1-e1487609227211-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20094551/AP_16314252305984-1-e1487609227211-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Fantasy basketball fallout from the DeMarcus Cousins trade</a></li></ul></div></li>
+<li id="menu-item-141966" class="mega-dropdown mlb menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141966"><a href="http://www.fanragsports.com/mlb/">MLB</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/mlb/rockies/rockies-believe-bullpen-can-make-difference-2017/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22141805/13215041216_Cubs_at_Rockies-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22141805/13215041216_Cubs_at_Rockies-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22141805/13215041216_Cubs_at_Rockies-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22141805/13215041216_Cubs_at_Rockies-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Rockies believe bullpen can make the difference in 2017</a></li><li><a href="http://www.fanragsports.com/mlb/indians/stokke-indians-looking-copy-royals-blueprint-world-series-loss/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22131422/AP_17051821664988-1-300x180.jpg" class="unlazy wp-post-image" alt="Cleveland Indians&#039; Michael Brantley (23), Jason Kipnis (22) and Francisco Lindor, right, all talk prior to batting at the team&#039;s baseball spring training facility Monday, Feb. 20, 2017, in Goodyear, Ariz. (AP Photo/Ross D. Franklin)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22131422/AP_17051821664988-1-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22131422/AP_17051821664988-1-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22131422/AP_17051821664988-1-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Stokke: Indians looking to copy Royals blueprint after World Series loss</a></li><li><a href="http://www.fanragsports.com/mlb/pleskoff-white-sox-wanted-rafael-devers/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22123144/357160324057_Red_Sox_at_Orioles-300x180.jpg" class="unlazy wp-post-image" alt="24 MAR 2016: Rafael Devers of the Red Sox during the minor league spring training game between the Red Sox Minor Leaguers and the Orioles Minor Leaguers at Twin Lakes Park in Sarasota, Florida. (Cliff Welch/Icon Sportswire)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22123144/357160324057_Red_Sox_at_Orioles-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22123144/357160324057_Red_Sox_at_Orioles-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22123144/357160324057_Red_Sox_at_Orioles-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Pleskoff: Why the White Sox wanted Rafael Devers</a></li><li><a href="http://www.fanragsports.com/mlb/spector-mlb-must-think-long-hard-deciding-vegas-worth-gamble/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/23073842/AP_16314801830285-300x180.jpg" class="unlazy wp-post-image" alt="Baseball Commissioner Rob Manfred answers a question as he speaks at news conference during baseball&#039;s annual general managers meeting Wednesday, Nov. 9, 2016, in Scottsdale, Ariz. (AP Photo/Ross D. Franklin)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/23073842/AP_16314801830285-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/23073842/AP_16314801830285-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Spector: MLB must think long and hard before deciding if Vegas worth gamble</a></li><li><a href="http://www.fanragsports.com/mlb/ctbnl-call-ish-neil-walker/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22104745/CIF2016071030_Nationals_at_Mets-300x180.jpg" class="unlazy wp-post-image" alt="July 10, 2016: New York Mets Second baseman Neil Walker (20) [4964] in action during the game between Washington Nationals and the New York Mets at Citi Field in Flushing, NY. (Photo by Joshua Sarner/Icon Sportswire)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22104745/CIF2016071030_Nationals_at_Mets-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22104745/CIF2016071030_Nationals_at_Mets-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22104745/CIF2016071030_Nationals_at_Mets-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>CTBNL: Call me Ish-Neil Walker</a></li></ul></div></li>
+<li id="menu-item-141970" class="mega-dropdown mma menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141970"><a href="http://www.fanragsports.com/mma/">MMA</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/mma/lewis-climbing-ufcs-heavyweight-mountain-old-school-way/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/07113436/AP877730575555-300x180.jpg" class="unlazy wp-post-image" alt="UFC Heavyweight fighter Derrick Lewis celebrates after knocked out Viktor Pesta in the third round during their UFC 192 mixed material arts bout at MMA UFC 192, Saturday, Oct. 3, 2015 in Houston, Texas. (AP Photo/Juan DeLeon)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/07113436/AP877730575555-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/07113436/AP877730575555-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Lewis climbing UFC&#8217;s heavyweight mountain the old-school way</a></li><li><a href="http://www.fanragsports.com/mma/dear-ufc-future-hold-georges-st-pierre/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/18113526/AP618485184749-1-300x180.jpg" class="unlazy wp-post-image" alt="Georges St. Pierre, of Canada, left, reacts following his UFC 167 mixed martial arts championship welterweight bout versus Johny Hendricks on Saturday, Nov. 16, 2013, in Las Vegas. St. Pierre won by split decision. (AP Photo/Isaac Brekken)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/18113526/AP618485184749-1-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/18113526/AP618485184749-1-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/18113526/AP618485184749-1-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Dear UFC: What does the future hold for Georges St-Pierre?</a></li><li><a href="http://www.fanragsports.com/mma/forecasting-future-matchups-for-ufc-fight-night-105-winners/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/07113436/AP877730575555-300x180.jpg" class="unlazy wp-post-image" alt="UFC Heavyweight fighter Derrick Lewis celebrates after knocked out Viktor Pesta in the third round during their UFC 192 mixed material arts bout at MMA UFC 192, Saturday, Oct. 3, 2015 in Houston, Texas. (AP Photo/Juan DeLeon)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/07113436/AP877730575555-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/07113436/AP877730575555-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Forecasting future matchups for UFC Fight Night 105 winners</a></li><li><a href="http://www.fanragsports.com/mma/ufc-fight-night-105-post-fight-report-card/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19222249/AP_11123112271-1-300x180.jpg" class="unlazy wp-post-image" alt="Johny Hendricks celebrates after knocking Jon Fitch out in the first round of their UFC welterweight mixed martial arts match Friday, Dec. 30, 2011 at The MGM Grand Garden Arena in Las Vegas. (AP Photo/Eric Jamison)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19222249/AP_11123112271-1-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19222249/AP_11123112271-1-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19222249/AP_11123112271-1-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>UFC Fight Night 105 post-fight report card</a></li><li><a href="http://www.fanragsports.com/mma/ufc-fight-night-105-lewis-vs-browne-live-results/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/09161443/DDN150607047_UFC_Fight_Night_68-300x180.jpg" class="unlazy wp-post-image" alt="June 06, 2015 - Shawn Jordan (red gloves) battles with Derrick Lewis (blue gloves) during their heavyweight bout at UFC Fight Night at Smoothie King Center in New Orleans, LA. Shawn Jordan defeated Derrick Lewis in two rounds." srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/09161443/DDN150607047_UFC_Fight_Night_68-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/09161443/DDN150607047_UFC_Fight_Night_68-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>UFC Fight Night 105: Lewis vs Browne live results</a></li></ul></div></li>
+<li id="menu-item-141965" class="mega-dropdown nba menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141965"><a href="http://www.fanragsports.com/nba/">NBA</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/nba/power-ranking-2017-nba-stars-top-8/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22135057/AP_17017062508282-e1487798567635-300x180.jpg" class="unlazy wp-post-image" alt="Cleveland Cavaliers&#039; LeBron James, center, shoots between Golden State Warriors&#039; Kevin Durant (35) and JaVale McGee, right, during the first half of an NBA basketball game Monday, Jan. 16, 2017, in Oakland, Calif. (AP Photo/Ben Margot)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22135057/AP_17017062508282-e1487798567635-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22135057/AP_17017062508282-e1487798567635-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22135057/AP_17017062508282-e1487798567635-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Power ranking the 2017 NBA All-Stars: The top 8</a></li><li><a href="http://www.fanragsports.com/nba/power-ranking-nbas-top-big-man-duos/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22125647/AP_16341105931769-300x180.jpg" class="unlazy wp-post-image" alt="AP Photo/Jae C. Hong" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22125647/AP_16341105931769-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22125647/AP_16341105931769-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22125647/AP_16341105931769-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Power ranking the NBA&#8217;s top big-man duos</a></li><li><a href="http://www.fanragsports.com/nba/lakers/harper-lakers-look-bring-magic-back-now-ineffectual-franchise/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22124117/AP_170336852130491-300x180.jpg" class="unlazy wp-post-image" alt="AP Photo/Nick Ut, File" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22124117/AP_170336852130491-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22124117/AP_170336852130491-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22124117/AP_170336852130491-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Harper: Lakers look to bring the Magic back to a now ineffectual franchise</a></li><li><a href="http://www.fanragsports.com/nba/pelicans/dont-overlook-omri-casspi-can-help-pelicans/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22122853/AP_16309125188833-300x180.jpg" class="unlazy wp-post-image" alt="AP Photo/Gary McCullough" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22122853/AP_16309125188833-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22122853/AP_16309125188833-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22122853/AP_16309125188833-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Don&#8217;t overlook how Omri Casspi can help the Pelicans</a></li><li><a href="http://www.fanragsports.com/nba/pelicans/column-pelicans-daviscousins-combo-diversion-threat-west/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22120626/AP_554688745493-300x180.jpg" class="unlazy wp-post-image" alt="AP Photo/Gerald Herbert" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22120626/AP_554688745493-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22120626/AP_554688745493-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22120626/AP_554688745493-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Column: Pelicans&#8217; Davis/Cousins combo is more diversion than threat in West</a></li></ul></div></li>
+<li id="menu-item-141964" class="mega-dropdown nfl menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141964"><a href="http://www.fanragsports.com/nfl/">NFL</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/nfl/cowboys/five-free-agents-cowboys-consider-signing/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/27123526/DAM140824013_Bengals_at_Cardinals-300x180.jpg" class="unlazy wp-post-image" alt="Tony Jefferson" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/27123526/DAM140824013_Bengals_at_Cardinals-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/27123526/DAM140824013_Bengals_at_Cardinals-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/27123526/DAM140824013_Bengals_at_Cardinals-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Five free agents the Cowboys should consider signing</a></li><li><a href="http://www.fanragsports.com/nfl/nfl-draft-top-5-edge-defenders-2017-class/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/23123857/CAM160917025_Texas_AM_v_Arkansas-300x180.jpg" class="unlazy wp-post-image" alt="Bowl of terror: Texas A&amp;M Aggies defensive end Myles Garrett (#15) battles with Arkansas Razorbacks left tackle Dan Skipper (#70) during the Southwest Classic college football game between the Arkansas and Texas A&amp;M at AT&amp;T Stadium in Dallas, Texas. Texas A&amp;M won the game 45-24. (Photo by Matthew Visinsky/Icon Sportswire)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/23123857/CAM160917025_Texas_AM_v_Arkansas-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/23123857/CAM160917025_Texas_AM_v_Arkansas-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/23123857/CAM160917025_Texas_AM_v_Arkansas-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>NFL Draft: Top 5 edge defenders in the 2017 class</a></li><li><a href="http://www.fanragsports.com/nfl/raiders/do-the-raiders-have-a-shot-at-drafting-reuben-foster/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/13192200/234141109232_Alabama_v_LSU-300x180.jpg" class="unlazy wp-post-image" alt="Linebacker Reuben Foster (10) of the Alabama Crimson Tide against the LSU Tigers at Tiger Stadium in Baton Rouge, LA Photographer: Tyler Kaufman/Icon Sportswire" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/13192200/234141109232_Alabama_v_LSU-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/13192200/234141109232_Alabama_v_LSU-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Do the Raiders have a shot at drafting Reuben Foster?</a></li><li><a href="http://www.fanragsports.com/nfl/bears/bears-will-difficult-time-moving-jay-cutler/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/14191239/DEX160919027_EAGLES_AT_BEARS-300x180.jpg" class="unlazy wp-post-image" alt="19 September 2016: Chicago Bears Quarterback Jay Cutler (6) [7816] during an NFL football game between the Philadelphia Eagles and the Chicago Bears at Solider Field in Chicago, IL. (Photo by Daniel Bartel/Icon Sportswire)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/14191239/DEX160919027_EAGLES_AT_BEARS-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/14191239/DEX160919027_EAGLES_AT_BEARS-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Bears will have a difficult time moving Jay Cutler</a></li><li><a href="http://www.fanragsports.com/nfl/david-njoku-is-the-best-tight-end-in-the-draft/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/09115634/AP_16363801275903-300x180.jpg" class="unlazy wp-post-image" alt="Miami tight end David Njoku warms up before the first half of the Russell Athletic Bowl NCAA college football game against West Virginia, Wednesday, Dec. 28, 2016, in Orlando, Fla. (AP Photo/John Raoux)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/09115634/AP_16363801275903-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/09115634/AP_16363801275903-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/09115634/AP_16363801275903-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>David Njoku is the best tight end in the draft</a></li></ul></div></li>
+<li id="menu-item-141967" class="mega-dropdown nhl menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141967"><a href="http://www.fanragsports.com/nhl/">NHL</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/nhl/mckenzie-shares-latest-trade-deadline-sentiments/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/03101502/CFP170202019_maple-leafs_at_blues-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/03101502/CFP170202019_maple-leafs_at_blues-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/03101502/CFP170202019_maple-leafs_at_blues-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/03101502/CFP170202019_maple-leafs_at_blues-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>McKenzie shares latest trade deadline sentiments</a></li><li><a href="http://www.fanragsports.com/nhl/flyers/cant-dale-weise-find-success-flyers/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22110323/DBK1702111064_Sharks_at_Flyers-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22110323/DBK1702111064_Sharks_at_Flyers-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22110323/DBK1702111064_Sharks_at_Flyers-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22110323/DBK1702111064_Sharks_at_Flyers-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Why can&#8217;t Dale Weise find success on the Flyers?</a></li><li><a href="http://www.fanragsports.com/nhl/friedman-get-trades-people-love-trades/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/01/31090325/CBP170117038_Blackhawks_at_Avalanche-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/01/31090325/CBP170117038_Blackhawks_at_Avalanche-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/01/31090325/CBP170117038_Blackhawks_at_Avalanche-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/01/31090325/CBP170117038_Blackhawks_at_Avalanche-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Friedman: ‘We get so few trades and people love trades’</a></li><li><a href="http://www.fanragsports.com/nhl/panthers-nhl/florida-panthers-aaron-ekblad-turning-season-around/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22095738/CGV_0109160242_Panthers_at_Devils-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22095738/CGV_0109160242_Panthers_at_Devils-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22095738/CGV_0109160242_Panthers_at_Devils-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22095738/CGV_0109160242_Panthers_at_Devils-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Florida Panthers&#8217; Aaron Ekblad turning season around</a></li><li><a href="http://www.fanragsports.com/nhl/java-ice-nhl-must-reads-february-22/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/01/05074028/DIC16121640_Sharks_at_Canadiens-300x180.jpg" class="unlazy wp-post-image" alt="NHL" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/01/05074028/DIC16121640_Sharks_at_Canadiens-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/01/05074028/DIC16121640_Sharks_at_Canadiens-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/01/05074028/DIC16121640_Sharks_at_Canadiens-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Java on Ice: NHL must-reads for February 22</a></li></ul></div></li>
+<li id="menu-item-207873" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-207873"><a>Play</a>
+<ul class="sub-menu">
+	<li id="menu-item-209639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-209639"><a href="http://www.charitee.golf/">ChariTee Fantasy Golf</a></li>
+	<li id="menu-item-207871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207871"><a href="http://www.fanragsports.com/fantasy-motorsports-fmfl/">Fantasy Motorsports</a></li>
+</ul>
+</li>
+<li id="menu-item-193306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-193306"><a>Connect</a>
+<ul class="sub-menu">
+	<li id="menu-item-193309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193309"><a href="http://www.floridafootballinsiders.com">Florida Football Insiders</a></li>
+	<li id="menu-item-208658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-208658"><a href="http://www.frs.golf">FRS.Golf</a></li>
+	<li id="menu-item-193310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193310"><a href="http://www.thefantasydoctors.com">The Fantasy Doctors</a></li>
+</ul>
+</li>
+<li id="menu-item-148224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-148224"><a>More</a>
+<ul class="sub-menu">
+	<li id="menu-item-200820" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-200820"><a href="http://www.fanragsports.com/golf/">Golf</a></li>
+	<li id="menu-item-187399" class="mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187399"><a href="http://www.fanragsports.com/now/">FRS Now</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/now/watch-oregons-dillon-brooks-hits-another-game-winner/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22211959/Screen-Shot-2017-02-22-at-11.18.38-PM-300x180.png" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22211959/Screen-Shot-2017-02-22-at-11.18.38-PM-300x180.png 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22211959/Screen-Shot-2017-02-22-at-11.18.38-PM-500x300.png 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22211959/Screen-Shot-2017-02-22-at-11.18.38-PM-450x270.png 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>WATCH: Oregon&#8217;s Dillon Brooks hits another game-winner</a></li><li><a href="http://www.fanragsports.com/now/watch-rick-pitino-gets-heated-argument-unc-fan/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22200240/screen_shot_2017-02-22_at_10.01.35_pm-300x180.png" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22200240/screen_shot_2017-02-22_at_10.01.35_pm-300x180.png 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22200240/screen_shot_2017-02-22_at_10.01.35_pm-500x300.png 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22200240/screen_shot_2017-02-22_at_10.01.35_pm-450x270.png 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>WATCH: Rick Pitino gets into heated argument with UNC fan</a></li><li><a href="http://www.fanragsports.com/now/watch-indians-andrew-miller-shows-off-new-pitch/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22195041/Screen-Shot-2017-02-22-at-9.49.01-PM-300x180.png" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22195041/Screen-Shot-2017-02-22-at-9.49.01-PM-300x180.png 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22195041/Screen-Shot-2017-02-22-at-9.49.01-PM-500x300.png 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22195041/Screen-Shot-2017-02-22-at-9.49.01-PM-450x270.png 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>WATCH: Indians&#8217; Andrew Miller shows off new pitch</a></li><li><a href="http://www.fanragsports.com/now/watch-syracuses-john-gillon-hits-buzzer-beater-upset-duke/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22190819/Screen-Shot-2017-02-22-at-9.07.08-PM-300x180.png" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22190819/Screen-Shot-2017-02-22-at-9.07.08-PM-300x180.png 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22190819/Screen-Shot-2017-02-22-at-9.07.08-PM-500x300.png 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22190819/Screen-Shot-2017-02-22-at-9.07.08-PM-450x270.png 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>WATCH: Syracuse&#8217;s John Gillon hits buzzer-beater to upset Duke</a></li><li><a href="http://www.fanragsports.com/now/villanovas-darryl-reynolds-phil-booth-remain/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22185507/CGV_031116407_Villanova_Providence11-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22185507/CGV_031116407_Villanova_Providence11-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22185507/CGV_031116407_Villanova_Providence11-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22185507/CGV_031116407_Villanova_Providence11-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Villanova&#8217;s Darryl Reynolds and Phil Booth remain out</a></li></ul></div></li>
+	<li id="menu-item-139320" class="mega-dropdown menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139320"><a href="http://www.fanragsports.com/podcast/">Podcast</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/podcast/natural-hat-trick-anything-thomas-vanek/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/31145359/CBW161201708_Panthers_at_Red_Wings-300x180.jpg" class="unlazy wp-post-image" alt="CBW161201708_Panthers_at_Red_Wings.jpg December 31, 2016 151 KB 900 × 600 Edit Image Delete Permanently URL http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/31145359/CBW161201708_Panthers_at_Red_Wings.jpg Title NHL: DEC 01 Panthers at Red Wings Caption DETROIT, MI - DECEMBER 01: Detroit Red Wings forward Thomas Vanek, of Austria, (62) skates during a regular season NHL hockey game between the Florida Panthers and the Detroit Red Wings on December 1, 2016, at Joe Louis Arena in Detroit, Michigan. (Photo by Scott Grau/Icon Sportswire) Alt Text Description Set featured image Choose Files" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/31145359/CBW161201708_Panthers_at_Red_Wings-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/31145359/CBW161201708_Panthers_at_Red_Wings-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/31145359/CBW161201708_Panthers_at_Red_Wings-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Natural Hat Trick: Anything for Thomas Vanek</a></li><li><a href="http://www.fanragsports.com/podcast/moonshots-episode-one-lift-off/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22105533/image30-300x180.png" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22105533/image30-300x180.png 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22105533/image30-500x300.png 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22105533/image30-450x270.png 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Moonshots Episode One: Lift Off</a></li><li><a href="http://www.fanragsports.com/podcast/neighborhood-play-podcast-episode-27-mark-rose-spitalfield-downwrite/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21165126/MarkRose_2-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21165126/MarkRose_2-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21165126/MarkRose_2-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21165126/MarkRose_2-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Neighborhood Play Podcast: Episode 27 &#8211; Mark Rose (Spitalfield, DownWrite)</a></li><li><a href="http://www.fanragsports.com/podcast/draft-dudes-offensive-tackle-roundtable/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/10105102/CCL160910074_Akron_at_Wisconsin-300x180.jpg" class="unlazy wp-post-image" alt="10 September 2016: Wisconsin Badgers offensive lineman Ryan Ramczyk (65) in action as the 10th ranked Wisconsin Badgers defeat the Akron Zips (54-10) at Camp Randall Stadium in Madison, WI. (Photo by Dan Sanger/Icon Sportswire)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/10105102/CCL160910074_Akron_at_Wisconsin-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/10105102/CCL160910074_Akron_at_Wisconsin-1000x600.jpg 1000w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/10105102/CCL160910074_Akron_at_Wisconsin-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Draft Dudes &#8211; Offensive tackle roundtable</a></li><li><a href="http://www.fanragsports.com/podcast/no-relation-nfl-podcast-finding-homes-quarterbacks/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/08133148/CEY161226360_Lions_at_Cowboys1-300x180.jpg" class="unlazy wp-post-image" alt="ARLINGTON, TX - DECEMBER 26: Dallas Cowboys Quarterback Tony Romo (9) warms up prior to the Monday Night Football game between the Detroit Lions and Dallas Cowboys on December 26, 2016, at AT&amp;T Stadium in Arlington, TX. (Photo by Andrew Dieb/Icon Sportswire)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/08133148/CEY161226360_Lions_at_Cowboys1-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/08133148/CEY161226360_Lions_at_Cowboys1-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/08133148/CEY161226360_Lions_at_Cowboys1-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>No Relation NFL Podcast: Finding homes for quarterbacks</a></li></ul></div></li>
+	<li id="menu-item-144123" class="mega-dropdown soccer menu-item menu-item-type-taxonomy menu-item-object-category menu-item-144123"><a href="http://www.fanragsports.com/soccer/">Soccer</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/soccer/leicesters-hope-still-alive-despite-loss-sevilla/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22163448/AP_17053771038232-300x180.jpg" class="unlazy wp-post-image" alt="Leicester&#039;s Jamie Vardy, centre, celebrates after he scores a goal during the Champions League round of 16 soccer match between Sevilla and Leicester City at the Ramon Sanchez-Pizjuan stadium in Seville, Spain, Wednesday, Feb. 22, 2017. (AP Photo/Miguel Morenatti)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22163448/AP_17053771038232-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22163448/AP_17053771038232-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22163448/AP_17053771038232-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Leicester&#8217;s hope still alive despite loss to Sevilla</a></li><li><a href="http://www.fanragsports.com/soccer/manchester-city-defeat-monaco-goal-bonanza/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21161846/AP_17052770748951-300x180.jpg" class="unlazy wp-post-image" alt="Manchester City&#039;s Sergio Aguero, center, celebrates with Leroy Sane, right, and John Stones after scoring his side&#039;s third goal during the Champions League round of 16 first leg soccer match between Manchester City and Monaco at the Etihad Stadium in Manchester, England, Tuesday Feb. 21, 2017. (AP Photo/Dave Thompson)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21161846/AP_17052770748951-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21161846/AP_17052770748951-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21161846/AP_17052770748951-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Manchester City defeat Monaco after goal bonanza</a></li><li><a href="http://www.fanragsports.com/soccer/kane-hat-trick-sends-tottenham-fa-cup-quarterfinals/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19100645/AP_17050575074772-300x180.jpg" class="unlazy wp-post-image" alt="Tottenham Hotspur&#039;s Harry Kane celebrates after scoring his side&#039;s third goal during the English FA Cup soccer match between Fulham and Tottenham Hotspur at Craven Cottage stadium in London, Sunday, Feb. 19, 2017.(AP Photo/Frank Augstein)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19100645/AP_17050575074772-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19100645/AP_17050575074772-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19100645/AP_17050575074772-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Kane hat trick sends Tottenham into FA Cup quarterfinals</a></li><li><a href="http://www.fanragsports.com/soccer/gameiro-nets-3-6-minutes-bale-scores-return-liga/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19101838/AP_16328726316207-300x180.jpg" class="unlazy wp-post-image" alt="Atletico&#039;s Kevin Gameiro reacts after loosing the ball in front of the goal during a Champions League, Group D soccer match between Atletico Madrid and PSV Eindhoven at the Vicente Calderon stadium in Madrid, Spain, Wednesday, Nov. 23, 2016. (AP Photo/Paul White)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19101838/AP_16328726316207-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19101838/AP_16328726316207-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19101838/AP_16328726316207-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Gameiro nets 3 in 6 minutes, Bale scores in return in Liga</a></li><li><a href="http://www.fanragsports.com/soccer/nice-holds-beat-lorient-despite-balotellis-red-card/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19101312/AP_170225919647101-300x180.jpg" class="unlazy wp-post-image" alt="FILE- In this Thursday, Nov. 3, 2016 file photo, Nice&#039;s forward Mario Balotelli, of Italy, reacts during the Europa League group I soccer match between OGC Nice and FC Salzburg, in Nice stadium, southeastern France. Nice striker Mario Balotelli’s teammate Alassane Pleas has confirmed he heard Bastia supporters racially abusing Balotelli with monkey chants during the league match on Friday, Jan. 20, 2017. (AP Photo/Claude Paris, File)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19101312/AP_170225919647101-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19101312/AP_170225919647101-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/19101312/AP_170225919647101-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Nice holds on to beat Lorient despite Balotelli&#8217;s red card</a></li></ul></div></li>
+	<li id="menu-item-67616" class="mega-dropdown tennis menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67616"><a href="http://www.fanragsports.com/tennis/">Tennis</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/tennis/federer-enjoys-1st-day-races-vonn-feuz-excel/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/13192232/AP_17030210928479-300x180.jpg" class="unlazy wp-post-image" alt="Switzerland&#039;s Roger Federer poses with his Australian Open trophy at Carlton Gardens in Melbourne, Australia, Monday, Jan. 30, 2017. Federer defeated Spain&#039;s Rafael Nadal in the men&#039;s final at the Australian Open tennis championships on Sunday. (AP Photo/Aaron Favila)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/13192232/AP_17030210928479-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/13192232/AP_17030210928479-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/13192232/AP_17030210928479-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Federer enjoys his 1st day at the races as Vonn, Feuz excel</a></li><li><a href="http://www.fanragsports.com/tennis/anthem-mistake-usa-sweeps-germany-reach-fed-cup-semifinals/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/12180600/fedcup-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/12180600/fedcup-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/12180600/fedcup-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/12180600/fedcup-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>After anthem mistake, USA sweeps Germany to reach Fed Cup semifinals</a></li><li><a href="http://www.fanragsports.com/tennis/dimitrov-stays-hot-title-home-event-zverev-wins-second-title/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/12142704/grigor-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/12142704/grigor-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/12142704/grigor-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/12142704/grigor-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Dimitrov stays hot with title at home event, Zverev wins second title</a></li><li><a href="http://www.fanragsports.com/tennis/toni-nadal-stop-traveling-nephew-rafael-2017-season/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/11113024/AP_17015058194771-300x180.jpg" class="unlazy wp-post-image" alt="AP Photo/Aaron Favila" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/11113024/AP_17015058194771-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/11113024/AP_17015058194771-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/11113024/AP_17015058194771-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Toni Nadal to stop traveling with nephew Rafael after 2017 season</a></li><li><a href="http://www.fanragsports.com/tennis/2nd-seeded-tsonga-3rd-seeded-gasquet-reach-quarterfinals/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/09172813/AP_17024235928352-300x180.jpg" class="unlazy wp-post-image" alt="France&#039;s Jo-Wilfried Tsonga takes a drink during a break in his quarterfinal against Switzerland&#039;s Stan Wawrinka at the Australian Open tennis championships in Melbourne, Australia, Tuesday, Jan. 24, 2017. (AP Photo/Dita Alangkara)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/09172813/AP_17024235928352-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/09172813/AP_17024235928352-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/09172813/AP_17024235928352-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>2nd-seeded Tsonga and 3rd-seeded Gasquet reach quarterfinals</a></li></ul></div></li>
+	<li id="menu-item-175958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175958"><a href="http://www.fanragsports.com/frs-youtube-videos/">Videos</a></li>
+	<li id="menu-item-142477" class="mega-dropdown womens menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142477"><a href="http://www.fanragsports.com/womens/">Womens</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/womens/2017-wnba-offseason-3-team-swap-fever-mercury-sun/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22090208/AP_16273024099455-300x180.jpg" class="unlazy wp-post-image" alt="Phoenix Mercury&#039;s Candice Dupree, right, drives around Minnesota Lynx&#039;s Rebekkah Brunson in the first quarter of a WNBA playoff semi-finals basketball game Wednesday, Sept. 28, 2016, in St. Paul, Minn. (AP Photo/Jim Mone)" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22090208/AP_16273024099455-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22090208/AP_16273024099455-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22090208/AP_16273024099455-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>2017 WNBA offseason: 3-team swap between Fever, Mercury, Sun</a></li><li><a href="http://www.fanragsports.com/womens/marie-philip-poulin-the-definition-of-clutch/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22080549/IMG_4405-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22080549/IMG_4405-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22080549/IMG_4405-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22080549/IMG_4405-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Marie-Philip Poulin: The definition of clutch</a></li><li><a href="http://www.fanragsports.com/womens/infernos-deep-net-playoff-boon/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21102305/Feb19_2017_Inferno_vs_Canadiennes_DIFD_LAINE_SCHUCK_015-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21102305/Feb19_2017_Inferno_vs_Canadiennes_DIFD_LAINE_SCHUCK_015-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21102305/Feb19_2017_Inferno_vs_Canadiennes_DIFD_LAINE_SCHUCK_015-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21102305/Feb19_2017_Inferno_vs_Canadiennes_DIFD_LAINE_SCHUCK_015-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Inferno&#8217;s deep net should be playoff boon</a></li><li><a href="http://www.fanragsports.com/womens/texas-baylor-showdown-sets-up-fierce-late-season-push/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21081252/AP_17052108155593-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21081252/AP_17052108155593-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21081252/AP_17052108155593-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/21081252/AP_17052108155593-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Texas-Baylor showdown sets up fierce late-season push</a></li><li><a href="http://www.fanragsports.com/womens/politics-locker-room-new-tricky-reality-boston-blades/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20102742/Boston-vs-Brampton_20170219_Chris-Tanouye_008-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20102742/Boston-vs-Brampton_20170219_Chris-Tanouye_008-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20102742/Boston-vs-Brampton_20170219_Chris-Tanouye_008-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20102742/Boston-vs-Brampton_20170219_Chris-Tanouye_008-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Politics in locker room a new and tricky reality for Boston Blades</a></li></ul></div></li>
+	<li id="menu-item-141971" class="mega-dropdown wwe menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141971"><a href="http://www.fanragsports.com/wwe/">WWE</a><div class="mega-dropdown"><ul class="mega-list"><li><a href="http://www.fanragsports.com/wwe/smackdown-live-battle-royal-finish-less-ideal/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22132648/SmackDown-Logo-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22132648/SmackDown-Logo-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22132648/SmackDown-Logo-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22132648/SmackDown-Logo-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>SmackDown Live battle royal finish was less than ideal</a></li><li><a href="http://www.fanragsports.com/wwe/braun-strowman-exemplifies-novelty-wrestlings-big-men/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/17143303/30724256510_f72f01d315_o-1-300x180.jpg" class="unlazy wp-post-image" alt="Braun Strowman" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/17143303/30724256510_f72f01d315_o-1-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/11/17143303/30724256510_f72f01d315_o-1-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Braun Strowman exemplifies novelty of wrestling&#8217;s big men</a></li><li><a href="http://www.fanragsports.com/wwe/dear-wwe-chris-jericho-respond/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20134548/Jericho-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20134548/Jericho-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20134548/Jericho-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20134548/Jericho-666x400.jpg 666w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/20134548/Jericho-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Dear WWE: Does Chris Jericho respond?</a></li><li><a href="http://www.fanragsports.com/wwe/nxt-would-be-wise-to-utilize-uk-talent-often-to-freshen-up-product/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/10144156/27046976575_7ad15bc87c_k-300x180.jpg" class="unlazy wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/10144156/27046976575_7ad15bc87c_k-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/12/10144156/27046976575_7ad15bc87c_k-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>NXT would be wise to utilize UK talent often to freshen up product</a></li><li><a href="http://www.fanragsports.com/wwe/dirt-sheets-aj-styles-rumored-wrestlemania-33-opponent/"><div class="mega-img"><img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/18130230/29095627621_b9f6484391_o-1-300x180.jpg" class="unlazy wp-post-image" alt="AJ Styles" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/18130230/29095627621_b9f6484391_o-1-300x180.jpg 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/18130230/29095627621_b9f6484391_o-1-500x300.jpg 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/18130230/29095627621_b9f6484391_o-1-450x270.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></div>Between The Dirt Sheets: AJ Styles&#8217; rumored WrestleMania 33 opponent</a></li></ul></div></li>
+</ul>
+</li>
+</ul></div>												</nav>
+											</div><!--nav-menu-in-->
+											<div class="nav-right-wrap relative">
+												<div class="nav-search-wrap left relative">
+													<span class="nav-search-but left"><i class="fa fa-search fa-2"></i></span>
+													<div class="search-fly-wrap">
+														<form method="get" id="searchform" action="http://www.fanragsports.com/">
+	<input type="text" name="s" id="s" value="Type search term and press enter" onfocus='if (this.value == "Type search term and press enter") { this.value = ""; }' onblur='if (this.value == "") { this.value = "Type search term and press enter"; }' />
+	<input type="hidden" id="searchsubmit" value="Search" />
+</form>													</div><!--search-fly-wrap-->
+												</div><!--nav-search-wrap-->
+																									<a href="http://www.facebook.com/FanragSports" target="_blank">
+													<span class="nav-soc-but"><i class="fa fa-facebook fa-2"></i></span>
+													</a>
+																																					<a href="http://www.twitter.com/FanragSports" target="_blank">
+													<span class="nav-soc-but"><i class="fa fa-twitter fa-2"></i></span>
+													</a>
+																							</div><!--nav-right-wrap-->
+										</div><!--nav-menu-out-->
+									</div><!--nav-logo-in-->
+								</div><!--nav-logo-out-->
+							</div><!--main-nav-cont-->
+						</div><!--nav-in-->
+					</div><!--nav-out-->
+				</div><!--main-nav-wrap-->
+			</div><!--head-main-wrap-->
+										<div id="body-main-wrap" class="left relative" itemscope itemtype="http://schema.org/NewsArticle">
+					<meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="http://www.fanragsports.com/wwe/dirt-sheets-aj-styles-rumored-wrestlemania-33-opponent/"/>
+																																			<div class="body-main-out relative">
+					<div class="body-main-in">
+						<div id="body-main-cont" class="left relative">
+												<div id="post-main-wrap" class="left relative">
+	<div class="post-wrap-out1">
+		<div class="post-wrap-in1">
+			<div id="post-left-col" class="relative">
+									<article id="post-area" class="post-246358 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-frs-news tag-new-england-patriots tag-todays-nfl-news">
+													<header id="post-header">
+																	<a class="post-cat-link" href="http://www.fanragsports.com/news/"><span class="post-head-cat news">FRS News</span></a>
+																<h1 class="post-title entry-title left" itemprop="headline">Report: Patriots&#8217; Bill Belichick may have to testify at Aaron Hernandez&#8217;s trial</h1>
+																	<div id="post-info-wrap" class="left relative">
+										<div class="post-info-out">
+											<div class="post-info-img left relative">
+												<img src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2016/02/29103443/JesseBorek-80x80.jpg" width="50" height="50" alt="Jesse Borek" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />											</div><!--post-info-img-->
+											<div class="post-info-in">
+												<div class="post-info-right left relative">
+													<div class="post-info-name left relative" itemprop="author" itemscope itemtype="https://schema.org/Person">
+														<span class="post-info-text">By</span> <span class="author-name vcard fn author" itemprop="name"><a href="http://www.fanragsports.com/author/jborek/" title="Posts by Jesse Borek" rel="author">Jesse Borek</a></span>  													</div><!--post-info-name-->
+													<div class="post-info-date left relative">
+														<span class="post-info-text">Posted on</span> <span class="post-date updated"><time class="post-date updated" itemprop="datePublished" datetime="2017-02-22">Feb 22, 2017</time></span>
+														<meta itemprop="dateModified" content="2017-02-22"/>
+													</div><!--post-info-date-->
+												</div><!--post-info-right-->
+											</div><!--post-info-in-->
+										</div><!--post-info-out-->
+									</div><!--post-info-wrap-->
+															</header><!--post-header-->
+																																																				<div id="post-feat-img" class="left relative" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+											<img width="1000" height="702" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2015/04/15165030/hernandez.jpg" class="attachment- size- wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2015/04/15165030/hernandez.jpg 1000w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2015/04/15165030/hernandez-300x211.jpg 300w" sizes="(max-width: 1000px) 100vw, 1000px" />																						<meta itemprop="url" content="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2015/04/15165030/hernandez.jpg">
+											<meta itemprop="width" content="1000">
+											<meta itemprop="height" content="702">
+											<div class="post-feat-text">
+																																			</div><!--post-feat-text-->
+										</div><!--post-feat-img-->
+																																										<div id="content-area" itemprop="articleBody" class="post-246358 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-frs-news tag-new-england-patriots tag-todays-nfl-news">
+							<div class="post-cont-out">
+								<div class="post-cont-in">
+									<div id="content-main" class="left relative">
+
+																															
+													
+																					<div id="ad-below-soc" class="left relative">
+														<div class="widget-ad left relative">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fanrag Above Post -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2312818254081580"
+     data-ad-slot="4371154353"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>			</div><!--widget-ad-->
+													</div>
+																																								<div id="tps_slideContainer_246358" class="theiaPostSlider_slides"><div class="theiaPostSlider_preloadedSlide">
+
+<p>New England Patriots head coach Bill Belichick <a href="http://www.espn.com/nfl/story/_/id/18742276/patriots-bill-belichick-list-potential-witnesses-aaron-hernandez-double-murder-trial">may be called to testify</a> at former tight end Aaron Hernandez&#8217;s double murder trial if his name is chosen off the defense&#8217;s witness list. Offensive coordinator Josh McDaniels is also mentioned on the same list, as the defense prepares their witnesses in a 2012 case in which Hernandez has been charged with a double homicide in a drive-by shooting.  Hernandez is currently serving a life sentence since 2015 for the killing of Odin Lloyd.</p>
+<p>Belichick was the only head coach Hernandez had in his three seasons in the NFL. The Patriots (and largely Belichick) drafted him in the fourth round of the 2010 NFL Draft out of Florida, despite reports that he had failed multiple drug tests while in college.</p>
+<p>His best season came in 2011, when the Patriots unleashed the tandem of Hernandez and fellow tight end Rob Gronkowski in two-tight end packages, with Hernandez catching 79 passes for 910 yards and seven touchdowns. The duo own the single-season record for receptions, receiving yards, and touchdowns for tight end teammates. For his career, Hernandez finished with 175 catches for 1,956 yards and 18 touchdowns over 38 games, all of which came under Belichick.</p>
+<div class="ftb-widget" data-width="800" data-height="450" data-widget-id="lT6EN9ax0H3" data-frozen="" data-href="">
+	</div>
+
+<p>Hernandez would not make it to his fourth NFL season, where he was set to begin cashing in on the $40 million contract extension he had received from New England. He was charged with first-degree murder in June, before being found guilty in April 2015 and sentenced to life imprisonment.</p>
+<p>The case that Belichick (and McDaniels) would be asked to testify at represents another case entirely, one in which Hernandez is on trial for a double homicide.</p>
+
+</div></div><div class="theiaPostSlider_footer _footer"></div><p><!-- END THEIA POST SLIDER --></p>
+<div data-theiaPostSlider-sliderOptions='{&quot;slideContainer&quot;:&quot;#tps_slideContainer_246358&quot;,&quot;nav&quot;:[&quot;.theiaPostSlider_nav&quot;],&quot;navText&quot;:&quot;%{currentSlide} of %{totalSlides}&quot;,&quot;helperText&quot;:&quot;Use your \u2190 \u2192 (arrow) keys to browse&quot;,&quot;defaultSlide&quot;:0,&quot;transitionEffect&quot;:&quot;simple&quot;,&quot;transitionSpeed&quot;:400,&quot;keyboardShortcuts&quot;:true,&quot;scrollAfterRefresh&quot;:true,&quot;numberOfSlides&quot;:1,&quot;slides&quot;:[],&quot;useSlideSources&quot;:null,&quot;themeType&quot;:&quot;font&quot;,&quot;prevText&quot;:&quot;Prev&quot;,&quot;nextText&quot;:&quot;Next&quot;,&quot;buttonWidth&quot;:0,&quot;buttonWidth_post&quot;:0,&quot;postUrl&quot;:&quot;http:\/\/www.fanragsports.com\/news\/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial\/&quot;,&quot;postId&quot;:246358,&quot;refreshAds&quot;:false,&quot;refreshAdsEveryNSlides&quot;:1,&quot;adRefreshingMechanism&quot;:&quot;javascript&quot;,&quot;ajaxUrl&quot;:&quot;http:\/\/www.fanragsports.com\/wp-admin\/admin-ajax.php&quot;,&quot;loopSlides&quot;:false,&quot;scrollTopOffset&quot;:0,&quot;hideNavigationOnFirstSlide&quot;:false,&quot;isRtl&quot;:false,&quot;excludedWords&quot;:[&quot;&quot;],&quot;prevFontIcon&quot;:&quot;&lt;span aria-hidden=\&quot;true\&quot; class=\&quot;tps-icon-angle-double-left\&quot;&gt;&lt;\/span&gt;&quot;,&quot;nextFontIcon&quot;:&quot;&lt;span aria-hidden=\&quot;true\&quot; class=\&quot;tps-icon-angle-double-right\&quot;&gt;&lt;\/span&gt;&quot;}' 
+					 data-theiaPostSlider-onChangeSlide='&quot;&quot;'></div>																														<div class="mvp-org-wrap" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+											<div class="mvp-org-logo" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+																									<img src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/fanrag_sports_logo_sm.png"/>
+													<meta itemprop="url" content="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/fanrag_sports_logo_sm.png">
+																							</div><!--mvp-org-logo-->
+											<meta itemprop="name" content="FanRag Sports">
+										</div><!--mvp-org-wrap-->
+										<div class="posts-nav-link">
+																					</div><!--posts-nav-link-->
+																					<div id="locked-below-post" class="left relative">
+														<div class="widget-ad left relative">
+				<div class="ad-above-match"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fanrag Below Post -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2312818254081580"
+     data-ad-slot="6224173950"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>			</div><!--widget-ad-->
+					<div class="widget-ad left relative">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- FanRag Matched Content -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2312818254081580"
+     data-ad-slot="2844066752"
+     data-ad-format="autorelaxed"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>			</div><!--widget-ad-->
+													</div>
+																				<div id="dual-below-post" class="relative">
+																														</div>
+																					<div class="post-tags">
+												<span class="post-tags-header">Related Items:</span><span itemprop="keywords"><a href="http://www.fanragsports.com/tag/frs-news/" rel="tag">FRS News</a>, <a href="http://www.fanragsports.com/tag/new-england-patriots/" rel="tag">New England Patriots</a>, <a href="http://www.fanragsports.com/tag/todays-nfl-news/" rel="tag">Today's NFL News</a></span>
+											</div><!--post-tags-->
+																															<div class="social-sharing-bot">
+												<a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.fanragsports.com/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/&amp;t=Report: Patriots&#8217; Bill Belichick may have to testify at Aaron Hernandez&#8217;s trial', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><div class="facebook-share"><span class="fb-but1"><i class="fa fa-facebook fa-2"></i></span><span class="social-text">Share</span></div></a>
+												<a href="#" onclick="window.open('http://twitter.com/share?text=Report: Patriots&#8217; Bill Belichick may have to testify at Aaron Hernandez&#8217;s trial -&amp;url=http://www.fanragsports.com/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><div class="twitter-share"><span class="twitter-but1"><i class="fa fa-twitter fa-2"></i></span><span class="social-text">Tweet</span></div></a>
+												<a href="whatsapp://send?text=Report: Patriots&#8217; Bill Belichick may have to testify at Aaron Hernandez&#8217;s trial http://www.fanragsports.com/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/"><div class="whatsapp-share"><span class="whatsapp-but1"><i class="fa fa-whatsapp fa-2"></i></span><span class="social-text">Share</span></div></a>
+												<a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://www.fanragsports.com/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/&amp;media=http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2015/04/15165030/hernandez.jpg&amp;description=Report: Patriots&#8217; Bill Belichick may have to testify at Aaron Hernandez&#8217;s trial', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><div class="pinterest-share"><span class="pinterest-but1"><i class="fa fa-pinterest-p fa-2"></i></span><span class="social-text">Share</span></div></a>
+												<a href="mailto:?subject=Report: Patriots&#8217; Bill Belichick may have to testify at Aaron Hernandez&#8217;s trial&amp;BODY=I found this article interesting and thought of sharing it with you. Check it out: http://www.fanragsports.com/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/"><div class="email-share"><span class="email-but"><i class="fa fa-envelope fa-2"></i></span><span class="social-text">Email</span></div></a>
+											</div><!--social-sharing-bot-->
+																																																																																																	<div id="comments-button" class="left relative comment-click-246358 com-but-246358 news">
+													<span class="comment-but-text news">Click to comment</span>
+												</div><!--comments-button2-->
+												<div id="comments" class="com-click-id-246358 com-click-main">
+				
+	
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h4 class="post-header"><span class="post-header">Leave a Reply</span></h4> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/news/report-patriots-bill-belichick-may-testify-aaron-hernandezs-trial/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://www.fanragsports.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='246358' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="bb7d8fc31d" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="105"/></p>			</form>
+			</div><!-- #respond -->
+	
+</div><!--comments-->																														</div><!--content-main-->
+								</div><!--post-cont-in-->
+															</div><!--post-cont-out-->
+						</div><!--content-area-->
+					</article>
+																			</div><!--post-left-col-->
+			</div><!--post-wrap-in1-->
+							<div id="post-right-col" class="relative">
+																		<div id="sidebar-wrap" class="left relative">
+						<div id="mvp_tagrow_frs_widget-22" class="side-widget mvp_tagrow_frs_widget"><h4 class="post-header"><span class="post-header">Latest FRS Now</span></h4>			<div class="row-widget-wrap left relative">
+				<ul class="row-widget-list">
+											<li>
+							<a href="http://www.fanragsports.com/now/watch-oregons-dillon-brooks-hits-another-game-winner/" rel="bookmark">
+															<div class="row-widget-img left relative">
+										<img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22211959/Screen-Shot-2017-02-22-at-11.18.38-PM-300x180.png" class="reg-img wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22211959/Screen-Shot-2017-02-22-at-11.18.38-PM-300x180.png 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22211959/Screen-Shot-2017-02-22-at-11.18.38-PM-500x300.png 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22211959/Screen-Shot-2017-02-22-at-11.18.38-PM-450x270.png 450w" sizes="(max-width: 300px) 100vw, 300px" />										<img width="80" height="80" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22211959/Screen-Shot-2017-02-22-at-11.18.38-PM-80x80.png" class="mob-img wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22211959/Screen-Shot-2017-02-22-at-11.18.38-PM-80x80.png 80w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22211959/Screen-Shot-2017-02-22-at-11.18.38-PM-150x150.png 150w" sizes="(max-width: 80px) 100vw, 80px" />									
+																	</div><!--row-widget-img-->
+														<div class="row-widget-text left relative">
+														<span class="side-list-cat now">FRS Now</span>
+								<p>WATCH: Oregon&#8217;s Dillon Brooks hits another game-winner</p>
+								<div class="row-widget-auth-name left relative">
+								<span class="row-widget-info-auth">By</span> <span class="author-name" itemprop="author">Jesse Borek</span>
+								</div>
+							</div><!--row-widget-text-->
+							</a>
+						</li>
+											<li>
+							<a href="http://www.fanragsports.com/now/watch-rick-pitino-gets-heated-argument-unc-fan/" rel="bookmark">
+															<div class="row-widget-img left relative">
+										<img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22200240/screen_shot_2017-02-22_at_10.01.35_pm-300x180.png" class="reg-img wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22200240/screen_shot_2017-02-22_at_10.01.35_pm-300x180.png 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22200240/screen_shot_2017-02-22_at_10.01.35_pm-500x300.png 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22200240/screen_shot_2017-02-22_at_10.01.35_pm-450x270.png 450w" sizes="(max-width: 300px) 100vw, 300px" />										<img width="80" height="80" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22200240/screen_shot_2017-02-22_at_10.01.35_pm-80x80.png" class="mob-img wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22200240/screen_shot_2017-02-22_at_10.01.35_pm-80x80.png 80w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22200240/screen_shot_2017-02-22_at_10.01.35_pm-150x150.png 150w" sizes="(max-width: 80px) 100vw, 80px" />									
+																	</div><!--row-widget-img-->
+														<div class="row-widget-text left relative">
+														<span class="side-list-cat now">FRS Now</span>
+								<p>WATCH: Rick Pitino gets into heated argument with UNC fan</p>
+								<div class="row-widget-auth-name left relative">
+								<span class="row-widget-info-auth">By</span> <span class="author-name" itemprop="author">Jesse Borek</span>
+								</div>
+							</div><!--row-widget-text-->
+							</a>
+						</li>
+											<li>
+							<a href="http://www.fanragsports.com/now/watch-indians-andrew-miller-shows-off-new-pitch/" rel="bookmark">
+															<div class="row-widget-img left relative">
+										<img width="300" height="180" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22195041/Screen-Shot-2017-02-22-at-9.49.01-PM-300x180.png" class="reg-img wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22195041/Screen-Shot-2017-02-22-at-9.49.01-PM-300x180.png 300w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22195041/Screen-Shot-2017-02-22-at-9.49.01-PM-500x300.png 500w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22195041/Screen-Shot-2017-02-22-at-9.49.01-PM-450x270.png 450w" sizes="(max-width: 300px) 100vw, 300px" />										<img width="80" height="80" src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22195041/Screen-Shot-2017-02-22-at-9.49.01-PM-80x80.png" class="mob-img wp-post-image" alt="" srcset="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22195041/Screen-Shot-2017-02-22-at-9.49.01-PM-80x80.png 80w, http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2017/02/22195041/Screen-Shot-2017-02-22-at-9.49.01-PM-150x150.png 150w" sizes="(max-width: 80px) 100vw, 80px" />									
+																	</div><!--row-widget-img-->
+														<div class="row-widget-text left relative">
+														<span class="side-list-cat now">FRS Now</span>
+								<p>WATCH: Indians&#8217; Andrew Miller shows off new pitch</p>
+								<div class="row-widget-auth-name left relative">
+								<span class="row-widget-info-auth">By</span> <span class="author-name" itemprop="author">Jesse Borek</span>
+								</div>
+							</div><!--row-widget-text-->
+							</a>
+						</li>
+									</ul>
+			</div><!--row-widget-wrap-->
+		</div>			<div class="widget-ad left relative">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- FanRag Right Sidebar 300x600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-2312818254081580"
+     data-ad-slot="2599446750"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>			</div><!--widget-ad-->
+					</div><!--sidebar-wrap-->
+															</div><!--post-right-col-->
+					</div><!--post-wrap-out1-->
+</div><!--post-main-wrap-->
+																		</div><!--body-main-cont-->
+				</div><!--body-main-in-->
+			</div><!--body-main-out-->
+			<footer id="foot-wrap" class="left relative">
+				<div id="foot-top-wrap" class="left relative">
+					<div class="body-main-out relative">
+						<div class="body-main-in">
+							<div id="foot-widget-wrap" class="left relative">
+																	<div class="foot-widget left relative">
+																					<div class="foot-logo left realtive">
+												<img src="http://d3d2maoophos6y.cloudfront.net/wp-content/uploads/2015/08/19124607/FRS-Network.png" alt="FanRag Sports" />
+											</div><!--foot-logo-->
+																				<div class="foot-info-text left relative">
+											<p style="text-align: left">FanRag Sports Strives To Provide You Quality, Professional Journalism Covering All The Latest News And Information In The World Of Sports.  FanRag Sports is an Associated Press Sports Editors Association member. Our Writers Are Held To A Strict Code Of Conduct And Professionalism. Our Mission Is To Be Your Go-To For All Things Sports. Be A FanRag Sports Fan Today!</p>										</div><!--footer-info-text-->
+										<div class="foot-soc left relative">
+											<ul class="foot-soc-list relative">
+																									<li class="foot-soc-fb">
+														<a href="http://www.facebook.com/FanragSports" target="_blank"><i class="fa fa-facebook-square fa-2"></i></a>
+													</li>
+																																					<li class="foot-soc-twit">
+														<a href="http://www.twitter.com/FanragSports" target="_blank"><i class="fa fa-twitter-square fa-2"></i></a>
+													</li>
+																																					<li class="foot-soc-pin">
+														<a href="http://www.pinterest.com/fanragsports/" target="_blank"><i class="fa fa-pinterest-square fa-2"></i></a>
+													</li>
+																																																	<li class="foot-soc-goog">
+														<a href="https://plus.google.com/+FanRagSports/posts" target="_blank"><i class="fa fa-google-plus-square fa-2"></i></a>
+													</li>
+																																					<li class="foot-soc-yt">
+														<a href="https://www.youtube.com/channel/UClSrD-yuPoB-BC1FT3_fqQQ" target="_blank"><i class="fa fa-youtube-play fa-2"></i></a>
+													</li>
+																																																	<li class="foot-soc-tumb">
+														<a href="http://www.FanragSports.tumblr.com" target="_blank"><i class="fa fa-tumblr-square fa-2"></i></a>
+													</li>
+																																					<li class="foot-soc-rss">
+														<a href="http://www.fanragsports.com/feed/rss/" target="_blank"><i class="fa fa-rss-square fa-2"></i></a>
+													</li>
+																							</ul>
+										</div><!--foot-soc-->
+									</div><!--foot-widget-->
+																<div id="mvp_facebook_widget-2" class="foot-widget left relative mvp_facebook_widget">			<div class="fb-page" data-href="http://www.facebook.com/FanRagSports" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"></div></div>
+			<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		</div><div id="mvp_tags_widget-2" class="foot-widget left relative mvp_tags_widget"><h3 class="foot-head">Favorite FRS Tags</h3>
+			<div class="tag-cloud left relative">
+				<a href='http://www.fanragsports.com/tag/frs-news/' class='tag-link-6377 tag-link-position-1' title='3,955 topics' style='font-size: 10px;'>FRS News</a>
+<a href='http://www.fanragsports.com/tag/nfl-news/' class='tag-link-1634 tag-link-position-2' title='1,199 topics' style='font-size: 10px;'>Todays NFL News</a>
+<a href='http://www.fanragsports.com/tag/frs-feature/' class='tag-link-2058 tag-link-position-3' title='1,133 topics' style='font-size: 10px;'>FRS Feature</a>
+<a href='http://www.fanragsports.com/tag/frs-now/' class='tag-link-6715 tag-link-position-4' title='768 topics' style='font-size: 10px;'>FRS Now</a>
+<a href='http://www.fanragsports.com/tag/u-news/' class='tag-link-1890 tag-link-position-5' title='694 topics' style='font-size: 10px;'>Todays U News</a>
+<a href='http://www.fanragsports.com/tag/nba-news/' class='tag-link-1828 tag-link-position-6' title='527 topics' style='font-size: 10px;'>Todays NBA News</a>
+<a href='http://www.fanragsports.com/tag/todays-nfl-news/' class='tag-link-6726 tag-link-position-7' title='474 topics' style='font-size: 10px;'>Today&#039;s NFL News</a>
+<a href='http://www.fanragsports.com/tag/nhl-news/' class='tag-link-1867 tag-link-position-8' title='402 topics' style='font-size: 10px;'>Todays NHL News</a>
+<a href='http://www.fanragsports.com/tag/the-ap/' class='tag-link-6844 tag-link-position-9' title='372 topics' style='font-size: 10px;'>The AP</a>
+<a href='http://www.fanragsports.com/tag/mlb-news/' class='tag-link-1834 tag-link-position-10' title='364 topics' style='font-size: 10px;'>Todays MLB News</a>
+<a href='http://www.fanragsports.com/tag/new-england-patriots/' class='tag-link-180 tag-link-position-11' title='364 topics' style='font-size: 10px;'>New England Patriots</a>
+<a href='http://www.fanragsports.com/tag/dallas-cowboys/' class='tag-link-431 tag-link-position-12' title='353 topics' style='font-size: 10px;'>Dallas Cowboys</a>
+<a href='http://www.fanragsports.com/tag/nhl-east/' class='tag-link-6434 tag-link-position-13' title='343 topics' style='font-size: 10px;'>NHL East</a>
+<a href='http://www.fanragsports.com/tag/nba-east/' class='tag-link-6557 tag-link-position-14' title='332 topics' style='font-size: 10px;'>NBA East</a>
+<a href='http://www.fanragsports.com/tag/ufc/' class='tag-link-693 tag-link-position-15' title='311 topics' style='font-size: 10px;'>UFC</a>
+<a href='http://www.fanragsports.com/tag/nba-west/' class='tag-link-6587 tag-link-position-16' title='306 topics' style='font-size: 10px;'>NBA West</a>
+<a href='http://www.fanragsports.com/tag/golden-state-warriors/' class='tag-link-82 tag-link-position-17' title='276 topics' style='font-size: 10px;'>Golden State Warriors</a>
+<a href='http://www.fanragsports.com/tag/nhl-west/' class='tag-link-6435 tag-link-position-18' title='270 topics' style='font-size: 10px;'>NHL West</a>
+<a href='http://www.fanragsports.com/tag/cleveland-cavaliers/' class='tag-link-81 tag-link-position-19' title='261 topics' style='font-size: 10px;'>Cleveland Cavaliers</a>
+<a href='http://www.fanragsports.com/tag/nfc-south/' class='tag-link-242 tag-link-position-20' title='261 topics' style='font-size: 10px;'>NFC South</a>
+<a href='http://www.fanragsports.com/tag/afc-east/' class='tag-link-955 tag-link-position-21' title='229 topics' style='font-size: 10px;'>AFC East</a>
+<a href='http://www.fanragsports.com/tag/nfc-east/' class='tag-link-1006 tag-link-position-22' title='219 topics' style='font-size: 10px;'>NFC East</a>
+<a href='http://www.fanragsports.com/tag/atlanta-falcons/' class='tag-link-134 tag-link-position-23' title='207 topics' style='font-size: 10px;'>Atlanta Falcons</a>
+<a href='http://www.fanragsports.com/tag/afc-west/' class='tag-link-1017 tag-link-position-24' title='201 topics' style='font-size: 10px;'>AFC West</a>
+<a href='http://www.fanragsports.com/tag/pittsburgh-steelers/' class='tag-link-190 tag-link-position-25' title='200 topics' style='font-size: 10px;'>Pittsburgh Steelers</a>			</div>
+
+		</div>							</div><!--foot-widget-wrap-->
+						</div><!--body-main-in-->
+					</div><!--body-main-out-->
+				</div><!--foot-top-->
+				<div id="foot-bot-wrap" class="left relative">
+					<div class="body-main-out relative">
+						<div class="body-main-in">
+							<div id="foot-bot" class="left relative">
+								<div class="foot-menu relative">
+									<div class="menu-bottom-bar-menu-container"><ul id="menu-bottom-bar-menu" class="menu"><li id="menu-item-140550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140550"><a href="http://www.fanragsports.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-77979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77979"><a href="http://www.fanragsports.com/about-frsn/">About FRSN</a></li>
+<li id="menu-item-77980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77980"><a href="http://www.fanragsports.com/frsn-authors/">FRSN Authors</a></li>
+<li id="menu-item-77982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77982"><a href="http://www.fanragsports.com/frsn-terms-useprivacy/">FRSN Terms of Use/Privacy</a></li>
+</ul></div>								</div><!--foot-menu-->
+								<div class="foot-copy relative">
+									<p>© 2013-2017 Nafstrops Media, LLC - All Rights Reserved</p>
+								</div><!--foot-copy-->
+							</div><!--foot-bot-->
+						</div><!--body-main-in-->
+					</div><!--body-main-out-->
+				</div><!--foot-bot-->
+			</footer>
+		</div><!--body-main-wrap-->
+	</div><!--site-wrap-->
+</div><!--site-->
+<div class="fly-to-top back-to-top">
+	<i class="fa fa-angle-up fa-3"></i>
+	<span class="to-top-text">To Top</span>
+</div><!--fly-to-top-->
+<div class="fly-fade">
+</div><!--fly-fade-->
+	<script type="text/javascript">
+
+	jQuery('body').on('geo_timeout_error', onGeo_timeout_error);
+
+	function onGeo_timeout_error() {
+		console.warn('The geolocationGetCurrent timed out');
+
+		var html  = '<h2 style="margin-top:36px;">GPS Failed</h2>';
+			html += '<p>Your GPS did not respond. Be sure you have your GPS enabled and try again.</p>';
+			html += '<button onclick="AppGeo_getLoc()">Try Again</button>';
+			html += '<div style="height:1000px"></div>'; // a little hack to hide the checkin button without really tampering with it.
+
+		jQuery('#map-canvas').html(html);
+
+	}
+
+	</script>
+				<div data-theiaStickySidebar-sidebarSelector='"#tab-col3,#tab-col2,#arch-right-col,#post-right-col"'
+		     data-theiaStickySidebar-options='{"containerSelector":"#main-content","additionalMarginTop":10,"additionalMarginBottom":5,"updateSidebarHeight":false,"minWidth":1025,"sidebarBehavior":"stick-to-bottom","disableOnResponsiveLayouts":true}'></div>
+				<div data-theiaStickySidebar-sidebarSelector='"#secondary, #sidebar, .sidebar, #primary"'
+		     data-theiaStickySidebar-options='{"containerSelector":"","additionalMarginTop":0,"additionalMarginBottom":0,"updateSidebarHeight":false,"minWidth":0,"sidebarBehavior":"modern","disableOnResponsiveLayouts":true}'></div>
+		
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+
+	// Back to Top Button
+    	var duration = 500;
+    	$('.back-to-top').click(function(event) {
+          event.preventDefault();
+          $('html, body').animate({scrollTop: 0}, duration);
+          return false;
+	});
+
+	// Main Menu Dropdown Toggle
+	$('.menu-item-has-children a').click(function(event){
+	  event.stopPropagation();
+	  location.href = this.href;
+  	});
+
+	$('.menu-item-has-children').click(function(){
+    	  $(this).addClass('toggled');
+    	  if($('.menu-item-has-children').hasClass('toggled'))
+    	  {
+    	  $(this).children('ul').toggle();
+	  $('.fly-nav-menu').getNiceScroll().resize();
+	  }
+	  $(this).toggleClass('tog-minus');
+    	  return false;
+  	});
+
+	// Main Menu Scroll
+	$(window).load(function(){
+	  $('.fly-nav-menu').niceScroll({cursorcolor:"#888",cursorwidth: 7,cursorborder: 0,zindex:999999});
+	});
+
+	  	$(".comment-click-246358").on("click", function(){
+  	  $(".com-click-id-246358").show();
+	  $(".disqus-thread-246358").show();
+  	  $(".com-but-246358").hide();
+  	});
+	
+	// Infinite Scroll
+	$('.infinite-content').infinitescroll({
+	  navSelector: ".nav-links",
+	  nextSelector: ".nav-links a:first",
+	  itemSelector: ".infinite-post",
+	  loading: {
+		msgText: "Loading more posts...",
+		finishedMsg: "Sorry, no more posts"
+	  },
+	  errorCallback: function(){ $(".inf-more-but").css("display", "none") }
+	});
+	$(window).unbind('.infscr');
+	$(".inf-more-but").click(function(){
+   		$('.infinite-content').infinitescroll('retrieve');
+        	return false;
+	});
+	$(window).load(function(){
+		if ($('.nav-links a').length) {
+			$('.inf-more-but').css('display','inline-block');
+		} else {
+			$('.inf-more-but').css('display','none');
+		}
+	});
+
+$(window).load(function() {
+  // The slider being synced must be initialized first
+  $('.post-gallery-bot').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: true,
+    slideshow: false,
+    itemWidth: 80,
+    itemMargin: 10,
+    asNavFor: '.post-gallery-top'
+  });
+
+  $('.post-gallery-top').flexslider({
+    animation: "fade",
+    controlNav: false,
+    animationLoop: true,
+    slideshow: false,
+    	  prevText: "&lt;",
+          nextText: "&gt;",
+    sync: ".post-gallery-bot"
+  });
+});
+
+});
+
+</script>
+
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/akismet/_inc/form.js?ver=3.2'></script>
+<link rel='stylesheet' id='nlpcss-css'  href='http://www.fanragsports.com/wp-content/plugins/network-latest-posts/css/default_style.css?ver=4.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.fanragsports.com/wp-includes/js/comment-reply.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/theia-sticky-sidebar/js/theia-sticky-sidebar.js?ver=1.6.3'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/theia-sticky-sidebar/js/main.js?ver=1.6.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ctcc_vars = {"expiry":"30","method":"1","version":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js?ver=2.3.0'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/themes/flex-mag/js/scripts.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/themes/flex-mag/js/jquery.infinitescroll.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.fanragsports.com/wp-content/plugins/findthebest-widget-designer/js/widgets.js?ver=4.7.2'></script>
+			
+				<script type="text/javascript">
+					jQuery(document).ready(function($){
+												if(!catapultReadCookie("catAccCookies")){ // If the cookie has not been set then show the bar
+							$("html").addClass("has-cookie-bar");
+							$("html").addClass("cookie-bar-bottom-bar");
+							$("html").addClass("cookie-bar-bar");
+													}
+																			ctccFirstPage();
+											});
+				</script>
+			
+			<div id="catapult-cookie-bar" class=""><div class="ctcc-inner "><span class="ctcc-left-side">This site uses cookies to improve your experience. <a class="ctcc-more-info-link" tabindex=0 target="_blank" href="http://www.fanragsports.com/frsn-terms-useprivacy/">Read more.</a></span><span class="ctcc-right-side"><button id="catapultCookie" tabindex=0 onclick="catapultAcceptCookies();">Ok</button></span></div><!-- custom wrapper class --></div><!-- #catapult-cookie-bar --></body>
+</html>

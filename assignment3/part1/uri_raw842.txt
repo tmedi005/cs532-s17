@@ -1,0 +1,1691 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+        
+<meta charset="utf-8">
+<title>Oscar Voter Reveals Her Brutally Honest Ballot: Meryl Streep &quot;Like a Clown,&quot; &#039;La La Land&#039; &quot;Not Memorable,&quot; &#039;Arrival&#039; &quot;Just Sucked&quot; | Hollywood Reporter</title>
+
+<meta name="viewport" content="width=device-width" />
+
+<meta name="description" content="An Academy voter makes her case for &#039;Hell or High Water&#039; (&quot;It will be remembered as a true American classic&quot;), says Emma Stone wasn&#039;t &quot;as wonderful as people are saying,&quot; and explains why Viola Davis is in the wrong category (&quot;That really irks me&quot;)." />
+<meta name="twitter:site" content="@THR" />
+<meta name="twitter:creator" content="@THR" />
+<meta name="twitter:url" content="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora" />
+<meta name="twitter:domain" content="http://www.hollywoodreporter.com/" />
+<meta name="twitter:title" content="Oscar Voter Reveals Her Brutally Honest Ballot: Meryl Streep &quot;Like a Clown,&quot; &#039;La La Land&#039; &quot;Not Memorable,&quot; &#039;Arrival&#039; &quot;Just Sucked&quot;" />
+<meta name="twitter:description" content="An Academy voter makes her case for &#039;Hell or High Water&#039; (&quot;It will be remembered as a true American classic&quot;), says Emma Stone wasn&#039;t &quot;as wonderful as people are saying,&quot; and explains why Viola Davis is in the wrong category (&quot;That really irks me&quot;)." />
+<meta name="twitter:image" content="http://cdn2.thr.com/sites/default/files/imagecache/NFE_Landscape/2017/02/rev_km_hr_oscar_main_final_feb15_-_h_2017.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:site_name" content="The Hollywood Reporter" />
+<meta property="fb:admins" content="3111204" />
+<meta property="og:title" content="Oscar Voter Reveals Her Brutally Honest Ballot: Meryl Streep &quot;Like a Clown,&quot; &#039;La La Land&#039; &quot;Not Memorable,&quot; &#039;Arrival&#039; &quot;Just Sucked&quot;" />
+<meta property="og:description" content="An Academy voter makes her case for &#039;Hell or High Water&#039; (&quot;It will be remembered as a true American classic&quot;), says Emma Stone wasn&#039;t &quot;as wonderful as people are saying,&quot; and explains why Viola Davis is in the wrong category (&quot;That really irks me&quot;)." />
+<meta property="og:url" content="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora" />
+<meta property="og:image" content="http://cdn2.thr.com/sites/default/files/2017/02/rev_km_hr_oscar_main_final_feb15_-_h_2017.jpg" />
+<meta property="og:image:width" content="1296" />
+<meta property="og:image:height" content="730" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:type" content="article" />
+
+<link rel="canonical" href="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora" />
+
+<link rel="shortcut icon" href="/static/frontend/2017_02_22_1300/assets/images/brand/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/frontend/2017_02_22_1300/assets/images/brand/apple-touch-icon.png">
+
+
+<script type="text/javascript">
+    
+    var PGM = window.PGM || {};
+    PGM.config = PGM.config || {
+        contentHost: "//www.hollywoodreporter.com",
+    };
+    (function(PGM) {
+        var debug_queue = [];
+        PGM.debug = function() {debug_queue.push(arguments);};
+        PGM.debug.dump = function() {return debug_queue;}
+        PGM.debug.initialCategories = {
+                    };
+    })(PGM);
+
+    PGM.events = (function() {
+        var events_queue = [];
+        return {
+            trigger: function() {events_queue.push(arguments); },
+            get: function() { return events_queue; }
+        };
+    })();
+
+    PGM.createScript = (function() {
+        var q = [], cs = function createScript() { q.push(arguments) };
+        cs.dump = function() {return q;};
+        return cs;
+    })();
+
+    PGM.createScriptTag = (function() {
+        var q = [], cs = function createScriptTag() { q.push(arguments) };
+        cs.dump = function() {return q;};
+        return cs;
+    })();
+
+        PGM.tests = [];
+    PGM.ads = PGM.ads || {};
+    PGM.ads.adUnit = '/';
+    PGM.ads.slots = PGM.ads.slots || {};
+</script>
+<script src="http://ads.blbrd.co/advertisement.js"></script>
+<script type="text/javascript">
+    
+    var PGM = window.PGM || {};
+    PGM.mediaQueries = {
+        medium: "only screen and (min-width: 768px)",
+        large: "only screen and (min-width: 1024px)"
+    };
+    PGM.ads = PGM.ads || {};
+    PGM.ads.allAdsDeferred = false;
+</script>
+
+<script>
+var THR = THR || {};
+THR.config = THR.config || {
+    contentHost: "//www.hollywoodreporter.com",
+    debug: "",
+    getMediaHost: function(path) {
+        var mediaHosts=["//cdn1.thr.com","//cdn2.thr.com","//cdn3.thr.com","//cdn4.thr.com","//cdn5.thr.com"],s=0,i=0;
+        for(; i<path.length; i++){s+=path.charCodeAt(i);}return (mediaHosts.length>0?mediaHosts[s%mediaHosts.length]:'')+path;
+    }
+};
+</script>
+
+
+<!-- Start: GPT -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+var PGM = PGM || {};
+PGM.ads = PGM.ads || {};
+PGM.ads.adUnit = '/6419/thr.com/awards.list';
+PGM.ads.data = {"ad_zone":"awards.list","targeting":{"page":["977482"],"tags":["the race","awards","movies","usa","thr weekly magazine","oscars","oscars 2017"],"env":["prod"]},"slots":{"t":{"adUnit":null,"slotName":"t","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[980,50],[728,90],[970,90],[728,91],[980,250],[970,250],[970,66],[970,51],[970,251]],"767":[[728,90],[728,91]],"0":[[300,50],[300,51],[320,50],[320,51],[320,170]]},"targetingParameters":{"pos":["t"]}},"m1":{"adUnit":null,"slotName":"m1","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250],[300,251],[300,600],[300,1050]],"767":[[300,250],[300,251],[300,600]],"0":[]},"targetingParameters":{"pos":["m1"]}},"m":{"adUnit":null,"slotName":"m","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250]],"767":[[300,250]],"0":[[300,250],[300,50],[320,50]]},"targetingParameters":{"pos":["m"]}},"lightbox":{"adUnit":null,"slotName":"lightbox","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250],[300,600]],"767":[[728,90]],"0":[[320,50],[300,50]]},"targetingParameters":{"pos":["lightbox"]}},"listitem":{"adUnit":null,"slotName":"listitem","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[205,55]],"767":[[205,55]],"0":[[205,55]]},"targetingParameters":{"pos":["listitem"]}}}};
+PGM.ads.slots = PGM.ads.slots || {};
+</script>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() {
+
+            googletag.pubads().setTargeting('template', 'n');
+        PGM.debug('dfpauto', 'PAGE', 'template', 'n' );
+        
+    googletag.pubads().setTargeting('zone', 'awards.list');
+    PGM.debug('dfpauto', 'PAGE', 'zone', 'awards.list');
+            googletag.pubads().setTargeting('page', ["977482"]);
+        PGM.debug('dfpauto', 'PAGE', 'page', ["977482"]);
+            googletag.pubads().setTargeting('tags', ["the race","awards","movies","usa","thr weekly magazine","oscars","oscars 2017"]);
+        PGM.debug('dfpauto', 'PAGE', 'tags', ["the race","awards","movies","usa","thr weekly magazine","oscars","oscars 2017"]);
+            googletag.pubads().setTargeting('env', ["prod"]);
+        PGM.debug('dfpauto', 'PAGE', 'env', ["prod"]);
+    
+    if( typeof Krux !== 'undefined' ) {
+        googletag.pubads().setTargeting('ksg', Krux.segments);
+        PGM.debug('dfpauto', 'PAGE', 'ksg', Krux.segments);
+        googletag.pubads().setTargeting('kuid', Krux.user);
+        PGM.debug('dfpauto', 'PAGE', 'kuid', Krux.user);
+    }
+
+    });
+</script>
+<!-- End: GPT -->
+<!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    var comscoreVars = {
+        c1: "2"
+        ,c2: "7395269"
+        ,c3: ""
+        };
+    _comscore.push(comscoreVars);
+    </script>
+    <script type="text/javascript" data-src="http://b.scorecardresearch.com/beacon.js"></script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=7395269&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Google Tag Manager -->
+    <script type="text/javascript">
+        var dataLayer = dataLayer || [];
+        dataLayer.push({
+            'fireGTM': 'on'
+                        , 'contentId': '977482'
+
+                    , 'contentType': 'list'
+
+                    , 'author': 'Anonymous, as told to Scott Feinberg'
+
+                    , 'category': 'Awards'
+
+                    , 'tags': 'Movies, Awards, Oscars, Oscars 2017'
+
+                    , 'publishDate': '2017022117'
+
+            
+        });
+        dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+        PGM.createScript('//www.googletagmanager.com/gtm.js?id=GTM-WLF8ZZ');
+    </script>
+    <!-- End Google Tag Manager -->
+
+<!-- no tracking.taboolaType -->
+
+<link rel="stylesheet" type="text/css" href="/static/frontend/2017_02_22_1300/assets/css/thr-lotr.css">
+
+    </head>
+    <body class="list-page" data-template="List Page" data-adsitesection="Awards" data-twitter-handle="thr">
+                        <header id="site-header" class="site-header--old ">
+    <section class="site-header--old__bar">
+        <div class="site-header--old__bar-left">
+    <h1 class="site-header--old__brand-logo">
+        <a class="site-header--old__brand-link" href="/" title="The Hollywood Reporter" rel="home" data-tracklabel="Main Nav - THR Logo">
+
+            <span class="site-header--old__brand-text">The Hollywood Reporter</span>
+            <svg version="1.1" id="site-header-brand" class="site-header--old__brand-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="21.806 22.573 161.768 38.557" enable-background="new 21.806 22.573 161.768 38.557" xml:space="preserve">
+<g opacity="0.25">
+    <path stroke="#000000" stroke-miterlimit="10" d="M183.041,24.073c0.093-0.32-0.018-0.5-0.266-0.5h-6.183
+        c-0.25,0-0.409,0.164-0.409,0.387c0,0.198,0.11,0.307,0.258,0.307h2.819l-3.303,10.852c-0.158-1.996-1.405-3.451-3.454-3.451
+        c-4.865,0-10.093,6.116-10.093,11.924c0,4.557,2.551,6.589,4.887,6.589c1.933,0,4.043-1.602,5.677-4.775
+        c-0.617,3.278,0.75,4.775,2.873,4.775c1.569,0,3.163-1.173,5.276-6.306c0.106-0.26-0.021-0.436-0.281-0.436
+        c-0.188,0-0.317,0.091-0.409,0.305c-1.964,4.51-3.084,5.404-3.846,5.404c-0.652,0-1.021-0.541-0.306-2.953L183.041,24.073z
+         M175.031,38.197l-0.815,2.67c-1.791,5.869-4.823,8.522-6.675,8.522c-1.284,0-1.91-0.959-1.91-3.016
+        c0-6.234,4.119-13.907,7.445-13.907C174.705,32.468,176.043,34.834,175.031,38.197z"/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M161.34,38.838c0-4.232-2.953-7.17-6.164-7.17
+        c-5.383,0-10.018,5.598-10.018,11.344c0,4.23,2.951,7.169,6.164,7.169C156.705,50.181,161.34,44.584,161.34,38.838z M148.346,45.76
+        c0-3.217,1.653-9.146,4.113-11.911c0.846-0.953,1.816-1.488,2.898-1.488c1.664,0,2.795,1.056,2.795,3.728
+        c0,3.216-1.655,9.147-4.113,11.911c-0.848,0.952-1.818,1.488-2.898,1.488C149.477,49.487,148.346,48.432,148.346,45.76z"/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M133.98,50.181c5.381,0,10.018-5.597,10.018-11.342
+        c0-4.232-2.953-7.17-6.166-7.17c-5.381,0-10.018,5.598-10.018,11.344C127.814,47.242,130.768,50.181,133.98,50.181z
+         M135.115,33.849c0.847-0.953,1.818-1.488,2.9-1.488c1.661,0,2.795,1.056,2.795,3.728c0,3.216-1.656,9.147-4.113,11.911
+        c-0.848,0.952-1.82,1.488-2.9,1.488c-1.663,0-2.795-1.057-2.795-3.729C131.002,42.543,132.657,36.613,135.115,33.849z"/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M124.843,31.769c-1.204,0-2.03,0.971-2.03,2.019c0,1.092,0.939,1.966,1.992,1.966
+        c0.729,0,1.312-0.429,1.584-0.924c0.045,0.289,0.076,0.583,0.076,0.894c0,6.192-5.352,13.511-8.645,13.511
+        c-1.219,0-2.037-0.81-0.951-3.929l4.068-13.184h-3.705l-2.354,7.672c-2.025,6.451-5.029,9.439-6.818,9.439
+        c-1.104,0-1.703-0.842-0.888-3.494l3.979-13.12c0.094-0.321-0.02-0.498-0.266-0.498h-5.941c-0.25,0-0.408,0.162-0.408,0.384
+        c0,0.198,0.109,0.307,0.256,0.307h2.58l-3.321,10.853c-1.308,4.254,0.673,6.515,3.603,6.515c2.101,0,4.285-2.167,5.851-5.427
+        c-0.545,3.338,1.138,5.427,3.614,5.427c5.361,0,10.191-8.765,10.191-14.612C127.311,32.738,126.256,31.769,124.843,31.769z"/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M83.784,43.439c-0.186,0-0.317,0.091-0.41,0.305
+        c-1.962,4.51-3.083,5.404-3.845,5.404c-0.652,0-1.021-0.541-0.305-2.953l6.759-22.122c0.093-0.32-0.018-0.5-0.267-0.5h-5.942
+        c-0.25,0-0.407,0.164-0.407,0.387c0,0.198,0.11,0.307,0.255,0.307h2.582L75.988,44.6c-1.015,3.724,0.334,5.581,2.797,5.581
+        c1.573,0,3.171-1.173,5.28-6.306C84.17,43.615,84.043,43.439,83.784,43.439z"/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M74.146,43.439c-0.187,0-0.319,0.091-0.411,0.305
+        c-1.951,4.515-3.083,5.404-3.846,5.404c-0.652,0-1.02-0.541-0.303-2.953l6.757-22.122c0.093-0.32-0.017-0.5-0.266-0.5h-5.941
+        c-0.25,0-0.409,0.164-0.409,0.387c0,0.198,0.11,0.307,0.255,0.307h2.582L66.35,44.6c-1.016,3.724,0.334,5.581,2.799,5.581
+        c1.573,0,3.166-1.174,5.278-6.306C74.533,43.615,74.404,43.439,74.146,43.439z"/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M59.143,31.668c-5.381,0-10.016,5.598-10.016,11.344
+        c0,4.23,2.953,7.169,6.165,7.169c5.382,0,10.018-5.597,10.018-11.342C65.309,34.606,62.356,31.668,59.143,31.668z M58.008,47.999
+        c-0.847,0.952-1.818,1.488-2.899,1.488c-1.664,0-2.794-1.057-2.794-3.729c0-3.217,1.653-9.146,4.111-11.911
+        c0.847-0.953,1.82-1.487,2.901-1.487c1.663,0,2.792,1.056,2.792,3.728C62.119,39.305,60.466,45.235,58.008,47.999z"/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M47.797,49.038h-3.246l7.571-24.771h3.141c0.25,0,0.409-0.164,0.409-0.387
+        c0-0.198-0.111-0.306-0.256-0.306H45.18c-0.25,0-0.408,0.164-0.408,0.387c0,0.198,0.111,0.307,0.255,0.307h3.12l-3.6,11.776H34.29
+        l3.598-11.776h3.03c0.25,0,0.409-0.164,0.409-0.387c0-0.198-0.11-0.306-0.256-0.306H30.834c-0.25,0-0.409,0.164-0.409,0.387
+        c0,0.198,0.11,0.307,0.256,0.307h3.231L26.34,49.036h-3.125c-0.25,0-0.409,0.162-0.409,0.388c0,0.197,0.112,0.305,0.256,0.305
+        h10.236c0.25,0,0.41-0.162,0.41-0.387c0-0.197-0.111-0.306-0.255-0.306h-3.135l3.76-12.304h10.258l-3.761,12.306H37.56
+        c-0.249,0-0.407,0.16-0.407,0.386c0,0.197,0.11,0.305,0.256,0.305h10.236c0.25,0,0.407-0.162,0.407-0.387
+        C48.052,49.145,47.942,49.038,47.797,49.038z"/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M99.15,32.123l-1.703,5.536c-0.091,0.297-0.5,1.609-0.596,1.882
+        c-2.146,6.604-4.884,9.505-6.708,9.675c-0.133,0.013-0.262,0.011-0.383-0.003c-0.996-0.117-1.414-1.058-0.847-3.021l4.096-13.571
+        c0.04-0.136,0.013-0.228-0.043-0.275c-0.002-0.145-0.449-0.223-0.593-0.223h-5.319c-0.086,0-0.409,0.026-0.456,0.073
+        c-0.123,0.047-0.204,0.164-0.204,0.311c0,0.088,0.031,0.149,0.083,0.178c0.028,0.083,0.375,0.125,0.451,0.125h2.125l0.116,0.2
+        l-3.27,10.636c-1.277,4.243,0.629,6.438,3.432,6.527c0.137,0.004,0.275,0.002,0.414-0.01c1.846-0.133,3.849-1.906,5.478-5.217
+        c0.013-0.023-0.003,0.047,0.009,0.021l-2.698,8.725c-1.331,4.42-2.994,5.955-4.837,6.143c-0.375,0.04-0.743,0.039-1.1,0.006
+        c-1.367-0.123-2.304-0.574-2.855-1.284c0.394,0.132,0.854,0.151,1.299,0.016c0.569-0.189,1.002-0.611,1.206-1.16
+        c0.149-0.405,0.171-0.847,0.05-1.277c-0.171-0.616-0.641-1.116-1.255-1.321c-0.374-0.123-0.775-0.133-1.167-0.025
+        c-0.691,0.188-1.265,0.747-1.455,1.549c-0.083,0.35-0.096,0.721-0.035,1.102c0.272,1.701,1.983,2.979,4.372,3.125
+        c0.248,0.017,0.502,0.021,0.76,0.014c3.633-0.104,7.264-2.024,9.164-8.248l6.176-20.205H99.15z"/>
+    <polygon stroke="#000000" stroke-miterlimit="10" points="115.793,57.247 116.287,55.631 112.443,55.631 112.908,54.125
+        117.721,54.125 118.223,52.487 111.148,52.487 108.713,60.459 115.785,60.459 116.283,58.822 111.456,58.822 111.943,57.247     "/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M105.975,52.487h-4.565l-2.437,7.972h2.25l0.836-2.738h1.818l1.207,2.738h2.373
+        l-1.424-2.959c1.344-0.254,2.188-0.93,2.521-2.054l0.061-0.196C109.113,53.623,108.271,52.487,105.975,52.487z M106.338,55.07
+        l-0.021,0.069c-0.246,0.805-0.828,1.074-1.742,1.074h-2.055l0.681-2.229h2.229C106.271,53.984,106.555,54.361,106.338,55.07z"/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M143.745,52.487h-4.567l-2.437,7.972h2.25l0.838-2.738h1.815l1.209,2.738h2.373
+        l-1.425-2.959c1.343-0.254,2.188-0.93,2.522-2.054l0.06-0.196C146.883,53.623,146.041,52.487,143.745,52.487z M144.068,55.07
+        l-0.021,0.069c-0.246,0.805-0.787,1.074-1.705,1.074h-2.054l0.683-2.229h2.229C144.04,53.984,144.285,54.361,144.068,55.07z"/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M170.846,52.487h-4.564l-2.438,7.972h2.252l0.837-2.738h1.816l1.208,2.738h2.372
+        l-1.424-2.959c1.345-0.254,2.188-0.93,2.522-2.054l0.06-0.196C173.982,53.623,173.143,52.487,170.846,52.487z M171.208,55.07
+        l-0.022,0.069c-0.244,0.805-0.826,1.074-1.74,1.074h-2.055l0.68-2.229h2.229C171.143,53.984,171.426,54.361,171.208,55.07z"/>
+    <polygon stroke="#000000" stroke-miterlimit="10" points="162.121,57.247 162.613,55.631 158.77,55.631 159.234,54.125
+        164.047,54.125 164.549,52.487 157.477,52.487 155.037,60.459 162.111,60.459 162.609,58.822 157.782,58.822 158.27,57.247  "/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M124.15,52.487h-4.191l-2.438,7.972h2.25l0.766-2.506h2.582
+        c2.203,0,3.302-0.738,3.792-2.346l0.088-0.285C127.488,53.725,126.691,52.487,124.15,52.487z M124.691,55.203l-0.053,0.176
+        c-0.229,0.754-0.802,1.068-1.755,1.068h-1.887l0.752-2.463h2.009C124.711,53.984,124.961,54.321,124.691,55.203z"/>
+    <polygon stroke="#000000" stroke-miterlimit="10" points="155.939,52.487 148.053,52.487 147.551,54.125 150.484,54.125
+        148.546,60.459 150.809,60.459 152.748,54.125 155.441,54.125     "/>
+    <path stroke="#000000" stroke-miterlimit="10" d="M133.122,52.316c-2.759,0-4.276,0.927-4.976,3.207l-0.289,0.957
+        c-0.834,2.72,0.691,4.149,3.279,4.149c2.76,0,4.277-0.928,4.977-3.208l0.289-0.956C137.236,53.746,135.711,52.316,133.122,52.316z
+         M134.32,55.959l-0.391,1.258c-0.353,1.152-1.057,1.73-2.353,1.73c-1.429,0-2.002-0.762-1.64-1.959l0.392-1.26
+        c0.353-1.151,1.057-1.729,2.353-1.729C134.109,53.999,134.686,54.76,134.32,55.959z"/>
+    <polygon stroke="#000000" stroke-miterlimit="10" points="96.729,29.62 97.477,27.174 99.83,27.174 99.081,29.62 100.852,29.62
+        102.7,23.574 100.93,23.574 100.222,25.885 97.872,25.885 98.577,23.574 96.806,23.574 94.958,29.62    "/>
+    <polygon stroke="#000000" stroke-miterlimit="10" points="90.227,29.62 91.995,29.62 93.445,24.881 95.396,24.881 95.797,23.574
+        89.862,23.574 89.461,24.881 91.677,24.881   "/>
+    <polygon stroke="#000000" stroke-miterlimit="10" points="107.562,29.62 107.961,28.315 104.396,28.315 104.727,27.25
+        107.646,27.25 108.041,25.96 105.125,25.96 105.458,24.881 109.008,24.881 109.41,23.574 104.08,23.574 102.232,29.62   "/>
+</g>
+<g>
+    <path fill="#FFFFFF" d="M182.041,23.073c0.093-0.32-0.018-0.5-0.266-0.5h-6.183c-0.25,0-0.409,0.164-0.409,0.387
+        c0,0.198,0.11,0.307,0.258,0.307h2.819l-3.303,10.852c-0.158-1.996-1.405-3.451-3.454-3.451c-4.865,0-10.093,6.116-10.093,11.924
+        c0,4.557,2.551,6.589,4.887,6.589c1.933,0,4.043-1.602,5.677-4.775c-0.617,3.278,0.75,4.775,2.873,4.775
+        c1.569,0,3.163-1.173,5.276-6.306c0.106-0.26-0.021-0.436-0.281-0.436c-0.188,0-0.317,0.091-0.409,0.305
+        c-1.964,4.51-3.084,5.404-3.846,5.404c-0.652,0-1.021-0.541-0.306-2.953L182.041,23.073z M174.031,37.197l-0.815,2.67
+        c-1.791,5.869-4.823,8.522-6.675,8.522c-1.284,0-1.91-0.959-1.91-3.016c0-6.234,4.119-13.907,7.445-13.907
+        C173.705,31.468,175.043,33.834,174.031,37.197z"/>
+    <path fill="#FFFFFF" d="M160.34,37.838c0-4.232-2.953-7.17-6.164-7.17c-5.383,0-10.018,5.598-10.018,11.344
+        c0,4.23,2.951,7.169,6.164,7.169C155.705,49.181,160.34,43.584,160.34,37.838z M147.346,44.76c0-3.217,1.653-9.146,4.113-11.911
+        c0.846-0.953,1.816-1.488,2.898-1.488c1.664,0,2.795,1.056,2.795,3.728c0,3.216-1.655,9.147-4.113,11.911
+        c-0.848,0.952-1.818,1.488-2.898,1.488C148.477,48.487,147.346,47.432,147.346,44.76z"/>
+    <path fill="#FFFFFF" d="M132.98,49.181c5.381,0,10.018-5.597,10.018-11.342c0-4.232-2.953-7.17-6.166-7.17
+        c-5.381,0-10.018,5.598-10.018,11.344C126.814,46.242,129.768,49.181,132.98,49.181z M134.115,32.849
+        c0.847-0.953,1.818-1.488,2.9-1.488c1.661,0,2.795,1.056,2.795,3.728c0,3.216-1.656,9.147-4.113,11.911
+        c-0.848,0.952-1.82,1.488-2.9,1.488c-1.663,0-2.795-1.057-2.795-3.729C130.002,41.543,131.657,35.613,134.115,32.849z"/>
+    <path fill="#FFFFFF" d="M123.843,30.769c-1.204,0-2.03,0.971-2.03,2.019c0,1.092,0.939,1.966,1.992,1.966
+        c0.729,0,1.312-0.429,1.584-0.924c0.045,0.289,0.076,0.583,0.076,0.894c0,6.193-5.352,13.511-8.645,13.511
+        c-1.219,0-2.037-0.81-0.951-3.929l4.068-13.184h-3.705l-2.354,7.672c-2.025,6.451-5.029,9.439-6.818,9.439
+        c-1.104,0-1.703-0.842-0.888-3.494l3.979-13.12c0.094-0.321-0.02-0.498-0.266-0.498h-5.941c-0.25,0-0.408,0.162-0.408,0.384
+        c0,0.198,0.109,0.307,0.256,0.307h2.58l-3.321,10.853c-1.308,4.254,0.673,6.515,3.603,6.515c2.101,0,4.285-2.167,5.851-5.427
+        c-0.545,3.338,1.138,5.427,3.614,5.427c5.361,0,10.191-8.765,10.191-14.612C126.311,31.738,125.256,30.769,123.843,30.769z"/>
+    <path fill="#FFFFFF" d="M82.784,42.439c-0.186,0-0.317,0.091-0.41,0.305c-1.962,4.51-3.083,5.404-3.845,5.404
+        c-0.652,0-1.021-0.541-0.305-2.953l6.759-22.122c0.093-0.32-0.018-0.5-0.267-0.5h-5.942c-0.25,0-0.407,0.164-0.407,0.387
+        c0,0.198,0.11,0.307,0.255,0.307h2.582L74.988,43.6c-1.015,3.724,0.334,5.581,2.797,5.581c1.573,0,3.171-1.173,5.28-6.306
+        C83.17,42.615,83.043,42.439,82.784,42.439z"/>
+    <path fill="#FFFFFF" d="M73.146,42.439c-0.187,0-0.319,0.091-0.411,0.305c-1.951,4.515-3.083,5.404-3.846,5.404
+        c-0.652,0-1.02-0.541-0.303-2.953l6.757-22.122c0.093-0.32-0.017-0.5-0.266-0.5h-5.941c-0.25,0-0.409,0.164-0.409,0.387
+        c0,0.198,0.11,0.307,0.255,0.307h2.582L65.35,43.6c-1.016,3.724,0.334,5.581,2.799,5.581c1.573,0,3.166-1.174,5.278-6.306
+        C73.533,42.615,73.404,42.439,73.146,42.439z"/>
+    <path fill="#FFFFFF" d="M58.143,30.668c-5.381,0-10.016,5.598-10.016,11.344c0,4.23,2.953,7.169,6.165,7.169
+        c5.382,0,10.018-5.597,10.018-11.342C64.309,33.606,61.356,30.668,58.143,30.668z M57.008,46.999
+        c-0.847,0.952-1.818,1.488-2.899,1.488c-1.664,0-2.794-1.057-2.794-3.729c0-3.217,1.653-9.146,4.111-11.911
+        c0.847-0.953,1.82-1.487,2.901-1.487c1.663,0,2.792,1.056,2.792,3.728C61.119,38.305,59.466,44.235,57.008,46.999z"/>
+    <path fill="#FFFFFF" d="M46.797,48.038h-3.246l7.571-24.771h3.141c0.25,0,0.409-0.164,0.409-0.387c0-0.198-0.111-0.306-0.256-0.306
+        H44.18c-0.25,0-0.408,0.164-0.408,0.387c0,0.198,0.111,0.307,0.255,0.307h3.12l-3.6,11.776H33.29l3.598-11.776h3.03
+        c0.25,0,0.409-0.164,0.409-0.387c0-0.198-0.11-0.306-0.256-0.306H29.834c-0.25,0-0.409,0.164-0.409,0.387
+        c0,0.198,0.11,0.307,0.256,0.307h3.231L25.34,48.036h-3.125c-0.25,0-0.409,0.162-0.409,0.388c0,0.197,0.112,0.305,0.256,0.305
+        h10.236c0.25,0,0.41-0.162,0.41-0.387c0-0.197-0.111-0.306-0.255-0.306h-3.135l3.76-12.304h10.258l-3.761,12.306H36.56
+        c-0.249,0-0.407,0.16-0.407,0.386c0,0.197,0.11,0.305,0.256,0.305h10.236c0.25,0,0.407-0.162,0.407-0.387
+        C47.052,48.145,46.942,48.038,46.797,48.038z"/>
+    <path fill="#FFFFFF" d="M98.15,31.123l-1.703,5.536c-0.091,0.297-0.5,1.609-0.596,1.882c-2.146,6.604-4.884,9.505-6.708,9.675
+        c-0.133,0.013-0.262,0.011-0.383-0.003c-0.996-0.117-1.414-1.058-0.847-3.021l4.096-13.571c0.04-0.136,0.013-0.228-0.043-0.275
+        c-0.002-0.145-0.449-0.223-0.593-0.223h-5.319c-0.086,0-0.409,0.026-0.456,0.073c-0.123,0.047-0.204,0.164-0.204,0.311
+        c0,0.088,0.031,0.149,0.083,0.178c0.028,0.083,0.375,0.125,0.451,0.125h2.125l0.116,0.2l-3.27,10.636
+        c-1.277,4.243,0.629,6.438,3.432,6.527c0.137,0.004,0.275,0.002,0.414-0.01c1.846-0.133,3.849-1.906,5.478-5.217
+        c0.013-0.023-0.003,0.047,0.009,0.021l-2.698,8.725c-1.331,4.42-2.994,5.955-4.837,6.143c-0.375,0.04-0.743,0.039-1.1,0.006
+        c-1.367-0.123-2.304-0.574-2.855-1.284c0.394,0.132,0.854,0.151,1.299,0.016c0.569-0.189,1.002-0.611,1.206-1.16
+        c0.149-0.405,0.171-0.847,0.05-1.277c-0.171-0.616-0.641-1.116-1.255-1.321c-0.374-0.123-0.775-0.133-1.167-0.025
+        c-0.691,0.188-1.265,0.747-1.455,1.549c-0.083,0.35-0.096,0.721-0.035,1.102c0.272,1.701,1.983,2.979,4.372,3.125
+        c0.248,0.017,0.502,0.021,0.76,0.014c3.633-0.104,7.264-2.024,9.164-8.248l6.176-20.205H98.15z"/>
+    <polygon fill="#FFFFFF" points="114.793,56.247 115.287,54.631 111.443,54.631 111.908,53.125 116.721,53.125 117.223,51.487
+        110.148,51.487 107.713,59.459 114.785,59.459 115.283,57.822 110.456,57.822 110.943,56.247   "/>
+    <path fill="#FFFFFF" d="M104.975,51.487h-4.565l-2.437,7.972h2.25l0.836-2.738h1.818l1.207,2.738h2.373l-1.424-2.959
+        c1.344-0.254,2.188-0.93,2.521-2.054l0.061-0.196C108.113,52.623,107.271,51.487,104.975,51.487z M105.338,54.07l-0.021,0.069
+        c-0.246,0.805-0.828,1.074-1.742,1.074h-2.055l0.681-2.229h2.229C105.271,52.984,105.555,53.361,105.338,54.07z"/>
+    <path fill="#FFFFFF" d="M142.745,51.487h-4.567l-2.437,7.972h2.25l0.838-2.738h1.815l1.209,2.738h2.373l-1.425-2.959
+        c1.343-0.254,2.188-0.93,2.522-2.054l0.06-0.196C145.883,52.623,145.041,51.487,142.745,51.487z M143.068,54.07l-0.021,0.069
+        c-0.246,0.805-0.787,1.074-1.705,1.074h-2.054l0.683-2.229h2.229C143.04,52.984,143.285,53.361,143.068,54.07z"/>
+    <path fill="#FFFFFF" d="M169.846,51.487h-4.564l-2.438,7.972h2.252l0.837-2.738h1.816l1.208,2.738h2.372l-1.424-2.959
+        c1.345-0.254,2.188-0.93,2.522-2.054l0.06-0.196C172.982,52.623,172.143,51.487,169.846,51.487z M170.208,54.07l-0.022,0.069
+        c-0.244,0.805-0.826,1.074-1.74,1.074h-2.055l0.68-2.229h2.229C170.143,52.984,170.426,53.361,170.208,54.07z"/>
+    <polygon fill="#FFFFFF" points="161.121,56.247 161.613,54.631 157.77,54.631 158.234,53.125 163.047,53.125 163.549,51.487
+        156.477,51.487 154.037,59.459 161.111,59.459 161.609,57.822 156.782,57.822 157.27,56.247    "/>
+    <path fill="#FFFFFF" d="M123.15,51.487h-4.191l-2.438,7.972h2.25l0.766-2.506h2.582c2.203,0,3.302-0.738,3.792-2.346l0.088-0.285
+        C126.488,52.725,125.691,51.487,123.15,51.487z M123.691,54.203l-0.053,0.176c-0.229,0.754-0.802,1.068-1.755,1.068h-1.887
+        l0.752-2.463h2.009C123.711,52.984,123.961,53.321,123.691,54.203z"/>
+    <polygon fill="#FFFFFF" points="154.939,51.487 147.053,51.487 146.551,53.125 149.484,53.125 147.546,59.459 149.809,59.459
+        151.748,53.125 154.441,53.125   "/>
+    <path fill="#FFFFFF" d="M132.122,51.316c-2.759,0-4.276,0.927-4.976,3.207l-0.289,0.957c-0.834,2.72,0.691,4.149,3.279,4.149
+        c2.76,0,4.277-0.928,4.977-3.208l0.289-0.956C136.236,52.746,134.711,51.316,132.122,51.316z M133.32,54.959l-0.391,1.258
+        c-0.353,1.152-1.057,1.73-2.353,1.73c-1.429,0-2.002-0.762-1.64-1.959l0.392-1.26c0.353-1.151,1.057-1.729,2.353-1.729
+        C133.109,52.999,133.686,53.76,133.32,54.959z"/>
+    <polygon fill="#FFFFFF" points="95.729,28.62 96.477,26.174 98.83,26.174 98.081,28.62 99.852,28.62 101.7,22.574 99.93,22.574
+        99.222,24.885 96.872,24.885 97.577,22.574 95.806,22.574 93.958,28.62    "/>
+    <polygon fill="#FFFFFF" points="89.227,28.62 90.995,28.62 92.445,23.881 94.396,23.881 94.797,22.574 88.862,22.574
+        88.461,23.881 90.677,23.881     "/>
+    <polygon fill="#FFFFFF" points="106.562,28.62 106.961,27.315 103.396,27.315 103.727,26.25 106.646,26.25 107.041,24.96
+        104.125,24.96 104.458,23.881 108.008,23.881 108.41,22.574 103.08,22.574 101.232,28.62   "/>
+</g>
+</svg>
+        </a>
+    </h1>
+            <div class="persistent-header" style="display: none">
+            <script type="application/json">
+                { "title": "Oscar Voter Reveals Her Brutally Honest Ballot: Meryl Streep &quot;Like a Clown,&quot; &#039;La La Land&#039; &quot;Not Memorable,&quot; &#039;Arrival&#039; &quot;Just Sucked&quot;",
+                  "imageSource": "http://cdn2.thr.com/sites/default/files/2017/02/rev_km_hr_oscar_main_final_feb15_-_h_2017.jpg" }
+            </script>
+        </div>
+        <button id="site-header-toggle" class="site-header--old__toggle">
+            <svg id="site-header-toggle-icon" class="site-header--old__toggle-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 46 24" enable-background="new 0 0 46 24" xml:space="preserve">
+                <g>
+                    <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M0,24h32v-4H0V24z M0,14h46v-4H0V14z M0,0v4h46V0H0z"/>
+                </g>
+            </svg>
+            <svg version="1.1" id="site-header__toggle-caret" class="site-header--old__toggle-caret" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+         width="57.102px" height="33.766px" viewBox="0 0 57.102 33.766" enable-background="new 0 0 57.102 33.766" xml:space="preserve">
+                <polygon fill="#020202" points="28.551,33.766 0,0 57.102,0 "/>
+            </svg>
+        </button>
+    
+            <h2 class="site-header--old__current-section">
+            <span class=site-header__current-section-link>
+    awards
+</span>
+        </h2>
+    </div>
+        <div class="site-header--old__bar-right">
+    <a class="site-header--old__subscribe-link" href="https://subscribe.hollywoodreporter.com/sub/?p=THR&f=saleb&s=IH1402HR12" data-tracklabel="Main Nav - Subscribe">
+        Subscribe
+    </a>
+    <div class="site-search">
+        <form id="site-search-form" class="search-form" method="post" accept-charset="UTF-8" action="/search/">
+            <input class="search-form__input" placeholder="Search ..." name="keys" maxlength="255" disabled />
+            <button id="search-submit" type="submit" class="search-form__submit" value="search" disabled data-tracklabel="Main Nav - Search Start">
+                <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 -256 1792 1792" class="search-icon" version="1.1" inkscape:version="0.48.3.1 r9886" sodipodi:docname="search_font_awesome.svg">
+  <g transform="matrix(1,0,0,-1,60.745763,1201.8983)">
+    <path d="m 1152,704 q 0,185 -131.5,316.5 Q 889,1152 704,1152 519,1152 387.5,1020.5 256,889 256,704 256,519 387.5,387.5 519,256 704,256 889,256 1020.5,387.5 1152,519 1152,704 z m 512,-832 q 0,-52 -38,-90 -38,-38 -90,-38 -54,0 -90,38 L 1103,124 Q 924,0 704,0 561,0 430.5,55.5 300,111 205.5,205.5 111,300 55.5,430.5 0,561 0,704 q 0,143 55.5,273.5 55.5,130.5 150,225 94.5,94.5 225,150 130.5,55.5 273.5,55.5 143,0 273.5,-55.5 130.5,-55.5 225,-150 94.5,-94.5 150,-225 Q 1408,847 1408,704 1408,484 1284,305 l 343,-343 q 37,-37 37,-90 z" id="path3029" inkscape:connector-curvature="0" />
+  </g>
+</svg>
+            </button>
+        </form>
+        <button id="site-search-toggle" class="site-search__search-toggle">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" class="close-icon" xml:space="preserve">
+    <g>
+        <polygon id="x" style points="18.717,6.697 17.303,5.283 12,10.586 6.697,5.283
+                5.283,6.697 10.586,12 5.283,17.303 6.697,18.717 12,13.414 17.303,18.717 18.717,17.303 13.414,12         "/>
+    </g>
+</svg>
+            <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 -256 1792 1792" class="search-icon" version="1.1" inkscape:version="0.48.3.1 r9886" sodipodi:docname="search_font_awesome.svg">
+  <g transform="matrix(1,0,0,-1,60.745763,1201.8983)">
+    <path d="m 1152,704 q 0,185 -131.5,316.5 Q 889,1152 704,1152 519,1152 387.5,1020.5 256,889 256,704 256,519 387.5,387.5 519,256 704,256 889,256 1020.5,387.5 1152,519 1152,704 z m 512,-832 q 0,-52 -38,-90 -38,-38 -90,-38 -54,0 -90,38 L 1103,124 Q 924,0 704,0 561,0 430.5,55.5 300,111 205.5,205.5 111,300 55.5,430.5 0,561 0,704 q 0,143 55.5,273.5 55.5,130.5 150,225 94.5,94.5 225,150 130.5,55.5 273.5,55.5 143,0 273.5,-55.5 130.5,-55.5 225,-150 94.5,-94.5 150,-225 Q 1408,847 1408,704 1408,484 1284,305 l 343,-343 q 37,-37 37,-90 z" id="path3029" inkscape:connector-curvature="0" />
+  </g>
+</svg>
+        </button>
+    </div>
+</div>
+        <ul class=sub-headlines>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;topic&#x2F;emmys-news-primetime-emmy-awards>
+    emmys
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;topic&#x2F;award-predictions-feinberg-forecast>
+    forecast
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;race&#x2F;>
+    the race
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;838633>
+    awards chatter
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;roundtables>
+    roundtables
+</a>
+</li>
+</ul>
+    </section>
+            <section id="dropdown" class="site-header--old__dropdown">
+            <div class="site-header--old__dropdown-container">
+                <nav class="site-header--old__section-fronts">
+                    <ul class=site-header--old__section-fronts-list>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;movies>
+    movies
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;895551>
+    tv
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;music>
+    music
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;tech>
+    tech
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;business>
+    the business
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;style>
+    style
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;859190>
+    politics
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;culture>
+    culture
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;node&#x2F;826184>
+    travel
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;awards>
+    awards
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;video>
+    video
+</a>
+</li>
+</ul>
+                    <a class="site-header--old__subscribe-small-view" href="https://subscribe.hollywoodreporter.com/sub/?p=THR&f=saleb&s=IH1402HR22" data-tracklabel="Main Nav - Dropdown Subscribe">Subscribe</a>
+                </nav>
+                <aside class="dropdown__right">
+    <nav class="site-header--old__blogs">
+        <h4 class="site-header--old__blogs-headline">Blogs</h4>
+        <ul class=site-header__blogs-list>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;heat-vision>
+    heat vision
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;bastard-machine>
+    bastard machine
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;live-feed>
+    live feed
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;behind-screen>
+    behind the screen
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;thr-esq>
+    esq
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;earshot>
+    earshot
+</a>
+</li>
+    <li><a href=http&#x3A;&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;blogs&#x2F;race>
+    the race
+</a>
+</li>
+</ul>
+        <a class="site-header--old__subscribe-small-view" href="/newsletters/subscribe">Newsletter</a>
+    </nav>
+    <div class="site-header--old__connect">
+        <nav class="nav-social">
+    <label class="nav-social__label">THR Social:&nbsp;</label>
+    <a class="nav-social-icon fa-facebook" href="https://www.facebook.com/HollywoodReporter" target="_blank" data-tracklabel="Main Nav - Social Facebook">
+    </a>
+    <a class="nav-social-icon fa-twitter" href="https://twitter.com/intent/follow?screen_name=THR" target="_blank" data-tracklabel="Main Nav - Social Twitter">
+    </a>
+    <a class="nav-social-icon fa-pinterest" href="http://www.pinterest.com/THRmag" target="_blank" data-tracklabel="Main Nav - Social Pinterest">
+    </a>
+    <a class="nav-social-icon fa-instagram" href="http://instagram.com/hollywoodreporter" target="_blank" data-tracklabel="Main Nav - Social Instagram">
+    </a>
+    <a class="nav-social-icon fa-youtube-play" href="https://www.youtube.com/user/thrnetwork" target="_blank"data-tracklabel="Main Nav - Social YouTube">
+    </a>
+</nav>
+        <article class="nav-magazine">
+    <a href="https://subscribe.hollywoodreporter.com/sub/?p=THR&amp;f=saleb&amp;s=IH1402HR22" class="nav-magazine__link" >
+      <img class="nav-magazine__image" data-src="http://cdn2.thr.com/sites/default/files/imagecache/176x226/2017/02/thr_issue_08_lin-manuel_miranda_cover_magazine_issue.png" alt="Why the Oscars Still Matter">
+    </a>
+    <h3 class="nav-magazine__headline">Why the Oscars Still Matter</h3>
+    <a href="https://subscribe.hollywoodreporter.com/sub/?p=THR&amp;f=saleb&amp;s=IH1402HR22" class="nav-magazine__subscribe"  data-tracklabel="Main Nav - Dropdown Subscribe">Subscribe Now</a>
+</article>
+        <article class="nav-signup">
+    <h3 class="nav-signup__headline">Never Miss A Story.</h3>
+    <p class="nav-signup__content">Sign up for our <a href="/newsletters/subscribe" class="nav-signup__link" data-tracklabel="Main Nav - Newsletter Signup">Newsletters</a>.</p>
+</article>
+<article class="nav-signup">
+    <h3 class="nav-signup__headline">Daily Edition</h3>
+    <p class="nav-signup__content"><a href="//www.hollywoodreporter.com/daily/archive" class="nav-signup__link" data-tracklabel="Main Nav - Daily Edition Login">Login</a> to download</p>
+</article>
+    </div>
+</aside>
+                <button id="dropdown-close-button" class="dropdown__second-level-close">
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" class="close-icon" xml:space="preserve">
+    <g>
+        <polygon id="x" style points="18.717,6.697 17.303,5.283 12,10.586 6.697,5.283
+                5.283,6.697 10.586,12 5.283,17.303 6.697,18.717 12,13.414 17.303,18.717 18.717,17.303 13.414,12         "/>
+    </g>
+</svg>
+                </button>
+            </div>
+        </section>
+    </header>
+                    <div class="leaderboard leaderboard--top">
+                
+    <div class="dfp-ad dfp-ad-t   " data-trackaction="" data-tracklabel="Ad Click">
+        <script type="application/json">
+            { "slot": {"adUnit":null,"slotName":"t","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[980,50],[728,90],[970,90],[728,91],[980,250],[970,250],[970,66],[970,51],[970,251]],"767":[[728,90],[728,91]],"0":[[300,50],[300,51],[320,50],[320,51],[320,170]]},"targetingParameters":{"pos":["t"]}}, "extraTargeting": null }
+        </script>
+    </div>
+            </div>
+                                            <div id="dfp-ad-o1" class="dfp-ad dfp-ad-o1 is-dfp-defined"></div>
+                    
+        
+    <main id="page-content" class="page-content" data-content-type="listPage">
+
+
+        <div class="container">
+        <article class="list--unordered" data-nid="977482" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora" data-trackaction="List Page Top">
+
+            
+            <header>
+                <h1 class="list__title">Oscar Voter Reveals Her Brutally Honest Ballot: Meryl Streep &quot;Like a Clown,&quot; &#039;La La Land&#039; &quot;Not Memorable,&quot; &#039;Arrival&#039; &quot;Just Sucked&quot;</h1>
+            </header>
+
+            <div class="list-social">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora&p[title]=Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La%20Land%27%20%22Not%20Memorable%2C%22%20%27Arrival%27%20%22Just%20Sucked%22" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora&text=Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La%20Land%27%20%22Not%20Memorable%2C...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+                <a class="email-square list__email fa-envelope" href="mailto:?subject=Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La%20Land%27%20%22Not%20Memorable%2C%22%20%27Arrival%27%20%22Just%20Sucked%22&body=An%20Academy%20voter%20makes%20her%20case%20for%20%27Hell%20or%20High%20Water%27%20%28%22It%20will%20be%20remembered%20as%20a%20true%20American%20classic%22%29%2C%20says%20Emma%20Stone%20wasn%27t%20%22as%20wonderful%20as%20people%20are%20saying%2C%22%20and%20explains%20why%20Viola%20Davis%20is%20in%20the%20wrong%20category%20%28%22That%20really%20irks%20me%22%29.%0A%0Ahttp%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora" data-tracklabel="Email"></a>
+            </div>
+
+            <footer class="list-meta">
+                <p class="list-meta__published">5:02 PM 2/21/2017</p>
+                <p class="list-meta__authors">
+                    by
+                    <span href="author/anonymous-as-told-scott-feinberg" data-tracklabel="Anonymous, as told to Scott Feinberg"><span class="list-meta__author">Anonymous, as told to Scott Feinberg</span></span>                </p>
+            </footer>
+
+            <h2 class="list__deck">An Academy voter makes her case for &#039;Hell or High Water&#039; (&quot;It will be remembered as a true American classic&quot;), says Emma Stone wasn&#039;t &quot;as wonderful as people are saying,&quot; and explains why Viola Davis is in the wrong category (&quot;That really irks me&quot;).</h2>
+
+            <div class="list__content">
+                <div class="list__body js-fitvids-content">
+                    
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="977813">
+
+            <img class="list-media__image main-media__image" alt="" src="http://cdn4.thr.com/sites/default/files/imagecache/list_landscape_960x541/2017/02/rev_km_hr_oscar_main_final_feb15_-_h_2017.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Illustration by Kyle Metcalf 
+            </div>
+        </figcaption>
+    </figure>
+
+                    <p>Each year around this time, I sit down with several Oscar voters who, under the warm cloak of anonymity, spill their true feelings about the current season&#39;s crop of contenders.</p>
+<p>Not just what or whom they voted for, but exactly why and how they came to those decisions. It&#39;s not meant to be a scientific survey; it&#39;s just the candid,&nbsp;unsugarcoated&nbsp;opinions of a handful of members (out of 6,687) of the most important and powerful movie club in the world.</p>
+<p>Below is an edited transcript of one such conversation, Brutally Honest Oscar Ballot #1, with a longtime female member of the 1,158-member actors branch who &mdash; this season, anyway &mdash; is not associated with any of the nominees.&nbsp;</p>
+<p>More: <a href="http://hollywoodreporter.com/lists/brutally-honest-ballot-2-la-la-land-felt-a-little-light-barry-jenkins-is-a-poet-978273" target="_blank">Brutally Honest Oscar Ballot #2.&nbsp;</a></p>
+<p><iframe allowfullscreen="" mozallowfullscreen="" src="//players.brightcove.net/769341148/default_default/index.html?videoId=5332710599001" webkitallowfullscreen=""></iframe></p>
+<p><a href="http://www.hollywoodreporter.com/topic/academy-awards-oscars-news"><img src="http://www.hollywoodreporter.com/sites/default/files/custom/Annie/THR-oscars-promo.png" /></a></p>
+
+                </div>
+            </div>
+
+            
+            <ul class="list--unordered__items" data-trackaction="List Page">
+
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="977467" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-picture-brutally-honest-ballot-977467" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-picture-brutally-honest-ballot-977467&p[title]=Best%20Picture" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-picture-brutally-honest-ballot-977467&text=Best%20Picture%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La%20Land%27%20...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Picture</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="952124">
+
+            <img class="list-media__image main-media__image" alt="" src="http://cdn5.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/12/hell_or_high_water_still.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Lorey Sebastian
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I hated&nbsp;<em>Arrival</em>&nbsp;&mdash; it just sucked. I didn&#39;t like&nbsp;<em>Fences</em>&nbsp;because they just filmed the play &mdash; I wanted to see the guy go into the jazz club and play his music, the girl who&#39;s having his baby, his kid on the football field. But I think Denzel [Washington, its producer/director/star] decided that every word of the script [by the late August Wilson] was so precious that he wasn&#39;t going to &quot;mess&quot; with it, and the movie suffered as a result. I loved the first half of&nbsp;<em>Lion</em>, but I felt like a different director and cinematographer made the second half. I thought&nbsp;<em>Hidden Figures</em>&nbsp;was wonderful &mdash; because it&#39;s a great story, not because it was especially hard to tell. It&#39;s almost like a glorified Movie of the Week.&nbsp;<em>Moonlight</em>&nbsp;and&nbsp;<em>Hacksaw Ridge</em>&nbsp;were really very good, but I don&#39;t think of them as a best picture.&nbsp;<em>La La Land</em>&nbsp;was tremendously enjoyable, but not all that deep or memorable. That left me with&nbsp;<em>Manchester by the Sea</em>&nbsp;and&nbsp;<em>Hell or High Water</em>, two compassionate movies that were incredibly well written, directed and acted.&nbsp;<em>Hell or High Water</em>&nbsp;isn&#39;t going to win, but it was my favorite, and it will be remembered as a true American classic.</p>
+<p><strong>My vote</strong>&nbsp;<br />
+	(1)&nbsp;<em>Hell or High Water</em>&nbsp;<br />
+	(2)&nbsp;<em>Manchester by the Sea</em>&nbsp;<br />
+	(3)&nbsp;<em>La</em>&nbsp;<em>La Land</em>&nbsp;<br />
+	(4)&nbsp;<em>Hacksaw Ridge</em>&nbsp;<br />
+	(5)&nbsp;<em>Moonlight</em></p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="977468" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-director-brutally-honest-ballot-977468" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-director-brutally-honest-ballot-977468&p[title]=Best%20Director" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-director-brutally-honest-ballot-977468&text=Best%20Director%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La%20Land%27...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Director</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="938990">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn5.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/10/manchester_by_the_sea_2_-_casey_affleck_kenneth_lonergan_-_still_-_h_-_2016.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Claire Folger/Courtesy of Amazon Studios and Roadside Attractions 
+            </div>
+        </figcaption>
+    </figure>
+
+<p>Forget about&nbsp;<em>Arrival</em>&nbsp;[director Denis&nbsp;Villeneuve]. After that, it was tough. I decided not to go with&nbsp;<em>Hacksaw Ridge</em>, and not because of anything to do with Mel Gibson&#39;s personal problems &mdash; even though I&#39;m Jewish. I think he&#39;s a different person now; he&#39;s a very talented director, and I wish him well. [<em>Moonlight</em>&#39;s] Barry Jenkins did a really good job, but the movie&#39;s three parts aren&#39;t as connected as they could have been. That left me with&nbsp;<em>Manchester</em>&nbsp;[Kenneth&nbsp;Lonergan] and&nbsp;<em>La La Land</em>&nbsp;[Damien&nbsp;Chazelle]. Damien is such a sweetheart; I loved what he did with&nbsp;<em>Whiplash</em>&nbsp;and this one, and he&#39;s probably going to win. But I voted for&nbsp;Lonergan, because it was harder to make everything click on that movie, and he really succeeded.</p>
+<div>
+	<p><strong>My vote</strong>&nbsp;<br />
+		Kenneth&nbsp;Lonergan&nbsp;(<em>Manchester by the Sea</em>)</p>
+</div>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="977469" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-actor-brutally-honest-ballot-977469" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-actor-brutally-honest-ballot-977469&p[title]=Best%20Actor" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-actor-brutally-honest-ballot-977469&text=Best%20Actor%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La%20Land%27%20%22N...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Actor</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="892292">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn4.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/05/captain_fantastic_h_2016.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of Cannes Film Festival
+            </div>
+        </figcaption>
+    </figure>
+
+<p>Denzel has played this role a million times before, and he got the Tony for it &mdash; I&#39;m sure he was amazing onstage, but he didn&#39;t do anything unexpected on film. You&#39;ve got to seem alive in the moment, and maybe if he&#39;d gotten a really great director to direct him, that person would have nudged him to do that. [<em>Hacksaw</em>&#39;s] Andrew Garfield and [<em>La La Land</em>&#39;s] Ryan Gosling were very good, but not Oscar-level. [<em>Manchester</em>&#39;s] Casey Affleck had a role worthy of his brave acting, and he was absolutely wonderful. But I loved, loved, loved&nbsp;Viggo&nbsp;Mortensen&#39;s performance [in&nbsp;<em>Captain Fantastic</em>]. He is an actors&#39; actor, and I voted for him. Unfortunately, it&#39;s probably the only vote he&#39;ll get.</p>
+<p><strong>My vote</strong>&nbsp;<br />
+	Viggo&nbsp;Mortensen (<em>Captain Fantastic</em>)</p>
+</div>
+    
+            
+    <div class="dfp-ad dfp-ad-m   " data-trackaction="" data-tracklabel="Ad Click">
+        <script type="application/json">
+            { "slot": {"adUnit":null,"slotName":"m","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250]],"767":[[300,250]],"0":[[300,250],[300,50],[320,50]]},"targetingParameters":{"pos":["m"]}}, "extraTargeting": null }
+        </script>
+    </div>
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="977470" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-actress-brutally-honest-ballot-977470" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-actress-brutally-honest-ballot-977470&p[title]=Best%20Actress" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-actress-brutally-honest-ballot-977470&text=Best%20Actress%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La%20Land%27%20...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Actress</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="939480">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn1.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/10/l_02458_r_crop1460671279-embed.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Ben Rothstein/FOCUS FEATURES
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I liked none of them. I thought Meryl [Streep&nbsp;in&nbsp;<em>Florence Foster Jenkins</em>] played it like a clown &mdash; she&#39;s cute and adorable, but this woman didn&#39;t matter to me in the end &mdash; but people are gaga over Meryl, and I think she solidified her nomination when she gave that speech at the Golden Globes. I don&#39;t think she would have gotten nominated without it. I hated&nbsp;<em>Jackie</em>&nbsp;so much &mdash; it was just shallow crap &mdash; so no Natalie Portman. [<em>Elle</em>&#39;s] Isabelle&nbsp;Huppert&nbsp;is an ice-cold actress, and I eliminated her because when you get attacked, beaten and raped, you&#39;re not the same person&nbsp;afterward, but she was, and I wanted to slap her to try to get a reaction out of her. The girl in&nbsp;<em>La La Land</em>&nbsp;[Emma Stone] is going to win because she&#39;s adorable and everybody loves her, but I don&#39;t think she was as wonderful as people are saying. That leaves me with Ruth&nbsp;Negga&nbsp;for&nbsp;<em>Loving</em>, who was fairly one-note, but engaging enough.</p>
+<p><strong>My vote</strong><br />
+	Ruth&nbsp;Negga&nbsp;(<em>Loving</em>)</p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="977472" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-supporting-actor-brutally-honest-ballot-977472" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-supporting-actor-brutally-honest-ballot-977472&p[title]=Best%20Supporting%20Actor" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-supporting-actor-brutally-honest-ballot-977472&text=Best%20Supporting%20Actor%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Supporting Actor</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="923068">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn1.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/08/hell_or_high_water_jeff_bridges_gil_birmingham_still_1_h_2016.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                CBS Films
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I thought [<em>Lion</em>&#39;s]&nbsp;Dev&nbsp;Patel and the kid from&nbsp;<em>Manchester</em>&nbsp;[Lucas Hedges] were really good, but not great. The guy from&nbsp;<em>Moonlight</em>&nbsp;[Mahershala&nbsp;Ali] was good, but I don&#39;t think his character was that developed &mdash; I mean, he&#39;s this great guy, and then all of a sudden he just disappears. I really liked Michael Shannon in a movie that I didn&#39;t like [<em>Nocturnal Animals</em>] &mdash; in fact, I voted to nominate him. But my heart is with Jeff Bridges, because I loved [<em>Hell or High Water</em>]. The acting was sheer perfection. Jeff makes it look easy but, boy, what he does is not easy.</p>
+<div>
+	<p><strong>My vote</strong>&nbsp;<br />
+		Jeff Bridges (<em>Hell or High Water</em>)</p>
+</div>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="977473" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-supporting-actress-brutally-honest-ballot-977473" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-supporting-actress-brutally-honest-ballot-977473&p[title]=Best%20Supporting%20Actress" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-supporting-actress-brutally-honest-ballot-977473&text=Best%20Supporting%20Actress%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27L...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Supporting Actress</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="926629">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn4.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/09/screen_shot_-mahershala_ali_in_moonlight_-h_2016.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of TIFF
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I immediately ruled out [<em>Fences</em>&#39;] Viola Davis &mdash; don&#39;t get me wrong, I love her and I think she&#39;s wonderful, but that&#39;s my protest vote. She should have been in the lead actress category, and when the studios put these actresses who are clearly the lead in the supporting category &mdash; like they did with [<em>The Danish Girl</em>&#39;s] Alicia&nbsp;Vikander&nbsp;last year, even though she had more lines than the guy [Eddie&nbsp;Redmayne] &mdash; that really irks me. Because it prevents real supporting actresses, like the waitress in&nbsp;<em>Hell or High Water</em>&nbsp;[Margaret Bowman], from getting nominated. Viola will probably win, but she belonged in the leading lady category. I love [<em>Hidden Figures</em>&#39;]&nbsp;Octavia&nbsp;Spencer, but I felt the other two women in the film [Taraji&nbsp;P. Henson and Janelle&nbsp;Monae] were better. Nicole [Kidman in&nbsp;<em>Lion</em>] wasn&#39;t all that different from everything else I&#39;ve seen her do. So, for me, it was between Michelle [Williams for&nbsp;<em>Manchester</em>], for a true supporting part, and the gal from&nbsp;<em>Moonlight</em>&nbsp;[Naomie&nbsp;Harris]. Both of them were wonderful, but the gal from&nbsp;<em>Moonlight</em>&nbsp;went to places that were harder to go to.</p>
+<p><strong>My vote</strong>&nbsp;<br />
+	Naomie&nbsp;Harris (<em>Moonlight</em>)</p>
+</div>
+    
+            
+    <div class="dfp-ad dfp-ad-m   " data-trackaction="" data-tracklabel="Ad Click">
+        <script type="application/json">
+            { "slot": {"adUnit":null,"slotName":"m","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250]],"767":[[300,250]],"0":[[300,250],[300,50],[320,50]]},"targetingParameters":{"pos":["m"]}}, "extraTargeting": null }
+        </script>
+    </div>
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="977475" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-adapted-screenplay-brutally-honest-ballot-977475" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-adapted-screenplay-brutally-honest-ballot-977475&p[title]=Best%20Adapted%20Screenplay" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-adapted-screenplay-brutally-honest-ballot-977475&text=Best%20Adapted%20Screenplay%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27L...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Adapted Screenplay</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="975708">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn3.thr.com/sites/default/files/imagecache/list_landscape_960x541/2017/02/andre_holland_moonlight_embed_0.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of A24
+            </div>
+        </figcaption>
+    </figure>
+
+<p>As you know, I hated <em>Arrival</em>. The <em>Lion</em> script was uneven. I didn&#39;t really consider <em>Fences</em> because I don&#39;t think it was adapted. So it came down to <em>Moonlight</em> and <em>Hidden Figures</em>, and I just thought the story of <em>Moonlight</em> was more of a challenge to tell.</p>
+<p><strong>My vote</strong><br />
+	<em>Moonlight</em></p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="977476" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-original-screenplay-brutally-honest-ballot-977476" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-original-screenplay-brutally-honest-ballot-977476&p[title]=Best%20Original%20Screenplay" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-original-screenplay-brutally-honest-ballot-977476&text=Best%20Original%20Screenplay%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Original Screenplay</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="947503">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn1.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/11/hell-or-high-water-c_04125_cc_rgb_rgb-h_2016.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of Lorey Sebastian/CBS Films
+            </div>
+        </figcaption>
+    </figure>
+
+<p><em>20th Century Women</em> was cute, but it didn&#39;t fully work. <em>The Lobster</em> was interesting but a little bit weird for me. <em>La La Land</em> was very light. So I was torn between <em>Manchester</em> and <em>Hell or High Water</em>. [<em>Manchester</em>&#39;s] Lonergan is very bright and wrote a brilliant screenplay, but I have to go with <em>Hell or High Water</em>, even though it doesn&#39;t have a chance of winning.</p>
+<p><strong>My vote</strong><br />
+	<em>Hell or High Water</em></p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="977480" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-animated-feature-brutally-honest-ballot-977480" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-animated-feature-brutally-honest-ballot-977480&p[title]=Best%20Animated%20Feature" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-animated-feature-brutally-honest-ballot-977480&text=Best%20Animated%20Feature%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Animated Feature</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="977010">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn4.thr.com/sites/default/files/imagecache/list_landscape_960x541/2017/02/the_red_turtle_still.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of Sony Pictures Classics
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I watched them all and liked several of them, but I loved&nbsp;<em>The Red Turtle</em>, which was the most profound of the group.</p>
+<div>
+	<strong>My vote</strong><br />
+	<em>The Red Turtle</em></div>
+</div>
+    
+            
+    <div class="dfp-ad dfp-ad-m   " data-trackaction="" data-tracklabel="Ad Click">
+        <script type="application/json">
+            { "slot": {"adUnit":null,"slotName":"m","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250]],"767":[[300,250]],"0":[[300,250],[300,50],[320,50]]},"targetingParameters":{"pos":["m"]}}, "extraTargeting": null }
+        </script>
+    </div>
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="977481" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-documentary-feature-brutally-honest-ballot-977481" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-documentary-feature-brutally-honest-ballot-977481&p[title]=Best%20Documentary%20Feature" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-documentary-feature-brutally-honest-ballot-977481&text=Best%20Documentary%20Feature%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Documentary Feature</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="976575">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn1.thr.com/sites/default/files/imagecache/list_landscape_960x541/2017/02/life_animated_still_embed.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of Sony Pictures Home Entertainment
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I&#39;m ruling out&nbsp;<em>O.J.</em>&nbsp;[<em>Made in America</em>] even though I still have an hour of it left to watch &mdash; maybe for younger people this is new stuff, but for me it&#39;s just reliving a part of the past I don&#39;t need to relive. I was disappointed with&nbsp;<em>I Am Not Your Negro</em>&nbsp;&mdash; I was really looking forward to learning more about James Baldwin&#39;s life, rather than his ideas (which I already knew), because when I first came to New York as a young actress, he was such an&nbsp;avant-garde&nbsp;playwright and fascinating guy. Three-quarters of Ava&nbsp;DuVernay&#39;s&nbsp;movie [<em>13th</em>] was wonderful, but the last quarter was so preachy that I felt like I was hit over the head, which was a turnoff. They did a really good job with&nbsp;<em>Fire at Sea</em>, except I hated that little kid in it &mdash; killing birds and cutting up cacti and all of that. I voted for&nbsp;<em>Life, Animated</em>&nbsp;because I thought it was a positive story, how the parents took a massive challenge and made something of it.</p>
+<div>
+	<strong>My vote</strong><br />
+	<em>Life, Animated</em></div>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="977479" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-foreign-language-film-brutally-honest-ballot-977479" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-foreign-language-film-brutally-honest-ballot-977479&p[title]=Best%20Foreign-Language%20Film" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-foreign-language-film-brutally-honest-ballot-977479&text=Best%20Foreign-Language%20Film%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Foreign-Language Film</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="974625">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn2.thr.com/sites/default/files/imagecache/list_landscape_960x541/2017/02/a_man_called_ove_still.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of Music Box Films
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I hated the German movie [<em>Toni Erdmann</em>] so much because it was so shticky &mdash; Germans are not funny! The only part of the whole movie where I laughed was when she couldn&#39;t get out of her tight dress and just ripped it off and went around naked. I hear Jack Nicholson is going to be in a remake, and he might make it funny. The other four were beautifully done, so it was hard. The Australian one [<em>Tanna</em>] was gorgeously photographed. <em>Land of Mine</em> really captured the horrors of war. <em>The Salesman</em> will probably win because there will be a big protest vote about [writer-director Asghar Farhadi] not being able to get into this country [because of Trump&#39;s travel ban, now under a stay]. But my heart was with [Sweden&#39;s] <em>A Man Called</em> <em>Ove</em>. There&#39;s something life-affirming about that movie.</p>
+<p><strong>My vote</strong><br />
+	<em>A Man Called Ove</em></p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="978246" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-cinematography-brutally-honest-ballot-978246" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-cinematography-brutally-honest-ballot-978246&p[title]=Best%20Cinematography" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-cinematography-brutally-honest-ballot-978246&text=Best%20Cinematography%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Cinematography</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="974548">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn3.thr.com/sites/default/files/imagecache/list_landscape_960x541/2017/02/la_la_land_still_embed_0.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Dale Robinette/Lionsgate
+            </div>
+        </figcaption>
+    </figure>
+
+<p><em>Arrival</em> is definitely out. <em>Silence</em> had beautiful photography, but I hated that movie so much, with all the Christian stuff beating me over the head &mdash;&nbsp;I mean, c&rsquo;mon, Marty [Scorsese, its director]! <em>Moonlight</em> and the first half of <em>Lion</em> had some impressive stuff. But I voted for <em>La La Land</em> &mdash;&nbsp;the cinematography really elevated the movie.</p>
+<p><strong>My vote</strong>&nbsp;<br />
+	<em>La La Land</em></p>
+</div>
+    
+            
+    <div class="dfp-ad dfp-ad-m   " data-trackaction="" data-tracklabel="Ad Click">
+        <script type="application/json">
+            { "slot": {"adUnit":null,"slotName":"m","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250]],"767":[[300,250]],"0":[[300,250],[300,50],[320,50]]},"targetingParameters":{"pos":["m"]}}, "extraTargeting": null }
+        </script>
+    </div>
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="978251" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-costume-design-brutally-honest-ballot-978251" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-costume-design-brutally-honest-ballot-978251&p[title]=Best%20Costume%20Design" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-costume-design-brutally-honest-ballot-978251&text=Best%20Costume%20Design%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Costume Design</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="972562">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn4.thr.com/sites/default/files/imagecache/list_landscape_960x541/2017/02/usk-10011r_pop-h_2017_0.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Paramount Pictures
+            </div>
+        </figcaption>
+    </figure>
+
+<p>The costumes in <em>Fantastic Beasts and Where to Find Them</em>, <em>Florence Foster Jenkins</em> and <em>Jackie</em> were really good, but I didn&rsquo;t like the movies. I liked <em>La La Land</em>, but I don&rsquo;t think the costumes had much to do with that &mdash;&nbsp;modern things aren&rsquo;t that hard to design, although [Stone] looked great, I have to say. And while I didn&rsquo;t love <em>Allied</em>, the costumes for Brad Pitt and Marion Cotillard were the best thing about it. In fact, when they had one of those little parties for it, I went up to that British lady [Joanna Johnston] and told her that, and I don&rsquo;t think she knew how to respond. Me and my big mouth. (<em>Laughs.</em>)</p>
+<p><strong>My vote</strong><br />
+	<em>Allied</em></p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="978252" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-film-editing-brutally-honest-ballot-978252" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-film-editing-brutally-honest-ballot-978252&p[title]=Best%20Film%20Editing" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-film-editing-brutally-honest-ballot-978252&text=Best%20Film%20Editing%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La%20L...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Film Editing</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="892306">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn5.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/05/hell_or_high_water_h_2016.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of Cannes Film Festival
+            </div>
+        </figcaption>
+    </figure>
+
+<p>This was a really strong category this year. [John Gilbert] did a great job with <em>Hacksaw Ridge</em>, but <em>Hell or High Water</em> was my favorite film, so I&rsquo;m gonna stick with it here.</p>
+<p><strong>My vote</strong><br />
+	<em>Hell or High Water</em></p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="978254" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-makeup-hairstyling-brutally-honest-ballot-978254" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-makeup-hairstyling-brutally-honest-ballot-978254&p[title]=Best%20Makeup%20%26%20Hairstyling" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-makeup-hairstyling-brutally-honest-ballot-978254&text=Best%20Makeup%20%26%20Hairstyling%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Makeup &amp; Hairstyling</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="872087">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn4.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/03/a_man_called_ove_photo_by_anders_nicander_0.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Anders Nicander
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I didn&rsquo;t like <em>Suicide Squad</em> very much. The <em>Star Trek</em> [<em>Beyond</em>] DVD they sent me stopped halfway through &mdash; something was wrong with it &mdash;&nbsp;so I called them and asked them to send me another, but they never did, so that eliminated them! The funny thing is I probably would have voted for them. Again, I liked <em>A Man Called Ove</em> &mdash; the whole movie &mdash;&nbsp;so that&rsquo;s the one.</p>
+<p><strong>My vote</strong><br />
+	<em>A Man Called Ove</em></p>
+</div>
+    
+            
+    <div class="dfp-ad dfp-ad-m   " data-trackaction="" data-tracklabel="Ad Click">
+        <script type="application/json">
+            { "slot": {"adUnit":null,"slotName":"m","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250]],"767":[[300,250]],"0":[[300,250],[300,50],[320,50]]},"targetingParameters":{"pos":["m"]}}, "extraTargeting": null }
+        </script>
+    </div>
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="978255" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-original-score-brutally-honest-ballot-978255" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-original-score-brutally-honest-ballot-978255&p[title]=Best%20Original%20Score" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-original-score-brutally-honest-ballot-978255&text=Best%20Original%20Score%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Original Score</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="972554">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn1.thr.com/sites/default/files/imagecache/list_landscape_960x541/2017/02/lll_d29_05187_r_pop-h_2017.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Lionsgate
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I really listened to each of them. <em>La La Land</em>&rsquo;s was very sweet and stood out to me the most.</p>
+<p><strong>My vote</strong><br />
+	<em>La La Land</em></p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="978258" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-original-song-brutally-honest-ballot-978258" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-original-song-brutally-honest-ballot-978258&p[title]=Best%20Original%20Song" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-original-song-brutally-honest-ballot-978258&text=Best%20Original%20Song%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La%20...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Original Song</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="852873">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn1.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/01/000070.26559.16585_jim_still6_na_bynicoletung_-_h_2016_0.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of Sundance Institute
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I&rsquo;m not crazy about any of them &mdash; you don&rsquo;t really remember them like you remember songs like &ldquo;The Way We Were&rdquo; even years later &mdash; but I&rsquo;ll vote for the Sting one [&ldquo;The Empty Chair,&rdquo; for which Sting is nominated with J. Ralph].</p>
+<p><strong>My vote</strong><br />
+	&quot;The Empty Chair&quot; (<em>Jim: The James Foley Story</em>)</p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="978260" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-production-design-brutally-honest-ballot-978260" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-production-design-brutally-honest-ballot-978260&p[title]=Best%20Production%20Design" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-production-design-brutally-honest-ballot-978260&text=Best%20Production%20Design%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Production Design</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="946695">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn1.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/11/fantastic_beasts_and_where_to_find_them_still_10.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Jaap Buitendijk/Warner Bros.
+            </div>
+        </figcaption>
+    </figure>
+
+<p><em>Arrival&nbsp;</em>was the first to go. Then <em>Hail, Caesar!</em> and <em>Passengers</em> &mdash;&nbsp;just mediocre movies. So it was between <em>La La Land</em> and <em>Fantastic Beasts and Where to Find Them</em>. I&rsquo;m sure <em>La La Land</em> will win, but I went with <em>Fantastic Beasts and Where to Find Them</em> because I thought the production value on that movie was really wonderful, even though I wasn&rsquo;t knocked out by the movie itself.</p>
+<p><strong>My vote</strong><br />
+	<em>Fantastic Beasts and Where to Find Them</em></p>
+</div>
+    
+            
+    <div class="dfp-ad dfp-ad-m   " data-trackaction="" data-tracklabel="Ad Click">
+        <script type="application/json">
+            { "slot": {"adUnit":null,"slotName":"m","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250]],"767":[[300,250]],"0":[[300,250],[300,50],[320,50]]},"targetingParameters":{"pos":["m"]}}, "extraTargeting": null }
+        </script>
+    </div>
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-" data-id="978261" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-sound-editing-best-sound-mixing-brutally-honest-ballot-978261" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-sound-editing-best-sound-mixing-brutally-honest-ballot-978261&p[title]=Best%20Sound%20Editing%20%26%20Best%20Sound%20Mixing" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-sound-editing-best-sound-mixing-brutally-honest-ballot-978261&text=Best%20Sound%20Editing%20%26%20Best%20Sound%20Mixing%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Li...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Sound Editing &amp; Best Sound Mixing</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<p>These are the categories I have a really hard time with &mdash;&nbsp;it would be easier if they just had a &ldquo;best sound&rdquo; category, but as it is I&rsquo;m really totally confused and prefer to just stay out of it.</p>
+<p><strong>My vote for both</strong><br />
+	[Abstain]</p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="978262" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-visual-effects-brutally-honest-ballot-978262" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-visual-effects-brutally-honest-ballot-978262&p[title]=Best%20Visual%20Effects" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-visual-effects-brutally-honest-ballot-978262&text=Best%20Visual%20Effects%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Visual Effects</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="884233">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn3.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/04/jb1.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of Walt Disney Pictures
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I like the effects in <em>Rogue One</em>, but I voted for <em>The Jungle Book</em> because I thought that one, with the animals and everything, was absolutely stunning.</p>
+<p><strong>My vote</strong><br />
+	<em>The Jungle Book</em></p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="978263" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-animated-short-brutally-honest-ballot-978263" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-animated-short-brutally-honest-ballot-978263&p[title]=Best%20Animated%20Short" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-animated-short-brutally-honest-ballot-978263&text=Best%20Animated%20Short%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La%20La...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Animated Short</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="955599">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn3.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/12/pear_cider_and_cigarettes_still.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of Massive Swerve
+            </div>
+        </figcaption>
+    </figure>
+
+<p>The two that I liked the best were <em>Piper</em>, which is so adorable, and the one with the cigarettes where that crazy guy goes to China [<em>Pear Cider and Cigarettes</em>], which I voted for because&nbsp;it is very intriguing and different.</p>
+<p><strong>My vote</strong><br />
+	<em>Pearl Cider and Cigarettes</em></p>
+</div>
+    
+            
+    <div class="dfp-ad dfp-ad-m   " data-trackaction="" data-tracklabel="Ad Click">
+        <script type="application/json">
+            { "slot": {"adUnit":null,"slotName":"m","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250]],"767":[[300,250]],"0":[[300,250],[300,50],[320,50]]},"targetingParameters":{"pos":["m"]}}, "extraTargeting": null }
+        </script>
+    </div>
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="978265" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-documentary-short-brutally-honest-ballot-978265" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-documentary-short-brutally-honest-ballot-978265&p[title]=Best%20Documentary%20Short" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-documentary-short-brutally-honest-ballot-978265&text=Best%20Documentary%20Short%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Documentary Short</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="946324">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn3.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/11/dan-krauss-extremis4-h_2016.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of Netflix 
+            </div>
+        </figcaption>
+    </figure>
+
+<p>The one about the immigrants coming across the ocean [<em>4.1 Miles</em>] is no different than what you see on the news. What bothered me about <em>Joe&rsquo;s Violin</em> is he said he was a Holocaust survivor, but he wasn&rsquo;t &mdash;&nbsp;his mother and brothers were, but he was sent to Siberian gulags &mdash;&nbsp;and that made me doubt everything else about the story. The two about Syria [<em>Watani: My Homeland</em> and <em>The White Helmets</em>] were very well done &mdash;&nbsp;I almost voted for <em>White Helmets</em>. But I thought <em>Extremis</em> was the most human and least contrived.</p>
+<p><strong>My vote</strong><br />
+	<em>Extremis</em></p>
+</div>
+    
+    </li>
+    <li class="list-item list-item--unordered has-imagetype-landscape" data-id="978264" data-url="http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-live-action-short-brutally-honest-ballot-978264" data-itemcategory="">
+        <header class="list-item__header">
+        <div class="list-item__info">
+                        <div class="list-item__share">
+                <a class="fb-square list__facebook fa-facebook" rel="popup" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hollywoodreporter.com%2Flists%2Foscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora%2Fitem%2Fbest-live-action-short-brutally-honest-ballot-978264&p[title]=Best%20Live-Action%20Short" data-tracklabel="Social Facebook"></a>
+                <a class="twitter-square list__twitter fa-twitter" rel="popup" href="https://twitter.com/intent/tweet?url=http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora/item/best-live-action-short-brutally-honest-ballot-978264&text=Best%20Live-Action%20Short%20-%20Oscar%20Voter%20Reveals%20Her%20Brutally%20Honest%20Ballot%3A%20Meryl%20Streep%20%22Like%20a%20Clown%2C%22%20%27La...&via=THR&related=THR" data-tracklabel="Social Twitter"></a>
+            </div>
+        </div>
+        <h1 class="list-item__title">Best Live-Action Short</h1>
+        <h2 class="list-item__deck"></h2>
+            </header>
+    <div class="list-item__body js-fitvids-content">
+
+
+<figure class="list-media list-media--landscape main-media" data-media-type="image" data-media-id="970438">
+
+            <img class="list-media__image main-media__image" alt="" data-src="http://cdn5.thr.com/sites/default/files/imagecache/list_landscape_960x541/2017/01/la_femme_et_le_tgv_still.jpg">
+
+        <figcaption class="list-media__meta">
+            <div class="list-media__caption">
+                
+            </div>
+            <div class="list-media__credit">
+                Courtesy of SND Films
+            </div>
+        </figcaption>
+    </figure>
+
+<p>I thought <em>Timecode</em> was good, but it was more of an intellectual exercise, so I went with my heart: I preferred the one about the woman and the bike and the train [<em>La Femme et le TGV</em>] because I thought there was something really humane about that one. She grew from that experience and it had a really positive message.</p>
+<p><strong>My vote</strong><br />
+	<em>La Femme et le TGV</em><br />
+	&nbsp;</p>
+</div>
+    
+    </li>
+
+</ul>
+
+            <div>
+                <button class="js-show-disqus-comments show-disqus-comments" data-tracklabel="Show Comments - Oscar Voter Reveals Her Brutally Honest Ballot: Meryl Streep &quot;Like a Clown,&quot; &#039;La La Land&#039; &quot;Not Memorable,&quot; &#039;Arrival&#039; &quot;Just Sucked&quot;">Comments</button>
+<div id="disqus-comments" class="disqus">
+    <div id="disqus_thread" class="disqus-comments-wrapper"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'hollywoodreporter';
+        var disqus_identifier = 'node/977482';
+        var disqus_title = 'Oscar Voter Reveals Her Brutally Honest Ballot: Meryl Streep &quot;Like a Clown,&quot; La La Land &quot;Not Memorable,&quot; Arrival &quot;Just Sucked&quot;';
+        var disqus_url = 'http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora';
+    </script>
+    <script data-src="//hollywoodreporter.disqus.com/embed.js"></script>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+            </div>
+
+            <aside class="list-recommended" data-trackaction="Bottom Related">
+    <h2 class="list-recommended__headline">What's Hot on The Hollywood Reporter</h2>
+    <ul class="list-recommended__items">
+            <li class="list-recommended__item">
+            <a class="list-recommended__item-link" href="http://www.hollywoodreporter.com/lists/oscars-2017-who-will-win-who-should-win-977909" title="THR&#x27;s&#x20;awards&#x20;analyst&#x20;Scott&#x20;Feinberg&#x20;predicts&#x20;the&#x20;winners&#x20;while&#x20;chief&#x20;film&#x20;critic&#x20;Todd&#x20;McCarthy&#x20;offers&#x20;his&#x20;picks&#x20;for&#x20;who&#x20;really&#x20;deserves&#x20;the&#x20;Academy&#x20;Award." data-tracklabel="Oscars 2017: Who Will Win, Who Should Win">
+                <img class="list-recommended__item-image" src="http://cdn5.thr.com/sites/default/files/imagecache/list_square_270x270/2017/02/0453a61d-f847-418d-a86f-068a38837f72.png" />
+                <h3 class="list-recommended__item-headline">Oscars 2017: Who Will Win, Who Should Win</h3>
+            </a>
+        </li>
+            <li class="list-recommended__item">
+            <a class="list-recommended__item-link" href="http://www.hollywoodreporter.com/lists/2017-oscar-nominations-reactions-967941" title="&#x27;La&#x20;La&#x20;Land&#x27;&#x20;leads&#x20;the&#x20;race&#x20;with&#x20;14&#x20;mentions,&#x20;followed&#x20;by&#x20;&#x27;Arrival&#x27;&#x20;and&#x20;&#x27;Moonlight&#x20;with&#x20;eight&#x20;each." data-tracklabel="Oscars: What the Nominees Are Saying">
+                <img class="list-recommended__item-image" src="http://cdn1.thr.com/sites/default/files/imagecache/list_square_270x270/2017/01/la_la_land_-moonlight-_hacksaw-lion-manchester-split-h_2017.jpg" />
+                <h3 class="list-recommended__item-headline">Oscars: What the Nominees Are Saying</h3>
+            </a>
+        </li>
+            <li class="list-recommended__item">
+            <a class="list-recommended__item-link" href="http://www.hollywoodreporter.com/lists/oscar-2017-nominees-all-past-wins-nominations-965764" title="Six&#x20;previous&#x20;Oscar&#x20;winners&#x20;&#x28;with&#x20;seven&#x20;statuettes&#x20;among&#x20;them&#x29;,&#x20;seven&#x20;previously&#x20;Oscar&#x20;nominated&#x20;actors&#x20;&#x28;now&#x20;with&#x20;17&#x20;nominations&#x20;in&#x20;total&#x29;,&#x20;and&#x20;seven&#x20;first-time&#x20;nominees&#x20;round&#x20;out&#x20;the&#x20;list&#x20;of&#x20;Oscar-nominated&#x20;actors,&#x20;with&#x20;a&#x20;whopping&#x20;total&#x20;of&#x20;58&#x20;Oscar&#x20;noms." data-tracklabel="Oscar 2017 Nominees: All of Their Past Wins and Nominations">
+                <img class="list-recommended__item-image" src="http://cdn1.thr.com/sites/default/files/imagecache/list_square_270x270/2017/01/_la_la_land_emma_and_manchester_by_the_sea_casey_-_split-h_2017.jpg" />
+                <h3 class="list-recommended__item-headline">Oscar 2017 Nominees: All of Their Past Wins and Nominations</h3>
+            </a>
+        </li>
+        </ul>
+</aside>
+        </article>
+
+        <aside class="list-supplementary">
+            <div class="list-promo" data-trackaction="Sidebar">
+    <h2 class="list-promo__title">Most Popular</h2>
+    <ul class="list-promo__items">
+            <li>
+            <a class="list-promo__item" href="http://www.hollywoodreporter.com/lists/oscar-nominations-2017-complete-list-nominees-960044" data-tracklabel="Oscars: &#039;La La Land&#039; Ties Record With 14 Nominations">Oscars: &#039;La La Land&#039; Ties Record With 14 Nominations</a>
+        </li>
+            <li>
+            <a class="list-promo__item" href="http://www.hollywoodreporter.com/lists/oscar-2017-nominees-all-past-wins-nominations-965764" data-tracklabel="Oscar 2017 Nominees: All of Their Past Wins and Nominations">Oscar 2017 Nominees: All of Their Past Wins and Nominations</a>
+        </li>
+            <li>
+            <a class="list-promo__item" href="http://www.hollywoodreporter.com/news/oscar-nominations-academy-doesnt-repeat-oscarssowhite-as-dances-la-la-land-967936" data-tracklabel="Oscar Nominations: No Repeat of #OscarsSoWhite">Oscar Nominations: No Repeat of #OscarsSoWhite</a>
+        </li>
+        </ul>
+</div>
+            
+    <div class="dfp-ad dfp-ad-m1   " data-trackaction="" data-tracklabel="Ad Click">
+        <script type="application/json">
+            { "slot": {"adUnit":null,"slotName":"m1","outOfBody":false,"responsive":true,"sizeMapping":{"980":[[300,250],[300,251],[300,600],[300,1050]],"767":[[300,250],[300,251],[300,600]],"0":[]},"targetingParameters":{"pos":["m1"]}}, "extraTargeting": null }
+        </script>
+    </div>
+        </aside>
+    </div>
+</main>
+
+
+        <!-- footer -->
+
+<footer id="site-footer" class="site-footer">
+
+    <div class="container">
+
+        <div class="branding column">
+
+            <div class="brand">
+
+                <a href="/" title="The Hollywood Reporter" rel="home" class="logo" data-tracklabel="Drip Pan Footer - THR Logo">The Hollywood Reporter</a>
+
+            </div>
+            <p class="copyright date">
+                &copy; 2017 The Hollywood Reporter
+                <br>
+                All rights reserved.
+            </p>
+            <p class="copyright terms">
+                <a href="/legal/terms">Terms of Use</a> |
+                <a href="/legal/privacy">Privacy</a> |
+                                    <a href="/sitemap">Sitemap</a> |
+                                <a href="/legal/about-our-ads">About Our Ads</a>
+            </p>
+
+        </div>
+
+        
+            <div class="affiliate column">
+                <ul>
+                    <li>
+                        <a href="/about/about" data-tracklabel="Drip Pan Footer - About Us">About Us</a>
+                    </li>
+                    <li>
+                        <a href="/user/login" data-tracklabel="Drip Pan Footer - Login">Login</a>
+                    </li>
+                    <li>
+                        <a href="/daily/archive" data-tracklabel="Drip Pan Footer - Daily Edition">Daily Edition</a>
+                    </li>
+                    <li>
+                        <a href="//www.hollywoodreporter.com/subscribe3" data-tracklabel="Drip Pan Footer - Subscribe">Subscribe</a>
+                    </li>
+                    <li>
+                        <a href="/services" data-tracklabel="Drip Pan Footer - Subscriber Services">Subscriber Services</a>
+                    </li>
+                    <li>
+                        <a href="//shop.hollywoodreporter.com" data-tracklabel="Drip Pan Footer - Back Issues">Back Issues</a>
+                    </li>
+                    <li>
+                        <a href="/ad/contacts" data-tracklabel="Drip Pan Footer - Advertising">Advertising</a>
+                    </li>
+                    <li>
+                        <a href="/contact" data-tracklabel="Drip Pan Footer - Contact Us">Contact Us</a>
+                    </li>
+                    <li>
+                        <a href="http://prometheusglobalmedia.applytojob.com/" target="_blank" data-tracklabel="Drip Pan Footer - Careers">Careers</a>
+                    </li>
+                    <li>
+                        <a href="/industry-jobs" data-tracklabel="Drip Pan Footer - Industry Jobs">Industry Jobs</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="follow column">
+                <ul>
+                    <li>
+                        Follow Us On
+                        <a href="http://twitter.com/thr" target="_blank" data-tracklabel="Drip Pan Footer - Twitter">Twitter</a>
+                    </li>
+                    <li>
+                        Find Us On
+                        <a href="http://www.facebook.com/HollywoodReporter" target="_blank" data-tracklabel="Drip Pan Footer - Facebook">Facebook</a>
+                    </li>
+                    <li>
+                        Watch Us On
+                        <a href="http://www.youtube.com/thrnetwork" target="_blank" data-tracklabel="Drip Pan Footer - YouTube">Youtube</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="partner column">
+                <div class="publications">
+                    <p>Our affiliate publications</p>
+                    <ul>
+                        <li>
+                            <a href="http://www.billboard.com/" target="_blank" class="footer logo billboard" data-tracklabel="Drip Pan Footer - Billboard">Billboard</a>
+                        </li>
+                        <li>
+                          <a href="http://www.backstage.com/" target="_blank" class="foot logo backstage" data-tracklabel="Drip Pan Footer - Backstage">Backstage Casting</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        
+    </div>
+</footer>
+                <script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "THe Hollywood Reqporter",
+  "url" : "http://www.hollywoodreporter.com",
+  "sameAs" : [
+    "https://www.youtube.com/user/thrnetwork",
+    "https://twitter.com/thr",
+    "https://www.facebook.com/HollywoodReporter",
+    "https://instagram.com/hollywoodreporter/"]
+}
+</script>
+            <script type="text/javascript" src="/static/frontend/2017_02_22_1300/assets/js/commons.bundle.js"></script>
+    <script type="text/javascript" src="/static/frontend/2017_02_22_1300/assets/js/transition.bundle.js"></script>
+    <script type="text/javascript" src="/static/frontend/2017_02_22_1300/assets/js/templates.js"></script>
+    <script type="text/javascript" src="/static/frontend/2017_02_22_1300/assets/js/home.bundle.js"></script>
+    <script type="text/javascript" src="/static/frontend/2017_02_22_1300/assets/js/vendor.js"></script>
+    <script type="text/javascript" src="/static/frontend/2017_02_22_1300/assets/js/thr.js"></script>
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+    PGM.createScriptTag("//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=303838389949803");
+</script>
+<script type="text/javascript">var __st_loadLate=true;</script>
+
+            <meta name="sailthru.title" content="Oscar Voter Reveals Her Brutally Honest Ballot: Meryl Streep &quot;Like a Clown,&quot; &#039;La La Land&#039; &quot;Not Memorable,&quot; &#039;Arrival&#039; &quot;Just Sucked&quot;">
+                <meta name="sailthru.description" content="An Academy voter makes her case for &#039;Hell or High Water&#039; (&quot;It will be remembered as a true American classic&quot;), says Emma Stone wasn&#039;t &quot;as wonderful as people are saying,&quot; and explains why Viola Davis is in the wrong category (&quot;That really irks me&quot;).">
+                <meta name="sailthru.author" content="Anonymous, as told to Scott Feinberg">
+                    <meta name="sailthru.vertical" content="Awards">
+                <meta name="sailthru.date" content="2017-02-21 17:02:00">
+                <meta name="sailthru.tags" content="Movies,Awards,Oscars,Oscars 2017">
+    
+    
+    <script type="text/javascript">
+    PGM.createScript("//ak.sail-horizon.com/horizon/v1.js", function() {
+        if (window.Sailthru) {
+            PGM.debug('sailthru', 'Running Sailthru.track for', 'http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora');
+            Sailthru.track({
+                domain: 'horizon.hollywoodreporter.com',
+                spider: true,
+                track_url: true,
+                url: 'http://www.hollywoodreporter.com/lists/oscar-voter-reveals-her-brutally-honest-ballot-meryl-streep-like-a-clown-la-la-land-not-memora'
+            });
+        }
+        else {
+            PGM.debug('sailthru', 'No window.Sailthru');
+        }
+    });
+    </script>
+<script type="text/javascript">
+    PGM.createScript("//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/6696.js?"+Math.floor(new Date().getTime()/3600000));
+</script>
+<!-- PGM Chartbeat Start -->
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 3388;
+    _sf_async_config.domain = 'hollywoodreporter.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = "awards";
+    /** CONFIGURATION END **/
+    PGM.createScript('//static.chartbeat.com/js/chartbeat.js');
+</script>
+<!-- PGM Chartbeat End -->
+<!-- BEGIN Krux -->
+<script class="kxct" data-id="JtjzpxpZ" data-timing="async" data-version="1.9" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+    PGM.createScript("//cdn.krxd.net/controltag?confid=JtjzpxpZ");
+</script>
+<!-- END Krux -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+    </body>
+</html>

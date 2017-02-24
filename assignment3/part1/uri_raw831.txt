@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html amp itemscope itemtype="http://schema.org/WebPage" lang="en">
+    <head>
+    	       
+	<meta charset="utf-8"><meta property="AssetType" content="cnbcnewsstory" /><meta property="pageNodeId" content="104249766" /><!-- premium asset !--><meta itemprop="description" name="description" content="The Patriots are the picture of stability in a league filled with constant change." />
+    
+<meta itemprop="keywords" name="keywords" content="Make It - Leadership, Make It - Leadership, Make It - Careers, Make It, Entrepreneurs, Commentary, business news">
+<meta property="og:type"  content="article" /><meta property="og:url" content="http://www.cnbc.com/2017/02/01/5-lessons-bill-belichick-and-the-patriots-can-teach-about-leadership.html" /><meta property="og:site_name" content="CNBC" /><meta property="og:image" itemprop="image" content="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249781-bill_belichick.1910x1000.jpg" /><meta property="og:title" content="5 lessons Bill Belichick and the New England Patriots can teach you about leadership" /><meta property="og:description" content="The Patriots are the picture of stability in a league filled with constant change." /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@CNBC" /><meta name="twitter:url" content="http://www.cnbc.com/2017/02/01/5-lessons-bill-belichick-and-the-patriots-can-teach-about-leadership.html" /><meta name="twitter:title" content="5 lessons Bill Belichick&#039;s New England Patriots can teach you about leadership" /><meta name="twitter:description" content="The Patriots are the picture of stability in a league filled with constant change." /> <meta name="twitter:image:src" content="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249781-bill_belichick.1910x1000.jpg" /><link rel="amphtml" href="//www.cnbc.com/amp/2017/02/01/5-lessons-bill-belichick-and-the-patriots-can-teach-about-leadership.html"><meta property="article:publisher" content="https://www.facebook.com/cnbc" /><meta property="article:published_time" content="2017-02-01T10:26:13-0500" /><meta property="article:modified_time" content="2017-02-01T12:08:51-0500" /><meta property="article:author" content="https://www.facebook.com/CNBC" /><meta name="author" content="Daniel Rodic " /><link href="https://plus.google.com/+CNBC" rel="author" /><meta property="article:section" content="Make It - Leadership" /><meta property="article:tag" content="Make It - Leadership" /><meta property="article:tag" content="Make It - Careers" /><meta property="article:tag" content="Make It" /><meta property="article:tag" content="Entrepreneurs" /><meta property="article:tag" content="Commentary" /><meta name="news_keywords" content="New England Patriots, Bill Belichick, Superbowl, Tom Brady, Falcons" /><meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://www.msnbc.msn.com&quot; r (nz 1vz 1lz 1oz 1cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.msnbc.msn.com&quot; r (l 0n 0s 0v 0))" /><meta name="GOOGLEBOT" content="unavailable_after: 31 Dec 9999 23:59:59 GMT" /><!-- structured data !--><meta itemprop="dateCreated" content="2017-02-01T10:26:14-0500" /><meta itemprop="dateModified" content="2017-02-01T12:08:51-0500" /><meta itemprop="lastReviewed" content="2017-02-01T12:08:51-0500" /><meta itemprop="sourceOrganization" content="CNBC" /><meta itemprop="inLanguage" content="en-US" /><meta itemprop="specialty" content="New England Patriots, Bill Belichick, Superbowl, Tom Brady, Falcons" /><meta itemprop="primaryImageOfPage" content="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249781-bill_belichick.1910x1000.jpg" /><meta itemprop="isFamilyFriendly" content="true" /><meta itemprop="contentRating" content="NR" /><meta name="tp:PreferredRuntimes" content="flash,html5" /><meta name="tp:initialize" content="false" />
+
+       <title itemprop="name">5 lessons Bill Belichick and the Patriots can teach about leadership</title>
+		  <link itemprop="url" rel="canonical" href="http://www.cnbc.com/2017/02/01/5-lessons-bill-belichick-and-the-patriots-can-teach-about-leadership.html" />
+		  
+      <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+      <script type="application/ld+json">{"@context": "http://schema.org","@type":"NewsArticle","mainEntityOfPage":"http://www.cnbc.com/2017/02/01/5-lessons-bill-belichick-and-the-patriots-can-teach-about-leadership.html","headline":"5 lessons Bill Belichick&#039;s New England Patriots can teach you about leadership","datePublished":"2017-02-01T10:26:14-0500","dateModified":"2017-02-01T12:08:51-0500","author":{"@type":"Person","name":"Daniel Rodic "},"publisher":{"@type":"Organization","name":"CNBC","logo":{"@type":"ImageObject","url":"https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-logo-amp.png","width":360,"height":60}},"image":{"@type": "ImageObject","url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249781-bill_belichick.720x405.jpg","width": 720,"height": 405}}</script>
+		  
+       		
+	<style amp-custom="">
+	 @font-face {
+		    font-family: 'cnbc_font_icons';
+		    src:url('/fonts/cnbc_font_icons.eot?-k1ej6q');
+		    src:url('/fonts/cnbc_font_icons.eot?#iefix-k1ej6q') format('embedded-opentype'),
+		        url('/fonts/cnbc_font_icons.woff?-k1ej6q') format('woff'),
+		        url('/fonts/cnbc_font_icons.ttf?-k1ej6q') format('truetype'),
+		        url('/fonts/cnbc_font_icons.svg?-k1ej6q#cnbc_font_icons') format('svg');
+		    font-weight: normal;
+		    font-style: normal;
+		}
+		@font-face {
+		    font-family: 'Gotham Narrow SSm 3r';
+		    src: url('/fonts/Gotham/GothamNarrSSm-Light.ttf');
+		    font-weight: normal;
+		    font-style: normal;
+		}
+		@font-face {
+		    font-family: 'Gotham Narrow SSm 4r';
+		    src: url('/fonts/Gotham/GothamNarrSSm-Book.ttf');
+		    font-weight: normal;
+		    font-style: normal;
+		}
+		@font-face {
+		    font-family: 'Gotham Narrow SSm 5r';
+		    src: url('/fonts/Gotham/GothamNarrSSm-Medium.ttf');
+		    font-weight: normal;
+		    font-style: normal;
+		}
+		@font-face {
+		    font-family: 'Gotham Narrow SSm 7r';
+		    src: url('/fonts/Gotham/GothamNarrSSm-Bold.ttf');
+		    font-weight: normal;
+		    font-style: normal;
+		}
+		body {
+		    background: #fff;
+		    width: 100%;
+		    color: #4c4744;
+		    font: normal 1.15em 'Gotham Narrow SSm 4r';
+		    margin: 0;
+		    padding: 0;
+		    overflow: hidden;
+		}
+		p {
+		    margin: 0;
+		}
+		article a {
+			font-family: 'Gotham Narrow SSm 5r';
+		}
+		a:link, a:visited {
+		    text-decoration: none;
+		    color: #2077B6;
+		    outline: 0;
+		    outline: none;
+		}
+		#cnbc-body {
+		    margin-bottom: 35px;
+		}
+		header#cnbc-new-header {
+		    background: #146195;
+		    margin: 0px auto;
+		    padding: 5px 0px;
+		}
+		a#sm-logo {
+			display: block;
+    		text-align: center;
+		}
+		.cnbc-new-footer-amp {
+		    background: #0d3d61;
+		    padding: 10px 0px;
+		}
+		.footer-disclaimer p, .footer-disclaimer p a {
+		    color: #909dab;
+		    font-size: 12px;
+		    margin-bottom: 20px;
+		    line-height: 18px;
+		}
+		.footer-disclaimer a {
+		    text-decoration: initial;
+		    color: #909dab;
+		}
+		.sec-logo-container {
+			text-align: center;
+			margin-top: 20px;
+		}
+		.copyright-info {
+    		border-top: #3d6481 solid 1px;
+  			margin-top: 30px;
+  			padding: 30px 15px 0 20px;
+		}
+		.story-top {
+		    border-bottom: 1px solid #CCD6DB;
+		    overflow: hidden;
+		    margin: 0px 10px 15px;
+		    padding: 0 0 10px;
+		}
+		.story-top .title {
+		    font-size: 28px;
+		    line-height: 34px;
+		    font-weight: normal;
+		    padding: 0 0 10px 0;
+		    margin: 0;
+		    color: #424858;
+		}
+		.story-top .subheadlines {
+		    font-size: 18px;
+		    line-height: 20px;
+		    font-weight: normal;
+		    padding:  0 0 10px 0;
+		    margin: 0;
+		    color: #424858;
+		}
+		.story-top .source {
+		    font-size: 14px;
+		    font-weight: normal;
+		    color: #424858;
+		}
+		.story-top .datestamp, .story-top .sourcelogo {
+		    display: block;
+		    padding: 5px 0px 0px 0px;
+		    color: #424858;
+		    font-size: 12px;
+		}
+		article {
+		    margin: 0 10px;
+		}
+		#article_body {
+		    width: auto;
+		}
+		.group-container {
+			clear: both;
+		    margin-bottom: 20px;
+		}
+		article p, article ul, article ol {
+		    padding: 0 0 20px;
+		    line-height: 26px;
+		    color: #424858;
+		}
+		.full-site-link{
+			margin-bottom: 30px;
+		}
+		.full-site-link a{
+			width: 300px;
+		    margin: 0 auto;
+		    display: block;
+		    background: #2077B6;
+		    color: #FFF;
+		    text-align: center;
+		    font-size: 20px;
+		    text-transform: uppercase;
+		    padding: 15px;
+		    border-radius: 6px;
+		}
+		.embed-container, .slideshow.imgasset.featuredPromo {
+		    margin: 0 0 15px;
+		    width: 100%;
+		    overflow: hidden;
+		}
+		.asset {
+		    overflow: hidden;
+		    font-weight: normal;
+		}
+		.embed-container.default-asset-view .asset:before {
+		    content: " \203A";
+		    color: #DD4B39;
+		    font-size: 18px;
+		}
+		.asset .headline, .asset .desc {
+		    margin: 0 0 5px;
+		}
+		.embed-container.default-asset-view .headline {
+		    margin: -20px 0 0 10px;
+		}
+		.blockquote, blockquote {
+		    padding: 20px 0;
+		    margin: 0 0 20px;
+		    overflow: hidden;
+		    background: #eee;
+		}
+		.blockquote p, blockquote p {
+		    padding: 0 4%;
+		    margin: 0;
+		}
+		article p:last-child {
+		    padding-bottom: 0;
+		}
+		.embed-container .caption, .embed-container .attribution, .slideshow .desc{
+			padding: 0 0 8px;
+		    color: #424858;
+		    font-size: 12px;
+		    line-height: 18px;
+		    clear: both;
+		}
+		.embed-container.image {
+		    border-bottom: 1px solid #CCD6DB;
+		    overflow: hidden;
+		}
+		.featuredPromo .headline-overlay {
+			padding: 10px 0;
+			background: url("//sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/hSprite.png");
+		}
+		.featuredPromo .headline-overlay a {
+			font-size: 18px;
+		    line-height: 24px;
+		    display: inline-block;
+		    color: #FFFFFF;
+		    font-weight: normal;
+		    padding: 0 10px 0 10px;
+		}
+		.icon {
+		    background: 0;
+		    background-image: url("//sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/sprite.png?vn=4");
+		    background-repeat: no-repeat;
+		    border: 0px;
+		    vertical-align: middle;
+		    background-position: 100px 0px;
+		    height: 0px;
+		}
+		.slideshow .headline span.icon {
+		    width: 35px;
+		    height: 28px;
+		    background-position: 0px -110px;
+		    margin-right: 5px;
+		    float: left;
+		}
+		.group-container  a.inline_chart {
+			font-size: 14px;
+			font-family: 'Gotham Narrow SSm 5r';
+		}
+		.group-container .label-read-more {color: #DD4B39; font-family: 'Gotham Narrow SSm 5r';}
+		.label-read-more:after {content: " \203A  ";color: #DD4B39;}
+		.embed-container .headlines a {color: #fff; font-weight: normal;}
+		.embed-container .embed-top {position: relative;height: auto;}
+		.embed-container.default-asset-view .asset a,
+		.group-container .label-read-more + a {font-family: 'Gotham Narrow SSm 5r';}
+		.cnbcvideo.embed-container .headlines .icon {
+			width: 34px;height: 34px;background-position: -45px -109px;margin-right: 5px;float: left;}
+		.cnbcvideo.embed-container .headlines a div{line-height: 39px;text-transform: uppercase;}
+		.cnbcvideo.embed-container .headlines {
+		    font-size: 20px;
+		    line-height: 26px;
+		    padding: 10px 12px;
+		    position: absolute;
+		    bottom: -5px;
+		    margin: 0 0 5px;
+		    background: url("//sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/hSprite.png");		   
+		    width: 100%;
+		    z-index: 10;
+		}
+		.cnbcvideo.embed-container ul .cnbcvideo.asset {
+		    overflow: visible;
+		}
+		.icon-cnbc-video {
+			font-size: 1em;
+			padding: 0 0 0 4px;
+			margin-right: -1.5em;
+		}
+		.icon-cnbc-video:before {
+			content: "\e601";
+			color: #3f9ccd;
+			position: relative;
+			z-index: 2;
+			top: 0;
+		}
+		[class^="cnbc-font-icon"], [class*=" cnbc-font-icon"] {
+			font-family: 'cnbc_font_icons';
+			speak: none;
+			font-style: normal;
+			font-weight: normal;
+			font-variant: normal;
+			text-transform: none;
+			line-height: 1;
+			background-image: none;
+
+			/* Better Font Rendering =========== */
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+		}
+		.cnbcvideo.embed-container li {
+		    margin-left: 20px;
+		    color: #2077B6;
+		    list-style-type: disc;
+		    list-style-position: outside;
+		    list-style-image: none;
+		}
+		.slideshow.embed-container, .embed-container.cnbcvideo {
+		    border-bottom: 1px solid #CCD6DB;
+		    overflow: hidden;
+		    padding: 0;
+		    padding-bottom: 13px;
+		}
+		.cnbcvideo.embed-container ul {
+			margin-top: 5px;
+		    padding-bottom: 8px;
+		}
+		li, ul {
+			text-decoration: none;
+		    margin: 0;
+		    margin: 0;
+		    padding: 0;
+		}
+		.icon-cnbc-pro {
+		    font-size: 0.8em;
+		    padding: 0 0 0 4px;
+		    margin-right: -1.5em;
+		}
+		.icon-cnbc-pro:before {
+		    content: "\e600";
+		    color: #3cb878;
+		    position: relative;
+		    z-index: 2;
+		    top: 0;
+		}
+		.icon-cnbc-pro:after {
+		    background-color: #fff;
+		    content: " ";
+		    display: inline-block;
+		    height: 0.9em;
+		    left: -1.75em;
+		    position: relative;
+		    top: 0;
+		    width: 1.5em;
+		    z-index: 1;
+		}
+		.group-container .group ol {
+		    padding-left: 24px;
+		}
+		.group-container .group ul {
+		    padding-left: 20px;
+		}
+		.group-container .group ol li {
+		    list-style-type: decimal;
+		}
+		.group-container .group ul li {
+		    list-style-type: disc;
+		}
+		.pull-quote {margin: 0 0 20px 0;padding: 10px 0;border-bottom: 1px solid #CCD6DB;border-top: 1px solid #CCD6DB;width: 100%;}
+		.pull-quote .quote{font-size: 22px;line-height: 26px;color: #DD4B39;width: 100%;font-family:'Gotham Narrow SSm 4r';letter-spacing: -0.5px;}
+		.pull-quote .author{clear: both;display: block;font-size: 12px;margin-top: 10px;color: #383d43;width: 100%;}
+		.blockquote.pull-quote, blockquote.pull-quote{background: #fff;}
+		blockquote.twitter-tweet{background: transparent;}
+		.blockquote, blockquote{padding: 20px 0;margin: 0 0 20px;overflow: hidden; background: #eee;}
+		.blockquote p, blockquote p{padding:0 4%;margin: 0;}
+		.cnbc-nobr {
+		    white-space: nowrap;
+		}
+		.leaderboard_ad {
+		    display: block;
+		    margin-left: auto;
+		    margin-right: auto;
+		    margin-bottom: 10px;
+		    margin-top: -10px;
+    	}	
+	</style>
+
+	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+       
+       
+       	<script async src="https://cdn.ampproject.org/v0.js"></script><script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script><script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script><script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script><script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script><script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+       
+    </head>
+
+    <body id='page_story_ng_2column' class='amp small '>
+        
+
+            <div id='cnbc-contents' >
+            
+            
+                <header id="cnbc-new-header"><div class="main-header-nav"><div class="header-nav-content"><nav class="cnbc-menu"><a id="sm-logo" href="http://www.cnbc.com" target="_blank"><amp-img src="//sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png" width="163" height="43"></amp-img></a></nav></div></div></header>
+            
+            
+        	
+
+                                       
+            <amp-analytics type="comscore">
+    <script type="application/json">
+        {
+            "vars": {
+                "c2": "1000004"
+            }
+        }
+    </script>
+</amp-analytics>
+<amp-iframe width=1 height=1
+src="https://mps.cnbc.com/request/component/cnbc-mobile?component=amp-omniture-iframehtml&site=cnbc-mobile&node_brand=1&content_id=104249766&path=AMP%3A%2Fid%2F104249766&is_content=1&is_sponsored=0&adunits=Default&keywords=%7E&cat=Make+It%7CMake+It+-+Leadership&cag%5Bconfiguration_franchise%5D=Make+It+-+Leadership&cag%5Battribution_source%5D=CNBC+US+Source&cag%5Brelated_primary%5D=Make+It+-+Leadership%7CMake+It+-+Careers%7CMake+It%7CEntrepreneurs%7CCommentary&cag%5Brelated_related%5D=Small+Business%7CMake+It+-+Inspire%7CMake+It+Guide&cag%5Btype_franchise%5D=Make+It+-+Leadership%7CMake+It+-+Leadership%7CMake+It+-+Careers%7CSmall+Business%7CMake+It%7CMake+It+-+Inspire%7CEntrepreneurs%7CMake+It+Guide%7CCommentary&cag%5Btype_source%5D=CNBC+US+Source&cag%5Bbrand%5D=makeit&cag%5Bdevice%5D=AMP&hline=Make+It+-+Leadership&type=AMP%3A+cnbcnewsstory&title=5+lessons+Bill+Belichick%26%23039%3Bs+New+England+Patriots+can+teach+you+about+leadership&pubdate=1485962774&stitle=5+things+Bill+Belichick+leadership+RODIC+013017&subtype=section&id=104249766&nid=104249766"
+sandbox="allow-scripts allow-same-origin"
+layout="fixed"
+frameborder="0">
+<amp-img src="https://load.s3.amazonaws.com/pixel.gif" height=1 width=1 layout="fill" placeholder></amp-img>
+</amp-iframe>
+          
+
+                                   
+            		
+
+			<amp-analytics type="chartbeat">
+		    <script type="application/json">
+		        {
+		            "vars": {
+		                "uid": "48509",
+		                "domain": "cnbc.com",
+		                "sections": "Articles,Make It - Leadership,Make It - Careers,Make It,Entrepreneurs,Commentary",
+		                "authors": "CNBC US Source" 
+		            }
+		        }
+		    </script>
+		</amp-analytics>
+		
+          
+			
+		  <div id='cnbc-body' 
+		  	> 
+          	
+	
+	
+				
+	
+									
+	
+
+
+<div class="story-top"><div class="story-header-left"><h1 class="title" itemprop="headline" >5 lessons Bill Belichick&#039;s New England Patriots can teach you about leadership</h1><div id="article_deck" class="content">							
+	
+																		
+							
+				
+							
+	<div class="embed-container cnbcvideo">
+		
+
+	    <div class='embed-top '  itemscope itemtype="http://schema.org/ImageObject">
+              
+            
+                	<h4 class="headlines">
+				        		<a href="http://video.cnbc.com/gallery/?video=3000589302" data-videoID="3000589302">
+        			<span class="icon play-button"></span>
+        			<div class='iphoneHidden'>Play Video</div>
+        		</a>
+        	</h4>
+                <a href="http://video.cnbc.com/gallery/?video=3000589302" data-videoid="3000589302">
+			                    	   <amp-img src="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/31/104253024-makeit_patriots_belichick_leadership_lessons_mezz.530x298.jpg?v=1485908133" alt="The Patriots can teach you these 5 leadership lessons" height=298 width=530 layout="responsive"></amp-img>
+            			<meta itemprop="image" content="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/31/104253024-makeit_patriots_belichick_leadership_lessons_mezz.530x298.jpg?v=1485908133" /><meta itemprop="width" content="530" /><meta itemprop="height" content="298" /><meta itemprop="datePublished" content="2017-01-31T19:15:33-0500" /><meta itemprop="dateCreated" content="2017-01-31T19:15:25-0500" /><meta itemprop="dateModified" content="2017-01-31T19:15:33-0500" /><meta itemprop="uploadDate" content="2017-01-31T19:15:25-0500" /><meta itemprop="expires" content="2099-12-31" /> <!-- TODO: defaulting to 2099 until we get the expiry date from toolbelt --><meta itemprop="encodingFormat" content="jpg" /><meta itemprop="author" content="" /><meta itemprop="publisher" content="CNBC" />
+        </a>        
+    </div>
+    
+    
+        
+	</div>
+
+									 				
+								
+				
+		
+			<div class="group-container last">
+						
+					
+										<div class="group">
+						
+				</div>
+				
+		</div>
+	</div>
+	<div class="source" itemprop="author" itemscope itemtype="http://schema.org/Person">
+					<span itemprop="name">Daniel Rodic </span>
+			</div>
+<time class="datestamp"  itemprop="datePublished" datetime="2017-02-01T10:26:13-0500">Wed,  1 Feb '17 | 10:26  AM ET</time><span class="sourcelogo" id="sourcelogo-cnbccom" itemprop="sourceOrganization">CNBC.com</span></div></div><article><div id="article_body" class="content">							
+	
+																		
+		
+		
+			<div class="group-container ">
+						
+					
+										<div class="group">
+																		<p>  The first football game I ever watched was the 2001 Super Bowl victory by the New England Patriots over the best team in the league that year, the St. Louis Rams.<br /> </p>
+															
+																											<p>  That win helped begin what has been an uninterrupted success. Since that 2001 victory, the Patriots have been to the playoffs 13 out of 15 years, have had nine Semi-Final Appearances, seven Finals Appearances and four League Championships.  </p>
+															
+																											<p>  Since <a class="inline_asset" href="http://bit.ly/1SXR3Bg" title="http://bit.ly/1SXR3Bg" target="_blank">co-founding my own start-up at Exact Media</a>, I've come to appreciate the organization that is the New England Patriots even more than the team itself.  </p>
+															
+																			    		
+			<amp-ad width = 300 height = 250 class = leaderboard_ad
+		type = "doubleclick"
+		data-loading-strategy="prefer-viewability-over-views"
+		data-slot = "/2620/cnbc_mobileweb/makeit/makeitleadershi"
+		json = '{
+				"targeting": {"sect":"makeit","sub":"makeitleadershi","excl_cat":"makeit,makeitleadershi","franid":"makeitguide,makeitinspire,smallbusiness","site":"cnbc","pagenid":"104249766","cont":"cnbcnews","brand":"none","amp":"true","pos":"ampbox"}
+			}'>
+	</amp-ad>
+	
+					    														<p>  The Patriots are the picture of stability in a league filled with constant change. It's a great parallel to what it feels like to build a company.  </p>
+															
+																											<p>  After following this team for 15 years, there are five lessons from this organization that I continue to embrace in my daily life.  </p>
+															
+																											<br />
+															
+																										
+				</div>
+				
+		</div>
+								
+	
+																		
+							
+				
+							
+		
+<div class="embed-container image" itemscope itemtype="http://schema.org/ImageObject">
+					<amp-img src="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249810-Julian.530x298.jpg?v=1485805578" alt="Wide receiver Julian Edelman #11 of the New England Patriots in action." width='530' height='298' layout="responsive"></amp-img>
+				<meta itemprop="image" content="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249810-Julian.jpg?v=1485805578" /><meta itemprop="width" content="width='530'" /><meta itemprop="height" content="height='298'" /><meta itemprop="datePublished" content="2017-01-30T14:46:18-0500" /><meta itemprop="dateCreated" content="2017-01-30T14:45:08-0500" /><meta itemprop="dateModified" content="2017-01-30T14:46:18-0500" /><meta itemprop="uploadDate" content="2017-01-30T14:45:08-0500" /><meta itemprop="expires" content="2099-12-31" /> <!-- TODO: defaulting to 2099 until we get the expiry date from toolbelt --><meta itemprop="encodingFormat" content="jpg" /><meta itemprop="author" content="Tim Clayton-Corbis | Getty Images" /><meta itemprop="publisher" content="CNBC" /> <meta itemprop="caption" content="Wide receiver Julian Edelman #11 of the New England Patriots in action." /> 
+					<div class="attribution">Tim Clayton-Corbis | Getty Images</div>
+							<div class="caption">Wide receiver Julian Edelman #11 of the New England Patriots in action.</div>
+			</div>
+	
+
+									 				
+								
+				
+		
+			<div class="group-container ">
+						
+					
+										<div class="group">
+																		<p>  <strong>Lesson #1: Do your job. But stay flexible enough to take on new jobs quickly </strong><br /> </p>
+															
+																											<p>"<a class="inline_asset" href="http://bit.ly/2kfmL4S" title="http://bit.ly/2kfmL4S" target="_blank">Do your job</a>" is something Belichick says constantly to refocus his team's efforts on the field.  </p>
+															
+																											<p>  It means complete your assignments, execute to the best of your ability and trust that your teammates will do the same. In a company, that is the only way a team can be successful.  </p>
+															
+																											<p>  But the Patriots take it a step further. With the Patriots your job may change from week to week.  </p>
+															
+																											<p>  It may be a subtle change, such as focusing on running the football versus throwing passes.  </p>
+															
+																											<p>  Or it may be drastic, like changing your position mid-season. Receivers Troy Brown and Julian Edelman were asked to switch from playing offence to playing defense when that's what the team needed. </p>
+															
+																											<p>  In life, the only thing that is certain in the future is that things will change.  </p>
+															
+																											<p>  The Patriots are built to embrace change. Your team should be too.  </p>
+															
+																											<br />
+															
+																										
+				</div>
+				
+		</div>
+								
+	
+																		
+							
+				
+							
+		
+<div class="embed-container image" itemscope itemtype="http://schema.org/ImageObject">
+					<amp-img src="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249819-thomas_d.530x298.jpg?v=1485805813" alt="Atlanta Falcons general manager Thomas Dimitroff." width='530' height='298' layout="responsive"></amp-img>
+				<meta itemprop="image" content="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249819-thomas_d.jpg?v=1485805813" /><meta itemprop="width" content="width='530'" /><meta itemprop="height" content="height='298'" /><meta itemprop="datePublished" content="2017-01-30T14:50:13-0500" /><meta itemprop="dateCreated" content="2017-01-30T14:48:46-0500" /><meta itemprop="dateModified" content="2017-01-30T14:50:13-0500" /><meta itemprop="uploadDate" content="2017-01-30T14:48:46-0500" /><meta itemprop="expires" content="2099-12-31" /> <!-- TODO: defaulting to 2099 until we get the expiry date from toolbelt --><meta itemprop="encodingFormat" content="jpg" /><meta itemprop="author" content="Icon Sports Wire | Getty Images" /><meta itemprop="publisher" content="CNBC" /> <meta itemprop="caption" content="Atlanta Falcons general manager Thomas Dimitroff." /> 
+					<div class="attribution">Icon Sports Wire | Getty Images</div>
+							<div class="caption">Atlanta Falcons general manager Thomas Dimitroff.</div>
+			</div>
+	
+
+									 				
+								
+				
+		
+			<div class="group-container ">
+						
+					
+										<div class="group">
+																		<p>  <strong>Lesson #2: Play the long game</strong> </p>
+															
+																											<p>  During his first coaching stint in Cleveland, Belichick believed in developing talent from within and took a long view in building his organization. </p>
+															
+																											<p>  <a class="inline_asset" href="http://bit.ly/2k4ZgcI" title="http://bit.ly/2k4ZgcI" target="_blank">In his book "War Room," author Michael Holley says,</a> "[Belichick] believed in developing scouts and coaches by hiring them for entry-level positions and then seeing if they could graduate from unofficial apprenticeships."  </p>
+															
+																											<p>  In the 2017 Super Bowl, Belichick's team is going up against the Atlanta Falcons, led by Thomas Dimitroff and Scott Pioli, two members of his staff who he trained and developed over 15 years. </p>
+															
+																											<p>  When evaluating players, Belichick cares only about their future potential production. He often cuts popular veterans and replaces them with more cost-effective options that will benefit the team for a longer period of time. </p>
+															
+																											<p>  Belichick ignores media scrutiny and does what is best for the organization, so it will succeed. </p>
+															
+																											<p>  Jeff Bezos, CEO of Amazon, is a perfect example of how this is applied in the business world. <a class="inline_asset" href="http://bloom.bg/2k4EZ6V" title="http://bloom.bg/2k4EZ6V" target="_blank">He doesn't care what Wall Street thinks of their quarterly earnings</a>, and he doesn't show up to the quarterly conference calls. He's focused on the long-term too. </p>
+															
+																											<br />
+															
+																											<br />
+															
+																										
+				</div>
+				
+		</div>
+								
+	
+																		
+							
+				
+							
+		
+<div class="embed-container image" itemscope itemtype="http://schema.org/ImageObject">
+					<amp-img src="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249837-chad_85.530x298.jpg?v=1485806318" alt="Former Patriots Receiver, Chad Johnson." width='530' height='298' layout="responsive"></amp-img>
+				<meta itemprop="image" content="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249837-chad_85.jpg?v=1485806318" /><meta itemprop="width" content="width='530'" /><meta itemprop="height" content="height='298'" /><meta itemprop="datePublished" content="2017-01-30T14:58:38-0500" /><meta itemprop="dateCreated" content="2017-01-30T14:57:08-0500" /><meta itemprop="dateModified" content="2017-01-30T14:58:39-0500" /><meta itemprop="uploadDate" content="2017-01-30T14:57:08-0500" /><meta itemprop="expires" content="2099-12-31" /> <!-- TODO: defaulting to 2099 until we get the expiry date from toolbelt --><meta itemprop="encodingFormat" content="jpg" /><meta itemprop="author" content="Patrick Smith | Getty Images" /><meta itemprop="publisher" content="CNBC" /> <meta itemprop="caption" content="Former Patriots Receiver, Chad Johnson." /> 
+					<div class="attribution">Patrick Smith | Getty Images</div>
+							<div class="caption">Former Patriots Receiver, Chad Johnson.</div>
+			</div>
+	
+
+									 				
+								
+				
+		
+			<div class="group-container ">
+						
+					
+										<div class="group">
+																		<p>  <strong>Lesson #3: Push your top performers, use them to set an example<br /></strong> </p>
+															
+																											<p>  Former Patriots Receiver Chad Johnson<a class="inline_asset" href="http://bit.ly/2kGgCQl" title="http://bit.ly/2kGgCQl" target="_blank"> compares Bill Belichick to the drill sergeant from "Full Metal Jacket."</a> During Chad's first day with the team in 2011, Belichick started the meeting by chastising the poor performance of Tom Brady, their starting quarterback, best player and future Hall of Famer. He blamed it for the team's exit from the playoffs the previous season. </p>
+															
+																											<p>Pushing even their best player to be better set the tone for the rest of the organization. </p>
+															
+																											<p>"I believe to have a championship team you want to have a championship team in every area, whether that's your starting quarterback, your strength coach, your medical staff, your area scouts, whatever it happens to be," <a class="inline_asset" href="http://nesn.com/2013/05/bill-belichick-gives-glimpse-into-patriots-team-building-strategy-stresses-importance-of-passion-accountability/" title="http://nesn.com/2013/05/bill-belichick-gives-glimpse-into-patriots-team-building-strategy-stresses-importance-of-passion-accountability/" target="_blank">Belichick said during his near 40-minute address</a>. "We're trying to work at a championship level of performance in every one of those areas." </p>
+															
+																											<p>  If you show that your <a href="/2017/01/13/a-simple-strategy-to-keep-your-best-employees-from-quitting.html" target="_blank">best employees are still continuously pushed to improve</a>, it makes it clear to the entire organization that the bar is set high. This leads to quality output.<br /> </p>
+															
+																											<br />
+															
+																										
+				</div>
+				
+		</div>
+								
+	
+																		
+							
+				
+							
+		
+<div class="embed-container image" itemscope itemtype="http://schema.org/ImageObject">
+					<amp-img src="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249846-Neal.530x298.jpg?v=1485806514" alt="Stephen Neal #61 of the New England Patriots in action against the Cleveland Browns." width='530' height='298' layout="responsive"></amp-img>
+				<meta itemprop="image" content="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249846-Neal.jpg?v=1485806514" /><meta itemprop="width" content="width='530'" /><meta itemprop="height" content="height='298'" /><meta itemprop="datePublished" content="2017-01-30T15:01:54-0500" /><meta itemprop="dateCreated" content="2017-01-30T15:00:35-0500" /><meta itemprop="dateModified" content="2017-01-30T15:01:54-0500" /><meta itemprop="uploadDate" content="2017-01-30T15:00:35-0500" /><meta itemprop="expires" content="2099-12-31" /> <!-- TODO: defaulting to 2099 until we get the expiry date from toolbelt --><meta itemprop="encodingFormat" content="jpg" /><meta itemprop="author" content="Dilip Vishwanat | Getty Images" /><meta itemprop="publisher" content="CNBC" /> <meta itemprop="caption" content="Stephen Neal #61 of the New England Patriots in action against the Cleveland Browns." /> 
+					<div class="attribution">Dilip Vishwanat | Getty Images</div>
+							<div class="caption">Stephen Neal #61 of the New England Patriots in action against the Cleveland Browns.</div>
+			</div>
+	
+
+									 				
+								
+				
+		
+			<div class="group-container ">
+						
+					
+										<div class="group">
+																		<p>  <strong>Lesson #4: Put your team members in the best position to succeed</strong> </p>
+															
+																											<p>  <a class="inline_asset" href="http://es.pn/2kG9Mua" title="http://es.pn/2kG9Mua" target="_blank">Bill Belichick often says to scouts</a>, "Tell me what the guy can do, don't tell me what he can't do, and we'll find a way to put that positive skill set in the defense and not ask him to be in a position where he can fail." </p>
+															
+																											<p>  The Patriots coaching staff has been incredibly successful at finding players no one else wants and turning them into <a href="/2016/12/07/what-kind-of-self-manager-are-you.html" target="_blank">stars.</a></p>
+															
+																											<p>  A great example of the effectiveness of their system is <a class="inline_asset" href="https://en.wikipedia.org/wiki/Stephen_Neal" title="https://en.wikipedia.org/wiki/Stephen_Neal" target="_blank">Stephen Neal</a>. He was a wrestler and hadn't played football since high school until he joined the New England Patriots. They turned him into a three-time Super Bowl Champion. </p>
+															
+																											<p>  In your organization, make sure you're investing in building robust training, development and retention systems. It's important to know how to use the talent at your disposal, and also to have systems in place to train and develop new team members so they can succeed. </p>
+															
+																											<br />
+															
+																										
+				</div>
+				
+		</div>
+								
+	
+																		
+							
+				
+							
+		
+<div class="embed-container image" itemscope itemtype="http://schema.org/ImageObject">
+					<amp-img src="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249855-Brady_Gonzales.530x298.jpg?v=1485806829" alt="Tom Brady #12 of the New England Patriots and Tony Gonzalez #88 formerly of the Atlanta Falcons." width='530' height='298' layout="responsive"></amp-img>
+				<meta itemprop="image" content="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/30/104249855-Brady_Gonzales.jpg?v=1485806829" /><meta itemprop="width" content="width='530'" /><meta itemprop="height" content="height='298'" /><meta itemprop="datePublished" content="2017-01-30T15:07:09-0500" /><meta itemprop="dateCreated" content="2017-01-30T15:04:46-0500" /><meta itemprop="dateModified" content="2017-01-30T15:07:10-0500" /><meta itemprop="uploadDate" content="2017-01-30T15:04:46-0500" /><meta itemprop="expires" content="2099-12-31" /> <!-- TODO: defaulting to 2099 until we get the expiry date from toolbelt --><meta itemprop="encodingFormat" content="jpg" /><meta itemprop="author" content="Kevin C. Cox | Getty Images" /><meta itemprop="publisher" content="CNBC" /> <meta itemprop="caption" content="Tom Brady #12 of the New England Patriots and Tony Gonzalez #88 formerly of the Atlanta Falcons." /> 
+					<div class="attribution">Kevin C. Cox | Getty Images</div>
+							<div class="caption">Tom Brady #12 of the New England Patriots and Tony Gonzalez #88 formerly of the Atlanta Falcons.</div>
+			</div>
+	
+
+									 				
+								
+				
+		
+			<div class="group-container ">
+						
+					
+										<div class="group">
+																		<p>  <strong>Lesson #5: Respect your competition </strong> </p>
+															
+																											<p>  Before every game, <a class="inline_asset" href="http://bit.ly/2kGhYpR" title="http://bit.ly/2kGhYpR" target="_blank">Belichick praises the competition, no matter how poor their record may be</a>. </p>
+															
+																											<p>  As a leader, Belichick knows that past performance is not necessarily indicative of future results, though effort and participation can help.</p>
+															
+																											<p>Reminding his team that the competition is getting better every day mitigates the complacency and laziness that can come with success. </p>
+															
+																											<p>Ensure that your team continues to have respect for the opposition so they continue to put in the work that made them winners in the first place.</p>
+															
+																											<p>  <em>Daniel Rodic is the co-founder of <a class="inline_asset" href="http://www.exactmedia.io/" title="http://www.exactmedia.io/" target="_blank">Exact Media</a> and <a class="inline_asset" href="https://itunes.apple.com/ca/podcast/connections-by-exact-media/id1176724623?mt=2" title="https://itunes.apple.com/ca/podcast/connections-by-exact-media/id1176724623?mt=2" target="_blank">Co-Host of the Connections Podcast</a>. He was named Top 30 Under 30 by Forbes Magazine and Marketing Magazine, was named EY Entrepreneur of the Year Finalist in 2016 and represented his country at the G20 Entrepreneurs Summit in Moscow and Beijing.</em><br /> </p>
+															
+																											<br />
+															
+																										
+				</div>
+				
+		</div>
+								
+	
+																		
+							
+				
+							
+	<div class="embed-container cnbcvideo">
+		
+
+	    <div class='embed-top '  itemscope itemtype="http://schema.org/ImageObject">
+              
+            
+                	<h4 class="headlines">
+				        		<a href="http://video.cnbc.com/gallery/?video=3000586804" data-videoID="3000586804">
+        			<span class="icon play-button"></span>
+        			<div class='iphoneHidden'>Play Video</div>
+        		</a>
+        	</h4>
+                <a href="http://video.cnbc.com/gallery/?video=3000586804" data-videoid="3000586804">
+			                    	   <amp-img src="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/23/104235808-thumbnial2.530x298.jpg?v=1485215389" alt="Chicago Cubs made a drastic turnaround using these three leadership strategies" height=298 width=530 layout="responsive"></amp-img>
+            			<meta itemprop="image" content="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/23/104235808-thumbnial2.530x298.jpg?v=1485215389" /><meta itemprop="width" content="530" /><meta itemprop="height" content="298" /><meta itemprop="datePublished" content="2017-01-23T18:49:49-0500" /><meta itemprop="dateCreated" content="2017-01-23T18:49:43-0500" /><meta itemprop="dateModified" content="2017-01-23T18:49:53-0500" /><meta itemprop="uploadDate" content="2017-01-23T18:49:43-0500" /><meta itemprop="expires" content="2099-12-31" /> <!-- TODO: defaulting to 2099 until we get the expiry date from toolbelt --><meta itemprop="encodingFormat" content="jpg" /><meta itemprop="author" content="" /><meta itemprop="publisher" content="CNBC" />
+        </a>        
+    </div>
+    
+    
+        
+	</div>
+
+									 				
+								
+				
+		
+			<div class="group-container last">
+						
+					
+										<div class="group">
+						
+				</div>
+				
+		</div>
+	</div></article>
+	
+		
+		  </div>  
+         
+          
+          <amp-embed width=100 height=100
+    type=taboola
+    layout=responsive
+    heights="(min-width:1640px) 14%, (min-width:1132px) 20%, (min-width:800px) 28%, (min-width:606px) 41%, (min-width:466px) 58%, (min-width:391px) 79%, 108%"
+    data-publisher="cnbc"
+    data-mode="organic-text-links-a"
+    data-placement="Below Article Text Links"
+    data-target_type="mix"
+    data-article="auto">
+</amp-embed>
+
+          
+          
+            <div class="full-site-link"><a href="http://www.cnbc.com/2017/02/01/5-lessons-bill-belichick-and-the-patriots-can-teach-about-leadership.html" target="_blank">View the full mobile site</a></div>  
+          
+          
+	        
+			    <!-- BEGIN Footer -->
+<footer class="cnbc-new-footer-amp"><div class="sec-footer-wrapper" id="cnbc-footer-amp"><div class="sec-logo-container"><a href="http://www.cnbc.com" target="_blank"> <amp-img id="footer-logo" src="//sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/footer-logo.png" width="70" height="54" title="CNBC" alt="CNBC"></amp-img></a></div><div class="sec-footer-container"><div class="copyright-info"><div class="footer-disclaimer"><p>Data is a real-time snapshot *Data is delayed at least 15 minutes<br/>Global Business and Financial News, Stock Quotes, and Market Data and Analysis</p></div><div class="footer-disclaimer"><div class="data_provider"><p>Data also provided by</p></div><a href="http://www.cnbc.com/id/16061983" target="_blank"> <amp-img id="footer-logo" src="//sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/footer-thompson.png" width="144" height="35" title="CNBC" alt="CNBC"></amp-img></a></div><div class="footer-disclaimer"><p>&copy; 2017 CNBC LLC.  All Rights Reserved.<a href="http://www.nbcuni.com/" target="_blank"><span> A Division of NBCUniversal</span></a> </p></div></div></div></div></footer>
+<!-- END FOOTER -->         
+	        
+        </div>
+         
+
+       
+    </body>
+</html>

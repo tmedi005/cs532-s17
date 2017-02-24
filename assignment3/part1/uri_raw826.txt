@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQDWFZXGwEJUFNUAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="viewport" content="width=1020" />
+<title>Tom Brady&#8217;s Missing Jersey: Conspiracy Theory</title>
+
+<link id="design-fav" rel="shortcut icon" href="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2013/12/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="94.9 HOM &raquo; Feed" href="http://949whom.com/feed/" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/themes/townsquare3-music/style.css" />
+<script type="text/javascript">
+			window.TSM = window.TSM || {};
+			window.TSM.ga = {"accounts":["UA-45671373-4","UA-19109753-1","UA-45671373-1","UA-28825804-1","UA-45260060-7"]};
+		</script><script type="text/javascript">(function(w){w.TSM.sitetype="local";})(window);</script><link rel="alternate" type="application/rss+xml" title="94.9 HOM &raquo; Tom Brady&#8217;s Missing Jersey: Conspiracy Theory Comments Feed" href="http://949whom.com/tom-bradys-missing-jersey-conspiracy-theory/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/949whom.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='style-css'  href='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/social-sharing/resources/css/social-overlay.css?ver=69679650189b08f7b3dab5fe4832fd1784ed89da' type='text/css' media='all' />
+<link rel='stylesheet' id='weather-widget-css-css'  href='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/weather-widget/resources/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='loyalty-alerts-admin-css'  href='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/loyalty-alert-system/resources/css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sp-gallery-css'  href='http://949whom.production.townsquareblogs.com/wp-content/plugins/gallery/resources/sp-gallery.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-fancybox-css'  href='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=69679650189b08f7b3dab5fe4832fd1784ed89da' type='text/css' media='all' />
+<link rel='stylesheet' id='ts3-css'  href='http://wac.450F.edgecastcdn.net/80450F/949whom.com/css/ts3.css?ver=14829166106967965018' type='text/css' media='all' />
+<link rel='stylesheet' id='facebook_auth-css'  href='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=69679650189b08f7b3dab5fe4832fd1784ed89da' type='text/css' media='all' />
+<link rel='stylesheet' id='ts-list-fe-css'  href='http://ts-tools.s3.amazonaws.com/lists/css/ts-lists-fe.css?ver=69679650189b08f7b3dab5fe4832fd1784ed89da' type='text/css' media='all' />
+<link rel='stylesheet' id='radio-players-css'  href='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/radio-players/resources/css/radio-players.css?ver=69679650189b08f7b3dab5fe4832fd1784ed89da' type='text/css' media='screen' />
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/handlebarsjs/resources/js/handlebars.min.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wideOrbit_is_active = "1";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/radio-players/resources/js/wo-radio-players.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=explicit&#038;ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1.d'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://949whom.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://949whom.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Buzzfeed&#8217;s &#8217;50 Hottest News Anchors&#8217; Includes Two From Portland' href='http://949whom.com/buzzfeeds-50-hottest-news-anchors-includes-two-from-portland/' />
+<link rel='next' title='Pizza Paparazzi: Nikki&#8217;s Hit List' href='http://949whom.com/pizza-paparazzi-nikkis-hit-list/' />
+<link rel='shortlink' href='http://949whom.com/?p=144410' />
+		<script type='text/javascript'>
+			var crtg_nid = '3480';
+			var crtg_cookiename = 'crtg_townsquare';
+			var crtg_varname = 'crtg_content';
+			function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+			var crtg_content = crtg_getCookie(crtg_cookiename);
+			var crtg_rnd=Math.floor(Math.random()*99999999999);
+			(function(){
+				var crtg_url='http://rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+				crtg_url +='&cookieName='+escape(crtg_cookiename);
+				crtg_url +='&rnd='+crtg_rnd;
+				crtg_url +='&varName=' + escape(crtg_varname);
+				var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+				if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+				else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+			})();
+		</script>
+			<script type='text/javascript' src='http://c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+		<script type="text/javascript">
+		var googletag = googletag || {};
+		var TSMAdHelperSettings = {};
+	</script>
+		<script type="text/javascript">
+		googletag.cmd = googletag.cmd || [];
+	</script>
+	<script id="tsm-googletag-init" type="text/javascript" >
+	window.TSMAdSettings = {"activeSlots":["tsm-out-of-page","top-right-300x250","middle-right-300x250","bottom-right-300x250","dynamic-ad-custom","dynamic-ad-header","dynamic-ad-push","top-728x90","bottom-728x90","mid-top-300x250","mid-bottom-300x250","top-right-noflex-300x250"],"adPageSettings":{"pageSettings":{"sitetype":"Local","market":"Portland","callletters":"WHOM","pagetype":"post","amazonAds":true,"enableCriteo":true,"enableViewability":false,"enableViewabilityBR":true,"enableSharethrough":false,"sharethroughKey":"","enableYieldbot":"101f","enableSonobi":false,"enableOpenx":false,"enableKiosked":true,"enableKioskedMobile":false},"attrs":{"catid":["articles"],"tags":["football","sports"],"id":"tom-bradys-missing-jersey-conspiracy-theory","author":"nikkicruz","kw":["nikkicruz","tom-bradys-missing-jersey-conspiracy-theory","articles","football","sports","pagetype-post"],"genre":["pop"],"device":"web","kv":[]}}};
+			var crtg_split = crtg_content.split( ';' );
+		for (var i=1;i<crtg_split.length;i++){
+			var keyvals = crtg_split[ i-1 ].split( '=' );
+			if( window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ] === undefined ){
+				window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ] = [];
+			}
+			window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ].push( keyvals[ 1 ] );
+		}
+	</script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/google-ads/js/tsmadhelper.min.js?v=69679650189b08f7b3dab5fe4832fd1784ed89da"></script>
+<script type="text/javascript">
+			(function(w){
+				w.TSMAnalytics = {"info":{"title":"tom-bradys-missing-jersey-conspiracy-theory","ip":"66.155.35.40","referer":null,"callsign":"WHOMFM","sitetype":"Local","siteClassification":"","state":"ME","genre":["pop"],"tags":["football","sports"],"categories":["articles"]}};
+			})(window);
+		</script>
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[591,668] -->
+<meta name="description" content="Most people assume an unscrupulous individual took it from Brady's locker after the New England Patriot's historic win over the Atlanta Falcons on February 5th. But, what if the jersey was never stolen?" />
+<link rel="canonical" href="http://949whom.com/tom-bradys-missing-jersey-conspiracy-theory/" />
+<!-- /all in one seo pack Pro Version-->
+<meta property="fb:app_id" content="635105839868684"/>
+<meta property="fb:admins" content="100002025987268"/>
+<meta property="og:title" content="Tom Brady&#8217;s Missing Jersey: Conspiracy Theory"/>
+<meta property="og:description" content="Most people assume an unscrupulous individual took it from Brady's locker after the New England Patriot's historic win over the Atlanta Falcons on February 5th. But, what if the jersey was never stolen?"/>
+<meta property="og:url" content="http://949whom.com/tom-bradys-missing-jersey-conspiracy-theory/"/>
+<meta property="og:site_name" content="94.9 HOM"/>
+<meta property="og:type" content="blog"/>
+<meta property="og:image" content="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2017/02/Tom-Brady-Stolen-Super-Bowl-Jersey-Getty-Images-634604302.jpg?w=600&h=0&zc=1&s=0&a=t&q=89"/>
+<!--[if lt IE 8]><link rel="stylesheet" href="http://949whom.production.townsquareblogs.com/wp-content/plugins/gallery/resources/ie7.css" type="text/css" media="screen"><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" href="http://949whom.production.townsquareblogs.com/wp-content/plugins/gallery/resources/ie8.css" type="text/css" media="screen"><![endif]-->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@949WHOM"/>
+
+
+<!-- BEGIN Sailthru Horizon Meta Information -->
+<meta name="sailthru.description" content="Most people assume an unscrupulous individual took it from Brady&#039;s locker after the New England Patriot&#039;s historic win over the Atlanta Falcons on February 5th. But, what if the jersey was never stolen?" />
+<meta name="sailthru.date" content="2017-02-22 20:02:34" />
+<meta name="sailthru.title" content="Tom Brady&#8217;s Missing Jersey: Conspiracy Theory" />
+<meta name="sailthru.tags" content="tsmsite-whom, tsmmarket-portland, tsmtype-local, football, sports, articles" />
+<meta name="sailthru.author" content="nikkicruz" />
+<meta name="sailthru.image.full" content="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2017/02/Tom-Brady-Stolen-Super-Bowl-Jersey-Getty-Images-634604302.jpg" />
+<meta name="sailthru.image.thumb" content="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2017/02/Tom-Brady-Stolen-Super-Bowl-Jersey-Getty-Images-634604302.jpg" />
+<!-- END Sailthru Horizon Meta Information -->
+
+<script type="text/javascript">if(ajaxurl == undefined) { var ajaxurl = "http://949whom.com/wp-admin/admin-ajax.php"; }</script><style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
+@import url("http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
+/* ]]> */
+</style><script type="text/javascript">
+				window.TSM = window.TSM || {};
+				window.TSM.clip = {"readmore":{"text":"Read More: "},"followus":{"text":"Follow Us: ","enabled":0},"visitus":{"text":"Visit Us At: ","enabled":0},"GA":{"kw":[],"accounts":["UA-45671373-4","UA-19109753-1","UA-45671373-1","UA-28825804-1","UA-45260060-7"]}};
+				window.TSM.clip.GA.kw = ( window.TSMAdSettings !== undefined && window.TSMAdSettings.adPageSettings !== undefined && window.TSMAdSettings.adPageSettings.attrs !== undefined && window.TSMAdSettings.adPageSettings.attrs.kw !== undefined )?window.TSMAdSettings.adPageSettings.attrs.kw:[];
+			</script><!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6665296" });
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6665296&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
+
+
+
+<!-- Google Analytics Tracking by Google Analyticator 6.1.1.d: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+var analyticsFileTypes = [''];
+var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+var _gaq_author = 'nikkicruz';
+var _gaq_categories = 'articles';
+var _gaq_uid = 'UA-45671373-4';
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-45671373-4']);
+var adObj=window.TSMAdSettings||window.TSM.dfp;_gaq.push(['_setCustomVar', 3, 'Pagetype', 'post', 3]);_gaq.push(['_setDomainName', '.949whom.com']);
+_gaq.push(['_setCampaignCookieTimeout', 0]);
+_gaq.push(['_setAllowHash', false]);
+_gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
+_gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_setAccount', 'UA-19109753-1']); _gaq.push(['_setDomainName', '.949whom.com']); _gaq.push(['_setCampaignCookieTimeout', 0]); _gaq.push(['_setAllowHash', false]); _gaq.push(['_trackPageview']); _gaq.push(['_setAccount', 'UA-45671373-1']); _gaq.push(['_setDomainName', '.949whom.com']); _gaq.push(['_setCampaignCookieTimeout', 0]); _gaq.push(['_setAllowHash', false]); _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]); _gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]); _gaq.push(['_trackPageview']); _gaq.push(['_setAccount', 'UA-28825804-1']); _gaq.push(['_setDomainName', '.949whom.com']); _gaq.push(['_setCampaignCookieTimeout', 0]); _gaq.push(['_setAllowHash', false]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_setAccount', 'UA-45260060-7']); _gaq.push(['_setCampaignCookieTimeout', 0]); _gaq.push(['_setAllowHash', false]); _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]); _gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]); _gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+
+<body class="single single-post postid-144410 single-format-standard twotone block-sidebar-header block-listen-bar category-articles">
+<div id="takeover_wrap" class="body_child">
+<div id="top_banner" class="tsmAd clearfix"><div id="top-728x90" class="tsm-google-ad" ></div></div><div class="google_ad_custom_1x1_wrap tsmAd"><div id="dynamic-ad-custom" class="tsm-google-ad" ></div></div><div class="google_ad_custom2_1x1_wrap tsmAd"><div id="dynamic-ad-header" class="tsm-google-ad" ></div></div><div class="google_ad_custom_1x1_wrap tsmAd"><div id="dynamic-ad-push" class="tsm-google-ad" ></div></div><div class="google_ad_oop_wrap tsmAd"><div id="tsm-out-of-page" class="tsm-google-ad" ></div></div><div id="fb-root"></div>
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId      : '635105839868684', // App ID from the App Dashboard
+			channelUrl : 'http://949whom.com/wp-content/plugins/facebook-apps/views/channel.php', // Channel File for x-domain communication
+			status     : true,
+			cookie     : true,
+			xfbml      : true,
+			oauth      : true
+		});
+	};
+	(function(d, debug){
+		var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement('script'); js.id = id; js.async = true;
+		js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+		ref.parentNode.insertBefore(js, ref);
+	}(document, /*debug*/ false));
+</script>
+		<header class="top" >
+    <a href="http://949whom.com" title="94.9 HOM" class="site_logo_link"><img src="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2014/12/949whomlogov2.png" alt="94.9 HOM" id="site-logo" class=""/></a>    <div id="header_search">
+                <form method="get" action="http://949whom.com/" class="search_form">
+            <label for="search_input">Search</label>
+            <input type="submit" name="submit_button" alt="Search" class="search_icon" value="" />
+            <input type="text" id="search_input" name="s" value="" size="15" onblur="if (this.value == '')  {this.value = '';}" onfocus="if (this.value == '') {this.value = '';}"/>
+        </form>
+    </div>
+    <a class="contactUs" href="/help/">Contact Us</a>
+    <div id="topright">
+       <script id="template_1" type="text/x-handlebars-template"><h3 class="generic-link-color">Make {{site}} my default homepage</h3><p><em>Set your homepage so that every time you open {{browser}}, {{site}} will be open and waiting for you!</em></p><ol>{{#list instructions}}<li>{{{this}}}</li>{{/list}}</ol></script><div class="fancybox-wrap"><div data-sitename="94.9 WHOM" id="make_my_homepage"></div></div><a class="make_my_homepage" href="#make_my_homepage"><span><img src="http://s3.amazonaws.com/tsm-images/global/homepage-small.png"></span>Make My Homepage</a>		<div id="sso">
+		<span class="sso_links"><a class="fb-auth-login-link" href="#fb-auth-login">Sign In</a> | <a class="fb-auth-registration-link" href="#fb-auth-registration">Sign Up</a></span>
+    </div><!-- // #sso.right -->
+</header><!-- // #header_nav. -->
+
+<div id="main_container" class="clearfix">
+    <nav class="main">
+	<div class="menu-header-container"><ul id="menu-header" class="menu"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="/"><span class="nav_item">Home</span></a></li>
+<li id="menu-item-119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119"><a href="/djs"><span class="nav_item">On-Air</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-4250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4250"><a href="/shows"><span class="nav_item">Shows</span></a></li>
+	<li id="menu-item-96737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96737"><a href="http://949whom.com/author/ajdukette/"><span class="nav_item">AJ Dukette</span></a></li>
+	<li id="menu-item-138919" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138919"><a href="http://949whom.com/author/nikkicruz/"><span class="nav_item">Nikki Cruz</span></a></li>
+	<li id="menu-item-6450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6450"><a href="/author/mikeadams1/"><span class="nav_item">Mike Adams</span></a></li>
+	<li id="menu-item-126345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126345"><a href="http://949whom.com/author/kiralew/"><span class="nav_item">Kira Lew</span></a></li>
+	<li id="menu-item-8251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8251"><a href="/show/intelligence-for-your-life/"><span class="nav_item">John Tesh</span></a></li>
+</ul>
+</li>
+<li id="menu-item-4234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4234"><a href="/listen-live"><span class="nav_item">Listen</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-4235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4235"><a href="/listen-live"><span class="nav_item">Listen Live</span></a></li>
+	<li id="menu-item-4236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4236"><a href="/mobile"><span class="nav_item">Mobile App</span></a></li>
+</ul>
+</li>
+<li id="menu-item-3724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3724"><a href="/events-portland"><span class="nav_item">Events</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-120782" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-120782"><a href="http://949whom.com/events-portland/dance-through-the-decades-2/23-april-2016-rochester-opera-house-2/"><span class="nav_item">Dance Through The Decades</span></a></li>
+	<li id="menu-item-141214" class="menu-item menu-item-type-post_type menu-item-object-tribe_events menu-item-141214"><a href="http://949whom.com/events-portland/auburn-wedding-show/26-february-2017-hilton-garden-inn-auburn-riverwatch/"><span class="nav_item">Auburn Wedding Show</span></a></li>
+	<li id="menu-item-142613" class="menu-item menu-item-type-post_type menu-item-object-tribe_events menu-item-142613"><a href="http://949whom.com/events-portland/soups-on/04-march-2017-great-bay-community-college/"><span class="nav_item">Soups On!</span></a></li>
+	<li id="menu-item-142466" class="menu-item menu-item-type-post_type menu-item-object-tribe_events menu-item-142466"><a href="http://949whom.com/events-portland/worlds-largest-yard-sale/06-may-2017-rochester-fairgrounds-16/"><span class="nav_item">World&#8217;s Largest Yard Sale</span></a></li>
+	<li id="menu-item-4240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4240"><a href="/events-portland"><span class="nav_item">Concerts</span></a></li>
+	<li id="menu-item-77905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77905"><a href="/tags/event-photo-galleries/"><span class="nav_item">Event Photo Galleries</span></a></li>
+</ul>
+</li>
+<li id="menu-item-4241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4241"><a href="/vip"><span class="nav_item">Contests</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-136318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136318"><a href="/contests/sweeps/win-cash-nov-16/"><span class="nav_item">Holiday Cash Bonus</span></a></li>
+	<li id="menu-item-4244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4244"><a href="/registration"><span class="nav_item">Sign Up</span></a></li>
+	<li id="menu-item-4242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4242"><a href="/contests"><span class="nav_item">More Contests</span></a></li>
+	<li id="menu-item-89254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89254"><a href="/contest-rules/"><span class="nav_item">Contest Rules</span></a></li>
+	<li id="menu-item-89255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89255"><a href="/help/"><span class="nav_item">Contest Support</span></a></li>
+</ul>
+</li>
+<li id="menu-item-6412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6412"><a href="http://www.seizethedeal.com/cities/portland"><span class="nav_item">Seize The Deal</span></a></li>
+<li id="menu-item-4245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4245"><a href="/help"><span class="nav_item">Contact</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-4247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4247"><a href="/help"><span class="nav_item">Help &#038; Contact Info</span></a></li>
+	<li id="menu-item-4246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4246"><a href="/feedback"><span class="nav_item">Send Feedback</span></a></li>
+	<li id="menu-item-4248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4248"><a href="/advertise"><span class="nav_item">Advertise</span></a></li>
+	<li id="menu-item-9361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9361"><a href="http://wjbq.com/files/2013/11/AS-FILED-EEO-Program-Report.pdf"><span class="nav_item">EEO</span></a></li>
+</ul>
+</li>
+<li id="menu-item-48819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48819"><a href="/playlist/"><span class="nav_item">Recently Played</span></a></li>
+</ul></div>	<div class="social_icons">
+					<a href="http://www.facebook.com/94.9WHOM" title="Visit us on Facebook" class="share_link facebook" target="_blank">
+				<span class="social_icon">Follow on Facebook</span>
+			</a>
+					<a href="https://twitter.com/949WHOM" title="Visit us on Twitter" class="share_link twitter" target="_blank">
+				<span class="social_icon">Follow on Twitter</span>
+			</a>
+					<a href="https://www.youtube.com/user/WHOMFM" title="Visit us on YouTube" class="share_link youtube" target="_blank">
+				<span class="social_icon">Subscribe on YouTube</span>
+			</a>
+					<a href="https://instagram.com/949whom" title="Visit us on Instagram" class="share_link instagram" target="_blank">
+				<span class="social_icon">Follow on Instagram</span>
+			</a>
+					<span class="nav-social-submenu">
+							<!--<iframe class="share_link_small facebook" src="//www.facebook.com/plugins/like.php?href=http://www.facebook.com/94.9WHOM&amp;width&amp;layout=button&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35" scrolling="no" frameborder="0" style="overflow:hidden; width:50px; height:20px;" allowTransparency="true"></iframe>-->
+				<div class="fb-like share_link_small facebook" data-href="http://www.facebook.com/94.9WHOM" data-layout="button" data-action="like" data-show-faces="false" data-share="false" data-width="47px"></div>
+							<!--<iframe class="share_link_small twitter" allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=949WHOM&show_count=false&show_screen_name=false" style="width:60px; height:20px;"></iframe>-->
+								<div class="share_link_small twitter" id="nav-social-submenu-twitter" data-handle="949WHOM"></div>
+							<!--<iframe class="share_link_small youtube" data-gapiattached="true" frameborder="0" scrolling="no"
+						src="http://www.youtube.com/subscribe_embed?bsv&usegapi=1&channel=WHOMFM&count=hidden"
+						style="overflow: hidden; height: 24px; width: 87px;">
+				</iframe>-->
+				<script type="text/javascript">
+					function TSMonYtEvent(payload) {
+						var gaPrimaryAccount = '';
+						if(typeof window.TSM !== undefined) {
+							try {
+								gaPrimaryAccount = window.TSM.ga.accounts[0];
+							}
+							catch(err){
+								throw 'primary google analytics account not found';
+							}
+						}
+						if (payload.eventType == 'subscribe') {
+							if( _gaq !== undefined && gaPrimaryAccount !== ''){
+								_gaq.push(
+									[ '_setAccount', gaPrimaryAccount ],
+									[
+										'_trackEvent',
+										'social',
+										'YouTube Subscribe',
+										'https://www.youtube.com/channel/' + payload.channelExternalId
+									]
+								);
+							}
+						} else if (payload.eventType == 'unsubscribe') {
+							if( _gaq !== undefined && gaPrimaryAccount !== ''){
+								_gaq.push(
+									[ '_setAccount', gaPrimaryAccount ],
+									[
+										'_trackEvent',
+										'social',
+										'YouTube Unsubscribe',
+										'https://www.youtube.com/channel/' + payload.channelExternalId
+									]
+								);
+							}
+						}
+					}
+				</script>
+				<div class="share_link_small youtube"><div class="g-ytsubscribe" data-channel="WHOMFM" data-layout="default" data-count="hidden" data-onytevent="TSMonYtEvent"></div></div>
+					</span>
+					<a href="http://949whom.com/feed/" title="Subscribe via RSS" class="share_link rss" target="_blank"><span class="social_icon">subscribe via RSS</span></a>	</div><!-- // #.social_icons -->
+
+</nav><!-- // nav -->
+
+	<div id="promo_links" class="horizontal_navigation clearfix alt_link_color">
+	<div class="menu-trending-container"><ul id="menu-trending" class="menu"><li id="menu-item-3844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3844"><a>What&#8217;s Hot:</a></li>
+<li id="menu-item-141891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-141891"><a href="http://949whom.com/win-john-mellencamp-tickets-video/">John Mellencamp Tix</a></li>
+<li id="menu-item-143942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143942"><a href="http://www.mainerestaurantweek.com/win">Maine Restaurant Week</a></li>
+<li id="menu-item-142309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142309"><a href="http://maineweddingassociation.com/-Bridal%20Show%20and%20Wedding%20Expo%20in%20Auburn%20ME/show.html?show.id=5624">Auburn Wedding Show</a></li>
+<li id="menu-item-143933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143933"><a href="/enter-the-2017-million-dollar-bracket-challenge-here/">Bracket Challenge</a></li>
+<li id="menu-item-139510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139510"><a href="http://949whom.com/ski-snowboard-conditions/">Ski &#038; Board Report</a></li>
+<li id="menu-item-139376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139376"><a href="http://949whom.com/snowmobile-trail-conditions/">Snowmobile Report</a></li>
+<li id="menu-item-133546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133546"><a href="http://949whom.com/lets-go-on-a-vacation-to-ireland/">Vacation to Ireland with AJ</a></li>
+<li id="menu-item-136748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136748"><a href="/year-of-service-2/">Year of Service 2017</a></li>
+</ul></div>	</div>
+<div id="pushdown_ad" class="tsmAd clearfix"></div>    <div id="content" class=" clearfix">
+
+
+
+
+
+
+
+
+
+
+<div id="content_main" class="clearfix">
+    <section class="single">
+        <article id="post-content-144410">
+	<div id="single_sponsor_header"></div>
+    <h1>Tom Brady&#8217;s Missing Jersey: Conspiracy Theory</h1>
+	<div class="post_meta">
+    <span class="author_avatar"><a href="http://949whom.com/author/nikkicruz/" title="Nikki Cruz"><img src="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2016/12/nikki.jpg?w=40&amp;h=40&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a></span>
+    <span class="the_author"><span>By </span><a href="http://949whom.com/author/nikkicruz/" title="Nikki Cruz">Nikki Cruz</a></span>
+    <span class="the_date">February 22, 2017 8:02 PM</span>    </div>	<div class="social-group-top large"><div class="social_icons size_large round">
+
+	<a   class="facebook share_link" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2F949whom.com%2Ftom-bradys-missing-jersey-conspiracy-theory%2F%3Ftrackback%3Dfbshare_top&t=Tom+Brady%26%238217%3Bs+Missing+Jersey%3A+Conspiracy+Theory" title="Share on Facebook" target="_blank">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Share on Facebook</span>
+	</a>
+	
+
+	<a   class="twitter share_link" href="http://twitter.com/intent/tweet?text=Tom%20Brady%E2%80%99s%20Missing%20Jersey%3A%20Conspiracy%20Theory%20http%3A%2F%2F949whom.com%2Ftom-bradys-missing-jersey-conspiracy-theory%2F%3Ftrackback%3Dtwitter_top%20%40949WHOM" title="Share on Twitter" target="_blank">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Share on Twitter</span>
+	</a>
+	<span class="social-submenu"></span></div></div>    <div class="the_content clearfix">
+
+        <figure id="attachment_144412" class="content-post-image alignnone" ><img src="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2017/02/Tom-Brady-Stolen-Super-Bowl-Jersey-Getty-Images-634604302.jpg?w=630&#038;h=420&#038;zc=1&#038;s=0&#038;a=t&#038;q=89" alt="Super Bowl LI - New England Patriots v Atlanta Falcons" width="630" height="420" class="size-630scaled wp-image-144412" /><figcaption style="width:630px;">(Photo By Kevin C. Cox/Getty Images)</figcaption></figure>
+<p>Now that the Houston Police Department have released the estimated value of Tom Brady&#8217;s Super Bowl game jersey, you can bet the black market value has probably doubled.</p>
+<p>Here&#8217;s the police report:</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">NEW: Houston PD release police report taken on Tom Brady&#39;s missing/stolen jersey. Estimated value: $500,000 <a href="https://twitter.com/hashtag/wbz?src=hash">#wbz</a> <a href="https://twitter.com/hashtag/Patriots?src=hash">#Patriots</a> <a href="https://twitter.com/hashtag/SuperBowl?src=hash">#SuperBowl</a> <a href="https://t.co/Tik4EqTBVg">pic.twitter.com/Tik4EqTBVg</a></p>
+<p>&mdash; Jim Harrington (@jejharrington) <a href="https://twitter.com/jejharrington/status/834070257727848448">February 21, 2017</a></p></blockquote>
+<p> <script async src="http://wac.450F.edgecastcdn.net/80450F/949whom.com/platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>In a sense, there&#8217;s also a price on the thief&#8217;s head as the charge for this alleged crime is a first degree felony. There&#8217;s up to a $10,000 fine and possible imprisonment for &#8220;any term of not more than 99 years or less than 5 years.&#8221;</p>
+<p>Most people assume an unscrupulous individual took it from Brady&#8217;s locker after the New England Patriot&#8217;s historic win over the Atlanta Falcons on February 5th. But, what if the jersey was never stolen? And if it was, it had to be an inside job or perhaps even a member of the media. Someone could be playing a game of &#8220;wag the dog&#8221; for reasons unknown to this writer. The media hype has been sensational and that alone is worth its weight in gold.</p>
+<p>Whatever the case may be, this could become the biggest &#8220;who done it&#8221; mystery in U.S. history&#8230; bigger than the &#8220;who shot JR&#8221; scandal of 1980. That drama also unfolded in Texas. Has anyone checked Kristin Shepard&#8217;s (Mary Crosby) whereabouts on the night in question?</p>
+			        </div>
+    <div class="content_meta clearfix">
+        <div class="cat_meta clearfix">
+            <span class="the_tags">Filed Under: <a href="http://949whom.com/tags/football/" rel="tag">Football</a> | <a href="http://949whom.com/tags/sports/" rel="tag">Sports</a></span>            <span class="the_category">Category: <a href="http://949whom.com/category/articles/" rel="category tag">Articles</a></span>        </div><!-- // #.cat_meta -->
+    </div><!-- // #.excerpt_meta -->
+    <div class="social-group large"><div class="social_icons size_large round">
+
+	<a   class="facebook share_link" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2F949whom.com%2Ftom-bradys-missing-jersey-conspiracy-theory%2F%3Ftrackback%3Dfbshare&t=Tom+Brady%26%238217%3Bs+Missing+Jersey%3A+Conspiracy+Theory" title="Share on Facebook" target="_blank">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Share on Facebook</span>
+	</a>
+	
+
+	<a   class="twitter share_link" href="http://twitter.com/intent/tweet?text=Tom%20Brady%E2%80%99s%20Missing%20Jersey%3A%20Conspiracy%20Theory%20http%3A%2F%2F949whom.com%2Ftom-bradys-missing-jersey-conspiracy-theory%2F%3Ftrackback%3Dtwitter%20%40949WHOM" title="Share on Twitter" target="_blank">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Share on Twitter</span>
+	</a>
+	
+
+	<a   class="more share_link" title="More">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">More</span>
+	</a>
+	<span class="social-submenu">
+
+	<a   class="email share_link" href="mailto:?subject=Check out Tom%20Brady%E2%80%99s%20Missing%20Jersey%3A%20Conspiracy%20Theory&body=http%3A%2F%2F949whom.com%2Ftom-bradys-missing-jersey-conspiracy-theory%2F%3Ftrackback%3Demail" title="Send to a friend!" target="_self">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Send to a friend!</span>
+	</a>
+	
+
+	<a   class="print share_link" href="javascript:window.print();" title="Print this page" target="">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Print this page</span>
+	</a>
+		<div class="google-plus-one">
+		<div class="g-plusone" data-size="medium" data-href="http%3A%2F%2F949whom.com%2Ftom-bradys-missing-jersey-conspiracy-theory%2F%3Ftrackback%3Dgplus" data-callback="TSMTrackGPlus" data-annotation="none"></div>
+		<script type="text/javascript">
+			function TSMTrackGPlus(data){
+				var gaPrimaryAccount = '';
+				if(typeof window.TSM !== undefined) {
+					try {
+						gaPrimaryAccount = window.TSM.ga.accounts[0];
+					}
+					catch(err){
+						throw 'primary google analytics account not found';
+					}
+				}
+				if(data.state=="on"){
+					if( _gaq !== undefined && gaPrimaryAccount !== ''){
+						_gaq.push(
+							[ '_setAccount', gaPrimaryAccount ],
+							[
+								'_trackEvent',
+								'social',
+								'Gplus',
+								data.href
+							]
+						);
+					}
+				}else if(data.state=="off"){
+					if( _gaq !== undefined && gaPrimaryAccount !== ''){
+						_gaq.push(
+							[ '_setAccount', gaPrimaryAccount ],
+							[
+								'_trackEvent',
+								'social',
+								'Gminus',
+								data.href
+							]
+						);
+					}
+				}
+			}
+			(function() {
+				if(!document.getElementById('google-plus-loaded')){
+					var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					po.id='google-plus-loaded';
+					po.src = 'https://apis.google.com/js/plusone.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+				}
+			})();
+		</script>
+	</div>
+	
+
+	<a   class="pinterest share_link" name="tsq-pinterest" href="http://pinterest.com/pin/create/button/?url=http://949whom.com/tom-bradys-missing-jersey-conspiracy-theory/%3Ftrackback%3Dpinterest&media=http%3A%2F%2F949whom.com%2Ffiles%2F2017%2F02%2FTom-Brady-Stolen-Super-Bowl-Jersey-Getty-Images-634604302.jpg%3Fw%3D150%26h%3D150%26zc%3D1%26s%3D0%26a%3Dt%26q%3D89" title="Pin it!" target="_blank" count-layout="none">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Pin it!</span>
+	</a>
+	
+
+	<a   class="reddit share_link" name="tsq-reddit" href="http://www.reddit.com/submit?url=http://949whom.com/tom-bradys-missing-jersey-conspiracy-theory/%3Ftrackback%3Dreddit&title=Tom+Brady%E2%80%99s+Missing+Jersey%3A+Conspiracy+Theory" title="Reddit This!" target="_blank" count-layout="none">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Reddit This!</span>
+	</a>
+	
+
+	<a   class="tumblr share_link" name="tsq-tumblr" href="http://www.tumblr.com/share/photo?click_thru=http%3A%2F%2F949whom.com%2Ftom-bradys-missing-jersey-conspiracy-theory%2F%3Ftrackback%3Dtumblr&source=http%3A%2F%2F949whom.com%2Ffiles%2F2017%2F02%2FTom-Brady-Stolen-Super-Bowl-Jersey-Getty-Images-634604302.jpg&caption=Tom+Brady%E2%80%99s+Missing+Jersey%3A+Conspiracy+Theory" title="Share on Tumblr!" target="_blank" count-layout="none">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Share on Tumblr!</span>
+	</a>
+	<div class="tsq-facebook-like sonar_facebook_app" data-app-type="like" data-href="http://949whom.com/tom-bradys-missing-jersey-conspiracy-theory/?trackback=fblike" data-send="no" data-layout="button" data-width="200" data-show-faces="false" data-font="segoe ui" data-colorscheme="light" data-action=""></div></span></div></div>	    <section class="blogroll main_content_thumb_title_roll clearfix size4">
+	<h3>Best of WHOM</h3>    <div class="articles">
+            <article id="post-content-144422">
+            <figure>
+                <a href="http://949whom.com/pizza-paparazzi-nikkis-hit-list/" title="Pizza Paparazzi: Nikki&#8217;s Hit List"><img width="146" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-146x97 sonar_image" alt="(Photo By Nikki Cruz/TSMG)" datasrc="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2017/02/Pizza-Is-Life-e1487815987693.jpg?w=146&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+            </figure>
+            <h2><a href="http://949whom.com/pizza-paparazzi-nikkis-hit-list/" title="Pizza Paparazzi: Nikki&#8217;s Hit List">Pizza Paparazzi: Nikki&#8217;s Hit List</a></h2>
+        </article>
+                <article id="post-content-144410">
+            <figure>
+                <a href="http://949whom.com/tom-bradys-missing-jersey-conspiracy-theory/" title="Tom Brady&#8217;s Missing Jersey: Conspiracy Theory"><img width="146" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-146x97 sonar_image" alt="Super Bowl LI - New England Patriots v Atlanta Falcons" datasrc="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2017/02/Tom-Brady-Stolen-Super-Bowl-Jersey-Getty-Images-634604302.jpg?w=146&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+            </figure>
+            <h2><a href="http://949whom.com/tom-bradys-missing-jersey-conspiracy-theory/" title="Tom Brady&#8217;s Missing Jersey: Conspiracy Theory">Tom Brady&#8217;s Missing Jersey: Conspiracy Theory</a></h2>
+        </article>
+                <article id="post-content-144403">
+            <figure>
+                <a href="http://949whom.com/buzzfeeds-50-hottest-news-anchors-includes-two-from-portland/" title="Buzzfeed&#8217;s &#8217;50 Hottest News Anchors&#8217; Includes Two From Portland"><img width="146" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-146x97 sonar_image" alt="hqdefault3" datasrc="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2017/02/hqdefault3.jpg?w=146&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+            </figure>
+            <h2><a href="http://949whom.com/buzzfeeds-50-hottest-news-anchors-includes-two-from-portland/" title="Buzzfeed&#8217;s &#8217;50 Hottest News Anchors&#8217; Includes Two From Portland">Buzzfeed&#8217;s &#8217;50 Hottest News Anchors&#8217; Includes Two From Portland</a></h2>
+        </article>
+                <article id="post-content-144396">
+            <figure>
+                <a href="http://949whom.com/congratulations-2017-partners/" title="Congratulations 2017 Partners!"><img width="146" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-146x97 sonar_image" alt="Year-of-service-2017-feat-image1" datasrc="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2017/02/Year-of-service-2017-feat-image1.jpg?w=146&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+            </figure>
+            <h2><a href="http://949whom.com/congratulations-2017-partners/" title="Congratulations 2017 Partners!">Congratulations 2017 Partners!</a></h2>
+        </article>
+            </div>
+</section>
+<div id="widget_third_party_content-2" class="widget widget_third_party_content  clearfix"><section class="blogroll main_content_thumb_title_roll clearfix size4"><h3>Recommended For You</h3>
+	<script language="javascript" type="text/javascript">
+		(function() {
+			var zergnet = document.createElement("script");
+			zergnet.type = "text/javascript"; zergnet.async = true;
+			zergnet.src = "http://www.zergnet.com/zerg.js?id=35863";
+			var znscr = document.getElementsByTagName("script")[0];
+			znscr.parentNode.insertBefore(zergnet, znscr);
+		})();
+	</script>
+	<div id="zergnet-widget-35863" style="text-align:center;margin-left:-7px;"><a href="http://www.zergnet.com/?w=35863" target="_blank"><b>ZergNet</b></a></div>
+</section></div><div id="widget_third_party_content-3" class="widget widget_third_party_content  clearfix"><section class="blogroll main_content_thumb_title_roll clearfix size4"><h3>Best of the Web</h3>
+	<script language="javascript" type="text/javascript">
+		(function() {
+			var zergnet = document.createElement("script");
+			zergnet.type = "text/javascript"; zergnet.async = true;
+			zergnet.src = "http://www.zergnet.com/zerg.js?id=13510";
+			var znscr = document.getElementsByTagName("script")[0];
+			znscr.parentNode.insertBefore(zergnet, znscr);
+		})();
+	</script>
+	<div id="zergnet-widget-13510" style="text-align:center;margin-left:-7px;"><a href="http://www.zergnet.com/?w=13510" target="_blank"><b>ZergNet</b></a></div>
+</section></div>	</article>    </section>
+    
+<div class="comments-header"><h4>Leave a Comment</h4></div>
+<div id="comments" class="anchor"></div>
+<div id="comments_wrap" class="comments_template facebook_bg content_wrap clearfix facebook_comments">
+	<div class="sonar_facebook_app" data-app-type="comments" data-href="http://949whom.com/tom-bradys-missing-jersey-conspiracy-theory/" data-width="630" data-num-posts="10" data-colorscheme=""></div></div></div>
+
+
+<aside id="content_sidebar" class="sidebar clearfix">
+    <div id="widget_listen_live-4" class="widget widget_listen_live listen_live_bar clearfix"><div class="listen-live-bar">
+    <a href="/listen-live/" class="listen-live-button"><em></em>Listen Live</a>
+</div>
+<div class="song_meta clearfix">
+	<div class="now_playing_label">
+		<div class="song-info-wrapper">
+			<div class="song-info">
+				<span class="artist"></span>
+				<span class="song"><a href="/listen-live/"></a></span>
+			</div>
+		</div>
+		<a href="#" class="listen-live-update" title="Click to view the latest song playing on air."></a>
+	</div>
+</div><!-- // #.song_meta -->
+	</div><script type="text/javascript" src="http://949whom.production.townsquareblogs.com/wp-content/widgets/listen-live-bar/js/listen-live-bar.js?69679650189b08f7b3dab5fe4832fd1784ed89da"></script><div id="google-ads-widget-11" class="widget google-ads-widget clearfix"><div id="top-right-300x250" class="tsm-google-ad" ></div></div><div id="featured_profiles-4" class="widget featured_profiles  clearfix"><div class="widget_header clearfix"><h4>HOM Personalities</h4></div><div class="profiles_wrap">
+			<a class="featured_profile" href="http://949whom.com/author/ajdukette/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2015/07/AJ-headshot.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" />			<span>AJ</span>
+		</a>
+				<a class="featured_profile" href="http://949whom.com/author/nikkicruz/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2016/12/nikki.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" />			<span>Nikki Cruz</span>
+		</a>
+				<a class="featured_profile" href="http://949whom.com/author/kiralew/">
+			<img src="http://wokq.com/files/2016/10/IMG_5143.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" />			<span>Kira</span>
+		</a>
+				<a class="featured_profile" href="http://949whom.com/author/mikeadams1/">
+			<img src="http://wjbq.production.townsquareblogs.com/files/2013/11/Mike-245x245.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" />			<span>Mike Adams</span>
+		</a>
+				<a class="featured_profile" href="http://949whom.com/author/johnteshportland/">
+			<img src="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2013/11/Tesh-245x245.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" />			<span>John Tesh</span>
+		</a>
+				<a class="featured_profile" href="http://949whom.com/author/anniesnook/">
+			<img src="http://1037thepeak.com/files/2015/10/rockstars-2-78-L.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" />			<span>Annie</span>
+		</a>
+		</div>
+</div><div id="widget_facebook_like_activity_widget-5" class="widget widget_facebook_like_activity_widget  clearfix"><div class="widget_header clearfix"><h4>94.9 WHOM on Facebook</h4></div>        <div class="widget_bg">
+            <div id="fb-combo-top">
+	            <div class="fb-page" data-href="http://www.facebook.com/94.9WHOM" data-width="300" data-hide-cover="true" data-show-facepile="false" data-show-posts="false"></div>
+            </div>
+
+                    </div>
+        </div><div id="tsq_sailthru_newsletter_widget-3" class="widget tsq_sailthru_newsletter_widget TSQ_sailthru_newsletter_widget_class clearfix"><div class="widget_header clearfix"><h4>Sign up for our newsletter</h4></div><div class="gform_wrapper">
+				<form action="#tsq_sailthru_newsletter_widget-3" method="post">
+					<div class="gform_heading">
+					<span class="gform_description">Sign up for our newsletter!</span>
+				</div>
+				<div class="sailthru-newsletter">
+						<input class="sailthru-email" type="text" name="email" value="" placeholder="email address" />
+					<div class="default-button">
+						<input type="hidden" name="list" value="WHOM" />
+						<input type="hidden" name="tsq-st-widget-is_submitted" value="true" />
+						<input type="submit" class="button sailthru-button" value="SIGN UP NOW" />
+				<div id="g-recaptcha" data-sitekey="6LcJiB4TAAAAAECLVme8vQvvFHGESasoeSFJqTAn" style="clear: both;padding-top: 10px;"></div>
+					</div>
+				</div>
+				</form>
+			</div></div><div id="loyalty_widgets_member_benefits-3" class="widget widget_loyalty_widgets_member_benefits clearfix"><div class="widget_header clearfix"><h4>At Work Network</h4></div>	        <a class="fb-auth-registration-link" href="#fb-auth-registration"><img width="300" height="200" title="" alt="" class="" src="http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/loyalty-activities/resources/img/member-benefits/orange.png" /></a>
+            <p>Sign up to get exclusive access to VIP events, contests, coupons, giveaways, presales and much more!</p>
+            <p class="more_act"><a class="fb-auth-registration-link" href="#fb-auth-registration">Sign Up Now</a></p>
+            </div><div id="countdown_clock_standard-3" class="widget countdown_clock_standard  clearfix"><div class="widget_header clearfix"><h4>COUNTDOWN TO THE BIG GAME</h4></div><div id="widget-countdown-clock-standard">
+	<ul class="countdown-clock" data-datetime="expired"></ul>
+	</div>
+</div></aside>    </div><!-- // #content -->
+</div><!-- // #main-container -->
+
+<footer id="footer_wrap" class="footer_wrap clearfix">
+    <span class="dividerrr"></span><div data-ct="PopCrush Network" data-theme-location="footer" data="bar" id="footer_links" class="horizontal_navigation clearfix">
+			<ul id="menu-footer">
+					<li class="page_item">
+				<a  title="PopCrush Network" target="_parent">PopCrush Network</a>
+			</li>
+					<li class="page_item">
+				<a href="http://949whom.com/eeo" title="EEO" target="_parent">EEO</a>
+			</li>
+					<li class="page_item">
+				<a href="http://949whom.com/advertise" title="Advertise with 94.9 WHOM" target="_parent">Advertise with 94.9 WHOM</a>
+			</li>
+					<li class="page_item">
+				<a href="http://949whom.com/terms" title="Terms" target="_parent">Terms</a>
+			</li>
+					<li class="page_item">
+				<a href="http://949whom.com/vip-terms" title="VIP Terms" target="_parent">VIP Terms</a>
+			</li>
+					<li class="page_item">
+				<a href="http://949whom.com/vip-faq" title="FAQ" target="_parent">FAQ</a>
+			</li>
+					<li class="page_item">
+				<a href="http://949whom.com/contest-rules" title="Contest Rules" target="_parent">Contest Rules</a>
+			</li>
+					<li class="page_item">
+				<a href="http://949whom.com/privacy" title="Privacy Policy (Updated: 5/9/16)" target="_parent">Privacy Policy (Updated: 5/9/16)</a>
+			</li>
+					<li class="page_item">
+				<a href="http://949whom.com/help" title="Contact" target="_parent">Contact</a>
+			</li>
+					<li class="page_item">
+				<a href="http://townsquaremediagroup.com" title="Townsquare" target="_blank">Townsquare</a>
+			</li>
+				</ul>
+	</div><div data-ct="" data-theme-location="network" data="bar" id="network_links" class="horizontal_navigation clearfix">
+	</div><div id="bottom_banner" class="tsmAd clearfix"><div id="bottom-728x90" class="tsm-google-ad" ></div></div></footer><!-- // footer -->
+
+<script type="text/javascript" src="http://949whom.production.townsquareblogs.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
+<script type="text/javascript">AudioPlayer.setup("http://949whom.production.townsquareblogs.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"222222",leftbg:"557078",lefticon:"FFFFFF",voltrack:"222222",volslider:"FFFFFF",rightbg:"557078",rightbghover:"557078",righticon:"FFFFFF",righticonhover:"FFFFFF",text:"FFFFFF",track:"222222",border:"222222",loader:"222222",tracker:"FFFFFF",skip:"222222",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+
+<script type="text/javascript" src="http://loadus.exelator.com/load/?p=656&g=001&c=285367&ctg=pop"></script>
+<div style="display:none;">
+	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="6769e8eb30" /><input type="hidden" name="_wp_http_referer" value="/tom-bradys-missing-jersey-conspiracy-theory/" /></div>
+	<div id="fb-auth-account-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to 94.9 WHOM</h3>
+		<p>
+			It appears that you already have an account created within our VIP network of sites on <a class="blog-tag generic-link-color" href="#"></a>.
+			To keep your personal information safe, we need to verify that it's really you.
+			To activate your account, please confirm your <a class="blog-tag generic-link-color" href="#"></a> password.
+			When you have confirmed your password, you will be able to log in through Facebook on both sites.
+		</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Enter your password</label>
+			<input class="password" type="password" name="cpwd" value="" />
+			<a class="forgot generic-link-color" href="/login/?action=lost-password">Forgot your password?</a>
+		</p>
+		<div class="default-button">
+			<a href="#">YES, Activate My Account Now!</a>
+		</div>
+						<p class="meta">*Please note that your prizes and activities will not be shared between programs within our VIP network.</p>
+			</div>
+
+	<div id="fb-auth-site-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to 94.9 WHOM</h3>
+		<p>It appears that you already have an account on this site associated with <strong class="user-email"></strong>. To connect your existing account just click on the account activation button below. You will maintain your existing VIP profile. After you do this, you will be able to always log in to <a class="generic-link-color" href="http://949whom.com" target="_blank">http://949whom.com</a> using your original account information.</p>
+		<p class="error-messages"></p>
+		<div class="default-button"><a href="#">YES, Activate My Account Now!</a></div>
+											<p class="meta">*Please note that your prizes and activities will not be shared between programs within our VIP network.</p>
+						</div>
+
+	<div id="fb-auth-required-fields" class="fb-auth-form">
+		<h3 class="generic-link-color">We're Almost There!</h3>
+		<p>Please fill out the information below to help us provide you a better experience.</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Zip</label>
+			<input class="zip" type="text" name="zip" value="" />
+					</p>
+		<div class="default-button"><a href="#">Continue and Activate</a></div>
+	</div>
+
+	<div id="fb-auth-login" class="fb-auth-form">
+				<div class="loyalty-restricted-logo-container"><img class="loyalty-restricted-logo" src="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2014/12/949whomlogov2.png" /></div>
+						<h3 class="generic-link-color">Log in to 94.9 WHOM</h3>
+				<p class="error-messages"></p>
+				<input type="text" class="username" tabindex="600" value="" name="username" placeholder="Email address" />
+		<input type="password" class="password" tabindex="601" value="" name="password" placeholder="Password" />
+		<a class="forgot generic-link-color" href="http://949whom.com/login/?action=lost-password">(Forgot your password?)</a>
+		<div class="default-button login"><a href="#">Log In</a></div>
+		<div class="or"></div>
+		<div class="facebook-connect-button"></div>
+				<p class="register">Not a member? <a class="fb-auth-registration-link generic-link-color" href="#fb-auth-registration">Sign up here</a></p>
+		
+		<div class="clear"></div>
+		<div class="loyalty-global-sponsor">
+			<div id="overlay_fancybox">
+				<div class="hidden overlay_sponsor_wrap">
+					<div><p class="meta">94.9 WHOM brought to you by:</p></div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+	<div id="fb-auth-registration" class="fb-auth-form">
+					<div class="loyalty-restricted-logo-container"><img class="loyalty-restricted-logo" src="http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2014/12/949whomlogov2.png" /></div>
+				<h3 class="generic-link-color">
+						Sign up for 94.9 WHOM		</h3>
+
+		
+		<p class="error-messages"></p>
+
+		
+		<div class="default-button registration"><a href="/registration/">Register Now</a></div>
+
+		
+		<div class="fb-registration-block">
+			<div class="or"></div>
+			<div class="facebook-connect-button"></div>
+			<p class="meta">Sign up for 94.9 WHOM quickly by connecting your Facebook account.  It's just as secure and no password to remember!</p>
+		</div>
+
+		<div class="clear"></div>
+			<div class="loyalty-global-sponsor">
+				<div class="overlay_fancybox">
+					<div class="hidden overlay_sponsor_wrap">
+						<div><p class="meta">94.9 WHOM brought to you by:</p></div>
+					</div>
+				</div>
+			</div>
+	</div>
+</div>			<div class="fancybox-wrap">
+				<div id="social_overlay_fancybox"
+					 data-background-color="#BCDFF2" data-color="#111111">
+					<div id="overlay_fancybox">
+						<div class="logo_wrap"
+							 data-divider="#557078" data-button="#111111" data-button-font="#ffffff">
+							<img src = "http://wac.450F.edgecastcdn.net/80450F/949whom.com/files/2014/07/whomnewlogo.png"><span>Sign up to have exclusive 94.9 WHOM contests, events, coupons, presales, and much more delivered to you for FREE.</span>						</div>
+						<div class="newsletter_wrap wrapper"><div class="gform_wrapper">
+				<form action="#" method="post">
+					<div class="gform_heading">
+					<span class="gform_description"></span>
+				</div>
+				<div class="sailthru-newsletter">
+						<input class="sailthru-email" type="text" name="email" value="" placeholder="email address" />
+					<div class="default-button">
+						<input type="hidden" name="list" value="WHOM" />
+						<input type="hidden" name="tsq-st-widget-is_submitted" value="true" />
+						<input type="submit" class="button sailthru-button" value="SIGN UP NOW" />
+				<div id="g-recaptcha" data-sitekey="6LcJiB4TAAAAAECLVme8vQvvFHGESasoeSFJqTAn" style="clear: both;padding-top: 10px;"></div>
+					</div>
+				</div>
+				</form>
+			</div></div>								<div class="facebook_wrap wrapper">
+									<span class="generic-link-color">Like Us on Facebook</span>
+									<div class="fb-like facebook" data-href="http://www.facebook.com/94.9WHOM" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+								</div>
+														<div class="hidden overlay_sponsor_wrap wrapper">
+								<span class='generic-link-color'>94.9 WHOM brought to you by:</span>
+							</div>
+					</div>
+				</div>
+			</div>
+		
+<div style="display:none;">
+	<div id="request-song-form-container" class="fb-auth-form" style="width:300px;">
+
+		<h3 class="generic-link-color">94.9 WHOM</h3>
+
+		<form id="request_song_form" class="login-registration" action="/" method="post">
+
+			<label>Song<span class="error-messages error-song" style="display:none;">*Please enter a song name.</span></label>
+			<input type="text" class="input isong" value="">
+
+			<label>Artist<span>(Optional)</span></label>
+			<input type="text" class="input iartist" value="">
+
+			<label>Your Name<span class="error-messages error-name" style="display:none;">*Please enter your name.</span></label>
+			<input type="text" class="input iname" value="">
+
+			<label>Your Email<span class="error-messages error-email" style="display:none;">*Please enter your email.</span></label>
+			<input type="text" class="input iemail" value="">
+
+			<div class="default-button login">
+				<a class="request-submit" href="#">Submit</a>
+			</div>
+
+			<input type="hidden" id="request_song" name="request_song" value="7437a62174" /><input type="hidden" name="_wp_http_referer" value="/tom-bradys-missing-jersey-conspiracy-theory/" />
+		</form>
+
+		<h3 class="sent-message" style="display:none;">Thank you for your request.</h3>
+
+	</div>
+</div>
+<!-- Page rendered at 2:44:55 am 02/23/17 --><link rel='stylesheet' id='local_experts-css'  href='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/local-experts/resources/css/local_experts.css?ver=1.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/tsmanalyticsbluekai/assets/front/js/bluekai.min.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://949whom.production.townsquareblogs.com/wp-content/widgets/countdown-clock-standard/js/countdown-clock-standard-widget.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/loyalty-activities/resources/js/loyalty.js?ver=2'></script>
+<script type='text/javascript' src='http://949whom.production.townsquareblogs.com/wp-content/plugins/gallery/resources/jquery.cycle.min.js?ver=2.86'></script>
+<script type='text/javascript' src='http://949whom.production.townsquareblogs.com/wp-content/plugins/gallery/resources/sp-gallery.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/tsmclip/js/tsmclip.min.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/townsquare/resources/js/make_homepage.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/internaladapi/assets/internaladapi.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/internaladapi/apis/sponsors/assets/front/townsquaresponsors.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/internaladapi/apis/header/assets/front/townsquareheaders.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/internaladapi/apis/overlaylogo/assets/front/overlaylogo.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/mu-plugins/internaladapi/assets/internaladapiajax.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/google-analyticator/post-button-tracking.js?ver=6.1.1.d'></script>
+<script type='text/javascript' src='http://content.jwplatform.com/libraries/4clPvIkb.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/tsq-sailthru-newsletter/resources/js/horizon.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/tsq-sailthru-newsletter/resources/js/widget.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://949whom.production.townsquareblogs.com/wp-content/widgets/dynamic-lead/js/jquery.tsc-sliders.js?69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://949whom.production.townsquareblogs.com/wp-content/widgets/request-song/js/request_song.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wac.450F.edgecastcdn.net/80450F/949whom.com/wp-content/plugins/social-sharing/resources/social-overlay.js?ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<script type='text/javascript' src='http://wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=tsmnetwork-20&#038;locale=US&#038;overwrite=1&#038;ver=69679650189b08f7b3dab5fe4832fd1784ed89da'></script>
+<!-- ip: 68.13.212.229 -->
+</div><!-- // #takeover_wrap.body_child  -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a007ead414","applicationID":"2942652","transactionName":"MlQBNUdTWEBWURZcVgseIgJBW1ldGEELW14JVA==","queueTime":0,"applicationTime":1236,"atts":"HhMCQw9JS04=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Database Caching 40/58 queries in 0.037 seconds using memcached
+Database cluster enabled 
+Object Caching 3152/3255 objects using memcached
+Content Delivery Network via wac.450F.edgecastcdn.net/80450F/949whom.com
+
+ Served from: 949whom.com @ 2017-02-23 02:44:56 by W3 Total Cache -->

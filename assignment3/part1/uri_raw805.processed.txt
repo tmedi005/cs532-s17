@@ -1,0 +1,124 @@
+   REFRESH(0 sec):
+   [1]file://localhost/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups
+   %2FLipsters%2F&_fb_noscript=1
+   #[2]Facebook [3]alternate [4]alternate [5]alternate [6]alternate
+   [7]alternate [8]alternate [9]alternate [10]alternate [11]alternate
+   [12]alternate [13]alternate [14]alternate [15]alternate [16]alternate
+   [17]alternate [18]alternate [19]alternate [20]alternate [21]alternate
+   [22]alternate [23]alternate [24]alternate [25]alternate [26]alternate
+   [27]alternate [28]alternate [29]alternate [30]alternate [31]alternate
+   [32]alternate [33]alternate
+
+[34]Facebook
+
+   [35]Sign Up
+   [event?t=FB+Login+Page+Visit]
+   Notice
+   You must log in to continue.
+   Log into Facebook
+   ____________________
+   ____________________
+   (1) Log In
+   [36]Forgot account? · [37]Sign up for Facebook
+     * English (US)
+     * [38]Español
+     * [39]Français (France)
+     * [40]中文(简体)
+     * [41]العربية
+     * [42]Português (Brasil)
+     * [43]Italiano
+     * [44]한국어
+     * [45]Deutsch
+     * [46]हिन्दी
+     * [47]日本語
+     *
+
+   [48]Sign Up [49]Log In [50]Messenger [51]Facebook Lite [52]Mobile
+   [53]Find Friends [54]People [55]Pages [56]Places [57]Games
+   [58]Locations
+   [59]Celebrities [60]Groups [61]Moments [62]Instagram [63]About
+   [64]Create Ad [65]Create Page [66]Developers [67]Careers [68]Privacy
+   [69]Cookies
+   [70]Ad Choices [71]Terms [72]Help [73]Settings [74]Activity Log
+   Facebook © 2017
+
+References
+
+   Visible links
+   1. file:///login/?next=https://www.facebook.com/groups/Lipsters/&_fb_noscript=1
+   2. file:///osd.xml
+   3. https://m.facebook.com/login/
+   4. https://m.facebook.com/login/
+   5. https://www.facebook.com/login/
+   6. https://www.facebook.com/login/
+   7. https://ar-ar.facebook.com/login/
+   8. https://bg-bg.facebook.com/login/
+   9. https://bs-ba.facebook.com/login/
+  10. https://ca-es.facebook.com/login/
+  11. https://da-dk.facebook.com/login/
+  12. https://el-gr.facebook.com/login/
+  13. https://es-la.facebook.com/login/
+  14. https://es-es.facebook.com/login/
+  15. https://fa-ir.facebook.com/login/
+  16. https://fi-fi.facebook.com/login/
+  17. https://fr-fr.facebook.com/login/
+  18. https://fr-ca.facebook.com/login/
+  19. https://hi-in.facebook.com/login/
+  20. https://hr-hr.facebook.com/login/
+  21. https://id-id.facebook.com/login/
+  22. https://it-it.facebook.com/login/
+  23. https://ko-kr.facebook.com/login/
+  24. https://mk-mk.facebook.com/login/
+  25. https://ms-my.facebook.com/login/
+  26. https://pl-pl.facebook.com/login/
+  27. https://pt-br.facebook.com/login/
+  28. https://pt-pt.facebook.com/login/
+  29. https://ro-ro.facebook.com/login/
+  30. https://sl-si.facebook.com/login/
+  31. https://sr-rs.facebook.com/login/
+  32. https://th-th.facebook.com/login/
+  33. https://vi-vn.facebook.com/login/
+  34. https://www.facebook.com/
+  35. file:///r.php?locale=en_US
+  36. https://www.facebook.com/recover/initiate?lwv=100
+  37. file:///r.php?next=https://www.facebook.com/groups/Lipsters/&locale=en_US&display=page
+  38. https://es-la.facebook.com/login/?next=https://www.facebook.com/groups/Lipsters/
+  39. https://fr-fr.facebook.com/login/?next=https://www.facebook.com/groups/Lipsters/
+  40. https://zh-cn.facebook.com/login/?next=https://www.facebook.com/groups/Lipsters/
+  41. https://ar-ar.facebook.com/login/?next=https://www.facebook.com/groups/Lipsters/
+  42. https://pt-br.facebook.com/login/?next=https://www.facebook.com/groups/Lipsters/
+  43. https://it-it.facebook.com/login/?next=https://www.facebook.com/groups/Lipsters/
+  44. https://ko-kr.facebook.com/login/?next=https://www.facebook.com/groups/Lipsters/
+  45. https://de-de.facebook.com/login/?next=https://www.facebook.com/groups/Lipsters/
+  46. https://hi-in.facebook.com/login/?next=https://www.facebook.com/groups/Lipsters/
+  47. https://ja-jp.facebook.com/login/?next=https://www.facebook.com/groups/Lipsters/
+  48. file:///r.php
+  49. file:///login/
+  50. https://messenger.com/
+  51. file:///lite/
+  52. file:///mobile/?ref=pf
+  53. file:///find-friends?ref=pf
+  54. file:///directory/people/
+  55. file:///directory/pages/
+  56. file:///places/
+  57. file:///games/
+  58. file:///directory/places/
+  59. file:///directory/celebrities/
+  60. file:///directory/groups/
+  61. http://l.facebook.com/l.php?u=http://momentsapp.com/&h=ATN6oGtCx70Gy0VP_y4PDgy0qXHidRC9DiOwsUwvvivEdSiWAtsrmWoHmVG6DbtrqOvtFiTsxi9RuXjEmlHpZT9PsTrQfNzrnwlztPx87iRM399vHaU74Lg&s=1
+  62. https://l.facebook.com/l.php?u=https://instagram.com/&h=ATNtsYl8X_iGNwzayYXVkIlXIK7ugXLT6LoJE9JbDl9i4CHB2BYszAfrLwdWm2OHkpsW6hkXRtUbospOCp6ty9FvLs_vOeR2ARY1r-qWZcwui3ojtw6PnXI&s=1
+  63. file:///facebook
+  64. file:///campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+  65. file:///pages/create/?ref_type=sitefooter
+  66. https://developers.facebook.com/?ref=pf
+  67. file:///careers/?ref=pf
+  68. file:///privacy/explanation
+  69. file:///policies/cookies/
+  70. https://www.facebook.com/help/568137493302217
+  71. file:///policies?ref=pf
+  72. file:///help/?ref=pf
+  73. file:///settings
+  74. file:///allactivity?privacy_source=activity_log_top_menu
+
+   Hidden links:
+  76. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw805.txt

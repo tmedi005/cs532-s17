@@ -1,0 +1,1397 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta name="msvalidate.01" content="066B5B85928051E8DD433C78D150E764" />
+        <meta name="description" content="The Best and Funniest Vine Videos on the Internet and New Vines added every minute!">
+            <meta name="keywords" content="best vines, funny vines, vine compilation, comedy, vine search, search vine, twitter videos, videos for twitter, vine online viewer">
+
+        <meta name="title" content="Best Vines for SUPERBOWL Compilation - November 3, 2016 Thursday">
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta property="og:title" content="Best Vines for SUPERBOWL Compilation - November 3, 2016 Thursday" />
+        <meta property="og:description" content='' />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://www.best-vine-videos.com/Best-Vines-For-SUPERBOWL-Compilation---November-3,-2016-Thursday-5103649.html" />
+        <meta property="og:image" content="http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg" />
+        <meta property="og:site_name" content="http://www.best-vine-videos.com" />
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@">
+        <meta name="twitter:url" content="http://www.best-vine-videos.com/Best-Vines-For-SUPERBOWL-Compilation---November-3,-2016-Thursday-5103649.html">
+        <meta name="twitter:title" content="Best Vines for SUPERBOWL Compilation - November 3, 2016 Thursday">
+        <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg">
+        <meta property="fb:app_id" content="?" />
+        <meta name="verify-v1" content="?" />
+        <meta itemprop="url" content="http://www.best-vine-videos.com/Best-Vines-For-SUPERBOWL-Compilation---November-3,-2016-Thursday-5103649.html" />
+                <meta name="author" content="">
+                   <meta name="msvalidate.01" content="066B5B85928051E8DD433C78D150E764" />
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1">
+        <meta charset="UTF-8">
+                        <title>Best Vines For SUPERBOWL Compilation - November 3, 2016 Thursday | Best-Vine-Videos.com</title>
+        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans"/>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+
+        <!-- jQuery library -->
+        <script src="https://code.jquery.com/jquery-1.12.3.min.js" integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ=" crossorigin="anonymous"></script>
+        <!-- CSS file -->
+        <link rel="stylesheet" href="/EasyAutocomplete-1.3.3/easy-autocomplete.css">
+
+        <!-- Additional CSS Themes file - not required-->
+        <link rel="stylesheet" href="/EasyAutocomplete-1.3.3/easy-autocomplete.themes.css">
+        <!-- Using jQuery with a CDN -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/easy-autocomplete/1.3.3/jquery.easy-autocomplete.js"></script>
+
+        <!-- Latest compiled JavaScript -->
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <script type="text/javascript">var switchTo5x = true;</script>
+        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+        <script type="text/javascript">stLight.options({
+                publisher: "90c8bac6-e4ce-4116-bf9a-ffda9fd17833",
+                doNotHash: false,
+                doNotCopy: false,
+                hashAddressBar: false
+            });</script>
+        <script type="text/javascript" src="/js/main.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
+        <link rel="stylesheet" type="text/css" href="/css/colors.css">
+    </head>
+    <body>
+    <div class="top" style="border-bottom:1px solid #A2A2D0;">
+        <div class="box">
+
+            <a href="/">                <div class="logo-box">
+                    <div class="rainbow-fav-container" style="background: #A2A2D0;"><i
+                            class="fa fa-vine fa-fw rainbow-fav"></i></div><div class="logo-title">Best-Vine-Videos</div></a></div>
+
+        <div class="search-box">
+            <form id="search-form" class="form-inline" role="form" method="get" action="/Search/">
+                <div class="input-group">
+                    <input type="text" id="search-links" class="form-control search-form" style="border: #1E4D2B;" name="q" placeholder="Search"
+                        >
+                    <!--DO NOT NEED TRAILING SLASH "/" As HTML5 FORMS SLASHES ARE NO LONGER REQUIRED--> <span
+                        class="input-group-btn"><button type="submit" class="btn btn-primary search-btn"
+                                                        data-target="#search-form" style="background: #A2A2D0; border: #1E4D2B; height: 33.8px;"><i class="fa fa-search">
+                        <!--FONT AWESOME font @ "http://fortawesome.github.io/Font-Awesome/" --></i>
+                </button></span>
+                </div>
+                <script>
+
+                    $(document).ready(function() {
+
+                        var options = {
+
+                            url: function(phrase) {
+                                if (phrase !== "") {
+                                    return "/searchJson.php?q=" + phrase;
+                                }
+                            },
+
+                            getValue: "text",
+
+                            requestDelay: 300,
+
+                            theme: "square",
+
+                            template: {
+                                type: "links",
+                                fields: {
+                                    link: "website-link"
+                                }
+                            },
+                            list: {
+                                maxNumberOfElements: 10
+
+                            }
+
+
+                        };
+
+                        $("#search-links").easyAutocomplete(options);
+                    });
+
+                </script>
+        </div>
+
+
+
+        </form>
+
+                    </div>
+        <div class="box">
+
+            <div class="center"><script>
+function openWin(url) {
+myWindow = window.open(url, "myWindow");
+}</script><img src="http://www.meseed.com/visits/heart.png" class="favicon">Bookmark Us and Share :)</div>        </div>
+    </div>
+    <div class="bottom">
+
+
+    <div class="box">
+
+        <h1><span itemprop="name">Best Vines for <a href="/Search/?order=newest&q=superbowl" style="color: #A2A2D0; text-transform: uppercase;">superbowl</a> Compilation - November 3, 2016 Thursday</span></h1></div>
+        <div class="box-ad-cpu">
+
+
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Flexible Mobile -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-6547315753979149"
+                 data-ad-slot="6090980310"
+                 data-ad-format="auto"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script></div>
+            <div class="box">
+        <div class="content">
+            <div id="player"></div>
+<script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key="9gfDZez0QVEpRrU7FRW/EpJeIH+CND0DFNEMUw==";</script>
+<div id="myElement"></div>
+
+<script type="text/javascript">
+jwplayer("myElement").setup({
+playlist: [
+          {
+  file: 'https://v.cdn.vine.co/r/videos/E4C639179D1174146324413779968_37ddd4bafac.1.5.6098197051623601032.mp4',
+  title: 'Sometimes its better to just hand it off Austin Miles Geter Josh Darnit SuperBowl Seahawks',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OFu9Ybb9riL'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/63AC45A52E1173770535386140672_3a0b5003401.1.5.3252396769394901836.mp4',
+  title: 'getting ready for the superbowl like ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtQgjJHatD1'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B0227E8EC61173831731347144704_36c4ba733e4.1.5.1784245381105431651.mp4',
+  title: 'Best commercial ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot0i0ZjpdLT'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/5BD410B14E1308258472617496576_42b1ae939cc.5.1.7904888286123291099.mp4',
+  title: 'SuperBowl Priorities',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i11iqF6OpM3'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/66973856EC1173826296837730304_390233cab34.1.5.13658834664987929373.mp4',
+  title: 'NFL on NBC Theme Song SuperBowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot0K3LeMMra'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/183B7BD5DF1173813492571344896_3b2675cb107.1.5.6064481050523694411.mp4',
+  title: 'Commercials during the Superbowl vs every other day of the year',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot2xVenV7wQ'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/8A32D1F4C41041957062847946752_1bded284ec8.3.2_QFenm45udDM7nmg6Fh8LYjExkLnH1agal5NV3T.CtwSt7W_wrHFpLC1arBgigMU6.mp4?versionId=G0aBOyGjhN6GKjk9gVXvEHv3rdH.YJfp',
+  title: 'All the Broncos fans after the SuperBowl ranked',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzEm5I6nzq2'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/194812E6461041467171152269312_17fcffcfee3.4.7.6143873253314294428_oPLTmgkDjQqGCxOgx53bdzHXp.bNh_TJoa81lvPYAcKFhi.gRplxOYpA.LpVcV7u.mp4?versionId=0_3ffvRS4SHrc4ySOPidQ2pQ05IePA.J',
+  title: 'peace luv sports superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzwnbzrBKmB'
+},
+          {
+  file: '',
+  title: 'Jermaine breaks four tackles SuperbowlXLVIII',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MazVLagJOBg'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/CEF7C7EF601172554505989320704_SW_WEBM_14225329361746077717939.mp4',
+  title: 'Smh stopwhitepeople2015',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtzVj1HVH7b'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/55D96A52DE1172335361259704320_36d09340f09.1.5.6945449151269294167.mp4',
+  title: 'Guess what I found  Gio Volpe Chrish',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OTYeTFxZx2Q'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/2E1AEC51751040822027340369920_1c1e2a08970.4.7.3022496004067567134_kx5jd9f1sQqNrQjRoyV_qUKjefqg0psYT6AI6kadcjlx3GQYm.DonADid7PrEL52.mp4?versionId=iqDwSX08nrd6SZ5SxKsZTi2Xi7k2Tw3.',
+  title: 'Whats The SuperBowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mzml26qdHmn'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/14DD24EEDD1173802052611448832_37c16d99852.1.5.4294710859201195812.mp4',
+  title: 'I had to google who was in the Super Bowl to make this vine I wish I was joking',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot2rMx1BL6r'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/234C7AFC0A1308264471051264000_45065bd877e.5.1.2546289345934106612.mp4',
+  title: 'Darla the dumb blonde watches the Superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i11XqThLnYH'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/8EE6AB2B5B1174543315367256064_3d9ab006b0e.1.5.1429219585814009870.mp4',
+  title: 'NFL on NBC theme song superbowl    Armon Warren  ArmonAndTrey brothers  remake of our inspirations Us The Duo  TAG THEM ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OFMQ7dBmKJ0'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/11579C6A121175598839277776896_35bd1857ced.1.5.1140634791981370646.mp4',
+  title: 'Its never too late for a transformationthursday leftshark superbowl superbowlshark katyperry findingnemo transformation',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OFYXOTJieYd'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/1E37CCF9961309036396010467328_416681f4230.5.1.11213786380348955656.mp4',
+  title: 'Beyonc perfects the super hero landing rayrod superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i1EUJKtDXIV'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/BD7227FCAD1159699263027109888_33e0cb3d4e7.1.4.4636487350846545107.mp4',
+  title: 'Even grandpa is getting hyped for halftime  enter for a chance to go to the Pepsi  Superbowl XLIX Halftime Show at Pepsicomhalftime',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OHKWgVijeMp'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/931604D45F1041825823990124544_18344228d96.4.7.1477057428276439542_WB5vzrsCIn4ZrPU4TpX5DjMTgNpUYIEmc4WGn.348IynBXB33RvUGCrzhFGJZMdC.mp4?versionId=i.BUBpiwqepBn05WlTIFLHGi6jz01.3q',
+  title: 'I INTERCEPT EVERYTHING  JSnow  Sarah Sunshine SB  BROADYTHEJOKER EB  CHRIS ASHLEY  marlon wayans SUPERBOWL NFL SEAHAWKS BRONCOS WTF',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzxAEXmDhx2'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/9E2590B80C1173376650617253888_3830686e771.1.5.9692254784369014151.mp4',
+  title: 'Ryan Gosling wont eat his cereal Part 28',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtwjQXVjmDr'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/4A22D36DC51041158113627193344_12241e7b40d.4.7.11888839954618242650_EJamZD7Ko0x54Vc7Wp16hieQ_Q4h6Z_IyvgKKfDFPD_KQFsXp4ykTLqLcJIQJXd..mp4?versionId=oEX4AWzBZpKqg8EE1Qv_XWWlCvTy6aAC',
+  title: 'Richard fcked up                    Richardsherman Seahawks shittalk superbowl2014',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzJmDHl2BaP'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/EF1E777FD91173728212283740160_3aa889e86f5.1.5.452919675484026541.mp4',
+  title: 'super disappointing',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtxOHQEwMYh'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/283C8E30951041970917150003200_1a7f3d6e594.4.7.13205769545158216234_NrHuCZvEcneIS8r10ztf5Lv9Xdj_VqJX1SdvZ7a3Pxu9_O2HihfpmEGq1EtBOI_j.mp4',
+  title: 'AHAHAHAHAH WTF BRO seahawks',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzEw0Kx7Vd2'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/05F65E21291042257664446717952_12b761b19c3.3.2_ENTkjYaqS4D6f6yvFkRTAKZbvNR1OkmOD_bHSjHgsPIRq7azN4q1PaRvr4FwrOfd.mp4?versionId=etsf5LtEaFOrSKYu3Lfg0jBJ08bjT0ew',
+  title: 'Jermaine Kearse with the DEADLY DOUBLE SPIN MOVE for a touchdown in Super Bowl XLVIII  HitStick Football SuperBowl NFL Seahawks',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MazAdv2Qi3Q'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/02545C3B221308299705314406400_4a0746d90ea.5.1.5191757546654991607.mp4',
+  title: 'Girl who thinks everyone is watching her at the halftime show Bud Light partner SuperBowl ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i1nwVQurwhM'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/F32608EA721174576515904921600_391ffaafa30.1.5.880637501842388542.mp4',
+  title: 'I had to Superbowl commercial',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OFOUYlLXJpX'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/E81D41E4351042191236108550144_1b47ba54522.4.7.2204912308689860007_ExkEY7jIPkJjoxO.qlQ3ti93GRNCCGeLkjaBg8WSuYvqvxADbDi4kzAw.C5lbIBb.mp4?versionId=6DlyanrVLJRzAdwrwsUKMEUkHkUsDaB0',
+  title: 'I really hate goodbyes wBrandon Calvillo David Lopez Cody Johns Klarity AJMG Joseph Strain',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MaBb5igmKaH'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/838E7E8C0C1173741139111952384_31394aa45fb.1.5.11047981029582464484.mp4',
+  title: 'Double tap if your watching the SUPERBOWL',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtxD6BOEweF'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/0BF0B674851308400892470558720_4153aa6588d.5.1.14756496448193185246.mp4',
+  title: 'Girl who knows nothing about sports watches the SuperBowl Longer version on my Instagram username BrittanyFurlan SB50',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i16DDHLzH3Q'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/CA6606174E1173844020506611712_3666b663668.1.5.9546513570844758530.mp4',
+  title: 'Super bowl halftime recap superbowl SuperBowlSunday HalftimeShow',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot0FmZpvJw2'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/B18247B95F1041825224662175744_162831e2762.4.7.7526537190555371191_CirYcj7uw8nUux7CJH6yKIeKdjkXpaLyCz93iz6iWZgNvZLeDx6PanrxB0YhGLhr.mp4',
+  title: 'Moms never understand sports  SuperbowlSunday',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzxAUHHeDKv'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/45201FA75D1173718584216657920_31ae8323efa.1.5.9207495694045112589.mp4',
+  title: 'Hello PATRICIA   wChrish',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtP3ev7phtA'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/D8694499701173764344115257344_3859005e94e.1.5.8898829938825007579.mp4',
+  title: 'Super BowlNFL Theme Song',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtQiuUZHMl6'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/E89399EF-70B7-4917-A00D-B29F725011A3-1706-000001DFA6E47BDF_1.0.6.mp4',
+  title: 'OH HEY DENNIS dennisseries',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'bpDh6WrBQww'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/D98FA791AC1041941373403721728_18279f0a02d.4.7.831655043698398989_08nUp_8i0GmXGcUtO6LrcrL7lHsmM7brKacLIvOTWRFZ9EEjV9tcFZyFydJSHDgq.mp4',
+  title: 'F the superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mz0T6q9E3Ln'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/84E4EBF83A1173864284002918400_3b8cc6085d0.1.5.2260275340115943064.mp4',
+  title: 'Mam sorprendida por la duracin del superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtEiaxIBu95'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/588054C4761039424530323787776_1808825a796.4.7.3491631007179544517_QPshWraqbIVGrsBrIH80Ag5R5DU705afzylvoJ2itQp4HRLIXpDkeppPris23d65.mp4',
+  title: 'Vernon Davis Dies  seahawks 49ers superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MuO3OpivmKm'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/32DA9BE8BF1173339158241239040_34154ba79a6.1.5.14488243097480050344.mp4',
+  title: 'How REAL men celebrate SuperBowl W Josh Darnit ScottySire Elton Castee Darwynstheory',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtHHj1ZOe2L'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/23CD0A98221169851866411130880_267c18d7796.5.1.5650107525665028095.mp4',
+  title: 'Turnover AFV AFVine SuperBowl PuppyBowl bulldog dog',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OI1dF6rt0Ki'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/16626EABC41173883446184255488_3620bbf2a9d.1.5.10328055195260260413.mp4',
+  title: 'superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtEVZiZIO5e'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/0DECC2C7A01041045066514358272_1cb6f27426d.3.1_EWyXbVkzqtgHZ6B1E.Al_rCKSQs1DT8Bnfw6iSBv2QRqafk79BtMWHZNaczYK2gS.mp4?versionId=oZuZfBAIxibuCQWwn1PF6vvwiiYW5bnl',
+  title: 'Everyone on Super Bowl Sunday be like superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzOFOBngY6t'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/BFC7DC061E1151669895491182592_3dc74ed7729.1.1.15159768007527758697.mp4',
+  title: 'Public Prank Part 2 Real Chocolate See my profile for other pranks WainbreezeVines',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OvbgLZJFD69'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/939F88BDEF1040821973141606400_1119fc5de9a.4.7.1647969213884201540_Ret0_ohfcquZ1_iuhmPYQmqoufoosrxjfNELRMPsvQfpQy2f0jDQ5DEOcJvkz2fc.mp4?versionId=P5szDKMDaSe0jlt1FNhuJ9PGyj_sjt6L',
+  title: 'Can you spit the difference beyonce drunkinlove vonmiller comedy dancing nfl broncos superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzKzOduQwxW'
+},
+          {
+  file: 'https://v.cdn.vine.co/videos_trellis/2014/01/20/9338E460BD1037143844959240192_1.3.1_SZTzq.RNE3TIyOCkFH2XJiR_PDx_gMmHHEZei3j0eRM2RjJzjG0Wku8vY6YbH2fv.mp4',
+  title: 'Insane One Hand Catch one hand catch',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'hlVi72Qn6ug'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/517F18487B1041912962492895232_186f83b5e44.4.7.9136233926780505387_7H66iOBc7BEEP6dTOhNMGkcAVk4plY0s6FdnDZuZEQ_YezaCO20R7mSn8ZIVi53m.mp4?versionId=LvOGX9DQ6NZwJTxPvqMdbEXVSv80Q7uP',
+  title: 'Nias viendo el SuperBowl be like',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mz22vWwOpJl'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/6AB1D497601172352960270110720_3c187fb4836.1.5.17436427324506785717.mp4',
+  title: 'Unsure of which team youre rooting for during the superbowl Tap to help make up your mind seahawks patriots',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OTY9E6WltTT'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/1A27520B5E1055563577190723584_1f9676d25f4.4.8.11072345980823842751.mp4?versionId=g.MlGgAKiPLulCHzwjbw8igmcnnBdcfV',
+  title: 'if this doesnt make your heart meltthen you probably dont have one   puppy horse cute toocute adorable superbowl commercial',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mbqd3dHiIej'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/E1145C4AC51171554410820976640_3c74ef1c3ae.1.5.9386944938986568721.mp4',
+  title: 'Tap to make Marshawn Lynch smile BEASTMODE superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OTv0X1ZOYK3'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/01453392981173081308214214656_36e7d8b2732.1.5.11374982531955906602.mp4',
+  title: 'The ultimate SuperBowl drinking game ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtJQhI2OTQM'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/BEB52DE8451041850349553664000_1e8a87240e9.4.7.15686536152237970139_uX0q.YKu.HYNVtBX7ymxrlVZsY1Uz_udatGlyqOu9WkDFoPhmjWkpb0T.qkHmrwi.mp4?versionId=ndtg8oWw4uhL28ww8ZXu8rViSBvAIVbi',
+  title: 'How Payton Manning is warming up for the Super Bowl superbowl2014 broncos Denver',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mzx3uAB5OX9'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/7EB65BC53B1173739260084391936_3b8da7fae55.1.5.9137290278339241395.mp4',
+  title: 'Double tap to Choose your team and your fate Ive got the Seahawks to win the SuperBowl Comment who you got SportsClipz Seahawks',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Otxd1OjT9IJ'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/344F756D5A1173868704795353088_3f977369117.1.5.5234095242998768152.mp4',
+  title: 'How Katy Perry felt during the halftime show  superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtErHWYrYVr'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/EE9B8A8AED1040465687031738368_194897121e4.3.4_aKVvYGENdw2xILnt4R55tR9iWa4B6M9T6iKPOB3xlv92lb4UnrgSc8qwMUeX216h.mp4',
+  title: 'Mascot Feud Tensions are rising Who you got ESPN Broncos Seahawks Superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mu3vq95qbKd'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/31A707FDA91308280248018051072_41704108cf3.5.1.6341352179688905701.mp4',
+  title: 'Sauce Boss  superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i11ll7XD5Dj'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/22EF7D18431311152307962277888_4ac8bf9c1ae.4.1.9012478329286013620.mp4',
+  title: 'When Drake is taken out of his own music video onlyifthatreallyhappenedsuperbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'ivKn9u6Q2q1'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/08423184F81307814535952265216_412f0c684fd.5.1.3913892310318027063.mp4',
+  title: 'Two guys that have never heard of the superbowl w Jason Nash and Sunny Mabrey',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i17laUEIzun'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/6B6CC091051041893081345105920_179f4373d64.4.7.11781956788967066096_TzYShsmNaw4XkWkm4R93AYLypMEPWjb77j0SP3SsLVgxmBtmMfZ_ZL88XIRy_UAH.mp4',
+  title: 'I MISS JERSEY SHORE GTL WhoWasYourFavorite',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mz2bpbBiUOn'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/FBBA3786651173071979197386752_1a4a008c885.3.2.mp4',
+  title: 'Whos Going To Win The SuperBowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtJ6dVED1nI'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/9FD9B961D51042229057410453504_116520d5092.3.2_OnV2xtReS3SeO9TX8.8WybePaeeyW8f3hRyxwJS_eKGp.ZMOpa3O0rkLVDAv0SZa.mp4',
+  title: 'Comentarios sobre el Superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Maui1TpLKWF'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/5176ABB5051036905411925749760_1aa0bd8bec7.3.2_hLv.neP6YAnmbsQj2.Umpbr.AyCrGq.x62U7SWXyJZVxaxAlVYjvjKJ7hnWGkTy..mp4?versionId=gew3evZbcctbt3cgGRtGPP3Q3neWa4O1',
+  title: 'The play that sent the Seahawks to the SuperBowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'hlPmBAnPwKF'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/FFAD6880F01173825992599687168_3013b6f705d.1.5.814742347806611668.mp4',
+  title: 'The greatest loss of the superbowl so far',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot0K2HAtFqP'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/C0F6145DED1041877818642243584_1e473403219.4.7.3027898799207034985_CJiJP1nc4Y05dz6QLtY132_yJrPYUo3gmiXdWgKn.p2brsvvfYFqOT3UlsZhq13m.mp4?versionId=O6FVYI9kSLJl0wCHBrGcGPo8RDnpHbfo',
+  title: 'Football SuperBowl SB48 Broncos Seahawks SteveHatesFootball',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzQ2pYl33Bd'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/D01CAC84561042648129826430976_19215089434.4.7.17172450833341008450.mp4?versionId=oz14icVpzAoO6vlq3r5XI8wnQuoWIB4q',
+  title: 'That drop by Bruno Mars during halftime of the Super Bowl ilovesickdrops SoSick SuperBowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MaM3361vXvH'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/61E82FA8431173733047636766720_3ac69f44b5f.1.5.17128391339375760110.mp4',
+  title: 'Theres two types of people in this world Joanne Lavoie Happy birthday Harry Styles ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Otx16KMnYwL'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/BB8A023CCE1173790137457766400_327fef8f8ea.1.5.16143611221288361539.mp4',
+  title: 'SuperBowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot2WTxLwUda'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/FAEB77441E1173855935500865536_3db8afe8050.1.5.2210462596874222123.mp4',
+  title: 'Super Bowl halftime show   SuperBowl KatyPerry firework',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtEWJXd1ndg'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/F2F6F9F5231040418166528262144_1caa2f3629c.3.2_w0.H0xjBtvV2FCv6EzqTvTYOmykNSs7bXnNgBBWJEx0ujWKRGmTjna2L0.Y6GrAS.mp4?versionId=VVqhHHszlm_Bh2X3fQoODry4JhE324kP',
+  title: 'Santonio Holmes hauls in the gamewinner in Super Bowl XLIII HitStick SuperBowl NFL football',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MuV05DKig70'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B1A8565CCE1153863056502538240_33e115b2517.1.2.228611640427272434.mp4',
+  title: 'Vine by WainBreeze',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ord6bJx3DMY'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/6672A4B3FE1171318414208552960_31bd2369700.1.4.7847399560817922085.mp4',
+  title: 'He getting ready for the Superbowl ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OTOFMrFExWZ'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/591C725B051041586860352262144_151f665e7c2.4.7.7262851718032808304_8XZASSgKJFBnEtNrFp56zCM8OBa.Pt0.ma.hRlAfUMKyuu9ifVXRPHRnjRJkEk_D.mp4?versionId=IWy7E_qjUO18448SRZkiFM7F1GeEBHeg',
+  title: 'The Road To SuperBowl 48  Seahawks Broncos',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzjBX09npeP'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/0A6B066F8E1173868705978155008_3dfa52758cf.1.5.1872176833261546212.mp4',
+  title: 'What a game New England Patriots take the SuperBowl championship with a final score of 2824 Was your prediction on point NEvsSEA SB49',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtErLzd9LWv'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/9AC3D0D80C1040115294993113088_12799c8aec6.3.2_rmTcUvk.KlLPDq_f4vJXDYBJc_WD4aHlz8zCm9JdE2xZCPyIkduL4w9VBLGLvvuH.mp4',
+  title: 'Football Tricks Part 1 Top Spin superbowl countdown',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MuFFx3Oj0ZV'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/C8441739121173748779535699968_33dec874d85.1.5.7629558312570288151.mp4',
+  title: 'How Tom Brady gets ready for the Superbowl deflatedBalls Comment who you want to win Superbowl Patriots Seahawks',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtxEd5uY0Tb'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/4748EBC64E1041937693749452800_189939dd979.4.7.12821742867039457867_En87F6Sp3CsgDuVaJtFR4lEiFyzK7Y3424LFUl_4chyyraHT81166YVFkqx1uqn6.mp4?versionId=pLlRyPK5rmshK964G27.jl1_Qlx5xvzj',
+  title: 'Hood Sports With GAMETIME PercyHarvinBeLike house touchdown Broncos Seahawks HoodSportsWithGametime ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mz0w2MYD632'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/C6FCE66A6A1173767274201755648_358cbf33a17.1.5.1958304475530389179.mp4',
+  title: 'WASSUPP Then vs Now superbowl Ad Throwback wJosh Darnit Devin Janetta Rob Johnston',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtQn09txtmi'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/D82D2AC9CD1041786307090980864_1fcc447ffbd.3.2_crAbWn5VpRPWau3rCm4lx069Ag8PvrQskfiTgWNkPlmN8v.nUCXRSIwpFtX0mYWt.mp4?versionId=PZDEqhXbiWmttF5PnfFFXnKlBt330sVs',
+  title: 'Busted By XenaThePitbull Inspired By Joey Ahern and Steel',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzPBU9KmjOu'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/8CD9D4DFC11173825847514595328_337e1f08231.1.5.9922658578121571238.mp4',
+  title: 'DO NOT TRY THIS AT HOME SuperBowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot0KKgFrrZq'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/CA42294F711173422283096739840_39ba19a03a9.1.5.7886751219868632783.mp4',
+  title: 'Guy who watches the Superbowl for the Katy Perry halftime show SuperBowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtpuTFEJPIM'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/FEF219BC921041937052964372480_14e6584234a.4.7.11702456006488248443_Rgw_yivpHh36Qw3XOJThOSKX1V9sn8a0SeV8v6hI1P90un6AbnUxzhTSpIdsO4rC.mp4',
+  title: 'Peyton Manning Right Now PeytonManning superbowl seahawks',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mz0wuOiEDhE'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/759A77C3FE1173732768052875264_36966ab911e.1.5.16982476386308964833.mp4',
+  title: 'WHAT DO I WEAR FOR THIS SUPERBOWL THING MARTIN superbowl SuperBowlSunday tobuscus',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtxJWTj1nLO'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/4D7B4B4EA71173830681529315328_2acc0492315.5.1.8378499144486847792.mp4',
+  title: 'Marshawn be like SuperBowl SuperBowlXLIX',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot0ibdTQKt3'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/0606F199C81041969053784301568_131062b6682.3.2_PkRFScs5vHYd_jKafrnA3Y.93RcBfA.lz_1320w.OGj3s2jnDUBfhFMYAbltNYPf.mp4',
+  title: 'Best Super Bowl commercial  SB48',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzEXqQXDWYP'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/ADCD0C39-CEC0-410B-9B38-6FBBA3F3CD37-1796-00000331FE5502B7_1.0.4.mp4',
+  title: 'WOAH CRAZY SUPER BOWL FIGHT pt 1',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'b19z3WjTz5I'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/95270D45791173337807075627008_3b14bf1adf8.1.5.11800765587536151652.mp4',
+  title: 'Who needs diapers when you can use a Patriots hat  SuperBowl SuperBowlXLIX',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtH6QAza7PI'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/CB983014B3971528913316700160_16b6aeab159.3.1_IMfKrB2lEmQ1cmGdlHKpKAtqe2LA8DioiZ4wZaMbltNpdEiB.lMFbUnm6SV.oD1W.mp4',
+  title: '1000 Likes  1000 Revines for beyonces Superbowl Performance  Beyhive',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'hKpYqATeVP3'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/8293F4CA121308323529242152960_45ed7785cb1.5.1.3858335077906347009.mp4',
+  title: ' superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i1vOaqLFmEq'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/C150467BE61041876388262653952_17d333857fa.4.7.4322116970246707246_1aMT3bAVivSMC1OnAS76zWizPLgXrf74IPBGEbjjWhZDYZDIMbWRCyz4nDtdngc7.mp4?versionId=Jx8C7LqhNYRO_lDSOGyQ.4ifO20pFuyK',
+  title: 'Richard Sherman dont like Crabtree or SALSA superbowl sherman Seahawks',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzQFdurETLq'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/9F049FAAED1174147543480066048_3d9d7db1fc1.1.5.7829990858002895167.mp4',
+  title: 'Cats reenact the SuperBowl AFV AFVine patriots seahawks newenglandpatriots SB49',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OFu0rmQ1aZP'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/51917321931174200243542192128_3251645813f.1.5.14107592612734317924.mp4',
+  title: 'El wey naco que no sabe NADA de americano y solo conoce a los equipos del superbowl  dylata2 superbowl  naco SanJudas',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OFarXOiWjJH'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/475AE6B79F1041958047817375744_1f31d542745.4.7.15901073694849602450_j.HO1RK.eZ9xb.Et_cd0XuIW.EvGVRK.JkjDXiL.RqoShoHTtaEQbC3eXqXeRz3q.mp4',
+  title: 'Theres always those people at SuperBowl parties that have no idea whats going on   w  Mckenna Andrews  Trent',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzEAuV1ZqjL'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/DB7237D0B11174113657211293696_311d376ab82.1.5.14369264345576350207.mp4',
+  title: 'when you do a group presentation and want to make sure to get the best grade',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OFB2DmgWYXl'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/E9702B32E31173718420278390784_3fb84aca0c8.1.5.16872494591081035841.mp4',
+  title: 'Happy Birthday Harry ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtPYFUzVHK6'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/47614F3EC01308260976252059648_35b9deed7cf.1.5.14631980503581472167.mp4',
+  title: 'TFW you know you slayed superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i111Y5lvhDq'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/D418A405911232594859048017920_340ecfe548b.4.2.3831964101147723481.mp4',
+  title: 'Me watching Superbowl 2013  FIERCE AF',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'evYwDqa63Bn'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/F7367CCDF01173764316046958592_34ffa828792.1.5.17039656694237972897.mp4',
+  title: 'gona win the Superbowl this year  Patriots are my team  my vid from Gillette Lets go Pats ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtQeH9pKuwW'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/ED9D2D3FEE1174066797818134528_38e1cfe3f41.1.5.5363218953405868231.mp4',
+  title: 'Kapak gibi kapak  ThugLife w  Can ileri',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Otln1zKw9pV'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/77A36AA8E01173896180330303488_36f2c6c447f.1.5.15510222932550104635.mp4',
+  title: 'Tough loss from the Seahawks BUT WHAT A CATCH BY JERMAINE KEARSEsuperbowl2015',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot9O7hVMxZ5'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/9F20AD59E51173890150846156800_30991fd064d.1.5.10174472453184005518.mp4',
+  title: 'Shermans reaction to Butlers interception ohmygod',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot977ELHeU7'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/F6673FB9A91173717871533420544_3f8e696f410.1.5.1717375816119942308.mp4',
+  title: 'superbowl  Sunday IRL SB49',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtPYtVK3j1K'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/E774BC7E-8A7F-40D2-90EB-2E10AFA21DA3-1796-00000334B5448631_1.0.4.mp4',
+  title: 'WOAH CRAZY SUPER BOWL FIGHT pt 2',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'b19ZW7MVBKQ'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/18D8957D4E1308370301989572608_422e729459b.5.0.780302392748309763.mp4',
+  title: 'Pokemon has been a part of me all my life Seeing this during SUPERBOWL meant the 20 years of tm87 still going strong IG casiiiano',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i1rtHK22eKh'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/432A34E8931041921835652083712_16a0211064d.3.4_1R69J5Td82YVfSzLkO3U1dtF.ZHbefdfMcoYte47mg5A51JefUnNl1yufHt.8rvn.mp4',
+  title: 'But its the SuperBowl WBrittlestar',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mz0WQdm1aKV'
+},
+          {
+  file: '',
+  title: 'Jermaine Kearses Epic Touchdown music Passenger  Let Her Go Caked Up Remix SuperBowl pinball Seahawks Broncos',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzVpdJqY9qO'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/8CB76FB91B1173829221605683200_2b01cc60db3.5.1.898992458797410761.mp4',
+  title: 'Already training for SuperBowl VXIV  superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot0OBHl3bu7'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/412E253D971308275752122331136_45b59f44573.2.1.8178031280325297287.mp4',
+  title: 'The worst girl at the superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i110xrmwLrO'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/BC5E11E4F31308181308203229184_49c4f92d7d1.5.1.4930241995859130110.mp4',
+  title: 'When Love Gets In The Way superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i15BvZIXY6U'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/A0B7EC6CC31041555109982990336_1c17d45eab7.4.7.8718739685785394638_K6sR6MAIsJTUx8n_ifplrhwLvdfPX3EXICKBIUfXJT33a84MK4.dr2tJIF_15VXS.mp4',
+  title: 'That awkward moment with Richard Sherman                                                Superbowl Seahawks Broncos NapoleonDyamite',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzDzt9J2qVU'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/F4DA6608F21174039449085087744_3f6e706821b.1.5.533623526379182206.mp4',
+  title: 'Katy tried it  KatyPerry beyonce superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtLphEPeI16'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/A851559CE11173833631132004352_376490e4815.1.5.6342858526249685485.mp4',
+  title: 'me watching the superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot01QZIvumH'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/E83C37B5031041539730111684608_1169ad38128.4.7.2377603646052512124_LPMxUFULnV60rdqW3Hmht49NIcHB1RAWgo4t2Ntyeud4qkjlk5gSf_KZGgnHCZT0.mp4?versionId=p8XJrw.PCgnnNQMAqLnsBDVtf16jEDi8',
+  title: 'I Make The Best Coffee In The Office   JSnow  JJIsShow CHRIS ASHLEY SB  BROADYTHEJOKER marlon wayans SuperBowl RichardSherman',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzppuY5WwK5'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/1ED10768AD1041906537419386880_18d5d9faf6f.4.7.17700823515030207644_GWHk1SA1n_0GZLdLkesPNgomTJxq7JEgv0B2uqBhaWSSiRRCoNSeexWvQQZZH1Pb.mp4?versionId=t5A5mOeQCqD8YYcI3mfgu1rVnO5T9I2Y',
+  title: 'When your favorite song comes on in the car ASmitty95 Ivan Salgado JustinBieber favsong allthatmatters music humor superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mz2DEUE7eBe'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/44AC6FBAD81173867336403718144_3cdda729675.1.5.11438327056982372180.mp4',
+  title: 'LOOKA THA FLICKA DA WRIST   Superbowl2k15',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtEnvwDhJ9w'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/1B62C941FC1173872035441545216_308a0a7ecc9.1.5.2499915927939536776.mp4',
+  title: 'Wait I thought this was about soup superbowl SoupBowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtEwhp0dnZF'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/C38F382CC91041907816120057856_12bc08c92f5.4.7.6103807523291905803_8hcLT2EYlCuO1iB09IjacMwKaP0BNFYQ7WEq4_eM5eLc0fjZr37gHXSvGX3Q__b0.mp4',
+  title: 'Le superbowl en France',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mz2IQ3we6HA'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/72010CFBFD1173790456161910784_3f879cca714.1.5.8511898249604573678.mp4',
+  title: 'for my Roman numeral enthusiast fans  SuperBowlXLIX SuperBowlL SuperBowL ouch',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot27gXMKFlq'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B52AD20B281182475672384851968_1d5b24a29f0.3.2.mp4',
+  title: 'Girl dont hide that ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'O2mvxAlLWBV'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/8AED74AC111174459986114473984_35a6e7a9055.1.5.6220950637052938369.mp4',
+  title: 'Backflip over a moving airplane PEOPLEAREAWESOME        REVINE this and FOLLOW us for more awesome videos',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OFbhnz5m6v3'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/E68D950AC81173879319131766784_34bf9606023.1.5.15866538639809584240.mp4',
+  title: 'newenglandpatriots win the superbowl and shut down seahawksnation and loud mouth RichardSherman gronk tombrady patriotsnation nfl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtExTx1HPeK'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/7DC7F6B4FF1173817559972466688_32f7c6e7a73.1.5.10968339331787009428.mp4',
+  title: 'National Anthem and Flyby SuperBowl SB49',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot2YutOjOlM'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/EDBF2966FC1308101712137359360_43017f26634.5.1.13746741049158401897.mp4',
+  title: 'Cam is on Fire Best CelebrationsSuper Bowl Sunday dab  Mmd SB50 Frozen QueenElsa keeppounding superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i1OpLlLdKqr'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/4E157327D31173782477018484736_3c1add24607.1.5.14306130905038326860.mp4',
+  title: 'NELLY FRONT ROW SuperBowl Weekend UpForWhatever',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtQEq22IEHT'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/3863AAF5141307897981579702272_SW_WEBM_145480136378781d4444956.mp4',
+  title: 'Played SuperBowl edition of TigerBoxing w Chompers He chose PANTHERS ov Broncos  Long vids IGTwitter',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i1KXaVM9IgY'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/A6F0703A401173759039826771968_3238acf9594.1.4.11857747544555134681.mp4',
+  title: 'Double tap who you think is going to win the SuperBowl TwerkForGULLY YouTubecomTwerkForGULLY Gully Time TwerkForGULLY',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtQhZWz7I1X'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/CE343762861041879679289970688_14c58ec8cc2.4.2.13530801349784825233_3O.hCYtiHqoV13e5BpF9ypAtU9Qxk_mPrhlgID7xGzMkrTRgCBRyEACEWKtEnah..mp4?versionId=qx4ZyRAjEq6olLHQ3pqVw8DJz_DYvMgI',
+  title: 'bobthedragqueen superbowl giveafuck   howgaysfeelaboutthesuperbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzQ2QDEJMXb'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/730F0ED34F1173343958311555072_3b92d4b094a.1.5.11940295809070819371.mp4',
+  title: 'Throwback of me watching last years SuperBowl  so you know Im excited for tomorrow',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtHI3T1idjA'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/1AC6BBAEB61358265917179592704_1e4cc2a345e.4.7.mp4',
+  title: 'Who is going to win the next SuperBowl NFL ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: '5u7Wm1xUXrJ'
+},
+          {
+  file: 'https://v.cdn.vine.co/videos_trellis/2014/02/03/0350DAD27E1042110678439190528_1.3.2_Rw8ka.HbkU67BaK7Z8hJ6sx40UB6zWG2kyVUTjDZ71fkt1OVNKKBdA6_58zqDX4f.mp4',
+  title: 'Peyton Manning  Bronco Fans be looking likelolatl superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mz3xrV27XPl'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/D94855EA961173825011682025472_355ca908e03.1.5.11559772994090037155.mp4',
+  title: 'Double Tap whos gonna win the SuperBowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot0mbDZLUXv'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/0D6095539B1157831712894824448_305f57dc6e6.1.4.5413852965913830773.mp4',
+  title: 'When your mom doesnt want you to take the car dont take the car',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OXBVu21KKD1'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/7FC085ABD91173354834066624512_3dc5c45bc66.1.5.5177511103088517562.mp4',
+  title: 'Stereotypical gay watching the superbowl ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtHlxBVt6W6'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/345E7256DC1172322131317821440_379d229d4b3.1.5.7444177241474222081.mp4',
+  title: 'Checking the air pressure for Sundays game AFV AFVine deflategate superbowl fail',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OTVVlib0KUX'
+},
+          {
+  file: '',
+  title: 'Damn You Tom Riddle',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MaB1PeHJzqT'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/2459AF9F8A1173796798540988416_368e9b2de4f.1.5.13028238972461403426.mp4',
+  title: 'HAPPY SUPERBOWL SUNDAY',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot2O5BIPPuD'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/8236DF1B471173725076777291776_32c3bc3b9b9.1.5.2725156029686388095.mp4',
+  title: 'Vontae Davis hit TouchDownVine Whos hype for Super Bowl Sunday Superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtxZ9HJwFeI'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/56B3E01A431172942020600623104_33e687dd52a.1.5.9660231724313807927.mp4',
+  title: 'Sunday  SuperBowl Who are you backing New England Patriots or Seattle Seahawks NFLUK',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtOwLIWlnaM'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/FD2868F3351173871991451717632_1422847096c1422f6ec2.3524.mp4',
+  title: 'Anyone whatch thw superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtEwK90FXYx'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/7844E6856A1041830289313284096_1d700f05902.4.7.11038946274768262885_am2lvLUW79G2ncBYsuQoEmESgOwk4bHyeJ5hQrgCuBz3KOP_gB3CYDs2WUgL3Vqq.mp4',
+  title: 'Beyond geeked up  Seahawks superbowl GoHawks ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzxijA6gV3H'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/D5EDD319721174106215236722688_31b59890647.1.5.17182016951183457768.mp4',
+  title: 'My favorite part of the superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OFBpwqWldJ9'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/D71EF2FA031173883952885272576_30206a8d2c2.0.1.5892851854560650889.mp4',
+  title: 'Lmao Seahawks fans shitty SuperBowl OmgMovement SmallVinerGang',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtEYZiwBbd5'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B46728EAEE1308312484683411456_49f4c1f500f.5.1.772497172757094854.mp4',
+  title: 'Ready song spongebob  EditRanked',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i1n3UEXWLH6'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/0AEAE6376A1308328473907367936_4b21b700370.3.0.6359414959592982632.mp4',
+  title: 'that 1 weird uncle that u dont see much visits for superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i1vvFJM57Wm'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/C9C08C6C9B1041778180652212224_123e8d590b8.4.7.6665515641515254568_ewA36UuGtvTYeTDmRvRjmUz16_MXDbW6Cw7.MSSqbxuWI6oiv74HaGpbI0rqU5FL.mp4?versionId=sR.ITZhSV_auOlkGKCEyddyL1YHi7FRa',
+  title: 'Super Bowl Sundae',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzUxAVBEpg1'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/059FEB4ABC1158235262485254144_3790b7348c3.1.4.8610199001222551841.mp4',
+  title: 'Public Prank 6 Real chocolate see my profile for my other pranks FavoriteMe WainbreezeVines',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OXMuUOvjwvv'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/33603C1F0B1308181718683222016_436325caaa0.5.1.9305853337852777331.mp4',
+  title: '40 year olds everywhere trying to learn to dab with themorris23  superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i15uDXvWXja'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/A2E916B97D1041957057294942208_1d54bc40fd8.4.7.798878948018127763_Mey8Cn8_8S0m7GHApubdhyBYQvkXv1mKqJYt6CKsMxSbMoRjFSN7_ZmmIsp1bxKn.mp4',
+  title: 'Se estaba secando el pelo SuperBowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MzEmLgXFJg1'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/0FD88FB7-F5F5-4098-B9CF-D937988A0B46-1307-000003721C13DCEA_1a0ac58ecc8.1.3.mp4',
+  title: 'Made this Vine during last years Superbowl our first day with the app Thank you all for a great year watching my son grow up Upload',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Mz0FiquFJV0'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/55005DF9601173753670643675136_38fd6d67967.1.5.1862294672136196553.mp4',
+  title: 'Super Nap VS SuperBowl Nap',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtQBnwTxnJp'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/7A4A1811D91174380268342185984_SW_WEBM_1422968280991f174187e34.mp4',
+  title: 'when you and your squad are going on the same field trip ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OFKEK2TUM5q'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/54C7381CE41173859738652438528_3c200b09c91.1.5.5342520431190602979.mp4',
+  title: 'Pats about to glo up on a Sunday  superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OtEAKEFbquz'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/C01F9F4B291173821651683614720_3d2fde5229d.1.5.3422965502878631406.mp4',
+  title: 'BiggestCutest Football Fan Today superbowl',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot0zAIx11qr'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/899740D3A51172336670087995392_358e3a1a5a9.1.5.11525640559979442767.mp4',
+  title: '    2015    s  s ss',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OTY5ntM7Wim'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/0C2908BA661173812152977760256_3752a19c45e.1.5.15085592201458291381.mp4',
+  title: 'superbowl that one hype player during the national anthem',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot2P7TUwmml'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/ED95906C0F1174151127906877440_3e1e6bff225.1.3.2074519737159681864.mp4',
+  title: 'When you Dunk on somebody so hard they Instantly Retire Rick Glassman shot by chriscrutch superbowl KingJames  nike',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OFuLKtnHKIj'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/F87E7D61DD1173891902693691392_36433bda143.1.5.1936956152100548087.mp4',
+  title: 'superbowl ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-SUPERBOWL-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Ot9mDQ3gAjw'
+}],
+width: "100%",
+          aspectratio: "1:1",
+      autostart: true,
+});
+
+</script>
+
+        </div>
+    </div>
+    <div class="box-ad-cpu">
+
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Flexible Mobile -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-6547315753979149"
+         data-ad-slot="6090980310"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script></div>
+
+    <div class="box">
+                <div class="list-group">
+
+                        <a class="list-group-item" href="/Email/?title=Best+Vines+for+SUPERBOWL+Compilation+-+November+3%2C+2016+Thursday&url=Best-Vines-For-SUPERBOWL-Compilation---November-3,-2016-Thursday-5103649.html"><i
+                    class="fa fa-envelope-o fa-fw"></i>&nbsp; Email "Best Vines for SUPERBOWL Compilation" to Friends</a>
+
+
+            <a class="list-group-item" href="javascript:void(0);" id="alerts-button"><i
+                    class="fa fa-mail-forward fa-fw"></i>&nbsp;
+                Receive Emails for Future superbowl Vines</a>
+
+            <div id="alerts-div">
+                <form action="/joinNewsletter.php" method="get"><h3>Email: <input type="text" name="email" value=""><input type="hidden" name="keyword" value="superbowl"><input type="hidden" name="join" value="1"><input type="submit" class="hand" value="Join Subscription for &quot;superbowl&quot;" title="Receive an Email for New superbowl Posts"></form></h3>            </div>
+
+            <a class="list-group-item" href="javascript:void(0);" id="link-button"><i class="fa fa-chain fa-fw"></i>&nbsp;
+                Link to "Best Vines for SUPERBOWL Compilation"</a>
+
+            <div id="link-div">
+                <h3>Share: <input onClick="this.select();" value="http://www.best-vine-videos.com/Best-Vines-For-SUPERBOWL-Compilation---November-3,-2016-Thursday-5103649.html" style="width: 100%;"/></h3>            </div>
+            </a>
+            <a class="list-group-item" href="javascript:void(0);" id="socialmedia-button"><i
+                    class="fa fa-thumbs-o-up fa-fw"></i>&nbsp; Share on Facebook, Twitter, and more</a>
+
+            <div id="socialmedia-div">
+                
+        <div class="social">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=253077174717798&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="fb-like" data-href="http://www.best-vine-videos.com/Best-Vines-For-SUPERBOWL-Compilation---November-3,-2016-Thursday-5103649.html/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div></div><div class="list-results">
+
+<span class='st_facebook_vcount' displayText='Facebook'></span>
+<span class='st_twitter_vcount' displayText='Tweet'></span>
+<span class='st_linkedin_vcount' displayText='LinkedIn'></span>
+<span class='st_pinterest_vcount' displayText='Pinterest'></span>
+</div>            </div>
+        </div>
+    </div>
+    <div class="box-ad-cpu">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Large Rectangle -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:336px;height:280px"
+             data-ad-client="ca-pub-6547315753979149"
+             data-ad-slot="5481525515"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+<div class="box"><h1>Hashtags in Compilation</h1>
+<div class="content"><a href="/Search/?order=newest&q=SUPERBOWL" class="color-0">SUPERBOWL</a> <a href="/Search/?order=newest&q=SEAHAWKS" class="color-1">SEAHAWKS</a> <a href="/Search/?order=newest&q=RANKED" class="color-2">RANKED</a> <a href="/Search/?order=newest&q=SUPERBOWLXLVIII" class="color-3">SUPERBOWLXLVIII</a> <a href="/Search/?order=newest&q=STOPWHITEPEOPLE2015" class="color-4">STOPWHITEPEOPLE2015</a> <a href="/Search/?order=newest&q=ARMONANDTREY" class="color-5">ARMONANDTREY</a> <a href="/Search/?order=newest&q=BROTHERS" class="color-6">BROTHERS</a> <a href="/Search/?order=newest&q=REMAKE" class="color-7">REMAKE</a> <a href="/Search/?order=newest&q=LEFTSHARK" class="color-8">LEFTSHARK</a> <a href="/Search/?order=newest&q=SUPERBOWLSHARK" class="color-9">SUPERBOWLSHARK</a> <a href="/Search/?order=newest&q=KATYPERRY" class="color-10">KATYPERRY</a> <a href="/Search/?order=newest&q=FINDINGNEMO" class="color-11">FINDINGNEMO</a> <a href="/Search/?order=newest&q=TRANSFORMATION" class="color-12">TRANSFORMATION</a> <a href="/Search/?order=newest&q=RAYROD" class="color-13">RAYROD</a> <a href="/Search/?order=newest&q=HALFTIME" class="color-14">HALFTIME</a> <a href="/Search/?order=newest&q=BRONCOS" class="color-15">BRONCOS</a> <a href="/Search/?order=newest&q=RICHARDSHERMAN" class="color-16">RICHARDSHERMAN</a> <a href="/Search/?order=newest&q=SHITTALK" class="color-17">SHITTALK</a> <a href="/Search/?order=newest&q=SUPERBOWL2014" class="color-18">SUPERBOWL2014</a> <a href="/Search/?order=newest&q=HITSTICK" class="color-19">HITSTICK</a> <a href="/Search/?order=newest&q=FOOTBALL" class="color-20">FOOTBALL</a> <a href="/Search/?order=newest&q=PARTNER" class="color-21">PARTNER</a> <a href="/Search/?order=newest&q=COMMERCIAL" class="color-22">COMMERCIAL</a> <a href="/Search/?order=newest&q=SB50" class="color-23">SB50</a> <a href="/Search/?order=newest&q=SUPERBOWLSUNDAY" class="color-24">SUPERBOWLSUNDAY</a> <a href="/Search/?order=newest&q=HALFTIMESHOW" class="color-25">HALFTIMESHOW</a> <a href="/Search/?order=newest&q=DENNISSERIES" class="color-26">DENNISSERIES</a> <a href="/Search/?order=newest&q=49ERS" class="color-27">49ERS</a> <a href="/Search/?order=newest&q=AFVINE" class="color-28">AFVINE</a> <a href="/Search/?order=newest&q=PUPPYBOWL" class="color-29">PUPPYBOWL</a> <a href="/Search/?order=newest&q=BULLDOG" class="color-30">BULLDOG</a> <a href="/Search/?order=newest&q=WAINBREEZEVINES" class="color-31">WAINBREEZEVINES</a> <a href="/Search/?order=newest&q=BEYONCE" class="color-32">BEYONCE</a> <a href="/Search/?order=newest&q=DRUNKINLOVE" class="color-33">DRUNKINLOVE</a> <a href="/Search/?order=newest&q=VONMILLER" class="color-34">VONMILLER</a> <a href="/Search/?order=newest&q=COMEDY" class="color-35">COMEDY</a> <a href="/Search/?order=newest&q=DANCING" class="color-36">DANCING</a> <a href="/Search/?order=newest&q=HAND" class="color-37">HAND</a> <a href="/Search/?order=newest&q=CATCH" class="color-38">CATCH</a> <a href="/Search/?order=newest&q=PATRIOTS" class="color-39">PATRIOTS</a> <a href="/Search/?order=newest&q=PUPPY" class="color-40">PUPPY</a> <a href="/Search/?order=newest&q=HORSE" class="color-41">HORSE</a> <a href="/Search/?order=newest&q=CUTE" class="color-42">CUTE</a> <a href="/Search/?order=newest&q=TOOCUTE" class="color-43">TOOCUTE</a> <a href="/Search/?order=newest&q=ADORABLE" class="color-44">ADORABLE</a> <a href="/Search/?order=newest&q=BEASTMODE" class="color-45">BEASTMODE</a> <a href="/Search/?order=newest&q=DENVER" class="color-46">DENVER</a> <a href="/Search/?order=newest&q=SPORTSCLIPZ" class="color-47">SPORTSCLIPZ</a> <a href="/Search/?order=newest&q=WHOWASYOURFAVORITE" class="color-48">WHOWASYOURFAVORITE</a> <a href="/Search/?order=newest&q=SB48" class="color-49">SB48</a> <a href="/Search/?order=newest&q=STEVEHATESFOOTBALL" class="color-50">STEVEHATESFOOTBALL</a> <a href="/Search/?order=newest&q=SOSICK" class="color-51">SOSICK</a> <a href="/Search/?order=newest&q=FIREWORK" class="color-52">FIREWORK</a> <a href="/Search/?order=newest&q=NEVSSEA" class="color-53">NEVSSEA</a> <a href="/Search/?order=newest&q=SB49" class="color-54">SB49</a> <a href="/Search/?order=newest&q=COUNTDOWN" class="color-55">COUNTDOWN</a> <a href="/Search/?order=newest&q=DEFLATEDBALLS" class="color-56">DEFLATEDBALLS</a> <a href="/Search/?order=newest&q=PERCYHARVINBELIKE" class="color-57">PERCYHARVINBELIKE</a> <a href="/Search/?order=newest&q=HOUSE" class="color-58">HOUSE</a> <a href="/Search/?order=newest&q=TOUCHDOWN" class="color-59">TOUCHDOWN</a> <a href="/Search/?order=newest&q=XENATHEPITBULL" class="color-60">XENATHEPITBULL</a> <a href="/Search/?order=newest&q=PEYTONMANNING" class="color-61">PEYTONMANNING</a> <a href="/Search/?order=newest&q=TOBUSCUS" class="color-62">TOBUSCUS</a> <a href="/Search/?order=newest&q=SUPERBOWLXLIX" class="color-63">SUPERBOWLXLIX</a> <a href="/Search/?order=newest&q=LIKES" class="color-64">LIKES</a> <a href="/Search/?order=newest&q=PERFORMANCE" class="color-65">PERFORMANCE</a> <a href="/Search/?order=newest&q=BEYHIVE" class="color-66">BEYHIVE</a> <a href="/Search/?order=newest&q=SHERMAN" class="color-67">SHERMAN</a> <a href="/Search/?order=newest&q=CATS" class="color-68">CATS</a> <a href="/Search/?order=newest&q=NEWENGLANDPATRIOTS" class="color-69">NEWENGLANDPATRIOTS</a> <a href="/Search/?order=newest&q=DYLATA2" class="color-70">DYLATA2</a> <a href="/Search/?order=newest&q=NACO" class="color-71">NACO</a> <a href="/Search/?order=newest&q=SANJUDAS" class="color-72">SANJUDAS</a> <a href="/Search/?order=newest&q=THUGLIFE" class="color-73">THUGLIFE</a> <a href="/Search/?order=newest&q=SUPERBOWL2015" class="color-74">SUPERBOWL2015</a> <a href="/Search/?order=newest&q=OHMYGOD" class="color-75">OHMYGOD</a> <a href="/Search/?order=newest&q=TM87" class="color-76">TM87</a> <a href="/Search/?order=newest&q=MUSIC" class="color-77">MUSIC</a> <a href="/Search/?order=newest&q=PINBALL" class="color-78">PINBALL</a> <a href="/Search/?order=newest&q=NAPOLEONDYAMITE" class="color-79">NAPOLEONDYAMITE</a> <a href="/Search/?order=newest&q=JUSTINBIEBER" class="color-80">JUSTINBIEBER</a> <a href="/Search/?order=newest&q=FAVSONG" class="color-81">FAVSONG</a> <a href="/Search/?order=newest&q=ALLTHATMATTERS" class="color-82">ALLTHATMATTERS</a> <a href="/Search/?order=newest&q=HUMOR" class="color-83">HUMOR</a> <a href="/Search/?order=newest&q=SUPERBOWL2K15" class="color-84">SUPERBOWL2K15</a> <a href="/Search/?order=newest&q=SOUPBOWL" class="color-85">SOUPBOWL</a> <a href="/Search/?order=newest&q=SUPERBOWLL" class="color-86">SUPERBOWLL</a> <a href="/Search/?order=newest&q=OUCH" class="color-87">OUCH</a> <a href="/Search/?order=newest&q=PEOPLEAREAWESOME" class="color-88">PEOPLEAREAWESOME</a> <a href="/Search/?order=newest&q=SEAHAWKSNATION" class="color-89">SEAHAWKSNATION</a> <a href="/Search/?order=newest&q=GRONK" class="color-90">GRONK</a> <a href="/Search/?order=newest&q=TOMBRADY" class="color-91">TOMBRADY</a> <a href="/Search/?order=newest&q=PATRIOTSNATION" class="color-92">PATRIOTSNATION</a> <a href="/Search/?order=newest&q=FROZEN" class="color-93">FROZEN</a> <a href="/Search/?order=newest&q=QUEENELSA" class="color-94">QUEENELSA</a> <a href="/Search/?order=newest&q=KEEPPOUNDING" class="color-95">KEEPPOUNDING</a> <a href="/Search/?order=newest&q=WEEKEND" class="color-96">WEEKEND</a> <a href="/Search/?order=newest&q=UPFORWHATEVER" class="color-97">UPFORWHATEVER</a> <a href="/Search/?order=newest&q=TIGERBOXING" class="color-98">TIGERBOXING</a> <a href="/Search/?order=newest&q=PANTHERS" class="color-99">PANTHERS</a> <a href="/Search/?order=newest&q=TWERKFORGULLY" class="color-100">TWERKFORGULLY</a> <a href="/Search/?order=newest&q=BOBTHEDRAGQUEEN" class="color-101">BOBTHEDRAGQUEEN</a> <a href="/Search/?order=newest&q=GIVEAFUCK" class="color-102">GIVEAFUCK</a> <a href="/Search/?order=newest&q=THROWBACK" class="color-103">THROWBACK</a> <a href="/Search/?order=newest&q=LOLATL" class="color-104">LOLATL</a> <a href="/Search/?order=newest&q=DEFLATEGATE" class="color-105">DEFLATEGATE</a> <a href="/Search/?order=newest&q=FAIL" class="color-106">FAIL</a> <a href="/Search/?order=newest&q=TOUCHDOWNVINE" class="color-107">TOUCHDOWNVINE</a> <a href="/Search/?order=newest&q=NFLUK" class="color-108">NFLUK</a> <a href="/Search/?order=newest&q=GOHAWKS" class="color-109">GOHAWKS</a> <a href="/Search/?order=newest&q=OMGMOVEMENT" class="color-110">OMGMOVEMENT</a> <a href="/Search/?order=newest&q=SMALLVINERGANG" class="color-111">SMALLVINERGANG</a> <a href="/Search/?order=newest&q=SONG" class="color-112">SONG</a> <a href="/Search/?order=newest&q=SPONGEBOB" class="color-113">SPONGEBOB</a> <a href="/Search/?order=newest&q=EDITRANKED" class="color-114">EDITRANKED</a> <a href="/Search/?order=newest&q=FAVORITEME" class="color-115">FAVORITEME</a> <a href="/Search/?order=newest&q=UPLOAD" class="color-116">UPLOAD</a> <a href="/Search/?order=newest&q=NIKE" class="color-117">NIKE</a> </div></div>    <div class="box"><h1>Vines Seen in Compilation</h1>
+    
+        <div class="list-group">
+
+<a class="list-group-item" href="Vines/Sometimes-It's-Better-To-Just-Hand-It-Off-Austin-Miles-Geter-Josh-Darnit-SuperBowl-Seahawks-Twitter-Autumn-OFu9Ybb9riL.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#1</b> Sometimes it's better to just hand it off. Austin Miles Geter, Josh Darnit <span class="color-1">#SuperBowl</span> <span class="color-2">#Seahawks</span> </a><a class="list-group-item" href="Vines/Getting-Ready-For-The-Superbowl-Like-Twitter-Jessica-Brown-OtQgjJHatD1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#2</b> getting ready for the <span class="color-3">#superbowl</span> like 🏉💕 </a><a class="list-group-item" href="Vines/Best-Commercial-Twitter-Daylin-Ot0i0ZjpdLT.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#3</b> Best commercial 😂😂 </a><a class="list-group-item" href="Vines/SuperBowl-Priorities-Twitter-Lalamom-I11iqF6OpM3.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#4</b> SuperBowl Priorities </a><a class="list-group-item" href="Vines/NFL-On-NBC-Theme-Song-SuperBowl-Twitter-Rochi-Millot-Ot0K3LeMMra.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#5</b> NFL on NBC Theme Song <span class="color-4">#SuperBowl</span> </a><a class="list-group-item" href="Vines/Commercials-During-The-Superbowl-Vs-Every-Other-Day-Of-The-Year-Twitter-Jessy-Ot2xVenV7wQ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#6</b> Commercials during the Superbowl vs every other day of the year </a><a class="list-group-item" href="Vines/All-The-Broncos-Fans-After-The-SuperBowl-Ranked-Twitter-Dreandcox-MzEm5I6nzq2.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#7</b> All the Broncos fans after the <span class="color-5">#SuperBowl</span> <span class="color-6">#ranked</span> </a><a class="list-group-item" href="Vines/Peace-Luv-Sports-Superbowl-Twitter-Too-Turnt-Tina-MzwnbzrBKmB.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#8</b> peace luv sports <span class="color-7">#superbowl</span> </a><a class="list-group-item" href="Vines/Jermaine-Breaks-Four-Tackles-SuperbowlXLVIII-Twitter-Ballislife-MazVLagJOBg.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#9</b> Jermaine breaks four tackles!! <span class="color-8">#SuperbowlXLVIII</span> </a><a class="list-group-item" href="Vines/Smh-Stopwhitepeople2015-Twitter-Chill-Shawty-OtzVj1HVH7b.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#10</b> Smh <span class="color-9">#stopwhitepeople2015</span> </a><a class="list-group-item" href="Vines/Guess-What-I-Found-Gio-Volpe-Chrish-Twitter-Matthew-Napk-OTYeTFxZx2Q.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#11</b> Guess what I found 😂😂😂😂 Gio Volpe, Chrish </a><a class="list-group-item" href="Vines/What's-The-SuperBowl-Twitter-Chris-Fabregas-Mzml26qdHmn.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#12</b> What's The #SuperBowl??? </a><a class="list-group-item" href="Vines/I-Had-To-Google-Who-Was-In-The-Super-Bowl-To-Make-This-Vine-I-Wish-I-Was-Joking-Twitter-Woke-Chenz-Ot2rMx1BL6r.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#13</b> I had to google who was in the Super Bowl to make this vine. I wish I was joking. </a><a class="list-group-item" href="Vines/Darla-The-Dumb-Blonde-Watches-The-Superbowl-Twitter-Courtney-I11XqThLnYH.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#14</b> Darla the dumb blonde watches the <span class="color-11">#Superbowl</span> </a><a class="list-group-item" href="Vines/NFL-On-NBC-Theme-Song-Superbowl--Armon-Warren-ArmonAndTrey-Brothers-Remake-Of-Our-Inspirations-Us-The-Duo-TAG-THEM-Twitter-Tyson-OFMQ7dBmKJ0.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#15</b> NFL on NBC theme song <span class="color-12">#superbowl</span> 🙌 || { Armon Warren } <span class="color-13">#ArmonAndTrey</span> <span class="color-14">#brothers</span> || <span class="color-15">#remake</span> of our inspirations Us The Duo 😭🙌😱😩👌 TAG THEM? 😁 </a><a class="list-group-item" href="Vines/It's-Never-Too-Late-For-A-Transformationthursday-Leftshark-Superbowl-Superbowlshark-Katyperry-Findingnemo-Transformation-Twitter-Viani23-OFYXOTJieYd.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#16</b> It's never too late for a #transformationthursday! <span class="color-17">#leftshark</span> <span class="color-18">#superbowl</span> <span class="color-19">#superbowlshark</span> <span class="color-20">#katyperry</span> <span class="color-21">#findingnemo</span> <span class="color-22">#transformation</span> </a><a class="list-group-item" href="Vines/Beyonce-Perfects-The-Super-Hero-Landing-Rayrod-Superbowl-Twitter-Yo-Laws-Crazy-I1EUJKtDXIV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#17</b> Beyoncé perfects the super hero landing <span class="color-23">#rayrod</span> <span class="color-24">#superbowl</span> </a><a class="list-group-item" href="Vines/Even-Grandpa-Is-Getting-Hyped-For-Halftime-Enter-For-A-Chance-To-Go-To-The-Pepsi-Superbowl-XLIX-Halftime-Show-At-Pepsicom-Halftime-Twitter-Jasmine-Winston-OHKWgVijeMp.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#18</b> Even grandpa is getting hyped for halftime - enter for a chance to go to the Pepsi  Superbowl XLIX <span class="color-25">#Halftime</span> Show at Pepsi.com/halftime </a><a class="list-group-item" href="Vines/I-INTERCEPT-EVERYTHING-JSnow-Sarah-Sunshine-SB-BROADYTHEJOKER-EB-CHRIS-ASHLEY-Marlon-Wayans-SUPERBOWL-NFL-SEAHAWKS-BRONCOS-WTF-Twitter-WhattheFunny-MzxAEXmDhx2.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#19</b> I INTERCEPT EVERYTHING  JSnow  Sarah Sunshine SB  BROADYTHEJOKER EB  CHRIS ASHLEY  marlon wayans <span class="color-26">#SUPERBOWL</span> <span class="color-27">#NFL</span> <span class="color-28">#SEAHAWKS</span> <span class="color-29">#BRONCOS</span> <span class="color-30">#WTF</span> </a><a class="list-group-item" href="Vines/Ryan-Gosling-Won't-Eat-His-Cereal-Part-28-Twitter-Knifelight-OtwjQXVjmDr.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#20</b> Ryan Gosling won't eat his cereal: Part 28 </a><a class="list-group-item" href="Vines/Richard-Fcked-Up----------Richardsherman-Seahawks-Shittalk-Superbowl2014-Twitter-McCully-Quinn-MzJmDHl2BaP.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#21</b> Richard f*cked up...                    <span class="color-31">#Richardsherman</span> <span class="color-32">#Seahawks</span> <span class="color-33">#shittalk</span> <span class="color-34">#superbowl2014</span> </a><a class="list-group-item" href="Vines/Super-Disappointing-Twitter-Valium-Village-OtxOHQEwMYh.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#22</b> super disappointing </a><a class="list-group-item" href="Vines/AHAHAHAHAH-WTF-BRO-Seahawks-MzEw0Kx7Vd2.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#23</b> AHAHAHAHAH WTF BRO <span class="color-35">#seahawks</span> </a><a class="list-group-item" href="Vines/Jermaine-Kearse-With-The-DEADLY-DOUBLE-SPIN-MOVE-For-A-Touchdown-In-Super-Bowl-XLVIII-HitStick-Football-SuperBowl-NFL-Seahawks-Twitter-Hit-Stick-MazAdv2Qi3Q.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#24</b> ⚠️Jermaine Kearse with the DEADLY DOUBLE SPIN MOVE for a touchdown in Super Bowl XLVIII! ⚠️ <span class="color-36">#HitStick</span> <span class="color-37">#Football</span> <span class="color-38">#SuperBowl</span> <span class="color-39">#NFL</span> <span class="color-40">#Seahawks</span> </a><a class="list-group-item" href="Vines/Girl-Who-Thinks-Everyone-Is-Watching-Her-At-The-Halftime-Show-Bud-Light-Partner-SuperBowl-Twitter-Roni-Richardson-I1nwVQurwhM.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#25</b> Girl who thinks everyone is watching her at the halftime show. Bud Light <span class="color-41">#partner</span> <span class="color-42">#SuperBowl</span> 🏈 </a><a class="list-group-item" href="Vines/I-Had-To-Superbowl-Commercial-Twitter-Francis-Pobleetee-OFOUYlLXJpX.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#26</b> I had to... <span class="color-43">#Superbowl</span> <span class="color-44">#commercial</span> </a><a class="list-group-item" href="Vines/I-Really-Hate-Goodbyes-W-Brandon-Calvillo-David-Lopez-Cody-Johns-Klarity-AJMG-Joseph-Strain-Twitter-Josh-Darnit-MaBb5igmKaH.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#27</b> I really hate goodbyes w/Brandon Calvillo, David Lopez, Cody Johns, Klarity, AJMG, Joseph Strain </a><a class="list-group-item" href="Vines/Double-Tap-If-Your-Watching-The-SUPERBOWL-Twitter-All-About-Sports-OtxD6BOEweF.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#28</b> Double tap if your watching the SUPERBOWL! </a><a class="list-group-item" href="Vines/Girl-Who-Knows-Nothing-About-Sports-Watches-The-SuperBowl-Longer-Version-On-My-Instagram-Username-BrittanyFurlan-SB50-Twitter-Collin-Heath-I16DDHLzH3Q.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#29</b> Girl who knows nothing about sports watches the <span class="color-45">#SuperBowl</span> Longer version on my Instagram- username @BrittanyFurlan <span class="color-46">#SB50</span> </a><a class="list-group-item" href="Vines/Super-Bowl-Halftime-Recap-Superbowl-SuperBowlSunday-HalftimeShow-Twitter-Jazarrab-Ot0FmZpvJw2.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#30</b> Super bowl halftime recap <span class="color-47">#superbowl</span> <span class="color-48">#SuperBowlSunday</span> <span class="color-49">#HalftimeShow</span> </a><a class="list-group-item" href="Vines/Moms-Never-Understand-Sports-SuperbowlSunday-Twitter-Gabe-MzxAUHHeDKv.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#31</b> Moms never understand sports... 😓 <span class="color-50">#SuperbowlSunday</span> </a><a class="list-group-item" href="Vines/Hello-PATRICIA--W-Chrish-Twitter-Laaahvohnee-OtP3ev7phtA.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#32</b> Hello PATRICIA!   (w/Chrish) </a><a class="list-group-item" href="Vines/Super-Bowl-NFL-Theme-Song-Twitter-Amber-Nelson-OtQiuUZHMl6.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#33</b> Super Bowl/NFL Theme Song </a><a class="list-group-item" href="Vines/OH-HEY-DENNIS-Dennisseries-BpDh6WrBQww.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#34</b> OH, HEY DENNIS <span class="color-51">#dennisseries</span> </a><a class="list-group-item" href="Vines/F-The-Superbowl-Twitter-Obsessionsgalore-Mz0T6q9E3Ln.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#35</b> F*** the superbowl! </a><a class="list-group-item" href="Vines/Mama-Sorprendida-Por-La-Duracion-Del-Superbowl-Twitter-Yaya-Perez-OtEiaxIBu95.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#36</b> Mamá sorprendida por la duración del <span class="color-52">#superbowl</span> </a><a class="list-group-item" href="Vines/Vernon-Davis-Dies-Seahawks-49ers-Superbowl-Twitter-Swerve707-MuO3OpivmKm.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#37</b> Vernon Davis Dies!  <span class="color-53">#seahawks</span> <span class="color-54">#49ers</span> <span class="color-55">#superbowl</span> </a><a class="list-group-item" href="Vines/How-REAL-Men-Celebrate-SuperBowl-W-Josh-Darnit-ScottySire-Elton-Castee-Darwynstheory-Twitter-Emily-Chaisson-OtHHj1ZOe2L.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#38</b> How REAL men celebrate <span class="color-56">#SuperBowl</span> (W Josh Darnit, ScottySire, Elton Castee, Darwynstheory) </a><a class="list-group-item" href="Vines/Turnover-AFV-AFVine-SuperBowl-PuppyBowl-Bulldog-Dog-Twitter-Sarah-Denis-OI1dF6rt0Ki.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#39</b> Turnover! <span class="color-57">#AFV</span> <span class="color-58">#AFVine</span> <span class="color-59">#SuperBowl</span> <span class="color-60">#PuppyBowl</span> <span class="color-61">#bulldog</span> <span class="color-62">#dog</span> </a><a class="list-group-item" href="Vines/Superbowl-Twitter-Ryan-Welsh-OtEVZiZIO5e.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#40</b> <span class="color-63">#superbowl</span> </a><a class="list-group-item" href="Vines/Everyone-On-Super-Bowl-Sunday-Be-Like-Superbowl-Twitter-Vince-Cull-MzOFOBngY6t.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#41</b> Everyone on Super Bowl Sunday be like...🏈 <span class="color-64">#superbowl</span> </a><a class="list-group-item" href="Vines/Public-Prank-Part-2-Real-Chocolate-See-My-Profile-For-Other-Pranks-WainbreezeVines-Twitter-Roy-Winzer-Jr-OvbgLZJFD69.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#42</b> Public Prank Part 2... Real Chocolate (See my profile for other pranks) <span class="color-65">#WainbreezeVines</span> </a><a class="list-group-item" href="Vines/Can-You-Spit-The-Difference-Beyonce-Drunkinlove-Vonmiller-Comedy-Dancing-Nfl-Broncos-Superbowl-Twitter-Buffalorizz-MzKzOduQwxW.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#43</b> Can you spit the difference? <span class="color-66">#beyonce</span> <span class="color-67">#drunkinlove</span> <span class="color-68">#vonmiller</span> <span class="color-69">#comedy</span> <span class="color-70">#dancing</span> <span class="color-71">#nfl</span> <span class="color-72">#broncos</span> <span class="color-73">#superbowl</span> </a><a class="list-group-item" href="Vines/Insane-One-Hand-Catch-One-Hand-Catch-Twitter-Breathrock616-HlVi72Qn6ug.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#44</b> Insane One Hand Catch <span class="color-74">#one</span> <span class="color-75">#hand</span> <span class="color-76">#catch</span> </a><a class="list-group-item" href="Vines/Ninas-Viendo-El-SuperBowl-Be-Like-Twitter-Gissellekuri-Mz22vWwOpJl.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#45</b> Niñas viendo el SuperBowl be like. </a><a class="list-group-item" href="Vines/Unsure-Of-Which-Team-You're-Rooting-For-During-The-Superbowl-Tap-To-Help-Make-Up-Your-Mind-Seahawks-Patriots-Twitter-Lucy-Sauceda-OTY9E6WltTT.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#46</b> Unsure of which team you're rooting for during the #superbowl? Tap to help make up your mind. <span class="color-78">#seahawks</span> <span class="color-79">#patriots</span> </a><a class="list-group-item" href="Vines/If-This-Doesnt-Make-Your-Heart-Meltthen-You-Probably-Dont-Have-One--Puppy-Horse-Cute-Toocute-Adorable-Superbowl-Commercial-Twitter-TOO-CUTE-Mbqd3dHiIej.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#47</b> if this doesnt make your heart melt..then you probably dont have one. 🐶 ❤️ <span class="color-80">#puppy</span> <span class="color-81">#horse</span> <span class="color-82">#cute</span> <span class="color-83">#toocute</span> <span class="color-84">#adorable</span> <span class="color-85">#superbowl</span> <span class="color-86">#commercial</span> </a><a class="list-group-item" href="Vines/Tap-To-Make-Marshawn-Lynch-Smile-BEASTMODE-Superbowl-Twitter-Prashant-Nuthalapati-OTv0X1ZOYK3.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#48</b> Tap to make Marshawn Lynch smile! <span class="color-87">#BEASTMODE</span> <span class="color-88">#superbowl</span> </a><a class="list-group-item" href="Vines/The-Ultimate-SuperBowl-Drinking-Game-Twitter-Charlie-Love-OtJQhI2OTQM.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#49</b> The ultimate <span class="color-89">#SuperBowl</span> drinking game 🏈🍻🏈🍻🏈 </a><a class="list-group-item" href="Vines/How-Payton-Manning-Is-Warming-Up-For-The-Super-Bowl-Superbowl2014-Broncos-Denver-Twitter-McCully-Quinn-Mzx3uAB5OX9.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#50</b> How Payton Manning is warming up for the Super Bowl. <span class="color-90">#superbowl2014</span> <span class="color-91">#broncos</span> <span class="color-92">#Denver</span> </a><a class="list-group-item" href="Vines/Double-Tap-To-Choose-Your-Team-And-Your-Fate-I've-Got-The-Seahawks-To-Win-The-SuperBowl-Comment-Who-You-Got-SportsClipz-Seahawks-Twitter-Cody-Otxd1OjT9IJ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#51</b> Double tap to Choose your team and your fate! I've got the Seahawks to win the #SuperBowl!! Comment who you got! <span class="color-94">#SportsClipz</span> <span class="color-95">#Seahawks</span> </a><a class="list-group-item" href="Vines/How-Katy-Perry-Felt-During-The-Halftime-Show-Superbowl-Twitter-Mason-Messerly-OtErHWYrYVr.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#52</b> How Katy Perry felt during the halftime show 💫 <span class="color-96">#superbowl</span> </a><a class="list-group-item" href="Vines/Mascot-Feud-Tensions-Are-Rising-Who-You-Got-ESPN-Broncos-Seahawks-Superbowl-Twitter-Josh-Spearmon-Mu3vq95qbKd.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#53</b> Mascot Feud! Tensions are rising! Who you got?! ESPN <span class="color-97">#Broncos</span> <span class="color-98">#Seahawks</span> <span class="color-99">#Superbowl</span> </a><a class="list-group-item" href="Vines/Sauce-Boss-Superbowl-Twitter-Italy-I11ll7XD5Dj.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#54</b> Sauce Boss 👑 <span class="color-100">#superbowl</span> </a><a class="list-group-item" href="Vines/When-Drake-Is-Taken-Out-Of-His-Own-Music-Video-Onlyifthatreallyhappenedsuperbowl-Twitter-Daniel-Harrison-IvKn9u6Q2q1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#55</b> When Drake is taken out of his own music video😂 #onlyifthatreallyhappened👌🏽<span class="color-102">#superbowl</span> </a><a class="list-group-item" href="Vines/Two-Guys-That-Have-Never-Heard-Of-The-Superbowl-W-Jason-Nash-And-Sunny-Mabrey-Twitter-Parker-Brittain-I17laUEIzun.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#56</b> Two guys that have never heard of the <span class="color-103">#superbowl</span> w/ Jason Nash and Sunny Mabrey </a><a class="list-group-item" href="Vines/I-MISS-JERSEY-SHORE-GTL-WhoWasYourFavorite-Mz2bpbBiUOn.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#57</b> I MISS JERSEY SHORE!😩 <span class="color-104">#GTL</span> <span class="color-105">#WhoWasYourFavorite</span> </a><a class="list-group-item" href="Vines/Who's-Going-To-Win-The-SuperBowl-Twitter-Amin-Yousif-OtJ6dVED1nI.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#58</b> Who's Going To Win The SuperBowl?🏈 </a><a class="list-group-item" href="Vines/Comentarios-Sobre-El-Superbowl-Twitter-Abril-Sabino-Maui1TpLKWF.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#59</b> Comentarios sobre el Superbowl </a><a class="list-group-item" href="Vines/The-Play-That-Sent-The-Seahawks-To-The-SuperBowl-Twitter-Ballislife-HlPmBAnPwKF.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#60</b> The play that sent the Seahawks to the SuperBowl </a><a class="list-group-item" href="Vines/The-Greatest-Loss-Of-The-Superbowl-So-Far-Twitter-Nlove-Ot0K2HAtFqP.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#61</b> The greatest loss of the <span class="color-106">#superbowl</span> so far. </a><a class="list-group-item" href="Vines/Football-SuperBowl-SB48-Broncos-Seahawks-SteveHatesFootball-Twitter-Steve-Way-MzQ2pYl33Bd.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#62</b> Football <span class="color-107">#SuperBowl</span> <span class="color-108">#SB48</span> <span class="color-109">#Broncos</span> <span class="color-110">#Seahawks</span> <span class="color-111">#SteveHatesFootball</span> </a><a class="list-group-item" href="Vines/That-Drop-By-Bruno-Mars-During-Halftime-Of-The-Super-Bowl-Ilovesickdrops-SoSick-SuperBowl-Twitter-Thomas-Clay-MaM3361vXvH.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#63</b> That drop by Bruno Mars during halftime of the Super Bowl ilovesickdrops <span class="color-112">#SoSick</span> <span class="color-113">#SuperBowl</span> </a><a class="list-group-item" href="Vines/There's-Two-Types-Of-People-In-This-World-Joanne-Lavoie-Happy-Birthday-Harry-Styles-Twitter-DangerousInCamo-Otx16KMnYwL.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#64</b> There's two types of people in this world... Joanne Lavoie Happy birthday Harry Styles. 🏈 </a><a class="list-group-item" href="Vines/SuperBowl-Twitter-Carter-Arnold-Ot2WTxLwUda.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#65</b> <span class="color-114">#SuperBowl</span> </a><a class="list-group-item" href="Vines/Super-Bowl-Halftime-Show--SuperBowl-KatyPerry-Firework-Twitter-Jillian-Karuza-OtEWJXd1ndg.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#66</b> Super Bowl halftime show 😂🏈 💥... <span class="color-115">#SuperBowl</span> <span class="color-116">#KatyPerry</span> <span class="color-117">#firework</span> </a><a class="list-group-item" href="Vines/Santonio-Holmes-Hauls-In-The-Gamewinner-In-Super-Bowl-XLIII-HitStick-SuperBowl-NFL-Football-Twitter-Hit-Stick-MuV05DKig70.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#67</b> 💥Santonio Holmes hauls in the game-winner in Super Bowl XLIII!💥 <span class="color-118">#HitStick</span> <span class="color-119">#SuperBowl</span> <span class="color-120">#NFL</span> <span class="color-121">#football</span> </a><a class="list-group-item" href="Vines/Vine-By-WainBreeze-Twitter-Xcunt-Ord6bJx3DMY.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#68</b> Vine by WainBreeze </a><a class="list-group-item" href="Vines/He-Getting-Ready-For-The-Superbowl-Twitter-Jeanie-OTOFMrFExWZ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#69</b> He getting ready for the Superbowl 😂 </a><a class="list-group-item" href="Vines/The-Road-To-SuperBowl-48-Seahawks-Broncos-Twitter-Chris-Fabregas-MzjBX09npeP.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#70</b> The Road To <span class="color-122">#SuperBowl</span> 48 - <span class="color-123">#Seahawks</span> <span class="color-124">#Broncos</span> </a><a class="list-group-item" href="Vines/What-A-Game-New-England-Patriots-Take-The-SuperBowl-Championship-With-A-Final-Score-Of-2824-Was-Your-Prediction-On-Point-NEvsSEA-SB49-Twitter-Mashable-OtErLzd9LWv.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#71</b> What a game! New England Patriots take the <span class="color-125">#SuperBowl</span> championship with a final score of 28-24. Was your prediction on point? <span class="color-126">#NEvsSEA</span> <span class="color-127">#SB49</span> </a><a class="list-group-item" href="Vines/Football-Tricks-Part-1-Top-Spin-Superbowl-Countdown-Twitter-Call-Of-Duty-Black-Ops-2-MuFFx3Oj0ZV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#72</b> 🏈Football Tricks Part 1 Top Spin <span class="color-128">#superbowl</span> <span class="color-129">#countdown</span> </a><a class="list-group-item" href="Vines/How-Tom-Brady-Gets-Ready-For-The-Superbowl-DeflatedBalls-Comment-Who-You-Want-To-Win-Superbowl-Patriots-Seahawks-Twitter-Olivia-OtxEd5uY0Tb.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#73</b> How Tom Brady gets ready for the Superbowl. <span class="color-130">#deflatedBalls</span> (Comment who you want to win) <span class="color-131">#Superbowl</span> <span class="color-132">#Patriots</span> <span class="color-133">#Seahawks</span> </a><a class="list-group-item" href="Vines/Hood-Sports-With-GAMETIME-PercyHarvinBeLike-House-Touchdown-Broncos-Seahawks-HoodSportsWithGametime-Twitter-Gametime-Henderson-2-Mz0w2MYD632.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#74</b> Hood Sports With GAMETIME <span class="color-134">#PercyHarvinBeLike</span> <span class="color-135">#house</span> <span class="color-136">#touchdown</span> <span class="color-137">#Broncos</span> <span class="color-138">#Seahawks</span> <span class="color-139">#HoodSportsWithGametime</span> 🏈🏈 </a><a class="list-group-item" href="Vines/WASSUPP-Then-Vs-Now-Superbowl-Ad-Throwback-W-Josh-Darnit-Devin-Janetta-Rob-Johnston-Twitter-Brittlestar-OtQn09txtmi.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#75</b> WASSUPP! Then vs Now <span class="color-140">#superbowl</span> Ad Throwback w/Josh Darnit, Devin Janetta, Rob Johnston </a><a class="list-group-item" href="Vines/Busted-By-XenaThePitbull-Inspired-By-Joey-Ahern-And-Steel-Twitter-Ginger-Wesson-MzPBU9KmjOu.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#76</b> Busted By #XenaThePitbull. (Inspired By Joey Ahern and Steel) </a><a class="list-group-item" href="Vines/DO-NOT-TRY-THIS-AT-HOME-SuperBowl-Twitter-Mikaela-Long-Ot0KKgFrrZq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#77</b> DO NOT TRY THIS AT HOME <span class="color-142">#SuperBowl</span> </a><a class="list-group-item" href="Vines/Guy-Who-Watches-The-Superbowl-For-The-Katy-Perry-Halftime-Show-SuperBowl-Twitter-Krysstal-Olivo-OtpuTFEJPIM.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#78</b> Guy who watches the Superbowl for the Katy Perry halftime show. <span class="color-143">#SuperBowl</span> </a><a class="list-group-item" href="Vines/Peyton-Manning-Right-Now-PeytonManning-Superbowl-Seahawks-Twitter-Brighton-Thorn-Mz0wuOiEDhE.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#79</b> Peyton Manning Right Now <span class="color-144">#PeytonManning</span> <span class="color-145">#superbowl</span> <span class="color-146">#seahawks</span> </a><a class="list-group-item" href="Vines/WHAT-DO-I-WEAR-FOR-THIS-SUPERBOWL-THING-MARTIN-Superbowl-SuperBowlSunday-Tobuscus-Twitter-Da-Slayerdude-OtxJWTj1nLO.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#80</b> WHAT DO I WEAR FOR THIS SUPERBOWL THING, MARTIN?! <span class="color-147">#superbowl</span> <span class="color-148">#SuperBowlSunday</span> <span class="color-149">#tobuscus</span> </a><a class="list-group-item" href="Vines/Marshawn-Be-Like-SuperBowl-SuperBowlXLIX-Twitter-Nate-F-Grepo-Ot0ibdTQKt3.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#81</b> Marshawn be like... <span class="color-150">#SuperBowl</span> <span class="color-151">#SuperBowlXLIX</span> </a><a class="list-group-item" href="Vines/Best-Super-Bowl-Commercial-SB48-Twitter-Dylan-Chenowith-MzEXqQXDWYP.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#82</b> Best Super Bowl commercial!! 😍 <span class="color-152">#SB48</span> </a><a class="list-group-item" href="Vines/WOAH-CRAZY-SUPER-BOWL-FIGHT-Pt-1-Twitter-Derek-Odland-B19z3WjTz5I.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#83</b> WOAH, CRAZY SUPER BOWL FIGHT. pt. 1 </a><a class="list-group-item" href="Vines/Who-Needs-Diapers-When-You-Can-Use-A-Patriots-Hat-SuperBowl-SuperBowlXLIX-Twitter-U2741Melanieu2741-OtH6QAza7PI.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#84</b> Who needs diapers when you can use a Patriots hat! - <span class="color-153">#SuperBowl</span> <span class="color-154">#SuperBowlXLIX</span> </a><a class="list-group-item" href="Vines/1000-Likes-1000-Revines-For-Beyonce's-Superbowl-Performance-Beyhive-Twitter-Celia-Brandstett-HKpYqATeVP3.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#85</b> 1000 <span class="color-155">#Likes</span> & 1000 Revines for #beyonce's <span class="color-157">#Superbowl</span> #Performance!!!! ❤ <span class="color-159">#Beyhive</span> </a><a class="list-group-item" href="Vines/Superbowl-Twitter-Alex-Tate-I1vOaqLFmEq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#86</b> 😔😔😔 <span class="color-160">#superbowl</span> </a><a class="list-group-item" href="Vines/Richard-Sherman-Don't-Like-Crabtree-Or-SALSA-Superbowl-Sherman-Seahawks-Twitter-Ross-Smith-MzQFdurETLq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#87</b> Richard Sherman don't like Crabtree or SALSA. <span class="color-161">#superbowl</span> <span class="color-162">#sherman</span> <span class="color-163">#Seahawks</span> </a><a class="list-group-item" href="Vines/Cats-Reenact-The-SuperBowl-AFV-AFVine-Patriots-Seahawks-Newenglandpatriots-SB49-Twitter-Macie-Linton-OFu0rmQ1aZP.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#88</b> <span class="color-164">#Cats</span> reenact the <span class="color-165">#SuperBowl</span> <span class="color-166">#AFV</span> <span class="color-167">#AFVine</span> <span class="color-168">#patriots</span> <span class="color-169">#seahawks</span> <span class="color-170">#newenglandpatriots</span> <span class="color-171">#SB49</span> </a><a class="list-group-item" href="Vines/El-Wey-Naco-Que-No-Sabe-NADA-De-Americano-Y-Solo-Conoce-A-Los-Equipos-Del-Superbowl-Dylata2-Superbowl-Naco-SanJudas-Twitter-Monicagd-OFarXOiWjJH.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#89</b> El wey naco que no sabe NADA de americano y solo conoce a los equipos del superbowl  <span class="color-172">#dylata2</span> <span class="color-173">#superbowl</span>  <span class="color-174">#naco</span> <span class="color-175">#SanJudas</span> </a><a class="list-group-item" href="Vines/There's-Always-Those-People-At-SuperBowl-Parties-That-Have-No-Idea-What's-Going-On--W--Mckenna-Andrews-Trent-Twitter-Eriicaa-Marie-MzEAuV1ZqjL.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#90</b> There's always those people at <span class="color-176">#SuperBowl</span> parties that have no idea what's going on !!!! 😂😂😂 w/  Mckenna Andrews & Trent </a><a class="list-group-item" href="Vines/When-You-Do-A-Group-Presentation-And-Want-To-Make-Sure-To-Get-The-Best-Grade-Twitter-Chloe-Cole-OFB2DmgWYXl.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#91</b> when you do a group presentation and want to make sure to get the best grade </a><a class="list-group-item" href="Vines/Happy-Birthday-Harry-Twitter-Kenzie-Prindle-OtPYFUzVHK6.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#92</b> Happy Birthday Harry!!!! 😌👌 </a><a class="list-group-item" href="Vines/TFW-You-Know-You-Slayed-Superbowl-Twitter-Vortexcraze-I111Y5lvhDq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#93</b> TFW you know you slayed <span class="color-177">#superbowl</span> </a><a class="list-group-item" href="Vines/Me-Watching-Superbowl-2013-FIERCE-AF-Twitter-Tinaknowles-EvYwDqa63Bn.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#94</b> Me watching Superbowl 2013 😭😭 FIERCE AF!! </a><a class="list-group-item" href="Vines/Gona-Win-The-Superbowl-This-Year-Patriots-Are-My-Team-My-Vid-From-Gillette-Let's-Go-Pats-Twitter-U273aespinosau273a-OtQeH9pKuwW.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#95</b> "gona win the Superbowl this year , Patriots are my team" ❤️👌 my vid from Gillette! Let's go Pats 🏈❤️ </a><a class="list-group-item" href="Vines/Kapak-Gibi-Kapak-ThugLife-W-Can-Ileri-Twitter-Mahmut-Talha-Serenli-Otln1zKw9pV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#96</b> Kapak gibi kapak 😎 <span class="color-178">#ThugLife</span> w | Can ileri </a><a class="list-group-item" href="Vines/Tough-Loss-From-The-Seahawks-BUT-WHAT-A-CATCH-BY-JERMAINE-KEARSEsuperbowl2015-Twitter-Dylan-Davis-Ot9O7hVMxZ5.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#97</b> Tough loss from the Seahawks BUT WHAT A CATCH BY JERMAINE KEARSE!!!😱😱😱😱😱😱😱😱😱<span class="color-179">#superbowl2015</span> </a><a class="list-group-item" href="Vines/Sherman's-Reaction-To-Butler's-Interception-Ohmygod-Twitter-Alyssa-Ot977ELHeU7.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#98</b> Sherman's reaction to Butler's interception <span class="color-180">#ohmygod</span> </a><a class="list-group-item" href="Vines/Superbowl-Sunday-IRL-SB49-Twitter-Jill-Wyatt-OtPYtVK3j1K.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#99</b> <span class="color-181">#superbowl</span>  Sunday IRL <span class="color-182">#SB49</span> </a><a class="list-group-item" href="Vines/WOAH-CRAZY-SUPER-BOWL-FIGHT-Pt-2-Twitter-Derek-Odland-B19ZW7MVBKQ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#100</b> WOAH, CRAZY SUPER BOWL FIGHT pt. 2 </a><a class="list-group-item" href="Vines/Pokemon-Has-Been-A-Part-Of-Me-All-My-Life-Seeing-This-During-SUPERBOWL-Meant-The-20-Years-Of-Tm87-Still-Going-Strong-IG-Casiiiano-Twitter-Midnight-I1rtHK22eKh.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#101</b> Pokemon has been a part of me all my life🙌. Seeing this during <span class="color-183">#SUPERBOWL</span> meant the🌎. 20 years of <span class="color-184">#tm87</span> still going strong! IG: @casiiiano </a><a class="list-group-item" href="Vines/But-It's-The-SuperBowl-W-Brittlestar-Twitter-Ryan-Mz0WQdm1aKV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#102</b> But it's the SuperBowl W/Brittlestar </a><a class="list-group-item" href="Vines/Jermaine-Kearse's-Epic-Touchdown-Music-Passenger-Let-Her-Go-Caked-Up-Remix-SuperBowl-Pinball-Seahawks-Broncos-MzVpdJqY9qO.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#103</b> Jermaine Kearse's Epic Touchdown! <span class="color-185">#music</span> [Passenger - Let Her Go (Caked Up Remix)] <span class="color-186">#SuperBowl</span> <span class="color-187">#pinball</span> <span class="color-188">#Seahawks</span> <span class="color-189">#Broncos</span> </a><a class="list-group-item" href="Vines/Already-Training-For-SuperBowl-VXIV-Superbowl-Twitter-Marleen-Kuhn-Ot0OBHl3bu7.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#104</b> Already training for SuperBowl VXIV... 🏈😂 <span class="color-190">#superbowl</span> </a><a class="list-group-item" href="Vines/The-Worst-Girl-At-The-Superbowl-Twitter-Robert-Michael-Hill-I110xrmwLrO.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#105</b> The worst girl at the <span class="color-191">#superbowl</span> </a><a class="list-group-item" href="Vines/When-Love-Gets-In-The-Way-Superbowl-Twitter-Jaime-Contreras-I15BvZIXY6U.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#106</b> When Love Gets In The Way <span class="color-192">#superbowl</span> </a><a class="list-group-item" href="Vines/That-Awkward-Moment-With-Richard-Sherman------------------------Superbowl-Seahawks-Broncos-NapoleonDyamite-Twitter-Rom-Hardy-MzDzt9J2qVU.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#107</b> That awkward moment with Richard Sherman.                                                <span class="color-193">#Superbowl</span> <span class="color-194">#Seahawks</span> <span class="color-195">#Broncos</span> <span class="color-196">#NapoleonDyamite</span> </a><a class="list-group-item" href="Vines/Katy-Tried-It-KatyPerry-Beyonce-Superbowl-Twitter-Paloma-Colunga-OtLphEPeI16.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#108</b> Katy tried it 😂 <span class="color-197">#KatyPerry</span> <span class="color-198">#beyonce</span> <span class="color-199">#superbowl</span> </a><a class="list-group-item" href="Vines/Me-Watching-The-Superbowl-Twitter-Felisha-Ot01QZIvumH.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#109</b> me watching the <span class="color-200">#superbowl</span> </a><a class="list-group-item" href="Vines/I-Make-The-Best-Coffee-In-The-Office--JSnow-JJIsShow-CHRIS-ASHLEY-SB-BROADYTHEJOKER-Marlon-Wayans-SuperBowl-RichardSherman-Twitter-WhattheFunny-MzppuY5WwK5.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#110</b> "I Make The Best Coffee In The Office"   JSnow  JJIsShow CHRIS ASHLEY SB  BROADYTHEJOKER marlon wayans <span class="color-201">#SuperBowl</span> <span class="color-202">#RichardSherman</span> </a><a class="list-group-item" href="Vines/When-Your-Favorite-Song-Comes-On-In-The-Car-ASmitty95-Ivan-Salgado-JustinBieber-Favsong-Allthatmatters-Music-Humor-Superbowl-Twitter-Yncmike-Mz2DEUE7eBe.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#111</b> When your favorite song comes on in the car.. ASmitty95, Ivan Salgado <span class="color-203">#JustinBieber</span> <span class="color-204">#favsong</span> <span class="color-205">#allthatmatters</span> <span class="color-206">#music</span> <span class="color-207">#humor</span> <span class="color-208">#superbowl</span> </a><a class="list-group-item" href="Vines/LOOKA-THA-FLICKA-DA-WRIST--Superbowl2k15-Twitter-Kiara-Alcantara-OtEnvwDhJ9w.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#112</b> LOOKA THA FLICKA DA WRIST ! 🙊 <span class="color-209">#Superbowl2k15</span> </a><a class="list-group-item" href="Vines/Wait-I-Thought-This-Was-About-Soup-Superbowl-SoupBowl-Twitter-Leslie-Wai-OtEwhp0dnZF.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#113</b> Wait, I thought this was about soup. <span class="color-210">#superbowl</span> <span class="color-211">#SoupBowl</span> </a><a class="list-group-item" href="Vines/Le-Superbowl-En-France-Twitter-Blerine-Mz2IQ3we6HA.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#114</b> Le <span class="color-212">#superbowl</span> en France </a><a class="list-group-item" href="Vines/For-My-Roman-Numeral-Enthusiast-Fans-SuperBowlXLIX-SuperBowlL-SuperBowL-Ouch-Twitter-Madisonnnxo-Ot27gXMKFlq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#115</b> for my Roman numeral enthusiast fans 😎 <span class="color-213">#SuperBowlXLIX</span> <span class="color-214">#SuperBowlL</span> <span class="color-215">#SuperBowL</span> <span class="color-216">#ouch</span> </a><a class="list-group-item" href="Vines/Girl-Don't-Hide-That-Twitter-Lil-O2mvxAlLWBV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#116</b> Girl don't hide that 🙊 </a><a class="list-group-item" href="Vines/Backflip-Over-A-Moving-Airplane-PEOPLEAREAWESOME----REVINE-This-And-FOLLOW-Us-For-More-Awesome-Videos-Twitter-Michael-Nunez-OFbhnz5m6v3.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#117</b> Backflip over a moving airplane! <span class="color-217">#PEOPLEAREAWESOME</span>        ♻️REVINE this and FOLLOW us for more awesome videos!♻️ </a><a class="list-group-item" href="Vines/Newenglandpatriots-Win-The-Superbowl-And-Shut-Down-Seahawksnation-And-Loud-Mouth-RichardSherman-Gronk-Tombrady-Patriotsnation-Nfl-Twitter-JJForte-OtExTx1HPeK.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#118</b> <span class="color-218">#newenglandpatriots</span> win the <span class="color-219">#superbowl</span> and shut down <span class="color-220">#seahawksnation</span> and loud mouth <span class="color-221">#RichardSherman</span> <span class="color-222">#gronk</span> <span class="color-223">#tombrady</span> <span class="color-224">#patriotsnation</span> <span class="color-225">#nfl</span> </a><a class="list-group-item" href="Vines/National-Anthem-And-Flyby-SuperBowl-SB49-Twitter-Tayloru574eu8d1du5c14-Ot2YutOjOlM.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#119</b> National Anthem and Flyby <span class="color-226">#SuperBowl</span> <span class="color-227">#SB49</span> </a><a class="list-group-item" href="Vines/Cam-Is-On-Fire-Best-CelebrationsSuper-Bowl-Sunday-Dab-Mmd-SB50-Frozen-QueenElsa-Keeppounding-Superbowl-Twitter-Brend-I1OpLlLdKqr.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#120</b> Cam is on Fire 🔥😤Best Celebrations.Super Bowl Sunday! <span class="color-228">#dab</span>  <span class="color-229">#Mmd</span> <span class="color-230">#SB50</span> <span class="color-231">#Frozen</span> <span class="color-232">#QueenElsa</span> <span class="color-233">#keeppounding</span> <span class="color-234">#superbowl</span> </a><a class="list-group-item" href="Vines/NELLY-FRONT-ROW-SuperBowl-Weekend-UpForWhatever-Twitter-Cameron-Martin-OtQEq22IEHT.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#121</b> NELLY. FRONT ROW. <span class="color-235">#SuperBowl</span> <span class="color-236">#Weekend</span> <span class="color-237">#UpForWhatever</span> </a><a class="list-group-item" href="Vines/Played-SuperBowl-Edition-Of-TigerBoxing-W-Chompers-He-Chose-PANTHERS-Ov-Broncos-Long-Vids-IG-Twitter-Twitter-Joey-Brennan-I1KXaVM9IgY.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#122</b> Played <span class="color-238">#SuperBowl</span> edition of <span class="color-239">#TigerBoxing</span> w/ Chompers! He chose <span class="color-240">#PANTHERS</span> ov. <span class="color-241">#Broncos</span> ! Long vids- IG/Twitter </a><a class="list-group-item" href="Vines/Double-Tap-Who-You-Think-Is-Going-To-Win-The-SuperBowl-TwerkForGULLY-YouTubecom-TwerkForGULLY-Gully-Time-TwerkForGULLY-Twitter-LIL-T-OtQhZWz7I1X.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#123</b> Double tap who you think is going to win the SuperBowl!!! <span class="color-242">#TwerkForGULLY</span> YouTube.com/TwerkForGULLY Gully Time, <span class="color-242">#TwerkForGULLY</span> </a><a class="list-group-item" href="Vines/Bobthedragqueen-Superbowl-Giveafuck--Howgaysfeelaboutthesuperbowl-Twitter-Bob-The-Drag-Queen-MzQ2QDEJMXb.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#124</b> <span class="color-244">#bobthedragqueen</span> <span class="color-245">#superbowl</span> <span class="color-246">#giveafuck</span>   <span class="color-247">#howgaysfeelaboutthesuperbowl</span> </a><a class="list-group-item" href="Vines/Throwback-Of-Me-Watching-Last-Year's-SuperBowl-So-You-Know-I'm-Excited-For-Tomorrow-Twitter-Crusoe-Celebrity-Dachshund-OtHI3T1idjA.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#125</b> <span class="color-248">#Throwback</span> of me watching last year's <span class="color-249">#SuperBowl</span> - so you know I'm excited for tomorrow! </a><a class="list-group-item" href="Vines/Who-Is-Going-To-Win-The-Next-SuperBowl-NFL-Twitter-Nicholas-Rewey-5u7Wm1xUXrJ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#126</b> Who is going to win the next SuperBowl ?
+
+NFL 🔥 </a><a class="list-group-item" href="Vines/Peyton-Manning-Bronco-Fans-Be-Looking-Likelolatl-Superbowl-Twitter-Lauryn-Paige-Martin-Mz3xrV27XPl.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#127</b> Peyton Manning & Bronco Fans be looking like...<span class="color-250">#lolatl</span> <span class="color-251">#superbowl</span> </a><a class="list-group-item" href="Vines/Double-Tap-Who's-Gonna-Win-The-SuperBowl-Twitter-The-Brazo-Man-Ot0mbDZLUXv.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#128</b> Double Tap who's gonna win the SuperBowl </a><a class="list-group-item" href="Vines/When-Your-Mom-Doesn't-Want-You-To-Take-The-Car-Don't-Take-The-Car-Twitter-Winter-Flamino-OXBVu21KKD1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#129</b> When your mom doesn't want you to take the car, don't take the car... </a><a class="list-group-item" href="Vines/Stereotypical-Gay-Watching-The-Superbowl-Twitter-Shaun-Stewart-OtHlxBVt6W6.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#130</b> Stereotypical gay watching the superbowl 🏉 </a><a class="list-group-item" href="Vines/Checking-The-Air-Pressure-For-Sunday's-Game-AFV-AFVine-Deflategate-Superbowl-Fail-Twitter-Voltargirl456-OTVVlib0KUX.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#131</b> Checking the air pressure for Sunday's game. <span class="color-252">#AFV</span> <span class="color-253">#AFVine</span> <span class="color-254">#deflategate</span> <span class="color-255">#superbowl</span> <span class="color-256">#fail</span> </a><a class="list-group-item" href="Vines/Damn-You-Tom-Riddle-MaB1PeHJzqT.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#132</b> Damn You, Tom Riddle. </a><a class="list-group-item" href="Vines/HAPPY-SUPERBOWL-SUNDAY-Twitter-Myah-Ot2O5BIPPuD.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#133</b> HAPPY SUPERBOWL SUNDAY!!!!! </a><a class="list-group-item" href="Vines/Vontae-Davis-Hit-TouchDownVine-Who's-Hype-For-Super-Bowl-Sunday-Superbowl-Twitter-Half-Full-Gatorade-OtxZ9HJwFeI.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#134</b> Vontae Davis hit <span class="color-257">#TouchDownVine</span> Who's hype for Super Bowl Sunday? <span class="color-258">#Superbowl</span> </a><a class="list-group-item" href="Vines/Sunday-SuperBowl-Who-Are-You-Backing-New-England-Patriots-Or-Seattle-Seahawks-NFLUK-Twitter-DopeSocceru2122-OtOwLIWlnaM.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#135</b> Sunday = #SuperBowl. Who are you backing? New England Patriots or Seattle Seahawks? <span class="color-260">#NFLUK</span> </a><a class="list-group-item" href="Vines/Anyone-Whatch-Thw-Superbowl-Twitter-Deylynnu2b50ufe0f-OtEwK90FXYx.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#136</b> Anyone whatch thw superbowl? </a><a class="list-group-item" href="Vines/Beyond-Geeked-Up-Seahawks-Superbowl-GoHawks-Twitter-Sydney-B-MzxijA6gV3H.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#137</b> Beyond geeked up . <span class="color-261">#Seahawks</span> <span class="color-262">#superbowl</span> <span class="color-263">#GoHawks</span> 🏈💚💙 </a><a class="list-group-item" href="Vines/My-Favorite-Part-Of-The-Superbowl-Twitter-Sam-Bartlett-OFBpwqWldJ9.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#138</b> My favorite part of the <span class="color-264">#superbowl</span> </a><a class="list-group-item" href="Vines/Lmao-Seahawks-Fans-Shitty-SuperBowl-OmgMovement-SmallVinerGang-Twitter-Tykwan-Mcneill-OtEYZiwBbd5.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#139</b> Lmao Seahawks fans shitty <span class="color-265">#SuperBowl</span> <span class="color-266">#OmgMovement</span> <span class="color-267">#SmallVinerGang</span> </a><a class="list-group-item" href="Vines/Ready-Song-Spongebob-EditRanked-Twitter-Matt-Merritt-I1n3UEXWLH6.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#140</b> Ready <span class="color-268">#song</span> <span class="color-269">#spongebob</span>  <span class="color-270">#EditRanked</span> </a><a class="list-group-item" href="Vines/That-1-Weird-Uncle-That-U-Dont-See-Much-Visits-For-Superbowl-Twitter-Magnus-Loken-I1vvFJM57Wm.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#141</b> that 1 weird uncle that u dont see much visits for superbowl </a><a class="list-group-item" href="Vines/Super-Bowl-Sundae-MzUxAVBEpg1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#142</b> Super Bowl Sundae!! </a><a class="list-group-item" href="Vines/Public-Prank-6-Real-Chocolate-See-My-Profile-For-My-Other-Pranks-FavoriteMe-WainbreezeVines-Twitter-Nick-Fiume-OXMuUOvjwvv.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#143</b> Public Prank 6...... Real chocolate😪😂 (see my profile for my other pranks) <span class="color-271">#FavoriteMe</span> <span class="color-272">#WainbreezeVines</span> </a><a class="list-group-item" href="Vines/40-Year-Olds-Everywhere-Trying-To-Learn-To-Dab-With-Themorris23-Superbowl-Twitter-Snazzyhat-I15uDXvWXja.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#144</b> 40+ year olds everywhere trying to learn to dab (with @themorris23 ) <span class="color-273">#superbowl</span> </a><a class="list-group-item" href="Vines/Se-Estaba-Secando-El-Pelo-SuperBowl-Twitter-Gabii-Ruiiz-MzEmLgXFJg1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#145</b> Se estaba secando el pelo...😒 <span class="color-274">#SuperBowl</span> </a><a class="list-group-item" href="Vines/Made-This-Vine-During-Last-Year's-Superbowl-Our-First-Day-With-The-App-Thank-You-All-For-A-Great-Year-Watching-My-Son-Grow-Up-Upload-Twitter-Adrian-Mz0FiquFJV0.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#146</b> Made this Vine during last year's #Superbowl; our first day with the app. Thank you all for a great year watching my son grow up. <span class="color-276">#Upload</span> </a><a class="list-group-item" href="Vines/Super-Nap-VS-SuperBowl-Nap-Twitter-Trincity-OtQBnwTxnJp.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#147</b> Super Nap VS <span class="color-277">#SuperBowl</span> Nap... </a><a class="list-group-item" href="Vines/When-You-And-Your-Squad-Are-Going-On-The-Same-Field-Trip-Twitter-I-Should-Be-Vine-Famous-OFKEK2TUM5q.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#148</b> when you and your squad are going on the same field trip. 👻 </a><a class="list-group-item" href="Vines/Pats-About-To-Glo-Up-On-A-Sunday-Superbowl-Twitter-Game-Time-OtEAKEFbquz.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#149</b> Pats about to glo up on a Sunday 🙌 <span class="color-278">#superbowl</span> </a><a class="list-group-item" href="Vines/Biggest-Cutest-Football-Fan-Today-Superbowl-Twitter-Shawnyisbandzhandz-Ot0zAIx11qr.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#150</b> Biggest/Cutest Football Fan Today. <span class="color-279">#superbowl</span> </a><a class="list-group-item" href="Vines/2015--S-S-Ss-Twitter-Dr-Dishwasher-OTY5ntM7Wim.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#151</b> ᴡᴇᴇᴋɪ ᴡᴀᴄʜᴇᴇ ᴍᴇʀᴍᴀɪᴅ ʙᴏᴡʟ 2015 (ᴡᴀᴛᴄʜ ᴛʜᴇ ғᴜʟʟ ᴠᴇʀsɪᴏɴ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ @ᴡᴇᴇᴋɪᴡᴀᴄʜᴇᴇsᴘʀɪɴɢs) </a><a class="list-group-item" href="Vines/Superbowl-That-One-Hype-Player-During-The-National-Anthem-Twitter-Alex-Ot2P7TUwmml.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#152</b> <span class="color-280">#superbowl</span> that one hype player during the national anthem </a><a class="list-group-item" href="Vines/When-You-Dunk-On-Somebody-So-Hard-They-Instantly-Retire-Rick-Glassman-Shot-By-Chriscrutch-Superbowl-KingJames-Nike-Twitter-Maggie-Marrinson-OFuLKtnHKIj.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#153</b> When you Dunk on somebody so hard they Instantly Retire! Rick Glassman shot by chriscrutch <span class="color-281">#superbowl</span> KingJames  <span class="color-282">#nike</span> </a><a class="list-group-item" href="Vines/Superbowl-Twitter-Sweetiegotswag-Ot9mDQ3gAjw.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#154</b> <span class="color-283">#superbowl</span> 😂😂😂😂 </a><div class="box"><h1>More superbowl Vine Compilations</h1>        <div class="list-group">
+<a class="list-group-item" href="/Best-Vines-For-SUPERBOWL-Compilation---October-25,-2016-Tuesday-5091161.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-0">SUPERBOWL</span> Compilation - October 25, 2016 Tuesday </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-9,-2016-Saturday-Night-4919359.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-1">SUPERBOWL</span> on Twitter Compilation - April 9, 2016 Saturday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-9,-2016-Saturday-Night-4919358.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-2">SUPERBOWL</span> on Twitter Compilation - April 9, 2016 Saturday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-8,-2016-Friday-Night-4918832.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-3">SUPERBOWL</span> on Twitter Compilation - April 8, 2016 Friday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-8,-2016-Friday-4917757.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-4">SUPERBOWL</span> on Twitter Compilation - April 8, 2016 Friday </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-7,-2016-Thursday-Night-4916225.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-5">SUPERBOWL</span> on Twitter Compilation - April 7, 2016 Thursday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-7,-2016-Thursday-4915276.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-6">SUPERBOWL</span> on Twitter Compilation - April 7, 2016 Thursday </a><a class="list-group-item" href="/Best-Vines-For-SUPERBOWL-Compilation---April-6,-2016-Wednesday-Night-4915008.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-7">SUPERBOWL</span> Compilation - April 6, 2016 Wednesday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-6,-2016-Wednesday-Night-4914491.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-8">SUPERBOWL</span> on Twitter Compilation - April 6, 2016 Wednesday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-5,-2016-Tuesday-Night-4913605.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-9">SUPERBOWL</span> on Twitter Compilation - April 5, 2016 Tuesday Night </a></div><h1>Related Vine Compilations</h1>
+<div class="box"><a class="list-group-item" href="/Best-Vines-For-SUPERBOWL-Compilation---October-25,-2016-Tuesday-5091161.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-10">SUPERBOWL</span> Compilation - October 25, 2016 Tuesday </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-9,-2016-Saturday-Night-4919359.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-11">SUPERBOWL</span> on Twitter Compilation - April 9, 2016 Saturday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-9,-2016-Saturday-Night-4919358.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-12">SUPERBOWL</span> on Twitter Compilation - April 9, 2016 Saturday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-8,-2016-Friday-Night-4918832.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-13">SUPERBOWL</span> on Twitter Compilation - April 8, 2016 Friday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-8,-2016-Friday-4917757.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-14">SUPERBOWL</span> on Twitter Compilation - April 8, 2016 Friday </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-7,-2016-Thursday-Night-4916225.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-15">SUPERBOWL</span> on Twitter Compilation - April 7, 2016 Thursday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-7,-2016-Thursday-4915276.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-16">SUPERBOWL</span> on Twitter Compilation - April 7, 2016 Thursday </a><a class="list-group-item" href="/Best-Vines-For-SUPERBOWL-Compilation---April-6,-2016-Wednesday-Night-4915008.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-17">SUPERBOWL</span> Compilation - April 6, 2016 Wednesday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-6,-2016-Wednesday-Night-4914491.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-18">SUPERBOWL</span> on Twitter Compilation - April 6, 2016 Wednesday Night </a><a class="list-group-item" href="/Trending-Vines-For-SUPERBOWL-On-Twitter-Compilation---April-5,-2016-Tuesday-Night-4913605.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-19">SUPERBOWL</span> on Twitter Compilation - April 5, 2016 Tuesday Night </a><a class="list-group-item" href="/Trending-Vines-For-LADYGAGA-On-Twitter-Compilation---April-5,-2016-Tuesday-Night-4913604.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-20">LADYGAGA</span> on Twitter Compilation - April 5, 2016 Tuesday Night </a><a class="list-group-item" href="/Trending-Vines-For-VOTESELENAGOMEZ-On-Twitter-Compilation---April-5,-2016-Tuesday-Night-4913603.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-21">VOTESELENAGOMEZ</span> on Twitter Compilation - April 5, 2016 Tuesday Night </a><a class="list-group-item" href="/Trending-Vines-For-NXTTAKEOVER-On-Twitter-Compilation---April-5,-2016-Tuesday-Night-4913602.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-22">NXTTAKEOVER</span> on Twitter Compilation - April 5, 2016 Tuesday Night </a><a class="list-group-item" href="/Trending-Vines-For-TURKEY-On-Twitter-Compilation---April-5,-2016-Tuesday-Night-4913601.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-23">TURKEY</span> on Twitter Compilation - April 5, 2016 Tuesday Night </a><a class="list-group-item" href="/Trending-Vines-For-YANKEES-On-Twitter-Compilation---April-5,-2016-Tuesday-Night-4913600.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-24">YANKEES</span> on Twitter Compilation - April 5, 2016 Tuesday Night </a><a class="list-group-item" href="/Trending-Vines-For-ARIZONA-On-Twitter-Compilation---April-5,-2016-Tuesday-Night-4913599.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-25">ARIZONA</span> on Twitter Compilation - April 5, 2016 Tuesday Night </a></div></div></div><div class="box">
+    <div class="list-group">
+        <a class="list-group-item" href="http://www.amazon.com/?_encoding=UTF8&tag=vinewebsite-20" target="_blank"><i
+                class="fa fa-amazon fa-fw"></i>&nbsp;
+            Please consider supporting this site by Clicking Here and Bookmarking whenever you search and shop Amazon. It costs you nothing but it supports us and gives us credit and we appreciate it greatly.
+        </a>
+    </div>
+</div>
+<div class="box-cpu-ad">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Flexible Mobile -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-6547315753979149"
+         data-ad-slot="6090980310"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-mH5HUHve3C46d"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-mH5HUHve3C46d.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+</body>
+</html>
