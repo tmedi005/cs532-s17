@@ -1,0 +1,2452 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!-- optimizely -->
+  <script src="//cdn.optimizely.com/js/3380141068.js"></script>
+  <script>var initialData = null;</script>
+  <script type="text/javascript">
+	var isPhantom = (navigator.userAgent != null) && navigator.userAgent.indexOf("PhantomJS") >= 0;
+
+	var htmlEle = document.documentElement;
+
+	if (!isPhantom) {
+		htmlEle.className = htmlEle.className + " loading";
+	}
+
+	window.setTimeout(function() {
+		var htmlEle = document.documentElement;
+		htmlEle.className = htmlEle.className.replace(/(\s|^)loading(\s|$)/, " ");
+	}, 10000);
+
+	function getQueryStringParamByName(name) {
+		var name, regex, results;
+		name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+		regex = new RegExp("[\\?&]" + name + "=([^&#]*)");
+		results = regex.exec(window.location.search);
+		if (results !== null) {
+			return decodeURIComponent(results[1].replace(/\+/g, " "));
+		} else {
+			return "";
+		}
+	}
+
+	// get hash
+	window.locationHash = location.hash.substr(1);
+	</script>
+  <!-- end optimizely -->
+
+  <!-- typekit...etc? -->
+  <!--<script data-type="typekit" type="text/javascript">
+	//load typekit JS.  Code is as-is from TypeKit
+	  (function() {
+		var config = {kitId: 'ntn3ahd', scriptTimeout: 3000};
+		var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//fonts.cbsi.com/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+	  })();
+  </script>-->
+  <script type="text/javascript">
+		window.console = window.console || (function(){
+			var c = {}; c.log = c.warn = c.debug = c.info = c.error = c.time = c.dir = c.profile = c.clear = c.exception = c.trace = c.assert = function(s){};
+			return c;
+		})();
+
+		// IE10/WIN8 fix
+
+		if (window.console && !window.console.debug) {
+			window.console.debug = function(s){};
+		}
+
+	</script>
+  <!--<script>try{Typekit.load();}catch(e){}</script>-->
+  <!-- end typekit -->
+
+  <title>New England Patriots Heavily Favored to Re-Sign LeGarrette Blount - SportsLine.com</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="2aLOqjrD_NLeJs2vUWBdGbIA-H6e203yQKUpH6pYLZo" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="fragment" content="!">
+  <meta http-equiv="expires" content="0">
+  <meta http-equiv="refresh" content="21600">
+  <meta name="apple-itunes-app" content="app-id=1038113479">
+  <meta name="google-play-app" content="app-id=com.sportsline.pro">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href="/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+  <link href="/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+  <link href="/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+  <link href="../assets/img/smartbanner-android-icon-180x180.png" rel="android-touch-icon" sizes="180x180" />
+  <link href="/icon-hires.png" rel="icon" sizes="192x192" />
+  <link href="/icon-normal.png" rel="icon" sizes="128x128" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@sportsline">
+  <meta name="description" value="&amp;nbsp;                                                                                                                                          New En..."><meta name="og:description" value="&amp;nbsp;                                                                                                                                          New En..."><meta name="twitter:description" value="&amp;nbsp;                                                                                                                                          New En..."><meta name="og:title" value="New England Patriots Heavily Favored to Re-Sign LeGarrette Blount - SportsLine.com"><meta name="twitter:title" value="New England Patriots Heavily Favored to Re-Sign LeGarrette Blount - SportsLine.com"><meta name="og:site_name" value="SportsLine"><meta name="og:image" value="https://sports.cbsimg.net/images/sportsline/articles/L_article_LBlount_02_03.jpg"><meta name="twitter:image" value="https://sports.cbsimg.net/images/sportsline/articles/L_article_LBlount_02_03.jpg"><meta name="twitter:creator" value="@sportsline"><link rel="canonical" href="http://www.sportsline.com/insiders/25780403/new-england-patriots-heavily-favored-to-re-sign-legarrette-blount/"><link rel="image_src" href="https://sports.cbsimg.net/images/sportsline/articles/L_article_LBlount_02_03.jpg">
+
+  <base href="/" />
+<meta name="cbs-new/config/environment" content="%7B%22modulePrefix%22%3A%22cbs-new%22%2C%22environment%22%3A%22production%22%2C%22baseURL%22%3A%22/%22%2C%22locationType%22%3A%22auto%22%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%7D%2C%22APP%22%3A%7B%22name%22%3A%22cbs-new%22%2C%22version%22%3A%220.0.0+7dbd77e5%22%7D%2C%22exportApplicationGlobal%22%3Afalse%7D" />
+
+  <link rel="stylesheet" href="assets/vendor.css">
+  <link rel="stylesheet" href="assets/cbs-new-37e04b5612dd88328da828a2ec56c944.css">
+
+  
+</head>
+<body>
+<noscript><div id="SmartBannerGlobalWrapper"></div> 
+<div class="loading-animation">
+ <div class="loading-container">
+  <div class="loader">
+   <div class="loading-bars">
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+   </div>
+  </div>
+ </div>
+ <div class="loading-label">
+  LOADING
+ </div>
+</div> 
+<!-- misc 3rd party scripts --> 
+<!-- start AdButler DFS code --> 
+<!-- end AdButler DFS code --> 
+<!-- Smart Banner Start--> 
+<!-- Smart Banner end --> 
+<!-- Google analytics --> 
+<!-- End google analytics --> 
+<div id="ember1033" class="ember-view">
+ <!-- wrapping this with App div to support legacy jQuery nav code --> 
+ <div id="App"> 
+  <a target="_blank" href="https://secure.sportsline.com/help?help_category=CBS_Sports%3ADaily_Fantasy&amp;help_type=sportslinepro.com_sitefeedback2"> 
+   <div class="feedback-button hide"> 
+    <div class="feedback-label">
+      FEEDBACK 
+    </div> 
+    <div class="overlay"></div> 
+   </div> </a> 
+  <div id="ember1066" class="ember-view laag-container">
+   <div class="laag"> 
+    <div id="ember1393" class="ember-view buttons league-btns">
+     <nav role="navigation" class="nav-section "> 
+      <div class="nav mobile-nav "> 
+       <!----> 
+       <div class="pinned-link league-btn nav-link active" data-ember-action="1396"> 
+        <span class="link-text ">CBB</span> 
+        <!----> 
+        <span class="arrow-down"></span> 
+       </div> 
+       <!---->
+       <!----> 
+       <div class="dropdown"> 
+        <div class="league-btn nav-link inactive" data-ember-action="1399"> 
+         <span class="link-text ">ALL LEAGUES</span> 
+         <!----> 
+        </div> 
+        <div class="league-btn nav-link active" data-ember-action="1400"> 
+         <span class="link-text ">CBB</span> 
+         <!----> 
+        </div> 
+        <div class="league-btn nav-link inactive" data-ember-action="1401"> 
+         <span class="link-text ">NBA</span> 
+         <!----> 
+        </div> 
+        <div class="league-btn nav-link inactive" data-ember-action="1402"> 
+         <span class="link-text ">NHL</span> 
+         <!----> 
+        </div> 
+       </div> 
+      </div> 
+     </nav> 
+    </div> 
+    <div class="events"> 
+     <div class="events-wrap"> 
+      <a id="ember1404" href="/college-basketball/game-forecast/NCAAB_20170223_CHARSO@WINTHR/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1431"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 6:30 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             CHARSO 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ WINTHR 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 57% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 43% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> WINTHR -15.5 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1433" href="/college-basketball/game-forecast/NCAAB_20170223_UGA@BAMA/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1434"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             UGA 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ BAMA 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 44% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 56% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> BAMA -4.5 </span> 
+          <span class="change-icon "></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1436" href="/college-basketball/game-forecast/NCAAB_20170223_WKY@CHARLO/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1437"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             WKY 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ CHARLO 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 25% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 75% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> CHARLO -3 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1439" href="/college-basketball/game-forecast/NCAAB_20170223_MEMP@CINCY/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1440"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             MEMP 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ CINCY 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 63% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 37% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> CINCY -12.5 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1442" href="/college-basketball/game-forecast/NCAAB_20170223_JMAD@DREXEL/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1443"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             JMAD 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ DREXEL 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 19% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 81% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> DREXEL -2 </span> 
+          <span class="change-icon "></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1445" href="/college-basketball/game-forecast/NCAAB_20170223_JAXST@EKY/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1446"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             JAXST 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ EKY 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 65% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 35% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> JAXST -1.5 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1448" href="/college-basketball/game-forecast/NCAAB_20170223_UTEP@FAU/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1449"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             UTEP 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ FAU 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 73% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 27% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> UTEP -1 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1451" href="/college-basketball/game-forecast/NCAAB_20170223_TXSA@FIU/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1452"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             TXSA 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ FIU 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 54% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 46% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> FIU -4 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1454" href="/college-basketball/game-forecast/NCAAB_20170223_UMASS@GWASH/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1455"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             UMASS 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ GWASH 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 31% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 69% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> GWASH -4.5 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1457" href="/college-basketball/game-forecast/NCAAB_20170223_IPFW@IUPUI/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1458"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             IPFW 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ IUPUI 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 68% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 32% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> IPFW -1.5 </span> 
+          <span class="change-icon "></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1460" href="/college-basketball/game-forecast/NCAAB_20170223_NEB@MICHST/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1461"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             NEB 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ MICHST 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 35% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 65% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> MICHST -6 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1463" href="/college-basketball/game-forecast/NCAAB_20170223_LIU@MOUNT/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1464"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             LIU 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ MOUNT 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 35% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 65% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> MOUNT -6 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1466" href="/college-basketball/game-forecast/NCAAB_20170223_TOWSON@NCWILM/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1467"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             TOWSON 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ NCWILM 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 65% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 35% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> NCWILM -11 </span> 
+          <span class="change-icon "></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1469" href="/college-basketball/game-forecast/NCAAB_20170223_HOFSTRA@WMMARY/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1470"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             HOFSTRA 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ WMMARY 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 20% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 80% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> WMMARY -7.5 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1472" href="/college-basketball/game-forecast/NCAAB_20170223_NEAST@ELON/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1473"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             NEAST 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ ELON 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 21% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 79% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> ELON -4 </span> 
+          <span class="change-icon "></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1475" href="/college-basketball/game-forecast/NCAAB_20170223_DEL@CHARLS/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1476"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:30 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             DEL 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ CHARLS 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 42% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 58% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> CHARLS -14.5 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1478" href="/college-basketball/game-forecast/NCAAB_20170223_QUINN@MARIST/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1479"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:30 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             QUINN 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ MARIST 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 44% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 56% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> MARIST PK </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1481" href="/college-basketball/game-forecast/NCAAB_20170223_MURYST@SEMO/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1482"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 7:30 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             MURYST 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ SEMO 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 74% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 26% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> MURYST -1.5 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1484" href="/college-basketball/game-forecast/NCAAB_20170223_LATECH@NTEXAS/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1485"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 8:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             LATECH 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ NTEXAS 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 70% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 30% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> LATECH -10.5 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1487" href="/college-basketball/game-forecast/NCAAB_20170223_MRSHL@ODU/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1488"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 8:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             MRSHL 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ ODU 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 31% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 69% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> ODU -6.5 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1490" href="/college-basketball/game-forecast/NCAAB_20170223_USM@RICE/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1491"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 8:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             USM 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ RICE 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 71% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 29% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> RICE -17 </span> 
+          <span class="change-icon "></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1493" href="/college-basketball/game-forecast/NCAAB_20170223_PEAY@TNMART/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1494"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 8:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             PEAY 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ TNMART 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 38% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 62% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> TNMART -8 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1496" href="/college-basketball/game-forecast/NCAAB_20170223_SFLA@TULSA/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1497"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 8:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             SFLA 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ TULSA 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 29% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 71% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> TULSA -13 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1499" href="/college-basketball/game-forecast/NCAAB_20170223_SDAK@WILL/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1500"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 8:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             SDAK 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ WILL 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 78% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 22% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> SDAK -5 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1502" href="/college-basketball/game-forecast/NCAAB_20170223_UCLA@ARIZST/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1503"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 9:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             UCLA 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ ARIZST 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 68% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 32% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> UCLA -12 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1505" href="/college-basketball/game-forecast/NCAAB_20170223_NCASHV@GWEBB/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1506"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 9:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             NCASHV 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ GWEBB 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 68% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 32% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> NCASHV -1.5 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1508" href="/college-basketball/game-forecast/NCAAB_20170223_TNTECH@MOREHD/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1509"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 9:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             TNTECH 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ MOREHD 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 50% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 50% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> MOREHD -7.5 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1511" href="/college-basketball/game-forecast/NCAAB_20170223_WISC@OHIOST/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1512"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 9:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             WISC 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ OHIOST 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 74% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 26% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> WISC -5 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1514" href="/college-basketball/game-forecast/NCAAB_20170223_WEBER@EWASH/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1515"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 9:05 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             WEBER 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ EWASH 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 29% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 71% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> EWASH -3 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1517" href="/college-basketball/game-forecast/NCAAB_20170223_USC@ARIZ/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1518"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             USC 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ ARIZ 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 30% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 70% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> ARIZ -8 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1520" href="/college-basketball/game-forecast/NCAAB_20170223_IDST@IDAHO/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1521"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             IDST 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ IDAHO 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 42% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 58% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> IDAHO -10.5 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1523" href="/college-basketball/game-forecast/NCAAB_20170223_CPOLY@LNGBCH/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1524"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             CPOLY 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ LNGBCH 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 24% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 76% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> LNGBCH -8 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1526" href="/college-basketball/game-forecast/NCAAB_20170223_SANFRAN@LOYMRY/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1527"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             SANFRAN 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ LOYMRY 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 75% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 25% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> SANFRAN -2 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1529" href="/college-basketball/game-forecast/NCAAB_20170223_BYU@PORT/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1530"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             BYU 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ PORT 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 73% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 27% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> BYU -10 </span> 
+          <span class="change-icon "></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1532" href="/college-basketball/game-forecast/NCAAB_20170223_CSN@UCDAV/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1533"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             CSN 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ UCDAV 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 15% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 85% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> UCDAV -5.5 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1535" href="/college-basketball/game-forecast/NCAAB_20170223_UCRIV@UCSB/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1536"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             UCRIV 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ UCSB 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 78% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 22% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> UCRIV -2 </span> 
+          <span class="change-icon "></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1538" href="/college-basketball/game-forecast/NCAAB_20170223_GONZAG@USD/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1539"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             GONZAG 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ USD 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 66% </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 34% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> GONZAG -23 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1541" href="/college-basketball/game-forecast/NCAAB_20170223_MARYCA@PEPPER/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1542"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             MARYCA 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ PEPPER 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 43% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 57% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> MARYCA -19 </span> 
+          <span class="change-icon "></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1544" href="/college-basketball/game-forecast/NCAAB_20170223_UOP@SNCLRA/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1545"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             UOP 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ SNCLRA 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 
+             <!----> </span> 
+           </div> 
+           <div class="home "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 
+             <!----> </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> SNCLRA -9.5 </span> 
+          <span class="change-icon "></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1547" href="/college-basketball/game-forecast/NCAAB_20170223_SUTAH@PORTST/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1548"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:05 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             SUTAH 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ PORTST 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 33% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 67% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> PORTST -12 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1550" href="/college-basketball/game-forecast/NCAAB_20170223_NAU@SACST/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1551"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 10:05 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             NAU 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ SACST 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 30% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 70% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> SACST -9 </span> 
+          <span class="change-icon up"></span> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1553" href="/college-basketball/game-forecast/NCAAB_20170223_UTAH@COLO/" class="event ember-view"> 
+       <div class="event-wrap" data-ember-action="1554"> 
+        <div class="top"> 
+         <span class="left">cbb | Thu 2/23 11:00 PM</span> 
+         <!--<span class="right">{{event.createdLaagFormatted}}</span>--> 
+        </div> 
+        <div class="bottom"> 
+         <div class="team-wrap"> 
+          <div class="abbrvs-wrap"> 
+           <div class="away">
+             UTAH 
+            <!----> 
+           </div> 
+           <div class="home">
+             @ COLO 
+            <!----> 
+           </div> 
+          </div> 
+          <div class="cons-wrap"> 
+           <div class="away "> 
+            <span class="spacer">&nbsp;</span> 
+            <span class="perc-wrap"> 39% </span> 
+           </div> 
+           <div class="home highlighted"> 
+            <i class="icon consensus"></i> 
+            <span class="perc-wrap"> 61% </span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="change-wrap"> 
+          <span class="change"> COLO -2 </span> 
+          <span class="change-icon down"></span> 
+         </div> 
+        </div> 
+       </div> </a> 
+     </div> 
+    </div> 
+    <nav class="right-btns"> 
+     <div class="btn-wrap"> 
+      <span class="left-arrow" data-ember-action="1555"></span> 
+      <span class="right-arrow" data-ember-action="1556"></span> 
+     </div> 
+     <a id="ember1557" href="/college-basketball/odds/" class="ember-view"><span data-ember-action="1581">ALL ODDS</span></a> 
+    </nav> 
+   </div> 
+  </div> 
+  <!-- desktop nav --> 
+  <div id="MainNavDesktop" class=" not-logged-in   "> 
+   <a id="ember1084" href="/" class="ember-view"> 
+    <div class="logo-wrapper" data-ember-action="1120"> 
+     <div class="badge-wrapper"> 
+      <h1>SportsLine Pro Sports Picks &amp; Odds</h1> 
+      <img class="sl" src="/assets/img/logo/S-L-new.svg"> 
+     </div> 
+     <div class="text">
+      <img src="/assets/img/logo/Sportsline-text.svg">
+     </div> 
+    </div> </a> 
+   <!-- right side stuff...dropdown, help, etc --> 
+   <div id="Avatar"> 
+    <a target="_blank" class="help-link" href="https://secure.sportsline.com/help?help_category=CBS_Sports%3ASportsLinePro&amp;help_type=sportslinepro.com_knowledgehome2"> 
+     <div id="Help" data-ember-action="1121">
+      <i class="question"></i>
+     </div> </a> 
+    <div id="ember1130" class="ember-view game-search-component">
+     <div class="top-nav" data-ember-action="1131"> 
+      <i class="icon-search"></i> 
+      <span class="desktop">SEARCH</span> 
+     </div> 
+     <div class="search-wrapper "> 
+      <div class="search-field"> 
+       <input id="ember1140" type="text" class="ember-view ember-text-field"> 
+      </div> 
+      <div class="help-text show">
+        Enter Team (4 characters or more) 
+       <!----> 
+      </div> 
+      <div class="search-results"> 
+       <!----> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="signin"> 
+     <div class="smallscreen-user-btn " data-ember-action="1141"> 
+      <div class="profile"></div> 
+     </div> 
+     <div class="smallscreen-wrapper"> 
+      <a href="https://secure.sportsline.com/login?master_product=23350&amp;xurl=http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25780403%2Fnew-england-patriots-heavily-favored-to-re-sign-legarrette-blount%2F"> 
+       <div id="LoginBtn" data-ember-action="1142">
+        SIGN IN
+       </div> </a> 
+      <span data-ember-action="1143"> <a id="ember1144" href="/join/" class="become-member-link ember-view"> 
+        <div id="RegBtn"> 
+         <div class="sportsline"></div>
+         <div class="text">
+          BECOME A MEMBER
+         </div> 
+        </div> </a> </span> 
+     </div> 
+    </div> 
+   </div> 
+   <!-- main nav links --> 
+   <nav> 
+    <!----> 
+    <a href="/experts/" class="nav-link-wrapper experts-link " data-ember-action="1169"> <span>EXPERTS</span> </a> 
+    <a href="/college-basketball/picksheet/" class="nav-link-wrapper picks-v2-link " data-ember-action="1170"> <span>PICKS</span> </a> 
+    <a href="/college-basketball/odds/" class="nav-link-wrapper odds-v2-link " data-ember-action="1171"> <span>ODDS</span> </a> 
+    <a href="/nba/daily-fantasy/fantasydraft/" class="nav-link-wrapper proj-v2-link " data-ember-action="1172"> <span>DFS</span> </a> 
+    <!----> 
+   </nav> 
+  </div> 
+  <div id="MainNavMobile"> 
+   <!-- main logo --> 
+   <div class="mobile-nav-gradient"></div> 
+   <a id="ember1179" href="/" class="ember-view"> </a>
+   <div class="logo-wrapper">
+    <a id="ember1179" href="/" class="ember-view"> 
+     <div class="logo-background"></div> 
+     <div class="badge-wrapper"> 
+      <h1>SportsLine Pro Sports Picks &amp; Odds</h1> 
+      <img class="sl" src="/assets/img/logo/S-L-new.svg"> 
+     </div> 
+     <div class="mobile-title "> 
+      <!----> 
+      <span>ARTICLE</span> 
+     </div> </a>
+    <a id="ember1180" href="/" class="ember-view logo-link">
+     <div data-ember-action="1181">
+      &nbsp;
+     </div> </a> 
+   </div>  
+   <!-- background/close when nav is open --> 
+   <div class="close" data-ember-action="1182"></div> 
+   <!-- main nav links (show when nav is open) --> 
+   <nav id="ScrollableNav"> 
+    <div class="nav-wrapper"> 
+     <!----> 
+     <a href="/experts/" class="nav-link-wrapper experts-link " data-ember-action="1183"> <span class="icon"></span> <span class="">EXPERTS</span> </a> 
+     <a href="/college-basketball/picksheet/" class="nav-link-wrapper picks-link " data-ember-action="1184"> <span class="icon"></span> <span class="">PICKS</span> </a> 
+     <a href="/college-basketball/odds/" class="nav-link-wrapper odds-link " data-ember-action="1185"> <span class="icon"></span> <span class="">ODDS</span> </a> 
+     <a href="/nba/daily-fantasy/fantasydraft/" class="nav-link-wrapper dfs-link " data-ember-action="1186"> <span class="icon"></span> <span class="">DAILY FANTASY</span> </a> 
+     <a href="/college-basketball/articles/" class="nav-link-wrapper articles-link " data-ember-action="1187"> <span class="icon"></span> <span class="">ARTICLES</span> </a> 
+     <a class="nav-link-wrapper help-link" href="https://secure.sportsline.com/help?help_category=CBS_Sports%3ASportsLinePro&amp;help_type=sportslinepro.com_knowledgehome2" data-ember-action="1188"> <span class="icon"></span> <span>HELP</span> </a> 
+    </div> 
+   </nav> 
+   <div class="green-bar  not-logged-in "> 
+    <div class="burger-menu" data-ember-action="1189"></div> 
+    <div id="ember1190" class="ember-view game-search-component">
+     <div class="top-nav" data-ember-action="1191"> 
+      <i class="icon-search"></i> 
+      <span class="desktop">SEARCH</span> 
+     </div> 
+     <div class="search-wrapper "> 
+      <div class="search-field"> 
+       <input id="ember1192" type="text" class="ember-view ember-text-field"> 
+      </div> 
+      <div class="help-text show">
+        Enter Team (4 characters or more) 
+       <!----> 
+      </div> 
+      <div class="search-results"> 
+       <!----> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="LoginMobile" class="not-logged-in"> 
+     <div class="user-info"> 
+      <div id="Gear" data-ember-action="1193"> 
+      </div> 
+      <div id="Name" data-ember-action="1194"> 
+       <div class="name-field">
+        <!----> 
+        <!---->
+       </div> 
+       <div class="logout-field">
+        SIGN OUT
+       </div> 
+      </div> 
+     </div> 
+     <div data-ember-action="1195"> 
+      <a id="ember1196" href="/join/" class="ember-view"> 
+       <div id="RegBtn"> 
+        <div>
+         ALL PICKS
+        </div> 
+        <div>
+         $9.99 MONTHLY
+        </div> 
+       </div> </a> 
+     </div> 
+     <div id="SignIn" data-ember-action="1197">
+       SIGN IN 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="article-detail page"> 
+   <div class="main-content"> 
+    <div id="ember1206" class="ember-view">
+     <div class="article-social-icons"> 
+      <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25780403%2Fnew-england-patriots-heavily-favored-to-re-sign-legarrette-blount%2F"><span class="fb"></span></a> 
+      <a target="_blank" href="https://twitter.com/intent/tweet?text=New%20England%20Patriots%20Heavily%20Favored%20to%20Re-Sign%20LeGarrette%20Blount%20http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25780403%2Fnew-england-patriots-heavily-favored-to-re-sign-legarrette-blount%2F%20via%20%40sportsline"><span class="tw"></span></a> 
+      <a class="email-link" href="mailto:?subject=New England Patriots Heavily Favored to Re-Sign LeGarrette Blount&amp;body=http://www.sportsline.com/insiders/25780403/new-england-patriots-heavily-favored-to-re-sign-legarrette-blount/%0D%0A%0D%0AThe New England Patriots are clear-cut favorites to re-sign RB LeGarrette Blount, and experts question the impact he'd have on another team."><span class="em"></span></a> 
+      <a class="text-link" href="sms:?&amp;body=http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25780403%2Fnew-england-patriots-heavily-favored-to-re-sign-legarrette-blount%2F%0D%0A%0D%0AThe New England Patriots are clear-cut favorites to re-sign RB LeGarrette Blount, and experts question the impact he'd have on another team."><span class="txt"></span></a> 
+     </div> 
+    </div> 
+    <article id="ArticleMain" itemscope itemtype="http://schema.org/Article" class=""> 
+     <meta itemscope itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" content="http://www.sportsline.com/insiders/25780403/new-england-patriots-heavily-favored-to-re-sign-legarrette-blount/" itemid="http://www.sportsline.com/insiders/25780403/new-england-patriots-heavily-favored-to-re-sign-legarrette-blount/"> 
+     <header> 
+      <section class="desktop-section"> 
+       <h2 class="uppercase" itemprop="headline">New England Patriots Heavily Favored to Re-Sign LeGarrette Blount</h2> 
+       <p itemprop="description">The New England Patriots are clear-cut favorites to re-sign RB LeGarrette Blount, and experts question the impact he'd have on another team.</p> 
+       <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"> 
+        <meta itemprop="name" content="sportsline.com"> 
+        <meta itemprop="url" content="http://www.sportsline.com"> 
+        <meta itemprop="logo" content="http://www.sportsline.com/favicon.ico"> </span> 
+       <meta itemprop="name" content="25780403detail"> 
+       <section class="author-info" itemprop="author" itemscope itemtype="http://schema.org/Person"> 
+        <img src="https://sports.cbsimg.net/images/sportsline/authors/50_clear_daniel_cypra.png"> 
+        <div class="container"> 
+         <div class="top"> 
+          <div class="author-name darkGrayText"> 
+           <span class="mobile">By </span> 
+           <span itemprop="givenName">Daniel</span> 
+           <span itemprop="familyName">Cypra</span> 
+          </div> 
+          <!----> 
+         </div> 
+         <div class="bottom"> 
+          <p class="nick-name uppercase darkGrayText">
+           <!----></p> 
+          <p class="datetime">Feb 19, 7:50PM EST</p> 
+         </div> 
+        </div> 
+       </section> 
+       <meta itemprop="datePublished" content="2017-02-19T19:50:33-05:00"> 
+       <meta itemprop="dateModified" content="2017-02-20T13:31:45-05:00"> 
+       <!----> 
+      </section> 
+     </header> 
+     <section class="body-card"> 
+      <section class="body"> 
+       <span itemprop="articleBody"> <p>&nbsp;</p> 
+        <figure> 
+        </figure> 
+        <div id="embedVideoContainer_113536566864" class="embedVideo">
+         <iframe id="embedVideo_113536566864" name="embedVideo_113536566864" src="http://www.sportsline.com/video/player/embed?args=player_id%3D113536566864%26channel%3Dnfl%26pcid%3D879840323524%26width%3D640%26height%3D360%26autoplay%3Dtrue%26comp_ads_enabled%3Dfalse%26uvpc%3Dhttp%253A%252F%252Fsports.cbsimg.net%252Fvideo%252Fuvp%252Fconfig%252Fv3%252Fuvp_sportsline.xml%26uvpc_m%3Dhttp%253A%252F%252Fsports.cbsimg.net%252Fvideo%252Fuvp%252Fconfig%252Fv3%252Fuvp_sportsline_m.xml%26partner%3Dsportsline%26partner_m%3Dsportsline_mobile%26resizable%3Dtrue%26domain%3Dsportsline.com%26lazy_load%3Dtrue" width="640" height="360" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+        </div> <p><strong>New England Patriots</strong> running back LeGarrette Blount signed a one-year deal entering the 2016 season worth $1 million.</p> <p>The result: Blount led the league with 18 rushing touchdowns, two more than the next closest player and the most in Patriots history.</p> <p>Now, the Patriots have a decision to make: Sign Blount to a long-term deal, hit him with the franchise tag, or let him walk in free agency.</p> <p>Blount is a massive favorite to stay with the Patriots . According to odds posted at BookMaker.eu, he's -250 to play in Foxborough in 2017, meaning you'd have to wager $250 just to win $100.</p> <p><a href="http://www.cbssports.com/nfl/news/legarrette-blount-extremely-grateful-to-jeff-fisher-and-titans/" target="_blank"><strong>CBS SPORTS: BLOUNT GRATEFUL TO JEFF FISHER</strong></a></p> <p>Blount scored in all but two of the Patriots' regular-season games as New England went 14-2. He had six games with at least 20 carries and gave the Pats a bruising dimension on offense.</p> <p>"Blount knows he won't find a better situation than New England, and quite likely will take less money to stay," SportsLine's <a href="http://www.sportsline.com/experts/13773/larry-hartstein/">Larry Hartstein</a> said. "He'll be back to team with Dion Lewis and James White in a very deep, dynamic backfield."</p> <p>Blount just turned 30 and it's questionable whether he could command a high-dollar contract.</p> <p><iframe class="newsletter-signup embed" src="/sportsline-web/newsletter-signup-iframe.html"></iframe></p> <p>"You play this game to win, and that's all they do here is win football games and win championships," Blount told "The Rich Eisen Show."</p> <p>Also questionable is the impact he'd have on another team. Legendary Vegas oddsmaker <a href="http://www.sportsline.com/experts/33128071/kenny-white/">Kenny White</a>&nbsp;said Blount would make "zero difference" if he ended up on another team.</p> <p><a href="http://www.sportsline.com/experts/15770/zack-cimini/">Zack Cimini</a> agreed, saying New England "maximized his value." Both would take any other team besides the Patriots or the ones below landing Blount for Week 1.</p> <p>The <strong>Oakland Raiders</strong> are +500, or 5/1, to land Blount. Oakland could move on from RB Latavius Murray and try to attract Blount to complement RB DeAndre Washington.</p> <p>The <strong>New York Giants</strong>, who just cut RB Rashad Jennings, are also in the market for a back. Whether Blount would be a fit with Giants RB Paul Perkins (21 rushes for 102 yards in Week 17) remains to be seen. The Giants are 10/1 to nab Blount.</p> <p>Also in the mix for Blount's services are the <strong>Green Bay Packers</strong> at 15/1. The Packers dealt with struggles in the run game all season and RB Eddie Lacy is a free agent. But the Packers rarely spend on big-name players.</p> <p>The field ? any other NFL team ? is 2/1 to sign Blount, still an underdog to the Patriots.</p> <p><em>From BookMaker.eu: LeGarrette Blount team in Week 1 of 2017-18 regular season:</em></p> 
+        <ul> 
+         <li>New England Patriots -250</li> 
+         <li>Oakland Raiders +500</li> 
+         <li>New York Giants +1000</li> 
+         <li>Green Bay Packers +1500</li> 
+         <li>Field +200</li> 
+        </ul> </span> 
+      </section> 
+     </section> 
+     <section class="auth-bio"> 
+      <div class="content"> 
+       <div class="top"> 
+        <div class="author-img"> 
+         <img height="50" width="50" src="https://sports.cbsimg.net/images/sportsline/authors/50_clear_daniel_cypra.png"> 
+        </div> 
+        <div class="name-byline"> 
+         <div class="author-name darkGrayText">
+          Daniel Cypra
+         </div> 
+         <div class="nick-name uppercase medGrayText">
+          <!---->
+         </div> 
+        </div> 
+        <!----> 
+       </div> 
+       <div class="bio">
+        <!---->
+       </div> 
+      </div> 
+     </section> 
+    </article> 
+    <section class="more-articles"> 
+     <section class="headline"> 
+      <h3>MORE FROM THE SPORTSLINE EXPERTS</h3> 
+      <a id="ember1207" href="/nfl/articles/" class="ember-view"> <span></span> <span>SEE ALL ARTICLES</span> </a> 
+     </section> 
+     <section class="articles"> 
+      <a id="ember1246" href="/insiders/25781878/martellus-bennett-favored-to-return-to-patriots/" class="article ember-view"> 
+       <div class="wrap" data-ember-action="1247"> 
+        <div id="ember1256" class="ember-view img-section no-scale">
+         <div class="outer"> 
+          <div class="inner"> 
+           <img id="ember1265" src="https://sports.cbsimg.net/images/sportsline/articles/L_article_JEdelman_02_06.jpg" class="ember-view" style="-webkit-transform: scale(1.0133333333333334); "> 
+          </div> 
+         </div> 
+         <!----> 
+         <div class="img-overlay"></div> 
+        </div> 
+        <div class="article-info"> 
+         <div class="article-top"> 
+          <div class="author-image"> 
+           <img src="https://sports.cbsimg.net/images/sportsline/authors/50_clear_daniel_cypra.png"> 
+          </div> 
+          <div class="author-name"> 
+           <div class="author-full-name">
+             Daniel Cypra 
+           </div> 
+           <div class="author-nick"> 
+            <!----> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="article-bottom"> 
+          <div class="title uppercase"> 
+           <div id="ember1274" class="ember-view ellipses-box">
+            Martellus Bennett Favored to Return to Patriots
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1276" href="/insiders/25781738/dolphins-jets-favored-to-land-jay-cutler/" class="article ember-view"> 
+       <div class="wrap" data-ember-action="1277"> 
+        <div id="ember1278" class="ember-view img-section no-scale">
+         <div class="outer"> 
+          <div class="inner"> 
+           <img id="ember1279" src="https://sports.cbsimg.net/images/sportsline/articles/L_article_JCutler_02_22.jpg" class="ember-view" style="-webkit-transform: scale(1.0133333333333334); "> 
+          </div> 
+         </div> 
+         <!----> 
+         <div class="img-overlay"></div> 
+        </div> 
+        <div class="article-info"> 
+         <div class="article-top"> 
+          <div class="author-image"> 
+           <img src="https://sports.cbsimg.net/images/sportsline/authors/50_clear_daniel_cypra.png"> 
+          </div> 
+          <div class="author-name"> 
+           <div class="author-full-name">
+             Daniel Cypra 
+           </div> 
+           <div class="author-nick"> 
+            <!----> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="article-bottom"> 
+          <div class="title uppercase"> 
+           <div id="ember1280" class="ember-view ellipses-box">
+            Dolphins, Jets Favored to Land Jay Cutler
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1282" href="/insiders/25781003/isaiah-crowell-likely-returning-to-browns-in-2017/" class="article ember-view"> 
+       <div class="wrap" data-ember-action="1283"> 
+        <div id="ember1284" class="ember-view img-section no-scale">
+         <div class="outer"> 
+          <div class="inner"> 
+           <img id="ember1285" src="https://sports.cbsimg.net/images/sportsline/articles/L_article_ICrowell_02_21.jpg" class="ember-view" style="-webkit-transform: scale(1.0133333333333334); "> 
+          </div> 
+         </div> 
+         <!----> 
+         <div class="img-overlay"></div> 
+        </div> 
+        <div class="article-info"> 
+         <div class="article-top"> 
+          <div class="author-image"> 
+           <img src="https://sports.cbsimg.net/images/sportsline/authors/50_clear_daniel_cypra.png"> 
+          </div> 
+          <div class="author-name"> 
+           <div class="author-full-name">
+             Daniel Cypra 
+           </div> 
+           <div class="author-nick"> 
+            <!----> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="article-bottom"> 
+          <div class="title uppercase"> 
+           <div id="ember1286" class="ember-view ellipses-box">
+            Isaiah Crowell Likely Returning to Browns in 2017
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> </a>
+      <a id="ember1288" href="/insiders/25780572/surprising-favorite-emerges-to-land-adrian-peterson/" class="article ember-view"> 
+       <div class="wrap" data-ember-action="1289"> 
+        <div id="ember1290" class="ember-view img-section no-scale">
+         <div class="outer"> 
+          <div class="inner"> 
+           <img id="ember1291" src="https://sports.cbsimg.net/images/sportsline/articles/L_article_APeterson_9_16.jpg" class="ember-view" style="-webkit-transform: scale(1.0133333333333334); "> 
+          </div> 
+         </div> 
+         <!----> 
+         <div class="img-overlay"></div> 
+        </div> 
+        <div class="article-info"> 
+         <div class="article-top"> 
+          <div class="author-image"> 
+           <img src="https://sports.cbsimg.net/images/sportsline/authors/50_clear_larry_hartstein.png"> 
+          </div> 
+          <div class="author-name"> 
+           <div class="author-full-name">
+             Larry Hartstein 
+           </div> 
+           <div class="author-nick">
+             Senior Analyst 
+           </div> 
+          </div> 
+         </div> 
+         <div class="article-bottom"> 
+          <div class="title uppercase"> 
+           <div id="ember1292" class="ember-view ellipses-box">
+            Surprising favorite emerges to land Adrian Peterson
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> </a> 
+     </section> 
+    </section> 
+   </div> 
+  </div> 
+  <div id="FooterDesktop"> 
+   <div class="footer-content"> 
+    <div class="one"> 
+     <div class="logo-section"></div> 
+     <div class="copyright-section"> 
+      <div class="copyright-top">
+       © 2017 CBS INTERACTIVE INC. ALL RIGHTS RESERVED.
+      </div> 
+      <div class="copyright-bottom">
+       SportsLine is a registered service mark of SportsLine.com, Inc.
+       <br>SportsLine Pro is a service mark of SportsLine.com, Inc.
+      </div> 
+     </div> 
+    </div> 
+    <div class="filler-col"></div> 
+    <div class="two"> 
+     <a id="PrivacyLink" target="_blank" href="https://www.cbsinteractive.com/legal/cbsi/privacy-policy" data-ember-action="1301">PRIVACY POLICY</a> 
+     <a target="_blank" href="https://www.cbsinteractive.com/legal/cbsi/terms-of-use" data-ember-action="1302">CBSi TERMS OF USE</a> 
+     <a href="/terms-of-use" data-ember-action="1303">SPORTSLINE TERMS OF USE</a> 
+     <a target="_blank" href="https://www.cbsinteractive.com/legal/cbsi/mobile-eula" data-ember-action="1304">MOBILE USER AGREEMENT</a> 
+    </div> 
+    <div class="filler-col"></div> 
+    <div class="three"> 
+     <a target="_blank" href="https://secure.sportsline.com/help?help_category=CBS_Sports%3ASportsLinePro&amp;help_type=sportslinepro.com_knowledgehome2" data-ember-action="1305">FAQ/HELP</a> 
+     <a target="_blank" href="http://www.cbsinteractive.com/careers" data-ember-action="1306">CAREERS</a> 
+    </div> 
+    <div class="filler-col"></div> 
+    <div class="four"> 
+     <div class="partnerships"> 
+      <p>In partnership with...</p> 
+      <a href="http://www.247sports.com/"> <img src="/assets/img/247-logo-white-trans.png" alt="http://www.247sports.com/"> </a> 
+     </div> 
+     <div class="social-section"> 
+      <span>FOLLOW US:</span> 
+      <a target="_blank" href="https://www.facebook.com/sportsline" data-ember-action="1307"> <span class="facebook"></span> </a> 
+      <a target="_blank" href="https://twitter.com/sportsline" data-ember-action="1308"> <span class="twitter"></span> </a> 
+     </div> 
+     <div class="covers-section"> 
+      <div class="text">
+       Statistical support provided by
+      </div> 
+      <div class="covers-img"></div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="FooterMobile"> 
+   <div class="footer-content"> 
+    <div class="one"> 
+     <div class="logo-section"></div> 
+    </div> 
+    <div class="two"> 
+     <div class="left"> 
+      <a id="PrivacyLink" target="_blank" href="https://www.cbsinteractive.com/legal/cbsi/privacy-policy">PRIVACY POLICY</a> 
+      <a target="_blank" href="https://www.cbsinteractive.com/legal/cbsi/terms-of-use">CBSi TERMS OF USE</a> 
+      <a href="/terms-of-use">SPORTSLINE TERMS OF USE</a> 
+      <a target="_blank" href="https://www.cbsinteractive.com/legal/cbsi/mobile-eula">MOBILE USER AGREEMENT</a> 
+      <a target="_blank" href="https://secure.sportsline.com/help?help_category=CBS_Sports%3ASportsLinePro&amp;help_type=sportslinepro.com_knowledgehome2">FAQ/HELP</a> 
+      <a target="_blank" href="http://www.cbsinteractive.com/careers">CAREERS</a> 
+     </div> 
+     <div class="right"> 
+      <div class="partnerships"> 
+       <p>In partnership with...</p> 
+       <a href="http://www.247sports.com/"> <img src="/assets/img/247-logo-white-trans.png" alt="http://www.247sports.com/"> </a> 
+      </div> 
+      <div class="social-section"> 
+       <span>FOLLOW US:</span> 
+       <a target="_blank" href="https://www.facebook.com/sportsline"> <span class="facebook"></span> </a> 
+       <a target="_blank" href="https://twitter.com/sportsline"> <span class="twitter"></span> </a> 
+      </div> 
+      <div class="covers-section"> 
+       <div class="text">
+        Live Odds
+        <br>Provided by
+       </div> 
+       <img src="/assets/img/logo/sportsline-direct.svg" height="31" width="230" alt="sportsline direct"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="three"> 
+     <a target="_blank" href="https://secure.sportsline.com/help?help_category=CBS_Sports%3ADaily_Fantasy&amp;help_type=sportslinepro.com_sitefeedback2"> 
+      <div class="feedback-button hide"> 
+       <div class="feedback-label">
+         FEEDBACK 
+       </div> 
+       <div class="overlay"></div> 
+      </div> </a> 
+     <div class="copyright-section"> 
+      <div class="copyright-top">
+       © 2017 CBS INTERACTIVE INC. ALL RIGHTS RESERVED.
+      </div> 
+      <div class="copyright-bottom">
+       SportsLine is a registered service mark of SportsLine.com, Inc.
+       <br>SportsLine Pro is a service mark of SportsLine.com, Inc.
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div>
+<div id="seocanary"></div>
+<div id="backend_seocanary"></div></noscript>
+
+<div id="SmartBannerGlobalWrapper"></div>
+<div class="loading-animation"><div class="loading-container"><div class="loader"><div class="loading-bars"><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div></div></div></div><div class="loading-label">LOADING</div></div>
+
+
+<script src="assets/vendor-7b5bacbd46267fe5a33f9034ae2be023.js"></script>
+<script src="assets/cbs-new-610d920dd7681313d4d47247d5f1a473.js"></script>
+
+
+
+<!-- misc 3rd party scripts -->
+
+<script type="text/javascript">
+
+	/*
+	 * Monitor state change of the location href and call optimizely.activate
+	 */
+
+	function hashHandler() {
+	  var self = this;
+	  this.oldHash = "";
+
+	  var detect = function() {
+		if (self.oldHash != window.location.href) {
+		  // Hash has changed
+		  self.oldHash = window.location.href;
+
+		  if (typeof window.optimizely != "undefined") {
+			try {
+			  window.optimizely.push(["activate"]);
+			} catch (e) {
+				console.error("error activating optimizely");
+			}
+	   }
+		}
+	  };
+
+	  setInterval(function(){detect();}, 1000);
+		detect();
+	}
+
+	hashHandler();
+
+	// functions for generating guid
+	function unparse(a, c) {
+		var _byteToHex = [];
+		var _hexToByte = {};
+		for (var i = 0; i < 256; i++) {
+			_byteToHex[i] = (i + 256).toString(16).substr(1);
+			_hexToByte[_byteToHex[i]] = i
+		}
+		var b = c || 0, d = _byteToHex;
+		return d[a[b++]] + d[a[b++]] + d[a[b++]] + d[a[b++]] + "-" + d[a[b++]] + d[a[b++]] + "-" + d[a[b++]] + d[a[b++]] + "-" + d[a[b++]] + d[a[b++]] + "-" + d[a[b++]] + d[a[b++]] + d[a[b++]] + d[a[b++]] + d[a[b++]] + d[a[b++]]
+	}
+	_rng = function() {
+		var _rnds = new Array(16);
+		for (var a = 0, b; a < 16; a++) {
+			if ((a & 3) === 0) {
+				b = Math.random() * 4294967296;
+			}
+			_rnds[a] = b >>> ((a & 3) << 3) & 255;
+		}
+		return _rnds;
+	}
+	function v1(p, d, h) {
+		var _seedBytes = _rng();
+		var _nodeId = [_seedBytes[0] | 1, _seedBytes[1], _seedBytes[2], _seedBytes[3], _seedBytes[4], _seedBytes[5]];
+		var _clockseq = (_seedBytes[6] << 8 | _seedBytes[7]) & 16383;
+		var _lastMSecs = 0, _lastNSecs = 0;
+
+		var j = d && h || 0;
+		var k = d || [];
+		p = p || {};
+		var g = p.clockseq != null ? p.clockseq : _clockseq;
+		var a = p.msecs != null ? p.msecs : new Date().getTime();
+		var o = p.nsecs != null ? p.nsecs : _lastNSecs + 1;
+		var c = (a - _lastMSecs) + (o - _lastNSecs) / 10000;
+		if (c < 0 && p.clockseq == null) {
+			g = g + 1 & 16383;
+		}
+		if ((c < 0 || a > _lastMSecs) && p.nsecs == null) {
+			o = 0;
+		}
+		if (o >= 10000) {
+			console.log('uuid.v1(): Canâ€™t create more than 10M uuids/sec');
+		}
+		_lastMSecs = a;
+		_lastNSecs = o;
+		_clockseq = g;
+		a += 12219292800000;
+		var m = ((a & 268435455) * 10000 + o) % 4294967296;
+		k[j++] = m >>> 24 & 255;
+		k[j++] = m >>> 16 & 255;
+		k[j++] = m >>> 8 & 255;
+		k[j++] = m & 255;
+		var l = (a / 4294967296 * 10000) & 268435455;
+		k[j++] = l >>> 8 & 255;
+		k[j++] = l & 255;
+		k[j++] = l >>> 24 & 15 | 16;
+		k[j++] = l >>> 16 & 255;
+		k[j++] = g >>> 8 | 128;
+		k[j++] = g & 255;
+		var f = p.node || _nodeId;
+		for (var e = 0; e < 6; e++) {
+		k[j + e] = f[e]
+		}
+		return d ? d : unparse(k)
+	};
+
+	// cookie maintenance
+
+	function setCookie (name, value, expires) {
+		if (!expires) expires = new Date();
+		document.cookie = name + "=" + value + "; expires=" + expires.toGMTString() +";domain=.sportsline.com; path=/";
+	}
+
+	function readCookie(name) {
+		if(document.cookie == '') {
+		return false;
+		} else {
+		var firstChar, lastChar;
+		var theBigCookie = document.cookie;
+		name = name + '=';
+		firstChar = theBigCookie.indexOf(name);
+		if (firstChar != -1) {
+			firstChar += name.length;
+			lastChar = theBigCookie.indexOf(';', firstChar);
+			if(lastChar == -1) lastChar = theBigCookie.length;
+			return unescape(theBigCookie.substring(firstChar, lastChar));
+		} else {return false;}
+		}
+	}
+
+	function killCookie(name, path, domain) {
+	  var theValue = readCookie(name);
+	  if(theValue) {
+			// set an already-expired cookie
+			document.cookie = name + '=' + theValue + '; expires=Fri, 13-Apr-1970 00:00:00 GMT' + ((path)?';path=' + path:'') + ((domain)?';domain=' + domain:'');
+	  }
+	}
+
+function getValue(cookieName,name) {
+	cookieValue=readCookie(cookieName)
+	findString=name;
+	if (cookieValue) {
+		namePos=cookieValue.indexOf(findString,0);
+		if (namePos==-1) {return false;}
+		valueStart=(cookieValue.indexOf('&',namePos+1)+1);
+		valueEnd=cookieValue.indexOf('&',valueStart+1);
+		if (valueEnd==-1)  valueEnd=cookieValue.length;
+		valueIs=cookieValue.substring(valueStart,valueEnd)
+		if (namePos!=null) {return valueIs;}
+	}
+	else {return false;}
+}
+
+	// end cookie maint.
+
+document.domain = "sportsline.com";
+
+</script>
+
+
+<!-- start AdButler DFS code -->
+
+<script type="text/javascript">
+	if (!window.AdButler) {
+		(function() {
+			var s = document.createElement("script");
+			s.async = true;
+			s.type = "text/javascript";
+			s.src = 'http://ab167377.adbutler-chargino.com/app.js';
+			var n = document.getElementsByTagName("script")[0];
+			n.parentNode.insertBefore(s, n);
+		}());
+	}
+</script>
+<script type="text/javascript">
+	var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+	var abkw = window.abkw || '';
+	var plc219028 = window.plc219028 || 0;
+	var plc219029 = window.plc219029 || 0;
+	var plc219027 = window.plc219027 || 0;
+</script>
+
+<!-- end AdButler DFS code -->
+
+<script type="text/javascript">window.twttr = (function(d, s, id) {
+ var js, fjs = d.getElementsByTagName(s)[0],
+   t = window.twttr || {};
+ if (d.getElementById(id)) return t;
+ js = d.createElement(s);
+ js.id = id;
+ js.src = "https://platform.twitter.com/widgets.js";
+ fjs.parentNode.insertBefore(js, fjs);
+
+ t._e = [];
+ t.ready = function(f) {
+   t._e.push(f);
+ };
+ return t;
+}(document, "script", "twitter-wjs"));</script>
+<script type="text/javascript">
+   jQuery.support.cors = true;
+</script>
+<script type="text/javascript" src="//platform.instagram.com/en_US/embeds.js?t=1438203801987" defer="defer"></script>
+
+<!-- Smart Banner Start-->
+<script src="vendor/smart-app-banner/smart-app-banner-customized.js"></script>
+<script type="text/javascript">
+   new SmartBanner({
+	   daysHidden: 7,   // days to hide banner after close button is clicked (defaults to 15)
+	   daysReminder: 7, // days to hide banner after "VIEW" button is clicked (defaults to 90)
+	   maxVisits:5, // visits after which to show the banner if closing it was done with the close button
+	   appStoreLanguage: 'us', // language code for the App Store (defaults to user's browser language)
+	   title: 'Sportsline',
+	   author: 'Official App',
+	   button: 'OPEN',
+	   store: {
+		   ios: 'App Store',
+		   android: 'Google',
+		   windows: 'Windows Store'
+	   },
+	   price: {
+		   ios: 'Free',
+		   android: 'Free',
+		   windows: 'Free'
+	   }
+	   // , force: 'ios' // Uncomment for platform emulation
+   });
+
+   $(window).load(function() {
+	   positionSmartBanner(false);
+   });
+
+   function positionSmartBanner(bannerHideEventTrigger){
+	   var smartbannerHeight=0;
+	   var elementsToChange=["#MainNavMobile .mobile-nav-gradient", "#MainNavMobile .logo-wrapper", "#MainNavMobile .close", "#MainNavMobile .green-bar", "#MainNavDesktop"];
+
+	   if (show_smart_banner) {
+		   // Display Banner //
+		   $("#SmartBannerGlobalWrapper").css("display", "block");
+
+		   // Make sure DOM is loaded.  If not, try again.
+		   $.each(elementsToChange, function(index, value) {
+			   if($(value).height()==null)
+			   {
+				   setTimeout(function(){
+					   positionSmartBanner(false);
+				   }, 1500);
+				   return false;
+			   }
+		   });
+
+		   // Set Vars
+		   smartbannerHeight=$('#SmartBannerGlobalWrapper').height();
+		   var greenBarHeight = $('.green-bar').outerHeight();
+
+		   // Sets the Element CSS
+		   $.each(elementsToChange, function(index, value) {
+			   if (value!="#MainNavDesktop")
+			   {
+				   $(value).css("top", smartbannerHeight + "px");
+			   }
+			   else
+			   {
+				   $(value).css("top", (smartbannerHeight) + "px");
+			   }
+		   });
+	   }
+
+	   // This runs if the close or button is clicked
+	   if (bannerHideEventTrigger)
+	   {
+		   // Get the nav padding
+		   var navPadding = ($('#ScrollableNav').height() - $('#ScrollableNav .nav-wrapper').height()) / 2;
+
+		   // Hide the Banner Wrapper
+		   $("#SmartBannerGlobalWrapper").css("display", "none");
+
+		   // Reset Positioning
+		   $.each(elementsToChange, function(index, value) {
+			   if (value!="#MainNavDesktop")
+			   {
+				   $(value).css("top", "0");
+			   }
+			   else
+			   {
+				   $(value).css("top", "0");
+			   }
+		   });
+
+		   var isNavOpen= $("#MainNavMobile .close").css("display")=="block" ? true: false;
+
+		   if (isNavOpen) {
+			   $("body #App").css({"top": window.innerHeight - greenBarHeight});
+			   $('#ScrollableNav').find('.nav-wrapper').css({"padding-top": "" + navPadding + "px"});
+			   $("html body #App").addClass("noTransitions");
+			   setTimeout(function(){
+				   $("html body #App").find('.page').css({"margin-top": "0px"});
+				   $("html body, html body #App").removeClass("noTransitions");
+			   }, 500);
+		   }
+	   }
+   }
+</script>
+<!-- Smart Banner end -->
+<!-- Google analytics -->
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	//ga('create', 'UA-80763882-1', 'auto');
+</script>
+<!-- End google analytics -->
+</body>
+</html>

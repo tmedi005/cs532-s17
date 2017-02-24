@@ -1,0 +1,41 @@
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="    Migos Is Interested In Joining Lady Gaga During Super Bowl LI Halftime Show    ">
+
+        <meta name="twitter:description" content="&quot;We ain&#39;t tryna take Lady Gaga off, we just wanna slide in first&#160;real quick. Let us get in there.&quot;">
+
+    <meta name="twitter:image" content="http://static.vibe.com/files/2017/02/migos-super-bowl-comments-1485996274-160x160.jpg">
+
+    <title>    Migos Is Interested In Joining Lady Gaga During Super Bowl LI Halftime Show    </title>
+    <meta name="description" content="&quot;We ain&#39;t tryna take Lady Gaga off, we just wanna slide in first&#160;real quick. Let us get in there.&quot;"/>
+</head>
+<body>
+<div>
+
+
+    <img src="http://static.vibe.com/files/2017/02/migos-super-bowl-comments-1485996274-160x160.jpg">
+
+
+    <script language="JavaScript" type="text/JavaScript">
+
+
+        setTimeout(function() {
+
+
+            window.location.replace("http://www.vibe.com/2017/02/migos-superbowl-halftime-show/");
+
+
+        }, 0);
+
+
+    </script>
+
+</div>
+</body>
+</html>

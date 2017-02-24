@@ -1,0 +1,468 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" /><title>Top 14 Doritos Super Bowl Commercials - Ten Best Funny Superbowl Ads - YouTube - Linkis.com</title>
+    <style>
+        html, body {margin:0;padding:0;height:100%;}
+        body {overflow:hidden;}
+        .show-panel,.social-panel,.slidedown-popup,#big-popup,.modal-popup,.global-modal-popup,.autoposting-bar,.show-visitors-tooltip,.theme-cta2-minimize,.theme19-xmaspic,.reauthorize {display:none;}
+        .iframe-holder,.iframe-box {display: none;}        
+.iframe-holder{position:absolute;top:49px;bottom:0;left:0;right:0;z-index:0;}
+            </style>
+
+    <meta property="og:image" content="https://i.ytimg.com/vi/8vVIUBU1gZs/maxresdefault.jpg" />
+<meta property="og:description" content="This video is NOT sponsored by Doritos, we just love their Super Bowl commercials! Top 30 Superbowl Ads of ALL TIME ►► https://www.youtube.com/watch?v=xsTG8D..." />
+<meta property="og:site_name" content="YouTube" />
+<meta property="og:url" content="https://www.youtube.com/watch?v=8vVIUBU1gZs" />
+<meta property="og:title" content="Top 14 Doritos Super Bowl Commercials - Ten Best Funny Superbowl Ads" />
+<meta property="og:type" content="video" />
+<meta property="og:video:url" content="http://www.youtube.com/v/8vVIUBU1gZs?version=3&amp;autohide=1" />
+<meta property="og:video:secure_url" content="https://www.youtube.com/v/8vVIUBU1gZs?version=3&amp;autohide=1" />
+<meta property="og:video:type" content="application/x-shockwave-flash" />
+<meta property="og:video:width" content="1280" />
+<meta property="og:video:height" content="720" />
+<meta property="og:video:tag" content="MediocreFilms" />
+<meta name="title" content="Top 14 Doritos Super Bowl Commercials - Ten Best Funny Superbowl Ads" />
+<meta name="keywords" content="Super Bowl 50, Super Bowl (Sports League), Sports Game (Industry), National Football League, NFL, Football (Interest), American Football (Sport), Commercial,..." />
+<meta name="theme-color" content="#e62117" />
+<meta name="twitter:card" content="player" />
+<meta name="twitter:site" content="@youtube" />
+<meta name="twitter:url" content="https://www.youtube.com/watch?v=8vVIUBU1gZs" />
+<meta name="twitter:title" content="Top 14 Doritos Super Bowl Commercials - Ten Best Funny Superbowl Ads" />
+<meta name="twitter:description" content="This video is NOT sponsored by Doritos, we just love their Super Bowl commercials! Top 30 Superbowl Ads of ALL TIME ►► https://www.youtube.com/watch?v=xsTG8D..." />
+<meta name="twitter:image" content="https://i.ytimg.com/vi/8vVIUBU1gZs/maxresdefault.jpg" />
+<meta name="twitter:app:name:iphone" content="YouTube" />
+<meta name="twitter:app:id:iphone" content="544007664" />
+<meta name="twitter:app:name:ipad" content="YouTube" />
+<meta name="twitter:app:id:ipad" content="544007664" />
+<meta name="twitter:app:url:iphone" content="vnd.youtube://www.youtube.com/watch?v=8vVIUBU1gZs&amp;feature=applinks" />
+<meta name="twitter:app:url:ipad" content="vnd.youtube://www.youtube.com/watch?v=8vVIUBU1gZs&amp;feature=applinks" />
+<meta name="twitter:app:name:googleplay" content="YouTube" />
+<meta name="twitter:app:id:googleplay" content="com.google.android.youtube" />
+<meta name="twitter:app:url:googleplay" content="https://www.youtube.com/watch?v=8vVIUBU1gZs" />
+<meta name="twitter:player" content="https://www.youtube.com/embed/8vVIUBU1gZs" />
+<meta name="twitter:player:width" content="1280" />
+<meta name="twitter:player:height" content="720" />
+<meta name="description" content="This video is NOT sponsored by Doritos, we just love their Super Bowl commercials! Top 30 Superbowl Ads of ALL TIME ►► https://www.youtube.com/watch?v=xsTG8D..." /><link href="/favicon.ico" rel="icon" type="image/png" />
+<link href="http://linkis.com/youtube.com/Top_14_Doritos_Super.html" rel="canonical" />
+<link href="https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico" rel="icon" type="image/x-icon" />
+<link href="/images/apple/apple-touch-icon-144x144.png" rel="apple-touch-icon" size="144x144" />
+<link href="/images/apple/apple-touch-icon-72x72.png" rel="apple-touch-icon" size="72x72" />
+<link href="/images/apple/apple-touch-icon-57x57.png" rel="apple-touch-icon" size="57x57" />
+    <script type="text/javascript">
+        var LNG = {};
+        var customAuthRedirect = null;
+            </script>
+
+    
+    <script type="text/javascript">
+
+
+    function __log(val){}
+
+    function hihit(id) {
+        if (id) {
+            var url = "http://stat.linkis.com/log.php?id=" + id + "&r=" + Math.round(100000 * Math.random());
+            var im = new Image();
+            im.src = url;
+        }
+    }
+
+
+function refreshPage()
+{
+    location.href = location.href.split('#')[0];
+    setTimeout(function(){
+        if (window.hihit) hihit(2580);
+    }, 10000);
+}
+function redirectPage(url)
+{
+    location.href = url;
+}
+function restoreUserAvatar(img, uid)
+{
+    img.onerror = null;
+    img.setAttribute('data-orig-image', img.src);
+    img.src = '/index/restore-avatar/uid/' + uid;
+
+}
+/**
+ *
+ * @param action
+ * @param label
+ * @param category
+ * @param params
+ *     - {int} [theme] - force set theme
+ */
+function lnEvent(action, label, category, params)
+{
+    
+    if($.isArray(action)) {
+        var hash   = lnEventGenerateHash((action[0][0] || '') + (action[0][1] || '') + (action[0][2] || ''));
+            action = JSON.stringify(action);
+    } else {
+        var hash = lnEventGenerateHash((action || '') + (label || '') + (category || ''));
+    }
+
+    var path = ['', 'index', 'ln-event'].join('/');
+    var e = function(str){ return str ? encodeURIComponent(str) : ''; };
+
+    if(typeof(params) != 'undefined' && typeof(params.theme) != 'undefined'){
+        var theme = params.theme;
+    }else{
+        var theme = window.LinkData ? LinkData.curTheme : 0;
+    }
+    var version = window.LinkData ? LinkData.themeVersion : '';
+    var is_author = window.LinkData ? LinkData.is_author : 0;
+
+    params = params || {};
+
+    (new Image()).src = path +
+        '?c=' + e(category) +
+        '&a=' + e(action) +
+        '&l=' + e(label) +
+        '&t=' + e(theme) +
+        '&h='  + hash +
+        '&v='  + e(version) +
+        '&isa='  + e(is_author) +
+        '&p='  + e(JSON.stringify(params)) +
+        '&r=' + Math.random();
+}
+
+function lnEventGenerateHash(str) {
+    var hash = '';
+    var length = str.length;
+    var step = (length < 5) ? 2 : Math.floor(length / 5);
+
+    var codeSumFunction = function(codeSum) {
+        var num = 0;
+        for(var j = 0; j < codeSum.toString().length; j++) {
+            num += parseInt(codeSum.toString().substr(j, 1), 10);
+        }
+
+        return num;
+    };
+
+    var codeSum = 0;
+    for(var i = 0; i < length; i++) {
+        var char = str.substr(i, 1);
+
+        if(i % step == 0 && char != ' ') {
+            var num = codeSumFunction(codeSum);
+            hash += num + '' + char;
+            codeSum = 0;
+        } else {
+            codeSum += str.charCodeAt(i);
+        }
+    }
+
+    if(codeSum) hash += codeSumFunction(codeSum);
+
+    return hash;
+}
+
+</script>
+    
+<script type="text/javascript">
+window.NL_APP_DATA = {
+    user:{
+        isLogged: false,
+        type: 'tw',
+        hasTw: true
+    },
+    redirect_after_auth: '/',
+    controller: 'index',
+    action: 'show',
+    cookies:{
+        notification_enabled: 'notification_enabled'
+    },
+    show_welcome_popup: 0,
+
+        
+    show_comeback_popup: 0,
+    stat_id: null,
+    nopopups: 0,
+    addThisSrc: 'http://s7.addthis.com/js/300/addthis_widget.js#async=1&pubid=',
+    addThisId: 'ra-513082ca32a826c6',
+    referrer_link: '',
+    referrer_name: '',
+    referrer_type: 0,
+    cookie_domain: '.linkis.com',
+	sessCookieName: 'LNSESS',
+    popupsHtml: {},
+    fbAppId: 318962828183539};
+
+window.onerror = function(msg, url, line, col, error_obj)
+{
+    hihit(3282);
+
+    var path  = ['', 'index', 'js-error'].join('/');
+    var page  = 'index/show';
+
+    (new Image()).src = path +
+        '?m=' + encodeURIComponent(msg) +
+        '&u=' + encodeURIComponent(url) +
+        '&l=' + encodeURIComponent(line) +
+        '&c=' + encodeURIComponent(col) +
+        '&o=' + encodeURIComponent(error_obj) +
+        '&p=' + encodeURIComponent(page) +
+        '&r=' + Math.random();
+}
+
+</script>
+
+</head>
+<body
+    data-controller="index"
+    data-action="show"
+    data-fb-app-id="318962828183539"
+    class="show gray-social-page gray-social-page_youtube guest lang-en"    >
+
+
+<script type="text/javascript">
+    var LinkData = {"id":387970975,"shortUrl":"gzfT7","longUrl":"https:\/\/www.youtube.com\/watch?v=8vVIUBU1gZs&feature=youtu.be&a","fullShortPath":"\/www.youtube.com\/gzfT7","baseAliasLink":"http:\/\/ln.is\/www.youtube.com\/gzfT7","baseShortAliasLink":"http:\/\/ln.is\/www.youtube.com\/gzfT7","caption":"I liked a @YouTube video  Top 14 Doritos Super Bowl Commercials - Ten Best Funny Superbowl Ads","author_id":911665,"isTwitterLogged":true,"curTheme":11,"parentTheme":11,"originalTitle":"Top 14 Doritos Super Bowl Commercials - Ten Best Funny Superbowl Ads - YouTube","show_aw_popup":1,"popupTimer":3000,"saveClientStat":true,"showSilentPopup":1,"graylistLabel":"youtube","linkSrcType":2,"srcTypeLabel":"auto wrap","splitCtaThemeVersion":1,"showVtwAw":2,"authorLinkLocale":"en","localeCurrentUser":"en","dgAuthWelcomeVersion":3};
+</script><script type="text/javascript">
+
+    /** @var Themes */
+    var Themes = {
+        THEME_11: 11,
+        THEME_12: 12,
+        THEME_13: 13,
+        THEME_14: 14,
+        THEME_15: 15,
+        THEME_16: 16,
+        THEME_17: 17,
+        THEME_18: 18,
+        THEME_19: 19,
+        THEME_20: 20
+    };
+
+    var LNG = LNG || {};
+    LNG['caption'] = "Caption";
+    LNG['show.empty_caption'] = "Empty caption";
+    LNG['js.tools.blocker'] = "Please disable your pop-up blocker and redo your last action";
+
+
+    var AUTH_PARAMS = {};
+    var THEME_AUTH_PARAMS = {};
+
+
+    var TWITTER_ENABLED = true;
+</script>
+
+    <!-- Interstitial banner desktop -->
+    
+    <div class="iframe-holder">
+        
+<div class="social-page js-youtube-page">
+    <div class="youtube-smallText">
+        Linkis.com is showing you the most important part of the page. <a href="https://www.youtube.com/watch?v=8vVIUBU1gZs&feature=youtu.be&a" class="js-youtube-ln-event">See&nbsp;full&nbsp;version</a>    </div>
+
+    <div class="youtube-videoContainer">
+        <iframe class="youtube-video" width="730" height="380" src="https://www.youtube.com/embed/8vVIUBU1gZs?hl=en" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="youtube-wrapper">
+
+                <div class="youtube-header">
+            <div class="youtube-resize">
+                <span class="resize-label">Size</span>
+                <span class="resize-btn js-change-size is-active" data-size="0"></span>
+                <span class="resize-btn resize-btn_large  js-change-size" data-size="1"></span>
+            </div>
+            <div class="header-title">Top 14 Doritos Super Bowl Commercials - Ten Best Funny Superbowl Ads</div>
+
+            <div class="header-main clearfix">
+                <a class="header-chanel" href="https://www.youtube.com/channel/UCNYP_JPYClobmWs3C-kosgg">
+                    <img class="header-avatar" src="https://yt3.ggpht.com/-FCKg3r1Anas/AAAAAAAAAAI/AAAAAAAAAAA/_0gw7mSaUPY/s240-c-k-no/photo.jpg" alt="mediocrefilms2"/>
+                    <span class="header-author js-author-name">mediocrefilms2</span>
+                </a>
+
+                <div class="youtube-subscribe">
+                    <div class="g-ytsubscribe" data-channelid="UCNYP_JPYClobmWs3C-kosgg" data-layout="default" data-count="default"  data-onytevent="onYtEvent"></div>
+                </div>
+            </div>
+
+            <div class="youtube-details">
+                <div class="youtube-description">
+                    <span class="youtube-published">Published: February 02, 2016</span>
+
+                                            <div class="description-data description-data_hidden">
+                            <div class="description-text">
+                                This video is NOT sponsored by Doritos, we just love their Super Bowl commercials ! <br />
+Top 30 Superbowl Ads of ALL TIME ►► <a target="_blank" href="https://www.youtube.com/watch?v=xsTG8Do2q1o">www.youtube.com/watch?v=xsTG8Do2q1o</a><br />
+Sexiest Superbowl Ads ►► <a target="_blank" href="http://youtu.be/ixhYk4q0fK8">youtu.be/ixhYk4q0fK8</a><br />
+Top 10 Funniest Superbowl Ads ►► <a target="_blank" href="http://youtu.be/zLtAOhol_jo">youtu.be/zLtAOhol_jo</a><br />
+<br />
+Check out <a target="_blank" href="http://www.youtube.com/MediocreFilms">www.youtube.com/MediocreFilms</a> on Sunday to see the Top Ten Commercials from the Big Game with the Carolina Panthers and the Denver Broncos !<br />
+SUBSCRIBE ! <a target="_blank" href="http://bit.ly/SubMF">bit.ly/SubMF</a><br />
+POSITIVE PRANKS ! <a target="_blank" href="http://bit.ly/MFpranks">bit.ly/MFpranks</a><br />
+<br />
+This year's average Super Bowl commercial price is approximately $5 million for a 30-second commercial, a more than 10% increase from last year.                            </div>
+                            <div class="description-params">
+                                <div class="description-param"><b>Category</b> Comedy</div>
+                                <div class="description-param"><b>License</b> Standard YouTube License</div>
+                            </div>
+                        </div>
+                        <div class="description-show"><a href="javascript:void(0);" class="js-show-description">Show more</a></div>
+                                    </div>
+
+                <div class="youtube-actions">
+                    <div class="actions-views"><span class="views-value">1,224,510</span>
+                        <span class="views-label">views</span></div>
+
+                    <span class="actions-item ico-thumb-up">2,422</span>
+                    <span class="actions-item ico-thumb-down">432</span>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Banner Horizontal -->
+                            <div class="youtube-banner">
+                <a class="banner-fastestTube js-fastTube-banner" target="_blank" href="http://kwizzu.com/landings/">
+                    <img src="/ad/banner_2_730x60.png" />
+                </a>
+            </div>
+            <script type="text/javascript">hihit(4603);</script>
+        
+
+        <div class="youtube-similar js-youtube-similar">
+
+
+                    <div class="loading"><img src="/images/v3/mylinks-spinner.gif"/></div>
+            <div class="similar-title js-you-similar-title" style="display:none;">Similar videos</div>
+        
+            <div class="similar-videos js-similar-videos-conteinet"></div>
+        </div>
+
+
+    </div>
+
+</div>
+
+<script type="text/ejs" id="youtubeRelatedEJS">
+    <div class="similar-item">
+         <a class="similar-thumb js-youtube-link" href="/url/youtube-open?v=<%= id %>&c=<%= channel_id %>&d=0" >
+                <img src="<%= image %>" alt=""/>
+                <span class="similar-duration"><%= duration %> </span>
+        </a>
+        <a class="similar-link js-youtube-link" href="/url/youtube-open?v=<%= id %>&c=<%= channel_id %>&d=0" >
+                <%= title %>
+        </a>
+        <div class="similar-statistics">
+            <span class="similar-stat"><%= view_count %> views</span>
+            <span class="similar-stat"><%= published_at %></span><br />
+            <span class="similar-author">by
+                <a class="header-chanel" href="https://www.youtube.com/channel/<%= channel_id %>"><%= channel_title %> </a>
+            </span>
+
+        </div>
+    </div>
+</script>
+
+<!--Button subscribe youtube-->
+<script src="https://apis.google.com/js/platform.js"></script>
+<script>
+    function onYtEvent(payload) {
+        lnEvent('youtube click subscribe', payload.eventType);
+    }
+</script>
+    <script type="text/javascript">
+        var Ga = Ga || [];
+        Ga.push(['_trackPageview', '/theme/']);
+    </script>
+    </div>
+
+
+
+
+<div class="show-panel top-panel panel-white">
+        <div class="logo-holder"><a class="logo js-theme-logo" href="/">Linkis</a></div>
+    <ul class="user-data">
+                    <li>
+                <a href="https://twitter.com/elvinpw" target="_blank">
+                    <img class="user-avatar" src="http://ec2linkis.s3.amazonaws.com/user_photos/2015-11/911665/avatar_medium?6528" alt="avatar" onerror="restoreUserAvatar(this, 911665)" />
+                </a>
+            </li>
+            <li>
+                <div  class="rest-texts">
+                    <p class="user-name">Peter W Elvin PA MSM</p>
+                    <p class="user-acc">
+                        <a class="twitter-name" href="https://twitter.com/elvinpw" target="_blank">@elvinpw</a>
+                    </p>
+                </div>
+            </li>
+            </ul>
+
+            <ul class="social-links js-soc-data">
+                                                <li><a class="social-item twitter-link" href="http://twitter.com/elvinpw" title="twitter.com/elvinpw" target="_blank" data-type="twitter" rel="nofollow">Twitter</a></li>
+                                                </ul>
+    
+    <div class="right-controls">
+        <div class="likes-holder js-like-box">
+
+            
+            <a href="#" class="thumb-up js-like green-like">
+                        <span class="js-like-value">Like            </a>
+            <!-- Share block -->
+            <div class="js-share-stat-block">
+
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_20x20_style" addthis:title="Top 14 Doritos Super Bowl Commercials - Ten Best Funny Superbowl Ads - YouTube" addthis:url="http://ln.is/www.youtube.com/gzfT7">
+        <a class="addthis_button_compact soc-icon"></a>
+    </div>
+    <!-- AddThis Button END -->
+</div>        </div>
+                    <a class="log-in js-btn-signin-tw js-login-with-theme-panel" href="javascript:void(0);">Login</a>
+        
+        
+            <div class="close-x js-close-panel">
+                <div class="original-url">
+                    <div class="insider">
+                        <p>Original URL</p>
+                        <a class="js-source-link" href="/url/go/?url=http%3A%2F%2Fyoutu.be%2F8vVIUBU1gZs%3Fa" rel="nofollow" target="_blank">youtu.be/8vVIUBU1gZs?a</a>
+                    </div>
+                </div>
+            </div>
+
+        
+    </div>
+            <div class="title-text"><div class="title-text-insider">I FOLLOW  BACK!!  Yankee by Birth; Rebel by Heritage; Patriot, Capitalist, American at Heart!  Biol Majr/Psych Minr. HealthCare 35 yrs,  Real Estate Spec &amp; Mgmt</div></div>
+        
+</div>
+
+
+
+    
+    <!-- POPUPS -->
+    
+
+
+
+    
+<!-- New popups Template -->
+<div class="global-modal-popup js-modal-popup-container">
+    <div class="popup-overlay"></div>
+    <div class="popup-holder">
+        <a href="javascript:void(0);" class="popup-close icon-close js-popup-close-default"></a>
+
+        <div class="js-popups-container popup-container">
+                    </div>
+
+    </div>
+</div>
+    
+
+<link href="/css_prod/production_theme_11.css?v=1f30" media="all" rel="stylesheet" type="text/css" id="theme_css" />
+
+    <script type="text/javascript" src="/js/prod/themes/all.js?v=1f30"></script>
+
+
+
+<div class="advert_block"></div>
+</body>
+</html>

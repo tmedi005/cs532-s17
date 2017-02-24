@@ -1,0 +1,528 @@
+   REFRESH(21600 sec):
+   [1]file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw334.txt
+
+   LOADING
+
+   FEEDBACK
+   CBB
+   ALL LEAGUES
+   CBB
+   NBA
+   NHL
+   cbb | Thu 2/23 6:30 PM
+   CHARSO
+   @ WINTHR
+   57%
+     43%
+   WINTHR -15.5
+   cbb | Thu 2/23 7:00 PM
+   UGA
+   @ BAMA
+     44%
+   56%
+   BAMA -4.5
+   cbb | Thu 2/23 7:00 PM
+   WKY
+   @ CHARLO
+     25%
+   75%
+   CHARLO -3
+   cbb | Thu 2/23 7:00 PM
+   MEMP
+   @ CINCY
+   63%
+     37%
+   CINCY -12.5
+   cbb | Thu 2/23 7:00 PM
+   JMAD
+   @ DREXEL
+     19%
+   81%
+   DREXEL -2
+   cbb | Thu 2/23 7:00 PM
+   JAXST
+   @ EKY
+   65%
+     35%
+   JAXST -1.5
+   cbb | Thu 2/23 7:00 PM
+   UTEP
+   @ FAU
+   73%
+     27%
+   UTEP -1
+   cbb | Thu 2/23 7:00 PM
+   TXSA
+   @ FIU
+   54%
+     46%
+   FIU -4
+   cbb | Thu 2/23 7:00 PM
+   UMASS
+   @ GWASH
+     31%
+   69%
+   GWASH -4.5
+   cbb | Thu 2/23 7:00 PM
+   IPFW
+   @ IUPUI
+   68%
+     32%
+   IPFW -1.5
+   cbb | Thu 2/23 7:00 PM
+   NEB
+   @ MICHST
+     35%
+   65%
+   MICHST -6
+   cbb | Thu 2/23 7:00 PM
+   LIU
+   @ MOUNT
+     35%
+   65%
+   MOUNT -6
+   cbb | Thu 2/23 7:00 PM
+   TOWSON
+   @ NCWILM
+   65%
+     35%
+   NCWILM -11
+   cbb | Thu 2/23 7:00 PM
+   HOFSTRA
+   @ WMMARY
+     20%
+   80%
+   WMMARY -7.5
+   cbb | Thu 2/23 7:00 PM
+   NEAST
+   @ ELON
+     21%
+   79%
+   ELON -4
+   cbb | Thu 2/23 7:30 PM
+   DEL
+   @ CHARLS
+     42%
+   58%
+   CHARLS -14.5
+   cbb | Thu 2/23 7:30 PM
+   QUINN
+   @ MARIST
+     44%
+   56%
+   MARIST PK
+   cbb | Thu 2/23 7:30 PM
+   MURYST
+   @ SEMO
+   74%
+     26%
+   MURYST -1.5
+   cbb | Thu 2/23 8:00 PM
+   LATECH
+   @ NTEXAS
+   70%
+     30%
+   LATECH -10.5
+   cbb | Thu 2/23 8:00 PM
+   MRSHL
+   @ ODU
+     31%
+   69%
+   ODU -6.5
+   cbb | Thu 2/23 8:00 PM
+   USM
+   @ RICE
+   71%
+     29%
+   RICE -17
+   cbb | Thu 2/23 8:00 PM
+   PEAY
+   @ TNMART
+     38%
+   62%
+   TNMART -8
+   cbb | Thu 2/23 8:00 PM
+   SFLA
+   @ TULSA
+     29%
+   71%
+   TULSA -13
+   cbb | Thu 2/23 8:00 PM
+   SDAK
+   @ WILL
+   78%
+     22%
+   SDAK -5
+   cbb | Thu 2/23 9:00 PM
+   UCLA
+   @ ARIZST
+   68%
+     32%
+   UCLA -12
+   cbb | Thu 2/23 9:00 PM
+   NCASHV
+   @ GWEBB
+   68%
+     32%
+   NCASHV -1.5
+   cbb | Thu 2/23 9:00 PM
+   TNTECH
+   @ MOREHD
+     50%
+     50%
+   MOREHD -7.5
+   cbb | Thu 2/23 9:00 PM
+   WISC
+   @ OHIOST
+   74%
+     26%
+   WISC -5
+   cbb | Thu 2/23 9:05 PM
+   WEBER
+   @ EWASH
+     29%
+   71%
+   EWASH -3
+   cbb | Thu 2/23 10:00 PM
+   USC
+   @ ARIZ
+     30%
+   70%
+   ARIZ -8
+   cbb | Thu 2/23 10:00 PM
+   IDST
+   @ IDAHO
+     42%
+   58%
+   IDAHO -10.5
+   cbb | Thu 2/23 10:00 PM
+   CPOLY
+   @ LNGBCH
+     24%
+   76%
+   LNGBCH -8
+   cbb | Thu 2/23 10:00 PM
+   SANFRAN
+   @ LOYMRY
+   75%
+     25%
+   SANFRAN -2
+   cbb | Thu 2/23 10:00 PM
+   BYU
+   @ PORT
+   73%
+     27%
+   BYU -10
+   cbb | Thu 2/23 10:00 PM
+   CSN
+   @ UCDAV
+     15%
+   85%
+   UCDAV -5.5
+   cbb | Thu 2/23 10:00 PM
+   UCRIV
+   @ UCSB
+   78%
+     22%
+   UCRIV -2
+   cbb | Thu 2/23 10:00 PM
+   GONZAG
+   @ USD
+   66%
+     34%
+   GONZAG -23
+   cbb | Thu 2/23 10:00 PM
+   MARYCA
+   @ PEPPER
+     43%
+   57%
+   MARYCA -19
+   cbb | Thu 2/23 10:00 PM
+   UOP
+   @ SNCLRA
+
+
+   SNCLRA -9.5
+   cbb | Thu 2/23 10:05 PM
+   SUTAH
+   @ PORTST
+     33%
+   67%
+   PORTST -12
+   cbb | Thu 2/23 10:05 PM
+   NAU
+   @ SACST
+     30%
+   70%
+   SACST -9
+   cbb | Thu 2/23 11:00 PM
+   UTAH
+   @ COLO
+     39%
+   61%
+   COLO -2
+   [2]ALL ODDS
+
+SportsLine Pro Sports Picks & Odds
+
+   [S-L-new.svg]
+   [Sportsline-text.svg]
+   SEARCH
+   ____________________
+   Enter Team (4 characters or more)
+   SIGN IN
+   BECOME A MEMBER
+   [3]EXPERTS [4]PICKS [5]ODDS [6]DFS
+
+SportsLine Pro Sports Picks & Odds
+
+   [S-L-new.svg]
+   ARTICLE
+
+   [7]EXPERTS [8]PICKS [9]ODDS [10]DAILY FANTASY [11]ARTICLES [12]HELP
+   SEARCH
+   ____________________
+   Enter Team (4 characters or more)
+   SIGN OUT
+   ALL PICKS
+   $9.99 MONTHLY
+   SIGN IN
+
+New England Patriots Heavily Favored to Re-Sign LeGarrette Blount
+
+   The New England Patriots are clear-cut favorites to re-sign RB
+   LeGarrette Blount, and experts question the impact he'd have on another
+   team.
+
+   [50_clear_daniel_cypra.png]
+
+   By Daniel Cypra
+
+   Feb 19, 7:50PM EST
+
+
+   IFRAME: [13]embedVideo_113536566864
+
+   New England Patriots running back LeGarrette Blount signed a one-year
+   deal entering the 2016 season worth $1 million.
+
+   The result: Blount led the league with 18 rushing touchdowns, two more
+   than the next closest player and the most in Patriots history.
+
+   Now, the Patriots have a decision to make: Sign Blount to a long-term
+   deal, hit him with the franchise tag, or let him walk in free agency.
+
+   Blount is a massive favorite to stay with the Patriots . According to
+   odds posted at BookMaker.eu, he's -250 to play in Foxborough in 2017,
+   meaning you'd have to wager $250 just to win $100.
+
+   [14]CBS SPORTS: BLOUNT GRATEFUL TO JEFF FISHER
+
+   Blount scored in all but two of the Patriots' regular-season games as
+   New England went 14-2. He had six games with at least 20 carries and
+   gave the Pats a bruising dimension on offense.
+
+   "Blount knows he won't find a better situation than New England, and
+   quite likely will take less money to stay," SportsLine's [15]Larry
+   Hartstein said. "He'll be back to team with Dion Lewis and James White
+   in a very deep, dynamic backfield."
+
+   Blount just turned 30 and it's questionable whether he could command a
+   high-dollar contract.
+
+   IFRAME: [16]/sportsline-web/newsletter-signup-iframe.html
+
+   "You play this game to win, and that's all they do here is win football
+   games and win championships," Blount told "The Rich Eisen Show."
+
+   Also questionable is the impact he'd have on another team. Legendary
+   Vegas oddsmaker [17]Kenny White said Blount would make "zero
+   difference" if he ended up on another team.
+
+   [18]Zack Cimini agreed, saying New England "maximized his value." Both
+   would take any other team besides the Patriots or the ones below
+   landing Blount for Week 1.
+
+   The Oakland Raiders are +500, or 5/1, to land Blount. Oakland could
+   move on from RB Latavius Murray and try to attract Blount to complement
+   RB DeAndre Washington.
+
+   The New York Giants, who just cut RB Rashad Jennings, are also in the
+   market for a back. Whether Blount would be a fit with Giants RB Paul
+   Perkins (21 rushes for 102 yards in Week 17) remains to be seen. The
+   Giants are 10/1 to nab Blount.
+
+   Also in the mix for Blount's services are the Green Bay Packers at
+   15/1. The Packers dealt with struggles in the run game all season and
+   RB Eddie Lacy is a free agent. But the Packers rarely spend on big-name
+   players.
+
+   The field ? any other NFL team ? is 2/1 to sign Blount, still an
+   underdog to the Patriots.
+
+   From BookMaker.eu: LeGarrette Blount team in Week 1 of 2017-18 regular
+   season:
+     * New England Patriots -250
+     * Oakland Raiders +500
+     * New York Giants +1000
+     * Green Bay Packers +1500
+     * Field +200
+
+   [50_clear_daniel_cypra.png]
+   Daniel Cypra
+
+  MORE FROM THE SPORTSLINE EXPERTS
+
+   [19]SEE ALL ARTICLES
+
+   [L_article_JEdelman_02_06.jpg]
+   [50_clear_daniel_cypra.png]
+   Daniel Cypra
+   Martellus Bennett Favored to Return to Patriots
+
+   [L_article_JCutler_02_22.jpg]
+   [50_clear_daniel_cypra.png]
+   Daniel Cypra
+   Dolphins, Jets Favored to Land Jay Cutler
+
+   [L_article_ICrowell_02_21.jpg]
+   [50_clear_daniel_cypra.png]
+   Daniel Cypra
+   Isaiah Crowell Likely Returning to Browns in 2017
+
+   [L_article_APeterson_9_16.jpg]
+   [50_clear_larry_hartstein.png]
+   Larry Hartstein
+   Senior Analyst
+   Surprising favorite emerges to land Adrian Peterson
+
+   2017 CBS INTERACTIVE INC. ALL RIGHTS RESERVED.
+   SportsLine is a registered service mark of SportsLine.com, Inc.
+   SportsLine Pro is a service mark of SportsLine.com, Inc.
+   [20]PRIVACY POLICY [21]CBSi TERMS OF USE [22]SPORTSLINE TERMS OF USE
+   [23]MOBILE USER AGREEMENT
+   [24]FAQ/HELP [25]CAREERS
+
+   In partnership with...
+   [26]http://www.247sports.com/
+   FOLLOW US:
+   Statistical support provided by
+
+   [27]PRIVACY POLICY [28]CBSi TERMS OF USE [29]SPORTSLINE TERMS OF USE
+   [30]MOBILE USER AGREEMENT [31]FAQ/HELP [32]CAREERS
+
+   In partnership with...
+   [33]http://www.247sports.com/
+   FOLLOW US:
+   Live Odds
+   Provided by
+   sportsline direct
+   FEEDBACK
+   2017 CBS INTERACTIVE INC. ALL RIGHTS RESERVED.
+   SportsLine is a registered service mark of SportsLine.com, Inc.
+   SportsLine Pro is a service mark of SportsLine.com, Inc.
+
+   LOADING
+
+References
+
+   Visible links
+   1. file:///home/tmedina/cs432/assignment3/part1/uri_raw334.txt
+   2. file:///college-basketball/odds/
+   3. file:///experts/
+   4. file:///college-basketball/picksheet/
+   5. file:///college-basketball/odds/
+   6. file:///nba/daily-fantasy/fantasydraft/
+   7. file:///experts/
+   8. file:///college-basketball/picksheet/
+   9. file:///college-basketball/odds/
+  10. file:///nba/daily-fantasy/fantasydraft/
+  11. file:///college-basketball/articles/
+  12. https://secure.sportsline.com/help?help_category=CBS_Sports:SportsLinePro&help_type=sportslinepro.com_knowledgehome2
+  13. http://www.sportsline.com/video/player/embed?args=player_id=113536566864&channel=nfl&pcid=879840323524&width=640&height=360&autoplay=true&comp_ads_enabled=false&uvpc=http%3A%2F%2Fsports.cbsimg.net%2Fvideo%2Fuvp%2Fconfig%2Fv3%2Fuvp_sportsline.xml&uvpc_m=http%3A%2F%2Fsports.cbsimg.net%2Fvideo%2Fuvp%2Fconfig%2Fv3%2Fuvp_sportsline_m.xml&partner=sportsline&partner_m=sportsline_mobile&resizable=true&domain=sportsline.com&lazy_load=true
+  14. http://www.cbssports.com/nfl/news/legarrette-blount-extremely-grateful-to-jeff-fisher-and-titans/
+  15. http://www.sportsline.com/experts/13773/larry-hartstein/
+  16. file:///sportsline-web/newsletter-signup-iframe.html
+  17. http://www.sportsline.com/experts/33128071/kenny-white/
+  18. http://www.sportsline.com/experts/15770/zack-cimini/
+  19. file:///nfl/articles/
+  20. https://www.cbsinteractive.com/legal/cbsi/privacy-policy
+  21. https://www.cbsinteractive.com/legal/cbsi/terms-of-use
+  22. file:///terms-of-use
+  23. https://www.cbsinteractive.com/legal/cbsi/mobile-eula
+  24. https://secure.sportsline.com/help?help_category=CBS_Sports:SportsLinePro&help_type=sportslinepro.com_knowledgehome2
+  25. http://www.cbsinteractive.com/careers
+  26. http://www.247sports.com/
+  27. https://www.cbsinteractive.com/legal/cbsi/privacy-policy
+  28. https://www.cbsinteractive.com/legal/cbsi/terms-of-use
+  29. file:///terms-of-use
+  30. https://www.cbsinteractive.com/legal/cbsi/mobile-eula
+  31. https://secure.sportsline.com/help?help_category=CBS_Sports:SportsLinePro&help_type=sportslinepro.com_knowledgehome2
+  32. http://www.cbsinteractive.com/careers
+  33. http://www.247sports.com/
+
+   Hidden links:
+  35. https://secure.sportsline.com/help?help_category=CBS_Sports%3ADaily_Fantasy&help_type=sportslinepro.com_sitefeedback2
+  36. file://localhost/college-basketball/game-forecast/NCAAB_20170223_CHARSO@WINTHR/
+  37. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UGA@BAMA/
+  38. file://localhost/college-basketball/game-forecast/NCAAB_20170223_WKY@CHARLO/
+  39. file://localhost/college-basketball/game-forecast/NCAAB_20170223_MEMP@CINCY/
+  40. file://localhost/college-basketball/game-forecast/NCAAB_20170223_JMAD@DREXEL/
+  41. file://localhost/college-basketball/game-forecast/NCAAB_20170223_JAXST@EKY/
+  42. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UTEP@FAU/
+  43. file://localhost/college-basketball/game-forecast/NCAAB_20170223_TXSA@FIU/
+  44. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UMASS@GWASH/
+  45. file://localhost/college-basketball/game-forecast/NCAAB_20170223_IPFW@IUPUI/
+  46. file://localhost/college-basketball/game-forecast/NCAAB_20170223_NEB@MICHST/
+  47. file://localhost/college-basketball/game-forecast/NCAAB_20170223_LIU@MOUNT/
+  48. file://localhost/college-basketball/game-forecast/NCAAB_20170223_TOWSON@NCWILM/
+  49. file://localhost/college-basketball/game-forecast/NCAAB_20170223_HOFSTRA@WMMARY/
+  50. file://localhost/college-basketball/game-forecast/NCAAB_20170223_NEAST@ELON/
+  51. file://localhost/college-basketball/game-forecast/NCAAB_20170223_DEL@CHARLS/
+  52. file://localhost/college-basketball/game-forecast/NCAAB_20170223_QUINN@MARIST/
+  53. file://localhost/college-basketball/game-forecast/NCAAB_20170223_MURYST@SEMO/
+  54. file://localhost/college-basketball/game-forecast/NCAAB_20170223_LATECH@NTEXAS/
+  55. file://localhost/college-basketball/game-forecast/NCAAB_20170223_MRSHL@ODU/
+  56. file://localhost/college-basketball/game-forecast/NCAAB_20170223_USM@RICE/
+  57. file://localhost/college-basketball/game-forecast/NCAAB_20170223_PEAY@TNMART/
+  58. file://localhost/college-basketball/game-forecast/NCAAB_20170223_SFLA@TULSA/
+  59. file://localhost/college-basketball/game-forecast/NCAAB_20170223_SDAK@WILL/
+  60. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UCLA@ARIZST/
+  61. file://localhost/college-basketball/game-forecast/NCAAB_20170223_NCASHV@GWEBB/
+  62. file://localhost/college-basketball/game-forecast/NCAAB_20170223_TNTECH@MOREHD/
+  63. file://localhost/college-basketball/game-forecast/NCAAB_20170223_WISC@OHIOST/
+  64. file://localhost/college-basketball/game-forecast/NCAAB_20170223_WEBER@EWASH/
+  65. file://localhost/college-basketball/game-forecast/NCAAB_20170223_USC@ARIZ/
+  66. file://localhost/college-basketball/game-forecast/NCAAB_20170223_IDST@IDAHO/
+  67. file://localhost/college-basketball/game-forecast/NCAAB_20170223_CPOLY@LNGBCH/
+  68. file://localhost/college-basketball/game-forecast/NCAAB_20170223_SANFRAN@LOYMRY/
+  69. file://localhost/college-basketball/game-forecast/NCAAB_20170223_BYU@PORT/
+  70. file://localhost/college-basketball/game-forecast/NCAAB_20170223_CSN@UCDAV/
+  71. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UCRIV@UCSB/
+  72. file://localhost/college-basketball/game-forecast/NCAAB_20170223_GONZAG@USD/
+  73. file://localhost/college-basketball/game-forecast/NCAAB_20170223_MARYCA@PEPPER/
+  74. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UOP@SNCLRA/
+  75. file://localhost/college-basketball/game-forecast/NCAAB_20170223_SUTAH@PORTST/
+  76. file://localhost/college-basketball/game-forecast/NCAAB_20170223_NAU@SACST/
+  77. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UTAH@COLO/
+  78. file://localhost/
+  79. https://secure.sportsline.com/help?help_category=CBS_Sports%3ASportsLinePro&help_type=sportslinepro.com_knowledgehome2
+  80. https://secure.sportsline.com/login?master_product=23350&xurl=http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25780403%2Fnew-england-patriots-heavily-favored-to-re-sign-legarrette-blount%2F
+  81. file://localhost/join/
+  82. file://localhost/
+  83. file://localhost/
+  84. file://localhost/
+  85. file://localhost/join/
+  86. https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25780403%2Fnew-england-patriots-heavily-favored-to-re-sign-legarrette-blount%2F
+  87. https://twitter.com/intent/tweet?text=New%20England%20Patriots%20Heavily%20Favored%20to%20Re-Sign%20LeGarrette%20Blount%20http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25780403%2Fnew-england-patriots-heavily-favored-to-re-sign-legarrette-blount%2F%20via%20%40sportsline
+  88. mailto:?subject=New%20England%20Patriots%20Heavily%20Favored%20to%20Re-Sign%20LeGarrette%20Blount&body=http://www.sportsline.com/insiders/25780403/new-england-patriots-heavily-favored-to-re-sign-legarrette-blount/%0D%0A%0D%0AThe%20New%20England%20Patriots%20are%20clear-cut%20favorites%20to%20re-sign%20RB%20LeGarrette%20Blount,%20and%20experts%20question%20the%20impact%20he'd%20have%20on%20another%20team.
+  89. sms:?&body=http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25780403%2Fnew-england-patriots-heavily-favored-to-re-sign-legarrette-blount%2F%0D%0A%0D%0AThe New England Patriots are clear-cut favorites to re-sign RB LeGarrette Blount, and experts question the impact he'd have on another team.
+  90. file://localhost/insiders/25781878/martellus-bennett-favored-to-return-to-patriots/
+  91. file://localhost/insiders/25781738/dolphins-jets-favored-to-land-jay-cutler/
+  92. file://localhost/insiders/25781003/isaiah-crowell-likely-returning-to-browns-in-2017/
+  93. file://localhost/insiders/25780572/surprising-favorite-emerges-to-land-adrian-peterson/
+  94. https://www.facebook.com/sportsline
+  95. https://twitter.com/sportsline
+  96. https://www.facebook.com/sportsline
+  97. https://twitter.com/sportsline
+  98. https://secure.sportsline.com/help?help_category=CBS_Sports%3ADaily_Fantasy&help_type=sportslinepro.com_sitefeedback2

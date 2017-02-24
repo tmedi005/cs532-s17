@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>
+	Esferico | 
+      Valúan en 500 mil dólares camiseta perdida de Brady    </title>
+    <meta charset="UTF-8" />
+	<link rel="shortcut icon" href="http://esferico.mx/wp-content/themes/kingclub-theme/images/favicon.ico" />
+	
+    <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Esferico &raquo; Feed" href="http://esferico.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Esferico &raquo; RSS de los comentarios" href="http://esferico.mx/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Esferico &raquo; Valúan en 500 mil dólares camiseta perdida de Brady RSS de los comentarios" href="http://esferico.mx/valuan-en-500-mil-dolares-camiseta-perdida-de-brady/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/esferico.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp_owl_slide_style-css'  href='http://esferico.mx/wp-content/plugins/banners-list/assets/css/owl.carousel.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://esferico.mx/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://esferico.mx/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='wp_swiper_swiper_style-css'  href='http://esferico.mx/wp-content/plugins/wp-swiper-slider/assets/css/swiper.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap_css-css'  href='http://esferico.mx/wp-content/themes/kingclub-theme/css/bootstrap.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style_css-css'  href='http://esferico.mx/wp-content/themes/kingclub-theme/style.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto_css-css'  href='http://esferico.mx/wp-content/themes/kingclub-theme/css/prettyphoto.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome_css-css'  href='http://esferico.mx/wp-content/themes/kingclub-theme/css/font-awesome.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='marquee_css-css'  href='http://esferico.mx/wp-content/themes/kingclub-theme/css/marquee.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://esferico.mx/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://esferico.mx/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive_css-css'  href='http://esferico.mx/wp-content/themes/kingclub-theme/css/responsive.css?ver=4.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://esferico.mx/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-content/plugins/banners-list/assets/js/owl.carousel.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-content/plugins/wp-swiper-slider/assets/js/swiper.jquery.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-content/themes/kingclub-theme/scripts/frontend/functions.js?ver=4.7.2'></script>
+<link rel='https://api.w.org/' href='http://esferico.mx/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://esferico.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://esferico.mx/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Atlas y Pumas, entre los posibles rivales del PSV' href='http://esferico.mx/atlas-y-pumas-entre-los-posibles-rivales-del-psv/' />
+<link rel='next' title='Cantú agradece goleada de Chile a México en Copa América' href='http://esferico.mx/cantu-agradece-goleada-de-chile-a-mexico-en-copa-america/' />
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel="canonical" href="http://esferico.mx/valuan-en-500-mil-dolares-camiseta-perdida-de-brady/" />
+<link rel='shortlink' href='http://esferico.mx/?p=37757' />
+<link rel="alternate" type="application/json+oembed" href="http://esferico.mx/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fesferico.mx%2Fvaluan-en-500-mil-dolares-camiseta-perdida-de-brady%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://esferico.mx/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fesferico.mx%2Fvaluan-en-500-mil-dolares-camiseta-perdida-de-brady%2F&#038;format=xml" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #231b4c; }
+</style>
+<meta name="generator" content="Powered by Slider Revolution 5.2.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://esferico.mx/wp-content/uploads/2015/09/E.png" sizes="32x32" />
+<link rel="icon" href="http://esferico.mx/wp-content/uploads/2015/09/E.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://esferico.mx/wp-content/uploads/2015/09/E.png" />
+<meta name="msapplication-TileImage" content="http://esferico.mx/wp-content/uploads/2015/09/E.png" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69078610-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+    </head>
+	<body class="post-template-default single single-post postid-37757 single-format-standard custom-background" style="background:#242424 url()"  >
+ 				<style type="text/css">
+		.pix-colr, .pix-colrhvr:hover,.price-table article:hover h3,.breadcrumbs ul li.pix-active,#footer p a:hover,.is-countdown span:before,.pagination .active,
+/* New Clases Add*/.event-listing article:hover .text .pix-post-title a,.cs-post-title a,.pagination .active,.blog-medium-options li a,.is-countdown span,.widget ul li:hover a { color:#333333 !important;
+		}
+		.pix-bgcolr,.pix-bgcolrhvr:hover,nav.navigation > ul > li > a:before,.cart-sec span,.navigation ul ul li:hover > a,.navigation ul > li.current-menu-item > a,
+		.navigation ul ul li.current-menu-item > a,.price-table article:hover .pix-price-box, .event.evevt-listing article:hover .text .btn-boobked, .match-result.match-lost p,.event.event-listing.event-listing-v2 article:hover,.cycle-pager-active,.widget .tagcloud a:hover, .event.event-listing article:hover .text .btn-boobked, .flex-direction-nav li a:hover /**/, .our-team-sec article:hover figure figcaption .pix-post-title a,.footer-widget .widget_newsletter .error,.news-section article:hover .text,.password_protected form input[type="submit"],.team-vertical article figcaption .caption h2,
+#respond form input[type="submit"],#wp-calendar caption,.gallery ul li figure figcaption a,.woocommerce-pagination ul li a:hover,.woocommerce-pagination ul li span,.woocommerce-tabs .tabs .active a, span.match-category.cat-neutral, .event.event-listing article:hover .text .btn,.widget_search form input[type="submit"], .woocommerce .button,.onsale,.gallery ul li:hover .text,.footer-icons .followus a:hover,
+/* New Clases Add*/.searchform button,.tabs.horizontal .nav-tabs li.active a,p.stars span a.active,.event.event-listing.event-listing-v2 .btn-viewall,.featured-title,
+.pix-feature article .blog-bottom .btn,.pix-feature .featured,.blog-vertical .tab-content header.pix-heading-title h2,header #lang_sel a:hover, header #lang_sel ul ul a:hover,
+.post-tags a:hover,.blog-vertical header.pix-heading-title h2,.pix-tittle,nav.navigation > ul > li:hover > a, nav.navigation > ul > li.current-menu-ancestor > a,.table tbody tr:hover,.widget_newsletter label .btn{
+			background-color:#333333 !important;
+		}
+		.pix-bdrcolr ,.tabs.horizontal .nav-tabs li.active,.address-info .text,.subtitle h1,.about-us article .text,blockquote,
+		.pagination > ul > li > a:before,.pagination > ul > li > a:before,.pagination > ul > li > span.active:before,.footer-icons .followus a:hover{
+			border-color:#333333 !important;
+		}
+		#banner .flexslider figcaption .pix-desc h3 span {
+		   box-shadow: -10px  0 0 #333333,10px  0 0 #333333 !important; 
+ 		}
+		.our-team-sec article:hover figure figcaption .pix-post-title a{
+			 box-shadow: -10px  0 0 #333333,10px  0 0 #333333 !important;   
+		}
+		header#header .top-head{
+			background-color:#ffffff !important;
+		}
+		nav.navigation > ul > li > a
+		{
+			color:#ffffff !important;
+		}
+		header #mainheader{
+			background-color:#696969 !important;
+		}
+		.sliderpagination ul li:before{
+			border-color: transparent #333333 !important;
+		}
+		.footer-widget .widget_newsletter .error:before{
+			border-top-color: #333333 !important;
+		}
+		</style>
+		    <style>.widget_search form input[type="submit"]{background-color: transparent !important;}</style>
+    <style>.breadcrumbs ul li.pix-active{color: #f08306 !important;}</style>
+		<div id="wrappermain-pix" class="wrapper wrapper_boxed">
+		<!-- Header Start -->
+        <header id="header">
+            <!-- Top Head Start -->
+            <div class="top-head">
+            	<div class="container">
+                    <!-- Logo -->
+                    <div class="logo">
+                        				<a href="http://esferico.mx">
+                	<img src="http://esferico.mx/wp-content/uploads/2016/11/Logo-Slogan.png"  style="width:250px; height:67px" 
+                    alt="Esferico" />
+                </a>
+	 		                    </div>
+                    <!-- Logo Close -->
+                    <!-- Socials Links -->
+                    <div class="socialheader flex" style="height: 67px;">
+                      <a href="https://es-la.facebook.com/esfericomxver/" target="_blank">
+                        <span class="fa-stack">
+                          <i class="fa fa-circle fa-stack-2x"></i>
+                          <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                        </span>
+                      </a>
+                      <a href="https://twitter.com/Esfericover?lang=es" target="_blank">
+                        <span class="fa-stack">
+                          <i class="fa fa-circle fa-stack-2x"></i>
+                          <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                        </span>
+                      </a>
+		      <a href="https://www.instagram.com/esfericorv/" target="_blank">
+                        <span class="fa-stack">
+                          <i class="fa fa-circle fa-stack-2x"></i>
+                          <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                        </span>
+                      </a>
+                      <a href="https://www.youtube.com/channel/UCViJ40bOhsk3IfBRAbG4rzg" target="_blank">
+                        <span class="fa-stack">
+                          <i class="fa fa-circle fa-stack-2x"></i>
+                          <i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i>
+                        </span>
+                      </a>
+                    </div>
+                    <!-- Socials Links Close -->
+                                            <!-- <div class="rightheader"> -->
+                        	                        <!-- </div> -->
+                                    </div>
+            </div>
+            <!-- Top Head End -->
+            <div id="mainheader">
+                <div class="container">
+                    <!-- Right Header -->
+                    <nav class="navigation">
+                    	<a class="cs-click-menu"><i class="fa fa-bars"></i></a>
+                        <ul id="menus"><li id="menu-item-1314" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1314"><a href="http://esferico.mx/category/reportajes/">Reportajes</a></li>
+<li id="menu-item-1186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1186"><a href="#">Futbol</a>
+<ul class="sub-menu">
+	<li id="menu-item-1246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1246"><a href="http://esferico.mx/category/futbol/liga_mx/">Liga MX</a></li>
+	<li id="menu-item-1247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1247"><a href="http://esferico.mx/category/futbol/liga_bbva/">Liga BBVA</a></li>
+	<li id="menu-item-1255" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1255"><a href="http://esferico.mx/category/futbol/champions/">Champions</a></li>
+	<li id="menu-item-1249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1249"><a href="http://esferico.mx/category/futbol/seleccion_mx/">Selección Mx</a></li>
+	<li id="menu-item-1250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1250"><a href="http://esferico.mx/category/futbol/mas_futbol/">+ Futbol</a></li>
+</ul>
+</li>
+<li id="menu-item-1242" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1242"><a href="http://esferico.mx/category/tiburonmania/">Tiburonmanía</a></li>
+<li id="menu-item-1197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1197"><a href="#">Beisbol</a>
+<ul class="sub-menu">
+	<li id="menu-item-1251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1251"><a href="http://esferico.mx/category/beisbol/lmb/">LMB</a></li>
+	<li id="menu-item-1256" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1256"><a href="http://esferico.mx/category/beisbol/mlb/">MLB</a></li>
+</ul>
+</li>
+<li id="menu-item-1258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1258"><a href="#">Baloncesto</a>
+<ul class="sub-menu">
+	<li id="menu-item-1253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1253"><a href="http://esferico.mx/category/baloncesto/lmbp/">LNBP</a></li>
+	<li id="menu-item-1254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1254"><a href="http://esferico.mx/category/baloncesto/nba/">NBA</a></li>
+	<li id="menu-item-30147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30147"><a href="http://esferico.mx/category/baloncesto/baloncesto-2/">+ Baloncesto</a></li>
+</ul>
+</li>
+<li id="menu-item-1257" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-1257"><a href="http://esferico.mx/category/otros/">Otros deportes</a>
+<ul class="sub-menu">
+	<li id="menu-item-30133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30133"><a href="http://esferico.mx/category/otros/mas_deporte/">+ Deporte</a></li>
+</ul>
+</li>
+<li id="menu-item-1259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1259"><a href="http://esferico.mx/category/lo_candente/">Lo <span>+</span> Candente</a></li>
+<li id="menu-item-30132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30132"><a href="http://esferico.mx/category/lo-picante/">Lo <span>+</span> Picante</a></li>
+<li id="menu-item-1559" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1559"><a href="http://esferico.mx/category/multimedia/">multimedia</a></li>
+<li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1165"><a href="http://esferico.mx/contacto/">Contacto</a></li>
+</ul>                    </nav>
+                    
+                    <div class="rightheader search-content">
+                            
+                                    <!-- Search Section -->    
+                                    <div class="searcharea">
+                                        <a class="btnsearch" href="#searchbox">
+                                            <i class="fa fa-search"></i>
+                                        </a>
+                                    </div>
+                                    <!-- Search Section Close--> 
+                                                                     </div>
+                    <!-- Right Header Close --> 
+                                               <div id="searcharea">
+                            <div class="searchform">
+                                	<form id="searchform" method="get" action="http://esferico.mx"  role="search">
+		<button> <i class="fa fa-search"></i></button>
+        <input name="s" id="searchinput" value="Búsqueda en ESFÉRICO" type="text" />
+    </form>
+                               </div>
+                        </div>
+                                            </div>
+            </div>
+        </header>
+    <!-- Header Close -->
+    <div class="clear"></div>
+    <div id="main">
+        <!-- Banners -->
+                 <!-- /Banners -->
+        <!-- Inner Main -->
+        <div id="innermain">
+                                      <div class="container">
+                <div class="row">
+					                             <div class="breadcrumb"> 
+                                <div class="breadcrumbs"><ul><li><a href="http://esferico.mx/">Inicio</a></li><li><a href="http://esferico.mx/category/otros/">Otros</a></li><li class="pix-active">Valúan en 500 mil dólares camiseta perdida de Brady</li></ul></div>                            </div>
+                    	                      
+                    
+                    
+                              <!--Left Sidebar Starts-->
+  <style>.ads-banner{margin-bottom: 0;margin-top: 20px;}</style>
+		<!--Left Sidebar End-->
+    <div class="banners-content">
+      <div class="col-md-8 col-sm-6 col-xs-12 banners" style="padding-left:0;"><div class="banner-web"><div id="banner-30014" class="owl-carousel" style="float:left;">
+
+						<div class='item'><a href='https://www.facebook.com/Hospital-DMar%C3%ADa-de-Veracruz-198079463544520/?fref=ts' target='_blank'><img class='w-100 center-block' title='https://www.facebook.com/Hospital-DMar%C3%ADa-de-Veracruz-198079463544520/?fref=ts' src='http://esferico.mx/wp-content/uploads/2016/11/ORO-Hospital-D-Maria-839-x-169-dpis.jpg'/></a></div></div><script>
+
+					jQuery(document).ready(function($){
+
+						var owl = $("#banner-30014");
+
+						owl.owlCarousel({
+
+							autoPlay : true,navigation : false,slideSpeed : 300,navigation : false,singleItem:true
+
+						})
+
+					});
+
+				</script></div> <div class="banner-mobil h-190"><div id="banner-30016" class="owl-carousel" style="float:left;">
+
+						<div class='item'><a href='https://www.facebook.com/Hospital-DMar%C3%ADa-de-Veracruz-198079463544520/?fref=ts' target='_blank'><img class='w-100 center-block' title='https://www.facebook.com/Hospital-DMar%C3%ADa-de-Veracruz-198079463544520/?fref=ts' src='http://esferico.mx/wp-content/uploads/2016/11/Hospital-D-Maria-320-x-480-dpis.jpg'/></a></div>
+
+						<div class='item'><a href='http://puntatiburon.com/' target='_blank'><img class='w-100 center-block' title='http://puntatiburon.com/' src='http://esferico.mx/wp-content/uploads/2016/11/banner_web_marinas_PT_320x480.png'/></a></div></div><script>
+
+					jQuery(document).ready(function($){
+
+						var owl = $("#banner-30016");
+
+						owl.owlCarousel({
+
+							autoPlay : true,navigation : false,slideSpeed : 300,navigation : false,singleItem:true
+
+						})
+
+					});
+
+				</script></div></div><div class="col-md-4 col-sm-6 col-xs-12 banners h-190" style="padding-right:0;"><div id="banner-30018" class="owl-carousel" style="float:left;">
+
+						<div class='item'><a href='https://www.facebook.com/electrolit/?fref=ts' target='_blank'><img class='w-100 center-block' title='https://www.facebook.com/electrolit/?fref=ts' src='http://esferico.mx/wp-content/uploads/2016/11/PLATA-Electrolit-Tibus-407-x-167-dpis.jpg'/></a></div>
+
+						<div class='item'><a href='https://www.facebook.com/ilshimtkdveracruz/?fref=ts' target='_blank'><img class='w-100 center-block' title='https://www.facebook.com/ilshimtkdveracruz/?fref=ts' src='http://esferico.mx/wp-content/uploads/2016/11/PLATA-Il-Shim-407-x-167-dpis.jpg'/></a></div>
+
+						<div class='item'><a href='https://www.facebook.com/SilvestreFloreriaMx/?fref=ts' target='_blank'><img class='w-100 center-block' title='https://www.facebook.com/SilvestreFloreriaMx/?fref=ts' src='http://esferico.mx/wp-content/uploads/2016/11/Silvestre1.jpg'/></a></div>
+
+						<div class='item'><a href='https://www.facebook.com/profile.php?id=100014966403417&fref=ts' target='_blank'><img class='w-100 center-block' title='https://www.facebook.com/profile.php?id=100014966403417&fref=ts' src='http://esferico.mx/wp-content/uploads/2016/11/Logotipo-Revista.jpg'/></a></div>
+
+						<div class='item'><a href='https://www.facebook.com/Hospital-DMar%C3%ADa-de-Veracruz-198079463544520/?fref=ts' target='_blank'><img class='w-100 center-block' title='https://www.facebook.com/Hospital-DMar%C3%ADa-de-Veracruz-198079463544520/?fref=ts' src='http://esferico.mx/wp-content/uploads/2016/11/logo-analisis-nuevo.jpg'/></a></div></div><script>
+
+					jQuery(document).ready(function($){
+
+						var owl = $("#banner-30018");
+
+						owl.owlCarousel({
+
+							autoPlay : true,navigation : false,slideSpeed : 300,navigation : false,itemsCustom : [
+
+					[0, 1],
+
+					[450, 2],
+
+					[600, 2],
+
+					[700, 1],
+
+					[1000, 1],
+
+					[1200, 1],
+
+					[1400, 1],
+
+					[1600, 1]
+
+				],
+
+						})
+
+					});
+
+				</script></div>
+    </div>
+    <div class="col-md-9 col-xs-12 content-left content-layout" >
+    	<div class="subtitle"><h1 class="pix-page-title px-single-page-title">Valúan en 500 mil dólares camiseta perdida de Brady</h1></div>		<div class="blog blog_detail">
+            <article>
+                                <div class="pix-content-wrap">
+                    <div class="detail_text rich_editor_text">
+                     		<ul class="post-options">
+        	        	                 <li>
+                 	                    <time datetime="01-01-70">22 febrero, 2017</time>
+                </li>
+				<li><span>en</span> <a href="http://esferico.mx/category/otros/" rel="tag">Otros</a>, <a href="http://esferico.mx/category/ultimas-noticias/" rel="tag">Ultimas Noticias</a></li>		</ul>
+	                    <p><a href="http://esferico.mx/wp-content/uploads/2016/10/tom-brady.jpg"><img class="alignleft size-medium wp-image-27910" src="http://esferico.mx/wp-content/uploads/2016/10/tom-brady-300x193.jpg" alt="" width="300" height="193" srcset="http://esferico.mx/wp-content/uploads/2016/10/tom-brady-300x193.jpg 300w, http://esferico.mx/wp-content/uploads/2016/10/tom-brady-768x493.jpg 768w, http://esferico.mx/wp-content/uploads/2016/10/tom-brady-1024x657.jpg 1024w, http://esferico.mx/wp-content/uploads/2016/10/tom-brady.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>La camiseta extraviada del mariscal de campo de los campeones del Súper Bowl, los Patriotas de Nueva Inglaterra, Tom Brady, está valuada en 500 mil dólares, de acuerdo a un informe de la Policía de Houston.</p>
+<p>Brady no pudo encontrar su camiseta en el vestuario después de conseguir un triunfo histórico por 34-28 sobre los Halcones de Atlanta, en el Súper Bowl número 51 celebrado en el &#8220;NRG Stadium&#8221; de Houston.</p>
+<p>&#8220;La puse en mi maleta y salí un momento, cuando regresé ya no estaba ahí&#8221;, dijo el mariscal de campo.</p>
+<p>Agregó que &#8220;es una situación lamentable porque es una buena pieza de recuerdo&#8221;.</p>
+<p>Brady indicó que &#8220;si llega a aparecer a la venta en eBay, o en alguna parte, avísenme, así puedo seguir la pista&#8221;.</p>
+<p>La Policía clasifica el robo como un crimen de primer grado. / EFE</p>
+                </div>
+                    <!-- Share Post -->
+                    <div class="share-post">
+                        <div class='post-tags'>Etiquetas: <a href="http://esferico.mx/tag/tom-brady/" rel="tag">Tom Brady</a></div><ul class="social-network"><a class="addthis_button_compact btn share-now pix-bgcolr"><i class="fa fa-share-alt"></i>COMPARTIR AHORA</a></ul>                    </div>
+                    <!-- Share Post Close -->
+                    <div class="prev-nex-btn">
+                    	        <div class="single-paginate">
+			               	<div class="prev-post-paginate">
+               		<div class="col-xs-6">
+	               		<a href="http://esferico.mx/atlas-y-pumas-entre-los-posibles-rivales-del-psv/" class="pix-colr"><i class="fa fa-arrow-left"></i>
+	                    	Entrada Anterior	                    </a>
+	                    <h2 class="px-single-page-title">
+	                    	Atlas y Pumas, entre los posibles rivales del PSV	                    </h2>
+	                    <ul>
+	                    	<li><a href="http://esferico.mx/category/futbol/liga_mx/" rel="tag">Liga Mx</a></li>	                    	<li>23 febrero, 2017</li>
+	                    </ul>
+	                </div>
+	                <div class="col-xs-6">
+	                	<img src="http://esferico.mx/wp-content/uploads/2016/07/pumas-vs-leon-150x150.jpg" alt="" class="center-block">
+	                </div>
+                </div>
+                            <div class="next-post-paginate">
+                	<div class="col-xs-6">
+                		<img src="http://esferico.mx/wp-content/uploads/2016/06/guillermo-cantu-150x150.jpg" alt="" class="center-block">
+                	</div>
+                	<div class="col-xs-6">
+	                	<a href="http://esferico.mx/cantu-agradece-goleada-de-chile-a-mexico-en-copa-america/" class="pix-colr">
+	                		Entrada Siguiente <i class="fa fa-arrow-right"></i>
+	                	</a>
+	                	<h2 class="px-single-page-title">Cantú agradece goleada de Chile a México en Copa América</h2>
+	                	<ul>
+	                		<li><a href="http://esferico.mx/category/futbol/seleccion_mx/" rel="tag">Selección Mx</a> <a href="http://esferico.mx/category/ultimas-noticias/" rel="tag">Ultimas Noticias</a></li>	                		<li>23 febrero, 2017</li>
+	                	</ul>
+	                </div>
+                </div>
+                        </div>
+                             </div>
+                </div>
+                             </article>
+            </div>
+            
+		        <div class="pix-content-wrap">
+			<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Deja tu comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/valuan-en-500-mil-dolares-camiseta-perdida-de-brady/#respond" style="display:none;">Cancelar respuesta</a></small></h3><p class="must-log-in">Tienes que estar <a href="http://esferico.mx/wp-login.php?redirect_to=http%3A%2F%2Fesferico.mx%2Fvaluan-en-500-mil-dolares-camiseta-perdida-de-brady%2F">logueado</a> para comentar.</p>	</div><!-- #respond -->
+				</div>
+     </div>
+      		<aside class="sidebar-right left-content col-md-3">
+			<div class="widget widget_search"><form id="searchform" method="get" action="http://esferico.mx"  role="search">
+	<input name="s" id="searchinput" value="Búsqueda en ESFÉRICO" type="text" />
+    <label><input type="submit" class="backcolr uppercase" id="searchsubmit"  value="Buscar" /></label>
+</form>
+</div><div class="widget widget-recent-blog"><header class="pix-heading-title"><h2 class="pix-section-title heading-color">Lo + Destacado</h2></header><div class="content-article post col-xs-12">			<article>
+				                <div class="text">
+	                    <h6>
+	                        <a href="http://esferico.mx/omar-bravo-se-queda-sin-equipo-en-mexico-mls-su-unica-opcion/"  class='pix-colrhvr'>
+	                            Omar Bravo se queda sin equipo en Méxic..	                        </a>
+	                    </h6>
+	                    <p>Omar Bravo, goleador histórico de Chivas, no...</p>
+	                     	                     <div class="content-link">
+	                     	<a href="http://esferico.mx/omar-bravo-se-queda-sin-equipo-en-mexico-mls-su-unica-opcion/" class="read-more">Seguir leyendo ></a>
+	                     </div>
+					</div>
+										    		</article>
+	    			<article>
+				                <div class="text">
+	                    <h6>
+	                        <a href="http://esferico.mx/tiburones-rojos-favorecido-con-triunfos-de-toluca-y-puebla/"  class='pix-colrhvr'>
+	                            Tiburones Rojos, favorecido con triunfos..	                        </a>
+	                    </h6>
+	                    <p>Pese al descalabro contra los Tigres de...</p>
+	                     	                     <div class="content-link">
+	                     	<a href="http://esferico.mx/tiburones-rojos-favorecido-con-triunfos-de-toluca-y-puebla/" class="read-more">Seguir leyendo ></a>
+	                     </div>
+					</div>
+										    		</article>
+	    			<article>
+				                <div class="text">
+	                    <h6>
+	                        <a href="http://esferico.mx/cantu-agradece-goleada-de-chile-a-mexico-en-copa-america/"  class='pix-colrhvr'>
+	                            Cantú agradece goleada de Chile a Méxi..	                        </a>
+	                    </h6>
+	                    <p>La goleada por 0-7 que Chile infligió...</p>
+	                     	                     <div class="content-link">
+	                     	<a href="http://esferico.mx/cantu-agradece-goleada-de-chile-a-mexico-en-copa-america/" class="read-more">Seguir leyendo ></a>
+	                     </div>
+					</div>
+										    		</article>
+	    </div></div><div class="widget widget_text">			<div class="textwidget"><div id="banner-30012" class="owl-carousel" style="float:left;">
+
+						<div class='item'><a href='https://www.facebook.com/RushTerrazaBar/?fref=ts' target='_blank'><img class='w-100 center-block' title='https://www.facebook.com/RushTerrazaBar/?fref=ts' src='http://esferico.mx/wp-content/uploads/2016/11/BRONCE-Rush-315-x-200-dpis.jpg'/></a></div></div><script>
+
+					jQuery(document).ready(function($){
+
+						var owl = $("#banner-30012");
+
+						owl.owlCarousel({
+
+							autoPlay : true,navigation : false,slideSpeed : 300,navigation : false,itemsCustom : [
+
+					[0, 1],
+
+					[450, 2],
+
+					[600, 2],
+
+					[700, 1],
+
+					[1000, 1],
+
+					[1200, 1],
+
+					[1400, 1],
+
+					[1600, 1]
+
+				],
+
+						})
+
+					});
+
+				</script></div>
+		</div>        </aside>
+ 	                </div>
+            </div> 
+                                         </div>
+    	<!-- Inner Main -->
+    </div>
+    <div class="footer-widget">
+        <div class="col-md-4 col-sm-4 col-xs-12 logo-footer">
+            				<a href="http://esferico.mx">
+                	<img src="http://esferico.mx/wp-content/uploads/2016/11/Logo-Slogan.png"  style="width:250px; height:67px" 
+                    alt="Esferico" />
+                </a>
+	 		        </div>
+        <div class="col-md-8 col-sm-8 col-xs-12 links-footer">
+            <div class="col-md-4 col-sm-4 col-xs-6">
+                <ul>
+                    <li><a href="http://esferico.mx/contacto">> ANÚNCIATE</a></li>
+                    <li><a href="http://esferico.mx/acerca-de-nosotros">> ACERCA DE NOSOTROS</a></li>
+                    <li><a href="http://esferico.mx/aviso-de-privacidad">> POLÍTICAS DE PRIVACIDAD</a></li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-6">
+                <ul>
+                    <li>> REDES SOCIALES
+                        <ul>
+                            <li><a href="https://es-la.facebook.com/esfericomxver/" target="_blank">FACEBOOK</a></li>
+                            <li><a href="https://twitter.com/Esfericover?lang=es" target="_blank">TWITTER</a></li>
+			    <li><a href="https://www.instagram.com/esfericorv/" target="_blank">INSTAGRAM</a></li>                           
+     			    <li><a href="https://www.youtube.com/channel/UCViJ40bOhsk3IfBRAbG4rzg" target="_blank">YOUTUBE</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <a class="link-gallo" href="http://paginaswebenveracruz.mx">Desarrollado por GalloReyna.com</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Wrapper End -->
+<script type="text/javascript">/* <![CDATA[ */ jQuery(document).ready( function() { jQuery.post( "http://esferico.mx/wp-admin/admin-ajax.php", { action : "entry_views", _ajax_nonce : "0d6ffce742", post_id : 37757 } ); } ); /* ]]> */</script>
+<script type='text/javascript' src='http://esferico.mx/wp-includes/js/comment-reply.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/esferico.mx\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://esferico.mx/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"es-MX","strings":{"Close":"Cerrar","Fullscreen":"Pantalla completa","Turn off Fullscreen":"Salir de pantalla completa","Go Fullscreen":"Ver en pantalla completa","Download File":"Descargar archivo","Download Video":"Descargar v\u00eddeo","Play":"Reproducir","Pause":"Pausa","Captions\/Subtitles":"Pies de foto \/ Subt\u00edtulos","None":"None","Time Slider":"Control deslizante de tiempo","Skip back %1 seconds":"Retroceder %1 segundos","Video Player":"Reproductor de video","Audio Player":"Reproductor de audio","Volume Slider":"Control deslizante de volumen","Mute Toggle":"Desactivar sonido","Unmute":"Activar sonido","Mute":"Silenciar","Use Up\/Down Arrow keys to increase or decrease volume.":"Use las teclas de flecha arriba\/abajo para incrementar o disminuir el volumen.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use las teclas de flecha izquierda\/derecha para avanzar un segundo, las flechas arriba\/abajo para avanzar diez segundos."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://esferico.mx/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-content/themes/kingclub-theme/scripts/frontend/bootstrap.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-content/themes/kingclub-theme/scripts/frontend/modernizr.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-content/themes/kingclub-theme/scripts/frontend/jquery.prettyphoto.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-content/themes/kingclub-theme/scripts/frontend/marquee.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://esferico.mx/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://s7.addthis.com/js/250/addthis_widget.js?ver=4.7.2#pubid=xa-4e4412d954dccc64'></script>
+</body>
+</html>

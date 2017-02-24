@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Description" content="Medical News">
+    <meta name="Keywords" content="Medical News">
+    <title>drifterup Medical News</title>
+    <link href="/Content/bootstrap.css" rel="stylesheet"/>
+<link href="/Content/site.css" rel="stylesheet"/>
+
+    <script src="/Scripts/modernizr-2.6.2.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="/prueba/imtech_pager.js"></script>
+    <script src="/prueba/jjquery.min.js"></script>
+    <link href="/prueba/main.css" rel="stylesheet" />
+    <style>
+        .carousel-inner > .item > img,
+        .carousel-inner > .item > a > img {
+            width: 60%;
+            margin: auto;
+        }
+    </style>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-88458945-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">DrifterUp-SportNews</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="/">Home</a></li>
+                    
+                    
+                    <li><a href="/News/searchNews">Search</a></li>
+                    <li><a href="http://businessnews.drifterup.com/">Business News</a></li>
+                    <li><a href="http://sciencenews.drifterup.com/">Science News</a></li>
+                    <li><a href="http://itnews.drifterup.com/">Technology News</a></li>
+                    <li><a href="http://medicalnews.drifterup.com/">Medical News</a></li>                
+                    <li><a href="http://viralnews.drifterup.com/">Viral News</a></li>
+                    
+                </ul>
+               
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        
+
+
+
+<h2>Details</h2>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+           
+        </dt>
+
+        <dd>
+            <div class="img-thumbnail">
+                <iframe style="width:120px;height:240px;" marginwidth="0"
+                        marginheight="0" scrolling="no" frameborder="0"
+                        src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=B01DFKC2SO&asins=B01DFKC2SO&linkId=6ea3acfacb221067cebd315dd0a08d1f&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+                <iframe style="width:120px;height:240px;" marginwidth="0"
+                        marginheight="0" scrolling="no" frameborder="0"
+                        src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=B015TJD0Y4&asins=B015TJD0Y4&linkId=d156369e35d59499f5cd8211c26ea3eb&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+                <iframe style="width:120px;height:240px;" marginwidth="0"
+                        marginheight="0" scrolling="no" frameborder="0"
+                        src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=1630060879&asins=1630060879&linkId=b01cfbb45a114091e2e119396c8c5025&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+                <iframe style="width:120px;height:240px;" marginwidth="0"
+                        marginheight="0" scrolling="no" frameborder="0"
+                        src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=B004S8F7QM&asins=B004S8F7QM&linkId=51156327e5817c5252458835aca94c39&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+                <iframe style="width:120px;height:240px;" marginwidth="0"
+                        marginheight="0" scrolling="no" frameborder="0"
+                        src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=1328683788&asins=1328683788&linkId=0aefb9d098845f921a80346b4db6eef5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+                <iframe style="width:120px;height:240px;" marginwidth="0" 
+                        marginheight="0" scrolling="no" frameborder="0" 
+                        src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=B00U3FPN4U&asins=B00U3FPN4U&linkId=0bde58756ebe7730ae91e7567d53544d&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+
+            </div>
+        </dd>
+
+        <dt>
+           
+                Title
+            
+        </dt>
+
+        <dd>
+            <h5>
+
+                2017 NFL Mock Draft: Cowboys, Patriots, Falcons, Lions, Browns nab pass-rush help
+            </h5>
+        </dd>
+
+        <dt>
+            
+                Description
+           
+        </dt>
+
+        <dd>
+            <h5>
+                John Ross , WR, Washington Huskies : Mike Evans was one of the five or 10 best receivers in the NFL in 2016, but the Bucs didn&#39;t really have another weapon to complement him.
+            </h5>
+        </dd>
+
+        
+
+        <dt>
+            Date
+        </dt>
+
+        <dd>
+            2/18/2017
+        </dd>
+
+        <dt>
+            Social Share
+        </dt>
+
+        <dd>
+            <a href="http://twitter.com/share?text=An%20Awesome%20Link&url=http://SportNews.drifterup.com/News/Details/9312" target="_blank">
+                <img src="/social/twitter.png">
+            </a>
+            <a href="http://www.facebook.com/sharer.php?u=http://SportNews.drifterup.com/News/Details/9312" target="_blank">
+                <img src="/social/facebook.png">
+
+            </a>
+
+        </dd>
+
+        
+
+        
+        <dt>
+            Web 
+        </dt>
+
+        <dd>
+  <!-- HTML for desktop device -->
+                <iframe src=http://www.cbssports.com/nfl/news/2017-nfl-mock-draft-cowboys-patriots-falcons-lions-browns-nab-pass-rush-help/ height="700" width="1000" class="img-responsivex"></iframe>
+           
+            
+            
+        </dd>
+        
+        <dt>
+            Link Source 
+        </dt>
+
+        <dd>
+
+            <a href=http://www.cbssports.com/nfl/news/2017-nfl-mock-draft-cowboys-patriots-falcons-lions-browns-nab-pass-rush-help/ target="_blank">
+                Link Source
+            </a>
+           
+        </dd>
+
+        <dt>
+            Category
+        </dt>
+
+        <dd>
+            NFL 
+        </dd>
+
+        
+
+        <dt>
+            
+
+        </dt>
+
+        <dd>
+            <div>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Hack">Hack</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Big Data">Big Data</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Analytics Apps and Software">Analytics Apps and Software</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Artificial Intelligence">Artificial Intelligence</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Big Data">Big Data</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Hadoop">Hadoop</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cloud Computing">Cloud Computing</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cloud Security">Cloud Security</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cloud Infrastructure">Cloud Infrastructure</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cloud Open Source">Cloud Open Source</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Apple Watch and Smartwatches">Apple Watch and Smartwatches</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Connected Cars">IoT Connected Cars</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Drones">IoT Drones</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Fitness and Health Trackers">IoT Fitness and Health Trackers</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Industrial Internet">IoT Industrial Internet</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Internet of Things">Internet of Things</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Smart Cities">IoT Smart Cities</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Smart Farms">IoT Smart Farms</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Smart Glasses">IoT Smart Glasses</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Smart Grids and Energy">IoT Smart Grids and Energy</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Smart Homes">IoT Smart Homes</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Apps">Apps</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Crowdsourced Devices">Crowdsourced Devices</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Enterprise Mobility">Enterprise Mobility</a>
+
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Google Pixel">Google Pixel</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Laptops">Laptops</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=MacBook Pro">MacBook Pro</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Smart Glasses">Smart Glasses</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Telecommuting">Telecommuting</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Telecommuting">Telecommuting</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Hacks">Hacks</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cybercrime">Cybercrime</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cybercriminals">Cybercriminals</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Data and Network Breaches">Data and Network Breaches</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Hackers">Hackers</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=DDoS and DNS Attacks">DDoS and DNS Attacks</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Exploits and Security Flaws">Exploits and Security Flaws</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Malware">Malware</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Androi">Androi</a>
+
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Linux">Linux</a>
+                <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Microsoft">Microsoft</a>
+
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyberbullying">Cyberbullying</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Harassment">Cyber Harassment</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyberstalking">Cyberstalking</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=INTERNET TROLLS">INTERNET TROLLS</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyberbullied">Cyberbullied</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Attack">Cyber Attack</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Internet Radio Trolls">Internet Radio Trolls</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Online Predators">Online Predators</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Internet Addiction">Internet Addiction</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cybercriminal Minds">Cybercriminal Minds</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Online Predatory Trolls">Online Predatory Trolls</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cybercrime">Cybercrime</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Online Harassment">Online Harassment</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Terrorism">Cyber Terrorism</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Online Trolling">Online Trolling</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Identity Theft news">Identity Theft news</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Extortion">Cyber Extortion</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Sex Extortion">Sex Extortion</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Fraud">Cyber Fraud</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=hacktivist">hacktivist</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cybercrime Prevention">Cybercrime Prevention</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Laws">Cyber Laws</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Hackers">Hackers</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Hacks">Hacks</a>
+                <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Anonymous Hacks">Anonymous Hacks</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=business">business</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=trump business">trump business</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=leadership business">leadership business</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=marketing">marketing</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=digital Marketing">digital Marketing</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=social media">social media</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=finance">finance</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=starting a business">starting a business</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Tech Businesses">Tech Businesses</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=video Businesses">video Businesses</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=event Businesses">event Businesses</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=small Businesses">small Businesses</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Ecommerce">Ecommerce</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Mobile Apps">Mobile Apps</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Mobile Marketing">Mobile Marketing</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Web Analytics">Web Analytics</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Online Marketing">Online Marketing</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business Opportunities">Business Opportunities</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Management">Management</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business Loans">Business Loans</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business Security Systems">Business Security Systems</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Childrens Businesses">Childrens Businesses</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Franchise business">Franchise business</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Entrepreneur">Entrepreneur</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Entrepreneurship">Entrepreneurship</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Personal branding">Personal branding</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Personal brand">Personal brand</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business trends">Business trends</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business ideas">Business ideas</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Make money">Make money</a>
+                <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business Innovations">Business Innovations</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Apple Pay">Apple Pay</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Asset Management">Asset Management</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Banking Apps">Banking Apps</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Banking Platforms and Solutions">Banking Platforms and Solutions</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Banking Regulations">Banking Regulations</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Banking Technology">Banking Technology</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Contactless Payments">Contactless Payments</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Credit Card Fraud">Credit Card Fraud</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Debit Cards">Debit Cards</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Emerging Payment Companies">Emerging Payment Companies</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Gift Cards">Gift Cards</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Investment Management">Investment Management</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Mobile Payments">Mobile Payments</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Mutual Funds">Mutual Funds</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Payment Processing">Payment Processing</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Pension Plans">Pension Plans</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Point-of-Sale">Point-of-Sale</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Prepaid Cards">Prepaid Cards</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Retirement Planning">Retirement Planning</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Student Loans">Student Loans</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Trends in Banking">Trends in Banking</a>
+                <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Virtual Currencies">Virtual Currencies</a>
+
+
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Anthropology Science">Anthropology Science</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Archeology Science">Archeology Science</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Astronomy Science">Astronomy Science</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Biology Science">Biology Science</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Biochemistry Science">Biochemistry Science</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Everyday  Science">Everyday  Science</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Science and Politics">Science and Politics</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Scientists">Scientists</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Scientific speculation">Scientific speculation</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Physical Research">Physical Research</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Geology research">Geology research</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=History science">History science</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Maths Science">Maths Science</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Medicine science">Medicine science</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Meteorology research">Meteorology research</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Neuroscience research">Neuroscience research</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Pseudoscience research">Pseudoscience research</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Psychology">Psychology</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Chemistry Science">Chemistry Science</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Technology">Technology</a>
+                <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Science">Science</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Illegal Drugs">Illegal Drugs</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=ADHD">ADHD</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Aid">Aid</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Allergy">Allergy</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Alternative Medicine">Alternative Medicine</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Alzheimers">Alzheimers</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Anxiety Stress">Anxiety Stress</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Arthritis - Rheumatology">Arthritis - Rheumatology</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Asbestos - Mesothelioma">Asbestos - Mesothelioma</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Respiratory - Asthma">Respiratory - Asthma</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Autism">Autism</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Back Pain">Back Pain</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Bio-terrorism - Terrorism">Bio-terrorism - Terrorism</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Biology - Biochemistry">Biology - Biochemistry</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Bipolar">Bipolar</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Bird Flu - Avian Flu">Bird Flu - Avian Flu</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Body Aches">Body Aches</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Bones - Orthopedics">Bones - Orthopedics</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Body Aches">Body Aches</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Breast Cancer">Breast Cancer</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cancer - Oncology">Cancer - Oncology</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cardiovascular - Cardiology">Cardiovascular - Cardiology</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Caregivers - Homecare">Caregivers - Homecare</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cervical Cancer - HPV Vaccine">Cervical Cancer - HPV Vaccine</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cholesterol">Cholesterol</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cleft Palate">Cleft Palate</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Colorectal Cancer">Colorectal Cancer</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Complementary Medicine">Complementary Medicine</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Compliance">Compliance</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=COPD">COPD</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cosmetic Medicine">Cosmetic Medicine</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Crohns">Crohns</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cystic Fibrosis">Cystic Fibrosis</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Dentistry">Dentistry</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Depression">Depression</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Dermatology">Dermatology</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Diabetes">Diabetes</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Drug Approvals">Drug Approvals</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Dyslexia">Dyslexia</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Ear, Nose and Throat">Ear, Nose and Throat</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Eating Disorders">Eating Disorders</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Ebola">Ebola</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Eczema - Psoriasis">Eczema - Psoriasis</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Emergency Medicine">Emergency Medicine</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Endocrinology">Endocrinology</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Epilepsy">Epilepsy</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Erectile Dysfunction">Erectile Dysfunction</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Eye Health - Blindness">Eye Health - Blindness</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Fertility">Fertility</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Fibromyalgia">Fibromyalgia</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Flu - Cold - SARS">Flu - Cold - SARS</a>
+                <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Food Intolerance">Food Intolerance</a>
+
+            </div>
+        </dd>
+
+        
+
+    </dl>
+</div>
+
+<h4>Last News </h4>
+<div id="content">
+
+    <div class="container">
+        <div class="list-group">
+                <a href=/News/Details/10869 class="list-group-item list-group-item-action">
+                    <h4 class="list-group-item-heading">Syracuse basketball vs. Duke: 10 things to watch for </h4>
+                    <p class="list-group-item-text">2/22/2017 Syracuse (16-12, 8-7) hosts No. 10 Duke (22-5, 10-4) at the Carrier Dome on Wednesday night. The Blue Devils have won seven in a row, while Syracuse has lost its last three games. </p>
+                    <img src=http://cp1colorado.drifterup.com/Uploads/Sport/28.jpg class="img-thumbnail" width="150" height="150">
+
+                </a>
+                <a href=/News/Details/10868 class="list-group-item list-group-item-action">
+                    <h4 class="list-group-item-heading">Jamie Lynn Spears&#39; daughter Maddie, 8, returns to basketball court after ATV accident </h4>
+                    <p class="list-group-item-text">2/22/2017 Jamie Lynn Spears&#39; daughter continued her miraculous recovery from a harrowing ATV accident by returning to the basketball court on Tuesday. Maddie, 8, attended practice less than two weeks after she was released from a New Orleans hospital following&#160;... </p>
+                    <img src=http://cp1colorado.drifterup.com/Uploads/Sport/9.jpg class="img-thumbnail" width="150" height="150">
+
+                </a>
+                <a href=/News/Details/10867 class="list-group-item list-group-item-action">
+                    <h4 class="list-group-item-heading">Stamford man charged in college basketball brawl </h4>
+                    <p class="list-group-item-text">2/22/2017 A city man is among two college students arrested over the weekend after a fight broke out during a basketball game at Daniel Webster College in New Hampshire. </p>
+                    <img src=http://cp1colorado.drifterup.com/Uploads/Sport/10.jpg class="img-thumbnail" width="150" height="150">
+
+                </a>
+                <a href=/News/Details/10866 class="list-group-item list-group-item-action">
+                    <h4 class="list-group-item-heading">Updated Player of the Year Rankings for College Basketball in 2016-17 </h4>
+                    <p class="list-group-item-text">2/22/2017 We&#39;re deep enough into the college basketball season that the statistics guys are putting up are probably going to be close to how they finish. </p>
+                    <img src=http://cp1colorado.drifterup.com/Uploads/Sport/17.jpg class="img-thumbnail" width="150" height="150">
+
+                </a>
+                <a href=/News/Details/10865 class="list-group-item list-group-item-action">
+                    <h4 class="list-group-item-heading">College basketball roundup: Cline goes deep for Purdue in OT </h4>
+                    <p class="list-group-item-text">2/22/2017 Ryan Cline scored six of his 11 points in overtime to lift No. 14 Purdue to a 74-70 victory over Penn State on Tuesday night at State College, Pa. </p>
+                    <img src=http://cp1colorado.drifterup.com/Uploads/Sport/6.jpg class="img-thumbnail" width="150" height="150">
+
+                </a>
+                <a href=/News/Details/10864 class="list-group-item list-group-item-action">
+                    <h4 class="list-group-item-heading">Nelson&#39;s numbers off the charts for Henderson basketball </h4>
+                    <p class="list-group-item-text">2/22/2017 Henderson County has produced some truly-elite boys basketball players in the past - a small number even went on to the ACC. </p>
+                    <img src=http://cp1colorado.drifterup.com/Uploads/Sport/20.jpg class="img-thumbnail" width="150" height="150">
+
+                </a>
+                <a href=/News/Details/10863 class="list-group-item list-group-item-action">
+                    <h4 class="list-group-item-heading">College basketball national title odds: Duke, Kentucky among 5 best bets </h4>
+                    <p class="list-group-item-text">2/22/2017 Hey, you. Are you looking to throw some dough towards the college basketball world? Maybe risk a little money for a potential payout? </p>
+                    <img src=http://cp1colorado.drifterup.com/Uploads/Sport/14.jpg class="img-thumbnail" width="150" height="150">
+
+                </a>
+                <a href=/News/Details/10862 class="list-group-item list-group-item-action">
+                    <h4 class="list-group-item-heading">Boys&#39; basketball: Thornton Academy stops Gorham </h4>
+                    <p class="list-group-item-text">2/22/2017 The Thornton Academy boys&#39; basketball team was so dominant on the defensive end early in its Class AA South semifinal against Gorham that even surrendering 33 points in the final quarter couldn&#39;t doom the Trojans. </p>
+                    <img src=http://cp1colorado.drifterup.com/Uploads/Sport/10.jpg class="img-thumbnail" width="150" height="150">
+
+                </a>
+                <a href=/News/Details/10861 class="list-group-item list-group-item-action">
+                    <h4 class="list-group-item-heading">Kentucky basketball: Recap, box score from 72-62 win at Missouri </h4>
+                    <p class="list-group-item-text">2/22/2017 It wasn&#39;t the blowout most would&#39;ve expected in a Kentucky-Missouri matchup, but the Cats secured a 72-62 road win in Columbia, Mo. </p>
+                    <img src=http://cp1colorado.drifterup.com/Uploads/Sport/8.jpg class="img-thumbnail" width="150" height="150">
+
+                </a>
+                <a href=/News/Details/10860 class="list-group-item list-group-item-action">
+                    <h4 class="list-group-item-heading">Men&#39;s Basketball </h4>
+                    <p class="list-group-item-text">2/22/2017 KeVaughn Allen&#39;s 26 points helped push Florida past the Gamecocks in a 81-66 victory. Florida now sits atop the SEC standings. </p>
+                    <img src=http://cp1colorado.drifterup.com/Uploads/Sport/8.jpg class="img-thumbnail" width="150" height="150">
+
+                </a>
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="row">
+
+    <div class="col-sm-4">
+
+        <div class="img-thumbnail">
+            <iframe style="width:120px;height:240px;" marginwidth="0" 
+                    marginheight="0" scrolling="no" frameborder="0" 
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=0804171459&asins=0804171459&linkId=553ad202621e91e9b49dc58846d304e2&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+            <iframe style="width:120px;height:240px;" marginwidth="0" 
+                    marginheight="0" scrolling="no" frameborder="0" 
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=039335217X&asins=039335217X&linkId=955c0269f68b85e632fbf3cbbdee39b9&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+            <iframe style="width:120px;height:240px;" marginwidth="0" 
+                    marginheight="0" scrolling="no" frameborder="0" 
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=1597499579&asins=1597499579&linkId=7882c409987de38a0bdaf1e25c7f4e62&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+            <iframe style="width:120px;height:240px;" marginwidth="0" 
+                    marginheight="0" scrolling="no" frameborder="0" 
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=1782174788&asins=1782174788&linkId=c0770ff519e02b80ae768982251b3d67&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+            <iframe style="width:120px;height:240px;" marginwidth="0" 
+                    marginheight="0" scrolling="no" frameborder="0" 
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=1118889800&asins=1118889800&linkId=1a571224dc205bcfe3e9552503859152&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+            <iframe style="width:120px;height:240px;" marginwidth="0"
+                    marginheight="0" scrolling="no" frameborder="0"
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=1119285666&asins=1119285666&linkId=f6ccc9146c9e24e678326c81610b4ac6&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+
+        </div>
+
+    </div>
+
+
+
+    <div class="col-sm-4">
+
+        <div class="img-thumbnail">
+            <iframe style="width:120px;height:240px;" marginwidth="0"
+                    marginheight="0" scrolling="no" frameborder="0"
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=B01DFKC2SO&asins=B01DFKC2SO&linkId=6ea3acfacb221067cebd315dd0a08d1f&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+            <iframe style="width:120px;height:240px;" marginwidth="0"
+                    marginheight="0" scrolling="no" frameborder="0"
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=B015TJD0Y4&asins=B015TJD0Y4&linkId=d156369e35d59499f5cd8211c26ea3eb&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+            <iframe style="width:120px;height:240px;" marginwidth="0"
+                    marginheight="0" scrolling="no" frameborder="0"
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=1630060879&asins=1630060879&linkId=b01cfbb45a114091e2e119396c8c5025&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+            <iframe style="width:120px;height:240px;" marginwidth="0"
+                    marginheight="0" scrolling="no" frameborder="0"
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=B004S8F7QM&asins=B004S8F7QM&linkId=51156327e5817c5252458835aca94c39&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+            <iframe style="width:120px;height:240px;" marginwidth="0"
+                    marginheight="0" scrolling="no" frameborder="0"
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=1328683788&asins=1328683788&linkId=0aefb9d098845f921a80346b4db6eef5&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+            <iframe style="width:120px;height:240px;" marginwidth="0"
+                    marginheight="0" scrolling="no" frameborder="0"
+                    src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=drifterup-20&marketplace=amazon&region=US&placement=1119285666&asins=1119285666&linkId=f6ccc9146c9e24e678326c81610b4ac6&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+
+
+        </div>
+
+    </div>
+
+
+    <div class="col-sm-4">
+        <div>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Hack">Hack</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Big Data">Big Data</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Analytics Apps and Software">Analytics Apps and Software</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Artificial Intelligence">Artificial Intelligence</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Big Data">Big Data</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Hadoop">Hadoop</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cloud Computing">Cloud Computing</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cloud Security">Cloud Security</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cloud Infrastructure">Cloud Infrastructure</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cloud Open Source">Cloud Open Source</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Apple Watch and Smartwatches">Apple Watch and Smartwatches</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Connected Cars">IoT Connected Cars</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Drones">IoT Drones</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Fitness and Health Trackers">IoT Fitness and Health Trackers</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Industrial Internet">IoT Industrial Internet</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Internet of Things">Internet of Things</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Smart Cities">IoT Smart Cities</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Smart Farms">IoT Smart Farms</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Smart Glasses">IoT Smart Glasses</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Smart Grids and Energy">IoT Smart Grids and Energy</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=IoT Smart Homes">IoT Smart Homes</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Apps">Apps</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Crowdsourced Devices">Crowdsourced Devices</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Enterprise Mobility">Enterprise Mobility</a>
+
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Google Pixel">Google Pixel</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Laptops">Laptops</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=MacBook Pro">MacBook Pro</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Smart Glasses">Smart Glasses</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Telecommuting">Telecommuting</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Telecommuting">Telecommuting</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Hacks">Hacks</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cybercrime">Cybercrime</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Cybercriminals">Cybercriminals</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Data and Network Breaches">Data and Network Breaches</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Hackers">Hackers</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=DDoS and DNS Attacks">DDoS and DNS Attacks</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Exploits and Security Flaws">Exploits and Security Flaws</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Malware">Malware</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Androi">Androi</a>
+
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Linux">Linux</a>
+            <a href="http://itnews.drifterup.com/News/searchNews?SearchString=&idCat=Microsoft">Microsoft</a>
+
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyberbullying">Cyberbullying</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Harassment">Cyber Harassment</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyberstalking">Cyberstalking</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=INTERNET TROLLS">INTERNET TROLLS</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyberbullied">Cyberbullied</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Attack">Cyber Attack</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Internet Radio Trolls">Internet Radio Trolls</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Online Predators">Online Predators</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Internet Addiction">Internet Addiction</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cybercriminal Minds">Cybercriminal Minds</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Online Predatory Trolls">Online Predatory Trolls</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cybercrime">Cybercrime</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Online Harassment">Online Harassment</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Terrorism">Cyber Terrorism</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Online Trolling">Online Trolling</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Identity Theft news">Identity Theft news</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Extortion">Cyber Extortion</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Sex Extortion">Sex Extortion</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Fraud">Cyber Fraud</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=hacktivist">hacktivist</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cybercrime Prevention">Cybercrime Prevention</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Cyber Laws">Cyber Laws</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Hackers">Hackers</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Hacks">Hacks</a>
+            <a href="http://badtechnologynews.drifterup.com/News/searchNews?SearchString=&idCat=Anonymous Hacks">Anonymous Hacks</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=business">business</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=trump business">trump business</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=leadership business">leadership business</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=marketing">marketing</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=digital Marketing">digital Marketing</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=social media">social media</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=finance">finance</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=starting a business">starting a business</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Tech Businesses">Tech Businesses</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=video Businesses">video Businesses</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=event Businesses">event Businesses</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=small Businesses">small Businesses</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Ecommerce">Ecommerce</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Mobile Apps">Mobile Apps</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Mobile Marketing">Mobile Marketing</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Web Analytics">Web Analytics</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Online Marketing">Online Marketing</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business Opportunities">Business Opportunities</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Management">Management</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business Loans">Business Loans</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business Security Systems">Business Security Systems</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Childrens Businesses">Childrens Businesses</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Franchise business">Franchise business</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Entrepreneur">Entrepreneur</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Entrepreneurship">Entrepreneurship</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Personal branding">Personal branding</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Personal brand">Personal brand</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business trends">Business trends</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business ideas">Business ideas</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Make money">Make money</a>
+            <a href="http://businessnews.drifterup.com/News/searchNews?SearchString=&idCat=Business Innovations">Business Innovations</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Apple Pay">Apple Pay</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Asset Management">Asset Management</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Banking Apps">Banking Apps</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Banking Platforms and Solutions">Banking Platforms and Solutions</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Banking Regulations">Banking Regulations</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Banking Technology">Banking Technology</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Contactless Payments">Contactless Payments</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Credit Card Fraud">Credit Card Fraud</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Debit Cards">Debit Cards</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Emerging Payment Companies">Emerging Payment Companies</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Gift Cards">Gift Cards</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Investment Management">Investment Management</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Mobile Payments">Mobile Payments</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Mutual Funds">Mutual Funds</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Payment Processing">Payment Processing</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Pension Plans">Pension Plans</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Point-of-Sale">Point-of-Sale</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Prepaid Cards">Prepaid Cards</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Retirement Planning">Retirement Planning</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Student Loans">Student Loans</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Trends in Banking">Trends in Banking</a>
+            <a href="http://financialnews.drifterup.com/News/searchNews?SearchString=&idCat=Virtual Currencies">Virtual Currencies</a>
+
+
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Anthropology Science">Anthropology Science</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Archeology Science">Archeology Science</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Astronomy Science">Astronomy Science</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Biology Science">Biology Science</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Biochemistry Science">Biochemistry Science</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Everyday  Science">Everyday  Science</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Science and Politics">Science and Politics</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Scientists">Scientists</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Scientific speculation">Scientific speculation</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Physical Research">Physical Research</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Geology research">Geology research</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=History science">History science</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Maths Science">Maths Science</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Medicine science">Medicine science</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Meteorology research">Meteorology research</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Neuroscience research">Neuroscience research</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Pseudoscience research">Pseudoscience research</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Psychology">Psychology</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Chemistry Science">Chemistry Science</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Technology">Technology</a>
+            <a href="http://sciencenews.drifterup.com/News/searchNews?SearchString=&idCat=Science">Science</a>
+
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Illegal Drugs">Illegal Drugs</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=ADHD">ADHD</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Aid">Aid</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Allergy">Allergy</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Alternative Medicine">Alternative Medicine</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Alzheimers">Alzheimers</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Anxiety Stress">Anxiety Stress</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Arthritis - Rheumatology">Arthritis - Rheumatology</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Asbestos - Mesothelioma">Asbestos - Mesothelioma</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Respiratory - Asthma">Respiratory - Asthma</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Autism">Autism</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Back Pain">Back Pain</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Bio-terrorism - Terrorism">Bio-terrorism - Terrorism</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Biology - Biochemistry">Biology - Biochemistry</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Bipolar">Bipolar</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Bird Flu - Avian Flu">Bird Flu - Avian Flu</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Body Aches">Body Aches</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Bones - Orthopedics">Bones - Orthopedics</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Body Aches">Body Aches</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Breast Cancer">Breast Cancer</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cancer - Oncology">Cancer - Oncology</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cardiovascular - Cardiology">Cardiovascular - Cardiology</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Caregivers - Homecare">Caregivers - Homecare</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cervical Cancer - HPV Vaccine">Cervical Cancer - HPV Vaccine</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cholesterol">Cholesterol</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cleft Palate">Cleft Palate</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Colorectal Cancer">Colorectal Cancer</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Complementary Medicine">Complementary Medicine</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Compliance">Compliance</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=COPD">COPD</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cosmetic Medicine">Cosmetic Medicine</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Crohns">Crohns</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Cystic Fibrosis">Cystic Fibrosis</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Dentistry">Dentistry</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Depression">Depression</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Dermatology">Dermatology</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Diabetes">Diabetes</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Drug Approvals">Drug Approvals</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Dyslexia">Dyslexia</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Ear, Nose and Throat">Ear, Nose and Throat</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Eating Disorders">Eating Disorders</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Ebola">Ebola</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Eczema - Psoriasis">Eczema - Psoriasis</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Emergency Medicine">Emergency Medicine</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Endocrinology">Endocrinology</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Epilepsy">Epilepsy</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Erectile Dysfunction">Erectile Dysfunction</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Eye Health - Blindness">Eye Health - Blindness</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Fertility">Fertility</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Fibromyalgia">Fibromyalgia</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Flu - Cold - SARS">Flu - Cold - SARS</a>
+            <a href="http://medicalnews.drifterup.com/News/searchNews?SearchString=&idCat=Food Intolerance">Food Intolerance</a>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+
+<div>
+
+    <a href="/News/searchNews">View More</a>
+
+</div>
+
+
+
+
+
+
+        <hr />
+        <footer>
+            <p>&copy; 2017 - drifterup</p>
+        </footer>
+    </div>
+
+    <script src="/Scripts/jquery-1.10.2.js"></script>
+
+    <script src="/Scripts/bootstrap.js"></script>
+<script src="/Scripts/respond.js"></script>
+
+    
+</body>
+</html>

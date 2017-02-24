@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Islamic State Vows More Attacks | Patriots And Politics</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://patriotsandpolitics.com/xmlrpc.php" />
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Patriots And Politics &raquo; Feed" href="http://patriotsandpolitics.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Patriots And Politics &raquo; Comments Feed" href="http://patriotsandpolitics.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Patriots And Politics &raquo; Islamic State Vows More Attacks Comments Feed" href="http://patriotsandpolitics.com/islamic-state-vows-more-attacks/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/patriotsandpolitics.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='rfw-style-css'  href='http://patriotsandpolitics.com/wp-content/plugins/rss-feed-widget/style.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rfw-slider-style-css'  href='http://patriotsandpolitics.com/wp-content/plugins/rss-feed-widget/jquery.bxslider.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='super-rss-reader-css-css'  href='http://patriotsandpolitics.com/wp-content/plugins/super-rss-reader/public/srr-css.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='quads-styles-css'  href='http://patriotsandpolitics.com/wp-content/plugins/quick-adsense-reloaded/assets/css/quads.css?ver=1.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='tdmagazine-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C700%7CRoboto+Slab%3A400%2C700&#038;subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='tdmagazine-css-framework-css'  href='http://patriotsandpolitics.com/wp-content/themes/tdmagazine/css/bootstrap.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tdmagazine-icons-css'  href='http://patriotsandpolitics.com/wp-content/themes/tdmagazine/css/font-awesome.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tdmagazine-style-css'  href='http://patriotsandpolitics.com/wp-content/themes/tdmagazine/style.css?ver=4.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://patriotsandpolitics.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://patriotsandpolitics.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rfw = {"speed":"500"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://patriotsandpolitics.com/wp-content/plugins/rss-feed-widget/functions.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://patriotsandpolitics.com/wp-content/plugins/rss-feed-widget/jquery.bxslider.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://patriotsandpolitics.com/wp-content/plugins/super-rss-reader/public/srr-js.js?ver=4.7.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tdmagazineParams = {"isBreakingNews":"1","isFixedMenu":"","backgroundImages":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://patriotsandpolitics.com/wp-content/themes/tdmagazine/js/tdmagazine.js?ver=201301'></script>
+<link rel='https://api.w.org/' href='http://patriotsandpolitics.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://patriotsandpolitics.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://patriotsandpolitics.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='U.S. Defense: No to Iraqi Oil' href='http://patriotsandpolitics.com/u-s-defense-no-to-iraqi-oil/' />
+<link rel='next' title='CNN shuts down guest for &#8216;fake news&#8217; claim' href='http://patriotsandpolitics.com/cnn-shuts-down-guest-for-fake-news-claim/' />
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel="canonical" href="http://patriotsandpolitics.com/islamic-state-vows-more-attacks/" />
+<link rel='shortlink' href='http://patriotsandpolitics.com/?p=5709' />
+<link rel="alternate" type="application/json+oembed" href="http://patriotsandpolitics.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpatriotsandpolitics.com%2Fislamic-state-vows-more-attacks%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://patriotsandpolitics.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpatriotsandpolitics.com%2Fislamic-state-vows-more-attacks%2F&#038;format=xml" />
+<!--[if lt IE 9]><script src='http://patriotsandpolitics.com/wp-content/themes/tdmagazine/js/html5.js'></script><![endif]--> 
+<meta name="ca_title" content="Islamic State Vows More Attacks" /><meta name="ca_image" content="http://patriotsandpolitics.com/wp-content/uploads/2017/02/burningcross-150x150.jpg" /></head>
+
+<body class="post-template-default single single-post postid-5709 single-format-standard group-blog">
+
+<div id="page" class="hfeed site container">
+
+	
+	<div class="site-inner">
+		<header id="masthead" class="site-header" role="banner">
+
+						<div class="top-section clearfix">
+				<nav id="secondary-navigation" class="top-navigation pull-left" role="navigation">
+					<ul id="menu-main" class="nav-bar"><li id="menu-item-2208" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2208"><a href="http://patriotsandpolitics.com/">Home</a></li>
+<li id="menu-item-2043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2043"><a href="http://patriotsandpolitics.com/category/news/">Latest</a></li>
+<li id="menu-item-2087" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2087"><a href="http://patriotsandpolitics.com/category/elections/">Elections</a></li>
+<li id="menu-item-2089" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2089"><a href="http://patriotsandpolitics.com/category/mudslinging/">Mudslinging</a></li>
+<li id="menu-item-2090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2090"><a href="http://patriotsandpolitics.com/category/politicians/">Politicians</a></li>
+<li id="menu-item-2091" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2091"><a href="http://patriotsandpolitics.com/category/terrorism-2/">Terrorism</a></li>
+<li id="menu-item-2092" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2092"><a href="http://patriotsandpolitics.com/category/issues/">The Issues</a></li>
+<li id="menu-item-2672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2672"><a href="http://patriotsandpolitics.com/about-us/">About Us</a></li>
+<li id="menu-item-2207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2207"><a href="http://patriotsandpolitics.com/contact-us/">Contact Us</a></li>
+</ul>				</nav><!-- .top-navigation -->
+
+							</div><!-- .top-section -->
+			
+			<div class="clearfix">
+				<div class="site-branding pull-left">
+
+					
+					<h1 class="site-title"><a href="http://patriotsandpolitics.com/" rel="home">Patriots And Politics</a></h1>
+					<h2 class="site-description">Political News</h2>
+				</div><!-- .site-branding -->
+				<form method="get" id="header-searchform" class="searchform form-inline pull-right" action="http://patriotsandpolitics.com/" role="search">
+					<input type="text" class="field" name="s" value="To search type and hit enter" id="s" onfocus="if(this.value=='To search type and hit enter')this.value='';" onblur="if(this.value=='')this.value='To search type and hit enter';" />
+					<div class="search-box-icon"><i class="fa fa-search"></i></div>
+				</form><!-- #header-searchform -->
+			</div><!-- .clearfix -->
+
+						<div id="mobile-site-navigation"></div><!-- #mobile-site-navigation -->
+
+			<nav class="main-navigation clearfix" role="navigation" data-small-nav-title="Menu">
+				<ul id="menu-main-1" class="nav-bar clearfix"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2208"><a href="http://patriotsandpolitics.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2043"><a href="http://patriotsandpolitics.com/category/news/">Latest</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2087"><a href="http://patriotsandpolitics.com/category/elections/">Elections</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2089"><a href="http://patriotsandpolitics.com/category/mudslinging/">Mudslinging</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2090"><a href="http://patriotsandpolitics.com/category/politicians/">Politicians</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2091"><a href="http://patriotsandpolitics.com/category/terrorism-2/">Terrorism</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2092"><a href="http://patriotsandpolitics.com/category/issues/">The Issues</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2672"><a href="http://patriotsandpolitics.com/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2207"><a href="http://patriotsandpolitics.com/contact-us/">Contact Us</a></li>
+</ul>			</nav><!-- .main-navigation -->
+			
+					</header><!-- #masthead -->
+
+		<div id="main" class="site-main">
+			<div class="breadcrumbs"><a href="http://patriotsandpolitics.com/">Home</a><i class="fa fa-angle-right"></i><a href="http://patriotsandpolitics.com/category/terrorism-2/">Terrorism</a><i class="fa fa-angle-right"></i>Islamic State Vows More Attacks</div>
+<div class="row">
+	<div id="primary" class="content-area col-lg-8 col-md-8">
+		<div id="content" class="site-content" role="main">
+
+		
+			
+
+<article id="post-5709" class="post-5709 post type-post status-publish format-standard has-post-thumbnail hentry category-terrorism-2">
+
+		
+						<div class="post-thumb">
+				<img width="640" height="480" src="http://patriotsandpolitics.com/wp-content/uploads/2017/02/burningcross.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://patriotsandpolitics.com/wp-content/uploads/2017/02/burningcross.jpg 640w, http://patriotsandpolitics.com/wp-content/uploads/2017/02/burningcross-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />
+							</div><!-- .post-thumb -->
+			
+		
+		<header class="entry-header">
+			<h2 class="entry-title">Islamic State Vows More Attacks</h2>
+
+			<div class="entry-meta top">
+				<a href="http://patriotsandpolitics.com/islamic-state-vows-more-attacks/" title="5:18 pm" rel="bookmark"><time class="entry-date" datetime="2017-02-21T17:18:42+00:00">February 21, 2017</time></a><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://patriotsandpolitics.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span> <div class="pull-right entry-comments"><a href="http://patriotsandpolitics.com/islamic-state-vows-more-attacks/#comments"><i class="fa fa-comments-o"></i> 3</a></div>							</div><!-- .entry-meta -->
+
+			<div class="entry-category">
+				<a href="http://patriotsandpolitics.com/category/terrorism-2/" rel="category tag">Terrorism</a>			</div><!-- .entry-category -->
+
+					</header><!-- .entry-header -->
+
+		<div class="entry-content">
+			<h2>(AP) CAIRO — An Islamic State group affiliate in Egypt released a video Monday showing the suicide bomber who killed nearly 30 people when he attacked a packed church in December and vowing more attacks on the country’s Christian.</h2>
+<p><span id="more-5709"></span></p>
+<p id="article-promo">A narrator says in the 20-minute video that the Egyptian Christians are the extremist group’s “favorite prey.”</p>
+<div id="div-gpt-ad-BTF_MPU_2" class="b300x250" data-google-query-id="CIr5vJT8oNICFa2GUQodh1cMpA"> The video shows footage of Egypt’s Coptic Christian pope, Christian businessmen, judges and priests who either speak of the need to protect the minority or use derogatory terms to refer to Egypt’s Muslim majority. The narrator says Christians were no longer “dhimmis,” a reference to non-Muslims in Islam who enjoy a degree of state protection. Instead, the group describes the Christians as “infidels” who are empowering the West against Muslim nations.</div>
+<p>“God gave orders to kill every infidel,” one of the militants carrying an AK-47 assault rifle says in the video.</p>
+<p>Egypt’s Coptic Christians, who make up around 10 percent of the population, have been always a favorite target of Islamic extremists. Attacks on churches by Muslim mobs increased since the 2013 military overthrow of an Islamist president. Christians overwhelmingly supported the army chief-turned-president, Abdel-Fattah el-Sissi, and extremists have used such support as a pretext to increase attacks against them.</p>
+<div class="SandboxRoot env-bp-350" data-twitter-event-id="0">
+<div id="twitter-widget-3" class="EmbeddedTweet EmbeddedTweet--mediaForward media-forward js-clickToOpenTarget js-tweetIdInfo" lang="en" data-click-to-open-target="https://twitter.com/TheDaneChris/status/833443605708730370" data-iframe-title="Twitter Tweet" data-dt-full="%{hours12}:%{minutes} %{amPm} - %{day} %{month} %{year}" data-dt-months="Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec" data-dt-am="AM" data-dt-pm="PM" data-dt-now="now" data-dt-s="s" data-dt-m="m" data-dt-h="h" data-dt-second="second" data-dt-seconds="seconds" data-dt-minute="minute" data-dt-minutes="minutes" data-dt-hour="hour" data-dt-hours="hours" data-dt-abbr="%{number}%{symbol}" data-dt-short="%{day} %{month}" data-dt-long="%{day} %{month} %{year}" data-scribe="page:tweet" data-tweet-id="833443605708730370" data-twitter-event-id="1">
+<article class="MediaCard MediaCard--mediaForward cards-multimedia customisable-border" dir="ltr" data-scribe="component:card">
+<div class="MediaCard-media">
+<div class="MediaCard-widthConstraint js-cspForcedStyle" data-style="max-width: 2000px">
+<div class="MediaCard-mediaContainer js-cspForcedStyle" data-style="padding-bottom: 56.2500%">
+<div class="NaturalImage-ctaOverlay PlayButton PlayButton--centered" data-scribe="element:play_button"> The video shows footage of Abu Abdullah al-Masri, the militant who blew himself up at the central Cairo church last month. The attack, says the narrator, was “only the beginning.”</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<p>“Oh worshipprs of the cross … the soldiers of the state are watching you,” another masked militant identified as Abu Zubair al-Masri says.</p>
+<p>The video carries the logo “Egypt” instead of the normal “Wilayat Sinai” or the state of Sinai. Wilayat Sinai, the name of the IS branch in Sinai, has claimed responsibility for dozens of suicide bombings and attacks, mainly targeting security forces and military across the country but primarily in Sinai Peninsula, where the army has been leading an anti-terrorism operation for years.</p>
+<p>The IS message comes at a time when attacks on Coptic Christians have escalated in Sinai. In the past month, at least three Christians were gunned down in separate drive-by shooting attacks in the city of el-Arish.</p>
+<p>&nbsp;</p>
+<h3><a href="http://www.breitbart.com/jerusalem/2017/02/21/islamic-state-vows-attacks-egypts-christians/">Read More</a></h3>
+<p>&nbsp;</p>
+<hr />
+<p><span style="font-size: 8pt;"><em>source: http://www.breitbart.com/jerusalem/2017/02/21/islamic-state-vows-attacks-egypts-christians/</em></span></p>
+
+<!-- WP QUADS Content Ad Plugin v. 1.3.7 -->
+<div class="quads-location quads-ad3" id="quads-ad3" style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+						<!-- PAPBanner1 -->
+
+							<ins class="adsbygoogle"
+
+   							  style="display:inline-block;width:728px;height:90px"
+
+    							 data-ad-client="ca-pub-9955107773766317"
+
+    							 data-ad-slot="6822333747"></ins>
+
+						<script>
+
+						(adsbygoogle = window.adsbygoogle || []).push({});
+
+						</script>
+
+</div>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div>					</div><!-- .entry-content -->
+
+		<footer class="entry-meta entry-footer">
+			<div class="entry-tags">
+							</div><!-- .entry-tags -->
+
+						<div class="share-section default-style"><ul class="default-share-buttons"><li><div class="share-buttons-title">Share:</div></li><li class="facebook"><iframe src="//www.facebook.com/plugins/like.php?href=http://patriotsandpolitics.com/islamic-state-vows-more-attacks/&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe></li><li class="twitter"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, "script", "twitter-wjs");</script></li><li class="google-plus"><div class="g-plus" data-action="share" data-annotation="bubble"></div><script type="text/javascript">(function() {var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);})();</script></li><li class="in"><script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-counter="right"></script></li><li class="pinterest"><a href="http://pinterest.com/pin/create/button/?url=http://patriotsandpolitics.com/islamic-state-vows-more-attacks/&media=http://patriotsandpolitics.com/wp-content/uploads/2017/02/burningcross-150x150.jpg&description=Islamic State Vows More Attacks" class="pin-it-button" count-layout="horizontal">Pin It</a><script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script></li></ul></div><!-- .share-section -->					</footer><!-- .entry-meta -->
+</article><!-- #post-## -->
+
+		<div class="author-section">
+			<div class="gravatar">
+				<img alt='' src='http://1.gravatar.com/avatar/d847500aa2f391faf128d2ed1c33fed1?s=128&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d847500aa2f391faf128d2ed1c33fed1?s=256&amp;d=mm&amp;r=g 2x' class='avatar avatar-128 photo' height='128' width='128' />			</div><!-- .gravatar -->
+			<div class="about">
+				<h4 class="author-name"><a href="http://patriotsandpolitics.com/author/admin/" rel="author">admin</a></h4>
+				<p></p>
+			</div><!-- .about -->
+					</div><!-- .author-section -->
+		
+				<div class="related-posts-container">
+					<h4 class="related-posts-title accent-color">Related Articles</h4>
+					<ul class="list-unstyled">
+						<div class="row">
+													<li class="col-lg-4 col-md-4">
+																<div class="related-post-entry-image">
+									<a href="http://patriotsandpolitics.com/un-chief-islamophobia-is-fueling-terrorism/" class="thumb-link" rel="bookmark" title="UN Chief: Islamophobia is Fueling Terrorism">
+									<img width="640" height="440" src="http://patriotsandpolitics.com/wp-content/uploads/2017/02/PP214-640x440.jpg" class="attachment-td-medium-thumb size-td-medium-thumb wp-post-image" alt="" />									</a><!-- .thumb-link -->
+								</div><!-- .related-post-entry-image -->
+																<h3 class="related-post-entry-title">
+									<a href="http://patriotsandpolitics.com/un-chief-islamophobia-is-fueling-terrorism/" rel="bookmark" title="UN Chief: Islamophobia is Fueling Terrorism">
+									UN Chief: Islamophobia is Fueling Terrorism									</a>
+								</h3><!-- .related-post-entry-title -->
+								<div class="entry-category">
+								<span class="related-meta">Posted In:</span>
+								<a href="http://patriotsandpolitics.com/category/news/" rel="category tag">Latest News</a>, <a href="http://patriotsandpolitics.com/category/terrorism-2/" rel="category tag">Terrorism</a>								</div><!-- .entry-category -->
+							</li><!-- .col -->
+													<li class="col-lg-4 col-md-4">
+																<div class="related-post-entry-image">
+									<a href="http://patriotsandpolitics.com/ninth-circuit-would-allow-911-hijacker-to-sue/" class="thumb-link" rel="bookmark" title="Ninth Circuit Would Allow 9/11 Hijacker to Sue">
+									<img width="640" height="440" src="http://patriotsandpolitics.com/wp-content/uploads/2017/02/hani-640x440.jpg" class="attachment-td-medium-thumb size-td-medium-thumb wp-post-image" alt="" />									</a><!-- .thumb-link -->
+								</div><!-- .related-post-entry-image -->
+																<h3 class="related-post-entry-title">
+									<a href="http://patriotsandpolitics.com/ninth-circuit-would-allow-911-hijacker-to-sue/" rel="bookmark" title="Ninth Circuit Would Allow 9/11 Hijacker to Sue">
+									Ninth Circuit Would Allow 9/11 Hijacker to Sue									</a>
+								</h3><!-- .related-post-entry-title -->
+								<div class="entry-category">
+								<span class="related-meta">Posted In:</span>
+								<a href="http://patriotsandpolitics.com/category/terrorism-2/" rel="category tag">Terrorism</a>								</div><!-- .entry-category -->
+							</li><!-- .col -->
+													<li class="col-lg-4 col-md-4">
+																<div class="related-post-entry-image">
+									<a href="http://patriotsandpolitics.com/another-512-refugees-brought-into-u-s/" class="thumb-link" rel="bookmark" title="Another 512 Refugees Brought into U.S.">
+									<img width="640" height="440" src="http://patriotsandpolitics.com/wp-content/uploads/2017/01/512-640x440.png" class="attachment-td-medium-thumb size-td-medium-thumb wp-post-image" alt="" />									</a><!-- .thumb-link -->
+								</div><!-- .related-post-entry-image -->
+																<h3 class="related-post-entry-title">
+									<a href="http://patriotsandpolitics.com/another-512-refugees-brought-into-u-s/" rel="bookmark" title="Another 512 Refugees Brought into U.S.">
+									Another 512 Refugees Brought into U.S.									</a>
+								</h3><!-- .related-post-entry-title -->
+								<div class="entry-category">
+								<span class="related-meta">Posted In:</span>
+								<a href="http://patriotsandpolitics.com/category/terrorism-2/" rel="category tag">Terrorism</a>								</div><!-- .entry-category -->
+							</li><!-- .col -->
+												</div><!-- .row -->
+					</ul><!-- .list-unstyled -->
+				</div><!-- .related-posts-container -->
+			
+
+
+				<nav role="navigation" id="nav-below" class="navigation-post">
+
+	
+		<div class="nav-previous"><div class="meta-nav"><i class="fa fa-angle-left"></i> Previous:</div> <a href="http://patriotsandpolitics.com/u-s-defense-no-to-iraqi-oil/" rel="prev">U.S. Defense: No to Iraqi Oil</a></div>		<div class="nav-next"><div class="meta-nav">Next: <i class="fa fa-angle-right"></i></div> <a href="http://patriotsandpolitics.com/cnn-shuts-down-guest-for-fake-news-claim/" rel="next">CNN shuts down guest for &#8216;fake news&#8217; claim</a></div>
+	
+	</nav><!-- #nav-below -->
+	
+			
+<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			3 comments		</h2>
+
+		<ol class="comment-list">
+					<li id="comment-44390" class="comment even thread-even depth-1">
+			<article id="div-comment-44390" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/c6d4f1b426051d7629e43a5415727362?s=76&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c6d4f1b426051d7629e43a5415727362?s=152&amp;d=mm&amp;r=g 2x' class='avatar avatar-76 photo' height='76' width='76' />						<b class="fn"><a href='http://none' rel='external nofollow' class='url'>BlackwingA520</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://patriotsandpolitics.com/islamic-state-vows-more-attacks/#comment-44390">
+							<time datetime="2017-02-22T17:42:39+00:00">
+								February 22, 2017 at 5:42 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>How about WE start killing those POS Muslims first, before they have the chance to kill us</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://patriotsandpolitics.com/islamic-state-vows-more-attacks/?replytocom=44390#respond' onclick='return addComment.moveForm( "div-comment-44390", "44390", "respond", "5709" )' aria-label='Reply to BlackwingA520'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-44391" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-44391" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/2bae614a41d4fdb11c53f8129478d3ab?s=76&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2bae614a41d4fdb11c53f8129478d3ab?s=152&amp;d=mm&amp;r=g 2x' class='avatar avatar-76 photo' height='76' width='76' />						<b class="fn">JOE S HILL</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://patriotsandpolitics.com/islamic-state-vows-more-attacks/#comment-44391">
+							<time datetime="2017-02-22T18:48:49+00:00">
+								February 22, 2017 at 6:48 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>More proof over &#8220;the religion of peace&#8221; in its true colors-murder thy fellow man,who is an infidel and a Christian! another fine example of crazed Islamic/Muslims who have no problem showing what they&#8217;re all about,,violence and killings,fine examples of their twisted religious beliefs-something that President Trump is trying to keep out of this country,,but that&#8217;s right! he&#8217;s now an intolerant bigot,and thanks to our misguided liberal left and the liberal media,keeping out these terrorist vermin has now become that much more tougher! but we have the federal court of appeals to thank for this,and we have some of Obama&#8217;s leftover people to also give this example to!</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://patriotsandpolitics.com/islamic-state-vows-more-attacks/?replytocom=44391#respond' onclick='return addComment.moveForm( "div-comment-44391", "44391", "respond", "5709" )' aria-label='Reply to JOE S HILL'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-44401" class="comment even thread-even depth-1">
+			<article id="div-comment-44401" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/7be80b69dfe075e10df47573f29ba3ce?s=76&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/7be80b69dfe075e10df47573f29ba3ce?s=152&amp;d=mm&amp;r=g 2x' class='avatar avatar-76 photo' height='76' width='76' />						<b class="fn">Tom Murphy</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://patriotsandpolitics.com/islamic-state-vows-more-attacks/#comment-44401">
+							<time datetime="2017-02-23T02:36:03+00:00">
+								February 23, 2017 at 2:36 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>ISIS needs to be exterminated. &#8220;Mad Dog&#8221; Mattis needs to send A-10 Warthogs and B-52s to carpet bomb their road convoys. In western countries, we need to employ more snipers and civilians need to learn sniper skills to protect their own communities. European leaders need to wake up and stop denying the atrocities committed by barbaric infiltrators. Kill them or deport them.</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://patriotsandpolitics.com/islamic-state-vows-more-attacks/?replytocom=44401#respond' onclick='return addComment.moveForm( "div-comment-44401", "44401", "respond", "5709" )' aria-label='Reply to Tom Murphy'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/islamic-state-vows-more-attacks/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://patriotsandpolitics.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='5709' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+		<div class="col-lg-4 col-md-4 sidebar-container">
+			
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="text-8" class="widget widget_text">			<div class="textwidget"><link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
+ <style scoped>
+
+        .button-success,
+        .button-error,
+        .button-warning,
+        .button-secondary {
+            color: white;
+            border-radius: 4px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+
+        .button-success {
+            background: rgb(28, 184, 65); /* this is a green */
+        }
+
+        .button-error {
+            background: rgb(202, 60, 60); /* this is a maroon */
+        }
+
+        .button-warning {
+            background: rgb(223, 117, 20); /* this is an orange */
+        }
+
+        .button-secondary {
+            background: rgb(66, 184, 221); /* this is a light blue */
+        }
+
+    </style>
+<form class="pure-form pure-form-stacked" action="http://socialmorphing.com/rti/optin.php" method="post">
+    <fieldset>
+        <legend><strong>Subscribe to our Newsletter</strong></legend>
+
+        <label for="email">Enter your Email Address</label>
+        <input id="email" name="email" type="email" placeholder="Email">
+        <input name="f1" type="hidden" value="" />
+        <input name="f2" type="hidden" value="Subscription" />
+        <input name="f3" type="hidden" value="PAPFormSide" />
+        <input name="sub" type="hidden" value="Optin" />
+        <input name="red" type="hidden" value="http://patriotsandpolitics.com/thank-you/" />
+
+
+        <button type="submit" class="button-error pure-button">Subscribe!</button>
+    </fieldset>
+</form>
+</div>
+		</aside>
+<!-- Quick Adsense Reloaded -->
+<aside id="adswidget1-quick-adsense-reloaded-3" class="widget quads-ad1_widget"><div id="quads-ad1_widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!-- PAP1 -->
+
+<ins class="adsbygoogle"
+
+     style="display:inline-block;width:336px;height:280px"
+
+     data-ad-client="ca-pub-9955107773766317"
+
+     data-ad-slot="6961934543"></ins>
+
+<script>
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+</script></div></aside><aside id="text-9" class="widget widget_text">			<div class="textwidget"><script src="//web-clients.mynativeplatform.com/web-clients/bootloaders/aiEG9emcikWIeqAryS0EPh/bootloader.js" async="true" data-version="3" data-url="[PAGE_URL]" data-zone="[ZONE]" ></script>
+
+<script src="//web-clients.mynativeplatform.com/web-clients/bootloaders/OUFbx4s3kr0sU71B2vOR9H/bootloader.js" async="true" data-version="3" data-url="[PAGE_URL]" data-zone="[ZONE]" ></script></div>
+		</aside>
+<!-- Quick Adsense Reloaded -->
+<aside id="adswidget2-quick-adsense-reloaded-3" class="widget quads-ad2_widget"><div id="quads-ad2_widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!-- PAP2 -->
+
+<ins class="adsbygoogle"
+
+     style="display:inline-block;width:336px;height:280px"
+
+     data-ad-client="ca-pub-9955107773766317"
+
+     data-ad-slot="8438667748"></ins>
+
+<script>
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>
+</div></aside><aside id="contentad__includes__widget-2" class="widget content-ad-widget">
+<div id="contentad30075"></div>
+</aside>	</div><!-- #secondary -->
+	</div><!-- .sidebar-container -->
+	
+</div><!-- .row -->
+
+
+		
+	</div><!-- #main -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div id="footer-widgets" class="site-info row">
+			<div class="col-lg-3 col-md-3">
+				<aside id="contentad__includes__widget-3" class="widget content-ad-widget">
+<div id="contentad30075"></div>
+</aside>			</div><!-- .col -->
+			<div class="col-lg-3 col-md-3">
+							</div><!-- .col -->
+			<div class="col-lg-3 col-md-3">
+							</div><!-- .col -->
+			<div class="col-lg-3 col-md-3">
+							</div><!-- .col -->
+		</div><!-- .site-info -->
+
+		<div class="footer-bottom clearfix">
+			<div class="c pull-left">
+				Copyright 2017 <a href="http://patriotsandpolitics.com/" title="Patriots And Politics" rel="home">Patriots And Politics</a> | tdMagazine Theme by <a href="http://tdwp.us/" target="_blank" rel="designer">(td)WP</a>			</div><!-- .c -->
+
+						<div class="pull-right footer-social">
+							</div><!-- .footer-social -->
+					</div><!-- .footer-bottom -->
+	</footer><!-- #colophon -->
+
+	<div id="gotop"><i class="fa fa-chevron-up"></i></div><!-- #gotop -->
+
+	<div><!-- .site-inner -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://patriotsandpolitics.com/wp-content/themes/tdmagazine/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://patriotsandpolitics.com/wp-includes/js/comment-reply.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://patriotsandpolitics.com/wp-content/themes/tdmagazine/js/jquery.assets.js?ver=201401'></script>
+<script type='text/javascript' src='http://patriotsandpolitics.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='//api.content.ad/Scripts/widget2.aspx?id=c2030beb-efe3-4c3f-a2d3-8dc52c6ce765&#038;d=cGF0cmlvdHNhbmRwb2xpdGljcy5jb20%3D&#038;wid=30075&#038;cb=1.48783560702E+12&#038;ver=1.1.17'></script>
+
+</body>
+</html>
