@@ -1,0 +1,648 @@
+   #[1]ESPN Search
+
+[2]Chicago Bears
+
+   NFC North
+     * [3]Clubhouse
+     * [4]Stats
+     * [5]Schedule
+     * [6]Roster
+     * [7]Splits
+     * [8]Depth Chart
+     * [9]Transactions
+     * [10]Rankings
+     * [11]Photos
+     * [12]Stadium
+     * [13]Blog
+
+Chicago Bears Stats - 2016
+
+   [More NFL Teams______]
+   Season: [2016 Regular Season]
+     * [14]Player
+     * [15]Team
+
+TEAM LEADERS
+
+PASSING YARDS
+
+     * [16]Matt Barkley
+     * ATT 216
+     * COMP 129
+     * TD 8
+     * 1611
+
+RUSHING YARDS
+
+     * [17]J. Howard
+     * ATT 252
+     * AVG 5.2
+     * TD 6
+     * 1313
+
+RECEIVING YARDS
+
+     * [18]C. Meredith
+     * REC 66
+     * AVG 13.5
+     * TD 4
+     * 888
+
+TACKLES
+
+     * [19]J. Freeman
+     * SOLO 86
+     * AST 24
+     * SACK 0.0
+     * 110
+
+INTERCEPTIONS
+
+     * [20]Tracy Porter
+     * YDS 28
+     * TD 0
+     * PD 9
+     * 2
+
+   PASSING
+       NAME ATT COMP PCT YDS AVG YDS/G LONG TD TD% INT INT% SACK YDSL RATE
+    [21]Matt Barkley 216 129 59.7 1611 7.5 224.0 37 8 3.7 14 6.5 6 43 68.3
+      [22]Brian Hoyer 200 134 67.0 1445 7.2 237.8 64 6 3.0 0 0.0 4 18 98.0
+      [23]Jay Cutler 137 81 59.1 1059 7.7 191.0 54 4 2.9 5 3.7 17 104 78.1
+              [24]David Fales 5 2 40.0 22 4.4 17.0 12 0 0.0 0 0.0 1 5 53.7
+        [25]Cameron Meredith 1 1 100.0 2 2.0 0.1 2 1 100.0 0 0.0 0 0 118.8
+           Totals 559 347 62.1 4139 7.4 248.1 64 19 3.4 19 3.4 28 170 81.8
+         Opponents 530 342 64.5 3828 7.2 224.9 60 22 4.2 8 1.5 37 230 93.5
+   RUSHING
+   NAME                 ATT  YDS  AVG LONG 20+ TD YDS/G FUM FUML 1DN
+   [26]Jordan Howard    252 1313  5.2   69  10  6  87.5   1    1  70
+   [27]Jeremy Langford   62  200  3.2   23   1  4  16.7   2    2  12
+   [28]Ka'Deem Carey     32  126  3.9   24   1  0  10.5   0    0   4
+   [29]Joshua Bellamy     4   37  9.3   22   1  0   2.3   0    0   2
+   [30]Jay Cutler         5   24  4.8   12   0  0   4.8   1    0   1
+   [31]Kevin White        1    9  9.0    9   0  0   2.3   0    0   0
+   [32]Paul Lasike        3    8  2.7    5   0  0   0.8   0    0   3
+   [33]Cameron Meredith   1    6  6.0    6   0  0   0.4   0    0   0
+   [34]Joique Bell        3    6  2.0    6   0  0   1.5   0    0   0
+   [35]Bralon Addison     1    4  4.0    4   0  0   2.0   0    0   0
+   [36]Matt Barkley       7    2  0.3    5   0  0   0.3   2    0   0
+   [37]Chris Prosinski    1    2  2.0    2   0  0   0.1   0    0   1
+   [38]David Fales        1    0  0.0    0   0  0   0.0   1    0   0
+   [39]Brian Hoyer        7   -2 -0.3    3   0  0  -0.3   2    0   0
+   Totals               380 1735  4.6   69  13 10 108.4   9    3  93
+   Opponents            445 1950  4.4   61  12 18 121.9   3    0  99
+   RECEIVING
+   NAME                 REC TAR  YDS  AVG TD LONG 20+ YDS/G FUM FUML  YAC 1DN
+   [40]Cameron Meredith  66  96  888 13.5  4   50  13  63.4   3    2  293  44
+   [41]Alshon Jeffery    52  95  821 15.8  2   54  12  68.4   0    0  213  41
+   [42]Zach Miller       47  65  486 10.3  4   34   5  48.6   0    0  231  28
+   [43]Eddie Royal       33  43  369 11.2  2   64   3  41.0   1    0  196  16
+   [44]Jordan Howard     29  50  298 10.3  1   34   4  19.9   1    0  325  12
+   [45]Joshua Bellamy    19  38  282 14.8  1   31   6  17.6   0    0   62  13
+   [46]Deonte Thompson   22  36  249 11.3  2   24   2  15.6   0    0   49  18
+   [47]Kevin White       19  35  187  9.8  0   32   1  46.8   0    0   59   8
+   [48]Marquess Wilson    9  16  160 17.8  1   35   3  53.3   0    0   54   8
+   [49]Jeremy Langford   19  27  142  7.5  0   19   0  11.8   0    0   92   7
+   [50]Daniel Brown      16  20  124  7.8  1   12   0  20.7   0    0   42   8
+   [51]Ka'Deem Carey      5   7   55 11.0  0   16   0   4.6   0    0   61   4
+   [52]Ben Braunecker     4   6   41 10.3  0   14   0   3.2   0    0    5   2
+   [53]Logan Paulsen      3  10   15  5.0  0    7   0   0.9   0    0    6   1
+   [54]Bralon Addison     1   1   11 11.0  0   11   0   5.5   0    0    0   1
+   [55]MyCole Pruitt      1   1    6  6.0  0    6   0   3.0   0    0    0   0
+   [56]Paul Lasike        1   1    3  3.0  0    3   0   0.3   0    0    6   0
+   [57]Matt Barkley       1   1    2  2.0  1    2   0   0.3   0    0    0   1
+   Totals               347 559 4139 11.9 19   64  49 258.7   5    2 1694 212
+   Opponents            342 530 3828 11.2 22   60  50 239.3   3    1 1339 188
+   DEFENSE
+                     TACKLES SACKS INTERCEPTIONS FUMBLES
+         NAME SOLO AST TOT SACK YDSL TLOSS PD INT YDS LONG TD FF REC TD BK
+                   [58]Jerrell Freeman 86 24 110 0.0 0 7 5 0 0 0 0 0 0 0 0
+               [59]Harold Jones-Quartey 66 12 78 0.0 0 2 5 1 0 0 0 0 0 0 0
+                    [60]Danny Trevathan 49 17 66 1.0 7 0 4 0 0 0 0 0 0 0 0
+                         [61]Adrian Amos 57 8 65 0.0 0 2 4 0 0 0 0 1 1 0 0
+                       [62]Akiem Hicks 36 17 53 7.0 49 6 2 0 0 0 0 2 1 0 1
+                      [63]Tracy Porter 45 3 48 0.0 0 0 9 2 28 25 0 1 0 0 0
+                  [64]Cre'Von LeBlanc 40 4 44 0.0 0 0 10 2 24 24 1 0 0 0 0
+                    [65]Nick Kwiatkoski 34 10 44 1.0 0 3 2 0 0 0 0 2 0 0 0
+                      [66]Willie Young 21 17 38 7.5 43 3 2 0 0 0 0 1 0 0 0
+                     [67]Leonard Floyd 23 10 33 7.0 50 2 2 0 0 0 0 1 1 1 0
+                      [68]Bryce Callahan 31 1 32 0.0 0 0 5 0 0 0 0 0 0 0 0
+                            [69]Sam Acho 18 9 27 1.0 3 2 1 0 0 0 0 1 0 0 0
+                      [70]Jacoby Glenn 23 3 26 0.0 0 0 6 1 21 21 0 1 0 0 0
+                       [71]Mitch Unrein 12 14 26 1.0 3 0 0 0 0 0 0 0 0 0 0
+                     [72]Chris Prosinski 19 6 25 0.0 0 1 1 0 0 0 0 0 0 0 0
+                           [73]Deon Bush 17 5 22 0.0 0 0 1 0 0 0 0 0 0 0 0
+               [74]Cornelius Washington 14 7 21 2.0 12 0 1 0 0 0 0 0 0 0 0
+                           [75]John Timu 16 3 19 0.0 0 4 1 0 0 0 0 0 0 0 0
+                      [76]Eddie Goldman 12 6 18 2.5 16 0 1 0 0 0 0 0 0 0 0
+                    [77]Jonathan Bullard 15 3 18 1.0 3 2 0 0 0 0 0 0 0 0 0
+                    [78]Sherrick McManis 15 1 16 0.0 0 0 0 0 0 0 0 0 0 0 0
+                     [79]Pernell McPhee 13 3 16 4.0 34 2 0 0 0 0 0 1 0 0 0
+                          [80]Will Sutton 8 7 15 0.0 0 0 1 0 0 0 0 0 0 0 0
+                      [81]Christian Jones 9 6 15 0.0 0 0 1 0 0 0 0 0 0 0 0
+                     [82]Demontre Hurst 14 0 14 1.0 11 0 2 1 0 0 0 0 0 0 0
+                          [83]C.J. Wilson 9 4 13 1.0 0 2 0 0 0 0 0 0 0 0 0
+                     [84]De'Vante Bausby 11 1 12 0.0 0 0 0 0 0 0 0 0 0 0 0
+                        [85]Deiondre' Hall 7 2 9 0.0 0 0 3 1 0 0 0 0 0 0 0
+                     [86]Jonathan Anderson 4 3 7 0.0 0 0 0 0 0 0 0 0 0 0 0
+                        [87]Joshua Bellamy 5 1 6 0.0 0 0 0 0 0 0 0 2 0 0 0
+                      [88]Cameron Meredith 5 0 5 0.0 0 0 0 0 0 0 0 0 0 0 0
+                        [89]Lamarr Houston 2 2 4 0.0 0 0 0 0 0 0 0 0 0 0 0
+                        [90]Johnthan Banks 2 2 4 0.0 0 0 1 0 0 0 0 0 0 0 0
+                        [91]Ben Braunecker 3 1 4 0.0 0 0 0 0 0 0 0 0 0 0 0
+                         [92]Jordan Howard 4 0 4 0.0 0 0 0 0 0 0 0 0 0 0 0
+                         [93]Logan Paulsen 2 0 2 0.0 0 0 0 0 0 0 0 0 0 0 0
+                        [94]Alshon Jeffery 2 0 2 0.0 0 0 0 0 0 0 0 0 0 0 0
+                       [95]Deonte Thompson 2 0 2 0.0 0 0 0 0 0 0 0 0 0 0 0
+                       [96]Jeremy Langford 2 0 2 0.0 0 0 0 0 0 0 0 0 0 0 0
+                [97]DeAndre Houston-Carson 0 2 2 0.0 0 0 0 0 0 0 0 0 0 0 0
+                           [98]Eddie Royal 1 0 1 0.0 0 0 0 0 0 0 0 0 0 0 0
+                           [99]Brian Hoyer 1 0 1 0.0 0 0 0 0 0 0 0 0 0 0 0
+                           [100]Ted Larsen 1 0 1 0.0 0 0 0 0 0 0 0 0 0 0 0
+                       [101]Patrick Scales 1 0 1 0.0 0 0 0 0 0 0 0 0 0 0 0
+                         [102]Bobby Massie 1 0 1 0.0 0 0 0 0 0 0 0 0 0 0 0
+                         [103]Matt Barkley 1 0 1 0.0 0 0 0 0 0 0 0 0 0 0 0
+                      [104]Marquess Wilson 1 0 1 0.0 0 0 0 0 0 0 0 0 0 0 0
+                         [105]Charles Leno 1 0 1 0.0 0 0 0 0 0 0 0 0 0 0 0
+                        [106]MyCole Pruitt 1 0 1 0.0 0 0 0 0 0 0 0 0 0 0 0
+                       [107]Cody Whitehair 1 0 1 0.0 0 0 0 0 0 0 0 0 0 0 0
+                     Totals 798 214 1012 37.0 230 42 68 8 73 25 1 13 3 1 1
+                Opponents 739 190 929 28.0 170 38 75 19 258 79 1 16 12 1 1
+   SCORING
+                           TOUCHDOWNS         SCORING
+   NAME                  RUSH REC RET TD FG XP 2PT PTS PTS/G
+   [108]Connor Barth        0   0   0  0 18 31   0  85   5.0
+   [109]Jordan Howard       6   1   0  7  0  0   0  42   2.0
+   [110]Zach Miller         0   4   0  4  0  0   0  24   2.0
+   [111]Jeremy Langford     4   0   0  4  0  0   0  24   2.0
+   [112]Cameron Meredith    0   4   0  4  0  0   0  24   1.0
+   [113]Eddie Royal         0   2   1  3  0  0   0  18   2.0
+   [114]Alshon Jeffery      0   2   0  2  0  0   0  12   1.0
+   [115]Deonte Thompson     0   2   0  2  0  0   0  12   0.0
+   [116]Leonard Floyd       0   0   1  1  0  0   0   8   0.0
+   [117]Joshua Bellamy      0   1   0  1  0  0   0   6   0.0
+   [118]Matt Barkley        0   1   0  1  0  0   0   6   0.0
+   [119]Marquess Wilson     0   1   0  1  0  0   0   6   2.0
+   [120]Daniel Brown        0   1   0  1  0  0   0   6   1.0
+   [121]Cre'Von LeBlanc     0   0   1  1  0  0   0   6   0.0
+   Totals                  10  19   3 32 18 31   0 279  17.4
+   RETURNING
+                              KICKOFFS                PUNTS
+   NAME                 ATT YDS  AVG LONG TD RET RETY  AVG LONG TD FC
+   [122]Deonte Thompson  35 804 23.0   64  0   0    0  0.0    0  0  0
+   [123]Ka'Deem Carey     2  38 19.0   22  0   0    0  0.0    0  0  0
+   [124]Bralon Addison    1  18 18.0   18  0   2    3  1.5    3  0  1
+   [125]Bryce Callahan    2  17  8.5   17  0   1    3  3.0    3  0  8
+   [126]Joshua Bellamy    1  15 15.0   15  0   0    0  0.0    0  0  0
+   [127]Paul Lasike       1   5  5.0    5  0   0    0  0.0    0  0  0
+   [128]Eddie Royal       0   0  0.0    0  0  19  166  8.7   65  1 15
+   [129]Cre'Von LeBlanc   0   0  0.0    0  0   5   43  8.6   13  0  3
+   Totals                42 897 21.4   64  0  27  215  8.0   65  1 27
+   Opponents             36 777 21.6   46  0  22  282 12.8   85  1 31
+   KICKING
+                          FIELD GOALS EXTRA POINTS
+              NAME FGM FGA PCT LONG 1-19 20-29 30-39 40-49 50+ XPM XPA PCT
+            [130]Connor Barth 18 23 78.3 54 0-0 7-8 7-8 3-4 1-3 31 32 96.9
+                       Totals 18 23 78.3 54 0-0 7-8 7-8 3-4 1-3 31 32 96.9
+                 Opponents 33 35 94.3 54 2-2 12-12 9-10 5-6 5-5 38 42 90.5
+   PUNTING
+   NAME               PUNTS  YDS LONG  AVG  NET BP IN20 TB FC RET RETY  AVG
+   [131]Pat O'Donnell    68 2994   67 44.0 38.4  0   24  5 31  22  282 12.8
+   Totals                68 2994   67 44.0 39.9  0   24  5 31  22  282 12.8
+   Opponents             67 3049   74 45.5 42.3  0   24  3 27  27  215  8.0
+
+GLOSSARY
+
+     * ATT: Passing attempts
+     * COMP: Completions
+     * PCT: Completion percentage
+     * YDS: Gross passing yards
+     * AVG: Yards per pass attempt
+     * YDS/G: Net passing yards per game
+     * LONG: Longest pass
+     * TD: Passing touchdowns
+     * TD%: Passing touchdown percentage
+     * INT: Interceptions
+     * INT%: Interception percentage
+     * SACK: Sacks
+     * YDSL: Sacked yards lost
+     * RATE: Passer (QB) rating
+
+     * ATT: Rushing attempts
+     * YDS: Rushing yards
+     * AVG: Yards per rush attempt
+     * LONG: Longest rush
+     * 20+: Carries over 20 yards
+     * TD: Rushing touchdowns
+     * YDS/G: Rushing yards per game
+     * FUM: Rushing fumbles
+     * FUML: Rushing fumbles lost
+     * 1DN: Rushing first downs
+
+     * REC: Receptions
+     * TAR: Receiving targets
+     * YDS: Receiving yards
+     * AVG: Average yards per reception
+     * TD: Receiving touchdowns
+     * LONG: Longest reception
+     * 20+: Receptions over 20 yards
+     * YDS/G: Receiving yards per game
+     * FUM: Receiving fumbles
+     * FUML: Receiving fumbles lost
+     * YAC: Yards after catch
+     * 1DN: Receiving first downs
+
+     * SOLO: Unassisted tackles
+     * AST: Assisted tackles
+     * TOT: Tackles
+     * SACK: Sacks
+     * YDSL: Yards lost on sack
+     * TLOSS: Tackles for a loss
+     * PD: Passes defended
+     * INT: Interceptions
+     * YDS: Intercepted returned yards
+     * LONG: Longest interception return
+     * TD: Interceptions returned for touchdowns
+     * FF: Forced fumbles
+     * REC: Fumbles recovered
+     * TD: Fumbles returned for touchdowns
+     * BK: Blocked kicks both punts and field goal attempts
+
+     * TD: Rushing touchdowns
+     * TD: Receiving touchdowns
+     * RET: Return touchdowns
+     * TD: Total touchdowns
+     * FG: Field goals
+     * XP: Extra points
+     * 2PT: Two-point conversions
+     * PTS: Total points
+     * PTS/G: Total points per game
+
+     * ATT: Kickoff return attempts
+     * YDS: Kickoff return yards
+     * AVG: Average yards per kickoff return
+     * LONG: Longest kickoff return
+     * TD: Kickoff return touchdowns
+     * RET: Punts returned
+     * RETY: Yards returned on punts
+     * AVG: Average yards per punt return
+     * LONG: Longest punt return
+     * TD: Punt return touchdowns
+     * FC: Fair catches
+
+     * FGM: Field goals made
+     * FGA: Field goal attempts
+     * PCT: Percentage of field goals made
+     * LONG: Longest field goal made
+     * 1-19: 1-19 yard field goals
+     * 20-29: 20-29 yard field goals
+     * 30-39: 30-39 yard field goals
+     * 40-49: 40-49 yard field goals
+     * 50+: 50+ yard field goals
+     * XPM: Extra points made
+     * XPA: Extra point attempts
+     * PCT: Percentage of extra points made
+
+     * PUNTS: Total punts
+     * YDS: Gross punt yards
+     * LONG: Longest punt
+     * AVG: Gross punting average
+     * NET: Net punting average
+     * BP: Blocked punts
+     * IN20: Punts inside the 20 yard line
+     * TB: Touchbacks
+     * FC: Fair catches
+     * RET: Punts returned
+     * RETY: Yards returned on punts
+     * AVG: Average return yards on punts
+
+SPONSORED HEADLINES
+
+   [chi.png&w=100&h=100&transparent=true ]
+
+Chicago Bears
+
+     * [132]Clubhouse
+     * [133]Stats
+     * [134]Schedule
+     * [135]Roster
+     * [136]Splits
+     * [137]Depth Chart
+     * [138]Transactions
+     * [139]Rankings
+     * [140]Photos
+     * [141]Stadium
+     * [142]Blog
+
+   [143]Menu
+
+[144]ESPN
+
+     * ____________________ Submit
+     *
+     * [145]Scores
+
+     * [146]NFL
+     * [147]NBA
+     * [148]MLB
+     * [149]NCAAF
+     * [150]Soccer
+     * [151]NCAAM
+     * [152]…
+          + [153]NHL
+          + [154]Golf
+          + [155]Tennis
+          + [156]MMA
+          + [157]WWE
+          + [158]Boxing
+          + [159]esports
+          + [160]Chalk
+          + [161]Analytics
+          + [162]NCAAW
+          + [163]WNBA
+          + [164]NASCAR
+          + [165]Racing
+          + [166]Horse
+          + [167]RN FB
+          + [168]RN BB
+          + [169]NCAA
+          + [170]LLWS
+          + [171]Olympic Sports
+          + [172]Special Olympics
+          + [173]X Games
+          + [174]Cricket
+          + [175]Rugby
+          + [176]Endurance
+          + [177]CFL
+     * [178]More ESPN
+     * [179]Fantasy
+     * [180]Listen
+     * [181]Watch
+
+     * [182][nfl.png&w=80&h=80&transparent=true] NFL
+     * [183]HomeHome
+     * [184]DraftDraft
+     * [185]ScoresScores
+     * [186]ScheduleSchedule
+     * [187]StandingsStandings
+     * [188]StatsStats
+     * [189]TeamsTeams
+     * [190]Top Stories for All 32Top Stories for All 32
+     * [191]More
+          + [192]NFL NationNFL Nation
+          + [193]Power RankingsPower Rankings
+          + [194]Football Power IndexFPI
+          + [195]Playoff MachinePlayoff Machine
+          + [196]FantasyFantasy
+          + [197]Injury WireInjury Wire
+          + [198]Monday Night HQMNF HQ
+          + [199]RumorsRumors
+          + [200]TransactionsTransactions
+          + [201]ChalkChalk
+          + [202]Expert PicksExpert Picks
+          + [203]PickCenterPickCenter
+          + [204]Daily LinesDaily Lines
+          + [205]CoachesCoaches
+          + [206]Pro BowlPro Bowl
+          + [207]TicketsTickets
+
+   ESPN.com: [208]Help | [209]Press | [210]Advertise on ESPN.com |
+   [211]Sales Media Kit | [212]Interest-Based Ads | [213]Corrections |
+   [214]Contact Us | [215]Site Map | [216]Jobs at ESPN
+   © 2017 ESPN Internet Ventures. [217]Terms of Use, [218]Privacy Policy,
+   [219]Your California Privacy Rights, [220]Children's Online Privacy
+   Policy and [221]Interest-Based Ads are applicable to you. All rights
+   reserved.
+
+References
+
+   Visible links
+   1. http://a.espncdn.com/search/opensearch.xml
+   2. http://espn.go.com/nfl/team/_/name/chi/chicago-bears
+   3. file:///nfl/team/_/name/chi/chicago-bears
+   4. file:///nfl/team/stats/_/name/chi/chicago-bears
+   5. file:///nfl/team/schedule/_/name/chi/chicago-bears
+   6. file:///nfl/team/roster/_/name/chi/chicago-bears
+   7. file:///nfl/team/splits/_/name/chi/chicago-bears
+   8. file:///nfl/team/depth/_/name/chi/chicago-bears
+   9. file:///nfl/team/transactions/_/name/chi/chicago-bears
+  10. file:///nfl/team/rankings/_/name/chi/chicago-bears
+  11. file:///nfl/team/photos/_/name/chi/chicago-bears
+  12. file:///nfl/team/stadium/_/name/chi/chicago-bears
+  13. file:///blog/chicago-bears
+  14. file:///nfl/team/stats/_/name/chi/chicago-bears
+  15. file:///nfl/team/stats/_/type/team/name/chi/chicago-bears
+  16. http://www.espn.com/nfl/player/_/id/15948/matt-barkley
+  17. http://www.espn.com/nfl/player/_/id/3060022/jordan-howard
+  18. http://www.espn.com/nfl/player/_/id/2520698/cameron-meredith
+  19. http://www.espn.com/nfl/player/_/id/11533/jerrell-freeman
+  20. http://www.espn.com/nfl/player/_/id/11274/tracy-porter
+  21. http://www.espn.com/nfl/player/_/id/15948/matt-barkley
+  22. http://www.espn.com/nfl/player/_/id/12477/brian-hoyer
+  23. http://www.espn.com/nfl/player/_/id/9597/jay-cutler
+  24. http://www.espn.com/nfl/player/_/id/16821/david-fales
+  25. http://www.espn.com/nfl/player/_/id/2520698/cameron-meredith
+  26. http://www.espn.com/nfl/player/_/id/3060022/jordan-howard
+  27. http://www.espn.com/nfl/player/_/id/2515416/jeremy-langford
+  28. http://www.espn.com/nfl/player/_/id/16942/ka'deem-carey
+  29. http://www.espn.com/nfl/player/_/id/15555/joshua-bellamy
+  30. http://www.espn.com/nfl/player/_/id/9597/jay-cutler
+  31. http://www.espn.com/nfl/player/_/id/3042435/kevin-white
+  32. http://www.espn.com/nfl/player/_/id/2970515/paul-lasike
+  33. http://www.espn.com/nfl/player/_/id/2520698/cameron-meredith
+  34. http://www.espn.com/nfl/player/_/id/13536/joique-bell
+  35. http://www.espn.com/nfl/player/_/id/2971271/bralon-addison
+  36. http://www.espn.com/nfl/player/_/id/15948/matt-barkley
+  37. http://www.espn.com/nfl/player/_/id/14072/chris-prosinski
+  38. http://www.espn.com/nfl/player/_/id/16821/david-fales
+  39. http://www.espn.com/nfl/player/_/id/12477/brian-hoyer
+  40. http://www.espn.com/nfl/player/_/id/2520698/cameron-meredith
+  41. http://www.espn.com/nfl/player/_/id/14912/alshon-jeffery
+  42. http://www.espn.com/nfl/player/_/id/12699/zach-miller
+  43. http://www.espn.com/nfl/player/_/id/11276/eddie-royal
+  44. http://www.espn.com/nfl/player/_/id/3060022/jordan-howard
+  45. http://www.espn.com/nfl/player/_/id/15555/joshua-bellamy
+  46. http://www.espn.com/nfl/player/_/id/15503/deonte-thompson
+  47. http://www.espn.com/nfl/player/_/id/3042435/kevin-white
+  48. http://www.espn.com/nfl/player/_/id/16023/marquess-wilson
+  49. http://www.espn.com/nfl/player/_/id/2515416/jeremy-langford
+  50. http://www.espn.com/nfl/player/_/id/2519013/daniel-brown
+  51. http://www.espn.com/nfl/player/_/id/16942/ka'deem-carey
+  52. http://www.espn.com/nfl/player/_/id/2969241/ben-braunecker
+  53. http://www.espn.com/nfl/player/_/id/13726/logan-paulsen
+  54. http://www.espn.com/nfl/player/_/id/2971271/bralon-addison
+  55. http://www.espn.com/nfl/player/_/id/2508256/mycole-pruitt
+  56. http://www.espn.com/nfl/player/_/id/2970515/paul-lasike
+  57. http://www.espn.com/nfl/player/_/id/15948/matt-barkley
+  58. http://www.espn.com/nfl/player/_/id/11533/jerrell-freeman
+  59. http://www.espn.com/nfl/player/_/id/3894939/harold-jones-quartey
+  60. http://www.espn.com/nfl/player/_/id/15074/danny-trevathan
+  61. http://www.espn.com/nfl/player/_/id/2582132/adrian-amos
+  62. http://www.espn.com/nfl/player/_/id/14984/akiem-hicks
+  63. http://www.espn.com/nfl/player/_/id/11274/tracy-porter
+  64. http://www.espn.com/nfl/player/_/id/2982870/cre'von-leblanc
+  65. http://www.espn.com/nfl/player/_/id/2581818/nick-kwiatkoski
+  66. http://www.espn.com/nfl/player/_/id/13497/willie-young
+  67. http://www.espn.com/nfl/player/_/id/3043136/leonard-floyd
+  68. http://www.espn.com/nfl/player/_/id/2515641/bryce-callahan
+  69. http://www.espn.com/nfl/player/_/id/14152/sam-acho
+  70. http://www.espn.com/nfl/player/_/id/2972442/jacoby-glenn
+  71. http://www.espn.com/nfl/player/_/id/13860/mitch-unrein
+  72. http://www.espn.com/nfl/player/_/id/14072/chris-prosinski
+  73. http://www.espn.com/nfl/player/_/id/2969944/deon-bush
+  74. http://www.espn.com/nfl/player/_/id/15914/cornelius-washington
+  75. http://www.espn.com/nfl/player/_/id/2578388/john-timu
+  76. http://www.espn.com/nfl/player/_/id/2969924/eddie-goldman
+  77. http://www.espn.com/nfl/player/_/id/2980097/jonathan-bullard
+  78. http://www.espn.com/nfl/player/_/id/13419/sherrick-mcmanis
+  79. http://www.espn.com/nfl/player/_/id/14202/pernell-mcphee
+  80. http://www.espn.com/nfl/player/_/id/16738/will-sutton
+  81. http://www.espn.com/nfl/player/_/id/17070/christian-jones
+  82. http://www.espn.com/nfl/player/_/id/16144/demontre-hurst
+  83. http://www.espn.com/nfl/player/_/id/13491/c.j.-wilson
+  84. http://www.espn.com/nfl/player/_/id/2613234/de'vante-bausby
+  85. http://www.espn.com/nfl/player/_/id/2986767/deiondre'-hall
+  86. http://www.espn.com/nfl/player/_/id/2514468/jonathan-anderson
+  87. http://www.espn.com/nfl/player/_/id/15555/joshua-bellamy
+  88. http://www.espn.com/nfl/player/_/id/2520698/cameron-meredith
+  89. http://www.espn.com/nfl/player/_/id/13277/lamarr-houston
+  90. http://www.espn.com/nfl/player/_/id/15824/johnthan-banks
+  91. http://www.espn.com/nfl/player/_/id/2969241/ben-braunecker
+  92. http://www.espn.com/nfl/player/_/id/3060022/jordan-howard
+  93. http://www.espn.com/nfl/player/_/id/13726/logan-paulsen
+  94. http://www.espn.com/nfl/player/_/id/14912/alshon-jeffery
+  95. http://www.espn.com/nfl/player/_/id/15503/deonte-thompson
+  96. http://www.espn.com/nfl/player/_/id/2515416/jeremy-langford
+  97. http://www.espn.com/nfl/player/_/id/2566034/deandre-houston-carson
+  98. http://www.espn.com/nfl/player/_/id/11276/eddie-royal
+  99. http://www.espn.com/nfl/player/_/id/12477/brian-hoyer
+ 100. http://www.espn.com/nfl/player/_/id/13403/ted-larsen
+ 101. http://www.espn.com/nfl/player/_/id/14572/patrick-scales
+ 102. http://www.espn.com/nfl/player/_/id/15096/bobby-massie
+ 103. http://www.espn.com/nfl/player/_/id/15948/matt-barkley
+ 104. http://www.espn.com/nfl/player/_/id/16023/marquess-wilson
+ 105. http://www.espn.com/nfl/player/_/id/16848/charles-leno
+ 106. http://www.espn.com/nfl/player/_/id/2508256/mycole-pruitt
+ 107. http://www.espn.com/nfl/player/_/id/2577346/cody-whitehair
+ 108. http://www.espn.com/nfl/player/_/id/11737/connor-barth
+ 109. http://www.espn.com/nfl/player/_/id/3060022/jordan-howard
+ 110. http://www.espn.com/nfl/player/_/id/12699/zach-miller
+ 111. http://www.espn.com/nfl/player/_/id/2515416/jeremy-langford
+ 112. http://www.espn.com/nfl/player/_/id/2520698/cameron-meredith
+ 113. http://www.espn.com/nfl/player/_/id/11276/eddie-royal
+ 114. http://www.espn.com/nfl/player/_/id/14912/alshon-jeffery
+ 115. http://www.espn.com/nfl/player/_/id/15503/deonte-thompson
+ 116. http://www.espn.com/nfl/player/_/id/3043136/leonard-floyd
+ 117. http://www.espn.com/nfl/player/_/id/15555/joshua-bellamy
+ 118. http://www.espn.com/nfl/player/_/id/15948/matt-barkley
+ 119. http://www.espn.com/nfl/player/_/id/16023/marquess-wilson
+ 120. http://www.espn.com/nfl/player/_/id/2519013/daniel-brown
+ 121. http://www.espn.com/nfl/player/_/id/2982870/cre'von-leblanc
+ 122. http://www.espn.com/nfl/player/_/id/15503/deonte-thompson
+ 123. http://www.espn.com/nfl/player/_/id/16942/ka'deem-carey
+ 124. http://www.espn.com/nfl/player/_/id/2971271/bralon-addison
+ 125. http://www.espn.com/nfl/player/_/id/2515641/bryce-callahan
+ 126. http://www.espn.com/nfl/player/_/id/15555/joshua-bellamy
+ 127. http://www.espn.com/nfl/player/_/id/2970515/paul-lasike
+ 128. http://www.espn.com/nfl/player/_/id/11276/eddie-royal
+ 129. http://www.espn.com/nfl/player/_/id/2982870/cre'von-leblanc
+ 130. http://www.espn.com/nfl/player/_/id/11737/connor-barth
+ 131. http://www.espn.com/nfl/player/_/id/16863/pat-o'donnell
+ 132. file:///nfl/team/_/name/chi/chicago-bears
+ 133. file:///nfl/team/stats/_/name/chi/chicago-bears
+ 134. file:///nfl/team/schedule/_/name/chi/chicago-bears
+ 135. file:///nfl/team/roster/_/name/chi/chicago-bears
+ 136. file:///nfl/team/splits/_/name/chi/chicago-bears
+ 137. file:///nfl/team/depth/_/name/chi/chicago-bears
+ 138. file:///nfl/team/transactions/_/name/chi/chicago-bears
+ 139. file:///nfl/team/rankings/_/name/chi/chicago-bears
+ 140. file:///nfl/team/photos/_/name/chi/chicago-bears
+ 141. file:///nfl/team/stadium/_/name/chi/chicago-bears
+ 142. file:///blog/chicago-bears
+ 143. file:///home/tmedina/cs432/assignment3/part1/uri_raw675.txt
+ 144. http://www.espn.com/
+ 145. file:///home/tmedina/cs432/assignment3/part1/uri_raw675.txt
+ 146. file:///nfl/
+ 147. file:///nba/
+ 148. file:///mlb/
+ 149. file:///college-football/
+ 150. http://www.espnfc.com/
+ 151. file:///mens-college-basketball/
+ 152. file:///home/tmedina/cs432/assignment3/part1/uri_raw675.txt
+ 153. file:///nhl/
+ 154. file:///golf/
+ 155. file:///tennis/
+ 156. file:///mma/
+ 157. file:///wwe/
+ 158. file:///boxing/
+ 159. file:///esports/
+ 160. file:///chalk/
+ 161. file:///analytics/
+ 162. file:///womens-basketball/
+ 163. file:///womens-basketball/
+ 164. file:///racing/nascar/
+ 165. file:///racing/
+ 166. file:///horse-racing/
+ 167. http://www.espn.com/college-sports/football/recruiting/
+ 168. http://www.espn.com/college-sports/basketball/recruiting/index
+ 169. file:///college-sports/
+ 170. http://www.espn.com/moresports/story/_/page/LittleLeagueWorldSeries/little-league-world-series-espn
+ 171. file:///olympics/
+ 172. http://www.espn.com/extra/specialolympics/
+ 173. http://xgames.com/
+ 174. http://espncricinfo.com/
+ 175. http://www.espnscrum.com/
+ 176. file:///endurance/
+ 177. http://www.tsn.ca/cfl
+ 178. file:///home/tmedina/cs432/assignment3/part1/uri_raw675.txt
+ 179. file:///fantasy/
+ 180. http://www.espn.com/espnradio/index
+ 181. http://www.espn.com/watchespn/index
+ 182. file:///nfl/
+ 183. file:///nfl/
+ 184. http://www.espn.com/nfl/draft
+ 185. file:///nfl/scoreboard
+ 186. file:///nfl/schedule
+ 187. file:///nfl/standings
+ 188. http://www.espn.com/nfl/statistics
+ 189. http://www.espn.com/nfl/teams
+ 190. http://www.espn.com/nfl/story/_/page/nfltopstories/nfl-top-stories-news-headlines-rumors-all-32-teams
+ 191. file:///home/tmedina/cs432/assignment3/part1/uri_raw675.txt
+ 192. file:///blog/nflnation
+ 193. http://www.espn.com/nfl/story/_/id/18395280/nfl-2016-final-regular-season-power-rankings-new-england-patriots-dallas-cowboys-pittsburgh-steelers
+ 194. http://www.espn.com/blog/statsinfo/post/_/id/128267/patriots-falcons-packers-finish-season-atop-fpi-ranks
+ 195. http://www.espn.com/nfl/playoffs/machine
+ 196. http://www.espn.com/fantasy/football/
+ 197. file:///blog/nflinjurywire/
+ 198. http://www.espn.com/nfl/story/_/page/mnfhq2016/2016-nfl-monday-night-football-headquarters-schedule-scores
+ 199. file:///blog/nfl/rumors
+ 200. http://www.espn.com/nfl/transactions
+ 201. http://www.espn.com/chalk/
+ 202. http://www.espn.com/nfl/picks
+ 203. http://insider.espn.com/insider/pickcenter/index?sport=nfl
+ 204. http://www.espn.com/nfl/lines
+ 205. http://www.espn.com/nfl/coaches
+ 206. http://www.espn.com/blog/nflnation/post/_/id/225530/selections-for-the-2017-nfl-pro-bowl
+ 207. http://www.vividseats.com/nfl?wsUser=717&wsVar=NFLindexnav
+ 208. http://www.espn.com/espn/news/story?page=help/index
+ 209. http://espnmediazone.com/us/
+ 210. http://www.espncms.com/Advertise-on-ESPN.aspx
+ 211. http://www.espncms.com/
+ 212. http://preferences.truste.com/2.0/?type=espn&affiliateId=148
+ 213. http://www.espn.com/espn/corrections
+ 214. http://www.espn.com/espn/news/story?page=contact/index
+ 215. http://www.espn.com/espn/sitemap
+ 216. http://espncareers.com/
+ 217. http://disneytermsofuse.com/
+ 218. http://disneyprivacycenter.com/
+ 219. https://disneyprivacycenter.com/notice-to-california-residents/
+ 220. https://disneyprivacycenter.com/kids-privacy-policy/english/
+ 221. http://preferences-mgr.truste.com/?type=espn&affiliateId=148
+
+   Hidden links:
+ 223. http://www.espn.com/nfl/player/_/id/15948/matt-barkley
+ 224. http://www.espn.com/nfl/player/_/id/3060022/jordan-howard
+ 225. http://www.espn.com/nfl/player/_/id/2520698/cameron-meredith
+ 226. http://www.espn.com/nfl/player/_/id/11533/jerrell-freeman
+ 227. http://www.espn.com/nfl/player/_/id/11274/tracy-porter
+ 228. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw675.txt
