@@ -1,0 +1,587 @@
+<!doctype html>
+<html class="no-js" lang="en-US" >
+	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+		<title>How Hyundai and the US Military Created a Super Bowl Ad in Less Than an Hour &#8211; Adweek</title>
+<link rel='dns-prefetch' href='//cdn.mediavoice.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='main-stylesheet-css'  href='http://www.adweek.com/core/wp-content/themes/AdWeek/assets/stylesheets/foundation.css?ver=1487172957' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js?ver=2.1.0'></script>
+<script type="text/javascript" src="http://cdn.mediavoice.com/nativeads/script/adweek/adweek.js?ver=4.7.2" async="async"></script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/plugins/aw-sitewide/assets/gtm.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/plugins/aw-taboola/js/taboola.js?ver=4.7.2'></script>
+<link rel='https://api.w.org/' href='http://www.adweek.com/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.adweek.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.adweek.com%2Fcreativity%2Fhow-hyundai-and-the-us-military-created-a-super-bowl-ad-in-less-than-an-hour%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.adweek.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.adweek.com%2Fcreativity%2Fhow-hyundai-and-the-us-military-created-a-super-bowl-ad-in-less-than-an-hour%2F&#038;format=xml" />
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.adweek.com/core/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.adweek.com/core/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+/* Article template */
+#single-post .container-title h2 {
+	font-size: 24px;
+	line-height:29px;
+}
+
+.interstitial-container .aw-container:after { height: 0; }
+
+/* Index pages */
+.container-title .subtitle {
+	display: block;
+	margin-bottom: 10px!important;
+}
+
+
+.container-meno #section-3 .aw-element:after { background: none; }
+
+.post-well .social span, .entry-header .social, .social-article-footer div, .addthis_toolbox, #sticky-nav .social p {display:none !important;}
+
+#floating-300 {
+	width: 100%;
+        max-width:1020px;
+        margin: 0 auto;
+	margin-bottom: 20px;
+}
+#floating-300 .vc_col-sm-9 {
+	float: left;
+	width: calc(100% - 340px);
+	min-width: 720px;
+}
+#floating-300 .vc_col-sm-9 .vcfw-link h2 { 
+        font-size:20px;
+        line-height:28px;
+}
+#floating-300 .vc_col-sm-3 {
+	float: left;
+	width: 300px;
+}
+@media screen and (max-width: 1040px) {
+#floating-300 .vc_col-sm-9 {
+	float: none;
+        margin:0 auto;
+        margin-bottom:20px;
+}
+#floating-300 .vc_col-sm-3 {
+	float: none;
+        margin: 0 auto;
+        width: 300px;
+        margin-bottom: 20px;
+}
+}
+@media screen and (max-width: 680px) {
+#floating-300 .vc_col-sm-9 {
+	min-width:300px;
+}
+}
+
+/* 21:9 images going to 16:9 */
+@media screen and (max-width: 86.1875em){
+.container-meno .ar-21-9 img,
+.aw-element.full-width .vcfw-image img, #single-post .aw-element.full-width .vcfw-image img{    
+        height: 100%;
+	    width: auto;
+    }
+}
+
+
+/* Quick fix on blockquote */
+#single-post .main-content blockquote {	
+    margin-left: calc( 100% - 640px);
+	padding-left: 24px !important;
+	padding-top: 0px;
+}
+
+.kickout .ko-embed .instagram-media {
+	height: auto;
+	position: relative;
+
+}
+
+/* Polar Fix  */
+.kickout .plr-byline, .sticky .plr-byline {
+    display:none;
+}		</style>
+	<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>		<meta charset="UTF-8" />
+	
+		<!-- Facebook Pixel Code -->
+		<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+		document,'script','https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '546031825561495');
+		fbq('track', "PageView");</script>
+		<noscript><img height="1" width="1" style="display:none"
+		src="https://www.facebook.com/tr?id=546031825561495&ev=PageView&noscript=1"
+		/></noscript>
+		<!-- End Facebook Pixel Code -->
+		
+		<script src="https://www.google.com/recaptcha/api.js?render=explicit" async defer></script><!-- Twitter Meta Info -->
+		<meta name='twitter:card' 	 	content='summary' />
+		<meta name='twitter:site' 	 	content='@adweek' />
+		<meta name='twitter:creator' 	content='PatrickCoffee' /><!-- Facebook and LinkedIn Meta Info -->
+		<meta property='fb:admins' 	 	content='34404791,617231194' />
+		<meta property='fb:pages' 	 	content='126756847074' />
+		<meta property='fb:app_id' 	 	content='329778260413541' />
+		<meta property='og:type' 	 	content='article' />
+		<meta property='og:title' 		content='How Hyundai and the US Military Created a Super Bowl Ad in Less Than an Hour' />
+		<meta property='og:description' content='Two teams in Houston and Poland shot and edited the 90-second spot before the fourth quarter.' />
+		<meta property='og:url' 		content='http://www.adweek.com/creativity/how-hyundai-and-the-us-military-created-a-super-bowl-ad-in-less-than-an-hour/' />
+		<meta property='og:image' 		content='http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-dod-bts-PAGE-2017-600x300.jpg' />	<meta name="viewport" 		 content="width=device-width, initial-scale=1.0" />
+	<link rel="shortcut icon" 					 href="http://www.adweek.com/core/wp-content/themes/AdWeek/assets/images/icons/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" sizes="152x152" href="http://www.adweek.com/core/wp-content/themes/AdWeek/assets/images/icons/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="http://www.adweek.com/core/wp-content/themes/AdWeek/assets/images/icons/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="76x76" 	 href="http://www.adweek.com/core/wp-content/themes/AdWeek/assets/images/icons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" 				 href="http://www.adweek.com/core/wp-content/themes/AdWeek/assets/images/icons/apple-touch-icon.png">
+	<link rel="canonical" 						 href="http://www.adweek.com/creativity/how-hyundai-and-the-us-military-created-a-super-bowl-ad-in-less-than-an-hour/">
+
+	<!-- Google Analytics -->
+	<script>
+		window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+		
+		ga('create', 'UA-21937547-1', 'auto');
+		
+				
+	</script>
+	<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+	<!-- End Google Analytics -->
+			
+	</head>
+	
+	<body class="post-template-default single single-post postid-805464 single-format-standard offcanvas wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+		<!-- Google Tag Manager NoScript -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KX5FCW"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+	
+	
+	
+	<header id="masthead" class="site-header" role="banner">
+		
+		<div id="left-links">
+					</div>
+		
+		<div id="site-logo">
+			<a href="http://www.adweek.com/" rel="home">
+				<img src="http://www.adweek.com/core/wp-content/themes/AdWeek/assets/images/global/adweek-header-wt.png"/>
+			</a>
+		</div>
+		
+		<div id="right-links">
+				
+			<h3>Follow</h3>
+			<div class="masthead-social"><ul id="menu-dropdown-social" class="menu masthead-social-menu"><li id="menu-item-46" class="fa fa-facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a target="_blank" href="https://www.facebook.com/Adweek">facebook</a></li>
+<li id="menu-item-50" class="fa fa-twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a target="_blank" href="https://twitter.com/adweek">twitter</a></li>
+<li id="menu-item-803594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-803594"><a target="_blank" href="https://www.instagram.com/adweek/">instagram</a></li>
+<li id="menu-item-49" class="fa fa-linkedin menu-item menu-item-type-custom menu-item-object-custom menu-item-49"><a target="_blank" href="https://www.linkedin.com/company/adweek">linkedin</a></li>
+<li id="menu-item-47" class="fa fa-rss menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="/rss">Feed</a></li>
+</ul></div>			
+			<a href="/subscribe-header" id="header-subscribe-link">Subscribe</a>
+		</div>
+		
+		<button id="mobile-elipsis" class="dropdown-toggle triple-circle-button hide-for-large" type="button" data-toggle="mobile-menu">
+			<i class="menu-circles" id="c1"></i>
+			<i class="menu-circles" id="c2"></i>
+			<i class="menu-circles" id="c3"></i>
+		</button>		
+
+	</header>
+	
+	<div id="secondary-head">
+		
+		<div class="menu-container"><ul id="menu-primary-menu" class="menu desktop-menu" data-dropdown-menu><li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="http://www.adweek.com/brand-marketing/">Brand Marketing</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="http://www.adweek.com/agencies/">Agencies</a></li>
+<li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="http://www.adweek.com/digital/">Digital</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="http://www.adweek.com/tv-video/">TV / Video</a></li>
+<li id="menu-item-800646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-800646"><a href="http://www.adweek.com/creativity/">Creativity</a></li>
+</ul></div><nav id="sticky-nav" class="hidden">
+	<div class="z-container">
+		
+		<div id="current-article">	
+			<div class="sponsor-bar "><h2 class='cat-name'><a href='/the-big-game/'>The Big Game</a></h2></div>			
+			<h2 class="sticky-title">How Hyundai and the US Military Created a Super Bowl Ad in Less Than an Hour</h2>
+		</div>	
+		
+		<div class="social">
+			<p>Share</p>
+			<div class="addthis_toolbox">
+		        <ul><li><a class="share_buttons addthis_button_facebook"	target="_blank"><i class="fa fa-facebook-f"></i></a></li><li><a class="share_buttons addthis_button_twitter"	target="_blank"><i class="fa fa-twitter"></i></a></li><li><a class="share_buttons addthis_button_linkedin"	target="_blank"><i class="fa fa-linkedin"></i></a></li></ul></div>		</div>
+		
+	</div>
+</nav>
+		
+		<a href="#" class="search-bar-toggle"><i class="fa fa-search"></i></a>
+		
+		<button class="dropdown-toggle triple-circle-button" type="button" data-toggle="mobile-menu">
+			<i class="menu-circles" id="c1"></i>
+			<i class="menu-circles" id="c2"></i>
+			<i class="menu-circles" id="c3"></i>
+		</button>
+		
+	</div>
+	
+	<div id="searchbar" class="hidden">
+	
+	<div id="header-search">
+		<form role="search" method="get" id="searchform" action="http://www.adweek.com/">
+		<div class="input-group">
+		<input type="text" class="input-group-field" value="" name="s" id="s" placeholder="Search">
+		<div class="input-group-button">
+			<input type="submit" id="searchsubmit" value="Search" class="button">
+		</div>
+		</div>
+	
+</form>
+	</div>
+	
+</div><nav id="dropdown" class="hidden">
+	
+	<div id="dropdown-wrapper" class="row">
+		<div class="dropdown-menu"><ul id="menu-dotmenu" class="menu dd-left-menu" data-dropdown-menu1><li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21"><a href="/about">About / Advertising</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a target="_blank" href="http://mediakit.adweek.com">Media Kit</a></li>
+	<li id="menu-item-801260" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-801260"><a href="/sponsored">Sponsor Content</a></li>
+</ul>
+</li>
+<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25"><a href="/subscribe-nav">Subscriptions</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="/subscribe-nav">Subscription Options</a></li>
+	<li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a target="_blank" href="https://itunes.apple.com/us/app/adweek-magazine/id570229326?mt=8">Digital App</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="/newsletter-preferences">Newsletters</a></li>
+	<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a target="_blank" href="/customer-service">Customer Service</a></li>
+</ul>
+</li>
+<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30"><a href="/events">Events</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-801256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-801256"><a href="/events">Adweek Events</a></li>
+	<li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="/events/webinar">Webinars</a></li>
+	<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34"><a target="_blank" href="http://shop.adweek.com/collections/adweek-trophies-awards">Trophies / Awards / Seals</a></li>
+</ul>
+</li>
+<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35"><a href="/">Publications</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="/blognetwork">Adweek Blog Network</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="/feed">RSS</a></li>
+	<li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38"><a target="_blank" href="/subscribe-backissues">Backissues</a></li>
+	<li id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39"><a href="/reprints">Reprints / E-Prints</a></li>
+</ul>
+</li>
+<li id="menu-item-40" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-40"><a href="/">Verticals</a>
+<ul class="dropdown menu vertical" data-toggle>
+	<li id="menu-item-41" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-41"><a href="http://www.adweek.com/vertical/agencies/">Agencies</a></li>
+	<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-42"><a href="http://www.adweek.com/vertical/brand-marketing/">Brand Marketing</a></li>
+	<li id="menu-item-43" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-43"><a href="http://www.adweek.com/vertical/creativity/">Creativity</a></li>
+	<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-44"><a href="http://www.adweek.com/vertical/digital/">Digital</a></li>
+	<li id="menu-item-45" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-45"><a href="http://www.adweek.com/vertical/tv-video/">TV / Video</a></li>
+</ul>
+</li>
+</ul></div><!--
+		<div class="brandshare-container">		
+			<a href="/" class="brandshare-single">
+				<div class="brandshare-image"><img src="core/wp-content/uploads/2016/09/field-trip-to-mars-1-640x360.jpg"></div>
+				<div class="brandshare-label">BrandShare Content from WorkMarket</div>
+				<div class="brandshare-content">Here’s What Content Marketers Need to Know About Freelancers</div>
+			</a>
+		</div>
+-->
+		<div id="dropdown-social-wrapper">
+			<div id="dropdown-social">
+				<h3>Follow Us</h3>
+				<div class="dd-social-container"><ul id="menu-dropdown-social-1" class="menu dd-social-menu"><li class="fa fa-facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a target="_blank" href="https://www.facebook.com/Adweek">facebook</a></li>
+<li class="fa fa-twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a target="_blank" href="https://twitter.com/adweek">twitter</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-803594"><a target="_blank" href="https://www.instagram.com/adweek/">instagram</a></li>
+<li class="fa fa-linkedin menu-item menu-item-type-custom menu-item-object-custom menu-item-49"><a target="_blank" href="https://www.linkedin.com/company/adweek">linkedin</a></li>
+<li class="fa fa-rss menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="/rss">Feed</a></li>
+</ul></div>			</div>
+		</div>
+	</div>
+	
+</nav>
+
+	<section class="container">
+		<div class='ad-div-t0-wrapper gpt-wrapper'><div id='ad-div-t0'></div></div>
+<div id="single-post" class="row" role="main" data-infinite-posts="{&quot;0&quot;:&quot;805300&quot;,&quot;1&quot;:&quot;805431&quot;,&quot;2&quot;:&quot;805175&quot;,&quot;3&quot;:&quot;804910&quot;}" data-containers="{&quot;0&quot;:&quot;801311&quot;,&quot;1&quot;:&quot;801284&quot;,&quot;2&quot;:&quot;801307&quot;,&quot;3&quot;:&quot;801282&quot;,&quot;4&quot;:&quot;801309&quot;,&quot;5&quot;:&quot;801272&quot;}" data-infinite-name="Super Bowl - RL">
+
+	<div class='ad-div-oop-wrapper gpt-wrapper'><div id='ad-div-oop'></div></div>
+<article class="main-content post-805464 post type-post status-publish format-standard hentry category-the-big-game nodequeue-super-bowl-landing nodequeue-super-bowl-rl vertical-creativity contributor-patrick-coffee page-hero" 
+	id				="post-805464" 
+	data-url		="http://www.adweek.com/creativity/how-hyundai-and-the-us-military-created-a-super-bowl-ad-in-less-than-an-hour/"
+	data-id			="805464"
+	data-tags		="[&quot;the-big-game&quot;]"
+	data-zone		="creativity"
+	data-authors	="patrick-coffee"
+	data-date		="2017-02-06 02:08"
+	data-featured	="the-big-game"
+	data-bitlyurl	="http://adweek.it/2kzCAkS"
+	data-excerpt	="Two teams in Houston and Poland shot and edited the 90-second spot before the fourth quarter."
+	data-title		="How Hyundai and the US Military Created a Super Bowl Ad in Less Than an Hour"
+	data-categories ="the-big-game"
+>
+		
+		
+	<div class="entry-header">
+		<div class="sponsor-bar "><h2 class='cat-name'><a href='/the-big-game/'>The Big Game</a></h2></div>		
+		<h1 class="entry-title">How Hyundai and the US Military Created a Super Bowl Ad in Less Than an Hour</h1>
+
+		<h2 id="subtitle">Film united service members and families abroad</h2><div class="byline "><div id="contributor-byline"><div class="contributor">By <a href="http://www.adweek.com/contributor/patrick-coffee/" rel="author" >Patrick Coffee</a></div></div><span class="pipe">|</span><div id="post-time">February 6, 2017</div></div><div class="hero-media hero-page-width credited"><img width="1320" height="660" src="http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-dod-bts-PAGE-2017.jpg" class="attachment-aw-page size-aw-page" alt="" srcset="http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-dod-bts-PAGE-2017.jpg 1320w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-dod-bts-PAGE-2017-652x326.jpg 652w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-dod-bts-PAGE-2017-768x384.jpg 768w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-dod-bts-PAGE-2017-1024x512.jpg 1024w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-dod-bts-PAGE-2017-320x160.jpg 320w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-dod-bts-PAGE-2017-450x225.jpg 450w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-dod-bts-PAGE-2017-600x300.jpg 600w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-dod-bts-PAGE-2017-640x320.jpg 640w" sizes="(max-width: 1320px) 100vw, 1320px" /><div class="caption">Troops watch the Super Bowl in Prague.</div><div class="credit">Hyundai</div></div><div class="social"><span>Share</span><div class="addthis_toolbox">
+		        <ul><li><a class="share_buttons addthis_button_facebook"	target="_blank"><i class="fa fa-facebook-f"></i></a></li><li><a class="share_buttons addthis_button_twitter"	target="_blank"><i class="fa fa-twitter"></i></a></li><li><a class="share_buttons addthis_button_linkedin"	target="_blank"><i class="fa fa-linkedin"></i></a></li><li><a class="share_buttons addthis_button_email"	target="_blank"><i class="fa fa-envelope"></i></a></li></ul></div></div>	</div>
+
+	
+
+	<div class="entry-content">
+
+		
+		<div class="post-well">
+			<div class="byline "><div id="contributor-byline"><div class="contributor">By <a href="http://www.adweek.com/contributor/patrick-coffee/" rel="author" >Patrick Coffee</a></div></div><span class="pipe">|</span><div id="post-time">February 6, 2017</div></div><div class="social"><span>Share</span><div class="addthis_toolbox">
+		        <ul><li><a class="share_buttons addthis_button_facebook"	target="_blank"><i class="fa fa-facebook-f"></i></a></li><li><a class="share_buttons addthis_button_twitter"	target="_blank"><i class="fa fa-twitter"></i></a></li><li><a class="share_buttons addthis_button_linkedin"	target="_blank"><i class="fa fa-linkedin"></i></a></li><li><a class="share_buttons addthis_button_email"	target="_blank"><i class="fa fa-envelope"></i></a></li></ul></div></div>		</div>
+
+		<div class="post-text">
+			<p>In a night filled with <a href="http://www.adweek.com/brand-marketing/even-in-a-divided-america-super-bowl-advertisers-seemed-to-double-down-on-politics/">partisan politics,</a> <a href="http://www.adweek.com/brand-marketing/the-5-best-ads-of-super-bowl-li/">emotional journeys</a> and <a href="http://www.adweek.com/brand-marketing/the-5-worst-ads-of-super-bowl-li/">bad jokes,</a> the most personal appeal to a key American constituency aired after the Big Game, when Hyundai and its agency of record Innocean Worldwide Americas connected active members of the U.S. military with loved ones half a world away.</p>
+<p>The most impressive aspect of &#8220;A Better Super Bowl&#8221; is that it was all filmed during the game at both Houston&#8217;s NRG Stadium and a military base in Zagan, Poland, then aired immediately after the Patriots came back to win the first Super Bowl to need overtime.</p>
+<p><iframe src="https://www.youtube.com/embed/P7n-GxJBw1k" width="652" height="367" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p><div class='ad-div-m10-mobile-wrapper gpt-wrapper mobile-ad'><div id='ad-div-m10-mobile'></div></div>
+<p>The 90-second spot is only the first stage in an ongoing campaign called &#8220;Better Drives Us.&#8221; And it wouldn&#8217;t have happened without the help of the NFL, Fox Sports, the Department of Defense and a team of sleep-deprived strategists, creatives and planners on the media and client sides. (A late, game-tying touchdown by Tom Brady and company didn&#8217;t hurt, either.)</p>
+<p>Here&#8217;s how it went down.</p>
+<p>&#8220;We have been embracing the military for years,&#8221; said Hyundai North America chief marketing officer Dean Evans. &#8220;There are a few organizations we support, and we&#8217;ve been dedicated to incentive programs for active members and with local dealers located around military bases.&#8221;</p>
+<p>These initiatives scored Hyundai a spot on two annual lists of America&#8217;s top military employers in 2017. &#8220;It&#8217;s a longstanding relationship,&#8221; said Eric Springer, chief creative officer at agency of record Innocean, adding, &#8220;It&#8217;s organic to the soul of the company, so this wasn&#8217;t a stunt whatsoever.&#8221;</p>
+<p>The planning phase started months ago with one big idea: to surprise U.S. troops stationed abroad on Super Bowl Sunday with virtual visits from their family members in the states.</p>
+<div class="kickout justify-left ko-image-container">		
+			<div class="ko-image">
+			<img width="450" height="305" src="http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-stadium-450x305.jpg" class="attachment-aw-kickout size-aw-kickout" alt="" srcset="http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-stadium.jpg 450w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-stadium-320x217.jpg 320w" sizes="(max-width: 450px) 100vw, 450px" />			</div>
+	
+		</div>
+<p>&#8220;[Hyundai] threw a huge party at a base in Poland,&#8221; said Springer in summing up the campaign. &#8220;These troops are over there so the rest of us can sit around and eat as many buffalo wings as we like on a gluttonous day in America.&#8221;</p>
+<p>After Innocean got Hyundai on board, Evans pitched the idea to the NFL over the phone. &#8220;The best moments of the Super Bowl won&#8217;t happen on the field,&#8221; he said—and while both the league and Fox Sports weren&#8217;t initially sure what to make of such a huge project, all parties quickly got on board. Springer said, &#8220;The Department of Defense really loved the idea and kept asking, Can we bring a few more troops in?&#8221;</p>
+<p>The Innocean/Hyundai team effectively split, with one half in Poland and the other in Houston along with director Peter Berg of &#8220;Friday Night Lights&#8221; fame. They chose three service members and flew their families to Houston the week before the Super Bowl; it was a larger undertaking than one might think given the U.S. military&#8217;s classification system, but the team made it work.</p>
+<div class="kickout justify-full ko-image-container">		
+			<div class="ko-image">
+			<img width="1320" height="604" src="http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-tents-poland-1320x604.jpg" class="attachment-aw-page size-aw-page" alt="" srcset="http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-tents-poland.jpg 1320w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-tents-poland-652x298.jpg 652w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-tents-poland-768x351.jpg 768w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-tents-poland-1024x469.jpg 1024w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-tents-poland-320x146.jpg 320w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-tents-poland-450x206.jpg 450w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-tents-poland-640x293.jpg 640w" sizes="(max-width: 1320px) 100vw, 1320px" />			</div>
+	
+		</div>
+<p>In Poland, Hyundai set up an immersive tent (created by Igloo) in which the selected service members could watch the game in 360 degrees, unaware that they would soon be surprised by their loved ones. &#8220;It was a huge reversal,&#8221; said Springer of the campaign&#8217;s key innovation. &#8220;We&#8217;ve all seen spots where the troops surprise the family, but this time the family surprised the troops.&#8221;</p>
+<div class="kickout justify-left ko-image-container">		
+			<div class="ko-image">
+			<img width="450" height="509" src="http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-war-room-450x509.jpg" class="attachment-aw-kickout size-aw-kickout" alt="" srcset="http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-war-room.jpg 450w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-war-room-324x367.jpg 324w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-war-room-320x362.jpg 320w" sizes="(max-width: 450px) 100vw, 450px" />			</div>
+	
+		</div>
+<p>While this was going on, the teams were simultaneously shooting in both locations during the first quarter of the game, the Innocean team embedded with the NFL Films crew in Houston. &#8220;Everything you have to do in three months for a normal ad we did in about 48 minutes,&#8221; Springer said. Most of the second quarter involved editing that footage in a trailer outside the stadium in Houston. &#8220;We had to be very decisive, which agencies aren’t generally known for,&#8221; Springer said, &#8220;and by halftime we had a cut. Then a Fox Sports guy, an NFL guy and two Department of Defense people sat in the trailer, watched it and said, &#8216;We love it.'&#8221;</p>
+<p>After delivering the final work to Fox during the third quarter, the team finally had a moment to breathe, head up to the suite and take in the last minutes of the game along with the military families and Hyundai executives.</p>
+<p>That was when Brady and his team took things into overtime. &#8220;You can&#8217;t buy that kind of timing,&#8221; Springer said, and Evans described the end of Sunday&#8217;s game as a case of &#8220;everything coming together at once, thank God!&#8221;</p>
+<p>Viewers may note that this work, unlike every other auto ad that ran last night, did not include any product shots or related footage. &#8220;It was a huge act of &#8216;better&#8217; on Hyundai&#8217;s part,&#8221; said Springer. &#8220;You don’t always have to show a car to sell a car; you have to show a better car company.&#8221;</p><div class='ad-div-m20-mobile-wrapper gpt-wrapper mobile-ad'><div id='ad-div-m20-mobile'></div></div>
+<div class="kickout justify-full ko-image-container">		
+			<div class="ko-image">
+			<img width="1320" height="600" src="http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-troops-full-1320x600.jpg" class="attachment-aw-page size-aw-page" alt="" srcset="http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-troops-full.jpg 1320w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-troops-full-652x296.jpg 652w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-troops-full-768x349.jpg 768w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-troops-full-1024x465.jpg 1024w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-troops-full-320x145.jpg 320w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-troops-full-450x205.jpg 450w, http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-troops-full-640x291.jpg 640w" sizes="(max-width: 1320px) 100vw, 1320px" />			</div>
+	
+		</div>	<div class="well-placeholder"></div>
+	
+	<div class="footer-social-wrapper">
+		<div class="social social-article-footer">
+			<div class="social-share">
+				<span>Share</span>
+				<div class="addthis_toolbox">
+		        <ul><li><a class="share_buttons addthis_button_facebook"	target="_blank"><i class="fa fa-facebook-f"></i></a></li><li><a class="share_buttons addthis_button_twitter"	target="_blank"><i class="fa fa-twitter"></i></a></li><li><a class="share_buttons addthis_button_linkedin"	target="_blank"><i class="fa fa-linkedin"></i></a></li><li><a class="share_buttons addthis_button_email"	target="_blank"><i class="fa fa-envelope"></i></a></li></ul></div>			</div>	
+			<div class="social-link" >
+				<div class="bitly">http://adweek.it/2kzCAkS</div>
+				<button>copy</button>
+				<div class="copy-confirmation"><div class="fa fa-check"></div></div>
+			</div>
+		</div>
+	</div>
+	<div class="well-placeholder"></div><div class="footer-contributors">			<div class="contributor">
+				
+								<div class="headshot">
+					<img src="/core/wp-content/uploads/2017/01/Patrick-Coffee.png" alt="Patrick Coffee"></img>
+				</div>
+								<div class="con-details ">
+					<h3 class="con-name"><a href="http://www.adweek.com/contributor/patrick-coffee/">Patrick Coffee</a></h3>
+					
+					<div class="social-media"><a href="http://twitter.com/PatrickCoffee" target="_blank">@PatrickCoffee</a></div><div class="bio">Patrick Coffee is a senior editor for Adweek, where he specializes in covering agencies, brands and industry trends. He is editor of Adweek's AgencySpy blog and Industry Bulletin.</div>					
+				</div>
+			</div>
+		</div>		</div>
+	</div>
+
+	<aside class="sidebar">
+		<div class="widget-area top-widgets">
+		<div class="widget">			<div class="textwidget"><div class="subscribewidget" style="padding:0;">
+     <a href="http://adweek.com/subscribe-03" class="subscribe-cover" target="_blank"><img src="http://www.zinio.com/img?issn=ADW123"></a>
+     <div class="subscribe-content">
+          <a href="http://adweek.com/subscribe-widget" target="_blank" class="subscribe-header">Subscribe to Adweek Today!</a>
+          <a href="http://adweek.com/subscribe-widget" target="_blank" class="subscribe-copy">Get a full year of print and tablet editions for just $69</a>
+     </div>
+</div></div>
+		</div>	</div>
+	<div class="widget-area sticky-container">
+		<div class="sticky-widgets sticky-top-anchor">
+			<div class="sticky widget"><div class='ad-div-m10-wrapper gpt-wrapper'><div id='ad-div-m10'></div></div></div>		</div>	
+	</div>
+	<div class="widget-area bottom-widgets" >
+		<div class="widget">			<div class="textwidget"><style type="text/css">
+.social-plugin-twitter {
+  border: 1px solid #ffffff;
+  padding: 10px;
+  text-align: center;
+}
+.social-plugin-facebook, .social-plugin-twitter {
+  margin-top: 10px;
+}
+</style>
+<div class="social-plugin-facebook">
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fadweek&amp;width=300&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;border_color=ffffff&amp;stream=false&amp;header=false&amp;appId=373749805990350" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:220px;" allowTransparency="true"></iframe>
+</div>
+<div class="social-plugin-twitter">
+<a href="https://twitter.com/Adweek" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @Adweek</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-588e982b3e9ec271"></script></div>
+		</div><div class="widget"><div class='ad-div-m20-wrapper gpt-wrapper'><div id='ad-div-m20'></div></div></div>	</div>
+	</aside>
+
+<!-- style="position: absolute; bottom: 0px;" -->	
+</article>
+    <div class="taboola columns" id="more-from-web"></div>
+    <div class='ad-div-a0-wrapper gpt-wrapper'><div id='ad-div-a0'></div></div>
+	<div class="interstitial-container" >
+		<div class="container-area">
+			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">	<div class="aw-full-width" style="background-color:  ">
+		<div class="aw-container container-title left small">
+			<div class="title-and-sponsor"><h2>Editor's Picks</h2>
+			
+			 
+			</div>
+						
+						
+						
+		</div>
+	</div>
+		<div class="aw-container container-grid flexbox">
+		
+		<div class="aw-element vertical parent-width border-right nobr-s xlarge-3 large-3 medium-6 small-12 nob-xl nob-l "><a href="http://www.adweek.com/brand-marketing/the-5-best-ads-of-super-bowl-li/"><div class="ar ar-16-9"><img width="640" height="360" src="http://www.adweek.com/core/wp-content/uploads/2017/02/its-a-10-hed-2017-640x360.jpg" class="attachment-aw-text size-aw-text" alt="" /></div></a><a href="http://www.adweek.com/brand-marketing/the-5-best-ads-of-super-bowl-li/"><h2>The 5 Best Ads of Super Bowl LI</h2></a><a href='http://www.adweek.com/contributor/tim-nudd/' class='contributor'>by Tim Nudd</a></div><div class="aw-element vertical parent-width border-right nobr-s xlarge-3 large-3 medium-6 small-12 nob-xl nob-l nobr-m"><a href="http://www.adweek.com/brand-marketing/the-5-worst-ads-of-super-bowl-li/"><div class="ar ar-16-9"><img width="640" height="360" src="http://www.adweek.com/core/wp-content/uploads/2017/02/t-mobile-bieber-worst-hed-2017-640x360.jpg" class="attachment-aw-text size-aw-text" alt="" /></div></a><a href="http://www.adweek.com/brand-marketing/the-5-worst-ads-of-super-bowl-li/"><h2>The 5 Worst Ads of Super Bowl LI</h2></a><a href='http://www.adweek.com/contributor/tim-nudd/' class='contributor'>by Tim Nudd</a></div><div class="aw-element vertical parent-width border-right nobr-s xlarge-3 large-3 medium-6 small-12 nob-xl nob-l nob-m"><a href="http://www.adweek.com/brand-marketing/even-in-a-divided-america-super-bowl-advertisers-seemed-to-double-down-on-politics/"><div class="ar ar-16-9"><img width="640" height="360" src="http://www.adweek.com/core/wp-content/uploads/2017/02/sb51-politics-CONTENT-2017-640x360.png" class="attachment-aw-text size-aw-text" alt="" srcset="http://www.adweek.com/core/wp-content/uploads/2017/02/sb51-politics-CONTENT-2017-640x360.png 640w, http://www.adweek.com/core/wp-content/uploads/2017/02/sb51-politics-CONTENT-2017-652x367.png 652w, http://www.adweek.com/core/wp-content/uploads/2017/02/sb51-politics-CONTENT-2017-768x431.png 768w, http://www.adweek.com/core/wp-content/uploads/2017/02/sb51-politics-CONTENT-2017-320x180.png 320w, http://www.adweek.com/core/wp-content/uploads/2017/02/sb51-politics-CONTENT-2017-450x253.png 450w, http://www.adweek.com/core/wp-content/uploads/2017/02/sb51-politics-CONTENT-2017.png 890w" sizes="(max-width: 640px) 100vw, 640px" /></div></a><a href="http://www.adweek.com/brand-marketing/even-in-a-divided-america-super-bowl-advertisers-seemed-to-double-down-on-politics/"><h2>Even in a Divided America, Super Bowl Advertisers Seemed to Double Down on Politics</h2></a><a href='http://www.adweek.com/contributor/patrick-coffee/' class='contributor'>by Patrick Coffee</a></div><div class="aw-element vertical parent-width border-right nobr-s xlarge-3 large-3 medium-6 small-12 nob-xl nob-l nob-m nob-s nobr-xl nobr-l nobr-m"><a href="http://www.adweek.com/creativity/how-hyundai-and-the-us-military-created-a-super-bowl-ad-in-less-than-an-hour/"><div class="ar ar-16-9"><img width="640" height="360" src="http://www.adweek.com/core/wp-content/uploads/2017/02/hyundai-dod-bts-PAGE-2017-640x360.jpg" class="attachment-aw-text size-aw-text" alt="" /></div></a><a href="http://www.adweek.com/creativity/how-hyundai-and-the-us-military-created-a-super-bowl-ad-in-less-than-an-hour/"><h2>How Hyundai and the US Military Created a Super Bowl Ad in Less Than an Hour</h2></a><a href='http://www.adweek.com/contributor/patrick-coffee/' class='contributor'>by Patrick Coffee</a></div>		
+	</div>	
+	</div></div></div></div>		</div>
+	</div>
+
+	</div>
+
+		</section>
+		
+		<div id="footer-container">
+			
+			<div id="footer-site-logo">
+				<a href="http://www.adweek.com/" rel="home"><img src="http://www.adweek.com/core/wp-content/themes/AdWeek/assets/images/global/adweek-logo-black.png"/></a>
+			</div>
+			
+			<div id="footer-inner">
+				<footer id="footer">
+	
+											
+					<div >
+						<div class="small-12 columns"><ul id="menu-footer-menu" class="menu desktop-menu"><li id="menu-item-2" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2"><a target="_blank" href="/about">About / Advertising</a>
+<ul class="sub-menu">
+	<li id="menu-item-3" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3"><a target="_blank" href="http://mediakit.adweek.com">Media Kit</a></li>
+	<li id="menu-item-4" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4"><a href="/sponsored">Sponsor Content</a></li>
+</ul>
+</li>
+<li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6"><a href="/subscribe-footer">Subscriptions</a>
+<ul class="sub-menu">
+	<li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a target="_blank" href="/subscribe-footer">Subscription Options</a></li>
+	<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a target="_blank" href="https://itunes.apple.com/us/app/adweek-magazine/id570229326?mt=8">Digital App</a></li>
+	<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a href="/newsletter-preferences">Newsletters</a></li>
+	<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a target="_blank" href="/customer-service">Customer Service</a></li>
+</ul>
+</li>
+<li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11"><a href="/events">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="/events/webinar/">Webinars</a></li>
+	<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="/events/">Adweek Events</a></li>
+	<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a target="_blank" href="http://shop.adweek.com/collections/adweek-trophies-awards">Trophies / Awards / Seals</a></li>
+</ul>
+</li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16"><a href="/">Publications</a>
+<ul class="sub-menu">
+	<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="/blognetwork">Adweek Blog Network</a></li>
+	<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="/rss">RSS</a></li>
+	<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a target="_blank" href="/subscribe-backissues">Backissues</a></li>
+	<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="/reprints">Reprints / E-Prints</a></li>
+</ul>
+</li>
+</ul></div>						
+						
+					</div>
+					
+									</footer>
+			</div>
+			
+			<div id="footer-copyright">
+				<ul>
+					<li>© 2017 Adweek - All Rights Reserved</li>
+					<div class="tiny-menu-container"><li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="http://www.adweek.com/terms-use/">Terms of Use</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="http://www.adweek.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-801345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801345"><a href="http://www.adweek.com/contact-us/">Contact Us</a></li>
+</div>				</ul>
+			</div>
+		</div>
+
+		
+
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0058/5430.js";
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/plugins/aw-infinite-scroll/js/style-adjustments.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gptData = {"id":"805464","zone":"creativity","posttags":["the-big-game"],"authors":"patrick-coffee","post-date":"2017-02-06 02:08","featured":"the-big-game","debug":"","presentation":"Off"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/plugins/aw-gpt/js/gpt.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var aw = {"ajax_url":"http:\/\/www.adweek.com\/core\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/plugins/aw-infinite-scroll/js/infinite-ajax.js?ver=1.1'></script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/plugins/aw-infinite-scroll/js/sticky-ads.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = "http:\/\/www.adweek.com\/core\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/plugins/aw-newsletters/assets/nl-front.js?ver=1487172957'></script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/plugins/aw-posttype-video/assets/video-front.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BITLYURL = "http:\/\/adweek.it\/2kzCAkS";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/plugins/aw-sitewide/assets/frontend.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var chartData = {"contributors":["patrick-coffee"],"title":"How Hyundai and the US Military Created a Super Bowl Ad in Less Than an Hour","sections":"creativity","featured":"the-big-game"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/plugins/aw-sitewide/assets/chartbeat-comscore.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/themes/AdWeek/assets/javascript/foundation.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.adweek.com/core/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.11.2.1'></script>
+	
+	​<script type="text/javascript">
+	var addthis_config = addthis_config||{};
+	    addthis_config.data_track_addressbar = false;
+	    addthis_config.data_track_clickback = false;
+	</script>
+
+
+</body>
+</html>

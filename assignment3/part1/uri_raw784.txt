@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<!--==================================================
+==================START: HEADER====================-->
+<html lang="en">
+	<head>
+		<link rel="icon" type="image/png" href="http://www.southcoasttoday.com/Global/images/favicons/southcoasttoday_favicon.png" />
+
+		<!--
+macro: mainmeta (MCD 201610140350)
+current date: 20170223005754
+currentrequest: /apps/pbcs.dll/article?avis=NB&date=20170222&category=SPORTS&lopenr=170229775&Ref=AR
+currentrequestunmodified: /sports/20170222/patriots-trey-flowers-returns-as-anchor-at-defensive-end-but-questions-abound
+app version: 1.5.390
+style version: 20170217-1647
+-->
+<!--[if lte IE 9 ]>
+  <meta http-equiv="X-UA-Compatible" content="IE=8" />
+<![endif]-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:site_name" content="southcoasttoday.com" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="msvalidate.01" content="7E15F9269E2CE66F2A488ABB04B5015E" />
+<meta name="apple-itunes-app" content="app-id=1018727716?at=1000lkC&ct=sb-southcoasttoday">
+<meta name="google-play-app" content="app-id=com.gatehousemedia.id3015">
+<link rel="apple-touch-icon" href="http://www.southcoasttoday.com/Global/images/mobile/m_apps/southcoasttoday/icons/icon175x175.jpeg">
+
+
+		<!-- Meta Tags - Global Article6 -->
+<meta name="description" content="With the 2016 season in the books, the Providence Journal will take a look at each position group on the Patriots, analyzing how the team performed in 2016 and where it might be heading in the future. Today we look at defensive end.Players: Trey Flowers, Jabaal Sheard, Rob Ninkovich, Chris Long, Geneo GrissomContract situation: It looks like the Patriots have an anchor here, but they&#x2019;re going to need to get younger and add some bodies to the defensive end position this season.Flowers is" />
+<meta name="news_keywords" content="defensive ends,patriots,rob ninkovich,trey flowers" /> 
+<script type="text/javascript">var news_keywords=["defensive ends","patriots","rob ninkovich","trey flowers"];</script>
+<meta property="vf:unique_id" content="siteNB-pub2326-486D364A-29C8-2E28-E053-0100007F0B95">
+<meta property="fb:app_id" content=""/>
+<meta property="tout:article:id" content="art-486D364A-29C8-2E28-E053-0100007F0B95-pub2326">
+<meta property="bt:pubDate" content="20170222T22:08:02Z">
+<meta property="bt:modDate" content="20170222T22:08:00Z">
+<meta property="bt:keywords" content="defensive&20ends,patriots,rob&20ninkovich,trey&20flowers">
+<meta property="bt:author" content="Mark Daniels @MarkDanielsPJ">
+	<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:src" content="http://www.southcoasttoday.com/storyimage/NB/20170222/SPORTS/170229775/AR/0/AR-170229775.jpg&MaxW=1200&MaxH=630">
+<meta property="og:image" content="http://www.southcoasttoday.com/storyimage/NB/20170222/SPORTS/170229775/AR/0/AR-170229775.jpg">
+<meta property="og:image:width" content="1545">
+<meta property="og:image:height" content="1183">
+<meta name="twitter:site" content="@southcoasttoday">
+<meta name="twitter:title" content="Patriots: Trey Flowers returns as an anchor at defensive end, but questions abound">
+<meta name="twitter:description" content="With the 2016 season in the books, the Providence Journal will take a look at each position group on the Patriots, analyzing how the team performed in 2016 and where it might be heading in the future. Today we look at defensive end.Players: Trey Flowers, Jabaal Sheard, Rob Ninkovich, Chris Long, Geneo GrissomContract situation: It looks like the Patriots have an anchor here, but they&#x2019;re going to need to get younger and add some bodies to the defensive end position this season.Flowers is">
+<meta property="og:title" content="Patriots: Trey Flowers returns as an anchor at defensive end, but questions abound"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="With the 2016 season in the books, the Providence Journal will take a look at each position group on the Patriots, analyzing how the team performed in" />
+	<meta name="author" content="Mark Daniels @MarkDanielsPJ">
+<link rel="canonical" href="http://www.southcoasttoday.com/sports/20170222/patriots-trey-flowers-returns-as-anchor-at-defensive-end-but-questions-abound"/>
+<script type="text/javascript">var dfp_url = "486D364A-29C8-2E28-E053-0100007F0B95";</script>
+<!--Parse.ly in Global Article6-->
+<script>
+   	PARSELY = {
+        // after PARSELY tracking code loads asynchronously
+        onload: function() {
+            // bind pageview tracking for all clicks on these elements
+            jQuery("img.indrelimages_sm,a.pagn8next,li#pgctrln,span.smallimgnavbtn,div.parselytracked,button.parselytracked,a.parselytracked").bind("click", function() {
+                var url = this.href,
+                    urlref = location.href;
+					console.log("INSIDE Parse.ly");
+                PARSELY.beacon.trackPageView({
+                    url: url,
+                    urlref: urlref,
+                    js: 1,
+                    action_name: "Next"
+                });
+                return true;
+            });
+        }
+    };
+</script>
+<!-- article ld+json in global article7.pbo -->
+<script type="text/javascript">
+	 var _articleMetaHelper = {
+		 "taxonomies"	:[],
+		 "keywords"		:["defensive ends","patriots","rob ninkovich","trey flowers"],
+		 "pubdate"		:"2017-02-23T03:08:02+0000",
+		 "byline"		:
+[{
+	"firstAuthor":"Mark Daniels@MarkDanielsPJ",
+	"name": "Mark Daniels@MarkDanielsPJ"
+}]
+,
+		 "wordCount"	:752,
+		 "origin"		:"local",
+		 "metered"		:true,
+		 "titleLength"	:84
+	 };
+	 _articleMetaHelper.bylineFormat = {};
+	 _articleMetaHelper.bylineFormat.array			= _articleMetaHelper.byline.filter(function(a){return a.name;}).map(function(a) {return a.name;});
+	 _articleMetaHelper.bylineFormat.commaDelimited = _articleMetaHelper.bylineFormat.array.join();
+</script>
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Patriots: Trey Flowers returns as an anchor at defensive end, but questions abound",
+    "image": {
+       "@type": "ImageObject",
+       "url": "http://www.southcoasttoday.com/storyimage/NB/20170222/SPORTS/170229775/AR/0/AR-170229775.jpg",
+       "height": 1183,
+       "width": 1545
+    },
+    "url": "http://www.southcoasttoday.com/article/20170222/sports/170229775",
+    "thumbnailUrl": "http://www.southcoasttoday.com/apps/pbcsi.dll/bilde?Site=NB&Date=20170222&Category=SPORTS&ArtNo=170229775&Ref=AR",
+    "dateCreated": "20170223T03:08:02Z",
+    "datePublished": "20170223T03:08:02Z",
+    "dateModified": "20170223T03:08:00Z",
+    "author": {
+       "@type": "Person",
+       "name": "Mark Daniels@MarkDanielsPJ"
+    },
+    "creator": "Mark Daniels@MarkDanielsPJ",
+    "publisher": {
+       "@type": "Organization",
+       "name": "southcoasttoday.com",
+       "logo": {
+         "@type": "ImageObject",
+         "url": "http://www.southcoasttoday.com/Global/images/head/nameplate/southcoasttoday_logo.png"
+       }
+    },
+    "articleSection": "Sports",
+    "keywords": ["defensive ends", "patriots", "rob ninkovich", "trey flowers"]
+  }
+</script>
+
+		<title> Patriots: Trey Flowers returns as an anchor at defensive end, but questions abound - Sports - southcoasttoday.com - New Bedford, MA</title>
+
+						<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oswald:300,400,700|Roboto+Condensed:400,400i,700,700i|Crimson+Text:400,400i,700,700i|Rubik:700,900">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" type="text/css">
+			<link rel="stylesheet" href="//cdn.gatehousemedia.com/assets/css/20170217-1647/default.min.css" type="text/css" />
+		<style type="text/css">
+	.adInRead{
+		max-width: 500px;
+		display:block;
+		margin: 0 auto;
+		width:100%;
+	}
+    /*==== ARTICLE ======*/
+    	/*  TERMS OF SERVICE LINK - under viafoura comments submit button */
+    	.vf-terms-of-service { float: right; margin-top: 5px;}
+    	/*  TWITTER EMBED - fixes twitter embeds on articles - without it height limited to 200px
+	    	http://metrowestdailynews_com.gm3-wlstage.newscyclecloud.com/sports/20160911/patriots-23-cardinals-21-no-brady-no-problem
+    	*/
+    	@media screen and (min-width:992px){
+			.article-body .twitter-timeline {
+				height:800px !important;
+			}
+		}
+		/* TOUT MID ARTICLE PLAYER */
+		.tout-mid-article { display:block; margin-right:2.35%; width:100%; }
+</style>
+		<style>
+@media screen and (min-width: 768px){
+	figure > a > div.teaser > span.native-thumbnail-dateline  {color:lightskyblue;}
+}
+@media screen and (max-width: 767px){
+	figure > a > div.teaser > span.native-thumbnail-dateline  {color:#039be5;}
+}
+</style>
+				<script async src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js?20160411-3"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js?20160411-3"></script>
+		<!--[if lte IE 9]>
+			<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+			<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+			<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+		<script type="text/javascript" src="http://www.southcoasttoday.com/Global/js/mobile/rwd/verticals.js?20160411-4"></script>
+		<script type="text/javascript" src="http://static.djlmgdigital.com/corp/global/scripts/jquery.cookie.js?20160411-3"></script>
+		<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9289482" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9289482&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+		<script type="text/javascript">
+			var __gh__coreData = {
+				"siteData":{"baseURL":"http://www.southcoasttoday.com","domain":"southcoasttoday.com","siteTitle":"southcoasttoday.com","siteCluster":"LMG","siteCode":"NB","pubTaxo":"2326","app_name":"SouthCoast Today","contactData":{"phone":"508-997-7411","emailAddresses":{"general":"news@southcoasttoday.com","editor":"news@southcoasttoday.com","admin":"news@southcoasttoday.com"}},"locationData":{"city":"New Bedford","state":{"full":"Massachusetts","abbr":"MA"},"zip":"02740"},"providers":{"ads":"dfp","calendar":"eviesays","comments":"viafoura","analytics":{"track":true,"track_krux":true,"google":"universal"},"paywall":"mpp","video":"tout"}},"rules":{"content":[]},"3rdPartyData":{"ads":{"dfp":{"id":"11564835","firstLevelAdUnit":"southcoasttoday.com","topBarSponsor":"","consumerSurvey":"","isInReadDisabled":true,"articleStart":2}},"apps":{},"analytics":{"auditedMedia":{},"chartbeat":{},"google":{"ua":"UA-50784300-1","consumerSurvey":"_gjy355q2ud6q7ngz5m6hghj4ju","affiliateDomains":["adpay.com","ap.org","bestride.com","bleacherreport.com","eviesays.com","financialcontent.com","findnsave.com","gadzoo.com","ppjol.com","legacy.com","marketplaceadsonline.com","monster.com","mycapture.com","newsbank.com","newsmemory.com","remembering-when.com","secondstreetapp.com","travidia.com","upickem.net","zap2it.com","southcoasttoday.com"],"accounts":{"rollup1": "UA-51861146-1","rollup2": "UA-51073501-1","rollup3": "UA-50784300-2"},"rollups":[],"custom":{"campaigns":[{"name":"Elections 2016","ua":"UA-51861146-2","taxonomies":["Elections 2016","Briefing Galleries","National","Elections 2016 Opinions","Politics","Election","Elections","Portsmouth election","Election 2016"]}]},"customDimensions":{"adBlocking":"dimension1","pageType":"dimension2","author":"dimension3","userType":"dimension4","category":"dimension5","contentType":"dimension6","keywords":"dimension8","errorType":"dimension9","tags":"dimension10","publishDate":"dimension11","wordCount":"metric1","headlineLength":"metric2"},"delivery":false},"krux":{"id":"JTS7xpKi"},"parsely":{"bylines": ["Steve Urbon","Auditi Guha","Sandy Quadros Bowles","Mike Lawrence","Curt Brown","Carol Kozma","Ed Collins","Brendan Kurie","Laurie Los","Jonathan Comey","Joanna Weeks","Tim Weisberg","Lauren Daley","John Garcia"],"videoTrackingEnabled":false},"mather":{},"pingdom":{},"salesforce":{"prodcode":"GTDT_CBP"}},"consumerMarketing":{"contextly":{},"olive": {}},"paywall":{"utils":{"loginURL": ""},"pianoVX":{"disabled":false,"aid":"","freemium":false},
+"pressplus":{"disabled":false,},"mpp":{"disabled": false,"subscriberEntitlement":"SCMG-SOUTH_COAST_TODAY","templateCode":"SCMG","artLimitAnonUsers":"3","artLimitRegUser":"10"}},"social":{"shareThis":{"id":"8092e108-c7b9-446d-8594-e0159d836d1c"},"facebook":{},"twitter":{"id":"southcoasttoday"}},"weather": {"accuweather":{"key":"333575","enableAlert":true}},"video":{"brightcove":{"playerData":{"ids":{"single":3977646486001,"chromeless":3977646485001,"mobile":3977646484001,"rwd":4123999335001},"keys":{"single":"AQ~~,AAADT2FnfYE~,MRqgefoCTY6h2leCf4m4DQNbPT02Ckj-","chromeless":"AQ~~,AAADT2FnfYE~,MRqgefoCTY6-M8TO1xzwS7Xo4S6vOwae","mobile":"AQ~~,AAADT2FnfYE~,MRqgefoCTY7_odqq2iuBcMUxj50OX1HS","rwd":"AQ~~,AAADT2FnfYE~,MRqgefoCTY5ANqG4q-OtvFT_G6W0yzAe"},"publisher":3639471472001,"token":"vhNkHYNdEmSARnqX57eRTnwsZ6TW6eusYYIrphbG3Bwu5oAmn0vCuA..","domain":"southcoasttoday.com","adServerURL":"http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/11564835/southcoasttoday.com/videoplayer&cust_params=pgtype%3Dvideo&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&correlator=24005532&url=/apps/pbcs.dll/article?avis=NB&date=20161105&category=SPORTS&lopenr=161109656&Ref=AR"}},"ndn":{"version":"1","clientId":92007,"client":"southcoasttoday","categoryWidgetIds":{"national":11831,"latestnews":11831,"sports":11883,"entertainment":11866,"politics":31606,"health":11861,"food":11858,"homegarden":11869,"pets":31607,"autos":31608,"lifestyles":11851,"superbowl":30561,"bostonmarathon":21909,"fashion":31609,"business":29836,"celebrity":31610},"categoryKeys": {"default": "","news": "","sports": 33321,"business": "","entertainment": 33322,"politics": ""}},"tout":{"id": "ad4adf","liveStreamPlayerHomeEnabled": false,"isMidArticlePlayerDisabled":false}},"contentRecommendation":{"outbrain":{},"adblade":{"id":"6583-3434751337"},"chatter":{"enabled":true}},"schoolClosings":{"enableAlert":false},"verticals":{"archives":{"newsbank":{}},"directories":{"ownlocal":{"url":"local.southcoasttoday.com","title":"SouthCoast Directory","region":"SouthCoast"}},"jobs":{"monster":{"rootDomain":".monster.com","ch":"totallylocaljobs","hname":"local-jobs","defaultLocation":"New Bedford, MA","defaultRadius":""}},"obituaries":{"legacy":{"siteid":"NewBedStanTime"}}}	}
+
+			};
+			__gh__coreData.pageData = {
+						"pageType": "article",
+		"categoryName": "SPORTS",
+		"profileID": "",
+		"profileName": "",
+		"buckets": [
+			{
+				"id": "1",
+				"title": "Article",
+				"feedURL": "http://www.southcoasttoday.com/sports/20170222/patriots-trey-flowers-returns-as-anchor-at-defensive-end-but-questions-abound?template=jsonart&mime=json&omniture=0",
+				"overrideURL": "",
+				"view": {
+					"name": "article",
+					"staticName": "article",
+					"options": {
+					}
+				},
+				"children": [],
+				"items": {}
+			},
+			{
+				"id": "2",
+				"title": "Read More",
+				"feedURL": "http://www.southcoasttoday.com/section?profile=12690&template=JSON&mime=json&start=1&c=8&omniture=0",
+				"overrideURL": "",
+				"view": {
+					"name": "articleHalfCard",
+					"staticName": "articleHalfCard",
+					"options": {},
+					"infiniteScroll": {
+						"start": 2,
+						"count": 8,
+						"url": "http://www.southcoasttoday.com/section?profile=12690&template=JSON&mime=json&omniture=0"
+					}
+				},
+				"items": [],
+				"children": []
+			}
+		]
+
+			};
+			__gh__coreData.pageData.isExtLogin = false;			
+  		</script>
+	</head>
+<!--================================================
+==================END: HEADER====================-->
+
+	<body class="__PAGETYPE__">
+		
+	<div id="fb-root"></div>
+	
+	
+	
+	
+		<script type="text/javascript">
+			
+				var s_prop13 = "Anonymous";
+				var s_prop14 = "";
+			
+			function setProp(s_code_obj){	
+			
+				s_code_obj.prop13=	"Anonymous";
+				s_code_obj.prop14=	"";
+				
+			}
+			var welcomeMsgViewed = "";
+			var userSingleSale = "";
+			var userStoriesViewed = "1";
+			var returnurl = "%2Fapps%2Fpbcs.dll%2Farticle%3Favis%3DNB%26date%3D20170222%26category%3DSPORTS%26lopenr%3D170229775%26Ref%3DAR";
+		</script>
+
+	
+		
+		
+		<noscript>
+			<meta http-equiv="refresh" content="1; URL=/apps/pbcs.dll/misc?url=/static/noscript.htm" />
+		</noscript>
+		
+		
+		<!--Include YUI Loader: --> 
+		<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.8.0r4/build/yahoo/yahoo-min.js&2.8.0r4/build/event/event-min.js&2.8.0r4/build/cookie/cookie-min.js&2.8.0r4/build/storage/storage-min.js"></script>
+		
+		
+		<script type="text/javascript">
+			var sesid;
+			
+			function submitOnEnter(evt){
+				try	{
+					var mlfrm=document.getElementById('login_form');
+					var charCode = (evt.which) ? evt.which : event.keyCode;
+					if(charCode == "13"){
+						mlfrm.submit();
+					}
+				}
+				catch(err) {
+					return false;
+				}
+				return true;
+			}
+			
+			function YYYYMM() {
+		    var ymnow = new Date;
+		    var rv = ymnow.getFullYear() * 100 + ymnow.getMonth() + 1;
+		    return rv;
+			}
+			
+			YAHOO.util.Event.onDOMReady(function() { 
+			  var ctr = 0, 
+			      storageEngine; 
+			 
+			  YAHOO.util.StorageEngineSWF.SWFURL = '/_flash/swfstore/swfstore.swf'; 		
+				
+				try	{
+					var storageEngine = YAHOO.util.StorageManager.get(
+					  YAHOO.util.StorageEngineHTML5.ENGINE_NAME,
+					  YAHOO.util.StorageManager.LOCATION_LOCAL,
+					  {force: false,
+					   order: [
+											YAHOO.util.StorageEngineHTML5,
+											YAHOO.util.StorageEngineSWF
+					          ]
+					  }
+					);
+				}
+				catch(err) {
+					storageEngine = false;
+				}
+			
+				if(storageEngine) { 
+					var storageEngine = YAHOO.util.StorageManager.get();
+					sesid = YAHOO.util.Cookie.get("PBCSSESSIONID");
+				
+				
+					storageEngine.subscribe(storageEngine.CE_READY, function() {
+						//storageEngine.removeItem('sid');
+						//storageEngine.removeItem('mnth');
+						var csid = YAHOO.util.Cookie.get("PBCSSESSIONID");
+						var ssid = storageEngine.getItem('sid');
+						var cmnth = YYYYMM();
+						var smnth = storageEngine.getItem('mnth');
+						
+						if (!ssid) {
+							storageEngine.setItem('sid', csid);
+							storageEngine.setItem('mnth', cmnth);
+						}	else if (ssid != csid) {
+							if (!smnth) {
+								storageEngine.setItem('mnth', cmnth);
+							}	else if (smnth == cmnth) {
+								//window.location="/apps/pbcs.dll/misc?url=" + "/misc/assignSession.pbs&returnUrl=%2Fapps%2Fpbcs.dll%2Farticle%3Favis%3DNB%26date%3D20170222%26category%3DSPORTS%26lopenr%3D170229775%26Ref%3DAR&sessionId=" + ssid;
+							}	else {
+								storageEngine.setItem('sid', csid);
+								storageEngine.setItem('mnth', cmnth);				
+							}
+						}
+					});
+				}
+			});				
+		</script>
+	
+	
+	
+	
+		<div id="paywall-bar" class="logged-out">
+			<div id="paywall-bar-left">
+				<span class="paywall-user">
+									
+						<span class="paywall-user-name"><a data-gh-paywall-event="login" href="/login" id="lmg-paywall-toggle"
+						data-gh-modal-fetch-html-url="/apps/pbcs.dll/misc?url=/misc/login-modal.pbs&returnurl=%2Fapps%2Fpbcs.dll%2Farticle%3Favis%3DNB%26date%3D20170222%26category%3DSPORTS%26lopenr%3D170229775%26Ref%3DAR"
+						data-gh-modal-title="Log In">
+							Log In
+						</a></span> 
+						<!-- .small -->
+							
+				</span>
+				<div class="paywall-info">
+					<span class="paywall-limits">
+						<a
+						data-gh-modal-fetch-html-url="/apps/pbcs.dll/misc?url=/misc/login-modal.pbs&returnurl=%2Fapps%2Fpbcs.dll%2Farticle%3Favis%3DNB%26date%3D20170222%26category%3DSPORTS%26lopenr%3D170229775%26Ref%3DAR"
+						data-gh-modal-title="Log In">
+						<span class="noofstoriesviewed"><span class="paywall-total-premium-clicks">1</span> of 3 <span class="paywall-limits-more">Premium Clicks used this month</span></span>
+						</a>
+					</span>
+					<!-- .paywall-user-controls -->
+				</div>
+			</div>
+			<div id="paywall-bar-right">
+				<ul class="paywall-links">
+					<li><a href="/activate">Print + Online Subscriber Activation</a></li>
+					<li><a href="/register">Register</a></li>
+				</ul>
+				<div class="paywall-subscribe">
+					<a href="/subscribe">Subscribe</a>
+				</div>
+			</div>
+		</div>
+	
+	
+	
+	
+	
+
+
+		<a href="#" id="backToTop"><i class="fa fa-chevron-up"></i></a>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P9H654"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P9H654');</script>
+<!-- End Google Tag Manager -->
+
+		<div id="wrapper-main">
+				<script type="text/javascript">
+  var TriggerPrompt = function(articleUrl, contentId) {
+    var ARTICLE_URL = articleUrl;
+    var CONTENT_ID 	= contentId || '';
+    var el 			= document.createElement('script');
+	var url 		= 'http://survey.g.doubleclick.net/survey?site=_gjy355q2ud6q7ngz5m6hghj4ju' +
+              '&url=' + encodeURIComponent(ARTICLE_URL) +
+              (CONTENT_ID ? '&cid=' + encodeURIComponent(CONTENT_ID) : '') +
+              '&random=' + (new Date).getTime() +
+              '&after=1';
+    el.setAttribute('src', url);
+    var head = document.getElementsByTagName('head')[0] ||
+        document.getElementsByTagName('body')[0];
+    head.appendChild(el);
+  };
+  function pressplusAlternateAction() {
+	__gh__webApp.paywall.showUserLoginForm();
+  }
+</script>
+
+					<header id="header-main" class="header header-expanded no-gutter static clearfix">
+			<div id="toprail">
+	<div class="inner clearfix">
+		<a	id="button-nav-toggle"
+			title="Navigation menu">
+			<i class="fa fa-2x fa-bars"></i>
+		</a>
+			<ul id="toprail-nav-left" class="list-inline"><li><a href="http://www.southcoasttoday.com/news"target="_top">News</a></li><li><a href="http://www.southcoasttoday.com/sports"target="_top">Sports</a></li><li><a href="http://www.southcoasttoday.com/entertainment"target="_top">Entertainment</a></li><li><a href="http://www.southcoasttoday.com/lifestyle"target="_top">Life</a></li><li><a href="http://www.southcoasttoday.com/news/obituaries"target="_top">Obits</a></li><li><a href="http://www.southcoasttoday.com/eedition"target="_top">E-Edition</a></li><li><a href="http://www.southcoastautotoday.com/" target="_blank">Autos</a></li><li><a href="http://www.southcoastjobmart.com/" target="_blank">Jobs</a></li><li><a href="http://www.southcoasthouseandhome.com/" target="_blank">Real Estate</a></li><li><a href="http://marketplace.southcoasttoday.com/" target="_blank">Classifieds</a></li></ul>
+		<ul id="toprail-nav-right" class="list-inline">
+			<li class="hidden-sm hidden-xs">
+				<ul class="social list-inline">
+					<li>
+						<a	href="http://www.facebook.com/southcoasttoday"
+							target="_blank"
+							title="southcoasttoday.com Facebook"
+							class="fa-stack fa-md icon-facebook">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-facebook"></i>
+						</a>
+					</li>
+					<li>
+						<a	href="http://www.twitter.com/southcoasttoday"
+							target="_blank"
+							title="southcoasttoday.com Twitter"
+							class="fa-stack fa-md icon-twitter">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-twitter"></i>
+						</a>
+					</li>
+					<li>
+						<a	href="http://www.southcoasttoday.com/section/feed"
+							title="southcoasttoday.com RSS Feed"
+							class="fa-stack fa-md icon-rss">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-rss"></i>
+						</a>
+					</li>
+					<li>
+						<a	href="http://www.southcoasttoday.com/contact"
+							title="Contact southcoasttoday.com"
+							class="fa-stack fa-md icon-muted">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-envelope"></i>
+						</a>
+					</li>
+				</ul>
+			</li>
+			<li id="toprail-login" class="divider">
+				<a data-gh-paywall-event="login" href="/login" id="lmg-paywall-toggle">
+					<i class="fa fa-fw fa-lg fa-user"></i>
+					<span class="hidden-sm hidden-xs">log in</span>
+				</a>
+			</li>
+			<li id="toprail-search" class="divider">
+											<div id="toprail-search-form">
+								<form class="search-bar" role="search" name="siteSearchForm" method="get" action="/search">
+							        <input class="search-input" name="searchText" placeholder="Search this site" type="search">
+							        <button type="submit" class="fa fa-fw fa-lg fa-search"></button>
+							    </form>
+							</div>
+							<i class="fa fa-fw fa-lg fa-search"></i>
+			</li>
+			<li id="toprail-weather" class="hidden-xs" data-gh-fetch-html-loaded="false" data-gh-fetch-html-url="http://www.southcoasttoday.com/section/?template=ajaxWeather" data-gh-fetch-html-dom="#toprail-weather">
+			</li>
+		</ul>
+	</div>
+</div>
+						<div id="header-main-nameplate">
+				<div id="header-main-left">
+					<div id="header-main-logo">
+						<a href="http://www.southcoasttoday.com">
+							<img class="mainheadnameplate" src="http://www.southcoasttoday.com/Global/images/head/nameplate/southcoasttoday_logo.png"  alt="southcoasttoday.com" />
+						</a>
+					</div>
+				</div>
+				<div id="header-main-right" class="hidden-xs">
+					<div id="header-main-promo" data-gh-fetch-html-loaded="false" data-gh-fetch-html-url="http://www.southcoasttoday.com/section/?template=ajaxPromoWiz7" data-gh-fetch-html-dom="#header-main-promo"></div>
+				</div>
+			</div>
+		</header>
+
+
+<!--==================================================
+==========================START: CONTENT===========-->
+			<div id="content" class="clearfix">
+				
+<div class="alert"></div>
+<div id="apoc-breaking-wrapper" data-gh-fetch-html-loaded="false" data-gh-fetch-html-url="http://www.southcoasttoday.com/section?template=breaking_ajax2" data-gh-fetch-html-dom="#apoc-breaking-wrapper"></div>
+
+				<div class="ad ad-billboard text-center" id="baseLeaderboard" data-size-mapping="baseLeaderboard" ></div>
+				<div id="wrapper" class="clearfix">
+					<div id="buckets">
+	<article class="full loading">
+	<div class="inner">
+		<h1 class="headline">Patriots: Trey Flowers returns as an anchor at defensive end, but questions abound</h1>
+				<figure class="thumb">
+			<div class="image"><img src="http://www.southcoasttoday.com/storyimage/NB/20170222/SPORTS/170229775/AR/0/AR-170229775.jpg&MaxH=225&MaxW=225"></div>
+			<!--div class="image-caption">
+				<div class="description">Trey Flowers is coming off his best season as he gets ready for the third year of his rookie contract. ROSS D. FRANKLIN/THE ASSOCIATED PRESS</div>
+				<div class="credit"></div>
+			</div-->
+		</figure>
+		<div class="article-meta">
+			<div class="inner">
+				<div class="article-meta-main">
+					<div class="article-meta-day">Wednesday<div>
+					<span class="article-meta-date">Feb&nbsp;22,&nbsp;2017&nbsp;at&nbsp;10:08&nbsp;PM</span>
+					<span class="article-meta-updated">Feb&nbsp;22,&nbsp;2017&nbsp;at&nbsp;10:08&nbsp;PM</span>
+				</div>
+			</div>
+		</div>
+		<div class="article-body">
+			<p class="article-summary"></p>
+			<span class="byline">
+				By Mark Daniels@MarkDanielsPJ
+			</span>
+			<p><p>With the 2016 season in the books, the Providence Journal will take a look at each position group on the Patriots, analyzing how the team performed in 2016 and where it might be heading in the future. Today we look at defensive end.</p><p>Players: Trey Flowers, Jabaal Sheard, Rob Ninkovich, Chris Long, Geneo Grissom</p><p>Contract situation: It looks like the Patriots have an anchor here, but they&#x2019;re going to need to get younger and add some bodies to the defensive end position this season.</p><p>Flowers is coming off the best year of his career and he enters 2017 on the third year of his rookie contract. He&#x2019;s set to count for $754,733 on the Patriots salary cap this season. The 23-year-old is signed through 2018 before becoming an unrestricted free agent in 2019.</p><p>Beyond Flowers, there are a lot of questions.</p><p>Ninkovich has one year left on his contract and he&#x2019;s on the books for $2.250 million next season. At 33 years old, it wouldn&#x2019;t be surprising if 2017 was the veteran&#x2019;s last season in the NFL.</p><p>Both Sheard and Long are unrestricted free agents. Long, 31, was noncommittal when The Providence Journal asked if he wanted to play next season. If he does, he wouldn&#x2019;t cost the Patriots a lot to retain. Sheard is a different story. At 27 years old, he is in the prime of his career.</p><p>Grissom is an exclusive rights free agent and likely to be back.</p><p>2016 review: The season got off to a slow start for the Patriots edge rushers. With Ninkovich serving a four-game PED suspension, Sheard and Long started the season as the two defensive ends. The amount of quarterback sacks just wasn&#x2019;t there consistently during the first half of 2016.</p><p>That all changed thanks to Flowers. The second-year player amassed four sacks in two games and by Week 10, he was a starting defensive end. Flowers turned into the Patriots best pass rusher and finished with seven sacks &#x2014; all made in the second half of the season. His ability to rush from the inside also gives the Patriots an advantage. He blew up in the Super Bowl, finishing with 2.5 sacks.</p><p>Last season, it was mutually beneficial to have four defensive ends that could rotate in and out of each game.</p><p>Ninkovich started opposite Flowers and finished with four sacks in 12 games. Long also finished with four sacks, but his ability to get to the quarterback paid off in other ways. In Super Bowl LI, he drew a fourth-quarter holding penalty on Jake Matthews to help push the Falcons out of field-goal range. That was instrumental in the Patriots' comeback.</p><p>Sheard had an up-and-down season. After making eight sacks last season, many thought he would replace Chandler Jones this past year. Instead, Sheard made headlines when the Patriots left him at home during their trip to San Francisco. The healthy scratch was notable. Sheard eventually got on the same page with his coaches, but finished with only five sacks this season.</p><p>Grissom, a 2015 third-round pick, was cut at the end of training camp and started the season on the practice squad. He eventually made his way back on the 53-man roster and played 11 games this season &#x2014; mainly contributing as a core special teamer (250 special team snaps). He played only 12 defensive snaps in 2016.</p><p>The future: The Patriots need to get younger at defensive end. Luckily, they have Flowers to build around.</p><p>That&#x2019;s where it starts for the Patriots and at this point, Flowers looks like a rising star and could develop into the Patriots' best defensive player. The team needs to surround him with depth. Ninkovich brings great leadership, but isn&#x2019;t getting any younger and can&#x2019;t play every snap on defense.</p><p>With Long and Sheard up for new contracts, it makes all the sense in the world for the Patriots to bring in another defensive end, or two, via the 2017 NFL Draft. If the Patriots could pair Flowers with another up-and-coming edge rusher, this defense would be primed for the long haul.</p><p>It wouldn&#x2019;t be shocking to see another team offer Sheard more money than the Patriots are willing to spend since edge rushers go for a premium price. The Pats could also try to bring Long back or another veteran, who is looking to win.</p><p>The team could solve some issues if Grissom develops into the player they thought he could. After getting cut last summer, he&#x2019;s anything but a guarantee in 2017.</p></p>
+		</div>
+	</div>
+</article>
+</div>
+
+				</div><!-- /wrapper -->
+			</div><!-- /content -->
+
+			<div id="push-main" class="clearfix"></div>
+		</div><!-- /wrapper-main -->
+<!--==================================================
+====================END: CONTENT===================-->
+				<footer id="footer-main" class="clearfix">
+				<div class="inner container">
+					<div id="footer-main-newsletter">
+						<h1 class="heading">About Us</h1>
+						<span class="fa-stack fa-2x">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-envelope"></i>
+						</span>
+						<h2>Sign up</h2>
+						<h3>for daily e-mail</h3>
+						<a href="http://services.southcoasttoday.com/reader-services/subscribe/email-alerts">
+							<button type="button" class="btn btn-default">
+								Subscribe
+							</button>
+						</a>
+					</div>
+					<div id="footer-main-info">
+							<div class="footer-col"><h4>Reader Services</h4><ul><li><a href="http://www.southcoasttoday.com/apps/pbcs.dll/misc?url=/static/premiumContent/initialOffer.html" target="_blank">New Subscriptions</a></li><li><a href="https://subscriberservices.gatehousemedia.com/cgi-bin/lmg/custservice/web/login.html?siteid=nst" target="_blank">Manage Your Subscription</a></li><li><a href="http://services.southcoasttoday.com/reader-services/contact-us/" target="_blank">Contact Us</a></li></ul></div><div class="footer-col"><h4>Submissions</h4><ul><li><a href="http://services.southcoasttoday.com/reader-services/submissions/photos/" target="_blank">Photos</a></li><li><a href="http://southcoasttoday.eviesays.com/events" target="_blank">Events</a></li><li><a href="http://services.southcoasttoday.com/reader-services/submissions/letter-to-editor/" target="_blank">Letters to the Editor</a></li><li><a href="http://services.southcoasttoday.com/reader-services/submissions/corrections/" target="_blank">Corrections</a></li><li><a href="http://services.southcoasttoday.com/reader-services/submissions/announcements-obits/" target="_blank">Announcements & Obits</a></li><li><a href="http://services.southcoasttoday.com/reader-services/submissions/story-idea/" target="_blank">Story Ideas</a></li></ul></div><div class="footer-col"><h4>Alerts</h4><ul><li><a href="http://services.southcoasttoday.com/reader-services/subscribe/email-alerts/" target="_blank">Email Alerts</a></li><li><a href="http://services.southcoasttoday.com/reader-services/subscribe/text-alerts/" target="_blank">Text Alerts</a></li></ul></div><div class="footer-col"><h4>Advertise</h4><ul><li><a href="http://mediakit.gatehousemedia.com/NewBedford_MA"target="_top">Advertise With Us</a></li><li><a href="http://services.southcoasttoday.com/media-kit/products-services/" target="_blank">Products & Services</a></li><li><a href="http://services.southcoasttoday.com/media-kit/advertising-rates/" target="_blank">Ad Rates</a></li><li><a href="http://services.southcoasttoday.com/media-kit/advertising-contacts/" target="_blank">Advertising Contacts</a></li></ul></div>
+						<div id="footer-main-verticals">
+							<ul class="list-inline">
+															<script type="text/javascript">
+						    	var verticalContent = verticals_data['p'+2326+''];
+								for(var key in verticalContent)
+								{
+									if(verticalContent.hasOwnProperty(key))
+									{
+										var vc_title 	= verticalContent[key].title;
+										var vc_url		= verticalContent[key].url;
+										var vc_html		= '<li><a target="_blank" href="'+vc_url+'">'+vc_title+'</a></li>';
+										var vc_job		= '<li><a target="_blank" href="http://www.southcoasttoday.com/jobs">Jobs</a></li>';
+										if(vc_title != '' && vc_title != 'NA' && vc_url != '' && vc_url != 'NA')
+										{	
+											if(vc_title == 'Classifieds' || vc_title == 'Cars')
+											{
+												$('#footer-main-verticals ul').append(vc_html);
+											}
+										}
+										if(vc_title == 'Jobs' && vc_url == 'NA')
+										{
+											$('#footer-main-verticals ul').append(vc_job);
+										}
+									}
+								}
+							</script>
+								<li><a target="_blank" href="http://propelmarketing.com/">Propel Marketing</a></li>
+							</ul>
+						</div>
+						<div id="footer-main-copyright">
+														<p id="footer-copyrightInfo">&copy; Copyright 2006-2017 <a href="http://www.gatehousemedia.com/about-us/" target="_blank">GateHouse Media, LLC.</a> All rights reserved&nbsp;&nbsp;&bull;&nbsp;&nbsp;GateHouse Sports</p>
+							<p>Original content available for non-commercial use under a Creative Commons license, except where noted.
+							<br />southcoasttoday.com  ~ 25 Elm Street, New Bedford, MA 02740 ~ <a href="http://www.gatehousemedia.com/privacy-policy/" target="_blank">Privacy Policy</a> ~ <a href="http://www.gatehousemedia.com/terms_of_use/" target="_blank">Terms Of Service</a>
+							<img id="footer-main-gh-logo" src="/Global/images/ghlogo_horizontal.png">
+						</div>
+					</div><!-- /footer-main-info -->
+				</div><!-- /inner -->
+		</footer><!-- /footer -->
+				<nav id="drawer" role="navigation">
+			<a id="drawer-close" href="#">Close</a>
+			<div id="wrapper-drawer">
+					<ul 
+					 class="nav" 
+					 data-gh-accordion-loaded="false" 
+					 data-gh-accordion-panel-dom="#drawer-nav-sections .subnav" 
+					 data-gh-accordion-toggle-dom="#drawer-nav-sections &gt; li &gt; a" 
+					 id="drawer-nav-sections"
+				   ><li><a href="http://www.southcoasttoday.com"target="_top">Home</a></li><li><a href="http://www.southcoasttoday.com/news"><span class="nav-category">News</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-"17855"><a href="http://www.southcoasttoday.com/news/crime"target="_top">Crime and Courts</a></li><li id="navLink-TEST-"17856"><a href="http://www.southcoasttoday.com/news/obituaries"target="_top">Death Notices and Obituaries</a></li><li id="navLink-TEST-"17857"><a href="http://www.southcoasttoday.com/news/education"target="_top">Education</a></li><li id="navLink-TEST-"17858"><a href="http://www.southcoasttoday.com/topics/news-columnists"target="_top">News Columnists</a></li><li id="navLink-TEST-"39377"><a href="http://www.southcoasttoday.com/news/nation-world"target="_top">Nation & World</a></li><li id="navLink-TEST-"17860"><a href="http://www.southcoasttoday.com/section/?template=weather"target="_top">Weather</a></li><li id="navLink-TEST-"17861"><a href="http://www.southcoasttoday.com/politics"target="_top">Politics and Elections</a></li><li id="navLink-TEST-"17862"><a href="http://www.southcoasttoday.com/news/shareable"target="_top">Shareable</a></li><li id="navLink-TEST-"37160"><a href="http://www.southcoasttoday.com/news/databases"target="_top">Databases</a></li></ul></li><li><a href="http://www.southcoasttoday.com/towns"><span class="nav-category">Towns</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-"17864"><a href="http://www.southcoasttoday.com/news/new-bedford"target="_top">New Bedford</a></li><li id="navLink-TEST-"17865"><a href="http://www.southcoasttoday.com/news/dartmouth-westport"target="_top">Dartmouth and Westport</a></li><li id="navLink-TEST-"17866"><a href="http://www.southcoasttoday.com/news/Acushnet-Fairhaven"target="_top">Acushnet and Fairhaven</a></li><li id="navLink-TEST-"17867"><a href="http://www.southcoasttoday.com/news/Tritown-Wareham"target="_top">Tri-town and Wareham</a></li><li id="navLink-TEST-"17868"><a href="http://www.southcoasttoday.com/news/Freetown-Lakeville-Middleboro"target="_top">Freetown, Lakeville and Middleboro</a></li></ul></li><li><a href="http://www.southcoasttoday.com/sports"><span class="nav-category">Sports</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-"17871"><a href="http://www.southcoasttoday.com/section/varsity"target="_top">SouthCoast Varsity</a></li><li id="navLink-TEST-"17872"><a href="http://www.southcoasttoday.com/sports/columnists"target="_top">Sports columnists</a></li><li id="navLink-TEST-"17873"><a href="http://www.southcoasttoday.com/sports/professional"target="_top">Pro sports</a></li><li id="navLink-TEST-"17874"><a href="http://www.southcoasttoday.com/sports/college"target="_top">College sports</a></li><li id="navLink-TEST-"17875"><a href="http://www.southcoasttoday.com/sports/new-england-patriots"target="_top">Patriots</a></li><li id="navLink-TEST-"17876"><a href="http://www.southcoasttoday.com/sports/boston-red-sox"target="_top">Red Sox</a></li><li id="navLink-TEST-"17877"><a href="http://www.southcoasttoday.com/sports/SouthCoast-in-action"target="_top">SouthCoast In Action</a></li><li id="navLink-TEST-"38292"><a href="http://www.southcoasttoday.com/sports/motor-racing-network"target="_top">Auto Racing</a></li></ul></li><li><a href="http://www.southcoasttoday.com/opinion"><span class="nav-category">Opinion</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-"17880"><a href="http://www.southcoasttoday.com/opinion/ourview"target="_top">Our View</a></li><li id="navLink-TEST-"17881"><a href="http://www.southcoasttoday.com/opinion/yourview"target="_top">Your View and Letters</a></li></ul></li><li><a href="http://www.southcoasttoday.com/business"><span class="nav-category">Business</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-"39378"><a href="http://www.marketplace.sct.consolidated.djlmgdigital.com/homes/" target="_blank">Real Estate</a></li><li id="navLink-TEST-"17885"><a href="http://www.southcoasttoday.com/business/fisheries"target="_top">New Bedford fisheries</a></li><li id="navLink-TEST-"17886"><a href="http://www.southcoasttoday.com/business/agriculture"target="_top">Agriculture</a></li></ul></li><li><a href="http://www.southcoasttoday.com/entertainment"><span class="nav-category">Entertainment</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-"38539"><a href="http://southcoasttoday.eviesays.com/"target="_top">Calendar</a></li><li id="navLink-TEST-"17889"><a href="http://www.southcoasttoday.com/entertainment/Coastin"target="_top">Coastin'</a></li><li id="navLink-TEST-"17890"><a href="http://www.southcoasttoday.com/entertainment/dineout"target="_top">Dining Out</a></li><li id="navLink-TEST-"17891"><a href="http://www.southcoasttoday.com/entertainment/movies"target="_top">Movies</a></li></ul></li><li><a href="http://www.southcoasttoday.com/living"><span class="nav-category">Living</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-"17894"><a href="http://www.southcoasttoday.com/living/milestones"target="_top">Neighbors</a></li><li id="navLink-TEST-"17895"><a href="http://www.southcoasttoday.com/topics/lifestyle-columnists"target="_top">Lifestyle Columnists</a></li><li id="navLink-TEST-"17896"><a href="http://www.southcoasttoday.com/living/cooking"target="_top">SouthCoast Cooks</a></li><li id="navLink-TEST-"17897"><a href="http://www.southcoasttoday.com/living/religion"target="_top">Religion</a></li><li id="navLink-TEST-"17898"><a href="http://www.southcoasttoday.com/living/pets"target="_top">SouthCoast Pets</a></li><li id="navLink-TEST-"17899"><a href="http://www.southcoasttoday.com/living/health"target="_top">Health</a></li><li id="navLink-TEST-"17900"><a href="http://www.southcoasttoday.com/living/home-and-garden"target="_top">Home and Garden</a></li><li id="navLink-TEST-"17901"><a href="http://www.southcoasttoday.com/living/travel"target="_top">Travel</a></li></ul></li><li><a href="http://www.southcoasttoday.com/news/obituaries"target="_top">Obits</a></li></ul>
+	<ul class="drawer-nav-secondary nav"><header>More</header><li><a href="http://www.southcoasttoday.com/photos"target="_top">Photos</a></li><li><a href="http://www.southcoasttoday.com/videos"target="_top">Videos</a></li><li><a href="http://southcoasttoday.eviesays.com/"target="_top">Calendar</a></li><li><a href="http://www.southcoasttoday.com/news/columns-and-blogs"target="_top">Blogs</a></li><li><a href="http://www.southcoasttoday.com/Advocate"target="_top">The Advocate</a></li><li><a href="http://www.southcoasttoday.com/Chronicle"target="_top">The Chronicle</a></li><li><a href="http://www.southcoasttoday.com/Gazette"target="_top">The Gazette</a></li><li><a href="http://www.southcoasttoday.com/Spectator"target="_top">The Spectator</a></li><li><a href="http://www.southcoasttoday.com/Spirit"target="_top">The Spirit</a></li><li><a href="http://www.southcoasttoday.com/special-reports"target="_top">Special Reports</a></li><li><a href="http://www.southcoasttoday.com/contests"target="_top">Contests</a></li><li><a href="http://www.southcoasttoday.com/entertainment/tv-guide"target="_top">TV Guide</a></li><li><a href="http://www.southcoasttoday.com/ara"target="_top">Branded Content</a></li><li><a href="http://services.southcoasttoday.com/reader-services/submissions/story-idea/" target="_blank">Submit Your News</a></li></ul>
+	<ul class="drawer-nav-secondary nav"><header class="accented">Subscriber</header><li><a href="http://www.southcoasttoday.com/eedition"target="_top">E-Edition</a></li><li><a href="https://subscriberservices.gatehousemedia.com/cgi-bin/lmg/custservice/web/login.html?siteid=nst" target="_blank">Manage Your Subscription</a></li><li><a href="http://www.southcoasttoday.com/subscribe"target="_top">Subscribe</a></li><li><a href="http://services.southcoasttoday.com/reader-services/subscribe/email-alerts/" target="_blank">Email Alerts</a></li><li><a href="http://services.southcoasttoday.com/reader-services/subscribe/text-alerts/" target="_blank">Text Alerts</a></li></ul>
+	<ul class="drawer-nav-secondary nav"><header>Market Place</header><li><a href="http://mediakit.gatehousemedia.com/NewBedford_MA"target="_top">Advertise With Us</a></li><li><a href="http://marketplace.southcoasttoday.com/" target="_blank">Classifieds</a></li><li><a href="http://www.southcoastautotoday.com/" target="_blank">Autos</a></li><li><a href="http://www.southcoastjobmart.com/" target="_blank">Jobs</a></li><li><a href="http://www.southcoasthouseandhome.com/" target="_blank">Real Estate</a></li><li><a href="http://www.limelightdeals.com/m/deal/southcoast/"target="_top">Limelight Deals</a></li><li><a href="http://www.propelmarketing.com/" target="_blank">Propel Marketing Services</a></li></ul>
+<footer id="footer-drawer">
+	<hr>
+	<ul class="drawer-nav-secondary nav">
+		<li>
+			<a href="mailto:news@southcoasttoday.com">Feedback</a>
+		</li>
+		<li>
+			<a href="http://www.gatehousemedia.com/terms_of_use/">Terms of Use</a>
+		</li>
+		<li>
+			<a href="http://www.gatehousemedia.com/privacy-policy/">Privacy Policy</a>
+		</li>		
+		<li>
+			<a href="http://www.gatehousemedia.com/our-markets/">GateHouse Media Publications</a>
+		</li>
+	</ul>
+</footer>
+			</div>
+			<footer id="footer-drawer">
+				<div id="drawer-weather" class="visible-xs-block text-center" data-gh-fetch-html-loaded="false" data-gh-fetch-html-url="http://www.southcoasttoday.com/section/?template=ajaxWeather" data-gh-fetch-html-dom="#drawer-weather">
+				</div>
+				<ul class="social list-inline">
+					<li>
+						<a	href="http://www.facebook.com/southcoasttoday""
+							target="_blank"
+							title="southcoasttoday.com Facebook"
+							class="fa-stack fa-md icon-facebook">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-facebook"></i>
+						</a>
+					</li>
+					<li>
+						<a	href="http://www.twitter.com/southcoasttoday""
+							target="_blank"
+							title="southcoasttoday.com Twitter"
+							class="fa-stack fa-md icon-twitter">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-twitter"></i>
+						</a>
+					</li>
+					<li>
+						<a	href="http://instagram.com/standardtimesma"
+							target="_blank"
+							title="southcoasttoday.com Instagram"
+							class="fa-stack fa-md icon-instagram">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-instagram"></i>
+						</a>
+					</li>
+					<li>
+						<a	href="http://www.pinterest.com/standardtimes"
+							target="_blank"
+							title="southcoasttoday.com Pintrest"
+							class="fa-stack fa-md icon-pinterest">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-pinterest"></i>
+						</a>
+					</li>
+					<li>
+						<a	href="/section/feed"
+							target="_blank"
+							title="southcoasttoday.com RSS Feed"
+							class="fa-stack fa-md icon-rss">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-rss"></i>
+						</a>
+					</li>
+					<li>
+						<a	href="http://www.southcoasttoday.com/contact"
+							title="Contact southcoasttoday.com"
+							class="fa-stack fa-md icon-muted">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-envelope"></i>
+						</a>
+					</li>
+				</ul>
+				<!-- <span id="drawer-copyrightInfo">&copy; 2015 __SITENAME__</span> -->
+			</footer>
+		</nav>
+		<div id="drawer-fade-screen"></div>
+
+				<script type="text/javascript">
+		__gh__coreData.pageData.pageType2 = "Article";
+		</script>
+		<script src="//cdn.gatehousemedia.com/gh-sites/global/ads/ads.js"></script>
+		<script src="//cdn.gatehousemedia.com/assets/1.5.390/ext.global.min.js"></script>
+		<script src="//cdn.gatehousemedia.com/assets/1.5.390/int.global.min.js"></script>
+		<!--Parse.ly-->
+<div id="parsely-root" style="display: none;">
+  <div id="parsely-cfg" data-parsely-site="southcoasttoday.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+		<script src="//cdn.gatehousemedia.com/assets/1.5.390/article.global.min.js"></script>
+		<script>
+		__gh__webApp.init();
+		__gh__webApp.articlePage.init();
+		</script>
+		<script async src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js?201604-1"></script>
+		<script type="text/javascript" src="//cdn.gatehousemedia.com/assets/1.5.390/smartbanner.min.js"></script>
+		<script type="text/javascript">$(function(){$.smartbanner()})</script>
+
+	<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

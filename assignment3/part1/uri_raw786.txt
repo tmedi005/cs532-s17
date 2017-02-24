@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7 not-logged-in "> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8 not-logged-in "> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9 not-logged-in "> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js not-logged-in "> <!--<![endif]-->
+    <head><meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>
+Instagram
+</title>
+
+        <script type="text/javascript">
+  WebFontConfig = {
+    custom: {
+      families: ['proxima-nova:n3,n4,n6,n7'],
+    }
+  };
+</script>
+<script src="/static/scripts/webfont.js/c0456c81549b.js" async type="text/javascript"></script>
+
+<style type="text/css">
+  /* @license
+   * MyFonts Webfont Build ID 2164953, 2012-03-23T23:06:30-0400
+   *
+   * The fonts listed in this notice are subject to the End User License
+   * Agreement(s) entered into by the website owner. All other parties are
+   * explicitly restricted from using the Licensed Webfonts(s).
+   *
+   * You may obtain a valid license at the URLs below.
+   *
+   ** Webfont: Proxima Nova Light by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/light/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Regular by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Semibold by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/semibold/
+   * Licensed pageviews: unlimited
+   ** Webfont: Proxima Nova Bold Italic by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold-it/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Bold by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Italic by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular-it/
+   * Licensed pageviews: unlimited
+   *
+   *
+   * License: http://www.myfonts.com/viewlicense?type=web&buildid=2164953
+   * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+   *
+   * (c) 2012 Bitstream Inc
+   */@font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-bold-webfont.eot/115b1f7f9c04.eot');
+    src: url(' /static/webfonts/proximanova-bold-webfont.eot/115b1f7f9c04.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-bold-webfont.woff/618250d25a4d.woff') format("woff"),
+      url(' /static/webfonts/proximanova-bold-webfont.ttf/646346e03084.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-bold-webfont.svg/e55a9d6051e8.svg#ProximaNovaBold') format("svg");
+    font-weight: bold;
+    font-style: normal; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-bold-latin-a-webfont.eot/78bfc2a26356.eot');
+    src: url(' /static/webfonts/proximanova-bold-latin-a-webfont.eot/78bfc2a26356.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-bold-latin-a-webfont.woff/2db359b9065d.woff') format("woff"),
+      url(' /static/webfonts/proximanova-bold-latin-a-webfont.ttf/5ae1219dca10.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-bold-latin-a-webfont.svg/017659bcaa88.svg#proxima_nova_rgbold') format("svg");
+    font-weight: bold;
+    font-style: normal; 
+    unicode-range: U+0100-017F;
+  }
+
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-boldit-webfont.eot/1cbb869da891.eot');
+    src: url(' /static/webfonts/proximanova-boldit-webfont.eot/1cbb869da891.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-boldit-webfont.woff/b1cf049474c9.woff') format("woff"),
+      url(' /static/webfonts/proximanova-boldit-webfont.ttf/3adb020ceae3.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-boldit-webfont.svg/29948a2d3c58.svg#ProximaNovaBoldItalic') format("svg");
+    font-weight: bold;
+    font-style: italic; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-boldit-latin-a-webfont.eot/72586d286717.eot');
+    src: url(' /static/webfonts/proximanova-boldit-latin-a-webfont.eot/72586d286717.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-boldit-latin-a-webfont.woff/ea0011f1fa31.woff') format("woff"),
+      url(' /static/webfonts/proximanova-boldit-latin-a-webfont.ttf/54abdaf3ee52.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-boldit-latin-a-webfont.svg/c4f67e496911.svg#proxima_novabold_italic') format("svg");
+    font-weight: bold;
+    font-style: italic; 
+    unicode-range: U+0100-017F;
+  }@font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-reg-webfont.eot/12af77715cee.eot');
+    src: url(' /static/webfonts/proximanova-reg-webfont.eot/12af77715cee.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-reg-webfont.woff/a9a9773b8e29.woff') format("woff"),
+      url(' /static/webfonts/proximanova-reg-webfont.ttf/99e19808976a.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-reg-webfont.svg/c33d2fd56309.svg#ProximaNovaRegular') format("svg");
+    font-weight: normal;
+    font-style: normal; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-reg-latin-a-webfont.eot/58dcfca24dc5.eot');
+    src: url(' /static/webfonts/proximanova-reg-latin-a-webfont.eot/58dcfca24dc5.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-reg-latin-a-webfont.woff/b84975dc78a8.woff') format("woff"),
+      url(' /static/webfonts/proximanova-reg-latin-a-webfont.ttf/794fcdf7d5cc.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-reg-latin-a-webfont.svg/08bad2145add.svg#proxima_nova_rgregular') format("svg");
+    font-weight: normal;
+    font-style: normal; 
+    unicode-range: U+0100-017F;
+  }
+
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-regit-webfont.eot/1bbbd1312b0d.eot');
+    src: url(' /static/webfonts/proximanova-regit-webfont.eot/1bbbd1312b0d.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-regit-webfont.woff/9e306befca91.woff') format("woff"),
+      url(' /static/webfonts/proximanova-regit-webfont.ttf/4a8663684135.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-regit-webfont.svg/876278d4b189.svg#ProximaNovaRegularItalic') format("svg");
+    font-weight: normal;
+    font-style: italic; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-regit-latin-a-webfont.eot/1442d729c835.eot');
+    src: url(' /static/webfonts/proximanova-regit-latin-a-webfont.eot/1442d729c835.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-regit-latin-a-webfont.woff/7bce76dac8b7.woff') format("woff"),
+      url(' /static/webfonts/proximanova-regit-latin-a-webfont.ttf/dfd8b0fc929b.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-regit-latin-a-webfont.svg/bb408d54ba63.svg#proxima_novaregular_italic') format("svg");
+    font-weight: normal;
+    font-style: italic; 
+    unicode-range: U+0100-017F;
+  }
+
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-sbold-webfont.eot/5016edf79e1d.eot');
+    src: url(' /static/webfonts/proximanova-sbold-webfont.eot/5016edf79e1d.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-sbold-webfont.woff/615c1b06d8fa.woff') format("woff"),
+      url(' /static/webfonts/proximanova-sbold-webfont.ttf/2973bd483f7a.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-sbold-webfont.svg/868597833e49.svg#ProximaNovaSemibold') format("svg");
+    font-weight: 600;
+    font-style: normal; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-sbold-latin-a-webfont.eot/6385b14bf318.eot');
+    src: url(' /static/webfonts/proximanova-sbold-latin-a-webfont.eot/6385b14bf318.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-sbold-latin-a-webfont.woff/0a6bfac8fce0.woff') format("woff"),
+      url(' /static/webfonts/proximanova-sbold-latin-a-webfont.ttf/6863621ed50b.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-sbold-latin-a-webfont.svg/608e88ac1050.svg#proxima_nova_ltsemibold') format("svg");
+    font-weight: 600;
+    font-style: normal; 
+    unicode-range: U+0100-017F;
+  }@font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-light-webfont.eot/63c84728610f.eot');
+    src: url(' /static/webfonts/proximanova-light-webfont.eot/63c84728610f.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-light-webfont.woff/66bbe029f180.woff') format("woff"),
+      url(' /static/webfonts/proximanova-light-webfont.ttf/eb408516399b.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-light-webfont.svg/858f6a9b7ef3.svg#ProximaNovaLight') format("svg");
+    font-weight: 300;
+    font-style: normal; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-light-latin-a-webfont.eot/11d79924ec61.eot');
+    src: url(' /static/webfonts/proximanova-light-latin-a-webfont.eot/11d79924ec61.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-light-latin-a-webfont.woff/bea5ea967c26.woff') format("woff"),
+      url(' /static/webfonts/proximanova-light-latin-a-webfont.ttf/3a5fa8856fd7.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-light-latin-a-webfont.svg/36736d1d0811.svg#proxima_nova_ltlight') format("svg");
+    font-weight: 300;
+    font-style: normal; 
+    unicode-range: U+0100-017F;
+  }</style>
+
+        
+        <meta name="robots" content="noimageindex">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta id="viewport" name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1">
+        
+
+        <script type="text/javascript">
+        (function() {
+            var docElement = document.documentElement;
+            var classRE = new RegExp('(^|\\s)no-js(\\s|$)');
+            var className = docElement.className;
+            docElement.className = className.replace(classRE, '$1js$2');
+        })();
+        </script>
+    <script type="text/javascript">window._timings = {"domLoading": Date.now()}</script>
+            
+                <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/images/ico/apple-touch-icon-76x76-precomposed.png/932e4d9af891.png">
+                <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/images/ico/apple-touch-icon-120x120-precomposed.png/004705c9353f.png">
+                <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/images/ico/apple-touch-icon-152x152-precomposed.png/82467bc9bcce.png">
+                <link rel="apple-touch-icon-precomposed" sizes="167x167" href="/static/images/ico/apple-touch-icon-167x167-precomposed.png/515cb4eeeeee.png">
+                <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/static/images/ico/apple-touch-icon-180x180-precomposed.png/94fd767f257b.png">
+                <link rel="icon" sizes="192x192" href="/static/images/ico/favicon-192.png/b407fa101800.png">
+            
+            <link rel="mask-icon" href="/static/images/ico/favicon.svg/9d8680ab8a3c.svg" color="#262626"><link rel="shortcut icon" type="image/x-icon" href="/static/images/ico/favicon.ico/dfa85bb1fd63.ico">
+            
+            
+            
+    
+    
+    <link rel="canonical" href="https://www.instagram.com/p/BQJSr_ulCWM/" />
+    <meta content="1,408 Likes, 43 Comments - Shamari DeVoe ♓ (@shamaridevoe) on Instagram: “Me and @bigrondevoe getting our gear ready for the #SuperBowl ------&amp;gt; #DividedHousehold 🏈#RiseUp…”" name="description" />
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="Instagram post by Shamari DeVoe ♓ • Feb 5, 2017 at 9:35pm UTC" />
+    <meta property="og:image" content="https://instagram.forf1-1.fna.fbcdn.net/t51.2885-15/e35/16229032_1226963890726165_4328066959682830336_n.jpg" />
+    <meta property="og:description" content="1,408 Likes, 43 Comments - Shamari DeVoe ♓ (@shamaridevoe) on Instagram: “Me and @bigrondevoe getting our gear ready for the #SuperBowl ------&gt; #DividedHousehold 🏈#RiseUp…”" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="https://www.instagram.com/p/BQJSr_ulCWM/" />
+    <meta property="instapp:owner_user_id" content="51759892" />
+    <meta property="al:ios:app_name" content="Instagram" />
+    <meta property="al:ios:app_store_id" content="389801252" />
+    <meta property="al:ios:url" content="instagram://media?id=1443767343750849932" />
+    <meta property="al:android:app_name" content="Instagram" />
+    <meta property="al:android:package" content="com.instagram.android" />
+    <meta property="al:android:url" content="https://www.instagram.com/p/BQJSr_ulCWM/" />
+    
+    <meta name="medium" content="image" />
+    <meta property="og:type" content="instapp:photo" />
+    <meta property="instapp:hashtags" content="riseup" /><meta property="instapp:hashtags" content="riseupatlanta" /><meta property="instapp:hashtags" content="superbowl51" /><meta property="instapp:hashtags" content="dividedhousehold" /><meta property="instapp:hashtags" content="atlantafalcons" /><meta property="instapp:hashtags" content="letsgofalcons" /><meta property="instapp:hashtags" content="atlfalcons" /><meta property="instapp:hashtags" content="superbowl" /><meta property="instapp:hashtags" content="dirtybirds" />
+
+    <link rel="alternate" href="android-app://com.instagram.android/https/instagram.com/p/BQJSr_ulCWM/" />
+    
+    <link hreflang="x-default" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/" />
+<link hreflang="it" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=it" />
+<link hreflang="hi" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=hi" />
+<link hreflang="pt-br" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=pt-br" />
+<link hreflang="ur" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=ur" />
+<link hreflang="nl" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=nl" />
+<link hreflang="es" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=es" />
+<link hreflang="pt" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=pt" />
+<link hreflang="zh-hk" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=zh-hk" />
+<link hreflang="ja" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=ja" />
+<link hreflang="zh-tw" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=zh-tw" />
+<link hreflang="id" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=id" />
+<link hreflang="sr" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=sr" />
+<link hreflang="gu" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=gu" />
+<link hreflang="te" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=te" />
+<link hreflang="fr" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=fr" />
+<link hreflang="ko" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=ko" />
+<link hreflang="th" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=th" />
+<link hreflang="mr" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=mr" />
+<link hreflang="hu" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=hu" />
+<link hreflang="ta" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=ta" />
+<link hreflang="ro" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=ro" />
+<link hreflang="si" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=si" />
+<link hreflang="ms" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=ms" />
+<link hreflang="vi" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=vi" />
+<link hreflang="af" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=af" />
+<link hreflang="da" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=da" />
+<link hreflang="sv" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=sv" />
+<link hreflang="sk" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=sk" />
+<link hreflang="bn" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=bn" />
+<link hreflang="fi" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=fi" />
+<link hreflang="pa" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=pa" />
+<link hreflang="tl" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=tl" />
+<link hreflang="tr" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=tr" />
+<link hreflang="ru" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=ru" />
+<link hreflang="ne" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=ne" />
+<link hreflang="bg" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=bg" />
+<link hreflang="nb" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=nb" />
+<link hreflang="cs" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=cs" />
+<link hreflang="pl" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=pl" />
+<link hreflang="uk" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=uk" />
+<link hreflang="ml" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=ml" />
+<link hreflang="en" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=en" />
+<link hreflang="kn" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=kn" />
+<link hreflang="fr-ca" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=fr-ca" />
+<link hreflang="de" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=de" />
+<link hreflang="zh-cn" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=zh-cn" />
+<link hreflang="el" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=el" />
+<link hreflang="hr" rel="alternate" href="https://www.instagram.com/p/BQJSr_ulCWM/?hl=hr" />
+    
+</head>
+    <body class="">
+        
+    <span id="react-root"></span>
+
+        
+
+        
+            <script src=/static/scripts/polyfills/es5-shim.min.js/6514c5e08593.js></script>
+<script src=/static/scripts/polyfills/es5-sham.min.js/fc3c22cf2d67.js></script>
+<script type="text/javascript">window._sharedData = {"language_code": "en", "display_properties_server_guess": {"viewport_width": 360, "pixel_ratio": 1.5}, "show_app_install": true, "country_code": "US", "config": {"csrf_token": "AbGrCqH0ueMO3IHpsp6ZP3nKnEUZsZ3k", "viewer": null}, "entry_data": {"PostPage": [{"media": {"id": "1443767343750849932", "caption_is_edited": true, "comments_disabled": false, "dimensions": {"height": 981, "width": 1080}, "location": {"id": "212947533", "has_public_page": true, "name": "Atlanta, Georgia", "slug": "atlanta-georgia"}, "owner": {"id": "51759892", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/11930799_1647876678817538_587058452_a.jpg", "username": "shamaridevoe", "followed_by_viewer": false, "full_name": "Shamari DeVoe \u2653", "is_private": false, "requested_by_viewer": false, "is_unpublished": false, "blocked_by_viewer": false, "has_blocked_viewer": false}, "is_ad": false, "is_video": false, "code": "BQJSr_ulCWM", "date": 1486330501, "display_src": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-15/e35/16229032_1226963890726165_4328066959682830336_n.jpg", "caption": "Me and @bigrondevoe getting our gear ready for the #SuperBowl ------\u003e #DividedHousehold \ud83c\udfc8#RiseUp #RiseUpAtlanta #ATLFalcons #LetsGoFalcons #DirtyBirds #AtlantaFalcons #SuperBowl51", "comments": {"count": 42, "page_info": {"has_next_page": true, "end_cursor": "AQAjBeT3gq7dddcJj2IuNxqKOFJZqkcRCXIJzqK71pPe4_ncxmebB9AX2adnhZ684HwIUY-d2-CQSdVR26Xv9W-IXYeCzu_Oei4iok0GhipsMFOHDwDz5TjPV4xo83_9M1o", "has_previous_page": true, "start_cursor": "AQAjBeT3gq7dddcJj2IuNxqKOFJZqkcRCXIJzqK71pPe4_ncxmebB9AX2adnhZ684HwIUY-d2-CQSdVR26Xv9W-IXYeCzu_Oei4iok0GhipsMFOHDwDz5TjPV4xo83_9M1o"}, "nodes": [{"id": "17848497454167203", "text": "@shamaridevoe rise up!", "created_at": 1486330632, "user": {"id": "351081802", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15625288_1335829559814802_124089752734400512_a.jpg", "username": "akbeeze"}}, {"id": "17871213214023099", "text": "I love it, make sure you bet and make it good!!", "created_at": 1486330639, "user": {"id": "145370536", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/928623_1547906208827252_1877893198_a.jpg", "username": "charmamourvega"}}, {"id": "17848516273174946", "text": "Yes!!!", "created_at": 1486330682, "user": {"id": "210569774", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/14718405_162055514256717_6085865497612517376_a.jpg", "username": "blackangelina"}}, {"id": "17860491364128197", "text": "My team Dallas bout I'm routing for the Falcons @shamaridevoe", "created_at": 1486330813, "user": {"id": "1808745919", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15876954_608550949349937_7844166271837929472_a.jpg", "username": "sexychocolate_64"}}, {"id": "17848417849187806", "text": "Love it!!!! #riseup", "created_at": 1486330848, "user": {"id": "46994514", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/14727410_1527587653923067_1066237790284414976_a.jpg", "username": "msandreapowe"}}, {"id": "17862537868073637", "text": "Bump the Patriots \ud83d\udcaa\ud83c\udffe", "created_at": 1486330900, "user": {"id": "909469360", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16110309_608019969393906_9215051207733673984_n.jpg", "username": "iamsuchaladyt"}}, {"id": "17860586083119934", "text": "Oh too the wee I need to be at the party with y'all nothing like a house divided in sports. I know Broncos vs Raiders no bigger rivalry than that. Enjoy.", "created_at": 1486331069, "user": {"id": "3506765644", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/13549397_1089252101148617_2001292315_a.jpg", "username": "nestar2017"}}, {"id": "17870984653025291", "text": "May the best woman I mean team wins \ud83d\ude09 @shamaridevoe @bigrondevoe", "created_at": 1486331088, "user": {"id": "37371121", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15535302_1177939618988780_1061607712460111872_a.jpg", "username": "ngregory2"}}, {"id": "17860598233111917", "text": "Aww, I'm sure you are happy to have him home and he is happy to be back, and all just in time for the big rivalry.\ud83d\udc91\ud83c\udfc8", "created_at": 1486331101, "user": {"id": "217123422", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16110148_365849880455681_620311088495329280_a.jpg", "username": "tinera613"}}, {"id": "17871551074061486", "text": "Let's go Falcons! Sorry @bigrondevoe LOL", "created_at": 1486331317, "user": {"id": "39663042", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/12940171_938491079604606_1187843325_a.jpg", "username": "msjanet72"}}, {"id": "17850258565143314", "text": "@shamaridevoe yes let's go falcons \u2764\ufe0f\u2764\ufe0f love @bigrondevoe all day though", "created_at": 1486331434, "user": {"id": "463665562", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15802465_346315122404276_8100329597523984384_a.jpg", "username": "mrs_candikane26"}}, {"id": "17871191644010554", "text": "Go Falcons", "created_at": 1486331497, "user": {"id": "34887677", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/13774700_630865440412852_214799938_a.jpg", "username": "merrimelodies"}}, {"id": "17871607780032303", "text": "Rise up!! Rise Up!!! RISE UP!!! \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe", "created_at": 1486331510, "user": {"id": "481034822", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16228858_1210729928995949_4707453292228116480_a.jpg", "username": "iheartamber"}}, {"id": "17848483753169407", "text": "Steeler Nation is saying RISE UP!!! RISE UP AND CLAIM WHAT YOU HAVE LONGED FOR!!!", "created_at": 1486331671, "user": {"id": "3677535555", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15035757_1010151039113991_6768971846948749312_a.jpg", "username": "rayallen9828"}}, {"id": "17860751821099504", "text": "A house divided \ud83d\udda4\u2764\ufe0f\ud83d\udda4\u2764\ufe0f", "created_at": 1486331891, "user": {"id": "256737247", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/14574171_1104333866362936_7259883460670521344_a.jpg", "username": "kristikreates"}}, {"id": "17849163472151926", "text": "Nice!!", "created_at": 1486332133, "user": {"id": "1568848111", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16123089_178535595959857_670447787929763840_a.jpg", "username": "ladyteebk"}}, {"id": "17860471828119799", "text": "Aww snap", "created_at": 1486332341, "user": {"id": "211462606", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/14374342_518773404985301_7842603822865186816_a.jpg", "username": "alotheradiogod"}}, {"id": "17871288244050141", "text": "Let's Go Patriots", "created_at": 1486332810, "user": {"id": "3443383561", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16229254_666975526761086_1664166537184935936_a.jpg", "username": "ms._carmen_is_a_fan_of_ronnie"}}, {"id": "17870725111010059", "text": "That's right! Atl baby!!!", "created_at": 1486332915, "user": {"id": "24148740", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/13118234_1774369779465637_360154248_a.jpg", "username": "cato_loves_u"}}, {"id": "17848408366166747", "text": "I know how u feel go Atlanta Ga  my husband and I.  The boys is Patriots not sure what my daughter cheering for lol", "created_at": 1486332971, "user": {"id": "4538278108", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16123146_1843656229179847_2484594218018799616_a.jpg", "username": "emma.mc17"}}, {"id": "17860931047097114", "text": "YESSSS!! @shamaridevoe Go Falcons!!! \u2764\ufe0f", "created_at": 1486332990, "user": {"id": "55533565", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16463915_797060417099793_7089031796234387456_a.jpg", "username": "thevoguemd"}}, {"id": "17848504891192765", "text": "#RiseUpPatriots", "created_at": 1486333416, "user": {"id": "1915063836", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/14561881_1406968716088481_1818302223264776192_a.jpg", "username": "sexeeafter40"}}, {"id": "17848470703189285", "text": "Gooooo Patriots !!!! \ud83c\udfc8", "created_at": 1486333517, "user": {"id": "207351239", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/10691738_776180952453436_1886846320_a.jpg", "username": "neweditionfan4life"}}, {"id": "17858917513094050", "text": "It's rise up dirty brids", "created_at": 1486333624, "user": {"id": "245023844", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/11849468_1040066936012404_628071084_a.jpg", "username": "zenobia32"}}, {"id": "17860434226113529", "text": "\ud83d\ude06\ud83d\ude06", "created_at": 1486334406, "user": {"id": "482443838", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16585223_1864311083852661_5500307188532379648_a.jpg", "username": "rohbeant"}}, {"id": "17850494380132400", "text": "Rise up!!!!! Dem dirty birds!!!! \u2764\ufe0f\ud83d\udda4\u2764\ufe0f\ud83d\udda4", "created_at": 1486334461, "user": {"id": "44223372", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15877368_395242057480012_1137844017619271680_a.jpg", "username": "karynbaby"}}, {"id": "17858930563087236", "text": "New England #gopats", "created_at": 1486334811, "user": {"id": "1965953977", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/13739414_306145123068437_237244837_a.jpg", "username": "larryandkenyatta"}}, {"id": "17871261769024874", "text": "Dirty Birds. \ud83c\udfc8\ud83c\udfc8\ud83c\udfc8", "created_at": 1486335027, "user": {"id": "4140177166", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/14716377_572176906300140_2839607036361048064_a.jpg", "username": "lovelylibra0204"}}, {"id": "17858908513084882", "text": "Yes Go Falcons!", "created_at": 1486335805, "user": {"id": "221564406", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/11371216_423596551169119_249333772_a.jpg", "username": "mrsmagic313"}}, {"id": "17848413004152899", "text": "Go Falcons! \ud83c\udfc8", "created_at": 1486335839, "user": {"id": "2173699969", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15534903_394017670930675_1828558652412264448_a.jpg", "username": "tonya3290"}}, {"id": "17848450207181060", "text": "@shamaridevoe a divided house makes it more fun... Do you \u0026 @bigrondevoe make friendly bets ??? #GoPats", "created_at": 1486336256, "user": {"id": "312445300", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16464642_388764838155517_8565046188527583232_a.jpg", "username": "msnique0721"}}, {"id": "17848480096179018", "text": "Love it", "created_at": 1486336293, "user": {"id": "2902380692", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/13743368_1770494516554526_424037165_a.jpg", "username": "capricorn722"}}, {"id": "17860746634111114", "text": "Dirty birds got this thing", "created_at": 1486336471, "user": {"id": "1251809436", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/11355062_820557094696607_1273212460_a.jpg", "username": "jamme21"}}, {"id": "17871093958025057", "text": "Get'em Soror", "created_at": 1486336849, "user": {"id": "466995218", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15538602_1267967876604368_3539585997215891456_a.jpg", "username": "1908tearose"}}, {"id": "17865820183067138", "text": "I'm rocking with you Shamari!!! Let's Go falcons", "created_at": 1486337928, "user": {"id": "322991386", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/11421958_1024461777597769_2012119245_a.jpg", "username": "1974luv"}}, {"id": "17848456018179269", "text": "U look rocking with your hubby @bigrondevoe get the gear for #superbowl51\ud83c\udfc8\ud83c\udfc6 #AtlantaFalcons  @shamaridevoe", "created_at": 1486338366, "user": {"id": "218086730", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16123946_276521862764423_8114789180451586048_n.jpg", "username": "rnicolecoleman258617"}}, {"id": "17849055070144960", "text": "Alright Soror represent those dirty birds, only wear red today lol. Hope you get bragging rights in the household", "created_at": 1486338672, "user": {"id": "2114168614", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/11327236_1660525654169537_1425263054_a.jpg", "username": "drsistagurl"}}, {"id": "17848437175180088", "text": "@shamaridevoe shut him down\ud83d\udc4f\ud83c\udffd\ud83c\udfc8\ud83c\udfc8", "created_at": 1486341837, "user": {"id": "2986354809", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/13188134_534574933410956_564182294_a.jpg", "username": "tamtam625"}}, {"id": "17848467391186078", "text": "\u2764\u2764\ud83d\udcaa\ud83d\udcaa\ud83d\ude4f", "created_at": 1486343977, "user": {"id": "28674643", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16123181_688953881286620_1854205736087715840_a.jpg", "username": "keymahluv"}}, {"id": "17860151998127030", "text": "I know you guys are going crazy right now", "created_at": 1486350492, "user": {"id": "1315888025", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16122883_1048727571905936_4804998179978215424_a.jpg", "username": "itsjusttoya1920"}}]}, "likes": {"count": 1408, "viewer_has_liked": false, "nodes": [{"user": {"id": "728298030", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15534681_1193604597396227_5436092243431653376_a.jpg", "username": "msziona85"}}, {"user": {"id": "30623928", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/13249824_650226271813107_1218801546_a.jpg", "username": "ndiibabii"}}, {"user": {"id": "288391839", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/12445969_185627081794674_297792020_a.jpg", "username": "ms.mcafee"}}, {"user": {"id": "1518165138", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/10727497_653886251376768_1489016090_a.jpg", "username": "dineepoo"}}, {"user": {"id": "45096584", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15877380_1398075980260006_8474919774449565696_n.jpg", "username": "bezy_bby"}}, {"user": {"id": "207645728", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16123659_1644806302480603_5927022493016522752_a.jpg", "username": "mmmilton_rn"}}, {"user": {"id": "1908326493", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15803227_200551797016601_4933218909567320064_a.jpg", "username": "amournyy__"}}, {"user": {"id": "238733031", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/13183447_888034004639049_1505757183_a.jpg", "username": "rebel314"}}, {"user": {"id": "436400461", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16230128_1437849682891756_4267878941559095296_a.jpg", "username": "pana_trini"}}, {"user": {"id": "265626836", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16465111_258845361204843_4045940019821543424_a.jpg", "username": "princessx_xo"}}]}, "usertags": {"nodes": []}, "related_media": {"nodes": []}}}]}, "platform": "web", "hostname": "www.instagram.com", "qe": {"br": {"g": "", "p": {}}, "su_universe": {"g": "", "p": {}}, "pm": {"g": "", "p": {}}, "profile": {"g": "", "p": {}}, "us_li": {"g": "", "p": {}}, "sidecar": {"g": "", "p": {}}, "msbadge": {"g": "", "p": {}}, "gql": {"g": "", "p": {}}, "ebd": {"g": "", "p": {}}, "us": {"g": "continue_vs_signup_text_test_03", "p": {"use_continue_text": "true"}}, "poe": {"g": "try_email_and_phone_login_control_05", "p": {"show_phone_or_email_text": "false", "try_email_and_phone_login": "false"}}, "feed": {"g": "", "p": {}}, "discovery": {"g": "", "p": {}}, "deact": {"g": "", "p": {}}, "nav": {"g": "", "p": {}}}, "activity_counts": null, "gatekeepers": {"ld": true}, "environment_switcher_visible_server_guess": true};</script>
+<script src="/static/bundles/en_US_Commons.js/f03f32a806ff.js" crossorigin="anonymous" type="text/javascript"></script>
+<script src="/static/bundles/en_US_PostPage.js/608dfe27c0d6.js" crossorigin="anonymous" type="text/javascript"></script>
+                
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1425767024389221');
+
+fbq('track', 'PageView');
+
+
+</script>
+<noscript>
+
+
+</noscript>
+
+            
+            <script type="text/javascript">window._timings.domInteractive = Date.now()</script>
+        
+    </body>
+</html>

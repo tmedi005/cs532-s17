@@ -1,0 +1,88 @@
+<html>
+<head>
+    <link href="http://3ng.io/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="http://3ng.io/css/slbox.css?v=25">
+
+    <meta property="fb:app_id"      content="1570222679971371"/>
+<meta property="og:image"       content="http://www.israel21c.org/wp-content/uploads/2017/02/dagan-company.jpg"/>
+<meta property="og:title"       content="Israel&#039;s first regulation-sized American football field | ISRAEL21c"/>
+<meta property="og:site_name"   content="Israel&#039;s first regulation-sized American football field | ISRAEL21c"/>
+
+<meta property="og:url"         content="http://www.israel21c.org/israels-first-regulation-sized-american-football-field/"/>
+
+<meta property="og:description" content="New England Patriots owner Robert Kraft donates $6 million to build field for 1,350 active football players in Israel....">
+<meta name="viewport"           content="width=device-width" />
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Israel&#039;s first regulation-sized American football field | ISRAEL21c"/>
+<meta name="twitter:description" content="New England Patriots owner Robert Kraft donates $6 million to build field for 1,350 active football players in Israel...."/>
+<meta name="twitter:image" content="http://www.israel21c.org/wp-content/uploads/2017/02/dagan-company.jpg"/>
+
+
+    
+</head>
+<body style="margin: 0px;">
+
+<iframe id="bg_site" src="http://www.israel21c.org/israels-first-regulation-sized-american-football-field/" frameborder="0" width="100%" height="100%"></iframe>
+
+
+<!-- opt-in type -->
+    <!-- badge type -->
+
+    <div style="display: none;" class="slbox badge production bottomleft    default ">
+
+        <div class="badgeImg hidden-xs hidden-sm ">
+            <a href="http://www.sportsbarker.com" >
+                <img src="https://uploads.wishloop.com/uploads/7046/my_files_img_e9084f2cad425d22d5185a184c8f76dd44dcc0d1.jpeg" class="img-rounded" height="87" width="87" alt=""/>
+            </a>
+        </div>
+
+
+        <div class="badgeContainer">
+
+            <div class="slbox-close">
+                ×
+            </div>
+            <div class="slbox-title">
+                <a href="http://www.sportsbarker.com" class="redirect" data-href="http://3ng.io/sl/48225/link/3">&quot;Sports News You&#039;re Sure to Use!&quot;</a>
+            </div>
+            <div class="slbox-body">
+                <p class="hidden-xs">For more sports news  &gt; &gt; &gt;  &quot;just the juicy bits&quot; . . .</p>
+                <a href="http://www.sportsbarker.com" data-href="http://3ng.io/sl/48225/link/3" style="color:; background-color: ;" class="sl-submit redirect " >CLICK</a>
+            </div>
+
+        </div>
+
+    </div>
+
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.0.min.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function(){
+
+        $bgSite = $('#bg_site');
+        window.location.hash = "#"+$bgSite.attr('src');
+
+        $('.slbox-close').click(function(){
+            $('.slbox').animate({bottom:'0px'}).fadeOut(function(){
+                window.location.href = $bgSite.attr('src');
+            });
+        });
+
+        $('.slbox a.redirect').click(function(){
+            window.location.href = $(this).attr('data-href');
+            return false;
+        });
+
+        setTimeout(function(){
+
+            $('.slbox').fadeIn(100).animate({bottom:'20px'});
+
+        }, 3 * 1000 );
+    });
+</script>
+
+</body>
+</html>

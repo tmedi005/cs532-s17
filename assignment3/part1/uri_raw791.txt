@@ -1,0 +1,537 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=8,IE=9,IE=10,IE=11" />
+
+
+			<title>Chicago Seafood Restaurant and Steakhouse | Hugo&#039;s Frog Bar &amp; Fish House</title>
+		<meta name="description" content="For Chicago&#039;s finest seafood restaurant, come to Hugo&#039;s Frog Bar and Fish House. Located in downtown Chicago, Naperville and Des Plaines." />
+<meta name="keywords" content="Hugo&#039;s Frog Bar &amp; Fish House" />
+
+			<meta name="robots" content="INDEX, FOLLOW" />
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+<link rel="stylesheet" media="all" type="text/css" href="http://www.hugosfrogbar.com/filebin/css/combine.php?type=css&amp;files=reset.css%2Chugos_default.css%2Cjquery_ui%2Fjquery-ui-1.8.2.custom.css%2Chugos%2Flayout.css%2Cjquery.treeview.css%2Ctango%2Fskin.css%2CprettyPhoto.css%2Cpopup.css%2Csupersized%2Fsupersized.core.css&amp;v=40"/>
+
+<link rel="stylesheet" media="print" type="text/css" href="http://www.hugosfrogbar.com/filebin/css/combine.php?type=css&amp;files=hugos%2Fprint.css&amp;v=40"/>
+
+<script type="text/javascript" src="http://www.hugosfrogbar.com/resources/js/combine.php?type=javascript&amp;files=jquery%2Fjquery-1.5.0.min.js%2Cjquery_ui%2Fjquery-ui-1.8.2.custom.min.js%2Cjquery.treeview%2Fjquery.treeview.js%2Cjquery.cycle%2Fjquery.cycle.min.js%2Cjquery.jcarousel%2Fjquery.jcarousel.js%2Csendform.js%2Cjquery.prettyPhoto%2Fjquery.prettyPhoto.js%2Ccalendar.js%2Csupersized%2Fcore%2Fjs%2Fsupersized.3.1.3.core.min.js%2Cevents.js&amp;v=40"></script>
+
+		
+			<script type="text/javascript">
+				// DOCUMENT LOAD
+				$(document).ready(function(){
+					
+
+			//INITIALIZE SLIDESHOW
+			$('#slideshow').cycle({ 
+				fx:      'fade', 
+				speed:   800,
+				timeout: 5000,
+				pager:   '#navButtons ul',
+				pagerAnchorBuilder: function(idx, slide) {								
+					return '#navButtons li#ro' + idx + ' a'; // return sel string for existing anchor
+				}
+			});
+			$('#slideshowHolder').css({'visibility': 'visible'});
+		
+
+	$(".homeEvents .rolloverEvent").hover(
+		function() {
+			$(this).toggleClass("individualEventHover");
+		}
+	);
+
+
+	$( "#startDate" ).datepicker({ minDate: 0, maxDate: "+1M +10D" });
+
+initializeCalendar();
+$(".ui-state-hover").removeClass("ui-state-hover");
+
+	$.supersized({
+		slides : [ { image : 'http://www.hugosfrogbar.com/filebin/images/hugos/background/default_background.jpg' } ],
+		vertical_center: false
+	});	
+
+				});    
+			</script>			
+		
+<script type='text/javascript'>
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-24951891-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://www.hugosfrogbar.com/filebin/css/hugos/ie6.css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.hugosfrogbar.com/filebin/css/hugos/ie7.css" />
+<![endif]-->
+
+
+
+<!-- TYPEKIT -->
+<script type="text/javascript" src="http://use.typekit.com/sss1cwx.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+
+
+<!-- SHORTCUT ICON -->
+
+<link rel="shortcut icon" href="/filebin/images/hugos/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/filebin/images/hugos/favicon.ico" type="image/x-icon" />
+
+
+
+<script type="text/javascript">
+$(window).load(function(){
+	var $mainContent = $('.mainContent');
+	var $rightColumn = $('.rightColumn');
+			
+	if ($mainContent.length && $rightColumn.length) {
+	
+		var mainOuterHeight = $mainContent.outerHeight();
+		var rightOuterHeight = $rightColumn.outerHeight();		
+					
+		if (rightOuterHeight && mainOuterHeight && rightOuterHeight > mainOuterHeight) {			
+			var marginHeight = mainOuterHeight - $mainContent.height();			
+			var newHeight =  $mainContent.height() - mainOuterHeight + rightOuterHeight;
+			$mainContent.css('min-height', newHeight + 'px');
+		}
+	}	
+});
+</script>
+
+
+
+
+
+
+</head>
+<body id="body" class="page-560">
+
+<!--
+<div id="supersize">
+	</div>
+-->
+
+<div id="wrapper">
+
+	<div id="footerGradient"></div>
+
+	<div id="header">
+	<div id="header2">
+		<div class="headerWrapper">
+			<div class="headerTop">	
+				<div id="logoHolder">
+					<a href="http://www.hugosfrogbar.com/"><img src="http://www.hugosfrogbar.com/filebin/images/x.gif" border="0" alt="Hugo's Frog Bar" /></a>
+				</div>
+	
+	
+				<div id="printLogo">
+					<img src="http://www.hugosfrogbar.com/filebin/images/hugos/logo.png" border="0" alt="Hugo's Frog Bar" />
+				</div>
+	
+				<div class="clearer"></div>
+			</div>
+			
+			<div class="headerText">
+				
+				<h3>call us: 312.640.0999</h3>
+<p><a href="gift-cards-pages-584.php">Gift Cards</a> |&nbsp;<a onclick="window.open('window.open(this.href,'gift','width=500,height=500');','undefined','');return false;" href="https://pt.givex.com/Merchant_pages/3106822/" target="_blank">Check Gift Card Balance</a></p>	
+			
+			</div>
+			
+			<div id="topNav">
+				<table cellspacing="0" cellpadding="0">
+					<td class='first'><a  href="http://www.hugosfrogbar.com/locations-pages-745.php" class="" title="Locations" target="_self">Locations</a></td><td><a  href="http://www.hugosfrogbar.com/menus-pages-588.php" class="" title="Menus" target="_self">Menus</a></td><td><a  href="http://www.hugosfrogbar.com/photos-pages-752.php" class="" title="Photos" target="_self">Photos</a></td><td><a  href="http://www.hugosfrogbar.com/private-dining-pages-607.php" class="" title="Private Dining" target="_self">Private Dining</a></td><td><a  href="http://www.hugosfrogbar.com/shop-pages-584.php" class="" title="Shop" target="_self">Shop</a></td><td><a  href="http://www.hugosfrogbar.com/about-pages-582.php" class="" title="About" target="_self">About</a></td><td class='last'><a  href="http://www.hugosfrogbar.com/contact-pages-583.php" class="" title="Contact" target="_self">Contact</a>					</td>
+				</table>
+			</div>
+			
+		
+					
+			<script type="text/javascript">
+			//
+			// This script sets the top nav to have equal spacing between each item
+			//		
+			var topNavTotalWidth = 792;
+			var topNavLinksWidth = 0;				
+			var $topNavLinks = $('#topNav td a');		
+			var topNavNumLinks = $topNavLinks.length;
+			
+			// add up the total calculated width occupied by links
+			$topNavLinks.each(function(i){		
+			
+				// set the link to no wrap and display block for proper width calc
+				$(this).css({
+					'text-align': 'left', 
+					'display':'block', 
+					'float':'left',
+					'white-space':'nowrap'
+				});
+				
+				topNavLinksWidth += $(this).width();			
+			});
+			
+			// calculate the amount of spacing that should be added to the right of each link except the last
+			var topNavSpacing = (topNavTotalWidth - topNavLinksWidth) / (topNavNumLinks - 1);
+			
+			$('#topNav td').each(function(i) {			
+				
+				// get the link width
+				var linkWidth = $(this).find('a').width();
+				
+				// add the calculated spacing to the cell			
+				var newCellWidth = linkWidth + topNavSpacing;
+				
+				// the last cell should not have spacing added and should get the same width as the link
+				if(i == topNavNumLinks-1) {
+					newCellWidth = linkWidth;
+				}
+				
+				// set the new width of the cell and change the alignment to left
+				$(this).css('text-align', 'left').width(newCellWidth);
+			});		
+			
+			</script>
+			
+					
+		</div>	
+	</div>
+</div>
+	
+	<div id="container">
+
+						
+			<div class="leftColumn">
+				
+
+		<!--	
+		<link href="http://www.opentable.com/ism/feed_alt.css" rel="stylesheet" type="text/css" />
+		-->
+	
+		<div id="reservationWrapper" class="">
+
+			<div class="reservationTop"></div>
+		
+			<div class="reservationMiddle">
+			
+						
+				<div class="reservationSection reservationTitle">
+					<h4 class="sectionTitle">Reservations</h4>
+				</div>
+				<div class="reservationSection reservationText">
+					<p><strong><em>Need Help?</em></strong> <br />Call&nbsp;866.442.7664</p>
+<p>You must be 21 years of age or older to visit our Des Plaines location.</p>
+<p><a href="dinner-menu-pages-332.php"></a></p>
+				</div>
+							
+				
+				<div class="reservationSection reservationForm">
+							
+					<form onsubmit="if(!$('#RestaurantID').val()){ alert('\Please choose a location.'); return false;}" action="http://www.opentable.com/ism/interim.aspx" method="POST" name="ism" id="ism" target="_blank">
+		
+						
+				<label for="RestaurantID">Location<span>:</span></label>			
+				<select name="RestaurantID" id="RestaurantID" class="input feedFormField">
+					<option value="">Please Select</option>
+					
+					<option value="66727" >Des Plaines</option>
+				
+					<option value="188953" >Philadelphia</option>
+				
+					<option value="1892" >Chicago</option>
+				
+					<option value="3400" >Naperville</option>
+				
+				</select>
+				<div class="clear"></div>				
+			
+		
+	
+						<label for="PartySize">Party Size<span>:</span></label>							
+						<select name="PartySize" id="PartySize" class="input feedFormField">
+							<option value="1" >1</option><option value="2" selected="selected">2</option><option value="3" >3</option><option value="4" >4</option><option value="5" >5</option><option value="6" >6</option><option value="7" >7</option><option value="8" >8</option><option value="9" >9</option><option value="10" >10</option><option value="11" >11</option><option value="12" >12</option><option value="13" >13</option><option value="14" >14</option><option value="15" >15</option><option value="16" >16</option><option value="17" >17</option><option value="18" >18</option><option value="19" >19</option><option value="20" >20</option>
+						</select>
+						
+						<div class="clear"></div>
+	
+						<label for="startDate">Date<span>:</span></label>							
+						<input type="text" value="02/23/2017" name="startDate" id="startDate" class="input" />
+						
+						<div class="clear"></div>					
+	
+						<label for="ResTime">Time<span>:</span></label>
+						<select name="ResTime" id="ResTime" class="input feedFormField">
+							<option value="12:00 AM">12:00 AM</option>
+							<option value="12:30 AM">12:30 AM</option>
+							<option value="1:00 AM">1:00 AM</option>
+							<option value="1:30 AM">1:30 AM</option>
+							<option value="2:00 AM">2:00 AM</option>
+							<option value="2:30 AM">2:30 AM</option>
+							<option value="3:00 AM">3:00 AM</option>
+							<option value="3:30 AM">3:30 AM</option>
+							<option value="4:00 AM">4:00 AM</option>
+							<option value="4:30 AM">4:30 AM</option>
+							<option value="5:00 AM">5:00 AM</option>
+							<option value="5:30 AM">5:30 AM</option>
+							<option value="6:00 AM">6:00 AM</option>
+							<option value="6:30 AM">6:30 AM</option>
+							<option value="7:00 AM">7:00 AM</option>
+							<option value="7:30 AM">7:30 AM</option>
+							<option value="8:00 AM">8:00 AM</option>
+							<option value="8:30 AM">8:30 AM</option>
+							<option value="9:00 AM">9:00 AM</option>
+							<option value="9:30 AM">9:30 AM</option>
+							<option value="10:00 AM">10:00 AM</option>
+							<option value="10:30 AM">10:30 AM</option>
+							<option value="11:00 AM">11:00 AM</option>
+							<option value="11:30 AM">11:30 AM</option>
+							<option value="12:00 PM">12:00 PM</option>
+							<option value="12:30 PM">12:30 PM</option>
+							<option value="1:00 PM">1:00 PM</option>
+							<option value="1:30 PM">1:30 PM</option>
+							<option value="2:00 PM">2:00 PM</option>
+							<option value="2:30 PM">2:30 PM</option>
+							<option value="3:00 PM">3:00 PM</option>
+							<option value="3:30 PM">3:30 PM</option>
+							<option value="4:00 PM">4:00 PM</option>
+							<option value="4:30 PM">4:30 PM</option>
+							<option value="5:00 PM">5:00 PM</option>
+							<option value="5:30 PM">5:30 PM</option>
+							<option value="6:00 PM">6:00 PM</option>
+							<option value="6:30 PM">6:30 PM</option>
+							<option selected="selected" value="7:00 PM">7:00 PM</option>
+							<option value="7:30 PM">7:30 PM</option>
+							<option value="8:00 PM">8:00 PM</option>
+							<option value="8:30 PM">8:30 PM</option>
+							<option value="9:00 PM">9:00 PM</option>
+							<option value="9:30 PM">9:30 PM</option>
+							<option value="10:00 PM">10:00 PM</option>
+							<option value="10:30 PM">10:30 PM</option>
+							<option value="11:00 PM">11:00 PM</option>
+							<option value="11:30 PM">11:30 PM</option>
+						</select>
+						
+						<div class="clear"></div>					
+						
+						
+										<div class="bookItHolder">
+											<input type="submit" class="submit OT_TableButton" name="id" name="submit" value="Book It" />
+										</div>
+									
+						<input type="hidden" name="GeoID" value="4" />
+						<input type="hidden" name="txtHidServerTime" value="2/23/2017 1:01 AM" />
+						<input type="hidden" name="txtDateFormat" value="MM/dd/yyyy" />
+					</form>
+				</div>
+				
+				
+				
+				
+			</div>
+			
+			<div class="reservationBottom"></div>			
+			
+		</div>
+	
+			<div class="sidebarMessage">
+				<div class="sidebarMessageBG"></div>
+				<p>We are proud to serve <a href="about-pages-582.php">USDA Prime Angus Beef</a>.</p>
+				<div class="clearer"></div>
+			</div>
+					</div>	
+			
+			<div class="mainTop">
+				
+			<div id="slideshowWrapper">
+				<div id="navButtons">
+					<ul>
+						
+				<li class="ro" id="ro0">
+					
+					<a href="#">Oyster Happy Hour</a>
+				</li>
+			
+				<li class="ro" id="ro1">
+					<span> &bull; </span>
+					<a href="#">Lobster Tail</a>
+				</li>
+			
+				<li class="ro" id="ro2">
+					<span> &bull; </span>
+					<a href="#">Alaskan King Crab</a>
+				</li>
+			
+					</ul>
+					<div class="clearer"></div>
+				</div>
+				<div id="slideshow">
+					
+				<div class="slide">
+					<div id="slideshowImgHolder">
+						<a href="http://www.hugosfrogbar.com/menus-pages-588.php">
+				<img src="filebin/images/hugos/slideshow/Oysters1.jpg" align="right" alt="Oyster Happy Hour" />
+			</a>
+					</div>
+
+					
+					<div class="slideshowContent">
+						<h3>Oyster Happy Hour</h3>
+<p>3&ndash;6pm / $1 Oysters Daily / Drink Specials Sun&ndash;Thurs</p>
+<a href="oyster-happy-hour-pages-592.php">
+<div><span class="button-float-left">SEE DETAILS</span></div>
+</a>
+					</div>
+				
+
+				</div>
+			
+				<div class="slide">
+					<div id="slideshowImgHolder">
+						<a href="http://gibsons.mighty-site.com/menus-pages-588.php">
+				<img src="filebin/images/hugos/slideshow/slide1.jpg" align="right" alt="Lobster Tail" />
+			</a>
+					</div>
+
+					
+					<div class="slideshowContent">
+						<h3>Lobster Tail</h3>
+<p>Fish, crab cakes, and much more.</p>
+<p><a href="http://www.hugosfrogbar.com/menus-pages-588.php"><img src="../filebin/images/hugos/see-our-menu-btn.png" alt="SEE OUR MENU" width="152" height="51" /></a></p>
+					</div>
+				
+
+				</div>
+			
+				<div class="slide">
+					<div id="slideshowImgHolder">
+						<a href="http://www.hugosfrogbar.com/menus-pages-588.php">
+				<img src="filebin/images/hugos/slideshow/jwk_1920pix__2193.jpg" align="right" alt="Alaskan King Crab" />
+			</a>
+					</div>
+
+					
+					<div class="slideshowContent">
+						<h3>King Crab</h3>
+<p>Alaskan King Crab flown in daily.</p>
+<p><a href="http://www.hugosfrogbar.com/menus-pages-588.php"><img src="../filebin/images/hugos/see-our-menu-btn.png" alt="SEE OUR MENU" width="152" height="51" /></a></p>
+					</div>
+				
+
+				</div>
+			
+				</div>				
+			</div>
+				
+			<script type="text/javascript">$("#Holder").css({visibility: "hidden"});</script>
+					</div>
+						
+		<div class="mainContent hasLeftAndRightCols">
+			<h1>Fine Seafood at its Best</h1>
+<h2 style="text-align: center;">&ldquo;The fish could only be fresher if it swam in by itself.&rdquo;<br />- The New York Times</h2>
+<p style="text-align: left;"><span style="font-size: 13px; line-height: 1.84; color: #37170d; font-family: 'Trebuchet MS', Arial, sans-serif;">Hugo&rsquo;s Frog Bar &amp; Fish House opened its doors next to the renowned Gibsons Bar &amp; Steakhouse, in  February of 1997. After operating Chicago&rsquo;s best steakhouse for six years, partners Steve Lombardo and   Hugo Ralli decided to open the city&rsquo;s finest seafood restaurant.</span></p>
+<p>Hugo's receives its seafood daily.&nbsp;<span style="line-height: 1.84;">It is Chicago&rsquo;s foremost spot for fresh   oysters, crudos, frog legs, lobster and fish, plus </span><a style="line-height: 1.84;" href="about-pages-582.php">USDA Gibsons Prime Angus steaks</a><span style="line-height: 1.84;"> and chops. Hugo&rsquo;s   boasts extensive wine and cocktail lists, and impressive signature desserts.&nbsp;</span></p>		</div>		
+		
+						
+			<div class="rightColumn">
+				<div class="rightImageHolder"><a href="http://www.hugosfrogbar.com/20-anniversary-kickoff-pages-787.php"><img border="0" src="filebin/images/hugos/Hugos_20thAnniversaryV2_VertSlide_FINAL.jpg" alt="(blank)" title="(blank)" /></a></div><div class="rightImageHolder"><a href="http://www.hugosfrogbar.com/20-anniversary-menu-pages-786.php"><img border="0" src="filebin/images/hugos/Hugos_20thAnniversary_VertSlide_FINAL.jpg" alt="(blank)" title="(blank)" /></a></div>			</div>
+				
+		<div class="clearer"></div>
+		
+		<div id="footerContainer">
+	<div id="footer">
+		
+		<div class="footerHR"></div>
+		
+		<div id="footerContent">
+		
+			<div class="footerNav">
+				<h5>
+					Additional Links				</h5>
+				<ul>
+					
+					<li><a  href="http://www.hugosfrogbar.com/" class="" title="Home" target="_self">Home</a></li><li><a  href="http://www.hugosfrogbar.com/employment-opportunities-pages-680.php" class="" title="Employment Opportunities" target="_self">Employment Opportunities</a></li><li><a  href="http://www.grgmc.com/" class="" title="Gibsons Restaurant Group" target="_self">Gibsons Restaurant Group</a></li><li><a  href="http://www.hugosfrogbar.com/contact-pages-583.php" class="" title="Contact" target="_self">Contact</a></li><li><a  href="http://www.hugosfrogbar.com/legal-pages-574.php" class="" title="Legal" target="_self">Legal</a></li><li><a  href="http://www.hugosfrogbar.com/site-map-pages-578.php" class="" title="Site Map" target="_self">Site Map</a></li><li><a  href="http://www.hugosfrogbar.com/mobile-home-pages-564.php" class="" title="View Mobile Site" target="_self">View Mobile Site</a></li>
+					
+				</ul>   
+			</div>
+			
+			
+			<div class="footerNav">
+				<h5>
+					All of Our Restaurants				</h5>
+				<ul>			
+					<li><a  href="http://www.gibsonssteakhouse.com/" class="" title="Gibsons Bar & Steakhouse" target="_blank">Gibsons Bar & Steakhouse</a></li><li><a  href="http://www.hugosfrogbar.com/" class="" title="Hugo's Frog Bar & Fish House" target="_self">Hugo's Frog Bar & Fish House</a></li><li><a  href="http://quartinochicago.com/" class="" title="Quartino Ristorante" target="_self">Quartino Ristorante</a></li><li><a  href="http://www.luxbar.com/" class="" title="LUXBAR" target="_self">LUXBAR</a></li>
+					
+				</ul>   
+			</div>
+			
+				
+			<div class="footerNav followUs">
+				<h5>
+					Follow Us				</h5>
+		
+				<div class="followUsText">
+					<p><a href="https://www.facebook.com/HugosFrog" target="_blank"><img style="vertical-align: middle;" title="facebook" src="../filebin/icons/facebook.gif" alt="facebook" width="30" height="30" /></a>&nbsp;&nbsp;<a href="https://www.facebook.com/HugosFrog" target="_blank">Facebook</a></p>
+<p><a href="https://twitter.com/HugosFrog" target="_blank"><img style="vertical-align: middle;" title="twiiter" src="../filebin/icons/twitter2.gif" alt="twitter" width="30" height="30" /></a>&nbsp; <a href="https://twitter.com/HugosFrog" target="_blank">Twitter</a></p>
+<p><a href="http://instagram.com/hugosfrogbar" target="_blank"><img style="vertical-align: middle;" title="instagram" src="../filebin/icons/instagram.gif" alt="instagram" width="30" height="30" /></a>&nbsp; <a href="http://instagram.com/hugosfrogbar" target="_blank">Instagram</a></p>	
+				</div>
+			</div>
+			
+			
+			<div class="footerNav newsletterSignup">
+				<h5>
+					Newsletter Signup	
+				</h5>
+				
+				<div class="newsletterSignupText">			
+					Join our email list to receive updates on events<br />and specials. We currently have 5506 subscribers.	
+				</div>
+				
+				<form method="post" target="_blank" action="https://app.icontact.com/icp/signup.php" name="icpsignup" id="icpsignup4155" accept-charset="UTF-8" onsubmit="if(!$('#newsletter-email').val().match(/@/gi)){ alert('Please enter an email address.'); return false; }">
+					<input type="hidden" name="redirect" value="http://www.icontact.com/www/signup/thanks.html" />
+					<input type="hidden" name="errorredirect" value="http://www.icontact.com/www/signup/error.html" />
+		
+					<input type="text" id="newsletter-email" value="email address" onfocus="if($(this).val() == 'email address'){ $(this).val(''); }" onblur="if($(this).val() == ''){ $(this).val('email address'); }" name="fields_email"/>
+									
+					<input type="hidden" name="listid" value="9919435">
+					<input type="hidden" name="specialid:9919435" value="LEXZ">
+					<input type="hidden" name="clientid" value="44143">
+					<input type="hidden" name="formid" value="4158">
+					<input type="hidden" name="reallistid" value="1">
+					<input type="hidden" name="doubleopt" value="0">
+									
+					<input type="submit" id="newsletter-submit" name="Submit" value="SIGN UP" />
+				</form>
+				
+			</div>
+			
+			<div class="clearer"></div>			
+			
+			<div class="copyright">
+		
+				&copy; copyright 2016	
+		
+			</div>
+			
+		</div>
+	</div>
+</div>	</div>
+</div>
+</body>
+</html>
