@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7 not-logged-in "> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8 not-logged-in "> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9 not-logged-in "> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js not-logged-in "> <!--<![endif]-->
+    <head><meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>
+Instagram
+</title>
+
+        <script type="text/javascript">
+  WebFontConfig = {
+    custom: {
+      families: ['proxima-nova:n3,n4,n6,n7'],
+    }
+  };
+</script>
+<script async type="text/javascript" src="/static/scripts/webfont.js/c0456c81549b.js"></script>
+
+<style type="text/css">
+  /* @license
+   * MyFonts Webfont Build ID 2164953, 2012-03-23T23:06:30-0400
+   *
+   * The fonts listed in this notice are subject to the End User License
+   * Agreement(s) entered into by the website owner. All other parties are
+   * explicitly restricted from using the Licensed Webfonts(s).
+   *
+   * You may obtain a valid license at the URLs below.
+   *
+   ** Webfont: Proxima Nova Light by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/light/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Regular by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Semibold by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/semibold/
+   * Licensed pageviews: unlimited
+   ** Webfont: Proxima Nova Bold Italic by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold-it/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Bold by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold/
+   * Licensed pageviews: unlimited
+   *
+   * Webfont: Proxima Nova Italic by Mark Simonson
+   * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular-it/
+   * Licensed pageviews: unlimited
+   *
+   *
+   * License: http://www.myfonts.com/viewlicense?type=web&buildid=2164953
+   * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+   *
+   * (c) 2012 Bitstream Inc
+   */@font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-bold-webfont.eot/115b1f7f9c04.eot');
+    src: url(' /static/webfonts/proximanova-bold-webfont.eot/115b1f7f9c04.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-bold-webfont.woff/618250d25a4d.woff') format("woff"),
+      url(' /static/webfonts/proximanova-bold-webfont.ttf/646346e03084.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-bold-webfont.svg/e55a9d6051e8.svg#ProximaNovaBold') format("svg");
+    font-weight: bold;
+    font-style: normal; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-bold-latin-a-webfont.eot/78bfc2a26356.eot');
+    src: url(' /static/webfonts/proximanova-bold-latin-a-webfont.eot/78bfc2a26356.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-bold-latin-a-webfont.woff/2db359b9065d.woff') format("woff"),
+      url(' /static/webfonts/proximanova-bold-latin-a-webfont.ttf/5ae1219dca10.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-bold-latin-a-webfont.svg/017659bcaa88.svg#proxima_nova_rgbold') format("svg");
+    font-weight: bold;
+    font-style: normal; 
+    unicode-range: U+0100-017F;
+  }
+
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-boldit-webfont.eot/1cbb869da891.eot');
+    src: url(' /static/webfonts/proximanova-boldit-webfont.eot/1cbb869da891.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-boldit-webfont.woff/b1cf049474c9.woff') format("woff"),
+      url(' /static/webfonts/proximanova-boldit-webfont.ttf/3adb020ceae3.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-boldit-webfont.svg/29948a2d3c58.svg#ProximaNovaBoldItalic') format("svg");
+    font-weight: bold;
+    font-style: italic; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-boldit-latin-a-webfont.eot/72586d286717.eot');
+    src: url(' /static/webfonts/proximanova-boldit-latin-a-webfont.eot/72586d286717.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-boldit-latin-a-webfont.woff/ea0011f1fa31.woff') format("woff"),
+      url(' /static/webfonts/proximanova-boldit-latin-a-webfont.ttf/54abdaf3ee52.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-boldit-latin-a-webfont.svg/c4f67e496911.svg#proxima_novabold_italic') format("svg");
+    font-weight: bold;
+    font-style: italic; 
+    unicode-range: U+0100-017F;
+  }@font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-reg-webfont.eot/12af77715cee.eot');
+    src: url(' /static/webfonts/proximanova-reg-webfont.eot/12af77715cee.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-reg-webfont.woff/a9a9773b8e29.woff') format("woff"),
+      url(' /static/webfonts/proximanova-reg-webfont.ttf/99e19808976a.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-reg-webfont.svg/c33d2fd56309.svg#ProximaNovaRegular') format("svg");
+    font-weight: normal;
+    font-style: normal; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-reg-latin-a-webfont.eot/58dcfca24dc5.eot');
+    src: url(' /static/webfonts/proximanova-reg-latin-a-webfont.eot/58dcfca24dc5.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-reg-latin-a-webfont.woff/b84975dc78a8.woff') format("woff"),
+      url(' /static/webfonts/proximanova-reg-latin-a-webfont.ttf/794fcdf7d5cc.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-reg-latin-a-webfont.svg/08bad2145add.svg#proxima_nova_rgregular') format("svg");
+    font-weight: normal;
+    font-style: normal; 
+    unicode-range: U+0100-017F;
+  }
+
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-regit-webfont.eot/1bbbd1312b0d.eot');
+    src: url(' /static/webfonts/proximanova-regit-webfont.eot/1bbbd1312b0d.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-regit-webfont.woff/9e306befca91.woff') format("woff"),
+      url(' /static/webfonts/proximanova-regit-webfont.ttf/4a8663684135.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-regit-webfont.svg/876278d4b189.svg#ProximaNovaRegularItalic') format("svg");
+    font-weight: normal;
+    font-style: italic; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-regit-latin-a-webfont.eot/1442d729c835.eot');
+    src: url(' /static/webfonts/proximanova-regit-latin-a-webfont.eot/1442d729c835.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-regit-latin-a-webfont.woff/7bce76dac8b7.woff') format("woff"),
+      url(' /static/webfonts/proximanova-regit-latin-a-webfont.ttf/dfd8b0fc929b.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-regit-latin-a-webfont.svg/bb408d54ba63.svg#proxima_novaregular_italic') format("svg");
+    font-weight: normal;
+    font-style: italic; 
+    unicode-range: U+0100-017F;
+  }
+
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-sbold-webfont.eot/5016edf79e1d.eot');
+    src: url(' /static/webfonts/proximanova-sbold-webfont.eot/5016edf79e1d.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-sbold-webfont.woff/615c1b06d8fa.woff') format("woff"),
+      url(' /static/webfonts/proximanova-sbold-webfont.ttf/2973bd483f7a.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-sbold-webfont.svg/868597833e49.svg#ProximaNovaSemibold') format("svg");
+    font-weight: 600;
+    font-style: normal; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-sbold-latin-a-webfont.eot/6385b14bf318.eot');
+    src: url(' /static/webfonts/proximanova-sbold-latin-a-webfont.eot/6385b14bf318.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-sbold-latin-a-webfont.woff/0a6bfac8fce0.woff') format("woff"),
+      url(' /static/webfonts/proximanova-sbold-latin-a-webfont.ttf/6863621ed50b.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-sbold-latin-a-webfont.svg/608e88ac1050.svg#proxima_nova_ltsemibold') format("svg");
+    font-weight: 600;
+    font-style: normal; 
+    unicode-range: U+0100-017F;
+  }@font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-light-webfont.eot/63c84728610f.eot');
+    src: url(' /static/webfonts/proximanova-light-webfont.eot/63c84728610f.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-light-webfont.woff/66bbe029f180.woff') format("woff"),
+      url(' /static/webfonts/proximanova-light-webfont.ttf/eb408516399b.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-light-webfont.svg/858f6a9b7ef3.svg#ProximaNovaLight') format("svg");
+    font-weight: 300;
+    font-style: normal; 
+    unicode-range: U+0000-00FF, U+0180-FFFF;
+  }
+  @font-face {
+    font-family: 'proxima-nova';
+    src: url(' /static/webfonts/proximanova-light-latin-a-webfont.eot/11d79924ec61.eot');
+    src: url(' /static/webfonts/proximanova-light-latin-a-webfont.eot/11d79924ec61.eot?#iefix') format("embedded-opentype"),
+      url(' /static/webfonts/proximanova-light-latin-a-webfont.woff/bea5ea967c26.woff') format("woff"),
+      url(' /static/webfonts/proximanova-light-latin-a-webfont.ttf/3a5fa8856fd7.ttf') format("truetype"),
+      url(' /static/webfonts/proximanova-light-latin-a-webfont.svg/36736d1d0811.svg#proxima_nova_ltlight') format("svg");
+    font-weight: 300;
+    font-style: normal; 
+    unicode-range: U+0100-017F;
+  }</style>
+
+        
+        <meta name="robots" content="noimageindex">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta id="viewport" name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1">
+        
+
+        <script type="text/javascript">
+        (function() {
+            var docElement = document.documentElement;
+            var classRE = new RegExp('(^|\\s)no-js(\\s|$)');
+            var className = docElement.className;
+            docElement.className = className.replace(classRE, '$1js$2');
+        })();
+        </script>
+    <script type="text/javascript">window._timings = {"domLoading": Date.now()}</script>
+            
+                <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/images/ico/apple-touch-icon-76x76-precomposed.png/932e4d9af891.png">
+                <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/images/ico/apple-touch-icon-120x120-precomposed.png/004705c9353f.png">
+                <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/images/ico/apple-touch-icon-152x152-precomposed.png/82467bc9bcce.png">
+                <link rel="apple-touch-icon-precomposed" sizes="167x167" href="/static/images/ico/apple-touch-icon-167x167-precomposed.png/515cb4eeeeee.png">
+                <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/static/images/ico/apple-touch-icon-180x180-precomposed.png/94fd767f257b.png">
+                <link rel="icon" sizes="192x192" href="/static/images/ico/favicon-192.png/b407fa101800.png">
+            
+            <link rel="mask-icon" href="/static/images/ico/favicon.svg/9d8680ab8a3c.svg" color="#262626"><link rel="shortcut icon" type="image/x-icon" href="/static/images/ico/favicon.ico/dfa85bb1fd63.ico">
+            
+            
+            
+    
+    
+    <link rel="canonical" href="https://www.instagram.com/p/BQ1cVZBFgcJ/" />
+    <meta content="28 Likes, 1 Comments - KOLAWOLE BABAJIDE (@jidekol) on Instagram: “Stumbled on a simple line in a book titled &amp;#39;The Tragedy Of Victory&amp;#39; . Patriots talk about the next…”" name="description" />
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="Instagram post by KOLAWOLE BABAJIDE • Feb 23, 2017 at 1:05am UTC" />
+    <meta property="og:image" content="https://instagram.forf1-1.fna.fbcdn.net/t51.2885-15/s640x640/sh0.08/e35/16790050_356925001373622_4954993337196085248_n.jpg" />
+    <meta property="og:description" content="28 Likes, 1 Comments - KOLAWOLE BABAJIDE (@jidekol) on Instagram: “Stumbled on a simple line in a book titled &#39;The Tragedy Of Victory&#39; . Patriots talk about the next…”" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="https://www.instagram.com/p/BQ1cVZBFgcJ/" />
+    <meta property="instapp:owner_user_id" content="2304968310" />
+    <meta property="al:ios:app_name" content="Instagram" />
+    <meta property="al:ios:app_store_id" content="389801252" />
+    <meta property="al:ios:url" content="instagram://media?id=1456194669797312265" />
+    <meta property="al:android:app_name" content="Instagram" />
+    <meta property="al:android:package" content="com.instagram.android" />
+    <meta property="al:android:url" content="https://www.instagram.com/p/BQ1cVZBFgcJ/" />
+    
+    <meta name="medium" content="image" />
+    <meta property="og:type" content="instapp:photo" />
+    
+
+    <link rel="alternate" href="android-app://com.instagram.android/https/instagram.com/p/BQ1cVZBFgcJ/" />
+    
+    <link hreflang="x-default" href="https://www.instagram.com/p/BQ1cVZBFgcJ/" rel="alternate" />
+<link hreflang="zh-tw" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=zh-tw" rel="alternate" />
+<link hreflang="fi" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=fi" rel="alternate" />
+<link hreflang="ne" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=ne" rel="alternate" />
+<link hreflang="ko" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=ko" rel="alternate" />
+<link hreflang="cs" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=cs" rel="alternate" />
+<link hreflang="pl" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=pl" rel="alternate" />
+<link hreflang="si" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=si" rel="alternate" />
+<link hreflang="ta" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=ta" rel="alternate" />
+<link hreflang="fr" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=fr" rel="alternate" />
+<link hreflang="pt" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=pt" rel="alternate" />
+<link hreflang="nl" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=nl" rel="alternate" />
+<link hreflang="th" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=th" rel="alternate" />
+<link hreflang="sk" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=sk" rel="alternate" />
+<link hreflang="uk" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=uk" rel="alternate" />
+<link hreflang="ru" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=ru" rel="alternate" />
+<link hreflang="sr" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=sr" rel="alternate" />
+<link hreflang="af" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=af" rel="alternate" />
+<link hreflang="ms" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=ms" rel="alternate" />
+<link hreflang="de" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=de" rel="alternate" />
+<link hreflang="kn" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=kn" rel="alternate" />
+<link hreflang="pt-br" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=pt-br" rel="alternate" />
+<link hreflang="zh-cn" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=zh-cn" rel="alternate" />
+<link hreflang="ja" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=ja" rel="alternate" />
+<link hreflang="hu" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=hu" rel="alternate" />
+<link hreflang="fr-ca" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=fr-ca" rel="alternate" />
+<link hreflang="en" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=en" rel="alternate" />
+<link hreflang="nb" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=nb" rel="alternate" />
+<link hreflang="sv" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=sv" rel="alternate" />
+<link hreflang="pa" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=pa" rel="alternate" />
+<link hreflang="mr" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=mr" rel="alternate" />
+<link hreflang="id" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=id" rel="alternate" />
+<link hreflang="da" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=da" rel="alternate" />
+<link hreflang="gu" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=gu" rel="alternate" />
+<link hreflang="vi" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=vi" rel="alternate" />
+<link hreflang="es" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=es" rel="alternate" />
+<link hreflang="tl" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=tl" rel="alternate" />
+<link hreflang="hr" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=hr" rel="alternate" />
+<link hreflang="ml" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=ml" rel="alternate" />
+<link hreflang="it" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=it" rel="alternate" />
+<link hreflang="ro" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=ro" rel="alternate" />
+<link hreflang="bn" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=bn" rel="alternate" />
+<link hreflang="zh-hk" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=zh-hk" rel="alternate" />
+<link hreflang="tr" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=tr" rel="alternate" />
+<link hreflang="bg" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=bg" rel="alternate" />
+<link hreflang="el" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=el" rel="alternate" />
+<link hreflang="ur" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=ur" rel="alternate" />
+<link hreflang="hi" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=hi" rel="alternate" />
+<link hreflang="te" href="https://www.instagram.com/p/BQ1cVZBFgcJ/?hl=te" rel="alternate" />
+    
+</head>
+    <body class="">
+        
+    <span id="react-root"></span>
+
+        
+
+        
+            <script src=/static/scripts/polyfills/es5-shim.min.js/6514c5e08593.js></script>
+<script src=/static/scripts/polyfills/es5-sham.min.js/fc3c22cf2d67.js></script>
+<script type="text/javascript">window._sharedData = {"config": {"viewer": null, "csrf_token": "qCBU7StlpXM7lminXOT1Sb76HcI30G4D"}, "country_code": "US", "language_code": "en", "activity_counts": null, "platform": "web", "hostname": "www.instagram.com", "display_properties_server_guess": {"pixel_ratio": 1.5, "viewport_width": 360}, "show_app_install": true, "qe": {"poe": {"p": {"show_phone_or_email_text": "false", "try_email_and_phone_login": "false"}, "g": "try_email_and_phone_login_control_05"}, "gql": {"p": {}, "g": ""}, "msbadge": {"p": {}, "g": ""}, "ebd": {"p": {}, "g": ""}, "su_universe": {"p": {}, "g": ""}, "discovery": {"p": {}, "g": ""}, "profile": {"p": {}, "g": ""}, "feed": {"p": {}, "g": ""}, "us_li": {"p": {}, "g": ""}, "deact": {"p": {}, "g": ""}, "us": {"p": {}, "g": ""}, "pm": {"p": {}, "g": ""}, "br": {"p": {"button_redesign": "false"}, "g": "control"}, "sidecar": {"p": {}, "g": ""}, "nav": {"p": {}, "g": ""}}, "gatekeepers": {"ld": true}, "entry_data": {"PostPage": [{"media": {"id": "1456194669797312265", "caption_is_edited": false, "comments_disabled": false, "dimensions": {"height": 640, "width": 640}, "location": {"id": "215109021", "has_public_page": true, "name": "Lagos, Nigeria", "slug": "lagos-nigeria"}, "owner": {"id": "2304968310", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15802986_375007136210158_5714330923630067712_a.jpg", "username": "jidekol", "followed_by_viewer": false, "full_name": "KOLAWOLE BABAJIDE", "is_private": false, "requested_by_viewer": false, "is_unpublished": false, "blocked_by_viewer": false, "has_blocked_viewer": false}, "is_ad": false, "is_video": false, "code": "BQ1cVZBFgcJ", "date": 1487811953, "display_src": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-15/s640x640/sh0.08/e35/16790050_356925001373622_4954993337196085248_n.jpg", "caption": "Stumbled on a simple line in a book titled 'The Tragedy Of Victory' .\nPatriots talk about the next generation while politicians talk about the next election. .\nI've always maintained that everyone is a leader, if you can't find anyone, find yourself. .\nNo one is too young to learn the basics of leadership. .\nStay glued, it's coming soon...", "comments": {"count": 0, "page_info": {"has_next_page": false, "end_cursor": null, "has_previous_page": false, "start_cursor": null}, "nodes": []}, "likes": {"count": 28, "viewer_has_liked": false, "nodes": [{"user": {"id": "2133727349", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15624764_1094584350652679_153830636027641856_a.jpg", "username": "manolo_jay"}}, {"user": {"id": "415600745", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/11373525_1597167267204925_847040216_a.jpg", "username": "billachusim"}}, {"user": {"id": "2304968310", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/15802986_375007136210158_5714330923630067712_a.jpg", "username": "jidekol"}}, {"user": {"id": "3412520658", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/14592188_1846969625576439_2243481333911257088_a.jpg", "username": "thribeapp"}}, {"user": {"id": "348360124", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16230059_387499251623741_865935320351244288_a.jpg", "username": "millairportdxb"}}, {"user": {"id": "497744103", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16122465_1236523186436446_4356729093220204544_a.jpg", "username": "instaosi"}}, {"user": {"id": "540051888", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/12798111_178708629177332_160996072_a.jpg", "username": "socialfaculty"}}, {"user": {"id": "3400143407", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/13694663_1638165523162028_730378896_a.jpg", "username": "ollyandollyofficial"}}, {"user": {"id": "3090261632", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16229183_1149016145215687_7332711773704814592_a.jpg", "username": "iamsharonpaula"}}, {"user": {"id": "501780065", "profile_pic_url": "https://instagram.forf1-1.fna.fbcdn.net/t51.2885-19/s150x150/16788409_139088543276484_961484663216406528_a.jpg", "username": "omo_prodigi"}}]}, "usertags": {"nodes": []}, "related_media": {"nodes": []}}}]}, "environment_switcher_visible_server_guess": true};</script>
+<script crossorigin="anonymous" type="text/javascript" src="/static/bundles/en_US_Commons.js/f03f32a806ff.js"></script>
+<script crossorigin="anonymous" type="text/javascript" src="/static/bundles/en_US_PostPage.js/608dfe27c0d6.js"></script>
+                
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1425767024389221');
+
+fbq('track', 'PageView');
+
+
+</script>
+<noscript>
+
+
+</noscript>
+
+            
+            <script type="text/javascript">window._timings.domInteractive = Date.now()</script>
+        
+    </body>
+</html>

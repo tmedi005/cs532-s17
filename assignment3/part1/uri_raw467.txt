@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" dir="ltr">
+
+<head>
+ <!-- data-info:v:2.0.6260.2169;a:24378aad-ed9b-482d-91d8-84aa061eda0a;cn:9;az:{did:70c8ac58b6f84429976e861fdc144772, rid: 9, sn: eastus-prod-sports, dt: 2017-02-03T01:20:33.0494272Z, bt: 2017-02-20T01:12:46.9101937Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:darkpurple;PageName:articlePage;m:en-us;cb:;l:en-us;mu:en-us;ud:{cid:AAnesej,vk:sports,n:ar,l:en-us,ck:football_nfl};xd:;ovc:f;al:;f:muidflt11cf,muidflt12cf,muidflt13cf,muidflt20cf,muidflt28cf,muidflt51cf,enablebingadus,muidflt57cf -->
+ <meta name="application-name" content="Patriots coach named as possible witness at Hernandez trial"/>
+ <link rel="canonical" href="http://www.msn.com/en-us/sports/nfl/patriots-coach-named-as-possible-witness-at-hernandez-trial/ar-AAnesej" />
+ <link rel="alternate" hreflang="en-us" href="http://www.msn.com/en-us/sports/nfl/patriots-coach-named-as-possible-witness-at-hernandez-trial/ar-AAnesej?ocid=st" />
+
+ <title>Patriots coach named as possible witness at Hernandez trial</title>
+ <meta name="description" content="New England Patriots head coach Bill Belichick (BEHL&#39;-ih-chik) has been added to a list of people who could be called to testify at the double murder trial of former player Aaron Hernandez."/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-sports-eus-s-msn-com.akamaized.net/en-us/sports/_sc/css/f5956224-13333d0e/direction=ltr.locales=en-us.themes=darkpurple.dpi=resolution1x/5b-41da9e-f4d79071/27-fd04e3-6723804f/a7-c3a195-af9aa1d4/37-208b20-68ddb2ab/f9-d9c97d-28553bb3/ae-8ec996-f94d3276/24-bb081f-a648eab2?ver=2.0.6260.2169&amp;fdhead=muidflt11cf,muidflt12cf,muidflt13cf,muidflt20cf,muidflt28cf,muidflt51cf,enablebingadus,muidflt57cf&amp;ocid=st&amp;csopd=20170214231326&amp;csopdb=20170216210308" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function o(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==p&&(a=!0);s(n,i,r)}function s(n,t,i,r){var e,o,s;if(!n||!u[n]){if(e=nt(n,t),!e){f.push(r||{i:n,d:t,f:i});return}o=typeof i=="function";s=a&&o&&n!="dap"&&n!="adLoad"&&t&&(t.length!=1||t[0]!="dap"&&t[0]!="c.dom");s?g(n,i,e,!0):d(o,n,i,e)}}function d(n,t,i,r){var u;u=n?i.apply(null,r):i;h(t,u)}function g(n,t,i,r){if(r)setTimeout(function(){var r=t.apply(null,i);h(n,r)},1);else{var u=t.apply(null,i);h(n,u)}}function h(t,i){t&&(i?(u[t]=i,v()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function v(){var r,u,n,t;if(f.length&&!i){do for(r=f,u=r.length,f=[],i=1,t=0;t<u;t++)n=r[t],s(n.i,n.d,n.f,n);while(i>1);i=0}else i&&(i=2)}function nt(i,r){for(var s,v,h,f=[],c=r?r.length:0,o=0;o<c;o++){var l=r[o],a=u[l],y=typeof a!="undefined";if(!y){if(s=k.exec(l),s)if(v=s[1],h=n[v],h!==t){f.push(h);continue}else e||(e=setTimeout(tt,b));break}f.push(a)}return c==f.length?f:0}function tt(){e=0;v()}function it(n,i,r){(typeof n!="object"||n&&n.splice)&&(r=i,i=n,n={});i&&i.splice||(r=i,i=[]);rt(n.js);r&&s(t,i,r)}function rt(n){if(typeof n=="string")y(n);else if(n)for(var t=0;t<n.length;t++)y(n[t])}function y(n){if(!l[n]){l[n]=1;var i=document.getElementsByTagName("script")[0],t=document.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function ut(n){return w?n?r.now():Math.round(r.now()):new Date-c}var p=n._jsLoaderAsyncCanary||"c.dom",r=n.performance,c=((r||{}).timing||{}).navigationStart||(n._timing||{}).start||+new Date,w=r&&typeof r.now=="function",u={date:Date,document:document,image:Image,localStorage:n.localStorage,location:document.location,navigator:navigator,pageStart:c,pageTime:ut,screen:screen,window:n},f=[],i,b=50,e,l={},a=!1,k=/^window\.(.+)$/;o.amd={jQuery:1};o.is=function(n){return typeof u[n]!="undefined"};n.define=o;n.require=it})(window);define("navigation",["escape","location"],function(n,t){function r(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function u(n){var t=f.exec(n);return t?t[2]:!1}var f=/[a-z][a-z0-9+\-.]*:\/\/([a-z0-9\-._~%!$&'()*+,;=]+@)?([a-z0-9\-._~%]+|\[[a-z0-9\-._~%!$&'()*+,;=:]+\])/i,i={getUrl:function(n){return i.filter?i.filter(n):n},navigate:function(n,r){i.filter&&(n=i.filter(n));r?t.replace(n):t.href=n},getHostName:u,isLocal:function(n){var i=u(n);return!i||t.hostname==i},getParams:r,getParamsFromUrl:function(n,t,i){var u=n.split("?")[1];return r(u,t,i)},mergeQueryStringParams:function(t,i){var e,f,o,u;if(i){if(e=t.split("?"),e[1]){f=r(e[1],!1,!0);for(u in i)f[u]=i[u]}else f=i;t=e[0];o="?";for(u in f)t+=f[u]?o+n.urlPart(u)+"="+n.urlPart(f[u]):o+n.urlPart(u),o="&"}return t},filter:null};return i});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-hp-eus.s-msn.com/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>.storyimage.smallfullwidth .image,.storyimage.smallfullwidth img{background:#000;margin:0 auto}#toast-container{display:none}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}</style>
+</head>
+
+<body class="ap content center-content darkpurple">
+ 
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-us">Home</a>
+</li>
+ <li >
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li  class="current">
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-us" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-sports-eus-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-us/sports" tabindex="2">sports</a>
+
+
+
+</div>
+<div id="header-links">
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-sports-eus-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="/en-us/sports/searchresults?q=" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRSPSB" />
+ <input type="hidden" name="mkt" value="en-us" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="24378aaded9b482d91d884aa061eda0a">
+<input type="submit" class="text" value="web search" title="web search"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-us">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+ 
+
+ <div class="articlecontent">
+<h1>Patriots coach named as possible witness at Hernandez trial</h1>
+<div>
+<div>
+ <span class="partner">
+ <a  href="http://ap.org/"  title="associated press logo"><img alt="Associated Press logo" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA42CeQ.img?h=17&amp;w=0&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" title="Associated Press logo" /> Associated Press</a>
+ </span>
+ <span>
+ <span class="time">11 hrs ago</span>
+ 
+                </span>
+            </div>
+        </div>
+
+ <div class="richtext"  data-aop="articlebody">
+  <div class="wcvideoplayer vxplayer " id="video_player_ce412462-96e5-4615-b4cd-a8a23f1769ab"
+ data-adpagegroups="{&quot;web&quot;:&quot;msvspo&quot;,&quot;mobileweb&quot;:&quot;mmvspo&quot;,&quot;tvweb&quot;:&quot;&quot;}"
+  data-config="{&quot;AutoPlay&quot;: true,&quot;FlashSource&quot;: &quot;//static-sports-eus-s-msn-com.akamaized.net/en-us/sports/_h/b00c897a/webcore/flash/player.swf&quot;,&quot;HomePageLink&quot;: &quot;//www.msn.com/en-us&quot;,&quot;HybridPlayerSource&quot;: &quot;//static-sports-eus-s-msn-com.akamaized.net/en-us/sports/_h/1022eca0/webcore/flash/hybridplayer_2.swf&quot;,&quot;InPlayerPageContext&quot;: false,&quot;IsInlinePlayer&quot;: true,&quot;InViewPlay&quot;: false,&quot;InViewWidthFraction&quot;: 0.5,&quot;InViewHeightFraction&quot;: 0.5,&quot;LeadWith&quot;: &quot;hybrid&quot;,&quot;Mute&quot;: true,&quot;SwfCacheRefreshTime&quot;: 86400,&quot;ShowTitle&quot;: true,&quot;UseHybridPlayer&quot;: false,&quot;AdConfig&quot;:{&quot;AdManagerRequestTimeout&quot;: 25,&quot;FWFlashProfile&quot;: &quot;188286:MSN_US_AS3_LIVE&quot;,&quot;FWHtml5Profile&quot;: &quot;188286:MSN_HTML5_Live&quot;,&quot;FWNetworkId&quot;: 188286,&quot;FWServer&quot;: &quot;http://2df7e.v.fwmrm.net&quot;,&quot;HybridPlayerAdInitTimeout&quot;: 30,&quot;HybridPlayerAdStartTimeout&quot;: 30,&quot;UseTargetingService&quot;: &quot;aol&quot;},&quot;EndSlateConfig&quot;:{&quot;EndslateContinuousPlayEnabled&quot;: true},&quot;ReportingConfig&quot;:{&quot;Category&quot;: &quot;football_nfl&quot;,&quot;ComscoreUrl&quot;: &quot;http://b.scorecardresearch.com/b?&quot;,&quot;DomainId&quot;: 898,&quot;Fr&quot;: &quot;en-us_sports&quot;,&quot;ImpressionGuid&quot;: &quot;24378aaded9b482d91d884aa061eda0a&quot;,&quot;Market&quot;: &quot;en-us&quot;,&quot;OtfUrl&quot;: &quot;//otf.msn.com/c.gif?&quot;,&quot;SubCategory&quot;: &quot;no-sc&quot;,&quot;Subcvs&quot;: &quot;sports&quot;}}"
+  data-metadata="{&quot;adNetworkId&quot;:&quot;188286&quot;,&quot;csId&quot;:&quot;BB2D59E&quot;,&quot;csIdBase32&quot;:&quot;B6E4F6CPS&quot;,&quot;description&quot;:&quot;Patriots head coach Bill Belichick could be called to testify in former Pats TE Aaron Hernandez&#39;s murder trial.&quot;,&quot;durationSecs&quot;:28,&quot;providerId&quot;:&quot;216737970&quot;,&quot;shareUrl&quot;:&quot;http://www.msn.com/en-us/sports/nfl/belichick-could-be-witness-in-hernandez-trial/vi-AAneKZF&quot;,&quot;sourceFriendly&quot;:&quot;120 Sports&quot;,&quot;sourceLogo&quot;:&quot;http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB6qRzt.img&quot;,&quot;title&quot;:&quot;Belichick could be witness in Hernandez trial&quot;,&quot;uuid&quot;:&quot;AAneKZF&quot;,&quot;uuidBase32&quot;:&quot;B4PNFXCJH&quot;,&quot;playerName&quot;:&quot;120Sports&quot;,&quot;playerUrl&quot;:&quot;https://secure.ui.bamstatic.com/120sports/util/embed/ots.embed.js&quot;,&quot;tags&quot;:[{&quot;ns&quot;:&quot;ProviderTags&quot;,&quot;value&quot;:&quot;System.Collections.Generic.List`1[System.String]&quot;},{&quot;ns&quot;:&quot;jobEnvironment&quot;,&quot;value&quot;:&quot;System.Collections.Generic.List`1[System.String]&quot;},{&quot;ns&quot;:&quot;jobInstanceName&quot;,&quot;value&quot;:&quot;System.Collections.Generic.List`1[System.String]&quot;},{&quot;ns&quot;:&quot;feedUrl&quot;,&quot;value&quot;:&quot;http://c.120sportsstatic.com/gen/client/rss/ms_timeline.xml&quot;},{&quot;ns&quot;:&quot;externalPlayerName&quot;,&quot;value&quot;:&quot;120Sports&quot;},{&quot;ns&quot;:&quot;externalPlayerUri&quot;,&quot;value&quot;:&quot;https://secure.ui.bamstatic.com/120sports/util/embed/ots.embed.js&quot;}],&quot;headlineImage&quot;:{&quot;url&quot;:&quot;http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAneDvs.img&quot;}}"
+ 
+ 
+ 
+data-playertype="Hybrid">
+ 
+ 
+<div class="hybrid video_player">
+<div class="video_player_outer">
+<div class="video_player_inner">
+<video id="video_player_ce412462-96e5-4615-b4cd-a8a23f1769ab_element" preload="metadata"  aria-label="Belichick could be witness in Hernandez trial"></video>
+<div class="video_play_thumb">
+<img alt="" />
+<div class="mobile_quality_selector">
+<div class="quality_label"></div>
+<div class="quality_state"></div>
+                </div>
+            </div>
+            <div class="video_play_duration"></div>
+<div class="video_play_splash" tabindex="0"></div>
+<div class="video_spinner">
+<img class="image spinner_image" alt="" src="//static-sports-eus-s-msn-com.akamaized.net/sc/d3/9f8e92.gif" />
+</div>
+<div class="video_captions">
+<div class="video_captions_ttml"></div>
+</div>
+ <div class="endslate"  >
+<div class="endslateinner">
+<div class="act">
+<div class="rp" title="Replay Video">
+<div class="text">Replay Video</div>
+</div>
+<div class="sh">
+ 
+</div>
+</div>
+ </div>
+</div>
+
+
+ <div class="video_control_container vid_ctrls">
+<div class="mvp_play pauseactive" data-aop="playpause">
+<button  class="play circle mvp_btn" data-aop="play" title="Play"></button>
+<button  class="pause circle mvp_btn" data-aop="pause" title="Pause"></button>
+</div>
+<div class="mvp_progress">
+<div class="scrubber_bar" title="Seek">
+<span class="total"></span>
+<span class="buffered"></span>
+<span class="elapsed"></span>
+<button class="prog_handle"  data-aop="slider" title="Seek" role="button"></button>
+</div>
+<div class="progress_text">
+<div class="time_passed"></div>
+<div class="time_total"></div>
+</div>
+</div>
+<div class="controls">
+<button class="info circle mvp_btn" data-aop="Info" title="Info" role="button"></button>
+<div class="volume_ctrl">
+<button class="vid_volon  circle mvp_btn"  data-aop="Volume" title="Volume" role="button"></button>
+<button class="vid_volmute  circle mvp_btn"  data-aop="Volume" title="Volume" role="button"></button>
+<div class="volume_bar" role="dialog">
+<span class="volume_total"></span>
+<span class="volume_elapsed"></span>
+<button class="vol_handle" data-aop="volhandle"  title="Volume" role="button"></button>
+<button class="vol_on" data-aop="Mute"  title="Mute" role="button"></button>
+<button class="vol_mute" data-aop="Unmute"  title="Unmute" role="button"></button>
+                </div>
+            </div>
+            <div class="caption_ctrl">
+<button class="closecaption circle textleft mvp_btn"  title="Closed Captioning" role="button"></button>
+<div class="close_caption_bar" role="menu">
+<div class="cc_box">
+<div class="cc_langbox"></div>
+<div class="cc_off settings" role="menuitem">SETTINGS</div>
+<div class="cc_off off" role="menuitem">OFF</div>
+                    </div>
+                </div>
+            </div>
+            <div class="qlty_ctrl">
+<button class="vid_qlty circle mvp_btn"  title="Video Quality" role="button"></button>
+<div class="qltybar" role="menu">
+<div class="hd" tabindex="0" data-bitrate="3000" data-type="104"  title="High Definition Video" role="menuitem">HD</div>
+<div class="hq" tabindex="0" data-bitrate="1400" data-type="103"  title="High Quality Video" role="menuitem">HQ</div>
+<div class="sd" tabindex="0" data-bitrate="600" data-type="102"  title="Standard Definition Video" role="menuitem">SD</div>
+<div class="low" tabindex="0" data-bitrate="400" data-type="101"  title="Low Bandwidth Video" role="menuitem">LO</div>
+                </div>
+            </div>
+            <button  class="vid_fs circle  mvp_btn" data-aop="FullScreen" title="Full Screen" role="button"></button>
+<button  class="vid_exitfs  circle mvp_btn" data-aop="ExitFullScreen" title="Exit Full Screen" role="button"></button>
+</div>
+</div>
+ <div class="ad_control_container">
+<div class="prgbar">
+<span class="elapsed"></span>
+</div>
+<div class="mvp_ctrls">
+<div class="mvp_play pauseactive" data-aop="playpause">
+<button class="play mvp_btn" data-aop="play" title="Play"></button>
+<button class="pause mvp_btn" data-aop="pause" title="Pause"></button>
+</div>
+<div class="statustext"></div>
+<div class="volume_ctrl">
+<button class="vid_volon mvp_btn" data-aop="Volume" title="Volume" role="button"></button>
+<button class="vid_volmute mvp_btn" data-aop="Volume" title="Volume" role="button"></button>
+                </div>
+            </div>
+        </div>
+
+<div class="video_admsg_container">
+<span class="video_admsg_txt"></span>
+</div>
+<div class="video_error video_player_error" style="display: none;">
+<div class="video_error_txt"></div>
+</div>
+<div class="video_pane_container"></div>
+<div class="video_logo_container"></div>
+<div class="ad_player" data-isdelayed="True">
+ </div>
+</div>
+</div>
+<div class="vpaid_admsg_container">
+</div>
+</div>
+<div class="flash video_player">
+<div class="sass_vars"></div>
+</div>
+<div class="external"></div>
+<div class="error"></div>
+ 
+</div>
+    <script>
+        require(["binding"], function (binding) {
+            binding("wcVideoPlayer", "#video_player_ce412462-96e5-4615-b4cd-a8a23f1769ab").all();
+});
+</script>
+
+
+
+<p>BOSTON (AP)  New England Patriots head coach Bill Belichick (BEHL'-ih-chik) has been added to a list of people who could be called to testify at the double murder trial of former player Aaron Hernandez.</p><p>Belichick's name appeared on a list of possible witnesses filed Tuesday by Hernandez's defense.</p><p>Patriots offensive coordinator Josh McDaniels had previously been named as a possible witness.</p><p>Hernandez is charged with the drive-by slayings of Daniel de Abreu and Safiro Furtado in Boston in 2012. Prosecutors say Hernandez shot them after one spilled a drink on him at a club.</p><p>Hernandez has pleaded not guilty.</p><p>Jury selection is underway. Opening statements are scheduled March 1.</p><p>Hernandez grew up in Connecticut. He's serving a life sentence in the 2013 killing of a man who was dating the sister of Hernandez's fiancee.</p>
+</div>
+ </div>
+
+ 
+
+<div class="back-msn-home"  data-aop="back-to-home">
+<a href="/en-us"  role="button"><span>Go to MSN Home</span></a>
+</div>
+
+ 
+ 
+
+
+
+
+ <div class="morefromcategory">
+<h3> <h2>
+ <span>More in NFL</span>
+ </h2>
+</h3>
+<ul>
+ <li  class="media photo">
+ 
+ <a href="/en-us/sports/nfl/the-2017-all-nfl-free-agent-team/ss-AAn8mm4">
+<img alt="CLEVELAND, OH - NOVEMBER 27: Terrelle Pryor #11 of the Cleveland Browns can&#39;t make a catch during the second quarter against the New York Giants at FirstEnergy Stadium on November 27, 2016 in Cleveland, Ohio." height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAn937W.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1317&amp;y=494" title="Terrelle Pryor - Gregory Shamus/Getty Images" width="96" /> <h4>The 2017 All-NFL free-agent team</h4>
+ <span>
+<img alt="FOXSports Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB6BD5t.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> FOXSports
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/sports/nfl/report-belichick-wants-to-coach-at-least-five-more-years-outlast-brady/ar-AAne7fm">
+<img alt="Bill Belichick reportedly plans on outlasting Tom Brady." height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAne2tH.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=981&amp;y=326" title="Bill Belichick reportedly plans on outlasting Tom Brady. - Kirby Lee-USA TODAY Sports" width="96" /> <h4>Report: Belichick wants to coach at least five more years, outlast Brady</h4>
+ <span>
+<img alt="NESN Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1FUYS.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> NESN
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/sports/nfl/robert-kraft-talks-about-his-friendship-with-donald-trump/ar-AAne6US">
+<img alt="Patriots owner Robert Kraft continues to have to discuss his friendship with Donald Trump." height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAne6UO.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=731&amp;y=501" title="Patriots owner Robert Kraft continues to have to discuss his friendship with Donald Trump. - Kirby Lee-USA TODAY Sports" width="96" /> <h4>Patriots&#39; Kraft talks about his friendship with Trump</h4>
+ <span>
+<img alt="Sportsnaut Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB47NPb.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> Sportsnaut
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/sports/nfl/terrelle-pryor-could-become-nfls-highest-paid-receiver-in-2017/ar-AAne2kY">
+<img alt="Terrelle Pryor" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAndZLt.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1421&amp;y=343" title="Terrelle Pryor - (Getty Images)" width="96" /> <h4>Pryor could become NFL&#39;s highest-paid receiver in 2017</h4>
+ <span>
+<img alt="Sporting News Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAkgetg.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> Sporting News
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/sports/nfl/why-it-matters-that-bills-qb-tyrod-taylor-reportedly-has-a-clean-bill-of-health/ar-AAndG8s">
+<img alt="Tyrod Taylor" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAiX8Tj.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=407&amp;y=56" title="Tyrod - Photo: Tom Szczerbowski" width="96" /> <h4>Why it matters that Bills QB Taylor reportedly has a clean bill of health</h4>
+ <span>
+<img alt="FOXSports Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB6BD5t.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> FOXSports
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/sports/nfl/philip-rivers-%e2%80%98i-will-always-be-playing-for-san-diego%e2%80%99/ar-AAndQZI">
+<img alt="Chargers quarterback Philip Rivers made it clear that San Diego will always be in his heart." height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAne0wd.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=885&amp;y=230" title="Chargers quarterback Philip Rivers made it clear that San Diego will always be in his heart. - Orlando Ramirez-USA TODAY Sports" width="96" /> <h4>Philip Rivers: &#39;I will always be playing for San Diego&#39;</h4>
+ <span>
+<img alt="Larry Brown Sports Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1uPMT.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> Larry Brown Sports
+</span>
+ </a>
+
+</li>
+ </ul>
+</div>
+
+
+</div>
+<div id="aside"  data-region="aside">
+ 
+  <div class="nextcontentitem">
+<h3> <h2>
+ <span>Up Next</span>
+ </h2>
+</h3>
+<ul>
+ <li >
+ 
+ <a href="/en-us/sports/nfl/dolphins-sign-dan-marino-to-1-day-contract/ar-AAneowR">
+<img alt="FILE - In this April 29, 2014 file photo, Miami Dolphins Hall of Fame quarterback Dan Marino speaks to reporters about the Pro Football Hall of Fame fanjets at the I-X Center in Cleveland. Marino is re-signing with the Dolphins, Wednesday, Feb. 22, 2017, in order to officially retire as a member of the franchise. The Dolphins are signing six players for retirement purposes: Marino, Larry Little, Sam Madison, Bob Griese, Kim Bokamper and Nat Moore. AP Photo)" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAnejFR.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=210&amp;y=108" title="FILE - In this April 29, 2014 file photo, Miami Dolphins Hall of Fame quarterback Dan Marino speaks ... - AP Photo" width="96" /> <h4>Marino among legends to sign 1-day contract with Dolphins</h4>
+ <span>
+<img alt="Associated Press Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA42Hq5.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> Associated Press
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/sports/nfl/chiefs-need-to-treat-eric-berry-like-the-superstar-he-is/ar-AAndJiW">
+<img alt="Eric Berry" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAndRWr.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=787&amp;y=301" title="Eric Berry - (Getty Images)" width="96" /> <h4>Chiefs need to treat Eric Berry like the superstar he is</h4>
+ <span>
+<img alt="Sporting News Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAkgetg.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> Sporting News
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="/en-us/sports/nfl/brady-jokes-about-stolen-jersey-with-hilarious-suspect-board/ar-AAndQZN">
+<img alt="Tom Brady is trying to solve the case of his missing Super Bowl jersey." height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAndY8Z.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=752&amp;y=198" title="Tom Brady is trying to solve the case of his missing Super Bowl jersey. - Bob Donnan-USA TODAY Sports" width="96" /> <h4>Brady jokes about stolen jersey with hilarious &#39;suspect board&#39;</h4>
+ <span>
+<img alt="Larry Brown Sports Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1uPMT.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> Larry Brown Sports
+</span>
+ </a>
+
+</li>
+ </ul>
+</div>
+ <div class="nextcontentitem">
+<h3> <h2>
+ <span>More in Sports</span>
+ </h2>
+</h3>
+<ul>
+ <li  class="media photo">
+ 
+ <a href="/en-us/sports/more-sports/the-day-in-sports-photos/ss-AAncoVN">
+<img alt="VIÑA DEL MAR, CHILE - FEBRUARY 21: Maria Francisa Silva (white) and Gala Caldirola (red) candidates for Queen of the Viña del Mar Festival 2017 fight for the ball during a water football game as part of the Viña del Mar Festival 2017 on February 21, 2017" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAncEpA.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1521&amp;y=249" title="Viña del Mar Festival Queen Candidates Play Football - Marcelo Benitez/CON/LatinContent/Getty Images" width="96" /> <h4>The Day in Sports Photos</h4>
+ </a>
+
+</li>
+ <li  class="media photo">
+ 
+ <a href="/en-us/sports/nba/2017-nba-all-star-game/ss-AAn7bST">
+<img alt="Western Conference forward Kawhi Leonard of the San Antonio Spurs #2 drives to the basket against  Eastern Conference guard DeMar DeRozan of the Toronto Rapters #10 and  Eastern Conference forward LeBron James of the Cleveland Cavaliers #23 in the 2017 NBA All-Star Game at Smoothie King Center on Feb. 19." height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAn7pUF.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1253&amp;y=779" title="Driving through traffic - Bob Donnan-USA TODAY Sports" width="96" /> <h4>NBA All-Star Game</h4>
+ </a>
+
+</li>
+ <li  class="media photo">
+ 
+ <a href="/en-us/sports/mlb/top-50-fantasy-baseball-players-for-2017/ss-AAn8SWL">
+<img alt="1. Mike Trout, OF, Angels" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAn8ZYY.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=925&amp;y=551" title="1. Mike Trout, OF, Angels - Jerome Miron, USA TODAY Sports" width="96" /> <h4>Top 50 fantasy baseball players for 2017</h4>
+ <span>
+<img alt="USA TODAY SPORTS Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB4kwB1.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" /> USA TODAY SPORTS
+</span>
+ </a>
+
+</li>
+ </ul>
+</div>
+    <div  class="ad"  id="rectangle1_article_football_nfl_fe42b9bc-ef5e-43d7-a2ab-7ec82b28c661">
+        <div>
+            <div  id="rectangle1_article_football_nfl_container_fe42b9bc-ef5e-43d7-a2ab-7ec82b28c661">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=SPOUSEN30&amp;PVGUID=24378aaded9b482d91d884aa061eda0a&amp;PROVIDERID=7GZ465J", 300, 600, "rectangle1_article_football_nfl_container_fe42b9bc-ef5e-43d7-a2ab-7ec82b28c661");
+                    </script>
+            </div>
+                    <a href="http://go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+    <div  class="ad"  id="rectangle2_article_football_nfl_77c5d90d-0df1-428a-85e9-a8fe73088a16">
+        <div>
+            <div  id="rectangle2_article_football_nfl_container_77c5d90d-0df1-428a-85e9-a8fe73088a16">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=SPOUSEN28&amp;PVGUID=24378aaded9b482d91d884aa061eda0a&amp;PROVIDERID=7GZ465J", 300, 250, "rectangle2_article_football_nfl_container_77c5d90d-0df1-428a-85e9-a8fe73088a16");
+                    </script>
+            </div>
+                    <a href="http://go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+
+
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-us">Home</a>
+</li>
+ <li >
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li  class="current">
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-us/default.aspx">&#169; 2017 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Legal</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-us/msn-worldwide">MSN Worldwide</a>
+ <a href="http://newsletters.msn.com/">Newsletter</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=24378aaded9b482d91d884aa061eda0a&amp;rnd=636234324766067506&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.com%252Fen-us%252Fsports%252Fnfl%252Fpatriots-coach-named-as-possible-witness-at-hernandez-trial%252Far-AAnesej%253Focid%253Dst&amp;di=898&amp;lng=en-us&amp;cv.product=prime&amp;pn=article&amp;activityId=24378aaded9b482d91d884aa061eda0a&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=football_nfl&amp;st.sdpt=&amp;subcvs=sports" alt="image beacon" width="1" height="1" /><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;rn=636234324766067506&amp;c7=http%253A%252F%252Fwww.msn.com%252Fen-us%252Fsports%252Fnfl%252Fpatriots-coach-named-as-possible-witness-at-hernandez-trial%252Far-AAnesej%253Focid%253Dst&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=898&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.com%252Fen-us%252Fsports%252Fnfl%252Fpatriots-coach-named-as-possible-witness-at-hernandez-trial%252Far-AAnesej%253Focid%253Dst&amp;pageid=articlevnext&amp;mkt=en-us&amp;pn=article&amp;pp=False&amp;cv.product=prime&amp;cv.partner=Associated%2BPress&amp;cv.publcat=The%2BAssociated%2BPress&amp;st.dpt=football_nfl&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636234324766067506&amp;rf=&amp;rid=24378aaded9b482d91d884aa061eda0a&amp;cvs=Browser&amp;subcvs=sports&amp;cv.entityId=AAnesej&amp;cv.entitySrc=ar&amp;provid=AA7mZ3&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=24378aaded9b482d91d884aa061eda0a" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+            var url = '//c.bing.com/c.gif?Red3=MSNLI_pd&rid=24378aad-ed9b-482d-91d8-84aa061eda0a&lng=en-us&dgk=downlevel.pc&imd=0&pn=articlepage&rf=&tp=http%3A%2F%2Fwww.msn.com%2Fen-us%2Fsports%2Fnfl%2Fpatriots-coach-named-as-possible-witness-at-hernandez-trial%2Far-AAnesej%3Focid%3Dst';
+            if (headData && headData.clientSettings && headData.clientSettings.static_page)
+            {
+                mediator.pub(pageInstance.eventName);
+                var rid = pageInstance.getActivityId();
+                url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+            new Image().src = url.replace(/&amp;/g, '&');
+        });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//c.bing.com/c.gif?Red3=MSNLI_pd&amp;rid=24378aad-ed9b-482d-91d8-84aa061eda0a&amp;lng=en-us&amp;dgk=downlevel.pc&amp;imd=0&amp;pn=articlepage&amp;rf=&amp;tp=http%3A%2F%2Fwww.msn.com%2Fen-us%2Fsports%2Fnfl%2Fpatriots-coach-named-as-possible-witness-at-hernandez-trial%2Far-AAnesej%3Focid%3Dst&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+    <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+            var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+            if (headData && headData.clientSettings && headData.clientSettings.static_page)
+            {
+                mediator.pub(pageInstance.eventName);
+                var rid = pageInstance.getActivityId();
+                url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+            new Image().src = url.replace(/&amp;/g, '&');
+        });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>

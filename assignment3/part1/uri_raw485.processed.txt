@@ -1,0 +1,80 @@
+    #[1]Shop With Corner Store Feed [2]Shop With Corner Store » Feed
+   [3]Shop With Corner Store » Comments Feed [4]alternate [5]alternate
+
+   [6]Shop With Corner Store
+   [7]Close
+   Sign in Or Register
+   ____________________
+   ____________________
+   [8]Forgot your password?
+   Login
+
+NEW HERE
+
+   Registration is free and easy!
+     * Faster checkout
+     * Save multiple shipping addresses
+     * View and track orders and more
+
+   [9]Create an account
+   0
+
+There are 0 items in your cart
+
+   Total: $0.00
+   [10]View Cart
+   [11]Check Out
+   [All Categories]
+   ____________________ (BUTTON)
+     * [12]Shop
+
+On any street in nearly every urban neighborhood in America, you can find the
+local corner store – a one-stop shop and gathering point for the residents in
+that community. Each person takes pride in their local corner store and, even
+if they move away at some point, they always make their way back for visits
+to reminisce and reflect on where they grew up.
+
+Corner Store was established in 2016 with a vision to renew a sense of
+togetherness within the city of Atlanta. Our mission is to establish
+community pride through initiatives directly aimed at bettering the very
+neighborhoods that corner stores thrive in. As we grow and strengthen our
+ties to the streets and within the city, Corner Store plans to not only give
+Atlanta something to be proud of but show that charity truly begins at home.
+
+   SUBSCRIBE TO OUR NEWSLETTER
+
+   ____________________
+
+   subscribe
+   ____________________
+
+Contact us
+
+     * Business Related Inquiries:
+       [13]info@shopwithcornerstore.com
+       © 2016 | ShopWithCornerStore.com
+       Copyright 2016 | Corner Store | All Rights Reserved
+
+References
+
+   Visible links
+   1. http://shopwithcornerstore.com//feed/
+   2. http://shopwithcornerstore.com/feed/
+   3. http://shopwithcornerstore.com/comments/feed/
+   4. http://shopwithcornerstore.com/wp-json/oembed/1.0/embed?url=http://shopwithcornerstore.com/
+   5. http://shopwithcornerstore.com/wp-json/oembed/1.0/embed?url=http://shopwithcornerstore.com/&format=xml
+   6. http://shopwithcornerstore.com/
+   7. javascript:void(0)
+   8. https://shopwithcornerstore.com/my-account/lost-password/
+   9. https://shopwithcornerstore.com/my-account/
+  10. http://shopwithcornerstore.com/cart/
+  11. https://shopwithcornerstore.com/checkout/
+  12. http://shopwithcornerstore.com/shop/
+  13. mailto:info@shopwithcornerstore.com
+
+   Hidden links:
+  15. javascript:void(0);
+  16. javascript:void(0)
+  17. https://www.instagram.com/shopcornerstore/
+  18. https://twitter.com/shopcornerstore
+  19. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw485.txt

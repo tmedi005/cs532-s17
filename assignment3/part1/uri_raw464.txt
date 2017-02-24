@@ -1,0 +1,982 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+    <title>A Look at the New England Patriots Unrestricted Free Agents - Last Word on Pro Football</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="" />
+    <meta property="og:image" content="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/641598242.jpg" /><meta name="author" content="Jonathan Porter">
+<link rel="icon" type="image/png" href="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2016/08/favicon.png">
+<!-- This site is optimized with the Yoast SEO plugin v4.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Examining which New England Patriots unrestricted free agents may return for 2017 as well as those who have likely played their last down in Foxborough."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="A Look at the New England Patriots Unrestricted Free Agents - Last Word on Pro Football" />
+<meta property="og:description" content="Examining which New England Patriots unrestricted free agents may return for 2017 as well as those who have likely played their last down in Foxborough." />
+<meta property="og:url" content="http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/" />
+<meta property="og:site_name" content="Last Word on Pro Football" />
+<meta property="article:tag" content="AFC" />
+<meta property="article:tag" content="Barkevious MIngo" />
+<meta property="article:tag" content="Football" />
+<meta property="article:tag" content="New England Patriots" />
+<meta property="article:tag" content="NFL" />
+<meta property="article:section" content="Editorials" />
+<meta property="article:published_time" content="2017-02-12T19:19:16-05:00" />
+<meta property="article:modified_time" content="2017-02-12T19:20:10-05:00" />
+<meta property="og:updated_time" content="2017-02-12T19:20:10-05:00" />
+<meta property="og:image" content="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/641598242.jpg" />
+<meta property="og:image:width" content="594" />
+<meta property="og:image:height" content="334" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Examining which New England Patriots unrestricted free agents may return for 2017 as well as those who have likely played their last down in Foxborough." />
+<meta name="twitter:title" content="A Look at the New England Patriots Unrestricted Free Agents - Last Word on Pro Football" />
+<meta name="twitter:image" content="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/641598242.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Last Word on Pro Football &raquo; Feed" href="http://lastwordonprofootball.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Last Word on Pro Football &raquo; Comments Feed" href="http://lastwordonprofootball.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Last Word on Pro Football &raquo; A Look at the New England Patriots Unrestricted Free Agents Comments Feed" href="http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/lastwordonprofootball.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ye_dynamic-css'  href='http://lastwordonprofootball.com/wp-content/plugins/youtube-embed/css/main.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_open_sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_roboto-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://lastwordonprofootball.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='http://lastwordonprofootball.com/wp-content/themes/Newspaper/style.css?ver=7.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://lastwordonprofootball.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://lastwordonprofootball.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var author_tracking = {"name":"Jonathan Porter"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lastwordonprofootball.com/wp-content/themes/Newspaper/js/tagdiv_theme.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='http://lastwordonprofootball.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lastwordonprofootball.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://lastwordonprofootball.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel='shortlink' href='http://lastwordonprofootball.com/?p=12200' />
+<link rel="alternate" type="application/json+oembed" href="http://lastwordonprofootball.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flastwordonprofootball.com%2F2017%2F02%2F12%2Flook-patriots-ufas%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://lastwordonprofootball.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flastwordonprofootball.com%2F2017%2F02%2F12%2Flook-patriots-ufas%2F&#038;format=xml" />
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://lastwordonprofootball.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://lastwordonprofootball.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .post img";
+var td_ajax_url="http:\/\/lastwordonprofootball.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=7.3";
+var td_get_template_directory_uri="http:\/\/lastwordonprofootball.com\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="3";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82902811-1', 'auto');
+  ga('set', 'dimension1', author_tracking.name );
+  ga('send', 'pageview');
+
+</script><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="post-template-default single single-post postid-12200 single-format-standard look-patriots-ufas wpb-js-composer js-comp-ver-4.12 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+    
+    <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="http://facebook.com/lwosnfl" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="http://twitter.com/lastwordonnfl" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <a href="#"><i class="td-icon-close-mobile"></i></a>
+            </div>
+        </div>
+
+        <!-- login section -->
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-nfl-main-menu-container"><ul id="menu-nfl-main-menu" class="td-mobile-main-menu"><li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-first menu-item-6"><a href="#">AFC East<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://lastwordonprofootball.com/category/bills/">Buffalo Bills</a></li>
+	<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://lastwordonprofootball.com/category/dolphins/">Miami Dolphins</a></li>
+	<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-16"><a href="http://lastwordonprofootball.com/category/patriots/">New England Patriots</a></li>
+	<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17"><a href="http://lastwordonprofootball.com/category/jets/">New York Jets</a></li>
+</ul>
+</li>
+<li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7"><a href="#">AFC North<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="http://lastwordonprofootball.com/category/ravens/">Baltimore Ravens</a></li>
+	<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19"><a href="http://lastwordonprofootball.com/category/bengals/">Cincinnati Bengals</a></li>
+	<li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20"><a href="http://lastwordonprofootball.com/category/browns/">Cleveland Browns</a></li>
+	<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21"><a href="http://lastwordonprofootball.com/category/steelers/">Pittsburgh Steelers</a></li>
+</ul>
+</li>
+<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8"><a href="#">AFC South<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="http://lastwordonprofootball.com/category/texans/">Houston Texans</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="http://lastwordonprofootball.com/category/colts/">Indianapolis Colts</a></li>
+	<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="http://lastwordonprofootball.com/category/jaguars/">Jacksonville Jaguars</a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="http://lastwordonprofootball.com/category/titans/">Tennessee Titans</a></li>
+</ul>
+</li>
+<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9"><a href="#">AFC West<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="http://lastwordonprofootball.com/category/broncos/">Denver Broncos</a></li>
+	<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="http://lastwordonprofootball.com/category/chiefs/">Kansas City Chiefs</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="http://lastwordonprofootball.com/category/raiders/">Oakland Raiders</a></li>
+	<li id="menu-item-29" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29"><a href="http://lastwordonprofootball.com/category/chargers/">Los Angeles Chargers</a></li>
+</ul>
+</li>
+<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10"><a href="#">NFC East<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-34" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34"><a href="http://lastwordonprofootball.com/category/cowboys/">Dallas Cowboys</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35"><a href="http://lastwordonprofootball.com/category/giants/">New York Giants</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36"><a href="http://lastwordonprofootball.com/category/eagles/">Philadelphia Eagles</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37"><a href="http://lastwordonprofootball.com/category/redskins/">Washington Redskins</a></li>
+</ul>
+</li>
+<li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11"><a href="#">NFC North<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="http://lastwordonprofootball.com/category/bears/">Chicago Bears</a></li>
+	<li id="menu-item-31" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31"><a href="http://lastwordonprofootball.com/category/lions/">Detroit Lions</a></li>
+	<li id="menu-item-32" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32"><a href="http://lastwordonprofootball.com/category/packers/">Green Bay Packers</a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33"><a href="http://lastwordonprofootball.com/category/vikings/">Minnesota Vikings</a></li>
+</ul>
+</li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="#">NFC South<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-42"><a href="http://lastwordonprofootball.com/category/falcons/">Atlanta Falcons</a></li>
+	<li id="menu-item-43" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43"><a href="http://lastwordonprofootball.com/category/panthers/">Carolina Panthers</a></li>
+	<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44"><a href="http://lastwordonprofootball.com/category/saints/">New Orleans Saints</a></li>
+	<li id="menu-item-45" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45"><a href="http://lastwordonprofootball.com/category/buccaneers/">Tampa Bay Buccaneers</a></li>
+</ul>
+</li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13"><a href="#">NFC West<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-38" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38"><a href="http://lastwordonprofootball.com/category/cardinals/">Arizona Cardinals</a></li>
+	<li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39"><a href="http://lastwordonprofootball.com/category/rams/">Los Angeles Rams</a></li>
+	<li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40"><a href="http://lastwordonprofootball.com/category/49ers/">San Francisco 49ers</a></li>
+	<li id="menu-item-41" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41"><a href="http://lastwordonprofootball.com/category/seahawks/">Seattle Seahawks</a></li>
+</ul>
+</li>
+<li id="menu-item-117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-117"><a href="http://lastwordonprofootball.com/category/fantasy/">Fantasy</a></li>
+<li id="menu-item-118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-118"><a href="http://lastwordonprofootball.com/category/podcasts/">Podcasts</a></li>
+<li id="menu-item-667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-667"><a href="#">LWOS Network<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-666"><a href="http://lastwordoncollegefootball.com/">College Football</a></li>
+	<li id="menu-item-669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669"><a href="http://lastwordoncanadianfootball.com/">CFL</a></li>
+	<li id="menu-item-670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-670"><a href="http://lastwordonprobasketball.com/">NBA</a></li>
+	<li id="menu-item-671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-671"><a href="http://lastwordonbaseball.com/">MLB</a></li>
+	<li id="menu-item-672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-672"><a href="http://lastwordonhockey.com/">NHL</a></li>
+	<li id="menu-item-674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-674"><a href="http://lastwordonsoccer.com/">Soccer (North America)</a></li>
+	<li id="menu-item-673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-673"><a href="http://lastwordonfootball.com/">World Football (Europe)</a></li>
+	<li id="menu-item-675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-675"><a href="http://lastwordonrugby.com/">Rugby</a></li>
+	<li id="menu-item-676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-676"><a href="http://lastwordontennis.com/">Tennis</a></li>
+	<li id="menu-item-677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-677"><a href="http://lastwordoncricket.com/">Cricket</a></li>
+	<li id="menu-item-678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-678"><a href="http://lastwordonmotorsport.com/">Motorsport</a></li>
+	<li id="menu-item-679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-679"><a href="http://lastwordonmma.com/">MMA</a></li>
+	<li id="menu-item-680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-680"><a href="http://lastwordonprowrestling.com/">Pro Wrestling</a></li>
+</ul>
+</li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+    </div>    <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+	<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+		<form method="get" class="td-search-form" action="http://lastwordonprofootball.com/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<a href="#"><i class="td-icon-close-mobile"></i></a>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob"></div>
+	</div>
+</div>    
+    
+    <div id="td-outer-wrap">
+    
+        <!--
+Header style 3
+-->
+
+<div class="td-header-wrap td-header-style-3">
+
+    <div class="td-header-top-menu-full">
+        <div class="td-container td-header-row td-header-top-menu">
+            
+    <div class="top-bar-style-1">
+        
+<div class="td-header-sp-top-menu">
+
+
+	<div class="menu-top-container"><ul id="menu-site-details" class="top-header-menu"><li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-95"><a href="http://lastwordonprofootball.com/about-the-site/">About the Site</a></li>
+<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-96"><a href="http://lastwordonprofootball.com/write-for-us/">Write For Us</a></li>
+</ul></div></div>
+        <div class="td-header-sp-top-widget">
+    
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="http://facebook.com/lwosnfl" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="http://twitter.com/lastwordonnfl" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span></div>
+    </div>
+
+<!-- LOGIN MODAL -->
+
+                <div  id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
+                    <div class="td-login-wrap">
+                        <a href="#" class="td-back-button"><i class="td-icon-modal-back"></i></a>
+                        <div id="td-login-div" class="td-login-form-div td-display-block">
+                            <div class="td-login-panel-title">Sign in</div>
+                            <div class="td-login-panel-descr">Welcome! Log into your account</div>
+                            <div class="td_display_err"></div>
+                            <div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email" value="" required><label>your username</label></div>
+	                        <div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" required><label>your password</label></div>
+                            <input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Login">
+                            <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div>
+                            
+                        </div>
+
+                        
+
+                         <div id="td-forgot-pass-div" class="td-login-form-div td-display-none">
+                            <div class="td-login-panel-title">Password recovery</div>
+                            <div class="td-login-panel-descr">Recover your password</div>
+                            <div class="td_display_err"></div>
+                            <div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required><label>your email</label></div>
+                            <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Password">
+                            <div class="td-login-info-text">A password will be e-mailed to you.</div>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+    </div>
+
+    <div class="td-banner-wrap-full">
+        <div class="td-container td-header-row td-header-header">
+            <div class="td-header-sp-logo">
+                            <a class="td-main-logo" href="http://lastwordonprofootball.com/">
+                <img src="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2016/08/lwos-272x90.png" alt=""/>
+                <span class="td-visual-hidden">Last Word on Pro Football</span>
+            </a>
+                    </div>
+            <div class="td-header-sp-recs">
+                <div class="td-header-rec-wrap">
+    
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-header ">
+<script type="text/javascript">
+var td_screen_width = window.innerWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-7902874678063196" data-ad-slot="7723343062"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-7902874678063196" data-ad-slot="7723343062"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-7902874678063196" data-ad-slot="7723343062"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-ad-client="ca-pub-7902874678063196" data-ad-slot="7723343062"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+
+</div>            </div>
+        </div>
+    </div>
+
+    <div class="td-header-menu-wrap-full">
+        <div class="td-header-menu-wrap">
+            <div class="td-container td-header-row td-header-main-menu black-menu">
+                <div id="td-header-menu" role="navigation">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo td-logo-in-header">
+        		<a class="td-mobile-logo td-sticky-disable" href="http://lastwordonprofootball.com/">
+			<img src="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2016/08/LWOS-140x48.png" alt=""/>
+		</a>
+			<a class="td-header-logo td-sticky-disable" href="http://lastwordonprofootball.com/">
+			<img src="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2016/08/lwos-272x90.png" alt=""/>
+		</a>
+	    </div>
+    <div class="menu-nfl-main-menu-container"><ul id="menu-nfl-main-menu-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-first td-menu-item td-normal-menu menu-item-6"><a href="#">AFC East</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-14"><a href="http://lastwordonprofootball.com/category/bills/">Buffalo Bills</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-15"><a href="http://lastwordonprofootball.com/category/dolphins/">Miami Dolphins</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent td-menu-item td-normal-menu menu-item-16"><a href="http://lastwordonprofootball.com/category/patriots/">New England Patriots</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-17"><a href="http://lastwordonprofootball.com/category/jets/">New York Jets</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-7"><a href="#">AFC North</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-18"><a href="http://lastwordonprofootball.com/category/ravens/">Baltimore Ravens</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-19"><a href="http://lastwordonprofootball.com/category/bengals/">Cincinnati Bengals</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-20"><a href="http://lastwordonprofootball.com/category/browns/">Cleveland Browns</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-21"><a href="http://lastwordonprofootball.com/category/steelers/">Pittsburgh Steelers</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-8"><a href="#">AFC South</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-22"><a href="http://lastwordonprofootball.com/category/texans/">Houston Texans</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-23"><a href="http://lastwordonprofootball.com/category/colts/">Indianapolis Colts</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-24"><a href="http://lastwordonprofootball.com/category/jaguars/">Jacksonville Jaguars</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-25"><a href="http://lastwordonprofootball.com/category/titans/">Tennessee Titans</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-9"><a href="#">AFC West</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-26"><a href="http://lastwordonprofootball.com/category/broncos/">Denver Broncos</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-27"><a href="http://lastwordonprofootball.com/category/chiefs/">Kansas City Chiefs</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-28"><a href="http://lastwordonprofootball.com/category/raiders/">Oakland Raiders</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-29"><a href="http://lastwordonprofootball.com/category/chargers/">Los Angeles Chargers</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-10"><a href="#">NFC East</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-34"><a href="http://lastwordonprofootball.com/category/cowboys/">Dallas Cowboys</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-35"><a href="http://lastwordonprofootball.com/category/giants/">New York Giants</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-36"><a href="http://lastwordonprofootball.com/category/eagles/">Philadelphia Eagles</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-37"><a href="http://lastwordonprofootball.com/category/redskins/">Washington Redskins</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-11"><a href="#">NFC North</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-30"><a href="http://lastwordonprofootball.com/category/bears/">Chicago Bears</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-31"><a href="http://lastwordonprofootball.com/category/lions/">Detroit Lions</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-32"><a href="http://lastwordonprofootball.com/category/packers/">Green Bay Packers</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-33"><a href="http://lastwordonprofootball.com/category/vikings/">Minnesota Vikings</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-12"><a href="#">NFC South</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-42"><a href="http://lastwordonprofootball.com/category/falcons/">Atlanta Falcons</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-43"><a href="http://lastwordonprofootball.com/category/panthers/">Carolina Panthers</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-44"><a href="http://lastwordonprofootball.com/category/saints/">New Orleans Saints</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-45"><a href="http://lastwordonprofootball.com/category/buccaneers/">Tampa Bay Buccaneers</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-13"><a href="#">NFC West</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-38"><a href="http://lastwordonprofootball.com/category/cardinals/">Arizona Cardinals</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-39"><a href="http://lastwordonprofootball.com/category/rams/">Los Angeles Rams</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-40"><a href="http://lastwordonprofootball.com/category/49ers/">San Francisco 49ers</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-41"><a href="http://lastwordonprofootball.com/category/seahawks/">Seattle Seahawks</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-117"><a href="http://lastwordonprofootball.com/category/fantasy/">Fantasy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-118"><a href="http://lastwordonprofootball.com/category/podcasts/">Podcasts</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-667"><a href="#">LWOS Network</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-666"><a href="http://lastwordoncollegefootball.com/">College Football</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-669"><a href="http://lastwordoncanadianfootball.com/">CFL</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-670"><a href="http://lastwordonprobasketball.com/">NBA</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-671"><a href="http://lastwordonbaseball.com/">MLB</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-672"><a href="http://lastwordonhockey.com/">NHL</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-674"><a href="http://lastwordonsoccer.com/">Soccer (North America)</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-673"><a href="http://lastwordonfootball.com/">World Football (Europe)</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-675"><a href="http://lastwordonrugby.com/">Rugby</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-676"><a href="http://lastwordontennis.com/">Tennis</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-677"><a href="http://lastwordoncricket.com/">Cricket</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-678"><a href="http://lastwordonmotorsport.com/">Motorsport</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-679"><a href="http://lastwordonmma.com/">MMA</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-680"><a href="http://lastwordonprowrestling.com/">Pro Wrestling</a></li>
+</ul>
+</li>
+</ul></div></div>
+
+
+<div class="td-search-wrapper">
+    <div id="td-top-search">
+        <!-- Search -->
+        <div class="header-search-wrap">
+            <div class="dropdown header-search">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header-search-wrap">
+	<div class="dropdown header-search">
+		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+			<form method="get" class="td-search-form" action="http://lastwordonprofootball.com/">
+				<div role="search" class="td-head-form-search-wrap">
+					<input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+				</div>
+			</form>
+			<div id="td-aj-search"></div>
+		</div>
+	</div>
+</div>            </div>
+        </div>
+    </div>
+
+</div><div class="td-main-content-wrap">
+
+    <div class="td-container td-post-template-default ">
+        <div class="td-crumb-container"><div class="entry-crumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="http://lastwordonprofootball.com/"><span itemprop="title">Home</span></a></span> <i class="td-icon-right td-bread-sep"></i> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="View all posts in Editorials" class="entry-crumb" itemprop="url" href="http://lastwordonprofootball.com/category/editorials/"><span itemprop="title">Editorials</span></a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content = "A Look at the New England Patriots Unrestricted Free Agents"><meta itemprop="url" content = "http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/">A Look at the New England Patriots Unrestricted Free Agents</span></div></div>
+
+        <div class="td-pb-row">
+                                    <div class="td-pb-span8 td-main-content" role="main">
+                            <div class="td-ss-main-content">
+                                
+    <article id="post-12200" class="post-12200 post type-post status-publish format-standard has-post-thumbnail hentry category-editorials category-patriots tag-afc tag-barkevious-mingo tag-football tag-new-england-patriots tag-nfl" itemscope itemtype="http://schema.org/Article">
+        <div class="td-post-header">
+
+            <ul class="td-category"><li class="entry-category"><a  href="http://lastwordonprofootball.com/category/editorials/">Editorials</a></li><li class="entry-category"><a  href="http://lastwordonprofootball.com/category/patriots/">New England Patriots</a></li></ul>
+            <header class="td-post-title">
+                <h1 class="entry-title">A Look at the New England Patriots Unrestricted Free Agents</h1>
+
+                
+
+                <div class="td-module-meta-info">
+                    <div class="td-post-author-name"><div class="td-author-by">By</div> <a href="http://lastwordonprofootball.com/author/jonathanporter/">Jonathan Porter</a><div class="td-author-line"> - </div> </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-12T19:19:16-05:00" >February 12, 2017</time></span>                    <div class="td-post-comments"><a href="http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/#respond"><i class="td-icon-comments"></i>0</a></div>                                    </div>
+
+            </header>
+
+        </div>
+
+        <div class="td-post-sharing td-post-sharing-top ">
+				<div class="td-default-sharing">
+		            <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Flastwordonprofootball.com%2F2017%2F02%2F12%2Flook-patriots-ufas%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Share on Facebook</div></a>
+		            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=A+Look+at+the+New+England+Patriots+Unrestricted+Free+Agents&url=http%3A%2F%2Flastwordonprofootball.com%2F2017%2F02%2F12%2Flook-patriots-ufas%2F&via=Last+Word+on+Pro+Football"  ><i class="td-icon-twitter"></i><div class="td-social-but-text">Tweet on Twitter</div></a>
+		            <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>
+		            <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/&amp;media=http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/641598242.jpg&description=Examining which New England Patriots unrestricted free agents may return for 2017 as well as those who have likely played their last down in Foxborough." onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>
+		            <a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=A+Look+at+the+New+England+Patriots+Unrestricted+Free+Agents%20-%20http%3A%2F%2Flastwordonprofootball.com%2F2017%2F02%2F12%2Flook-patriots-ufas%2F" ><i class="td-icon-whatsapp"></i></a>
+	            </div></div>
+
+        <div class="td-post-content">
+
+        <div class="td-post-featured-image"><figure><a href="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/641598242.jpg" data-caption="HOUSTON, TX - FEBRUARY 5: LeGarrette Blount #29 of the New England Patriots takes the handoff during Super Bowl 51 against the Atlanta Falcons at NRG Stadium on February 5, 2017 in Houston, Texas.  (Photo by Michael Zagaris/Getty Images)"><img width="594" height="334" class="entry-thumb td-modal-image" src="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/641598242.jpg" alt="" title="Super Bowl LI - New England Patriots v Atlanta Falcons"/></a><figcaption class="wp-caption-text">HOUSTON, TX - FEBRUARY 5: LeGarrette Blount #29 of the New England Patriots takes the handoff during Super Bowl 51 against the Atlanta Falcons at NRG Stadium on February 5, 2017 in Houston, Texas.  (Photo by Michael Zagaris/Getty Images)</figcaption></figure></div>
+        <p>Never one to be complacent, <strong>Bill Belichick</strong> has already stated that as a result of participating in the Super Bowl, his team is about five weeks behind in its preparation for the 2017 season. With that in mind, let&#8217;s take a look at those Patriots who are slated to become unrestricted free agents, and examine which may not be on the team for the 2017 season.</p>
+<h2>A Look at the New England Patriots Unrestricted Free Agents</h2>
+<h3><strong><a href="http://www.pro-football-reference.com/players/H/HighDo01.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Dont&#8217;a Hightower</a></strong></h3>
+<p>A team captain, Dont&#8217;a Hightower authored two of the most memorable defensive plays in team history, first with his goal line tackle of <strong><a href="http://www.pro-football-reference.com/players/L/LyncMa00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Marshawn Lynch</a></strong> in the 2014 Super Bowl, and then his strip sack of <a href="http://www.pro-football-reference.com/players/R/RyanMa00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow"><b>Matt</b> <b>Ryan</b></a> in 2016&#8217;s big game.  With <strong><a href="http://www.pro-football-reference.com/players/J/JoneCh03.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Chandler Jones</a></strong> and<strong> <a href="http://www.pro-football-reference.com/players/C/CollJa00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Jamie Collins</a></strong> no longer in Foxborough, it should be a no-brainer for the team to lock up their Pro Bowl linebacker.  For what it&#8217;s worth, <a href="http://www.pro-football-reference.com/players/M/McCoDe99.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow"><b>Devin</b> <b>McCourty</b></a> indicated after the Super Bowl that Hightower will be back in 2017.</p>
+<p>Perhaps he has inside knowledge of ongoing contract negotiations between his friend and the team.  Even if he does not, McCourty clearly knows that Hightower could be nearly irreplaceable.  The bet here is that Hightower will be back.  The Patriots typically use their Franchise Tag only as a last resort, so it is fair to assume that if Hightower is slapped with the tag, it would only be as a means to buy more time to negotiate a long term deal.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/B/BennMa00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Martellus Bennett</a></strong></h3>
+
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-content_inlineright ">
+<script type="text/javascript">
+var td_screen_width = window.innerWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7902874678063196" data-ad-slot="7362785062"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7902874678063196" data-ad-slot="7362785062"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:200px;height:200px" data-ad-client="ca-pub-7902874678063196" data-ad-slot="7362785062"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7902874678063196" data-ad-slot="7362785062"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+<p>Martellus Bennett poses an interesting case.  He was a productive player in 2016, and seemingly ingrained himself into the &#8220;Patriot Way,&#8221; as he contributed as a receiver, a selfless blocker, and played hurt for much of the season.  With his tight end counterpart <strong><a href="http://www.pro-football-reference.com/players/G/GronRo00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Rob Gronkowski</a></strong> coming off of yet another significant injury, it would seemingly be wise for the Patriots to keep the talented Bennett in the fold.</p>
+<p>However, Bennett will be entering his age-30 season.  This offseason will likely represent his last chance at a significant NFL payday.  Players looking for their most lucrative opportunities rarely end up in Foxborough.  What also needs to be considered is Bennett&#8217;s eclectic, out-spoken personality.  By all accounts, he was a team-oriented player in 2016, and beloved by his teammates.  However, Bennett has a track record of being a derisive locker room presence, having worn out welcomes at his other NFL stops.</p>
+<p>The Patriots represent the fourth team of Bennett&#8217;s 9-year career.  Bennett also displayed a willingness to talk publicly about non-football matters, going as far as to speak out against President Trump.  It is a fair question to wonder if the security of a comfortable contract would lead to Bennett regressing as a teammate, and becoming more of the distraction that the Patriots organization simply does not tolerate.</p>
+<p>The guess here is that the concerns surrounding Bennett&#8217;s age and personality will keep the Patriots offer to a fairly-modest level.  As a result, Bennett will likely end up elsewhere in 2017.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/L/LongCh99.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Chris Long</a></strong></h3>
+<p>Chris Long&#8217;s raw stats (4 sacks, 1 forced fumble, 1 run stuff) represent very modest numbers in comparison to Long&#8217;s early-career production.  Despite these somewhat disappointing numbers, Long was generally regarded as a player whose contributions were not always depicted in box scores.  If Long is willing to take short money on another one year deal, he would almost assuredly be welcomed back in Foxborough as a rotational player.  Retirement could also be a viable option for the 31-year old 9-year veteran.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/B/BranAl99.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Alan Branch</a></strong></h3>
+<p>Generally regarded as the Patriots most effective and consistent defensive lineman all season, Alan Branch should be back in the fold for 2017.  He represents exactly the kind of value the Patriots covet.  Branch is unheralded and, at 32 years old, should be able to be had on a short term deal.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/B/BlouLe00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">LeGarrette Blount</a></strong></h3>
+<p>Despite a team-record 18 TDs in 2016 and over 1,100 yards rushing, LeGarrette Blount&#8217;s role on the team was greatly diminished by the end of the season.  It is possible that Blount&#8217;s powerful running style led the 30-year old to wear down over the course of the year.  With <strong><a href="http://www.pro-football-reference.com/players/L/LewiDi00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Dion Lewis</a></strong> and <strong><a href="http://www.pro-football-reference.com/search/search.fcgi?pid=WhitJa20,WhitJa02&amp;search=James+White&amp;utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">James White</a></strong> under contract, there is considerable reason to wonder if Blount will be back in 2017.  If Blount is back, it would likely be on a near league-minimum deal, and in a reduced role from what we saw from him in 2016.  The early assumption here is the Blount will be elsewhere in 2017. The team will probably look to replace him with someone younger and more versatile.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/R/RyanLo00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Logan Ryan</a></strong></h3>
+<p>Despite some early season struggles in 2016, Logan Ryan has represented a serviceable number two cornerback for the majority of the last two seasons.  With<strong> <a href="http://www.pro-football-reference.com/players/B/ButlMa01.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Malcolm Butler</a> </strong>heading towards unrestricted free agency in 2018, it is likely the Patriots offers to Ryan will be modest.  Expect another team to throw a lot of money at Ryan, ala <strong><a href="http://www.pro-football-reference.com/players/M/MaxwBy00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Byron Maxwell</a></strong>, with the hopes of him taking the next step, and emerging as a number one corner.  Ryan will likely be elsewhere, and handsomely paid, in 2017.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/H/HarmDu00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Duron Harmon</a></strong></h3>
+<p>Duron Harmon was considered to be a bit of a reach when the team grabbed him in the third round of the 2013 draft.  The fact that the team thought more highly of Harmon then, as opposed to other teams, possibly suggests that the team still values him a bit more than other teams may.  A serviceable backup safety who allows the team to deploy <strong><a href="http://www.pro-football-reference.com/players/M/McCoDe99.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Devin McCourty</a></strong> in a variety of roles, there is every reason to assume that Harmon will be back in 2017.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/D/DeveJa00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">James Develin</a></strong></h3>
+<p>The Patriots absolutely love James Develin. In an era when fullbacks are somewhat obsolete, there is little reason to expect him to wind up elsewhere.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/S/SheaJa00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Jabaal Sheard</a></strong></h3>
+<p>Entering the season with high expectations, Jabaal Sheard was a huge disappointment in 2016. He did rebound some after Week 11, in which he was a healthy scratch. Despite a decent finish to his season, Sheard will likely look for a fresh start in 2017.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/B/BoldBr00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Brandon Bolden</a></strong></h3>
+<p>Brandon Bolden is similar to Develin, in that the team absolutely loves him and will probably pay more for his skill set than other teams.  Expect the Special Teams ace to be back in 2017.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/V/VollSe20.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Sebastian Vollmer</a></strong></h3>
+<p>The long time right tackle missed the entire season due to injury. With <strong><a href="http://www.pro-football-reference.com/players/C/CannMa00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Marcus Cannon</a> </strong>emerging as an All-Pro-level RT, Vollmer will not be back in 2017. Retirement is a very likely option for the massive German.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/F/FloyMi00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Michael Floyd</a></strong></h3>
+<p>Michael Floyd has said all of the right things in terms of how much he enjoyed his time in Foxborough and that he would definitely love to come back. While it was in a limited time frame, it is clear that Floyd was not able to get on the same page as <strong><a href="http://www.pro-football-reference.com/players/B/BradTo00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Tom Brady</a></strong> in his 2016 trial run. With his ongoing legal matters, and the backlash the team incurred as a result of signing the troubled wide receiver, the guess here is that the Patriots let Floyd resurrect his career elsewhere.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/M/MingBa00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Barkevious Mingo</a></strong></h3>
+<p>The former first round pick was given the chance to restart his career in New England. Unfortunately for Mingo, he was unable to surpass <strong><a href="http://www.pro-football-reference.com/players/V/VanNKy00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Kyle Van Noy</a></strong> or<strong> <a href="http://www.pro-football-reference.com/players/M/McClSh00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Shea McClellin</a></strong> on the LB depth chart, relegating him to Special Teams contributions.  If he does not get any substantive offers elsewhere, Belichick would likely have him back as a core Special Teams piece, if nothing else.  It is probably a good bet, however, that Mingo will be given one more chance, elsewhere, to establish himself as a pass rusher.</p>
+<h3><strong><a href="http://www.pro-football-reference.com/players/S/ScruGr00.htm?utm_campaign=Linker&amp;utm_source=direct&amp;utm_medium=linker-" target="_blank" rel="nofollow">Greg Scruggs</a></strong></h3>
+<p>Greg Scruggs is a depth tight end. With the way Bill Belichick stockpiles tight end, its entirely likely Scruggs is back as a depth option.</p>
+<div class="getty embed image" style="background-color: #fff; display: inline-block; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #a7a7a7; font-size: 11px; width: 100%; max-width: 594px;">
+<div style="padding: 0; margin: 0; text-align: left;"><a style="color: #a7a7a7; text-decoration: none; font-weight: normal !important; border: none; display: inline-block;" href="http://www.gettyimages.com/detail/641598242" target="_blank">Embed from Getty Images</a></div>
+<div style="overflow: hidden; position: relative; height: 0; padding: 56.228956% 0 0 0; width: 100%;"><iframe style="display: inline-block; position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin: 0;" src="//embed.gettyimages.com/embed/641598242?et=EqxgyRcHSHlDWeosS-MjIw&amp;viewMoreLink=off&amp;sig=M-bd8BIHrIS1y48PsGhKxYJlsA-WZcCYFrLWChnNTQs=&amp;caption=true" width="594" height="334" frameborder="0" scrolling="no"></iframe></div>
+<p style="margin: 0;">
+</div>
+        </div>
+
+
+        <footer>
+                        
+            <div class="td-post-source-tags">
+                                <ul class="td-tags td-post-small-box clearfix"><li><span>TAGS</span></li><li><a href="http://lastwordonprofootball.com/tag/afc/">AFC</a></li><li><a href="http://lastwordonprofootball.com/tag/barkevious-mingo/">Barkevious MIngo</a></li><li><a href="http://lastwordonprofootball.com/tag/football/">Football</a></li><li><a href="http://lastwordonprofootball.com/tag/new-england-patriots/">New England Patriots</a></li><li><a href="http://lastwordonprofootball.com/tag/nfl/">NFL</a></li></ul>            </div>
+
+            <div class="td-post-sharing td-post-sharing-bottom td-with-like"><span class="td-post-share-title">SHARE</span>
+            <div class="td-default-sharing">
+	            <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Flastwordonprofootball.com%2F2017%2F02%2F12%2Flook-patriots-ufas%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Facebook</div></a>
+	            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=A+Look+at+the+New+England+Patriots+Unrestricted+Free+Agents&url=http%3A%2F%2Flastwordonprofootball.com%2F2017%2F02%2F12%2Flook-patriots-ufas%2F&via=Last+Word+on+Pro+Football"><i class="td-icon-twitter"></i><div class="td-social-but-text">Twitter</div></a>
+	            <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>
+	            <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/&amp;media=http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/641598242.jpg&description=Examining which New England Patriots unrestricted free agents may return for 2017 as well as those who have likely played their last down in Foxborough." onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>
+	            <a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=A+Look+at+the+New+England+Patriots+Unrestricted+Free+Agents%20-%20http%3A%2F%2Flastwordonprofootball.com%2F2017%2F02%2F12%2Flook-patriots-ufas%2F" ><i class="td-icon-whatsapp"></i></a>
+            </div><div class="td-classic-sharing"><ul><li class="td-classic-facebook"><iframe frameBorder="0" src="http://www.facebook.com/plugins/like.php?href=http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:105px; height:21px; background-color:transparent;"></iframe></li><li class="td-classic-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/" data-text="A Look at the New England Patriots Unrestricted Free Agents" data-via="" data-lang="en">tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li></ul></div></div>            <div class="td-block-row td-post-next-prev"><div class="td-block-span6 td-post-prev-post"><div class="td-post-next-prev-content"><span>Previous article</span><a href="http://lastwordonprofootball.com/2017/02/12/reviewing-new-york-giants-special-teams-situation/">Reviewing the New York Giants Special Teams Situation</a></div></div><div class="td-next-prev-separator"></div><div class="td-block-span6 td-post-next-post"><div class="td-post-next-prev-content"><span>Next article</span><a href="http://lastwordonprofootball.com/2017/02/12/examining-new-los-angeles-rams-brain-trust/">Examining the New Los Angeles Rams Brain Trust</a></div></div></div>            <div class="author-box-wrap"><a href="http://lastwordonprofootball.com/author/jonathanporter/"><img alt='' src='http://0.gravatar.com/avatar/61aa5354f5b30b9bf33cc95f05b95e76?s=96&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/61aa5354f5b30b9bf33cc95f05b95e76?s=192&amp;d=mm&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></a><div class="desc"><div class="td-author-name vcard author"><span class="fn"><a href="http://lastwordonprofootball.com/author/jonathanporter/">Jonathan Porter</a></span></div><div class="td-author-description"></div><div class="td-author-social"></div><div class="clearfix"></div></div></div>	        <span style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="Jonathan Porter"></span><meta itemprop="datePublished" content="2017-02-12T19:19:16-05:00"><meta itemprop="dateModified" content="2017-02-12T19:20:10-05:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="http://lastwordonprofootball.com/2017/02/12/look-patriots-ufas/"/><span style="display: none;" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span style="display: none;" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2016/08/lwos-272x90.png"></span><meta itemprop="name" content="Last Word on Pro Football"></span><meta itemprop="headline " content="A Look at the New England Patriots Unrestricted Free Agents"><span style="display: none;" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/641598242.jpg"><meta itemprop="width" content="594"><meta itemprop="height" content="334"></span>        </footer>
+
+    </article> <!-- /.post -->
+
+    <div class="td_block_wrap td_block_related_posts td_uid_3_58ae921b0784b_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_3_58ae921b0784b" ><script>var block_td_uid_3_58ae921b0784b = new tdBlock();
+block_td_uid_3_58ae921b0784b.id = "td_uid_3_58ae921b0784b";
+block_td_uid_3_58ae921b0784b.atts = '{"limit":3,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_custom_related","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_3_58ae921b0784b_rand","offset":"","css":"","live_filter":"cur_post_same_categories","live_filter_cur_post_id":12200,"live_filter_cur_post_author":"1885"}';
+block_td_uid_3_58ae921b0784b.td_column_number = "3";
+block_td_uid_3_58ae921b0784b.block_type = "td_block_related_posts";
+block_td_uid_3_58ae921b0784b.post_count = "3";
+block_td_uid_3_58ae921b0784b.found_posts = "813";
+block_td_uid_3_58ae921b0784b.header_color = "";
+block_td_uid_3_58ae921b0784b.ajax_pagination_infinite_stop = "";
+block_td_uid_3_58ae921b0784b.max_num_pages = "271";
+tdBlocksArray.push(block_td_uid_3_58ae921b0784b);
+</script><h4 class="td-related-title"><a id="td_uid_4_58ae921b0c0c6" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_3_58ae921b0784b" href="#">RELATED ARTICLES</a><a id="td_uid_5_58ae921b0c118" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_3_58ae921b0784b" href="#">MORE FROM AUTHOR</a></h4><div id=td_uid_3_58ae921b0784b class="td_block_inner">
+
+	<div class="td-related-row">
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://lastwordonprofootball.com/2017/02/22/pittsburgh-steelers-2017-off-season-top-3-needs/" rel="bookmark" title="Pittsburgh Steelers 2017 Off-Season: Top 3 Needs"><img width="218" height="150" class="entry-thumb" src="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/jaems-218x150.jpg" alt="" title="Pittsburgh Steelers 2017 Off-Season: Top 3 Needs"/></a></div>                            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="http://lastwordonprofootball.com/2017/02/22/pittsburgh-steelers-2017-off-season-top-3-needs/" rel="bookmark" title="Pittsburgh Steelers 2017 Off-Season: Top 3 Needs">Pittsburgh Steelers 2017 Off-Season: Top 3 Needs</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://lastwordonprofootball.com/2017/02/22/browns-season-grades-linebackers/" rel="bookmark" title="Cleveland Browns Season Grades: Linebackers"><img width="218" height="150" class="entry-thumb" src="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/Browns-LBs-218x150.jpg" alt="" title="Cleveland Browns Season Grades: Linebackers"/></a></div>                            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="http://lastwordonprofootball.com/2017/02/22/browns-season-grades-linebackers/" rel="bookmark" title="Cleveland Browns Season Grades: Linebackers">Cleveland Browns Season Grades: Linebackers</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://lastwordonprofootball.com/2017/02/22/jordan-leggett-2017-nfl-draft-profile/" rel="bookmark" title="Jordan Leggett 2017 NFL Draft Profile"><img width="218" height="150" class="entry-thumb" src="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/leggett-218x150.jpg" alt="" title="Jordan Leggett 2017 NFL Draft Profile"/></a></div>                            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="http://lastwordonprofootball.com/2017/02/22/jordan-leggett-2017-nfl-draft-profile/" rel="bookmark" title="Jordan Leggett 2017 NFL Draft Profile">Jordan Leggett 2017 NFL Draft Profile</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_3_58ae921b0784b" data-td_block_id="td_uid_3_58ae921b0784b"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_3_58ae921b0784b" data-td_block_id="td_uid_3_58ae921b0784b"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
+
+	<div class="comments" id="comments">
+        	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">LEAVE A REPLY <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/02/12/look-patriots-ufas/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://lastwordonprofootball.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<div class="clearfix"></div>
+				<p class="comment-form-input-wrap td-form-comment">
+					<textarea placeholder="Comment:" id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea>
+		        </p><p class="comment-form-input-wrap td-form-author">
+			            <span class="comment-req-wrap">
+			            	<input class="" id="author" name="author" placeholder="Name:" type="text" value="" size="30" /></span></p>
+<p class="comment-form-input-wrap td-form-email">
+			            <span class="comment-req-wrap"><input class="" id="email" name="email" placeholder="Email:" type="text" value="" size="30" /></span></p>
+<p class="comment-form-input-wrap td-form-url">
+			            <input class="" id="url" name="url" placeholder="Website:" type="text" value="" size="30" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='12200' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="fbd630679b" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="21"/></p>			</form>
+			</div><!-- #respond -->
+	    </div> <!-- /.content -->
+                            </div>
+                        </div>
+                        <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                            <div class="td-ss-main-sidebar">
+                                <aside class="widget widget_search"><form method="get" class="td-search-form-widget" action="http://lastwordonprofootball.com/">
+    <div role="search">
+        <input class="td-widget-search-input" type="text" value="" name="s" id="s" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="searchsubmit" value="Search" />
+    </div>
+</form></aside><div class="td_block_wrap td_block_social_counter td_block_widget td_uid_6_58ae921b0f37b_rand td-pb-border-top"><h4 class="block-title"><span>Stay Connected</span></h4><div class="td-social-list"><div class="td_social_type td-pb-margin-side td_social_twitter"><div class="td-social-box"><div class="td-sp td-sp-twitter"></div><span class="td_social_info">13,668</span><span class="td_social_info td_social_info_name">Followers</span><span class="td_social_button"><a href="https://twitter.com/lastwordonnfl">Follow</a></span></div></div><div class="clearfix"></div></div></div> <!-- ./block --><aside class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LWOS Skyscraper -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-7902874678063196"
+     data-ad-slot="5777624667"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside><aside class="widget widget_text">			<div class="textwidget">            <a class="twitter-timeline"  href="https://twitter.com/LastWordOnNFL" data-widget-id="683099085046427648">Tweets by @LastWordOnNFL</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</aside><div class="td_block_wrap td_block_4 td_block_widget td_uid_7_58ae921b0f7c7_rand td-pb-border-top"  data-td-block-uid="td_uid_7_58ae921b0f7c7" ><script>var block_td_uid_7_58ae921b0f7c7 = new tdBlock();
+block_td_uid_7_58ae921b0f7c7.id = "td_uid_7_58ae921b0f7c7";
+block_td_uid_7_58ae921b0f7c7.atts = '{"limit":"3","sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"37","category_ids":"","custom_title":"Podcasts","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"#","header_text_color":"#","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_block_widget td_uid_7_58ae921b0f7c7_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_7_58ae921b0f7c7.td_column_number = "1";
+block_td_uid_7_58ae921b0f7c7.block_type = "td_block_4";
+block_td_uid_7_58ae921b0f7c7.post_count = "3";
+block_td_uid_7_58ae921b0f7c7.found_posts = "4";
+block_td_uid_7_58ae921b0f7c7.header_color = "#";
+block_td_uid_7_58ae921b0f7c7.ajax_pagination_infinite_stop = "";
+block_td_uid_7_58ae921b0f7c7.max_num_pages = "2";
+tdBlocksArray.push(block_td_uid_7_58ae921b0f7c7);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span>Podcasts</span></h4></div><div id=td_uid_7_58ae921b0f7c7 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_2 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://lastwordonprofootball.com/2017/02/20/last-word-steelers-podcast-episode-1/" rel="bookmark" title="Last Word on Steelers Podcast: Episode 1"><img width="324" height="160" class="entry-thumb" src="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2017/02/steelerspodcast1-324x160.jpg" alt="" title="Last Word on Steelers Podcast: Episode 1"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://lastwordonprofootball.com/2017/02/20/last-word-steelers-podcast-episode-1/" rel="bookmark" title="Last Word on Steelers Podcast: Episode 1">Last Word on Steelers Podcast: Episode 1</a></h3>
+
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="http://lastwordonprofootball.com/author/parker/">Parker Hurley (Associate Editor)</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-20T19:04:45-05:00" >February 20, 2017</time></span>                <div class="td-module-comments"><a href="http://lastwordonprofootball.com/2017/02/20/last-word-steelers-podcast-episode-1/#respond">0</a></div>            </div>
+
+
+            <div class="td-excerpt">
+                Last Word on Steelers Podcast: Episode 1. We will take a deep dive into the Pittsburgh Steelers as free agency gets set to heat up.            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_2 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://lastwordonprofootball.com/2016/09/16/fantasy-football-2-max-week-two-preview/" rel="bookmark" title="Fantasy Football 2 the MAX:  Week Two Preview"><img width="324" height="160" class="entry-thumb" src="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2016/09/matthew-stafford-of-the-detroit-lions-passes-against-the-indianapolis-picture-id605597432-324x160.jpg" alt="Fantasy Football 2 the MAX: Week Two Preview" title="Fantasy Football 2 the MAX:  Week Two Preview"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://lastwordonprofootball.com/2016/09/16/fantasy-football-2-max-week-two-preview/" rel="bookmark" title="Fantasy Football 2 the MAX:  Week Two Preview">Fantasy Football 2 the MAX:  Week Two Preview</a></h3>
+
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="http://lastwordonprofootball.com/author/sean-5/">Sean Garmer</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-09-16T23:37:09-04:00" >September 16, 2016</time></span>                <div class="td-module-comments"><a href="http://lastwordonprofootball.com/2016/09/16/fantasy-football-2-max-week-two-preview/#respond">0</a></div>            </div>
+
+
+            <div class="td-excerpt">
+                Randy and Mike discuss NY Jets and Buffalo Bills. Then they get into the rest of the NFL games in their Fantasy Football 2 the MAX: Week Two Preview.            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_2 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://lastwordonprofootball.com/2016/09/16/football-2-max-nfl-week-two-preview/" rel="bookmark" title="Football 2 the MAX:  NFL Week Two Preview"><img width="324" height="160" class="entry-thumb" src="http://lwosonnfl.ms.lastwordonsports.com/wp-content/uploads/sites/5/2016/09/matt-forte-of-the-new-york-jets-runs-for-a-touchdown-against-the-picture-id605935730-324x160.jpg" alt="Football 2 the MAX: NFL Week Two Preview" title="Football 2 the MAX:  NFL Week Two Preview"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://lastwordonprofootball.com/2016/09/16/football-2-max-nfl-week-two-preview/" rel="bookmark" title="Football 2 the MAX:  NFL Week Two Preview">Football 2 the MAX:  NFL Week Two Preview</a></h3>
+
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="http://lastwordonprofootball.com/author/sean-5/">Sean Garmer</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-09-16T22:32:25-04:00" >September 16, 2016</time></span>                <div class="td-module-comments"><a href="http://lastwordonprofootball.com/2016/09/16/football-2-max-nfl-week-two-preview/#respond">0</a></div>            </div>
+
+
+            <div class="td-excerpt">
+                Sean, Gary and Randy go through all of the match-ups happening on Sunday and Monday in their Football 2 the MAX:  NFL Week Two Preview            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block --><aside class="widget widget_text">			<div class="textwidget"><script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/youtube.xml&amp;up_channel=UCq9ibM6N3TP-5PzZSXBZwTw&amp;synd=open&amp;w=320&amp;h=390&amp;title=&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script></div>
+		</aside>                            </div>
+                        </div>
+                            </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+
+<!-- Instagram -->
+
+
+
+<!-- Footer -->
+
+
+<!-- Sub Footer -->
+    <div class="td-sub-footer-container">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span7 td-sub-footer-menu">
+                                        </div>
+
+                <div class="td-pb-span5 td-sub-footer-copy">
+                    &copy; Last Word On Sports INC, 2011                </div>
+            </div>
+        </div>
+    </div>
+</div><!--close td-outer-wrap-->
+
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2016
+        Version: 7.3 (rara)
+        Deploy mode: deploy
+        
+        uid: 58ae921b17270
+    -->
+
+    <script type='text/javascript' src='http://lastwordonprofootball.com/wp-content/plugins/akismet/_inc/form.js?ver=3.2'></script>
+<script type='text/javascript' src='http://lastwordonprofootball.com/wp-content/themes/Newspaper/js/tagdiv_theme.js?ver=7.3'></script>
+<script type='text/javascript' src='http://lastwordonprofootball.com/wp-includes/js/comment-reply.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://lastwordonprofootball.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'http://lastwordonprofootball.com/wp-content/themes/Newspaper/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'http://lastwordonprofootball.com/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+
+</body>
+</html>

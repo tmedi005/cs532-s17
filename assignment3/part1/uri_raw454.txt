@@ -1,0 +1,681 @@
+
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><title>Dont'a Hightower | Fantasy Stats & News | FantasyData.com</title><meta name="description" content="Dont&#39;a Hightower 2017 stats, as well as career NFL player stats, news, and profile, including college, height, weight, age, year drafted, injury status, and more." /><link rel="canonical" href="https://fantasydata.com/nfl-stats/player-details.aspx?playerid=13748-dont&#39;a-hightower-lb-new-england-patriots" /><meta name="og:locale" content="en_US" /><meta name="og:type" content="website" /><meta name="og:site_name" content="FantasyData.com" /><meta name="og:title" content="Real Time Sports Coverage | FantasyData" /><meta name="og:description" content="FantasyData.com provides real time sports data API covering NFL, MLB, NBA and NHL." /><meta name="og:url" content="https://fantasydata.com/nfl-stats/player-details.aspx?playerid={playerid}-{playername}-{position}-{teamname}" /><meta name="og:image" content="https://fantasydata.com/images/fantasy-data-logo-square-big-dark-blue.png" /><meta name="verify-v1" content="Ov22X2aXuurLzpgBRQUviPED0rxryoPh9Z74ewkUL6g=" /><meta name="image" content="https://fantasydata.com/images/fantasy-data-logo-small-dark-blue.png" /><link href="/css/lightbox.css" rel="stylesheet" type="text/css" /><link href="/css/style.css" rel="stylesheet" type="text/css" /><link href="/css/widget.css" rel="stylesheet" type="text/css" />
+
+    
+    <script src='/js/jquery-1.4.4.min.js' type='text/javascript'></script>
+    <script src='/js/prefixfree.min.js' type='text/javascript'></script>
+    <script src='/js/jquery.cycle.all.min.js' type='text/javascript'></script>
+    <script src='/js/jquery.lightbox_me.js' type='text/javascript'></script>
+    <script src='/js/nfldata.js' type='text/javascript'></script>
+    <script src='/js/script.js' type='text/javascript'></script>
+
+    
+    
+    
+    
+
+    <script type="text/javascript">var switchTo5x = true;</script>
+    <script type="text/javascript" src="/js/sharethis/buttons.js"></script>
+    <script type="text/javascript">stLight.options({ publisher: "a6dd1b65-5dee-404d-8e32-c9c105d396cb" });</script>
+
+    <script type="text/javascript">
+
+        $(function () {
+
+            $('.tab-wrapper a').click(function (event) {
+                $('.tab-wrapper a').removeClass('selected');
+                $(this).addClass('selected');
+                $('.statsGridWrapper').hide();
+                $('#' + $(this).attr("ID") + 'Panel').show();
+            });
+
+            $('#GameLogs').click();
+        })
+
+    </script>
+
+
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-43845809-1', 'fantasydata.com');
+        ga('send', 'pageview');
+    </script>
+
+</head>
+
+<body>
+
+    <form method="post" action="./player-details.aspx?playerid=13748-donta-hightower-new-england-patriots" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="RC0txi0E+4ABT49llCXh1WYJtox49aTl54mOnJHd2YJ6N4B7sJTTOqjwqLpE/XJuD6WgzoFm9HzI0VJYIQSdKRrCmQHIT6OHtX8urtWqI4QUz/dPxfpohSZ+Fw2fhCri3Op8DU/+YAMZpDcvrA/Bc0IihpVnFQfDTJMh433JHQEmSGzh7SJUfCckdTfFRkEaAnTa9P+bvm9ax0SKICB2abbrtrGYDV8loB2miTBudlHGLIrZ+h4C2HJxUOFLaSjyLyvHKOHIKAZowceRFwUgADP4NbURL8BAhDS0CWP9FWkOiXyy9PTjBtDQYUEHxnQ2J8wtrRFMlcNiMIWReDFxwStRfNS0hF+Da6qhuhgBu1ukcA49pSZFMGjSdTeyvoIudmlyon3AstRqsnav99yZN1cqmnRbrqwAteQTwsXsY6VYoZ9Ik2Uun0Q1qMZuOYBn+VoEnOILp/EtDczuow79c0QN+w8yhdnwWcW2hIR+J37QmR3u/+BJtT2mC0GdWcfzfHZYdDpdXC0TUT1L6EaKbyVHX4FV+c7Qylm9OzfG3gHhaGlwRHWGArwMijJjkxoZyOqi1NTqkO0kN/77d9qZK0/SDMOQZb4b+vAcbLFvzJ9g98+Ro4/cDRDQtK022u+OgnK5Oq7TY5jTDG8miNa1XkAYFteX/leKQXiERJWC1QSNopOocvw75DqldIEp5HA6J2Omni9fKReLPhsMPjqKKBgoLR36f58nujOByFXdX+dLj+ldz7CF+Yoea+fdhp99pnFmGa4QS/S0hm9aqvZCqg1ij1QMcz7MYLQFcTY4nLHF+tcqpNh/eUOshS/DkA9h18ITkZKq5uY+nmgFPylLnreQIgnk4Ew6e1PJaI3WEX5vQvPJD/3A8B5Ahw9UrLYMgs6eSYq9TwUCUPo2kzkNh6uHDN5yUUUJcP3fh2KJwFb7mVftqPor/UNDORUUtUtS9DfMom0ObzGGrYbe78UJd/k/1ouy5YEABdVY+lfcWuts/d28JZWV8nHm12OXwPdqkAB0kRXJnI9WlTs/aP6v61Me6mx7kLjs9dZ1x75wnneVkrvKzo9wip3rsvKP1zccmCi10tk5rbcUoxcEmmdmxOTkpnZcQcCUGzpY4/Rbc5bxwG6h2l5q4HOQmil8KfNaft4A4mUV0QGYnYNAzRfGFr1d/JVYY/9IJ0rmqghVNmRvvoLk/EDqmD8PY/LwHMJF9cyNatVwxIvqlPZDvGu7wCoDeA0JYod7eI9ijoBRPXM5B4zlhSgZOusMkL6IH2Zx9cEc6Qj/8J4IRo56suO6iO8VrX6IL6ItNN1QvksQWOOvCMYr095L5o5FZuA+02PiUa9mGYRRpXrXBhFxp8eLIYDLA+UstBEdbGY0EAe3OlfIRNaIUk/2GDLfGdNHT4QghXNqqFR/iXQYJeDvNTyNhWpSiwvWt/VIssTHVcQZzsNyZdZA50TmqV16DTRszV8UcFz2Rg4GRUYQdMEEFFHH+qPSxA6UxUE24fqCHaF8D7lx2WGGWrWasU9A2F3/o/GXbvCvbPo2fKu1Grsz+ULXj5GkeXsxkM16qYiYsiTW6yfq9kbFjtSJtfzO2xD9P4iZZxgSMBbD1SfHPkK1eBpp2BTrpYxJg+Ww16EDNv7/jq2IqtMR4uaTighUxpLljKTusuNQUn6dcThlZkNiytEy7I1tCc1g+HEbOKmZajQCIG9qym9aiLT4Kj0fxCUHCMV/Zry9P9KOq1uQEnpmxEg7E1oUMc8YTLDQNRfNeq+u+XtO/Vwb5+VVq3qTz9q+vJ+j+AZqEe8MMU2taz/+DSvJ+nX92Gk0cuEp4RYfsy9iZnjHC3g4sVG2+B4H/2DETrIVbv33qpYPYxrU2KnLY0YLHQDAK+TigOuobwk+fL1RznPqkwCP//5eazwL9/43GouOMohb6JrnhA3HhzFEmEVxkpFMutSrv6Y7xEEL5JzNHwmuGvNzdKZ3khWJ554Qrs2f64KN+EvyG6yK+mL6hnbn1E+Lh7utg9wRVaXDklv36IuHLhGgqfRFXjZ8w815kDXnRyGzGLrsfMU+is5vJZ9UcuVyT2rPg+phelCRkWFsrYegJpppG5UX5JXn1RQYceE1QKgSeFWEub1CvrfDdYYQJVO5xhHW1Zr5QtdOPyuEV+kML8A5ZmopnyBGOYUE4crZZ8lWvZs2lYXLbqzvUOrLf54I/XopkxcPa9fBvG6VFFKPTDW/AUZZ2ceBNlSHw95ZQ40VRDkZJgdUn/4qnYJjpLpV9Bf2RkvalCErXdd39mLlzVxoM5HGWuws7DL0iW65q7XutrCKpRNZzrV0aKSVH3+mWuG89yAE8xHSe7M4j/WodRRQOOB7x0bwjq9j3PdPk+7Ler47CKLfvk4gxmpHEixnTuQKzy87OIyR07eqEtEHus7odspO5wbhMTMQoSd6VkOYc0dkXQr9zk0C7jOTIKohSvClhmS3rwdAnAlQDh0FDkzjdpC0pzWorit1uJvfF8T208RGzcqWEUvdOqaukAiBqM/npImajaTZR1yaBiDBCoe9JSfarRbIDMvohTy8XZbhZmCEeUJ+jUUxS3NwVx+v9Cs+vt3E2+9X8VhC3xI2T4utCtXBvAh3VXKkJqDqvQTCVVn1f6BCsUtcVQ65He7mEGAoMZiF5osMPRy4WRay3P/aWhlGt7Mzu+tZcrQS8zUF0gfb5hDgGd0dFMhzqNb2KAa5tsuSOAJVO5QTW+iKLOMrXMgKpTMZIs0//q4Bs8CJA1d423ClXI/OhvDlvxMZkcNoFDSYN94GOW4LrMAvce/4A2kuQxwmNnhy/jaQCb470rC3NfteoPBVYL+xf9teMO4CokdyyUPFJduyfXXOqCC8GA3OLDei+OHtZjgl4zLwav+HuCp5/loSWMJI+qhSH24PwtbrsJPhxZOujAymzT7zlOhw5M0pN2iWQiBsvHM15gn+9wIzA4vV2+VpxD5UEBq8eE5sVya56EGY2vcnclxd5Gv+UklyXpfeQvQgQwG2e7G/tVDtUcG37O+iveRLwXdIJAuh48JH2nzCCm+rQoXk0wNxCBynwUNcQ+rmDWbtt4lclA5XU5hZbGWAUCL32/ijcwR6oy5pcky9IL5J6in4yNQo3qacymoTbOZh8TBX6B+pMpW6NBHzICijpQFehNoyQxWmhkTwMYmpwq/f7rK7ZNwA/4KurpMQBYcD6QEjh+gGZvCpAc37GtRdT43aqZsgh48LrvIq3QX7RZdidJ1/70h7Is2PfNdkkheEBHuEGhhoo5EUP9FROiX8pKWNbCfseffQ35Pq+d6S6LhiU8ssgfAfWiHLwGSU4cNUFlmT9w3iCHQPtsNbDw+zEozbaZkqjHWvcgJddN46HNPK4vK1CJcz0KaFU1wMixKPoa7i7iYaq1tXeXrPDSx3q+3T+p92v49Xk5LBc6cEccn4YZi++IeCBkv9uN9pRMbHigY5fu1DK4chCwONC4njPayjZEyI674CX6iYBxqViyISsoP47xJ7qZKxFuuvo9IZreFuJH1fuvdMg54IY5nWljCppQYD4B3v9cGTAVpOCLKODhRh6jcCsC/vNrwHKv/kxAC/D1+Zvkex1v6R7Jkx4wkZD/O0LlsZYJHSmW/KUAvDWInE3qyxLEDsWNniSkmdv/OM/XkDBe5PoSmfGB9uWeuJuPH3sAOuvXChOUmXOsmqPneUx6Iuiu6yZHdZI1rMAnCD/arp+LHci5TF9RKGNMwXpH/OXZSmeF5ADx2L2CTSWCDkXaUrnvf6Klklfd5MdhECDrhUju4sM+adafvx6BQLpAEV9N2P9c5B4x+qJbHk8XN6glEzWJBWruBDtZbytJfVljSv40ZLiG4Nsw+cFdHmtndoshAYO8gsp7yIfO1Zle9BKkW+bapQy9kjj4njCYvU3OTFIs6lrYNEBc94vQxVnXTxocvYOEtiqwj/sKdDBy9vN45v3udgZWP8PkHviTEB2/u31x9WWZEQwOOLpceD9NjNMisKinPOBViOLyZ1cTfjlsHoYvA45Nqe/tMXHnMAiuK3iGsXXbUbD+xtkU7szYMeH7HTtLqyW8nM0Ujx4fVcPX4qzkaV38sYnR8IAg0Y3kV3wQMpxs62mklgN5dXVl1YAjxoJfbIB58PG/Vx6ql7i5bB/sL1ftBmDDyZLVLkZlDYSOvCk6P6cqEmlFjbC6fna1+XJwrGWTOHCKtHCjUjqh1o7Ug09y85gRn2UoK+w/u728Cta8hvVtdlEwJvXq26hLE4T7EZBaazIS3kY2l/VJ4FiLnlA60wOuHF3RnntR+di0zGR20wLxjbw6yC/ndyzwv46Wc+Jm7DkcW37pelHHbq9eYfn/m+9aFATAaynOZnO/vAZs6llDXXT81EEf68WhHFWiHuH7LD93IcoLoQm1YaXpxORSf8hLOkd0DlTTbp3TdexMTMz6V25CMO6tnSuehnYnE/gVS0dNch4T0p6zueNUWJW4pNRQmHoG+TexEtirXGyNmUQ3Isr+seBcIMuv1sB7OXzECpdt09nJFg/3DyRQS+zhoyZmzj1z+Z+FHVU3fTgw9gJdEdBRJLoB34pg12dy+1TS+I3wqChKKe8NIhNDHxhPzBa840CSdDrz6rynLEaS1xNuRXQcl5Si9qpMnqaEeIyQrDczuZazArOJyVJalnAwVtdgs79akWfHhrJlucOeYTfp7zK4zGFeLCCypc4XRZ32zmn9MktjDXv2Nz8VGrm+76YpWofK+HstGHUzli89xKiCGAMnVSKCdlgUwrG4mSTBCj0NsLQu8KxE+mp1cDx1ldzWZq6/9SXMeq+QVgDGH5BZOm0oh1Mi41KoeEW4rNpQgWNKv+SgCsYTK94DlXvXbp47hHpgGykd5c7+n06J3BczV+SNAQwh2eXecFw92X85yBpTrfRsXQr9WgzJn/w0H7AyozG1N1VlXuzBhKIT1hpfkaq5Eh3gmjS/bBxguLllLcCpRv3AcPUO3xwSdRIp3TMzC8wI60yMXJF9Uzeryh5QZLsxD8KS4X/zTj7F1uUQoONqTiGkeXh5ejSKXAYti/3Uy/gUySiBuOmmWLNyuQRWH1dBX5Mu03VU9MFuyTx7AUmaIMiGHV19BfjroUIA0/VVKSpSTcvFQenMevRWhXjWeBg/FySGvDFym7ljgpRs15+EcBtatyM6AvbA3tYg7XUWUGGG3lX/mPA5/l6DjGrMtAB1DRJGpuUajTLRnNx4f6Wn9ap0cQ4YE3NOFxCpnCb7WFpwrgNoeJOXTkORfHQlimM1wrXfvZlBbEOUnGpqOPMHRM9YrWw26e0sReatMUr0URcdNtxq3yWMIJIDR55fW3ZZ2TO5YVx/j64dbF7uwYUx6iNFufieZZcWYZ0vdoks9R5EaE5WxHeffEVD8gwY3YWWX6V37jdI4ooVDhaQt1AX7YusLrgtBmJNKNtdDjxY4tSW6YtFOS/d9X74FzBk7e/vfZF4Zu9B8WCERElbLPLo6Uik7msAVoxRUUUEDNgrp0rrJxBE1Tg7M7B28OGTZOYhXV55lppJ0HsdGx8yIkcr0w0MnfsTXtW0iO6LQ335GF5ZA0441Z+wLbQoDHp8h3hOsrl4WcG0ebOOO9OIoJl9vUIs/ZFl4Ogo+G8mA7fWooYq+eDbNlUm+KmB/+36njJI1mF+dpkt+a6L261H/9b0NAgWrt084yhgubJCqpa0dXaubxkgmQ0ztWS76+BDS7iytAojQQtEBWC1Bg6kjD3yfLl68FsHBjXOa2ACcqGB/J15f8R/35pGdLdddMxV4s4Nqe8UG5uPaqRQ1CjHsEzuG2xyO8PRe5y7X2zAtRZeJGrGmrsRgingmD7iYxYTBubUGSL+WLpo55j4dwfGchDmhAyuuwxV3ge91wAa80o9HgrxgWtBS/+tHwpQfQrzFyRTw3XNqf2XZHWhdn35m42BiyzzZfnTrj/nQernfcno6lKuIaC4wMOdqIC7idg0DQ4Kp7q4fdSf9vJ0QX0hVZaOozouIISfIloggTcO1DOMF1qxVyKL1kcA7hATJOi9+VmLM3HYaHmLpHOKXmoG88R3PsQBpUMrullrysAoZBJZwdXDyzcuAMIIuCo244MBEI8xKE/VWqhHpJPQURRQX4IHLuXMB3wFvRuCa9vlj4er1x5ZGnR0zrNvnppU12FukI/zbJDGoZLjCdYDCDAp436WWTVi2U56GdRvBwvN4btLX+HF5sQgiapyBdCtHCStQl0LyHBpVAIvq/iYD+q0rK0BuwU/i/nA94nkNZ+g5TE8LW1GbfO0kr3GzpHG27UQ2CyGKdwP7O7Hrq7WnOdiGBvy9J5cUHijPuCvwY+kFSWOGYPVJkg1/P3ns6sLH+5MXqoCByDxfenNsMoP7c8yLw5BDvOdy2G//4DSZ8HksXr+/vfFRs6doeGqYa+zuQXn1gHZAF6bRccefaKj8C7Zj664bRamDrRQ7i4F3JRAiD/IP6poYgXTczkZoLPElC2mm+Y58Sac2fEwofDFER0hfjraoMNWtaWjHwn47+H2EdqpgyEFIANwbS3rkoxCTo9MTRGtORRG4yJV8DJd0RthFXKsBkVfV12b+ShYp7XQl7DD4vP/l5rvlTv7kw9NC7iRXaXziwLgMc4u+/2l3zLMCYrcgtl9zAe7BNfHkBXO/lfzyqb84mRmGuUp7rtB0DM+/aMp9IOlaU++AV5718soknH0GHVMopoLLuSMW3nzI1KAlLPxR6MiZ6sq3mYD0hqpm1nQn6ySFGRF+GWrU8YYtDgHqEL5p4ICQdymry3fdSCmn9lwEabD0Oo2wuZLCU7ndJ5jGDOleNo71bZllBiHxmyGRmgkDeb9jQ7mC3nvHxGeJEc9ng/49mfWKkicaBgTsvQnbf+utZl3JnKeJlHBQt/uETjzEAvOEvmlyUrW4z/rf+BVTCKxzlJo/qWPdQNPrjhLHiRu0hloJ8I5xnOLKND/Cd/ErzGgQuNbUxNkivqOJQ/RGPf8EHSm4lxi0DXH+0IEEyK94C4rnkC3XbRLvMefd0FaLFlEPaIc545vS6Zme9G0veQFpRt87Yi+Ie95ZHxwen2UvUmzsFD94VsLupFGVMoqfKPlB+XCjENT0u2X3t12Z3EaHU2wYShYLrlSf9jo/RdPKKSoF3eDn9nqrcEPvAhMqTSpKX/ooWE2Fsam6EoPHhcMvOWKuiC6VbRtB7IDAfkGrY5iCY1r59n5zr56PK1824seG0axU3Y2sOa+5APEXrPk6/sfUymT34BAW5qCLpaGx5mDpjPFzpdnGf9E15WjjBdNoAFVaTh+kq6N8SMbZ3g7vdsUPdTboQPIMek4LMCbE2GbQUEBopQx4EFdM4UzWSoVE1NE0tgUh0sozLA+Y4CG4aixYuV846mhFRrRp+ICUO+a9Hxv/O47alvWaZZ9TlxjY20hh3JPLrcAD7L9IbnCAb0Ak5VIejZLhq0RdjYnUqIafQPnlgZIz8QA+Gq6oqIKb3xo1o4AXTbQzxtuGL7A60TyaflocDVcihrhIGdKAxLJnrlPaoa8KsThI0T+TRBO/6egNVOH4HaMT1Tq+hUiyNXoq4HiGnVtbluogP1j4zZ7pxiBon3eBHPSp1hxupfNxbWsdUjYkSc8L2CJ3GWWtzw3Hv4f96l1b8WEZJ5dVMpcXmm+bVrTAoqHmtIfblvoyEJPmWOYjAPM7drri7dyUG1fj9SrXbfdB/lmH2ZOawc1uNZHPndTONKO+T4WLg0KBPt+NM/qf1SH9/tiqQcVuT32cItlWorQHtpsymlCT+j4D/vhk3KOsllXk3UGDdzOjoyGM8TLhYM/Dqw+KCo+H7Gx5xIR2ZDkFZEvJMM7jh56tkH0a21T9a7USeu19ip2LWc9Dz4ShwTDJfqBAeNhuXkjqRSuf1WIdiWtarereLgg2cC61dsDT2bEoG/82TwpLpK+lF2TvK1xQvnd6W7zIF3vJ2FI//i9otHZ4LXbzbrxq7CeQGCvmcQ2wSpoMaySaXyEqI6LWbU2+ah/oijqI291WxN2Vc/tAVdSoS8tPjY+gfmoJ1PPq6VqdF/NkH8/EIYvdAOFMD/5itekW+0X9n5Mz0BvsKglmcpSQh2i/dRb+f2pc8oafBjnCD/JTMTkoA6CKJQY0agAptsiqrXb0r2kxguD3nJjpEXETZmtVEx9UOG9Y2329I7sK+000g5Z/Qe40AaaJ3s/bYxuTp/0NTcd6JYUl08KpSiNPxQSUjGnsYiwe2rkFm+e6zu9v9csiHb6eCFP/QsPl59bRRQq/2R4FIa26DdgOTfHZK1H8TPt2q/wxmj3np41rRuCtdKGf0oe43R7oJfsY3mlbYAhX4/SLRgCI5u/j74CjM52T4YcYqGyy+8ErnQt70vCCbCejfkh8K+DJJkNY8uuBO+riuZCcPgbimlawkglIuh/h7JmQaZeJE/gF7wMTIOECGeHGrvKOU0zUEElphz5haLdQ0/jMIQr+IKU9DkO/PiKwEI4IQQ0WBIIdtemUzps0LIPtPtjHENZssGqvk+5Y4eyFQCy6l5jXRsqQJjePFaykK2nq7yp6DGSgS4n84cp+CHWD77yKFmZ4OiJVAvfePZwLBE2egfZs2NRMPxfIK7fMuv1kNYb/DKwhGaRFbo05/uCccjnpnZwuV6Fh5eYEfwl62eZsuC5ZqorPtC/TszVaU0YyigU/vEQEaLuO7zjRP848k3jqpMgskVuYErnIRrV6yszQXlWtCf6PKvWZn2Oyni6waXliVoGglH4219+aOG6xSVtugpbaB81c6A+RUQhjsJoYVVbEYuXRn+7kpfvjttbpR7oFqXZ/oMebF1IVvBxdpjiWGllbLzgnv9z5tw7qCL4ERSi9/0dwdVx3VyoMV+Oe/ZqmvTrgwOY49LyGLpbhy/7QTodzZnECGG4Rv+rRfCvDmPRv4pxLZUYPE/Grk3JY3tGLHnyB3wAiu+nankWUHEJSW3KkWRPH0d43xHX6Wrm/Q3hIwg7mJ3nhcTUZm0RZu0Z+msAFSykGrEeJJNLGrQDj3X9k1uIsukbIx3FDpNxjKI++PSZNDjU2fcxaaEosmPWqBFFe3v4FXFTl9+ob27X6S6yf8lvrGv74yhwXE54FZQw1Bjfi4ii0N/B0w4UlVuMi/9kBTbTdiNB9ldSzXu74oFO4eu20B2Ymod9EeZcgDUA0jw6Fnb9l2h9VxalBtiRrMgeDvmRX/Nh8A0nQy/HvjsTAVAjp8d+/yCAokHzsR5KHFx5vFp1jJaexUqXanvv++ZulEY3w0hUic3g2BdgXnuRIujoh2YJlCLBIzW35nuX53Gc+0Ll4y18IbPKmxIyjVV3+UXbNgUdQ7ozqSNkesCcr+RR1bD0gUN4GMMyRmT1HoqEosy+AiA6Qz52ZHCLaIm1G35MlFX80kgu48KnI2DkS0Yzs+jUl579Pjs7Rd1ej7hAgUc+Iu0K5X9nOULG/7/hXv8ksGZZ2UtszIKAvMZ8yTw12feCNXMBcwvl63PQ/H20S+RnIbz643sbJU3Ot6DwaXC/a/RR7kAefp6ZAyYD/F2q5PuCO4O191wGyoStelSAVVtBU/toyApnZa/sz0+wSJNak7T1pa9TP2WyY2cSOvU+ILxw94H2q4ErmuJroED0UatA==" />
+</div>
+
+
+        
+
+        <div id="header" class="">
+
+            <div id="logo-bar">
+
+                
+                
+                <a id="logo" href="/"><img src="/images/fantasy-data-logo-270-dark-gray.png" alt="FantasyData.com Logo" /></a>
+
+                <div class="login-panel">
+
+                    <div style="float: left; padding: 3px 30px 0 0px; text-align: center; font-weight: bold; vertical-align: top; color: #2a6695; font-size: 14px;">
+                        
+                        <a href="tel:16102331333">610.233.1333</a>
+                    </div>
+
+                    
+                        <a class="button blue" href="/user/login.aspx">Login</a>
+                        &nbsp;&nbsp;&nbsp;
+                        <a id="free-trial-button" class="button red" href="javascript:">Free Trial</a>
+                        &nbsp;
+                    
+
+                    <ul class="login-dropdown">
+                        <li>
+                            <a href="/cart/view-cart.aspx?p=1002">Personal</a>
+                        </li>
+                        <li>
+                            <a href="/trial">Business</a>
+                        </li>
+                    </ul>
+
+                </div>
+
+                <div id="navigation-wrapper">
+
+                    <ul id="main-navigation">
+                        <li class="main-nav-item">
+                            <a href="/nfl-stats/nfl-fantasy-football-stats.aspx" class="main-nav-link selected">
+                                NFL Stats
+                            </a>
+                            <div class="main-nav-drop-down">
+
+                                <ul class="mega-column first">
+                                    <li class="mega-header">Fantasy Stats</li>
+                                    <li><a href="/nfl-stats/nfl-fantasy-football-stats.aspx">Fantasy Stats</a></li>
+                                    <li><a href="/nfl-stats/fantasy-football-weekly-projections.aspx">Projected Stats</a></li>
+                                    <li><a href="/nfl-stats/nfl-fantasy-football-snap-count-and-snaps-played.aspx">Snap Counts</a></li>
+                                    <li><a href="/nfl-stats/daily-fantasy-football-salary-and-projection-tool.aspx">DFS Salaries</a></li>
+                                    <li><a href="/nfl-stats/nfl-injury-report.aspx">Injury Report</a></li>
+                                    <li><a href="/nfl-stats/nfl-fantasy-football-stats.aspx?screen=idp">IDP Stats</a></li>
+                                    <li><a href="/nfl-stats/nfl-fantasy-football-rankings-adp.aspx">ADP Rankings</a></li>
+                                    <li><a href="/nfl-stats/nfl-fantasy-football-points-allowed-defense-by-position.aspx">Points Allowed</a></li>
+                                    <li><a href="/resources/fantasy-scoring-system.aspx">Scoring System</a></li>
+                                </ul>
+
+                                <ul class="mega-column last">
+                                    <li class="mega-header">Team Stats</li>
+                                    <li><a href="/nfl-stats/scores.aspx">Scores</a></li>
+                                    <li><a href="/nfl-stats/nfl-point-spreads-and-odds.aspx">Odds</a></li>
+                                    <li><a href="/nfl-stats/nfl-team-stats.aspx">Team Stats</a></li>
+                                    <li><a href="/nfl-stats/nfl-team-rankings.aspx">Team Rankings</a></li>
+                                    <li><a href="/nfl-stats/nfl-depth-charts.aspx">Depth Charts</a></li>
+                                    <li><a href="/nfl-stats/standings.aspx">Standings</a></li>
+                                </ul>
+
+                            </div>
+                        </li>
+                        <li class="main-nav-item">
+                            <a href="/products/real-time-sports-data-api.aspx" class="main-nav-link ">
+                                Products
+                            </a>
+                            <div class="main-nav-drop-down">
+                                <ul>
+                                    <li><a href="/products/real-time-sports-data-api.aspx">Data Feeds</a></li>
+                                    <li><a href="/products/historical-sports-data.aspx">Historical Data</a></li>
+                                    <li><a href="/products/widgets.aspx">Hosted Products</a></li>
+                                    <li><a href="/products/fantasy-news-content-feed-api.aspx">News Feeds</a></li>
+                                    <li><a href="/products/turnkey-white-label-fantasy-games.aspx">Custom Development</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="main-nav-item">
+                            <a href="/pricing" class="main-nav-link ">
+                                Pricing
+                            </a>
+                            <div class="main-nav-drop-down">
+                                <ul class="mega-column first">
+                                    
+                                    <li><a href="/pricing/nfl-data-api.aspx">NFL</a></li>
+                                    <li><a href="/pricing/mlb-data-api.aspx">MLB</a></li>
+                                    <li><a href="/pricing/nba-data-api.aspx">NBA</a></li>
+                                    <li><a href="/pricing/nhl-data-api.aspx">NHL</a></li>
+                                    <li><a href="/pricing/ncaa-college-football-data-api.aspx">NCAA Football</a></li>
+                                    <li><a href="/pricing/ncaa-college-basketball-data-api.aspx">NCAA Basketball</a></li>
+                                </ul>
+                                <ul class="mega-column last">
+                                    
+                                    <li><a href="/pricing/real-time-soccer-data-api.aspx">Soccer</a></li>
+                                    <li><a href="/pricing/real-time-esports-data-api.aspx">eSports</a></li>
+                                    <li><a href="/pricing/golf-data-api.aspx">Golf</a></li>
+                                    <li><a href="/pricing/nascar-data-api.aspx">NASCAR</a></li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li class="main-nav-item">
+                            <a href="/resources" class="main-nav-link ">
+                                Resources
+                            </a>
+                            <div class="main-nav-drop-down">
+                                <ul>
+                                <li><a href="/resources/getting-started.aspx">Getting Started</a></li>
+                                <li><a href="https://developer.fantasydata.com/" target="_blank">Developer Portal</a></li>
+                                <li><a href="/resources/implementation-guide.aspx">Implementation Guide</a></li>
+                                <li><a href="/resources/data-dictionary.aspx">Data Dictionary</a></li>
+                                <li><a href="/resources/sports-data-api-open-source-frameworks.aspx">Frameworks</a></li>
+                                <li><a href="/resources/content-update-frequency.aspx">Content Lifecycle</a></li>
+                                <li><a href="/resources/fantasy-scoring-system.aspx">Fantasy Scoring</a></li>
+                                <li><a href="/resources/timeframes.aspx">Timeframes</a></li>
+                                
+                                <li><a href="/resources/faq.aspx">FAQ</a></li>
+                                </ul>
+                            </div>
+                        </li>
+
+
+                        <li class="main-nav-item">
+                            <a id="blog-main-nav" data-dropdown="blog-sub-nav" href="https://fantasydata.com/contact-us" class="main-nav-link">
+                                Contact
+                            </a>
+                            
+                        </li>
+
+                        
+                        
+
+
+                    </ul>
+
+                </div>
+
+
+
+
+
+            </div>
+
+        </div>
+
+        <div style="clear:both;"></div>
+
+
+	    <div id="content-wrapper" class="blue-bg 
+                                         message-panel">
+
+
+            
+
+            <div id="ctl00_ad1_bannerAdWrapper" class="banner-wrapper">
+    
+    
+    
+
+    
+    
+
+    
+
+    
+    <a href="javascript://" id="ctl00_ad1_affiliate0" class="bannerLink premiumMembershipLightboxButton" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Ads&#39;, &#39;Click&#39;, &#39;Premium Membership Banner&#39;])">
+    
+    
+
+        <span id="ctl00_ad1_bannerText" class="bannerText">Try our Premium Membership FREE for 7 days</span>
+        <span id="ctl00_ad1_bannerCta" class="bannerCta">Get Started</span>
+
+    </a>
+
+</div>
+
+
+            
+
+
+		    <div class="content-shadow-bg">
+
+                
+                
+
+<div class="center-block white">
+
+    <div class="player-profile" style="padding: 0px 20px 10px 20px;">
+
+		<div class="player-heading" style="padding-left: 10px;">
+
+			<h1>Dont'a Hightower</h1>
+
+			<p class="player-meta">
+				
+                #54 | New England Patriots  | ILB
+                <br />
+
+                
+
+                
+			</p>
+
+		</div>
+
+		<div class="player-detail">
+
+            
+			<div class="player-info">
+
+				<div class="title">
+					<h3>Player Profile</h3>
+				</div>
+
+				<div class="clearfix">
+					<div class="player-picture">
+						<img src="http://static.fantasydata.com/headshots/nfl/low-res/13748.png" alt="Dont'a Hightower" />
+                        
+                        
+					</div>
+					<div class="player-info-table">
+						<ul>
+                            <li class=''><span>Status</span><span class='bold green wide'>Healthy</span></li><li class='title'><span>Bio</span><span class='wide'></span></li><li class=''><span>Height</span><span class='  wide'>6'2"</span></li><li class=''><span>Weight</span><span class='  wide'>262</span></li><li class=''><span>Age</span><span class='  wide'>26</span></li><li class=''><span>Date of Birth</span><span class='  wide'>March 12, 1990</span></li><li class=''><span>College</span><span class='  wide'>Alabama</span></li><li class=''><span>Experience</span><span class='  wide'>5th Season</span></li><li class='title'><span>Draft</span><span class='wide'></span></li><li class=''><span>Year</span><span class='  wide'>2012</span></li><li class=''><span>Round</span><span class='  wide'>1</span></li><li class=''><span>Pick</span><span class='  wide'>25</span></li><li class=''><span>Team</span><span class='  wide'>NE</span></li>
+							
+						</ul>
+					</div>
+				</div>
+
+                <div style="clear: both;">&nbsp;</div>
+                <div style="clear: both;">&nbsp;</div>
+                <div style="clear: both;">&nbsp;</div>
+
+			</div>
+            
+
+			<div class="player-news">
+
+				<div class="title">
+					<h3>Latest News</h3>
+				</div>
+				<ul>
+                
+				    <li>
+					    <h4>Pats could transition tag LB Dont'a Hightower</h4>
+					    <p>NFL Network's Ian Rapoport suggests the Patriots could transition tag free agent ILB Dont'a Hightower.</p>
+					    <div class="meta">9 hours ago | <a target="_blank" href="http://www.rotoworld.com/sports/nfl/football">NBCSports.com</a></div>
+				    </li>
+                    
+				</ul>
+				
+
+				<div class="title">
+					<h3>Links</h3>
+				</div>
+                <ul>
+                    
+                        <li>
+                            <a href="http://football.razzball.com/player/862950/Dont'a+Hightower/" target="_blank">
+                                Dont'a Hightower at Razzball.com
+                            </a>
+                        </li>
+                    
+                </ul>
+
+			</div>
+		</div>
+
+
+		<div id="ctl00_Body_playerStatsDiv" class="player-stats">
+
+            <div class="tab-wrapper clearfix" style="background-color: #ffffff; padding-top: 0;">
+                <a id="GameLogs" href="javascript:;">Game Logs</a>
+                <a id="CareerStats" href="javascript:;">Career Stats</a>
+            </div>
+
+            <div class="tab-content">
+
+                <div id="GameLogsPanel" class="statsGridWrapper borders">
+	
+                    <div class="filter-wrapper" style="padding: 25px 0px 25px 15px">
+                        <select name="ctl00$Body$SeasonDropDownList" id="ctl00_Body_SeasonDropDownList">
+		<option selected="selected" value="2016">2016</option>
+		<option value="2015">2015</option>
+		<option value="2014">2014</option>
+		<option value="2013">2013</option>
+		<option value="2012">2012</option>
+
+	</select>
+                    </div>
+                    <div style="clear: both;"></div>
+                    <div>
+		<table class="table top-border" cellspacing="0" border="0" rules="0" id="GameLogGrid" style="border-collapse:collapse;">
+			<tr style="color:White;">
+				<th scope="col">Week</th><th scope="col">Opp</th><th scope="col">Solo</th><th scope="col">Asst</th><th scope="col">TFL</th><th scope="col">Sck</th><th scope="col">Sck Yds</th><th scope="col">QB Hits</th><th scope="col">Pass Def</th><th scope="col">Int</th><th scope="col">FF</th><th scope="col">Fum Rec</th><th scope="col">TD</th><th scope="col">Fantasy Points</th>
+			</tr><tr>
+				<td>1</td><td>ARI</td><td>1.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>2.00</td>
+			</tr><tr style="background-color:#E5E5E5;">
+				<td>2</td><td>MIA</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>0.00</td>
+			</tr><tr>
+				<td>3</td><td>HOU</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>0.00</td>
+			</tr><tr style="background-color:#E5E5E5;">
+				<td>4</td><td>BUF</td><td>3.00</td><td>5.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>7.50</td>
+			</tr><tr>
+				<td>5</td><td>CLE</td><td>0.00</td><td>1.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>0.50</td>
+			</tr><tr style="background-color:#E5E5E5;">
+				<td>6</td><td>CIN</td><td>3.00</td><td>10.00</td><td>1.00</td><td>1.50</td><td>12.50</td><td>2.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>17.25</td>
+			</tr><tr>
+				<td>7</td><td>PIT</td><td>3.00</td><td>1.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>3.50</td>
+			</tr><tr style="background-color:#E5E5E5;">
+				<td>8</td><td>BUF</td><td>4.00</td><td>2.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>6.00</td>
+			</tr><tr>
+				<td>10</td><td>SEA</td><td>6.00</td><td>4.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>9.00</td>
+			</tr><tr style="background-color:#E5E5E5;">
+				<td>11</td><td>SF</td><td>5.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>0.00</td><td>1.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>0.00</td><td>0</td><td>12.50</td>
+			</tr><tr>
+				<td>12</td><td>NYJ</td><td>2.00</td><td>1.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>2.50</td>
+			</tr><tr style="background-color:#E5E5E5;">
+				<td>13</td><td>LA</td><td>1.00</td><td>1.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>1.50</td>
+			</tr><tr>
+				<td>14</td><td>BAL</td><td>1.00</td><td>6.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>4.00</td>
+			</tr><tr style="background-color:#E5E5E5;">
+				<td>15</td><td>DEN</td><td>1.00</td><td>2.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>2.00</td>
+			</tr><tr>
+				<td>16</td><td>NYJ</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>0.00</td>
+			</tr><tr style="background-color:#E5E5E5;">
+				<td>17</td><td>MIA</td><td>1.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>2.00</td>
+			</tr>
+		</table>
+	</div>
+                
+</div>
+        
+                <div id="CareerStatsPanel" class="statsGridWrapper borders">
+	
+                    <p>&nbsp;</p>
+                        <div>
+		<table class="table top-border" cellspacing="0" border="0" rules="0" id="SeasonLogGrid" style="border-collapse:collapse;">
+			<tr style="color:White;">
+				<th scope="col">Season</th><th scope="col">Team</th><th scope="col">Gms</th><th scope="col">GS</th><th scope="col">Solo</th><th scope="col">Asst</th><th scope="col">TFL</th><th scope="col">Sck</th><th scope="col">Sck Yds</th><th scope="col">QB Hits</th><th scope="col">Pass Def</th><th scope="col">Int</th><th scope="col">FF</th><th scope="col">Fum Rec</th><th scope="col">TD</th><th scope="col">Fantasy Points</th>
+			</tr><tr>
+				<td>2016</td><td>NE</td><td>13</td><td>13</td><td>31.00</td><td>34.00</td><td>2.00</td><td>2.50</td><td>12.50</td><td>7.00</td><td>2.00</td><td>0.00</td><td>1.00</td><td>0.00</td><td>0</td><td>70.25</td>
+			</tr><tr style="background-color:#E5E5E5;">
+				<td>2015</td><td>NE</td><td>12</td><td>12</td><td>51.00</td><td>10.00</td><td>5.00</td><td>3.50</td><td>26.50</td><td>6.00</td><td>2.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>0</td><td>81.65</td>
+			</tr><tr>
+				<td>2014</td><td>NE</td><td>12</td><td>12</td><td>51.00</td><td>38.00</td><td>9.00</td><td>6.00</td><td>50.00</td><td>12.00</td><td>2.00</td><td>0.00</td><td>1.00</td><td>0.00</td><td>0</td><td>113.00</td>
+			</tr><tr style="background-color:#E5E5E5;">
+				<td>2013</td><td>NE</td><td>16</td><td>14</td><td>55.00</td><td>42.00</td><td>4.00</td><td>1.00</td><td>9.00</td><td>5.00</td><td>3.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0</td><td>90.90</td>
+			</tr><tr>
+				<td>2012</td><td>NE</td><td>14</td><td>13</td><td>43.00</td><td>17.00</td><td>10.00</td><td>4.00</td><td>21.00</td><td>9.00</td><td>3.00</td><td>0.00</td><td>0.00</td><td>2.00</td><td>1</td><td>95.60</td>
+			</tr>
+		</table>
+	</div>
+                
+</div>
+            </div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+
+            </div>
+        </div>
+
+        
+
+<div id="footer">
+	
+    <div class="center-block">
+        <div class="partners" style="">
+            
+            <a href="http://www.visa.com/" target="_blank"><img src="/images/partners/visa.png" alt="Visa" class="first" /></a>
+            <a href="http://www.mastercard.com/" target="_blank"><img src="/images/partners/mastercard.png" alt="Mastercard" /></a>
+            <a href="http://www.discover.com/" target="_blank"><img src="/images/partners/discover.png" alt="Discover" /></a>
+            <a href="http://www.americanexpress.com/" target="_blank"><img src="/images/partners/amex.png" alt="American Express" /></a>
+            <a href="http://www.rackspace.com/" target="_blank"><img src="/images/partners/rackspace.png" alt="Rackspace" /></a>
+            <a href="http://www.fsta.org/" target="_blank"><img src="/images/partners/fsta.png" alt="Fantasy Sports Trade Association" /></a>
+            
+        </div>
+		
+            <div class="sitemap">
+                <div class="section">
+                    <a href="/nfl-stats" class="header">NFL Stats</a><br />
+                    <a href="/nfl-stats/nfl-fantasy-football-rankings-adp.aspx">Fantasy Rankings</a><br />
+                    <a href="/nfl-stats/scores.aspx">NFL Scores</a><br />
+                    
+                    <a href="/nfl-stats/nfl-fantasy-football-stats.aspx?sn=0&w=0&s=&t=0&p=6&st=FantasyPoints&d=1&ls=">IDP Stats</a><br />
+                    <a href="/nfl-stats/nfl-team-stats.aspx">Team Stats</a><br />
+                    <a href="/nfl-stats/nfl-team-rankings.aspx">Team Rankings</a><br />
+                    <a href="/nfl-stats/standings.aspx">Standings</a><br />
+                    <a href="/resources/fantasy-scoring-system.aspx">Scoring System</a><br />
+                </div>
+                <div class="section">
+                    <a href="/" class="header">Products</a><br />
+                    <a href="/pricing">Pricing</a><br />
+                    <a href="/products/real-time-sports-data-api.aspx">Real Time Data</a><br />
+                    <a href="/products/postgame-sports-data-feeds.aspx">Post Game Data</a><br />
+                    <a href="/products/historical-sports-data.aspx">Historical Data</a><br />
+                </div>
+                <div class="section">
+                    <a class="header" href="/company/default.aspx">Company</a><br />
+                    <a href="/company/careers.aspx">Careers</a><br />
+                    <a href="/company/showcase.aspx">Showcase</a><br />
+                    <a href="/contact-us/">Contact Us</a><br />
+                    <a href="/terms-of-service.aspx">Terms of Service</a><br />
+                    <a href="/privacy-policy.aspx">Privacy Policy</a>
+                </div>
+                <div class="section">
+                    <a class="header">Resources</a><br />
+                    <a href="https://developer.fantasydata.com/" target="_blank">Developer Portal</a><br />
+                    <a href="/resources/data-dictionary.aspx">Data Dictionary</a><br />
+                    <a href="/resources/content-update-frequency.aspx">Content Lifecycle</a><br />
+                    <a href="/resources/timeframes.aspx">Timeframes</a><br />
+                    <a href="/resources/faq.aspx">FAQ</a><br />
+                </div>
+                <div class="section">
+                    <a class="header" href="/resources/">DFS Tools</a><br />
+                    <a href="/nfl-stats/daily-fantasy-football-salary-and-projection-tool.aspx">Salaries</a><br />
+                    <a href="/nfl-stats/fantasy-football-weekly-projections.aspx">Projected Stats</a><br />
+                    <a href="/nfl-stats/nfl-fantasy-football-snap-count-and-snaps-played.aspx">Snap Counts</a><br />
+                    
+                </div>
+                <div class="section"></div>
+            </div>
+            <div class="legal-holder">
+                &copy;2017 FantasyData LLC  |  All Rights Reserved
+                <br />
+                
+                by <a href="https://plus.google.com/+ScottGimpel?rel=author" target="_blank" 
+                               style="text-decoration:underline; color: inherit; font-size: inherit">Scott Gimpel</a>
+                <br /><br />
+                FantasyData.com is an unofficial and independent source of information not affiliated with the National Football League (NFL), the NFLPA or any other affiliates. For official statistics, please&nbsp;visit&nbsp;NFL.com.
+            </div>
+        
+    </div>
+</div>
+
+
+        
+        
+
+    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8F77247E" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="iaad4GW7b3oyyTcc7Wf3MBtDb/WOZiIHLBsRdg/8vWo7RXwy8bRR95WUnTgKaF01rJUgZpmlcATsd30AtsxBL/aZ5B/ch65jCe83F8GJY70YF2vX9du9IQ1KrT1tSHzgiXZZt7OnbEq0JzuUhDSY0egj5uUjGr4ddYVj9sBgGkeDrBGqCAAnVVMmISRKw8OBTV/b8N/P65/Ol6LRci+s+w==" />
+</div></form>
+    
+    
+
+        <div id="premiumMembershipLightbox" class="lightbox premiumMembershipLightbox" style="display: none;">
+            <div class="lightbox-content upgrade-now">
+                
+                <h2 class="h1">Upgrade Now</h2>
+                <p class="center">
+                    Upgrade to our <strong>Premium Membership</strong> for only <strong>$15/month</strong> and enjoy all these features.
+                </p>
+                <ul>
+                    <li>Export to Excel</li>
+                    <li>Access 300 hundred rows of stats at once</li>
+                    <li>Snap count data</li>
+                    <li>Red zone stats</li>
+                    
+                    <li>7 day free trial</li>
+                    <li>Cancel any time</li>
+                </ul>
+                <p class="center" style="padding-top: 35px;">
+                    <a href="/cart/view-cart.aspx?p=1002" id="upgradeToPremiumMembership" 
+                       class="button blue upgrade-now-button">Upgrade Now</a>
+                </p>
+            </div>
+        </div>
+
+        <div id="premiumPlusMembershipLightbox" class="lightbox premiumMembershipLightbox" style="display: none;">
+            <div class="lightbox-content upgrade-now">
+                
+                <h2 class="h1">Upgrade Now</h2>
+                <p class="center">
+                    Upgrade to our <strong>PremiumPlus Membership</strong> for only <strong>$59/month</strong> and enjoy all these features.
+                </p>
+                <ul>
+                    <li>Unlocks <strong>ALL</strong> rows</li>
+                    <li>Export complete reports to Excel</li>
+                    <li>Full database of snap counts</li>
+                    <li>Cancel any time</li>
+                    
+                </ul>
+                <p class="center" style="padding-top: 35px;">
+                    <a href="/cart/view-cart.aspx?p=1005" id="upgradeToPremiumPlusMembership" 
+                       class="button blue upgrade-now-button">Upgrade Now</a>
+                </p>
+            </div>
+        </div>
+
+        <div id="freeSample" class="lightbox" style="display: none;">
+            <div class="lightbox-content">
+                <a class="close">&#10006;</a>
+                <h2>Free Live Data Feeds</h2>
+                <p>
+                    Enter your email address and we'll send you free XML and JSON feeds.
+                </p>
+                <p><input type="email" id="freeSampleEmail" placeholder="enter email address" class="textbox" style="width: 300px;" /></p>
+                <p style="padding-top: 5px; padding-bottom: 25px;">
+                    <a href="javascript://" id="freeSampleButton" value="Submit" class="button blue default"
+                       style="display: inline-block; float:left">Submit</a>
+                    <span class="ajax-loader black" style="margin-left: 10px; "></span>
+                </p>
+                <p><span id="freeSampleMessage"></span>&nbsp;</p>
+            </div>
+        </div>
+
+        <div id="scrambled" class="lightbox" style="display: none;">
+            <div class="lightbox-content">
+                <a class="close">&#10006;</a>
+                <h2>Scrambled Data</h2>
+                <p>
+                    Scrambled data means the data values are adjusted up or down by about 20% from their actual value.  Certain types of data are scrambled in our Free Trial and Developer Subscription, such as team & player stats and fantasy stats. 
+                    All other data, such as teams, players, schedules, etc, including their unique IDs, 
+                    are not scrambled and the same as you would see in our Post-Game, Live and Real-Time Subscriptions. 
+                </p>
+                <p>
+                    This is done so that you can use the Free Trial (1,000 API calls/mo) or 
+                    Developer Subscription (unlimited API calls, $29/mo) to complete the majority of your integration 
+                    before having to upgrade to one of our premium API subscriptions.
+                </p>
+            </div>
+        </div>
+        
+        <div id="restful" class="lightbox" style="display: none;>
+            <div class="lightbox-content">
+                <a class="close">&#10006;</a>
+                <h2>RESTful Web Service Model</h2>
+                <p>
+                    Representational State Transfer (REST) is a style of web service architecture for developing scalable, 
+                    distributed systems.
+                    REST has emerged as the preferred web service design model of technology organizations.
+                </p>
+                <p><a href="http://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">Read more</a></p>
+            </div>
+        </div>
+
+
+    
+
+    
+    <script type="text/javascript">
+        var _cio = _cio || [];
+        (function() {
+            var a, b, c; a = function(f) {
+                return function() {
+                    _cio.push([f].concat(Array.prototype.slice.call(arguments, 0)))
+                } 
+            }; b = ["load", "identify", "sidentify", "track", "page"]; for (c = 0; c < b.length; c++) { _cio[b[c]] = a(b[c]) };
+            var t = document.createElement('script'),
+            s = document.getElementsByTagName('script')[0];
+            t.async = true;
+            t.id = 'cio-tracker';
+            t.setAttribute('data-site-id', 'cde8113e53d9b96983e0');
+            t.src = 'https://assets.customer.io/assets/track.js';
+            s.parentNode.insertBefore(t, s);
+        })();
+    </script>
+
+
+
+
+
+    
+    
+    
+    
+    
+
+    
+
+    <!-- Google Remarketing -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1048717135;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        var google_conversion_format = 3;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1048717135/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
+
+    
+    <script type="text/javascript">
+        adroll_adv_id = "NHFCO3TELVGCHHJD5FHXVD";
+        adroll_pix_id = "ZUS4OCBXGBDWLCGQSOCSQN";
+        (function () {
+            var oldonload = window.onload;
+            window.onload = function(){
+                __adroll_loaded=true;
+                var scr = document.createElement("script");
+                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                scr.setAttribute('async', 'true');
+                scr.type = "text/javascript";
+                scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] ||
+                 document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                if(oldonload){oldonload()}};
+        }());
+    </script>
+
+</body>
+
