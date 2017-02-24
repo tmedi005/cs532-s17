@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Welcome to the Official website of red headed nymphomaniac pornstar Lauren Phillips, now part of the Vette Nation Army of sites!">
+<meta name="keywords" content="TeamBJ, Lauren Phillips, pornstar, redhead, nympho, sex addict, anal, lesbian, VNA, VNA Girls, VNA Live">
+<meta name="author" content="Vette Nation Army">
+<title>Official Website of Lauren Phillips</title>
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/media.css" />
+<script src="js/jquery.min.js"></script>
+<script src="js/modernizr.custom.min.js"></script>
+<script src="js/jquery.resmenu.min.js"></script>
+<script>
+$(window).ready(function () {
+	$('#topnav').ReSmenu({ maxWidth: 767 });
+});
+</script>
+</head>
+<body>
+<div class="warning">
+    <div class="centerwrap clear">
+    	<div class="warning_modelbg"><img src="images/warning_modelbg.png" alt=""></div>
+        <div class="warning_model"><img src="images/warning_model.png" alt=""></div>
+        <div class="graybox clear">
+        	<div class="warning_logo"><img src="images/warning_logo.png" alt=""></div>
+            <hr>
+            <div class="warningbox">
+	            <div class="adults_only"><img src="images/adults_only.png" alt=""></div>
+                <a href="home.html" class="enter_site">Enter Site Now <span>Click Here To Enter</span></a>
+                <p>Do not enter this site if you are easily offended or under 18. By entering this site you confirm and agree that you meet the legal age limit for viewing adult material within your community! If you are not 18 years or older (21 years old in some communities) or if you are offended by explicit, adult, sexual depictions - then please leave now. If you are a parent and you want to block this site or want more information on preventing access to minors, please contact one of the following:</p>
+                <h4><a href="http://www.netnanny.com/" target="blank">NetNanny</a> | <a href="http://www.cyberpatrol.com/" target="blank">CyberPatrol</a> | <a href="http://www.cybersitter.com/" target="blank">CyberSitter</a> | <a href="http://www.safesurf.com/" target="blank">SafeSurf</a></h4>
+            </div>
+            <hr>
+            <div class="leave_site">
+                <p><a href="http://www.google.com">Leave Site Now <span>Under 18 Exit Now</span></a></p>
+            </div>
+        </div>
+    </div>
+    <footer class="warning_f">
+    	<div class="centerwrap clear">
+            <div class="mail_list clear">
+                <div class="warning_fmodel"><img src="images/footer_model.png" alt=""></div>
+                <div class="mail_listarea">
+                    <h3>Join my mailing list for free clips and hot pics approx 2 times per month!</h3>
+                    <div class="email_subscribe">
+                         <FORM ACTION="http://vickyathome5.webair.com/cgi-bin/smpro/s.pl" METHOD="POST" target="_blank">
+            	<p>E-mail Address</p>
+                <input type="text" class="email_subscribebox" size="16" name="e">
+                <label><INPUT TYPE="RADIO" NAME="subscribe" VALUE="subscribe" CHECKED="CHECKED">
+                    <INPUT TYPE="HIDDEN" NAME="l" VALUE="42 "> Subscribe</label>
+                <label><input name="subscribe" type="radio" value="Unsubscribe"> Unsubscribe</label>
+                <input type="submit" value="Submit" class="submit">
+                </form>
+                    </div>
+                </div>
+            </div>
+            <div class="footer clear">
+            <script language="javascript">
+<!--
+var size=""; var color="";
+// -->
+                </script>
+      <script language="javascript1.2">
+<!--
+var isVer4Min=parseInt(navigator.appVersion) >= 4; if(navigator.appName == "Netscape" || navigator.appName == "Microsoft Internet Explorer"){ if(isVer4Min){ color=screen.colorDepth; size=screen.width; } }
+// -->
+                          </script>
+   
+      <script language="javascript">
+<!--
+document.write('<IMG SRC="http://www.vickyathome.com/cgi-bin/liveadvisor/view.pl?'+location.href+'||'+document.referrer+'||'+color+'||'+size+'" BORDER=0 HEIGHT=1 WIDTH=1>')
+// -->
+                          </script>
+                <p class="footer_links"><a href="http://www.vickyathome.com/stickydollars.htm" target="blank">Webmaster ($$)</a> | <a href="http://www.vnagirls.com/lostpasswords.html" target="blank">Lost Passwords</a> | 
+      <a href="javascript:void(0)" onClick="javascript:window.open('http://www.vickyathome.com/cgi-bin/liveadvisor/clientindex.pl','Client','scrollbars=no,status=no,menubar=no,resizable=no,width=400,height=500,screenX=50,screenY=100,top=50,left=250')"  target="blank">Support</a> | <a href="join.html">Join</a> | <a href="http://www.vnatwitterarmy.com/"  target="blank">VNA Twitter Army</a> | <a href="2257.html"  target="blank">2257</a></p>
+       	  <p class="copyright">&copy;Copyright 2016 LaurenPhillips.com and VNA</p>
+                <div class="vna_logo"><a href="#"><img src="images/vna_logo.png" alt=""></a></div>
+            </div>
+        </div>
+    </footer>
+</div>
+</body>
+</html>

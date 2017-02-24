@@ -1,0 +1,1406 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<!-- Site Crafted Using PageLines v2.5.0 - WordPress - HTML5 ( not logged in ) - www.PageLines.com -->
+
+<!-- Title -->
+<title>Center for Security Policy | An Explanatory Memorandum: From the Archives of the Muslim Brotherhood in America </title>
+<!-- Facebook Open Graph -->
+<meta property='og:title' content='An Explanatory Memorandum: From the Archives of the Muslim Brotherhood in America' />
+<meta property='og:url' content='http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/' />
+<meta property='og:site_name' content='Center for Security Policy' />
+<meta property='og:type' content='article' />
+<meta property='og:image' content='http://www.centerforsecuritypolicy.org/wp-content/uploads/2013/05/Explanatory_Cover-web.png' />
+
+<!-- Start >> Meta Tags and Inline Scripts -->
+<link rel="alternate" type="application/rss+xml" title="Center for Security Policy &raquo; Feed" href="http://www.centerforsecuritypolicy.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Center for Security Policy &raquo; Comments Feed" href="http://www.centerforsecuritypolicy.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.centerforsecuritypolicy.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.6"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<!-- Styles -->
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='events-manager-css'  href='http://www.centerforsecuritypolicy.org/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.6624' type='text/css' media='all' />
+<link rel='stylesheet' id='promo-style-css'  href='http://www.centerforsecuritypolicy.org/wp-content/plugins/promo-slider/maincss.css?ver=4.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.centerforsecuritypolicy.org/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='pagelines-less-css'  href='https://www.centerforsecuritypolicy.org/wp-content/uploads/pagelines/compiled-css-1486963764.css' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='http://www.centerforsecuritypolicy.org/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.centerforsecuritypolicy.org/wp-content/plugins/jetpack/css/jetpack.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pagelines-child-stylesheet-css'  href='http://www.centerforsecuritypolicy.org/wp-content/themes/pagelines-template-theme/style.css?ver=250-1028175322' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.4 - Universal disabled - https://www.monsterinsights.com/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-38309113-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+
+<!-- Scripts -->
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var my_ajax_script = {"wtajaxurl":"http:\/\/www.centerforsecuritypolicy.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-content/themes/pagelines-template-theme/js/my_js_stuff.js?ver=1'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/wp-a11y.min.js?ver=4.5.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No search results.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/www.centerforsecuritypolicy.org\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.centerforsecuritypolicy.org\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"0","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"http:\/\/www.centerforsecuritypolicy.org\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"https:\/\/www.centerforsecuritypolicy.org\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","bb_full":"Sold Out","bb_book":"RSVP now","bb_booking":"Sending an RSVP...","bb_booked":"RSVP Submitted","bb_error":"RSVP Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","cache":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.6624'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-content/plugins/events-manager-pro/includes/js/events-manager-pro.js?ver=4.5.6'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-content/themes/pagelines/sections/navbar/navbar.js?ver=4.5.6'></script>
+<link rel="shortcut icon" href="http://www.centerforsecuritypolicy.org/wp-content/uploads/2012/08/csp_web_avatar.png" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://www.centerforsecuritypolicy.org/wp-content/uploads/2013/02/CSP-flame-57x57.png" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel='https://api.w.org/' href='http://www.centerforsecuritypolicy.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.centerforsecuritypolicy.org/xmlrpc.php?rsd" />
+<link rel='prev' title='The Iranian Supreme Leader Holds All the Cards of Power' href='http://www.centerforsecuritypolicy.org/2013/05/24/the-iranian-supreme-leader-holds-all-the-cards-of-power/' />
+<link rel='next' title='Distorting NIAC&#8217;s court defeat' href='http://www.centerforsecuritypolicy.org/2013/05/26/distorting-niacs-court-defeat/' />
+
+<link rel="canonical" href="http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/" />
+<link rel='shortlink' href='http://wp.me/p4esn8-LdP' />
+<link rel="alternate" type="application/json+oembed" href="http://www.centerforsecuritypolicy.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.centerforsecuritypolicy.org%2F2013%2F05%2F25%2Fan-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.centerforsecuritypolicy.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.centerforsecuritypolicy.org%2F2013%2F05%2F25%2Fan-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+		<style type="text/css">
+		.em-booking-form span.form-tip { text-decoration:none; border-bottom:1px dotted #aaa; padding-bottom:2px; }
+		.input-group .em-date-range input { width:100px; }
+		.input-group .em-time-range input { width:80px; }
+		 div.em-gateway-buttons { height:50px; width: 100%; }
+		 div.em-gateway-buttons .first { padding-left:0px; margin-left:0px; border-left:none; }
+		 div.em-gateway-button { float:left; padding-left:20px; margin-left:20px; border-left:1px solid #777; }
+		/* Cart CSS */
+		.em-cart-widget-content .em-cart-widget-total { border-top:1px solid #efefef; margin-top:5px; }
+		.em-cart-actions { text-align:right; margin:10px 0px;}
+		 /* Checkout Form CSS */
+		.em-cart-table { border-collapse:collapse; border-spacing:0; width:100%; }		 
+		.em-cart-table { border-collapse:0px; }
+		.em-cart-table th, table.em-cart-table td { border:1px solid #efefef; padding:10px; }
+		.em-cart-table th { background-color:#eee; text-align:center; }
+		.em-cart-table td { background-color:#fff; }
+		.em-cart-table th.em-cart-title-event { text-align:left; }
+		.em-cart-table tbody.em-cart-totals th { text-align:right; padding-right:20px; }
+		.em-cart-table .em-cart-table-details-hide { display:none; visibility:none; }
+		.em-cart-table .em-cart-table-event-details { display:none; visibility:none; }
+		.em-cart-table .em-cart-table-event-title { font-weight:bold; }
+		.em-cart-table .em-cart-table-spaces { text-align:center; }
+		.em-cart-table .em-cart-table-price, tbody.em-cart-totals td { text-align:right; }
+		.em-cart-table-event-details .em-cart-table-ticket { font-weight:bold; }
+		.em-cart-info .em-cart-info-title { text-decoration:underline; }
+		.em-cart-info .em-cart-info-booking-title { font-weight:bold; }
+		.em-cart-info .em-cart-info-values label { font-style:italic; display: inline-block; width:150px; }		 
+		/*! qTip2 v2.0.0 | http://craigsworks.com/projects/qtip2/ | Licensed MIT, GPL */#qtip-rcontainer{position:absolute;left:-28000px;top:-28000px;display:block;visibility:hidden}#qtip-rcontainer .ui-tooltip{display:block!important;visibility:hidden!important;position:static!important;float:left!important}.ui-tooltip,.qtip{position:absolute;left:-28000px;top:-28000px;display:none;max-width:280px;min-width:50px;font-size:10.5px;line-height:12px}.ui-tooltip-content{position:relative;padding:5px 9px;overflow:hidden;text-align:left;word-wrap:break-word}.ui-tooltip-titlebar{position:relative;min-height:14px;padding:5px 35px 5px 10px;overflow:hidden;border-width:0 0 1px;font-weight:700}.ui-tooltip-titlebar+.ui-tooltip-content{border-top-width:0!important}.ui-tooltip-titlebar .ui-state-default{position:absolute;right:4px;top:50%;margin-top:-9px;cursor:pointer;outline:medium none;border-width:1px;border-style:solid}* html .ui-tooltip-titlebar .ui-state-default{top:16px}.ui-tooltip-titlebar .ui-icon,.ui-tooltip-icon .ui-icon{display:block;text-indent:-1000em;direction:ltr}.ui-tooltip-icon,.ui-tooltip-icon .ui-icon{-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;text-decoration:none}.ui-tooltip-icon .ui-icon{width:18px;height:14px;text-align:center;text-indent:0;font:normal bold 10px/13px Tahoma,sans-serif;color:inherit;background:transparent none no-repeat -100em -100em}.ui-tooltip-focus{}.ui-tooltip-hover{}.ui-tooltip-default{border-width:1px;border-style:solid;border-color:#F1D031;background-color:#FFFFA3;color:#555}.ui-tooltip-default .ui-tooltip-titlebar{background-color:#FFEF93}.ui-tooltip-default .ui-tooltip-icon{border-color:#CCC;background:#F1F1F1;color:#777}.ui-tooltip-default .ui-tooltip-titlebar .ui-state-hover{border-color:#AAA;color:#111}/*! Light tooltip style */.ui-tooltip-light{background-color:#fff;border-color:#E2E2E2;color:#454545}.ui-tooltip-light .ui-tooltip-titlebar{background-color:#f1f1f1}/*! Dark tooltip style */.ui-tooltip-dark{background-color:#505050;border-color:#303030;color:#f3f3f3}.ui-tooltip-dark .ui-tooltip-titlebar{background-color:#404040}.ui-tooltip-dark .ui-tooltip-icon{border-color:#444}.ui-tooltip-dark .ui-tooltip-titlebar .ui-state-hover{border-color:#303030}/*! Cream tooltip style */.ui-tooltip-cream{background-color:#FBF7AA;border-color:#F9E98E;color:#A27D35}.ui-tooltip-cream .ui-tooltip-titlebar{background-color:#F0DE7D}.ui-tooltip-cream .ui-state-default .ui-tooltip-icon{background-position:-82px 0}/*! Red tooltip style */.ui-tooltip-red{background-color:#F78B83;border-color:#D95252;color:#912323}.ui-tooltip-red .ui-tooltip-titlebar{background-color:#F06D65}.ui-tooltip-red .ui-state-default .ui-tooltip-icon{background-position:-102px 0}.ui-tooltip-red .ui-tooltip-icon{border-color:#D95252}.ui-tooltip-red .ui-tooltip-titlebar .ui-state-hover{border-color:#D95252}/*! Green tooltip style */.ui-tooltip-green{background-color:#CAED9E;border-color:#90D93F;color:#3F6219}.ui-tooltip-green .ui-tooltip-titlebar{background-color:#B0DE78}.ui-tooltip-green .ui-state-default .ui-tooltip-icon{background-position:-42px 0}/*! Blue tooltip style */.ui-tooltip-blue{background-color:#E5F6FE;border-color:#ADD9ED;color:#5E99BD}.ui-tooltip-blue .ui-tooltip-titlebar{background-color:#D0E9F5}.ui-tooltip-blue .ui-state-default .ui-tooltip-icon{background-position:-2px 0}.ui-tooltip-shadow{-webkit-box-shadow:1px 1px 3px 1px rgba(0,0,0,.15);-moz-box-shadow:1px 1px 3px 1px rgba(0,0,0,.15);box-shadow:1px 1px 3px 1px rgba(0,0,0,.15)}.ui-tooltip-rounded,.ui-tooltip-tipsy,.ui-tooltip-bootstrap{-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}.ui-tooltip-youtube{-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;-webkit-box-shadow:0 0 3px #333;-moz-box-shadow:0 0 3px #333;box-shadow:0 0 3px #333;color:#fff;border-width:0;background:#4A4A4A;background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0, #4A4A4A),color-stop(100%,black));background-image:-webkit-linear-gradient(top, #4A4A4A 0,black 100%);background-image:-moz-linear-gradient(top, #4A4A4A 0,black 100%);background-image:-ms-linear-gradient(top, #4A4A4A 0,black 100%);background-image:-o-linear-gradient(top, #4A4A4A 0,black 100%)}.ui-tooltip-youtube .ui-tooltip-titlebar{background-color:#4A4A4A;background-color:rgba(0,0,0,0)}.ui-tooltip-youtube .ui-tooltip-content{padding:.75em;font:12px arial,sans-serif;filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#4a4a4a, EndColorStr=#000000);-ms-filter:"progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#4a4a4a, EndColorStr=#000000);"}.ui-tooltip-youtube .ui-tooltip-icon{border-color:#222}.ui-tooltip-youtube .ui-tooltip-titlebar .ui-state-hover{border-color:#303030}.ui-tooltip-jtools{background:#232323;background:rgba(0,0,0,.7);background-image:-webkit-gradient(linear,left top,left bottom,from( #717171),to( #232323));background-image:-moz-linear-gradient(top, #717171, #232323);background-image:-webkit-linear-gradient(top, #717171, #232323);background-image:-ms-linear-gradient(top, #717171, #232323);background-image:-o-linear-gradient(top, #717171, #232323);border:2px solid #ddd;border:2px solid rgba(241,241,241,1);-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;-webkit-box-shadow:0 0 12px #333;-moz-box-shadow:0 0 12px #333;box-shadow:0 0 12px #333}.ui-tooltip-jtools .ui-tooltip-titlebar{background-color:transparent;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#717171, endColorstr=#4A4A4A);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#717171, endColorstr=#4A4A4A)"}.ui-tooltip-jtools .ui-tooltip-content{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A, endColorstr=#232323);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#4A4A4A, endColorstr=#232323)"}.ui-tooltip-jtools .ui-tooltip-titlebar,.ui-tooltip-jtools .ui-tooltip-content{background:transparent;color:#fff;border:0 dashed transparent}.ui-tooltip-jtools .ui-tooltip-icon{border-color:#555}.ui-tooltip-jtools .ui-tooltip-titlebar .ui-state-hover{border-color:#333}.ui-tooltip-cluetip{-webkit-box-shadow:4px 4px 5px rgba(0,0,0,.4);-moz-box-shadow:4px 4px 5px rgba(0,0,0,.4);box-shadow:4px 4px 5px rgba(0,0,0,.4);background-color:#D9D9C2;color:#111;border:0 dashed transparent}.ui-tooltip-cluetip .ui-tooltip-titlebar{background-color:#87876A;color:#fff;border:0 dashed transparent}.ui-tooltip-cluetip .ui-tooltip-icon{border-color:#808064}.ui-tooltip-cluetip .ui-tooltip-titlebar .ui-state-hover{border-color:#696952;color:#696952}.ui-tooltip-tipsy{background:#000;background:rgba(0,0,0,.87);color:#fff;border:0 solid transparent;font-size:11px;font-family:'Lucida Grande',sans-serif;font-weight:700;line-height:16px;text-shadow:0 1px black}.ui-tooltip-tipsy .ui-tooltip-titlebar{padding:6px 35px 0 10;background-color:transparent}.ui-tooltip-tipsy .ui-tooltip-content{padding:6px 10}.ui-tooltip-tipsy .ui-tooltip-icon{border-color:#222;text-shadow:none}.ui-tooltip-tipsy .ui-tooltip-titlebar .ui-state-hover{border-color:#303030}.ui-tooltip-tipped{border:3px solid #959FA9;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;background-color:#F9F9F9;color:#454545;font-weight:400;font-family:serif}.ui-tooltip-tipped .ui-tooltip-titlebar{border-bottom-width:0;color:#fff;background:#3A79B8;background-image:-webkit-gradient(linear,left top,left bottom,from( #3A79B8),to( #2E629D));background-image:-webkit-linear-gradient(top, #3A79B8, #2E629D);background-image:-moz-linear-gradient(top, #3A79B8, #2E629D);background-image:-ms-linear-gradient(top, #3A79B8, #2E629D);background-image:-o-linear-gradient(top, #3A79B8, #2E629D);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8, endColorstr=#2E629D);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#3A79B8, endColorstr=#2E629D)"}.ui-tooltip-tipped .ui-tooltip-icon{border:2px solid #285589;background:#285589}.ui-tooltip-tipped .ui-tooltip-icon .ui-icon{background-color:#FBFBFB;color:#555}.ui-tooltip-bootstrap{font-size:13px;line-height:18px;color:#333;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,.2);*border-right-width:2px;*border-bottom-width:2px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow:0 5px 10px rgba(0,0,0,.2);-moz-box-shadow:0 5px 10px rgba(0,0,0,.2);box-shadow:0 5px 10px rgba(0,0,0,.2);-webkit-background-clip:padding-box;-moz-background-clip:padding;background-clip:padding-box}.ui-tooltip-bootstrap .ui-tooltip-titlebar{font-size:18px;line-height:22px;border-bottom:1px solid #ccc;background-color:transparent}.ui-tooltip-bootstrap .ui-tooltip-titlebar .ui-state-default{right:9px;top:49%;border-style:none}.ui-tooltip-bootstrap .ui-tooltip-icon{background:#fff}.ui-tooltip-bootstrap .ui-tooltip-icon .ui-icon{width:auto;height:auto;float:right;font-size:20px;font-weight:700;line-height:18px;color:#000;text-shadow:0 1px 0 #fff;opacity:.2;filter:alpha(opacity=20)}.ui-tooltip-bootstrap .ui-tooltip-icon .ui-icon:hover{color:#000;text-decoration:none;cursor:pointer;opacity:.4;filter:alpha(opacity=40)}.ui-tooltip:not(.ie9haxors) div.ui-tooltip-content,.ui-tooltip:not(.ie9haxors) div.ui-tooltip-titlebar{filter:none;-ms-filter:none}.ui-tooltip .ui-tooltip-tip{margin:0 auto;overflow:hidden;z-index:10}.ui-tooltip .ui-tooltip-tip,.ui-tooltip .ui-tooltip-tip .qtip-vml{position:absolute;line-height:.1px!important;font-size:.1px!important;color:#123456;background:transparent;border:0 dashed transparent}.ui-tooltip .ui-tooltip-tip canvas{top:0;left:0}.ui-tooltip .ui-tooltip-tip .qtip-vml{behavior:url(#default#VML);display:inline-block;visibility:visible}#qtip-overlay{position:fixed;left:-10000em;top:-10000em}#qtip-overlay.blurs{cursor:pointer}#qtip-overlay div{position:absolute;left:0;top:0;width:100%;height:100%;background-color:#000;opacity:.7;filter:alpha(opacity=70);-ms-filter:"alpha(Opacity=70)"}
+		</style>
+				<style type="text/css">
+			.em-coupon-code { width:150px; }
+			#em-coupon-loading { display:inline-block; width:16px; height: 16px; margin-left:4px; background:url(http://www.centerforsecuritypolicy.org/wp-content/plugins/events-manager-pro/includes/images/spinner.gif)}
+			.em-coupon-message { display:inline-block; margin:5px 0px 0px 105px; text-indent:22px; }
+			.em-coupon-success { color:green; background:url(http://www.centerforsecuritypolicy.org/wp-content/plugins/events-manager-pro/includes/images/success.png) 0px 0px no-repeat }
+			.em-coupon-error { color:red; background:url(http://www.centerforsecuritypolicy.org/wp-content/plugins/events-manager-pro/includes/images/error.png) 0px 0px no-repeat }
+			.em-cart-coupons-form .em-coupon-message{ margin:5px 0px 0px 0px; }
+			#em-coupon-loading { margin-right:4px; }	
+		</style>
+		
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style><meta property="fb:app_id" content="376746642416120" />
+		<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<!-- TEMPLATE USED: single.php -->
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!-- On Ready -->
+<script> /* <![CDATA[ */
+!function ($) {
+jQuery(document).ready(function() {
+})
+}(window.jQuery);
+/* ]]> */
+</script>
+
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="An Explanatory Memorandum: From the Archives of the Muslim Brotherhood in America" />
+<meta property="og:url" content="http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/" />
+<meta property="og:description" content="We at the Center for Security Policy feel it is important for Americans to better understand&#8211; and, then, be able to successfully contend with&#8211; those that attempt to destroy or subvert o…" />
+<meta property="article:published_time" content="2013-05-25T12:55:34+00:00" />
+<meta property="article:modified_time" content="2014-05-06T20:36:06+00:00" />
+<meta property="og:site_name" content="Center for Security Policy" />
+<meta property="og:image" content="http://www.centerforsecuritypolicy.org/wp-content/uploads/2013/05/Explanatory_Cover-web.png" />
+<meta property="og:image:width" content="630" />
+<meta property="og:image:height" content="360" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@securefreedom" />
+<meta name="twitter:image" content="http://www.centerforsecuritypolicy.org/wp-content/uploads/2013/05/Explanatory_Cover-web.png?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- NavBar | Section Head -->
+			<!--[if IE 8]>
+				<style>
+					.nav-collapse.collapse {
+						height: auto;
+						overflow: visible;
+					}
+				</style>
+			<![endif]-->
+		<meta name="google-site-verification" content="sls08NFCkvIX67aT8lZ0IXYeFZvMOyYoz_MleMqXS9s" />
+<style type="text/css" id="pagelines-custom">
+ body {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 24px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 0.9em;
+}
+.hentry,
+.fpost .post-excerpt {
+  font-size: 1.03em;
+  line-height: 1.2em;
+}
+h3 {
+  font-size: 90%;
+}
+.ps_title {
+  margin-left: 23px !important;
+}
+.section-branding .container no_clone section-branding fix {
+  background-image: url('/wp-content/uploads/2012/11/header_bg.jpg');
+}
+.section-navbar .content-pad {
+  padding: 0px;
+  background: transparent;
+}
+.text-widget {
+  padding: 0px;
+  background: transparent;
+}
+.navbar .navline > li > a {
+  color: rgba(255,255,255,0.6);
+  display: block;
+  float: none;
+  line-height: 19px;
+  padding: 7px 8px;
+  text-decoration: none;
+  text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+}
+.pl-color-blue {
+  background: -moz-linear-gradient(center top,#1a355c 0%,#1a355c 100%) repeat scroll 0 0 transparent;
+}
+.pl-active-blue:hover {
+  background: -moz-linear-gradient(center top,#517EBD 0%,#2853A1 100%) repeat scroll 0 0 transparent;
+}
+.pl-active-blue:active {
+  background: -moz-linear-gradient(center top,#1A3764 0%,#517EBD 100%) repeat scroll 0 0 transparent;
+}
+.navbar.pl-color-blue {
+  border-top: 0px solid #4574B8;
+}
+h1 {
+  font-size: 30px !important;
+  line-height: 32px !important;
+  padding-bottom: 10px;
+}
+body.post-excerpt a {
+  font-size: 14px !important;
+  line-height: 19px !important;
+}
+.content-pad {
+  padding: 0px;
+}
+.fixed_width #branding .content-pad {
+  padding: 0px;
+}
+.scolumn-pad .widget-title {
+  display: block;
+}
+#category-menus .catPost .author {
+  color: #999999;
+  font-size: 16px;
+  letter-spacing: 0.2em;
+}
+.section-widget-2x2 .widget .brpwp-title a {
+  color: #0C1729;
+  font-size: 15px;
+  font-weight: 800;
+  line-height: 1.2em;
+  opacity: 0.99;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  text-shadow: none;
+}
+#menu-mini-menu {
+  float: right;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: none;
+  padding-bottom: 12px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 8px;
+  font-size: 11px;
+  font-weight: 300;
+}
+#post-header {
+  padding-top: 40px;
+}
+.pl-videogallery-wrap .pl-flicklisting-wrap {
+  height: 1270px;
+  margin: 0;
+  overflow: auto !important;
+  position: relative;
+  width: 34%;
+  z-index: 9;
+}
+.pl-videogallery-wrap .pl-mainflick {
+  margin: 0;
+  position: relative;
+  width: 100%;
+}
+.pl-videogallery-wrap .pl-flicklisting-wrap {
+  height: 1300px;
+  margin: 0;
+  overflow: auto !important;
+  position: relative;
+  width: 100%;
+  z-index: 9;
+}
+.pl-videogallery-wrap .pl-flick .bd p {
+  font-size: 100%;
+  margin: 0;
+}
+.pl-videogallery-wrap .pl-flick .flick-frame {
+  -moz-box-sizing: border-box;
+  background: none repeat scroll 0 0 #FFFFFF;
+  border: 1px solid #E6E6E6;
+  border-radius: 3px 3px 3px 3px;
+  max-width: 200px;
+  padding: 2px;
+}
+.pl-videogallery-wrap .pl-flick .bd h5 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.pullquote .thepullquote {
+  font-size: 1.5em;
+  font-weight: 300;
+  line-height: 1.3em;
+  margin-bottom: 5px;
+}
+.post-meta .post-title-section {
+  padding-bottom: 6px;
+}
+.author {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 0.9em;
+  letter-spacing: 0.05em;
+  text-transform: none;
+}
+.thead,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.site-title {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  letter-spacing: -0.01em;
+}
+body .hentry .twt_callout {
+  float: left;
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 0;
+  width: 170px;
+  background-color: #f5f5f5;
+}
+body .hentry .twt_callout h4 {
+  border-bottom-color: #000000;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+}
+body .hentry .twt_callout ul {
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: disc;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+}
+body .hentry .twt_callout li {
+  display: block;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: disc;
+  padding-bottom: 7px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0px;
+  font-size: 11.5px;
+  font-weight: bold;
+}
+body .hentry .twt_callout li p {
+  margin-bottom: 3px;
+  margin-top: 0px;
+  font-size: 11.5px;
+}
+.section-postauthor p {
+  font-size: 12px;
+}
+.section-postauthor h2 {
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+.single h1.entry-title {
+  padding-top: 5px;
+  padding-bottom: 0 !important;
+}
+.cat-desc {
+  font-size: 15px;
+  line-height: 1.5em;
+  margin-bottom: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 10px;
+}
+#footer a,
+#footer li h5 a {
+  color: #FCFCFC;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+.pprow {
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  width: 100%;
+}
+.ppfull .pp3 {
+  width: 33%;
+  text-align: right;
+}
+#post-slider-extended {
+  max-width: 640px;
+  padding-top: 20px;
+}
+.pse-menu li > a {
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: #121E35;
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-repeat: repeat;
+  background-size: auto auto;
+  border-bottom-color: #FFFFFF;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  color: #FFFFFF;
+  font-weight: bold;
+  display: block;
+  height: 36px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  position: relative;
+}
+.tag .current_posts_info,
+.tax-content_type .current_posts_info {
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: transparent;
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-repeat: repeat;
+  background-size: auto auto;
+  color: #000000;
+  font-size: 24px;
+  padding-bottom: 30px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 30px;
+}
+.cat-desc {
+  font-size: 15px;
+  line-height: 1.5em;
+  margin-bottom: 0px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 10px;
+}
+.cat-desc- element.style {
+  height: 120px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+#sidebar-wrap .widget_brpwp_wrapper li .brpwp-title {
+  display: block;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+#sidebar-wrap .widget_brpwp_wrapper li a {
+  color: #81A1D5;
+  padding-bottom: 3px;
+}
+.pl-hero-wrap .pl-hero h1 {
+  color: #000000;
+  font-size: 23px;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+.read-more-expand {
+  font-size: 12px;
+  font-weight: bold;
+}
+.dcol_2 {
+  float: left;
+  margin-left: 20px;
+  width: 200px;
+}
+#soapbox .clear {
+  display: none;
+}
+.page-id-178502 .dcol_container_2 {
+  width: 635px;
+}
+.widget_nav_menu ul li a {
+  border-bottom-color: #CCCCCC;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  color: #121E35;
+  display: block;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 14px;
+  line-height: 1.3em;
+  padding-bottom: 9px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 9px;
+}
+.post-excerpt {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 1.4em;
+}
+#menu-mini-menu li a {
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: transparent;
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-repeat: repeat;
+  background-size: auto auto;
+  border-right-color-ltr-source: physical;
+  border-right-color-rtl-source: physical;
+  border-right-color-value: #FFFFFF;
+  border-right-style-ltr-source: physical;
+  border-right-style-rtl-source: physical;
+  border-right-style-value: solid;
+  border-right-width-ltr-source: physical;
+  border-right-width-rtl-source: physical;
+  border-right-width-value: 1px;
+  color: #81A1D5;
+  font-weight: bold;
+  display: block;
+  padding-bottom: 0;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 0;
+}
+.term-the-deterrent #content .content #column-wrap .hentry .hentry-pad .post-title a .author {
+  color: #365CA5;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 0;
+}
+.author {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 0.9em;
+  letter-spacing: 0.01em;
+  text-transform: none;
+}
+p,
+.entry_content,
+.hentry,
+#page .fpost .post-excerpt {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.5em;
+}
+.term-the-deterrent #content .content #column-wrap .hentry .hentry-pad .post-title .entry-title {
+  border-top-color: #DDDDDD;
+  border-top-style: solid;
+  border-top-width: 1px;
+  clear: both;
+  color: #002642;
+  font-size: 18px;
+  margin-top: 0px;
+  padding-top: 15px;
+}
+.type-the-deterrent #content .content #column-wrap .hentry .hentry-pad .post-title a .author {
+  color: #365CA5;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 0px;
+}
+.type-the-deterrent #content .content #column-wrap .hentry .hentry-pad .post-title time,
+.type-the-deterrent #content .content #column-wrap .hentry .hentry-pad .post-title span {
+  font-size: 14px;
+}
+.type-the-deterrent #content .content #column-wrap .hentry .hentry-pad .post-title .entry-title {
+  border-top-color: #DDDDDD;
+  border-top-style: solid;
+  border-top-width: 1px;
+  clear: both;
+  color: #002642;
+  font-size: 18px !important;
+  margin-top: 0;
+  padding-top: 15px;
+}
+blockquote {
+  border-left-color-ltr-source: physical;
+  border-left-color-rtl-source: physical;
+  border-left-color-value: rgba(87,87,87,0.6);
+  border-left-style-ltr-source: physical;
+  border-left-style-rtl-source: physical;
+  border-left-style-value: solid;
+  border-left-width-ltr-source: physical;
+  border-left-width-rtl-source: physical;
+  border-left-width-value: 5px;
+  margin-bottom: 21px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 25px;
+  padding-right: 0;
+  padding-top: 0;
+}
+blockquote p {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+  margin-bottom: 0;
+}
+ul#recentBlog li {
+  min-height: 0px;
+}
+ul#recentBlog li a {
+  display: block;
+  line-height: 1.2em;
+}
+ul#recentBlog li a.title {
+  color: #121E35;
+  font-size: 16px;
+}
+ul#recentBlog li a.author {
+  font-size: 13px;
+}
+ul#recentBlog li {
+  border-bottom-color: #DDDDDD;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  clear: both;
+  color: #121E35;
+  font-weight: bold;
+  letter-spacing: -0.03em !important;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: none;
+  margin-top: 6px;
+  min-height: auto;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding-bottom: 6px;
+}
+.section-widget-2x2 .widget .brpwp-thumb-link {
+  max-width: 110px;
+  padding-bottom: 40px;
+  padding-left: 0;
+  padding-right: 7px;
+  padding-top: 0;
+}
+.section-widget-2x2 .widget .brpwp-title a {
+  color: #0C1729;
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1.0em;
+  letter-spacing: -0.03em !important;
+  opacity: 0.99;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  text-shadow: none;
+}
+.icon-term {
+  background-size: 36px auto !important;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 32px;
+}
+.section-widget-2x2 .blog .widget {
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: #E7EBF2;
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-repeat: repeat;
+  background-size: auto auto;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  border-bottom-color: #DDDDDD;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  padding-bottom: 21px;
+  padding-left: 12px;
+  padding-right: 2px;
+  padding-top: 0;
+}
+ul#recentBlog {
+  margin-top: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.term-free-fire #content .content #column-wrap .hentry .hentry-pad .post-title a .author {
+  color: #365CA5;
+  display: inline-block;
+  font-size: 17px;
+  margin-top: 0;
+}
+.term-free-fire #content .content #column-wrap .hentry .hentry-pad .post-title .entry-title {
+  border-top-color: #DDDDDD;
+  border-top-style: solid;
+  border-top-width: 1px;
+  clear: both;
+  color: #002642;
+  margin-top: 10px;
+  padding-top: 23px;
+  line-height: 0.95em !important;
+}
+.term-free-fire #postsinfo .current_posts_info {
+  padding-bottom: 8px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+}
+.type-free-fire #content .content #column-wrap .hentry .hentry-pad .post-title a .author {
+  color: #365CA5;
+  display: inline-block;
+  font-size: 17px;
+  margin-top: 0;
+}
+.type-free-fire .current_posts_info {
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: transparent;
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-repeat: repeat;
+  background-size: auto auto;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+}
+.type-free-fire #content .content #column-wrap .hentry .hentry-pad .post-title .entry-title {
+  border-top-color: #DDDDDD;
+  border-top-style: solid;
+  border-top-width: 1px;
+  clear: both;
+  color: #002642;
+  font-size: 23px !important;
+  line-height: 0.95em !important;
+  margin-top: 0;
+  padding-top: 20px;
+}
+.section-widget-2x2 .widget h3.widget-title {
+  color: #CB2414;
+  font-size: 15px;
+  letter-spacing: 0;
+  padding-left: 0;
+  text-align: left;
+  text-transform: capitalize;
+}
+.section-widget-2x2 .widget p {
+  color: #444444;
+  font-size: 12px;
+  line-height: 1.3em;
+  margin-bottom: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 10px;
+  text-transform: none;
+}
+.section-widget-2x2 .widget .brpwp-thumb-link {
+  max-width: 110px;
+  padding-bottom: 53px;
+  padding-left: 0;
+  padding-right: 7px;
+  padding-top: 0;
+}
+body .hentry .twt_callout li p {
+  font-size: 13.5px;
+  margin-bottom: 3px;
+  margin-top: 0;
+}
+#post-slider-extended {
+  max-width: 640px;
+  width: 640px;
+  padding-top: 20px;
+}
+#bogus11 {
+  max-width: 640px;
+} 
+</style>
+
+</head>
+
+<!-- Start >> HTML Body -->
+<body class="single single-post postid-181525 single-format-standard custom static pagelines-template-theme full_width  type-books">
+<div id="site" class="one-sidebar-right">
+	<div id="page" class="thepage">
+		
+					<script>
+						var $j = jQuery.noConflict();
+						$j(window).load(function(){
+							if($j.browser.msie && $j.browser.version <= 8.0){
+								$j(".QuickContentSlider-button-right").addClass("QuickContentSlider-button-right-ie");
+								var content_width = $j(".QuickContentSlider-content-right").outerWidth(); 
+								var button_height = $j(".QuickContentSlider-button-right").outerHeight();
+								var button_inner_height = $j(".QuickContentSlider-button-right").height();
+								var content_height = $j(".QuickContentSlider-content-right").outerHeight(); 
+								var content_inner_height = $j(".QuickContentSlider-content-right").height(); 
+								$j("#QuickContentSlider-right").css({"right":"-"+content_width+"px","top":"200px"});
+								$j("#QuickContentSlider-right").css("z-index", "1035");
+								if(button_height > content_height){
+									var button_left = $j(".QuickContentSlider-button-right").outerWidth();
+									$j(".QuickContentSlider-button-right").css("left","-"+button_left+"px");			
+									var paddint_top = parseInt($j(".QuickContentSlider-content-right").css("padding-top"), 10);
+									var paddint_bottom = parseInt($j(".QuickContentSlider-content-right").css("padding-bottom"), 10);
+									var new_content_height = button_height - (paddint_top + paddint_bottom);
+									$j(".QuickContentSlider-content-right").css("height",new_content_height+"px");
+								}else{
+									var button_update_height = content_height - 24;
+									$j(".QuickContentSlider-button-right").css("width",button_update_height+"px");
+									var button_left = $j(".QuickContentSlider-button-right").outerWidth();
+									$j(".QuickContentSlider-button-right").css("left","-"+button_left+"px");
+								}
+							}else{
+								var content_width = $j(".QuickContentSlider-content-right").outerWidth(); 
+								var button_height = $j(".QuickContentSlider-button-right").outerWidth();
+								var button_inner_height = $j(".QuickContentSlider-button-right").width();
+								var content_height = $j(".QuickContentSlider-content-right").outerHeight(); 
+								var content_inner_height = $j(".QuickContentSlider-content-right").height(); 
+								$j("#QuickContentSlider-right").css({"right":"-"+content_width+"px","top":"200px"});
+								$j("#QuickContentSlider-right").css("z-index", "1035");
+								if(button_height > content_height){
+									$j(".QuickContentSlider-button-right").css("left","-"+button_height+"px");			
+									var paddint_top = parseInt($j(".QuickContentSlider-content-right").css("padding-top"), 10);
+									var paddint_bottom = parseInt($j(".QuickContentSlider-content-right").css("padding-bottom"), 10);
+									var new_content_height = button_height - (paddint_top + paddint_bottom);
+									$j(".QuickContentSlider-content-right").css("height",new_content_height+"px");
+								}else{
+									var button_update_height = content_height - 24;
+									$j(".QuickContentSlider-button-right").css("width",button_update_height+"px");
+									$j(".QuickContentSlider-button-right").css("left","-"+content_height+"px");
+								}
+							}
+							
+							$j(".QuickContentSlider-button-right").click(function(){
+								$j("#QuickContentSlider-right").animate({right:0},1000);
+							});
+							
+							$j(".QuickContentSlider-content-right").hover("",function(){	
+								$j("#QuickContentSlider-right").stop().animate({right:-content_width},1000);
+							});
+							$j(".QuickContentSlider-content-right").css("visibility","visible");
+							$j(".QuickContentSlider-button-right").css("visibility","visible");
+						});
+					</script>
+				<div id="QuickContentSlider-right">
+										<div class="QuickContentSlider-button-right">Subscribe to Our Daily Brief</div>
+										<div class="QuickContentSlider-content-right"><h1>Subscribe to our Daily Brief</h1>
+<div id="mc_embed_signup">
+<form id="mc-embedded-subscribe-form" class="validate" action="//centerforsecuritypolicy.us2.list-manage.com/subscribe/post?u=6ad984f9ddc591d1eb333c7bf&amp;id=da0ec65284" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<p class="indicates-required"><span class="asterisk">*</span> indicates required</p>
+<p class="indicates-required">
+<div class="mc-field-group"></div>
+<div class="mc-field-group"><label for="mce-FNAME">First Name <span class="asterisk">* </span></label><input id="mce-FNAME" class="required" name="FNAME" type="text" value="" /></div>
+<div class="mc-field-group"></div>
+<div class="mc-field-group"></div>
+<div class="mc-field-group"><label for="mce-LNAME">Last Name <span class="asterisk">* </span></label><input id="mce-LNAME" class="required" name="LNAME" type="text" value="" /></div>
+<div class="mc-field-group"></div>
+<div class="mc-field-group"></div>
+<div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">* </span></label><input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="" /></div>
+<div class="mc-field-group"></div>
+<div class="mc-field-group"></div>
+<div class="mc-field-group"><label for="mce-MMERGE4">Zip Code  </label><input id="mce-MMERGE4" name="MMERGE4" type="text" value="" /></div>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" class="response" style="display: none;"></div>
+<div id="mce-success-response" class="response" style="display: none;"></div>
+</div>
+<p><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--></p>
+<div class="mceItemVisualAid mceItemLayer" style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_6ad984f9ddc591d1eb333c7bf_da0ec65284" type="text" value="" /></div>
+<div class="clear"></div>
+<div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe" /></div>
+</form>
+</div>
+<p><!--End mc_embed_signup--></p>
+</div>
+									</div>		<div class="page-canvas">
+						<header id="header" class="container-group">
+				<div class="outline">
+					
+
+<!-- Branding | Section Template -->
+<section id="branding" class="container clone_1 section-branding fix"><div class="texture"><div class="content"><div class="content-pad"><div class="branding_wrap fix"><a class="plbrand mainlogo-link" href="http://www.centerforsecuritypolicy.org" title="Center for Security Policy"><img class="mainlogo-img" src="http://www.centerforsecuritypolicy.org/wp-content/uploads/2012/12/new-branding-logo1.png" alt="Center for Security Policy" /></a><form method="get" class="searchform" onsubmit="this.submit();return false;" action="http://www.centerforsecuritypolicy.org/" ><fieldset><input type="text" value="" name="s" class="searchfield" placeholder="Search" /></fieldset></form></div><div class="menu-mini-menu-container"><ul id="menu-mini-menu" class="menu"><li id="menu-item-152714" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-152714"><a href="/for-the-press/">Contact Us</a></li>
+<li id="menu-item-188629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188629"><a href="http://www.centerforsecuritypolicy.org/board-of-regents/">Regents</a></li>
+<li id="menu-item-152712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-152712"><a href="/about-us/donate/"><font color="#cb2414">Donate</font></a></li>
+<li id="menu-item-180444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180444"><a href="http://act.securefreedom.org" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://act.securefreedom.org', 'TAKE ACTION']);" ><font color="white">TAKE ACTION</font></a></li>
+</ul></div></div></div></div></section>
+
+<!-- NavBar | Section Template -->
+<section id="navbar" class="container clone_1 section-navbar fix"><div class="content"><div class="content-pad">	<div class="navbar fix navbar-content-width  pl-color-black-trans">
+	  <div class="navbar-inner ">
+	    <div class="navbar-content-pad fix">
+	    	<span class="navbar-title">This is a test</span>	      <a href="javascript:void(0)" class="nav-btn nav-btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	      </a>
+				      		<div class="nav-collapse collapse">
+	       <ul id="menu-primary" class="font-sub navline pldrop pull-left"><li id="menu-item-177113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177113"><a href="http://www.centerforsecuritypolicy.org/about-us/">About Us</a></li>
+<li id="menu-item-159345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-159345"><a href="http://www.centerforsecuritypolicy.org/products-and-publications/">Products &#038; Publications</a>
+<ul class="sub-menu">
+	<li id="menu-item-192014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192014"><a href="https://www.centerforsecuritypolicy.org/type/frank-gaffney/">Frank Gaffney&#8217;s OpEds</a></li>
+	<li id="menu-item-159158" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-159158"><a href="http://www.centerforsecuritypolicy.org/type/articles/">Articles</a></li>
+	<li id="menu-item-179567" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-179567"><a href="http://www.centerforsecuritypolicy.org/type/free-fire/">Free Fire Blog</a></li>
+	<li id="menu-item-159159" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-159159"><a href="http://www.centerforsecuritypolicy.org/type/press-releases/">Press Releases</a></li>
+	<li id="menu-item-159161" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-159161"><a href="http://www.centerforsecuritypolicy.org/type/occasional-papers/">Occasional Papers</a></li>
+	<li id="menu-item-159162" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-159162"><a href="http://www.centerforsecuritypolicy.org/type/transcript/">Transcripts</a></li>
+	<li id="menu-item-179264" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-179264"><a href="http://www.centerforsecuritypolicy.org/type/congressional-scorecards/">Congressional Scorecards</a></li>
+	<li id="menu-item-178747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178747"><a href="http://www.centerforsecuritypolicy.org/books/">Books</a></li>
+	<li id="menu-item-159163" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-159163"><a href="http://www.centerforsecuritypolicy.org/type/events/">Events</a></li>
+	<li id="menu-item-159160" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-159160"><a href="http://www.centerforsecuritypolicy.org/type/video/">Video</a></li>
+	<li id="menu-item-159164" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-159164"><a href="http://www.centerforsecuritypolicy.org/type/podcasts/">Secure Freedom Radio Podcasts</a></li>
+</ul>
+</li>
+<li id="menu-item-157187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-157187"><a href="#">Research Areas</a>
+<ul class="sub-menu">
+	<li id="menu-item-157250" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-157250"><a href="http://www.centerforsecuritypolicy.org/category/shariah/">Shariah</a></li>
+	<li id="menu-item-177106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-177106"><a href="http://www.centerforsecuritypolicy.org/category/defense/">Defense</a></li>
+	<li id="menu-item-177107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-177107"><a href="http://www.centerforsecuritypolicy.org/category/homeland-security/">Homeland Security</a></li>
+	<li id="menu-item-177108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-177108"><a href="http://www.centerforsecuritypolicy.org/category/israel-the-middle-east/">Israel &#038; the Middle East</a></li>
+	<li id="menu-item-191988" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-191988"><a href="https://www.centerforsecuritypolicy.org/tag/africa/">Africa</a>
+	<ul class="sub-menu">
+		<li id="menu-item-190222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190222"><a title="CSP Africa Desk" href="https://www.centerforsecuritypolicy.org/africa-policy-competing-for-influence-on-the-new-strategic-front/">CSP Africa Desk</a></li>
+	</ul>
+</li>
+	<li id="menu-item-177109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-177109"><a href="http://www.centerforsecuritypolicy.org/category/regions/latin-america/">Latin America</a></li>
+	<li id="menu-item-177112" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-177112"><a href="http://www.centerforsecuritypolicy.org/category/sovereignty/">Sovereignty</a></li>
+	<li id="menu-item-177110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-177110"><a href="http://www.centerforsecuritypolicy.org/category/national-security-new-media/">National Security &#038; New Media</a></li>
+</ul>
+</li>
+<li id="menu-item-159242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159242"><a href="http://www.centerforsecuritypolicy.org/for-the-press/">Contact Us</a></li>
+<li id="menu-item-179489" class="menu-item menu-item-type-taxonomy menu-item-object-content_type menu-item-179489"><a href="http://www.centerforsecuritypolicy.org/type/free-fire/"><font color="white">Free Fire</font> Blog</a></li>
+</ul>				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</div></div></section>				</div>
+			</header>
+						<div id="page-main" class="container-group">
+				<div id="dynamic-content" class="outline">
+
+
+<!-- Content | Section Template -->
+<section id="content" class="container clone_1 section-content-area fix"><div class="texture"><div class="content"><div class="content-pad">		<div id="pagelines_content" class="one-sidebar-right fix">
+
+						<div id="column-wrap" class="fix">
+
+								<div id="column-main" class="mcolumn fix">
+					<div class="mcolumn-pad" >
+						
+
+<!-- PostLoop | Section Template -->
+<section id="postloop" class="copy clone_1 section-postloop"><div class="copy-pad"><article class="fpost post-number-1 post-181525 post type-post status-publish format-standard has-post-thumbnail hentry category-muslim-brotherhood-in-america tag-muslim-brotherhood content_type-books" id="post-181525"><div class="hentry-pad"><section class="post-meta fix post-nothumb  media"><section class="bd post-header fix" ><section class="bd post-title-section fix"><hgroup class="post-title fix"><span class="author">Center for Security Policy</span><h1 class="entry-title">An Explanatory Memorandum: From the Archives of the Muslim Brotherhood in America</h1>
+</hgroup><div class="metabar"><div class="metabar-pad"></div></div></section> </section></section><div class="entry_wrap fix"><div class="entry_content"><div class="full-img"><img width="630" height="300" src="http://www.centerforsecuritypolicy.org/wp-content/uploads/cache/2013/05/Explanatory_Cover-web/1604052030.png" class="attachment-638x300x1 size-638x300x1 wp-post-image" alt="Explanatory_Cover-web" /></div><a class="icon-term" href="http://www.centerforsecuritypolicy.org/type/books/">Books</a> | <time class="date time published updated sc" datetime="2013-05-25T07:55:34+00:00">May 25, 2013</time>  | <span class="categories sc"><a href="http://www.centerforsecuritypolicy.org/category/shariah/muslim-brotherhood-in-america/" rel="category tag">The Muslim Brotherhood in America</a></span>   				<div class="clear"></div>
+		<br>
+		<div class="pl-sharebar">
+            <div class="pl-sharebar-pad media">
+                <div class="bd fix">
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://tinyurl.com/nqxy6qe" data-text="An Explanatory Memorandum: From the Archives of the Muslim Brotherhood in America" data-via="" data-hashtags="">Tweet</a>		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		
+					<!-- <script>(function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id)) return;
+					js = d.createElement(s); js.id = id;
+					js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+					fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));
+			</script> -->
+			<div class="fb-like" data-href="http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-font="arial" style="vertical-align: top"></div><div class="g-plusone" data-size="medium" data-width="80" data-href="http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/"></div>		<!-- Place this render call where appropriate -->
+		<script type="text/javascript">
+		  (function() {
+		    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		    po.src = 'https://apis.google.com/js/plusone.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })();
+		</script>
+		
+							<a class="sbe_sharelink" href="mailto:" title="Share by Email"><img src="http://www.centerforsecuritypolicy.org/wp-content/themes/pagelines-template-theme/images/email.png" alt="" />Email</a>
+					<a class="sbe_sharelink right" href="javascript:window.print()" title="Print This Page"><img src="http://www.centerforsecuritypolicy.org/wp-content/themes/pagelines-template-theme/images/print.png"/>Print</a>
+				</div>
+                <div class="clear"></div>
+            </div>
+        </div><a class="single-term title alignleft books" href="http://www.centerforsecuritypolicy.org/type/books/"></a><p>We at the Center for Security Policy feel it is important for Americans to better understand&#8211; and, then, be able to successfully contend with&#8211; those that attempt to destroy or subvert our way of life. As making our nation&#8217;s enemies&#8217; threat doctrines available is a key part of our educational efforts, we are pleased to present the blueprint for the Muslim Brotherhood in America, known as <a href="http://www.amazon.com/dp/0982294719" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/dp/0982294719', 'An Explanatory Memorandum: On the General Strategic Goal for the Group in North America']);" ><strong>An Explanatory Memorandum: On the General Strategic Goal for the Group in North America</strong></a> or, in America&#8217;s largest terrorist prosecution in US federal court, Government Exhibit 003-0085 3:04-CR-240-G in <em>U.S. v Holy Land Foundation, et al</em>.</p>
+<p><a href="http://www.centerforsecuritypolicy.org/wp-content/uploads/2014/05/Explanatory_Memoradum.pdf" onclick="_gaq.push(['_trackEvent','download','http://www.centerforsecuritypolicy.org/wp-content/uploads/2014/05/Explanatory_Memoradum.pdf']);" ><strong>[CLICK HERE TO DOWNLOAD PDF]</strong></a></p>
+<p><a href="http://www.amazon.com/dp/0982294719" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/dp/0982294719', '']);" ><img class="alignright size-full wp-image-181527" style="margin: 5px 15px;" src="http://www.centerforsecuritypolicy.org/wp-content/uploads/2013/05/Explanatory_Cover-web2.png" alt="Explanatory_Cover-web2" width="335" height="503" srcset="http://www.centerforsecuritypolicy.org/wp-content/uploads/2013/05/Explanatory_Cover-web2.png 600w, http://www.centerforsecuritypolicy.org/wp-content/uploads/2013/05/Explanatory_Cover-web2-200x300.png 200w" sizes="(max-width: 335px) 100vw, 335px" /></a>In August of 2004, an alert Maryland Transportation Authority Police officer observed a woman wearing traditional Islamic garb videotaping the support structures of the Chesapeake Bay Bridge, and conducted a traffic stop. The driver was Ismail Elbarasse and detained on an outstanding material witness warrant issued in Chicago in connection with fundraising for Hamas.The FBI’s Washington Field Office subsequently executed a search warrant on Elbarasse’s residence in Annandale, Virginia. In the basement of his home, a hidden sub-basement was found; it revealed over 80 banker boxes of the archives of the Muslim Brotherhood in North America. One of the most important of these documents made public to date was entered into evidence during the Holy Land Foundation trial. It amounted to the Muslim Brotherhood’s strategic plan for the United States and was entitled, “An Explanatory Memorandum: On the General Strategic Goal for the Group in North America.” The Explanatory Memorandum was written in 1991 by a member of the Board of Directors for the Muslim Brotherhood in North America and senior Hamas leader named Mohammed Akram. It had been approved by the Brotherhood’s Shura Council and Organizational Conference and was meant for internal review by the Brothers’ leadership in Egypt. It was certainly not intended for public consumption, particularly in the targeted society: the United States. For these reasons, the memo constitutes a Rosetta stone for the Muslim Brotherhood, its goals, modus operandi and infrastructure in America. It is arguably the single most important vehicle for understanding a secretive organization and should, therefore, be considered required reading for policy-makers and the public, alike.</p>
+<div title="Page 9">
+<div>
+<div>
+<p>Another extraordinarily important element of the Memorandum is its attachment. Under the heading “ A List of Our Organizations and Organizations of Our Friends,” Akram helpfully identified 29 groups as Muslim Brotherhood fronts. Many of them are even now, some twenty-two years later, still among the most prominent Muslim- American organizations in the United States. Worryingly, the senior representatives of these groups are routinely identified by U.S. officials as “leaders” of the Muslim community in this country, to be treated as “partners” in “countering violent extremism” and other outreach initiatives. Obviously, this list suggests such treatment translates into vehicles for deep penetration of the American government and civil society.</p>
+<p>We urge the readers of this pamphlet to share it with others— family members, friends, business associates and most especially those in a position to help adopt policies that will secure our country against the threat posed by shariah and its most effective and aggressive promoters, the Muslim Brotherhood.</p>
+</div>
+</div>
+</div>
+<div title="Page 10">
+<div>
+<div>
+<p><strong><span style="font-size: 16px;">More about the Explanatory Memorandum (from <a href="http://www.amazon.com/Shariah-America-Exercise-Competitive-Analysis/dp/098229476X/ref=pd_sim_b_1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/Shariah-America-Exercise-Competitive-Analysis/dp/098229476X/ref=pd_sim_b_1', 'Shariah: The Threat to America']);" >Shariah: The Threat to America</a>):</span></strong></p>
+<blockquote><p>The following Muslim Brotherhood document was entered into evidence in the U.S. v Holy Land Foundation trial, and is a primary source threat document that provides new insights into global jihad organizations like the Muslim Brotherhood. These documents (covered extensively in chapter four) define the structure and outline of domestic jihad threat entities, associated non-governmental organizations and potential terrorist or insurgent support systems. The Memorandum also describes aspects of the global jihad’s strategic information warfare campaign and indications of its structure, reach and activities. It met evidentiary standards to be admissible as evidence in a Federal Court of law .</p>
+<p>In the original document, the first 16 pages are in the original Arabic and the second are English translations of the same. It is dated May 22, 1991 and titled “ An Explanatory Memorandum on the General Strategic Goal for the Group in North America” (Memorandum). The document includes an Attachment 1 that contains “a list of our organizations and the organizations of our friends.”</p>
+<p>The Memorandum expressly recognizes the Muslim Brotherhood (Ikhwan) as the controlling element of these organizations and expressly identifies the Muslim Brotherhood as the leadership element in implementing the strategic goals. The Memorandum is reproduced here in its official Federal Court translation, as Government Exhibit 003-0085 3:04-CR-240-G in U.S. v Holy Land Foundation, et al. with punctuation, line spacing and spelling intact.</p></blockquote>
+</div>
+</div>
+</div>
+<div title="Page 6">
+<div title="Page 6">
+<div>
+<div>
+<p><span style="font-size: 16px;"><strong>From the </strong><a href="http://www.amazon.com/dp/0982294719" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/dp/0982294719', 'Explanatory Memorandum']);" ><strong>Explanatory Memorandum</strong></a><strong>&#8212; the Muslim Brotherhood in America in its own words</strong>:</span></p>
+</div>
+</div>
+</div>
+<blockquote><p><span style="font-size: 16px;">“The process of settlement is a ‘Civilization-Jihadist Process’ with all the word means. The Ikhwan [Muslim Brotherhood] must understand that their work in America is a kind of grand jihad in eliminating and destroying the Western civilization from within and “sabotaging” its miserable house by their hands and the hands of the believers so that it is eliminated and God&#8217;s religion is made victorious over all other religions.”</span></p></blockquote>
+<p><a href="http://www.amazon.com/dp/0982294719" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/dp/0982294719', 'Buy it at Amazon.com']);" ><strong><span style="font-size: 16px;">Buy it at Amazon.com</span></strong></a></p>
+<p><iframe style="width:100%; height:500px;" src="http://docs.google.com/gview?url=http://www.centerforsecuritypolicy.org/wp-content/uploads/2014/05/Explanatory_Memoradum.pdf&amp;embedded=true" width="300" height="150" frameborder="0"></iframe></p>
+</div>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-181525" class="share-google-plus-1 sd-button share-icon" href="http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-181525" class="share-twitter sd-button share-icon" href="http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-end"></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-181525" class="share-facebook sd-button share-icon" href="http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon" href="http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-end"></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-181525" class="share-pinterest sd-button share-icon" href="http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li></ul></div></div></div></div></div><div class="p tags"><span class='note'>Tagged with &rarr;</span> <a href="http://www.centerforsecuritypolicy.org/tag/muslim-brotherhood/" rel="tag">Muslim Brotherhood</a>&nbsp;</div></div></div></div></article><div class="clear"></div></div></section>
+
+<!-- PostAuthor | Section Template -->
+<section id="postauthor" class="copy clone_1 section-postauthor"><div class="copy-pad">		
+				
+		<div class="media author-info">
+			<div class="img thumbnail author-thumb">
+				<a class="thumbnail" href="" target="_blank">
+					<img src="http://www.centerforsecuritypolicy.org/wp-content/uploads/cache/2013/02/CSP-author-img/417275686.png"/>				</a>
+			</div>
+			<div class="bd">
+				<small class="author-note">Author</small>
+				<h2>
+					Center for Security Policy				</h2>
+				<p>For over twenty-five years, the Center for Security Policy has pioneered the organization, management and direction of public policy coalitions to promote U.S. national security. Even more importantly, the Center’s mission has been to secure the adoption of the products of such efforts by skillfully enlisting support from executive branch officials, key legislators, other public policy organizations, opinion-shapers in the media and the public at large.<p><a href="https://twitter.com/securefreedom" class="twitter-follow-button" data-show-count="false">Follow @securefreedom</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+				<div class="author-details">
+												</div>
+			</div>
+		
+		</div>
+		<div class="clear"></div>
+<div class="clear"></div></div></section>					</div>
+				</div>
+
+							</div>
+			
+		<div id="sidebar-wrap" class="">
+					<div id="sidebar1" class="scolumn" >
+					<div class="scolumn-pad">
+						
+
+<!-- Primary Sidebar | Section Template -->
+<section id="sb_primary" class="copy clone_1 section-sb_primary"><div class="copy-pad"><ul id="list_sb_primary" class="sidebar_widgets fix"><li id="text-43" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.centerforsecuritypolicy.org/nsas/><img src=http://www.centerforsecuritypolicy.org/wp-content/uploads/2016/02/NSAS.png></a></div>
+		</div></li><li id="text-63" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.amazon.com/Shariah-Abridged-Frank-Gaffney-Jr/dp/1535032294/ref=sr_1_2?ie=UTF8&qid=1486583385&sr=8-2&keywords=sharia+the+threat><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2017/02/shariathethreatabridged.png></a></div>
+		</div></li><li id="text-60" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://wp.me/p4esn8-RjD><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2016/12/mosqueswidget.jpg></a>
+</div>
+		</div></li><li id="text-59" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://wp.me/p4esn8-Rjt><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2016/12/CAIRhamaswidget.jpg></a>
+</div>
+		</div></li><li id="text-57" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://wp.me/p4esn8-RgI><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2016/11/web-side-bar-russia.jpg></a>
+
+
+
+
+
+</div>
+		</div></li><li id="text-54" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://wp.me/p4esn8-Rfc><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2016/10/PD_widget.jpg></a></div>
+		</div></li><li id="text-55" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://wp.me/p4esn8-R1c><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2016/08/small-jihad.jpeg></a>
+
+
+
+
+
+
+</div>
+		</div></li><li id="text-56" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=http://www.centerforsecuritypolicy.org/2016/07/25/book-release-obamabomb-a-dangerous-and-growing-national-security-threat/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2016/07/small-side-image-book-obamabomb.jpg></a>
+</div>
+		</div></li><li id="text-53" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=http://www.centerforsecuritypolicy.org/2016/06/16/book-release-warning-order-china-prepares-for-conflict-and-why-we-must-do-the-same/><img src=http://www.centerforsecuritypolicy.org/wp-content/uploads/2016/06/web-top-image-china-book.jpg></a></div>
+		</div></li><li id="text-52" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=http://www.centerforsecuritypolicy.org/2016/04/27/book-release-ikhwan-in-america-an-oral-history-of-the-muslim-brotherhood-in-their-own-words//><img src=http://www.centerforsecuritypolicy.org/wp-content/uploads/2016/04/Ikhwan-side-image.jpg></a></div>
+		</div></li><li id="text-50" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=http://www.centerforsecuritypolicy.org/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/><img src=http://www.centerforsecuritypolicy.org/wp-content/uploads/2016/01/embox.png></a></div>
+		</div></li><li id="text-51" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=http://www.centerforsecuritypolicy.org/2016/04/14/book-release-see-no-sharia-countering-violent-extremism-and-the-disarming-of-americas-first-line-of-defense/><img src=http://www.centerforsecuritypolicy.org/wp-content/uploads/2016/04/see-no-sharia-side-menu.jpeg></a></div>
+		</div></li><li id="text-48" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.centerforsecuritypolicy.org/2015/12/17/book-release-the-gulen-movement-turkeys-islamic-supremacist-cult-and-its-contributions-to-the-civilization-jihad/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/12/gulen-widget.jpg></a></div>
+		</div></li><li id="text-47" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.centerforsecuritypolicy.org/2015/09/23/e-book-release-bridge-building-to-nowhere/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/11/InterfaithWidget111715_2.0.png></a>
+</div>
+		</div></li><li id="text-46" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.centerforsecuritypolicy.org/2015/10/28/book-release-offensive-and-defensive-lawfare-fighting-civilization-jihad-in-americas-courts/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/10/lawfare-700.jpg></a>
+</div>
+		</div></li><li id="text-45" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.centerforsecuritypolicy.org/2015/09/15/book-release-star-spangled-shariah-the-rise-of-americas-first-muslim-brotherhood-party/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/09/star-spangled-widget.jpg></a>
+</div>
+		</div></li><li id="text-44" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.amazon.com/Catastrophic-Failure-Blindfolding-America-Jihad/dp/1511617500/ref=sr_1_1?s=books&ie=UTF8&qid=1436976445&sr=1-1&keywords=catastrophic+failure/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/07/coughlin-Widget1.jpg></a>
+</div>
+		</div></li><li id="text-42" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.centerforsecuritypolicy.org/2015/07/08/book-release-the-organization-of-islamic-cooperations-jihad-on-free-speech/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/07/OIC-Widget1.png></a>
+</div>
+		</div></li><li id="text-41" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.centerforsecuritypolicy.org/2015/07/22/new-report-heralds-existential-threat-to-america/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/06/SimpsonBookWidget1-e1435078871597.png></a>
+</div>
+		</div></li><li id="text-39" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.centerforsecuritypolicy.org/2015/04/20/refugee-resettlement-and-the-hijra-to-america/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/04/Refugee_Hijra_Widget.jpg></a>
+
+
+</div>
+		</div></li><li id="text-37" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.centerforsecuritypolicy.org/civilization-jihad-reader-series/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/04/CJRS.png></a>
+
+
+</div>
+		</div></li><li id="text-5" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.centerforsecuritypolicy.org/2015/02/10/watch-live-defeat-jihad-summit/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/02/defeatjihadsummit2.png></a></div>
+		</div></li><li id="text-34" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href="https://www.centerforsecuritypolicy.org/the-secure-freedom-strategy/"><img src="https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/01/SecureFreedomStrategySidebar.png"></a></center></div>
+		</div></li><li id="text-17" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.centerforsecuritypolicy.org/2014/04/22/agent-of-influence-grover-norquist-and-the-assault-on-the-right/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/cache/2014/03/Grover_4th_ed_featured2/3075845318.jpg></a></div>
+		</div></li><li id="text-61" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=http://www.centerforsecuritypolicy.org/2015/01/05/shariah-in-american-courts-the-expanding-incursion-of-islamic-law-in-the-u-s-legal-system/><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2014/12/courtsforsidebartest.jpg></a>
+
+
+</div>
+		</div></li><li id="text-62" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.amazon.com/Securing-Freedom-Years-Firefights-Ideas/dp/1507860595/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1482523732&sr=8-1&keywords=securing+freedom+gaffney><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2016/12/securingfreedomside.png></a>
+
+
+
+
+
+
+
+</div>
+		</div></li><li id="text-36" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href="https://www.centerforsecuritypolicy.org/in-the-news/"><img src="https://www.centerforsecuritypolicy.org/wp-content/uploads/2015/03/secure_freedom_news_border2.jpg"></a></center></div>
+		</div></li><li id="text-32" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href="https://www.centerforsecuritypolicy.org/roku/"><img src="https://www.centerforsecuritypolicy.org/wp-content/uploads/2014/09/roku_widget_new5.png"></a></center>
+</div>
+		</div></li><li id="text-38" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><center><font color=#000000><b>SUPPORT PERSECUTED CHRISTIANS<br>
+STAND UP AGAINST JIHADISTS</b><b><font color=#000000>
+<br>
+ <a href="https://www.centerforsecuritypolicy.org/nazarene/"><img src="https://www.centerforsecuritypolicy.org/wp-content/uploads/2014/09/NazarenePin_250_GrayTypeCRPOP.jpg"></a>
+PROUDLY WEAR YOUR OWN NAZARENE LAPEL PIN<br>
+<br></center>
+</div>
+		</div></li><li id="text-6" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><div class="fb-like-box" data-href="https://www.facebook.com/securefreedom" data-width="237" data-show-faces="true" data-stream="false" data-border-color="#FFFFFF" data-header="false"></div></div>
+		</div></li><li id="text-15" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href=https://www.stitcher.com/podcast/secure-freedom-radio-podcast><img src=https://www.centerforsecuritypolicy.org/wp-content/uploads/2013/04/SFR-Stitcher-sidebar.png></a></div>
+		</div></li><li id="text-7" class="widget_text widget fix"><div class="widget-pad">			<div class="textwidget"><a href="/the-muslim-brotherhood-in-america"><img src="/wp-content/uploads/2014/06/MBinAmerica1-sidebar.jpg"></a></div>
+		</div></li>              <li id="brpwp_wrapper-2" class="widget_brpwp_wrapper widget fix"><div class="widget-pad">                  <h3 class="widget-title">Recent Posts</h3>							<ul class="no-bullets">
+																									<li  id="brpwp_205614" class="post-205614 post type-post status-publish format-standard has-post-thumbnail hentry category-appointments-policymakers category-asia category-borders category-counterterrorism-homeland-security category-foreign-policy category-middle-east category-muslim-brotherhood-in-america category-waging-war category-defense-deterrence-policy tag-diana-west tag-gordon-chang tag-jim-hanson tag-with-phil-haney content_type-podcasts">
+																															<span class="brpwp-title"><a href="http://www.centerforsecuritypolicy.org/2017/02/22/submitting-to-sharia/">Submitting to Sharia</a></span>
+																														Secure Freedom Radio																														
+									</li>
+																										<li  id="brpwp_205629" class="post-205629 post type-post status-publish format-standard has-post-thumbnail hentry category-cyberterrorism category-intelligence tag-abid-awan tag-dnc tag-imran-awan tag-jamal-awan content_type-articles">
+																															<span class="brpwp-title"><a href="http://www.centerforsecuritypolicy.org/2017/02/22/another-major-democratic-email-scandal-the-news-media-is-ignoring/">Another Major Democratic Email Scandal the News Media is Ignoring</a></span>
+																														Fred Fleitz																														
+									</li>
+																										<li  id="brpwp_205625" class="post-205625 post type-post status-publish format-standard has-post-thumbnail hentry category-understanding-shariah-threat-doctrine content_type-press-releases">
+																															<span class="brpwp-title"><a href="http://www.centerforsecuritypolicy.org/2017/02/22/center-president-calls-for-georgetown-university-to-repudiate-professor-who-defends-slavery-misogyny/">Center President Calls For Georgetown University To Repudiate Professor Who Defends Slavery, Misogyny</a></span>
+																														Center for Security Policy																														
+									</li>
+																										<li  id="brpwp_205620" class="post-205620 post type-post status-publish format-standard hentry category-asia category-middle-east tag-afghanistan tag-islamic-terrorism tag-pakistan content_type-free-fire">
+																															<span class="brpwp-title"><a href="http://www.centerforsecuritypolicy.org/2017/02/22/what-does-pakistans-upsurge-in-islamic-violence-portend/">What does Pakistan’s upsurge in Islamic violence portend?</a></span>
+																														Jakub Gorski																														
+									</li>
+																										<li  id="brpwp_205607" class="post-205607 post type-post status-publish format-standard hentry category-csp-journal tag-secure-freedom-minute content_type-free-fire">
+																															<span class="brpwp-title"><a href="http://www.centerforsecuritypolicy.org/2017/02/22/execute-trumps-strategy-for-victory-over-jihad/">Execute Trump&#8217;s Strategy for Victory over Jihad</a></span>
+																														Frank Gaffney, Jr.																														
+									</li>
+																							</ul>
+              </div></li>        </ul><div class="clear"></div></div></section>					</div>
+				</div>
+					</div>
+			</div>
+</div></div></div></section>				</div>
+								<div id="morefoot_area" class="container-group">
+									</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+
+	<footer id="footer" class="container-group">
+		<div class="outline fix">
+				</div>
+	</footer>
+</div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '376746642416120', // App ID from the App Dashboard
+      channelUrl : '//www.centerforsecuritypolicy.org/channel.php', // Channel File for x-domain communication
+      status     : true, // check the login status upon init?
+      cookie     : true, // set sessions cookies to allow your server to access the session?
+      xfbml      : true  // parse XFBML tags on this page?
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+
+  };
+
+  // Load the SDK's source Asynchronously
+  // Note that the debug version is being actively developed and might 
+  // contain some type checks that are overly strict. 
+  // Please report such bugs using the bugs tool.
+  (function(d, debug){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document, /*debug*/ false));
+</script><center>
+Copyright &copy; 1988-2017 Center for Security Policy | All Rights Reserved
+
+	<div style="display:none">
+	</div>
+
+	<script>
+		jQuery(document).ready(function($){
+			//expand description
+			var adjustheight = 89;
+			var normalHeight = $('.cat-desc').outerHeight();
+			var moreText = "Read More...";
+			// The "less" link text
+			var lessText = "Read Less...";
+
+			// Sets the .more-block div to the specified height and hides any content that overflows
+			$(".cat-desc").css('height', adjustheight).css('overflow', 'hidden');
+
+			// The section added to the bottom of the "more-less" div
+			if(normalHeight > adjustheight){
+				$(".cat-desc").append('<p class="continued">[…]</p>');
+			}
+			if(normalHeight < adjustheight){
+				$(".read-more-expand").remove();
+			}
+			// Set the "More" text
+			$(".read-more-expand").text(moreText);
+
+			$(".read-more-expand").toggle(function() {
+					$(this).parents("div:first").find(".cat-desc").animate({
+						height: normalHeight
+					}, 500 );
+					// Hide the [...] when expanded
+					$(".cat-desc").find("p.continued").css('display', 'none');
+					$(this).text(lessText);
+				}, function() {
+					$(this).parents("div:first").find(".cat-desc").css('overflow', 'hidden').animate({
+						height: adjustheight
+					}, 500 );
+					$(".cat-desc").find("p.continued").css('display', 'block');
+					$(this).text(moreText);
+			});
+		});
+	</script>
+
+	
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/www.centerforsecuritypolicy.org\/2013\/05\/25\/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america\/":181525};
+	</script>
+	<div id="sharing_email" style="display: none;">
+		<form action="/2013/05/25/an-explanatory-memorandum-from-the-archives-of-the-muslim-brotherhood-in-america/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="http://www.centerforsecuritypolicy.org/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+				
+<!-- Footer Scripts -->
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DavesWordPressLiveSearchConfig = {"resultsDirection":"down","showThumbs":"true","showExcerpt":"true","showMoreResultsLink":"true","minCharsToSearch":"2","xOffset":"-100","yOffset":"0","blogURL":"http:\/\/www.centerforsecuritypolicy.org","ajaxURL":"https:\/\/www.centerforsecuritypolicy.org\/wp-admin\/admin-ajax.php","viewMoreText":"View more results","outdatedJQuery":"Dave's WordPress Live Search requires jQuery 1.2.6 or higher. WordPress ships with current jQuery versions. But if you are seeing this message, it's likely that another plugin is including an earlier version.","resultTemplate":"<ul id=\"dwls_search_results\" class=\"search_results dwls_search_results\">\n<input type=\"hidden\" name=\"query\" value=\"<%- resultsSearchTerm %>\" \/>\n<% _.each(searchResults, function(searchResult, index, list) { %>\n        <%\n        \/\/ Thumbnails\n        if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) {\n                liClass = \"post_with_thumb\";\n        }\n        else {\n                liClass = \"\";\n        }\n        %>\n        <li class=\"daves-wordpress-live-search_result <%- liClass %> '\">\n        <% if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) { %>\n                <img src=\"<%= searchResult.attachment_thumbnail %>\" class=\"post_thumb\" \/>\n        <% } %>\n\n        <a href=\"<%= searchResult.permalink %>\" class=\"daves-wordpress-live-search_title\"><%= searchResult.post_title %><\/a>\n\n        <% if(searchResult.post_price !== undefined) { %>\n                <p class=\"price\"><%- searchResult.post_price %><\/p>\n        <% } %>\n\n        <% if(DavesWordPressLiveSearchConfig.showExcerpt == \"true\" && searchResult.post_excerpt) { %>\n                <p class=\"excerpt clearfix\"><%= searchResult.post_excerpt %><\/p>\n        <% } %>\n\n        <% if(e.displayPostMeta) { %>\n                <p class=\"meta clearfix daves-wordpress-live-search_author\" id=\"daves-wordpress-live-search_author\">Posted by <%- searchResult.post_author_nicename %><\/p><p id=\"daves-wordpress-live-search_date\" class=\"meta clearfix daves-wordpress-live-search_date\"><%- searchResult.post_date %><\/p>\n        <% } %>\n        <div class=\"clearfix\"><\/div><\/li>\n<% }); %>\n\n<% if(searchResults[0].show_more !== undefined && searchResults[0].show_more && DavesWordPressLiveSearchConfig.showMoreResultsLink == \"true\") { %>\n        <div class=\"clearfix search_footer\"><a href=\"<%= DavesWordPressLiveSearchConfig.blogURL %>\/?s=<%-  resultsSearchTerm %>\"><%- DavesWordPressLiveSearchConfig.viewMoreText %><\/a><\/div>\n<% } %>\n\n<\/ul>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-content/plugins/daves-wordpress-live-search/js/daves-wordpress-live-search.min.js?ver=4.5.6'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-content/plugins/daves-wordpress-live-search/js/excanvas.compiled.js?ver=4.5.6'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-content/plugins/daves-wordpress-live-search/js/spinners.min.js?ver=4.5.6'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201708'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-content/themes/pagelines/js/script.bootstrap.min.js?ver=2.3.1'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-content/themes/pagelines/js/script.blocks.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-includes/js/wp-embed.min.js?ver=4.5.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.centerforsecuritypolicy.org/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201708.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.1.1',blog:'62551002',post:'181525',tz:'-6',srv:'www.centerforsecuritypolicy.org'} ]);
+	_stq.push([ 'clickTrackerInit', '62551002', '181525' ]);
+</script>
+</center>
+</body>
+</html>
+

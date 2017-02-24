@@ -1,0 +1,545 @@
+   REFRESH(21600 sec):
+   [1]file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw396.txt
+
+   LOADING
+
+   FEEDBACK
+   CBB
+   ALL LEAGUES
+   CBB
+   NBA
+   NHL
+   cbb | Thu 2/23 6:30 PM
+   CHARSO
+   @ WINTHR
+   57%
+     43%
+   WINTHR -15.5
+   cbb | Thu 2/23 7:00 PM
+   UGA
+   @ BAMA
+     44%
+   56%
+   BAMA -4.5
+   cbb | Thu 2/23 7:00 PM
+   WKY
+   @ CHARLO
+     25%
+   75%
+   CHARLO -3
+   cbb | Thu 2/23 7:00 PM
+   MEMP
+   @ CINCY
+   63%
+     37%
+   CINCY -12.5
+   cbb | Thu 2/23 7:00 PM
+   JMAD
+   @ DREXEL
+     19%
+   81%
+   DREXEL -2
+   cbb | Thu 2/23 7:00 PM
+   JAXST
+   @ EKY
+   65%
+     35%
+   JAXST -1.5
+   cbb | Thu 2/23 7:00 PM
+   UTEP
+   @ FAU
+   73%
+     27%
+   UTEP -1
+   cbb | Thu 2/23 7:00 PM
+   TXSA
+   @ FIU
+   54%
+     46%
+   FIU -4
+   cbb | Thu 2/23 7:00 PM
+   UMASS
+   @ GWASH
+     31%
+   69%
+   GWASH -4.5
+   cbb | Thu 2/23 7:00 PM
+   IPFW
+   @ IUPUI
+   68%
+     32%
+   IPFW -1.5
+   cbb | Thu 2/23 7:00 PM
+   NEB
+   @ MICHST
+     35%
+   65%
+   MICHST -6
+   cbb | Thu 2/23 7:00 PM
+   LIU
+   @ MOUNT
+     35%
+   65%
+   MOUNT -6
+   cbb | Thu 2/23 7:00 PM
+   TOWSON
+   @ NCWILM
+   65%
+     35%
+   NCWILM -11
+   cbb | Thu 2/23 7:00 PM
+   HOFSTRA
+   @ WMMARY
+     20%
+   80%
+   WMMARY -7.5
+   cbb | Thu 2/23 7:00 PM
+   NEAST
+   @ ELON
+     21%
+   79%
+   ELON -4
+   cbb | Thu 2/23 7:30 PM
+   DEL
+   @ CHARLS
+     42%
+   58%
+   CHARLS -14.5
+   cbb | Thu 2/23 7:30 PM
+   QUINN
+   @ MARIST
+     44%
+   56%
+   MARIST PK
+   cbb | Thu 2/23 7:30 PM
+   MURYST
+   @ SEMO
+   74%
+     26%
+   MURYST -1.5
+   cbb | Thu 2/23 8:00 PM
+   LATECH
+   @ NTEXAS
+   70%
+     30%
+   LATECH -10.5
+   cbb | Thu 2/23 8:00 PM
+   MRSHL
+   @ ODU
+     31%
+   69%
+   ODU -6.5
+   cbb | Thu 2/23 8:00 PM
+   USM
+   @ RICE
+   71%
+     29%
+   RICE -17
+   cbb | Thu 2/23 8:00 PM
+   PEAY
+   @ TNMART
+     38%
+   62%
+   TNMART -8
+   cbb | Thu 2/23 8:00 PM
+   SFLA
+   @ TULSA
+     29%
+   71%
+   TULSA -13
+   cbb | Thu 2/23 8:00 PM
+   SDAK
+   @ WILL
+   78%
+     22%
+   SDAK -5
+   cbb | Thu 2/23 9:00 PM
+   UCLA
+   @ ARIZST
+   68%
+     32%
+   UCLA -12
+   cbb | Thu 2/23 9:00 PM
+   NCASHV
+   @ GWEBB
+   68%
+     32%
+   NCASHV -1.5
+   cbb | Thu 2/23 9:00 PM
+   TNTECH
+   @ MOREHD
+     50%
+     50%
+   MOREHD -7.5
+   cbb | Thu 2/23 9:00 PM
+   WISC
+   @ OHIOST
+   74%
+     26%
+   WISC -5
+   cbb | Thu 2/23 9:05 PM
+   WEBER
+   @ EWASH
+     29%
+   71%
+   EWASH -3
+   cbb | Thu 2/23 10:00 PM
+   USC
+   @ ARIZ
+     30%
+   70%
+   ARIZ -8
+   cbb | Thu 2/23 10:00 PM
+   IDST
+   @ IDAHO
+     42%
+   58%
+   IDAHO -10.5
+   cbb | Thu 2/23 10:00 PM
+   CPOLY
+   @ LNGBCH
+     24%
+   76%
+   LNGBCH -8
+   cbb | Thu 2/23 10:00 PM
+   SANFRAN
+   @ LOYMRY
+   75%
+     25%
+   SANFRAN -2
+   cbb | Thu 2/23 10:00 PM
+   BYU
+   @ PORT
+   73%
+     27%
+   BYU -10
+   cbb | Thu 2/23 10:00 PM
+   CSN
+   @ UCDAV
+     15%
+   85%
+   UCDAV -5.5
+   cbb | Thu 2/23 10:00 PM
+   UCRIV
+   @ UCSB
+   78%
+     22%
+   UCRIV -2
+   cbb | Thu 2/23 10:00 PM
+   GONZAG
+   @ USD
+   66%
+     34%
+   GONZAG -23
+   cbb | Thu 2/23 10:00 PM
+   MARYCA
+   @ PEPPER
+     43%
+   57%
+   MARYCA -19
+   cbb | Thu 2/23 10:00 PM
+   UOP
+   @ SNCLRA
+
+
+   SNCLRA -9.5
+   cbb | Thu 2/23 10:05 PM
+   SUTAH
+   @ PORTST
+     33%
+   67%
+   PORTST -12
+   cbb | Thu 2/23 10:05 PM
+   NAU
+   @ SACST
+     30%
+   70%
+   SACST -9
+   cbb | Thu 2/23 11:00 PM
+   UTAH
+   @ COLO
+     39%
+   61%
+   COLO -2
+   [2]ALL ODDS
+
+SportsLine Pro Sports Picks & Odds
+
+   [S-L-new.svg]
+   [Sportsline-text.svg]
+   SEARCH
+   ____________________
+   Enter Team (4 characters or more)
+   SIGN IN
+   BECOME A MEMBER
+   [3]EXPERTS [4]PICKS [5]ODDS [6]DFS
+
+SportsLine Pro Sports Picks & Odds
+
+   [S-L-new.svg]
+   ARTICLE
+
+   [7]EXPERTS [8]PICKS [9]ODDS [10]DAILY FANTASY [11]ARTICLES [12]HELP
+   SEARCH
+   ____________________
+   Enter Team (4 characters or more)
+   SIGN OUT
+   ALL PICKS
+   $9.99 MONTHLY
+   SIGN IN
+
+Martellus Bennett Favored to Return to Patriots
+
+   Martellus Bennett is an unrestricted free agent and looking to cash in.
+   Here's who's favored to sign him headed into the 2017 season, according
+   to BetOnline.ag.
+
+   [50_clear_daniel_cypra.png]
+
+   By Daniel Cypra
+
+   Feb 22, 7:29PM EST
+
+
+   IFRAME: [13]embedVideo_1118890201805
+
+   Almost exactly a year ago, Martellus Bennett was traded from the
+   Chicago Bears to the New England Patriots for a fourth round draft
+   pick.
+
+   The result: Bennett had a career-high seven touchdowns. All that while
+   playing alongside Rob Gronkowski, one of the league's top-producing
+   tight ends, for a chunk of the season. He also won a Super Bowl.
+
+   Now, he's an unrestricted free agent and looking to cash in.
+
+   Here's who's favored to sign him headed into the 2017 season, according
+   to BetOnline.ag.
+
+   [14]CBS SPORTS: MARTELLUS BENNETT WANTS TO TEST FREE AGENCY
+
+   NEW ENGLAND PATRIOTS: 3/2
+
+   According to NESN, Bennett turned down a $7 million per year extension
+   with the Patriots before last season. He's made it known that he wants
+   to get paid and has already won a ring. With Gronkowski a perpetual
+   health risk, the Patriots may pay Bennett to stay in Foxboro.
+
+   JACKSONVILLE JAGUARS: 5/1
+
+   The Jaguars just sent TE Julius Thomas to the Dolphins for LT Brandon
+   Albert, leaving them with few options at the position. The Jags have
+   $73 million in cap space, according to Spotrac, plenty of cash to sign
+   Bennett.
+
+   IFRAME: [15]/sportsline-web/newsletter-signup-iframe.html
+
+   LOS ANGELES RAMS: 5/1
+
+   Lance Kendricks emerged as a capable weapon in LA last season, although
+   he only scored twice. He's under contract through the end of next
+   season, so we'd pass on the Rams as Bennett's next destination. They
+   have plenty of holes to fill.
+
+   TENNESSEE TITANS: 5/1
+
+   Titans TE Delanie Walker is coming off a career-high seven touchdowns,
+   but his reception total dipped significantly from 94 to 65. Bringing in
+   Bennett could give the Titans another trustworthy option for QB Marcus
+   Mariota. However, they have plenty of other needs.
+
+   TAMPA BAY BUCCANEERS: 5/1
+
+   Bucs TE Cameron Brate was a stud last season. He had more touchdowns
+   than Bennett (eight) and hauled in 40 first downs. The Bucs paying
+   Bennett when they have plenty of other needs, like WR and RB, seems
+   like a poor use of cash. Still, they need more playmakers on offense in
+   the high-flying NFC South.
+
+   DENVER BRONCOS: 8/1
+
+   The most productive tight end on the Broncos' roster last season was
+   Virgil Green, who had just 22 catches. Bennett to Denver makes plenty
+   of sense and they have $33 million in cap space. Should he land in
+   Denver as well, Tony Romo to Bennett could be a lethal combination.
+
+   NEW YORK GIANTS: 12/1
+
+   The Giants are needy at the tight end position. Will Tye had 48
+   catches, but was a non-factor in the red zone and scored only once.
+   Reports are that New York won't re-sign TE Larry Donnell, leaving room
+   to sign Bennett.
+
+   SAN FRANCISCO 49ERS: 12/1
+
+   TE Vance McDonald was a favorite for QB Colin Kaepernick last season
+   and scored four times on 24 catches, but with a regime change to new
+   head coach Kyle Shanahan, we could see plenty of new faces in the Bay
+   Area.
+
+   From BetOnline.ag: Martellus Bennett - First Regular Season Game of
+   2017:
+     * New England Patriots: +150
+     * Jacksonville Jaguars: +500
+     * Los Angeles Rams: +500
+     * Tennessee Titans: +500
+     * Tampa Bay Buccaneers: +500
+     * Denver Broncos: +800
+     * New York Giants: +1200
+     * San Francisco 49ers: +1200
+
+   [50_clear_daniel_cypra.png]
+   Daniel Cypra
+
+  MORE FROM THE SPORTSLINE EXPERTS
+
+   [16]SEE ALL ARTICLES
+
+   [L_article_JCutler_02_22.jpg]
+   [50_clear_daniel_cypra.png]
+   Daniel Cypra
+   Dolphins, Jets Favored to Land Jay Cutler
+
+   [L_article_ICrowell_02_21.jpg]
+   [50_clear_daniel_cypra.png]
+   Daniel Cypra
+   Isaiah Crowell Likely Returning to Browns in 2017
+
+   [L_article_APeterson_9_16.jpg]
+   [50_clear_larry_hartstein.png]
+   Larry Hartstein
+   Senior Analyst
+   Surprising favorite emerges to land Adrian Peterson
+
+   [L_article_LMcCoy_02_20.jpg]
+   [50_clear_daniel_cypra.png]
+   Daniel Cypra
+   LeSean McCoy Being a Salary Cap Casualty Isn't Likely
+
+   2017 CBS INTERACTIVE INC. ALL RIGHTS RESERVED.
+   SportsLine is a registered service mark of SportsLine.com, Inc.
+   SportsLine Pro is a service mark of SportsLine.com, Inc.
+   [17]PRIVACY POLICY [18]CBSi TERMS OF USE [19]SPORTSLINE TERMS OF USE
+   [20]MOBILE USER AGREEMENT
+   [21]FAQ/HELP [22]CAREERS
+
+   In partnership with...
+   [23]http://www.247sports.com/
+   FOLLOW US:
+   Statistical support provided by
+
+   [24]PRIVACY POLICY [25]CBSi TERMS OF USE [26]SPORTSLINE TERMS OF USE
+   [27]MOBILE USER AGREEMENT [28]FAQ/HELP [29]CAREERS
+
+   In partnership with...
+   [30]http://www.247sports.com/
+   FOLLOW US:
+   Live Odds
+   Provided by
+   sportsline direct
+   FEEDBACK
+   2017 CBS INTERACTIVE INC. ALL RIGHTS RESERVED.
+   SportsLine is a registered service mark of SportsLine.com, Inc.
+   SportsLine Pro is a service mark of SportsLine.com, Inc.
+
+   LOADING
+
+References
+
+   Visible links
+   1. file:///home/tmedina/cs432/assignment3/part1/uri_raw396.txt
+   2. file:///college-basketball/odds/
+   3. file:///experts/
+   4. file:///college-basketball/picksheet/
+   5. file:///college-basketball/odds/
+   6. file:///nba/daily-fantasy/fantasydraft/
+   7. file:///experts/
+   8. file:///college-basketball/picksheet/
+   9. file:///college-basketball/odds/
+  10. file:///nba/daily-fantasy/fantasydraft/
+  11. file:///college-basketball/articles/
+  12. https://secure.sportsline.com/help?help_category=CBS_Sports:SportsLinePro&help_type=sportslinepro.com_knowledgehome2
+  13. http://www.sportsline.com/video/player/embed?args=player_id=1118890201805&channel=nfl&pcid=882496579861&width=640&height=360&autoplay=true&comp_ads_enabled=false&uvpc=http%3A%2F%2Fsports.cbsimg.net%2Fvideo%2Fuvp%2Fconfig%2Fv3%2Fuvp_sportsline.xml&uvpc_m=http%3A%2F%2Fsports.cbsimg.net%2Fvideo%2Fuvp%2Fconfig%2Fv3%2Fuvp_sportsline_m.xml&partner=sportsline&partner_m=sportsline_mobile&resizable=true&domain=sportsline.com&lazy_load=true
+  14. http://www.cbssports.com/nfl/news/martellus-bennett-reportedly-wants-to-test-the-free-agent-market/
+  15. file:///sportsline-web/newsletter-signup-iframe.html
+  16. file:///nfl/articles/
+  17. https://www.cbsinteractive.com/legal/cbsi/privacy-policy
+  18. https://www.cbsinteractive.com/legal/cbsi/terms-of-use
+  19. file:///terms-of-use
+  20. https://www.cbsinteractive.com/legal/cbsi/mobile-eula
+  21. https://secure.sportsline.com/help?help_category=CBS_Sports:SportsLinePro&help_type=sportslinepro.com_knowledgehome2
+  22. http://www.cbsinteractive.com/careers
+  23. http://www.247sports.com/
+  24. https://www.cbsinteractive.com/legal/cbsi/privacy-policy
+  25. https://www.cbsinteractive.com/legal/cbsi/terms-of-use
+  26. file:///terms-of-use
+  27. https://www.cbsinteractive.com/legal/cbsi/mobile-eula
+  28. https://secure.sportsline.com/help?help_category=CBS_Sports:SportsLinePro&help_type=sportslinepro.com_knowledgehome2
+  29. http://www.cbsinteractive.com/careers
+  30. http://www.247sports.com/
+
+   Hidden links:
+  32. https://secure.sportsline.com/help?help_category=CBS_Sports%3ADaily_Fantasy&help_type=sportslinepro.com_sitefeedback2
+  33. file://localhost/college-basketball/game-forecast/NCAAB_20170223_CHARSO@WINTHR/
+  34. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UGA@BAMA/
+  35. file://localhost/college-basketball/game-forecast/NCAAB_20170223_WKY@CHARLO/
+  36. file://localhost/college-basketball/game-forecast/NCAAB_20170223_MEMP@CINCY/
+  37. file://localhost/college-basketball/game-forecast/NCAAB_20170223_JMAD@DREXEL/
+  38. file://localhost/college-basketball/game-forecast/NCAAB_20170223_JAXST@EKY/
+  39. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UTEP@FAU/
+  40. file://localhost/college-basketball/game-forecast/NCAAB_20170223_TXSA@FIU/
+  41. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UMASS@GWASH/
+  42. file://localhost/college-basketball/game-forecast/NCAAB_20170223_IPFW@IUPUI/
+  43. file://localhost/college-basketball/game-forecast/NCAAB_20170223_NEB@MICHST/
+  44. file://localhost/college-basketball/game-forecast/NCAAB_20170223_LIU@MOUNT/
+  45. file://localhost/college-basketball/game-forecast/NCAAB_20170223_TOWSON@NCWILM/
+  46. file://localhost/college-basketball/game-forecast/NCAAB_20170223_HOFSTRA@WMMARY/
+  47. file://localhost/college-basketball/game-forecast/NCAAB_20170223_NEAST@ELON/
+  48. file://localhost/college-basketball/game-forecast/NCAAB_20170223_DEL@CHARLS/
+  49. file://localhost/college-basketball/game-forecast/NCAAB_20170223_QUINN@MARIST/
+  50. file://localhost/college-basketball/game-forecast/NCAAB_20170223_MURYST@SEMO/
+  51. file://localhost/college-basketball/game-forecast/NCAAB_20170223_LATECH@NTEXAS/
+  52. file://localhost/college-basketball/game-forecast/NCAAB_20170223_MRSHL@ODU/
+  53. file://localhost/college-basketball/game-forecast/NCAAB_20170223_USM@RICE/
+  54. file://localhost/college-basketball/game-forecast/NCAAB_20170223_PEAY@TNMART/
+  55. file://localhost/college-basketball/game-forecast/NCAAB_20170223_SFLA@TULSA/
+  56. file://localhost/college-basketball/game-forecast/NCAAB_20170223_SDAK@WILL/
+  57. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UCLA@ARIZST/
+  58. file://localhost/college-basketball/game-forecast/NCAAB_20170223_NCASHV@GWEBB/
+  59. file://localhost/college-basketball/game-forecast/NCAAB_20170223_TNTECH@MOREHD/
+  60. file://localhost/college-basketball/game-forecast/NCAAB_20170223_WISC@OHIOST/
+  61. file://localhost/college-basketball/game-forecast/NCAAB_20170223_WEBER@EWASH/
+  62. file://localhost/college-basketball/game-forecast/NCAAB_20170223_USC@ARIZ/
+  63. file://localhost/college-basketball/game-forecast/NCAAB_20170223_IDST@IDAHO/
+  64. file://localhost/college-basketball/game-forecast/NCAAB_20170223_CPOLY@LNGBCH/
+  65. file://localhost/college-basketball/game-forecast/NCAAB_20170223_SANFRAN@LOYMRY/
+  66. file://localhost/college-basketball/game-forecast/NCAAB_20170223_BYU@PORT/
+  67. file://localhost/college-basketball/game-forecast/NCAAB_20170223_CSN@UCDAV/
+  68. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UCRIV@UCSB/
+  69. file://localhost/college-basketball/game-forecast/NCAAB_20170223_GONZAG@USD/
+  70. file://localhost/college-basketball/game-forecast/NCAAB_20170223_MARYCA@PEPPER/
+  71. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UOP@SNCLRA/
+  72. file://localhost/college-basketball/game-forecast/NCAAB_20170223_SUTAH@PORTST/
+  73. file://localhost/college-basketball/game-forecast/NCAAB_20170223_NAU@SACST/
+  74. file://localhost/college-basketball/game-forecast/NCAAB_20170223_UTAH@COLO/
+  75. file://localhost/
+  76. https://secure.sportsline.com/help?help_category=CBS_Sports%3ASportsLinePro&help_type=sportslinepro.com_knowledgehome2
+  77. https://secure.sportsline.com/login?master_product=23350&xurl=http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25781878%2Fmartellus-bennett-favored-to-return-to-patriots%2F
+  78. file://localhost/join/
+  79. file://localhost/
+  80. file://localhost/
+  81. file://localhost/
+  82. file://localhost/join/
+  83. https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25781878%2Fmartellus-bennett-favored-to-return-to-patriots%2F
+  84. https://twitter.com/intent/tweet?text=Martellus%20Bennett%20Favored%20to%20Return%20to%20Patriots%20http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25781878%2Fmartellus-bennett-favored-to-return-to-patriots%2F%20via%20%40sportsline
+  85. mailto:?subject=Martellus%20Bennett%20Favored%20to%20Return%20to%20Patriots&body=http://www.sportsline.com/insiders/25781878/martellus-bennett-favored-to-return-to-patriots/%0D%0A%0D%0AMartellus%20Bennett%20is%20an%20unrestricted%20free%20agent%20and%20looking%20to%20cash%20in.%20Here's%20who's%20favored%20to%20sign%20him%20headed%20into%20the%202017%20season,%20according%20to%20BetOnline.ag.
+  86. sms:?&body=http%3A%2F%2Fwww.sportsline.com%2Finsiders%2F25781878%2Fmartellus-bennett-favored-to-return-to-patriots%2F%0D%0A%0D%0AMartellus Bennett is an unrestricted free agent and looking to cash in. Here's who's favored to sign him headed into the 2017 season, according to BetOnline.ag.
+  87. file://localhost/insiders/25781738/dolphins-jets-favored-to-land-jay-cutler/
+  88. file://localhost/insiders/25781003/isaiah-crowell-likely-returning-to-browns-in-2017/
+  89. file://localhost/insiders/25780572/surprising-favorite-emerges-to-land-adrian-peterson/
+  90. file://localhost/insiders/25780963/lesean-mccoy-being-a-salary-cap-casualty-isnt-likely/
+  91. https://www.facebook.com/sportsline
+  92. https://twitter.com/sportsline
+  93. https://www.facebook.com/sportsline
+  94. https://twitter.com/sportsline
+  95. https://secure.sportsline.com/help?help_category=CBS_Sports%3ADaily_Fantasy&help_type=sportslinepro.com_sitefeedback2

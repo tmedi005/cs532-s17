@@ -1,0 +1,2483 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Disable IE compatibility view - needs to appear before any IE conditional comments -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+	<meta charset="UTF-8" />
+
+	<title>Tom Brady Movie: &#8216;The Finest Hours&#8217; Team Plan Book &amp; Film About QB | Deadline</title>
+
+	<link rel="image_src" link="https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/screenshot.png" />
+	<meta name="viewport" content="width=device-width" />
+
+	
+<!-- Facebook / OpenGraph -->
+<meta property="fb:page_id" content="105558754896" />
+
+<!-- Deprecated: Yahoo Site Explorer -->
+<meta name="y_key" content="a810be562637c603" />
+
+<!-- Pinterest -->
+<meta name="p:domain_verify" content="f5dfa14b5684550478e0b704b2c372b9">
+
+<!-- Apple Smart App Banner -->
+<meta name="apple-itunes-app" content="app-id=533209613">
+
+<!-- Pingdom RUM start -->
+<script type="text/javascript">
+var _prum = [['id', '53349e43abe53d611f527b3d'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+<!-- Pingdom RUM end -->
+
+<!-- Quantcast Tag, part 1 -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<!-- Quantcast tag End, part 1 -->
+
+		<!-- Amazon adcode begin-->
+		<script data-cfasync='true' type='text/javascript' src='//c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+		<script data-cfasync='true' type='text/javascript'>
+			try {
+				amznads.getAds('3157');
+			} catch(e) { /*ignore*/}
+		</script>
+		<!-- Amazon adcode end-->
+		
+<!-- BEGIN Krux Control Tag -->
+<script class="kxct" data-id="Jhm7Eorf" data-timing="async" data-version="3.0" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    k.src="https:\/\/cdn.krxd.net\/controltag\/Jhm7Eorf.js";
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+
+</script>
+<!-- END Krux Controltag -->
+
+<!-- GPT interchange code -->
+<script>
+ window.Krux || ((Krux = function() {
+   Krux.q.push(arguments);
+ }).q = []);
+ (function() {
+   function retrieve(n) {
+     var m, k = 'kx' + n;
+     if (window.localStorage) {
+       return window.localStorage[k] || "";
+     } else if (navigator.cookieEnabled) {
+       m = document.cookie.match(k + '=([^;]*)');
+       return (m && unescape(m[1])) || "";
+     } else {
+       return '';
+     }
+   }
+   Krux.user = retrieve('user');
+   Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+ })();
+</script>
+
+<meta name="description" content="A new book and feature film project about Tom Brady, who has won more Super Bowls than any quarterback in NFL history, is on its way." />
+<meta name="keywords" content="" />
+<meta name="news_keywords" content="Casey Sherman, Dave Wedge, Eric Johnson, New England Patriots, NFL, Paul Tamasy, Tom Brady" />
+
+<script type="text/javascript">dataLayer = window.dataLayer || []; /* Google Tag Manager */</script>
+<script type="text/javascript" src="//pmc-d.openx.net/w/1.0/jstag?nc=3782-PMC RON"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_meta = {"lob":"deadline","page-type":"article","env":"desktop","primary-category":"Books","primary-vertical":"film","vertical":["film"],"category":["Books","Breaking News","NFL","Screenwriting","Sports"],"tag":["Casey Sherman","Dave Wedge","Eric Johnson","New England Patriots","NFL","Paul Tamasy","Tom Brady"],"author":["Anita Busch"],"logged-in":"","subscriber-type":"","country":"us"};
+
+/* ]]> */
+</script>
+		<script>
+			(function(d,w){
+				var i, parts, name, c, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g, ac = (d ? d.split('; ') : []);
+				for(w.pmc_cookies = {}, i = 0; i < ac.length; i++) {
+					parts = ac[i].split('='), name = parts[0].replace(rdecode, decodeURIComponent), c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); } c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' '); w['pmc_cookies'][name] = c;
+				}
+			})(document.cookie, window);
+
+			pmc_meta=pmc_meta || {}, pmc_meta.omni_visit_id = window.pmc_cookies.omni_visit_id || "deadline." + new Date().getTime() + '.' + (function(l,b,a,c,i,d){for(i=0;i<256;i++){l[i]=(i<16?'0':'')+(i).toString(16);}if(c&&c.getRandomValues){try{d=new Uint32Array(4),c.getRandomValues(d);}catch(e){d=0;}}d=d||[b()*a>>>0,b()*a>>>0,b()*a>>>0,b()*a>>>0];a=d[0],b=d[1],c=d[2],d=d[3];return l[a&0xff]+l[a>>8&0xff]+l[a>>16&0xff]+l[a>>24&0xff]+'-'+l[b&0xff]+l[b>>8&0xff]+'-'+l[b>>16&0x0f|0x40]+l[b>>24&0xff]+'-'+l[c&0x3f|0x80]+l[c>>8&0xff]+'-'+l[c>>16&0xff]+l[c>>24&0xff]+l[d&0xff]+l[d>>8&0xff]+l[d>>16&0xff]+l[d>>24&0xff];})([],Math.random,0x100000000,window.crypto||window.msCrypto);
+			var d = new Date(); d.setTime(d.getTime() + ( 60 * 60 * 1000 )); var expires = d.toGMTString(); var path = "/"; var domain = window.location.hostname;
+			document.cookie = 'omni_visit_id=' + encodeURIComponent(pmc_meta.omni_visit_id) + ( expires ? '; expires=' + expires : '' ) + ( path ? '; path=' + path : '' ) + ( domain ? '; domain=' + domain : '' );
+		</script>
+				<script type="text/javascript">
+		if( window.hasOwnProperty( 'pmc_meta' ) ) {
+			if( !window.hasOwnProperty( 'dataLayer' ) || !window.dataLayer.hasOwnProperty('push') ) {
+				window.dataLayer = [];
+			}
+			window.dataLayer.push( pmc_meta );
+		}
+		</script>
+
+				<script>
+			window.pmc_is_adblocked = false;
+		</script>
+				<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=deadline.com&amp;id=36403310&amp;t=1487835610&amp;back=https%3A%2F%2Fdeadline.com%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<script type="text/javascript">!function(o){function n(e){if(t[e])return t[e].exports;var i=t[e]={exports:{},id:e,loaded:!1};return o[e].call(i.exports,i,i.exports,n),i.loaded=!0,i.exports}var t={};return n.m=o,n.c=t,n.p="",n(0)}({0:function(o,n,t){"use strict";function e(o){return o&&o.__esModule?o:{"default":o}}function i(){if(!E){E=!0,window._sp_=window._sp_||{},U=window._sp_.config=window._sp_.config||{},L=U.content_control_callback||window._sp_lock,B=U.account_id||U.client_id||window.sp_cid;for(var o in U)S[o]=U[o]}}function r(o,n){var t=arguments.length<=2||void 0===arguments[2]?"":arguments[2],e=new Image;e.src="//"+h+"/cct?v="+encodeURIComponent(b)+"&ct=1&cid="+encodeURIComponent(B)+"&l="+encodeURIComponent(o.toString())+"&rc="+encodeURIComponent(n)+"&d0="+encodeURIComponent(t)}function c(o,n,t,e){var i=arguments.length<=4||void 0===arguments[4]?{}:arguments[4],r=!(arguments.length<=5||void 0===arguments[5])&&arguments[5],d=function(){return c(o,n,t,e,i,!0)},a=r?t:d;o(n,a,e,i)}function d(o,n,t,e){var i=document.createElement("script");i.src=o,i.onload=function(){try{if(window._sp_&&window._sp_.bootstrap===w&&window.spBootstrap===p&&window._sp_.config===U){for(var o in S)if(S[o]!==U[o]){g&&g();break}}else g&&g()}catch(n){g&&g()}e.onLoad&&e.onLoad()},i.onerror=function(){function i(o,n){t(o,n),e.onError&&e.onError(n)}function r(o){return c.indexOf(o)>-1}var c=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();r("mobi")||r("ipad")||r("android")||r("iphone")?i(k):r("googlebot")||r("adsbot-google")||r("mediapartners-google")?i(I):r("msie 10")||r("msie 9")||r("msie 8")?i(R):a(o,n,i)},document.head.appendChild(i),document.querySelector('script[src="'+o+'"]')||n(C,o)}function a(o,n,t){(0,v["default"])(o,function(e,i,r,c){var d=e||i?n:t;d(c,o+"::"+r)})}function s(o,n){r(y,o,n),L&&setTimeout(function(){L()},250)}function u(o,n){r(x,o,n)}function p(o,n){i(),n&&(L=window._sp_lock=n),c(d,o,s,u)}function w(o,n){i(),c(d,o,s,u,n)}var f=t(256),_=e(f),l=t(25),v=e(l),g=void 0;try{g=window._sp_&&window._sp_.config&&window._sp_.config.spid_control_callback}catch(m){}var h=_["default"].be.join(""),b=_["default"].bv,x=0,y=1,C="s",k="m",I="g",R="i",S={},E=!1,U=void 0,L=void 0,B=void 0;try{window._sp_=window._sp_||{},window._sp_.bootstrap=w,window.spBootstrap=p,window._sp_.bootstrap===w&&window.spBootstrap===p||g&&g()}catch(m){g&&g()}},25:function(o,n){"use strict";function t(o,n){function t(){try{return window.performance.now()}catch(o){return Date.now()}}var a=document.createElement("a");if(a.href=o,"https:"===window.location.protocol&&a.protocol!==window.location.protocol)return void n(!1,!1,a.protocol,d);var s=new XMLHttpRequest;try{s.open("GET",o)}catch(u){return void n(!0,!1,u.toString(),r)}var p=void 0,w=void 0;s.onloadstart=function(){p=t()},s.onreadystatechange=function(){if(4===this.readyState){w=t()-p;var o=0===this.status,r="2"===this.status.toString()[0],c=r?i:e;return void n(o,r,this.status+"::"+w,c)}};try{s.send()}catch(u){return void n(!0,!1,u.toString(),c)}}Object.defineProperty(n,"__esModule",{value:!0}),n["default"]=t;var e="n",i="nx",r="xo",c="xs",d="p"},256:function(o,n){"use strict";o.exports={be:["w","w","w",".","c","r","a","s","h","f","o","o","t","w","o","r","k",".","c","o","m"],bv:"1.7.310"}}});
+	//# sourceMappingURL=https://s3.amazonaws.com/d3jlsadfjkuern/1.7.310/Ym9vdHN0cmFwLmpz.map</script>
+<script type="text/javascript">
+
+	/*
+	 * Setup googletag for GPT loading
+	 */
+	function _resetGPT(isAdblocker) {
+
+		/*
+		 *  Setup command queue w/ adslots and enable.  Note the different adslots for w/ adblocker and w/o
+		 */
+		if (isAdblocker) {
+
+			if ( googletag && googletag.cmd ) {
+				googletag.cmd.push( function() { googletag.destroySlots();});
+			}
+
+			window.googletag = {};
+			window.googletag.cmd = [];
+
+			if ( 'undefined' !== typeof pmc && 'undefined' !== typeof pmc.hooks ) {
+
+				pmc.hooks.add_filter( 'pmc_adm_gpt_slot', function( slot ) {
+					if ( 'string' === typeof slot ) {
+						var slot_components = slot.split('/');
+						var components = [];
+						for (var i = 0; i < slot_components.length; i++) {
+							if (slot_components[i] !== 'undefined' && slot_components[i] !== null && slot_components[i] !== "") {
+								components.push(slot_components[i]);
+							}
+						}
+						slot_component = components[2];
+						if(slot_component.indexOf('source-') === -1 ){
+							slot = slot.replace( '/'+slot_component, '/source-'+slot_component );
+						}
+					}
+					return slot;
+				} );
+			}
+
+			if( 'undefined' !== typeof pmc_adm_gpt && 'undefined' !== typeof pmc_adm_gpt.settings) {
+				var ad_list =  pmc_adm_gpt.settings.ad_list;
+				// Empty the adlist and keep only the default ad-group for recovery. Do not pass interstitial and prestitial for recovery with sp
+				pmc_adm_gpt.settings.ad_list = {};
+				for ( var t in ad_list ) {
+					if( 'default' === t ) {
+						pmc_adm_gpt.settings.ad_list['default'] = ad_list['default'];
+						break;
+					}
+				}
+				pmc_adm_gpt.init( pmc_adm_gpt.settings );
+			}
+
+			if( 'undefined' !== typeof pmc_admanager ) {
+				pmc_admanager.hide_interrupt();
+			}
+
+			if( 'undefined' !== typeof pmc_dfp_prestitial) {
+				pmc_dfp_prestitial.properties.isAdSkippedManually = true;
+				pmc_dfp_prestitial.destroy();
+			}
+
+		}
+	}
+
+	/*
+	 * Prepare the googletag object and fill the cmd queue
+	 */
+	_resetGPT(false);
+
+	var gptLoadComplete = false;
+	var isBlocking = false;
+	var spccDisable = false;
+
+	/*
+	 *  Reset and load GPT via Sourcepoint proxy if initial GPT load complete and adblocker detected
+	 */
+	function _resetAndLoadGPTRecovery() {
+		if (gptLoadComplete && isBlocking) {
+			_resetGPT(true);
+			window._sp_.dfp.loadGPT();
+		}
+	}
+
+	/*
+	 *  Add callbacks to set our 'gptLoadComplete' flag and optionally load recovery
+	 */
+	window._sp_gpt_callback = function() {
+		gptLoadComplete = true;
+		_resetAndLoadGPTRecovery();
+	};
+
+	/*
+	 * Configure Sourcepoint
+	 */
+
+	window._sp_ = window._sp_ || {};
+	window._sp_.config = window._sp_.config || {};
+	window._sp_.config.account_id = 239;
+	window._sp_.config.publisher_base = "//sp.deadline.com/abc";
+	window._sp_.config.gpt_auto_load = false;
+	window._sp_.config.enable_rid = true;
+	window._sp_.config.enable_vid = true;
+	window._sp_.config.enable_blocker_style_sheet_disabling = false;
+
+	if( 'undefined' !== typeof window.pmc_cookies && 'undefined' !== window.pmc_cookies._pmc_spcc && '1' === window.pmc_cookies._pmc_spcc ) {
+		spccDisable = true;
+	}
+	
+	/*
+	 *  setup listener for adblocker detected. Set flag and optionally load recovery
+	 */
+	document.addEventListener('sp.blocking', function (e) {
+		var admzs = document.getElementsByClassName('admz');
+		for (var i = 0; i < admzs.length; i++) {
+			admzs[i].className = 'admz-sp';
+		}
+		isBlocking = true;
+		_resetAndLoadGPTRecovery();
+	});
+
+	/*
+	 * Load sp through bootstrap
+	 */
+	window.spBootstrap("https://sp3.deadline.com/dl/delivery-new.js");
+
+</script>
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//platform.twitter.com' />
+<link rel='dns-prefetch' href='//cfstatic.deadline.com' />
+<link rel='dns-prefetch' href='//content.jwplatform.com' />
+<link rel='dns-prefetch' href='//s.swiftypecdn.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//pmcdeadline2.wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Deadline &raquo; Feed" href="http://deadline.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Deadline &raquo; Comments Feed" href="http://deadline.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Deadline &raquo; Tom Brady Book &amp; Movie Coming From &#8216;The Finest Hours&#8217; Writing Team Comments Feed" href="http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cfstatic.deadline.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1473172720h&ver=4.6.1-RC1-38499"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://cfstatic.deadline.com/_static/??-eJxtjtEOwjAIRX/IDjdN+mT8ltoRy9oikXb+vmyJJia+AfdwAF7i4oMbcoPanZR+J1YolFFhwSYhZrd3Q1Q9gOHEsfTZYhvAHDSRCXSoxP+RMFvkbuH5g3yOtoTVwJUEpMbvA1udsIhJ8m6pyH1bvtbLePan0U9+Oi5vyl9FtQ==' type='text/css' media='all' />
+<style id='admin-bar-inline-css' type='text/css'>
+.goog-te-banner-frame { top:32px !important }
+</style>
+<link rel='stylesheet' id='wpcom-core-compat-playlist-styles-css'  href='https://cfstatic.deadline.com/wp-content/mu-plugins/core-compat/wp-mediaelement.css?m=1397224855h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='mp6hacks-css'  href='https://cfstatic.deadline.com/wp-content/mu-plugins/mp6-compat/mp6-hacks.css?m=1430366247h&#038;ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcom-bbpress2-staff-css-css'  href='https://cfstatic.deadline.com/wp-content/mu-plugins/wpcom-bbpress-premium-themes.css?m=1432920480h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-global-css-overrides-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/css/pmc-global-overrides.css?m=1431625816h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='pmcfooter-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-footer/css/pmc-footer.css?m=1487011089h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc_related_link-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-related-link//css/style.css?m=1415710866h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-swiftype-style-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-swiftype/classes/../assets/css/style.css?m=1474998064h&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-deadline-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/library/css/pmc-deadline.css?m=1487797277h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='pmc-deadline-ie-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/style-ie.css?m=1397757326h&#038;ver=4.6.1-RC1-38499' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-18-1' href='https://cfstatic.deadline.com/wp-includes/js/thickbox/thickbox.css?m=1473172720h' type='text/css' media='all' />
+<link rel='stylesheet' id='dl-ppp-custom-link-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/plugins/deadline-ppp-custom-link/css/style.css?m=1422466697h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='deadline_voices_widget-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/plugins/deadline-voices/css/widget.css?m=1413828624h&#038;ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='deadline-more-from-author-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/plugins/deadline-more-from-author/css/widget.css?m=1416945782h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='deadline-more-network-news-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/plugins/deadline-more-network-news/css/widget.css?m=1421435637h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='deadline-latest-vertical-news-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/plugins/deadline-latest-vertical-news/css/widget.css?m=1426781653h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-adm-style-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-adm/css/pmc-adm-style.css?m=1481830542h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<style id='pmc-adm-style-inline-css' type='text/css'>
+div.admz, div.admz-sp { margin-left: auto; margin-right: auto; text-align: center; } #skin-ad-inject-container { display: none; }
+</style>
+<link rel='stylesheet' id='all-css-30-1' href='https://cfstatic.deadline.com/i/noticons/noticons.css?m=1436783281h' type='text/css' media='all' />
+<link rel='stylesheet' id='geo-location-flair-css'  href='https://cfstatic.deadline.com/wp-content/mu-plugins/geo-location/geo-location-flair.css?m=1399331276h&#038;ver=20140505' type='text/css' media='all' />
+<link rel='stylesheet' id='reblogging-css'  href='https://cfstatic.deadline.com/wp-content/mu-plugins/reblogging/css/reblogging.css?m=1459448714h&#038;ver=20131218' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A600%2C300&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='pmc-box-office-numbers-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/plugins/pmc-box-office-numbers/styles/pmc-box-office-numbers.css?m=1402926237h&#038;ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='deadline-swiftype-css'  href='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/library/css/swiftype.css?m=1453919987h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<link rel='stylesheet' id='h4-global-css'  href='https://cfstatic.deadline.com/wp-content/themes/h4/global.css?m=1420737423h&#038;ver=4.6.1-RC1-38499' type='text/css' media='all' />
+<script type="text/javascript" src="https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-utils.js?m=1481218269h"></script>			<script type="text/javascript">
+			var pmc_do_analytics_pagecount = true;		//flag to allow analytics code to count a page view
+			var pmc_common_urls = {
+				parent_theme_uri: 'https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/',
+				current_theme_uri: 'https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/',
+				fb_channel_uri: 'https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/partner/facebook/channel.html'
+			};
+			</script>
+				<!-- Sonbi tag start -->
+				<script src="//mtrx.go.sonobi.com/morpheus.penske.2508.js"></script>
+				<!-- Sonbi tag end -->
+					<script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			var pmc_ga_dimensions = {"dimension1":"article","dimension3":"1201912990","dimension4":"abusch","dimension5":"books|breaking-news|nfl|screenwriting|sports","dimension6":"casey-sherman|dave-wedge|eric-johnson|new-england-patriots|nfl|paul-tamasy|tom-brady","dimension7":"film","dimension8":"books","dimension9":"film","dimension10":"2017","dimension11":"02","dimension12":"15","dimension13":"14","dimension14":"56","dimension25":"2017-02-15T22:56:19+00:00","dimension26":"2017-02-15 14:56:19","dimension27":"Wednesday","dimension29":"anonymous"};			pmc_ga_dimensions["dimension15"] = document.location.protocol.replace(':', '');
+			(function(dim){
+				var ac = document.cookie ? document.cookie.split('; ') : [];
+				var i, parts, name, c, cookies = {}, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g;
+				for(i = 0; i < ac.length; i++) {
+					parts = ac[i].split('=');
+					name = parts[0].replace(rdecode, decodeURIComponent);
+					c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); }
+					c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' ');
+					cookies[name] = c;
+				}
+				window[dim] = window[dim] || {};
+							if( 'undefined' !== typeof pmc_meta && 'string' === typeof pmc_meta.omni_visit_id ){
+				window[dim]["dimension28"] = pmc_meta.omni_visit_id;
+			}
+					})('pmc_ga_dimensions');
+			ga('create', 'UA-1915907-29', 'auto');
+			ga('set', 'forceSSL', true);
+			ga('set', 'hitCallback', function() { if ( typeof pmc === 'object' && typeof pmc.tracking === 'object' && typeof pmc.tracking.do_call_events === 'function' ) { pmc.tracking.do_call_events(); } } );
+						ga('require', 'linkid', 'linkid.js');
+			ga('require', 'displayfeatures');			ga('set', pmc_ga_dimensions);
+						ga('send', 'pageview');
+		</script>
+
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_header_bidder_script_object = {"pmc_header_bidder_timeout":"1000","pmc_header_bidding_on_gallery":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/_static/??-eJydj90KwjAMhV/IWicTdyM+S9fGLnX9sWk39OmtY14Mh4IQSDjn4yThY2DoZJ8VEDelbhnifW5bQxv+DWAWdRQJthbdG5beJXDpxVrfYg8sE0Shi1aCLn6FC56SBaICrbjLk9ANCONPzEAKQl5ZBMLHR2rqoOzjAwYerGShzxodTXMHQkFkLSqFTnNBBGl6PEQo4tqn/6QtjTn1bE9V3Rz3TXWod+YJ976ZHw=='></script>
+<script data-cfasync='true' type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-remove-tracking.js?m=1383065652h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-hooks.js?m=1412125401h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='//content.jwplatform.com/libraries/SkrL5Pe1.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-video-player/js/script.js?m=1423002888h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_comscore_options = {"pageview_candidate_url":"\/\/deadline.com\/wp-content\/themes\/vip\/pmc-plugins\/pmc-comscore\/xml\/comscore-pageview-candidate.xml"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-comscore/js/pmc-comscore.js?m=1409954306h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-breaking-news/js/breaking-news.js?m=1392211121h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var deadline_comments_ajax = {"ajaxurl":"\/dl-ajax\/dl-comments\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/plugins/deadline-comments//js/deadline-comments.js?m=1409855377h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/library/js/modernizr.custom.js?m=1398184685h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/library/js/jquery.waypoints.js?m=1402596922h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/library/js/scripts.js?m=1475244780h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/library/js/deadline.js?m=1473463365h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/library/js/trackers.js?m=1457546879h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/plugins/deadline-you-need-to-read/js/you-need-to-read.js?m=1486475152h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-adm/js/dfp-events/dfp.gpt.logger.override.min.js?m=1486386614h&#038;ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_adm_config = {"dfp_skin_main_content":["main-wrapper"],"disable_gpt_single_request":"0","krux_header_bidder_active":"","lazy_load_override":"disable"};
+var pmc_header_bidder = {"active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-adm/js/loader.min.js?m=1486671927h&#038;ver=3.1'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/plugins/pmc-box-office-numbers/js/pmc-box-office-numbers.js?m=1399995975h&#038;ver=1.4'></script>
+<link rel='stylesheet' id='highlander-comments-css'  href='https://cfstatic.deadline.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h&#038;ver=20110620' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://cfstatic.deadline.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/p2sKaa-1jl6to' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fdeadline.com%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fdeadline.com%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Tom Brady Book &amp; Movie Coming From &#8216;The Finest Hours&#8217; Writing Team" />
+<meta property="og:url" content="http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/" />
+<meta property="og:description" content="EXCLUSIVE: A new book and feature film project about Tom Brady, who has won more Super Bowls than any quarterback in NFL history, is on its way. Paul Tamasy and Eric Johnson, the writers behind Dis…" />
+<meta property="article:published_time" content="2017-02-15T22:56:19+00:00" />
+<meta property="article:modified_time" content="2017-02-15T23:36:26+00:00" />
+<meta property="og:site_name" content="Deadline" />
+<meta property="og:image" content="https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl.jpg?w=605" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@Deadline" />
+<meta name="twitter:image:src" content="https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@DeadlineAnita" />
+<meta name="twitter:title" content="Tom Brady Book &amp; Movie Coming From &#8216;The Finest Hours&#8217; Writing Team" />
+<meta name="twitter:description" content="A new book and feature film project about Tom Brady, who has won more Super Bowls than any quarterback in NFL history, is on its way." />
+<meta name="twitter:image" content="https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl.jpg" />
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/0d8531262d92570876b84bba1cbad7f7?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/0d8531262d92570876b84bba1cbad7f7?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="https://secure.gravatar.com/blavatar/0d8531262d92570876b84bba1cbad7f7?s=114" />
+<link rel='openid.server' href='https://pmcdeadline2.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://pmcdeadline2.wordpress.com/' />
+<meta name="author" content="Anita Busch">			<meta property="fb:pages" content="105558754896" />
+					<link rel="search" type="application/opensearchdescription+xml"
+		      href="http://deadline.com/pmc-opensearch"
+		      title="Deadline  Search"/>
+	
+<style type="text/css">
+.vvqbox {
+	visibility: visible !important;
+	display: block;
+	clear: both;
+	width: 100%;
+}
+.vvqbox div {
+	margin: 10px auto;
+}
+.vvqbox img {
+	max-width: 100%;
+	height: 100%;
+}
+.vvqbox object {
+	max-width: 100%;
+}
+</style>
+<link rel="canonical" href="http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/" />
+
+<!-- Swiftype Meta Tags Start -->
+<meta class="swiftype" name="title" data-type="string" content="Tom Brady Book &amp; Movie Coming From &#039;The Finest Hours&#039; Writing Team" />
+<meta class="swiftype" name="author" data-type="string" content="Anita Busch" />
+<meta class="swiftype" name="published_at" data-type="date" content="2017-02-15 14:56:19" />
+<meta class="swiftype" name="image" data-type="enum" content="https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl.jpg?w=300" />
+<meta class="swiftype" name="comment_count" data-type="integer" content="21" />
+<meta class="swiftype" name="tags" data-type="string" content="Casey Sherman" />
+<meta class="swiftype" name="tags" data-type="string" content="Dave Wedge" />
+<meta class="swiftype" name="tags" data-type="string" content="Eric Johnson" />
+<meta class="swiftype" name="tags" data-type="string" content="New England Patriots" />
+<meta class="swiftype" name="tags" data-type="string" content="NFL" />
+<meta class="swiftype" name="tags" data-type="string" content="Paul Tamasy" />
+<meta class="swiftype" name="tags" data-type="string" content="Tom Brady" />
+<meta class="swiftype" name="topics" data-type="string" content="Film" />
+<meta class="swiftype" name="body" data-type="text" content="EXCLUSIVE: A new book and feature film project about Tom Brady, who has won more Super Bowls than any quarterback in NFL history, is on its way. Paul Tamasy and Eric Johnson, the writers behind Disney&#039;s The Finest Hours who were nominated for an Oscar for The Fighter, and New York Times bestselling author Casey Sherman are reteaming.
+
+Joining up with them is Boston journalist Dave Wedge, who was Sherman&#039;s co-author on Boston Strong. Tamasy and Johnson used the book as part of their source material the basis for Patriots Day, which they got story by credit on and also executive produced.
+
+
+
+The Brady book and film will chronicle the New England Patriots superstar&#039;s come-from-behind win in Super Bowl LI, but it&#039;s not going to shy away from controversy and will include the team&#039;s battle to overcome the Deflategate debacle in 2014, follow Brady’s fall from grace and then his triumphant return to lead the Patriots to his fifth world championship. That surprising overtime victory against the Falcons this month cemented Brady’s and Bill Belichick’s legacies as the top quarterback and head coach in NFL history.
+
+The writers already have cultivated several sources inside the Patriots locker room to provide a first-hand look at what went on behind the scenes in a Super Bowl that had everyone on the edge of their seats. The game, which the Patriots won 34-28, drew comparisons to other iconic moments in sports history such as Muhammad Ali&#039;s win over George Foreman in the 1974 &quot;Rumble in the Jungle.&quot;
+
+Tamasy and Johnson also recently penned the screenplay about 5,000-to-1 underdog Leicester City’s miraculous run to the English Premier League title. We&#039;re told that Sherman and Wedge (who both work in Boston) had a front-row seat and watched the drama unfold.
+
+Sherman&#039;s book The Finest Hours, which Tamasy and Johnson adapted, was made into a film last year that starred Chris Pine and Casey Affleck, the latter a Best Actor Oscar nominee for Manchester By The Sea.
+
+The writers are repped by WME and The Gotham Group." />
+<!-- Swiftype Meta Tags End -->
+
+<meta property="trueanthem.headline" content="Tom Brady Book &amp; Movie Coming From &#8216;The Finest Hours&#8217; Writing Team"/><meta name="application-name" content="Deadline" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Hollywood Entertainment Breaking News" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://deadline.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/0d8531262d92570876b84bba1cbad7f7?s=16" /><script type="text/javascript">
+/* <![CDATA[ */
+var pmc_site_config = {"rot13_hostname":"qrnqyvar.pbz","hostname":"deadline.com","is_proxied":null};
+
+/* ]]> */
+</script>
+		<script type='text/javascript'>
+			var pmc_tracking_url = "http://heartbeat.pmc.com/track?host=deadline.com&path=%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F&post_id=1201912990&title=Tom+Brady+Book+%26+Movie+Coming+From+%E2%80%98The+Finest+Hours%E2%80%99+Writing+Team&author=Anita+Busch&comment_count=21";
+			var pmc_tracking_image = new Image();
+			if ( 'undefined' !== typeof pmc_meta && 'string' === typeof pmc_meta.omni_visit_id ) {
+				pmc_tracking_url = pmc_tracking_url + '&omni_visit_id=' + pmc_meta.omni_visit_id;
+			}
+			pmc_tracking_image.src = pmc_tracking_url + "&ts=" + Date.now();
+		</script>
+		<link rel="amphtml" href="http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_krux = {"lob":"deadline","page-type":"article","env":"desktop","primary-category":"Books","primary-vertical":"film","vertical":["film"],"category":["Books","Breaking News","NFL","Screenwriting","Sports"],"tag":["Casey Sherman","Dave Wedge","Eric Johnson","New England Patriots","NFL","Paul Tamasy","Tom Brady"],"author":["Anita Busch"],"logged-in":"","subscriber-type":""};
+
+/* ]]> */
+</script>
+	<script>
+		var admin_bar_showing = false;
+	</script>
+	<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<link rel="pingback" href="https://deadline.com/xmlrpc.php" />
+</head>
+
+<body class="single single-post postid-1201912990 single-format-standard mp6 customizer-styles-applied highlander-enabled highlander-light pmc-desktop pmc-no-tablet pmc-no-mobile geo-us">
+
+
+	<div id="fb-root"></div>
+	<script>(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=290526267722658";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T247L5"
+					  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-T247L5');</script>
+	<!-- End Google Tag Manager -->
+
+	<script async="1">
+	(function() {
+		__mtm = [ "578d001caa04d0826f287016", "cdn01.mzbcdn.net/mngr" ];
+		var s = document.createElement('script');
+		s.async = 1;
+		s.src = '//' + __mtm[1] + '/mtm.js';
+		var e = document.getElementsByTagName('script')[0];
+		(e.parentNode || document.body).insertBefore(s, e);
+	})();
+</script><!-- Placeholder for Responsive Skin Ad -->
+<div id="skin-ad-section">
+
+	<div id="skin-ad-left-rail-container"></div>
+
+	<div id="skin-ad-right-rail-container"></div>
+	<div id="skin-ad-inject-container">
+		<div class="admz" id="adm-responsive-skin-ad">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="1">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-dl-ros-skin-uid0" class="ad-rotatable adw-1 adh-1"></div>
+	</div>
+		</div>
+
+	</div>
+	</div>
+</div>
+
+<!-- End Placeholder for Responsive Skin Ad --><div id="fb-root"></div>
+
+<!-- Begin comScore Tag -->
+<noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035310&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
+
+<div id="main-wrapper">
+	
+	<header class="site-header">
+		<section id="masthead">
+			<div id="js-mobile-menu-trigger" class="hamburger">Menu</div>
+						<h2  class="blogheader">
+			<a class="header-logo "
+			   href="http://deadline.com">Deadline</a>
+			<div class="sticky-category"><a href="http://deadline.com/v/film/" title="Go to all posts in Film" class="category">Film</a></div><div class="sticky-title">Tom Brady Book &amp; Movie Coming From &#8216;The Finest Hours&#8217; &hellip;</div>		</h2>
+		<div id="js-nav-outer-wrapper" class="nav-outer-wrapper">
+			<nav class="menu-primary-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-742360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-742360"><a href="/">Home</a></li>
+<li id="menu-item-742366" class="menu-item menu-item-type-taxonomy menu-item-object-vertical current-post-ancestor current-menu-parent current-post-parent menu-item-742366"><a href="http://deadline.com/v/film/">Film</a></li>
+<li id="menu-item-728913" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-728913"><a href="http://deadline.com/v/tv/">TV</a></li>
+<li id="menu-item-728914" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-728914"><a href="http://deadline.com/v/awards/">Awardsline</a></li>
+<li id="menu-item-742362" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-742362"><a href="http://deadline.com/v/box-office/">Box Office</a></li>
+<li id="menu-item-742363" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-742363"><a href="http://deadline.com/v/business/">Business</a></li>
+<li id="menu-item-742365" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-742365"><a href="http://deadline.com/v/international/">INTL</a></li>
+<li id="menu-item-1201915516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201915516"><a href="/video">Video</a></li>
+<li id="menu-item-1201321026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1201321026"><a href="http://jobsearch.deadline.com/jobs/search">Jobs</a></li>
+<li id="menu-item-273109" class="special menu-item menu-item-type-post_type menu-item-object-page menu-item-273109"><a href="http://deadline.com/tip-line/">Got A Tip?</a></li>
+</ul></nav>			<div id="cse-search-form">
+				<!-- Site Search -->
+						<section id="swiftype-search-widget" class="swiftype">
+			<div class="search_form block search_form_widget">
+				<div data-st-search-form="small_search_form"></div>
+			</div>
+		</section>
+					</div>
+			<!-- End Google Site Search -->
+		</div>
+		</section><!-- /#masthead -->
+
+		<div class="header-ad-mobile">
+					</div>
+
+				<div id="ad-header" class="below-header-ad">
+			<div class="admz" id="adm-header">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="728">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-deadline-ros-970x90-uid1" class="ad-rotatable adw-728 adh-90"></div>
+	</div>
+		</div>
+
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="1">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-dl-article-inline-uid2" class="ad-rotatable adw-1 adh-1"></div>
+	</div>
+		</div>
+
+	</div>
+		</div>
+				<div class="dl-leaderboard-ad"></div> <!-- marker for pmc-sticky-ad -->
+	</header>
+	<!-- /header -->
+
+	<div class="pmc-breaking-news below-header"></div>
+
+	<div id="carousel" class="clearfix nocontent">
+	<section id="featured-content" class="below-header-ad">
+		<h2 class="top-stories">Top Stories</h2>
+		<ul>
+							<li id="slide-1201912990" class="slide">
+					<a href="http://deadline.com/2017/02/writers-guild-meeting-strike-talk-wga-contract-1201949307/" title="WGA Meeting Shows Guild On Strike Footing As Talks&nbsp;Loom"   ><img width="243" height="162" src="https://cfimage.deadline.com/pmcdeadline2.files.wordpress.com/2014/06/wga_logogrid.jpg?crop=133px%2C90px%2C364px%2C244px&amp;resize=243%2C162&amp;ssl=1" class="attachment-carousel-big-thumb size-carousel-big-thumb wp-post-image" alt="WGA" /></a>
+					<a href="http://deadline.com/v/business/" title="Go to all posts in Business" class="category"><i class="fa fa-play"></i>Business</a>					<h3>
+						<a href="http://deadline.com/2017/02/writers-guild-meeting-strike-talk-wga-contract-1201949307/" title="WGA Meeting Shows Guild On Strike Footing As Talks&nbsp;Loom" >WGA Meeting Shows Guild On Strike Footing As Talks&nbsp;Loom</a>
+													<span class="author">by by <a href="http://deadline.com/author/abusch/" title="Posts by Anita Busch" rel="author" class="name">Anita Busch</a>
+		
+		<div class="clear"></div></span>
+												</h3>
+				</li>
+							<li id="slide-1201912990" class="slide">
+					<a href="http://deadline.com/2017/02/jose-padilha-arc-of-justice-mark-gordon-company-ossian-sweet-civil-rights-movie-narcos-1201944720/" title="José Padilha To Direct Race Case Pic &#8216;Arc Of&nbsp;Justice&#8217;"   ><img width="243" height="162" src="https://cfmedia.deadline.com/2017/02/jose-padilha-arc-of-justice.jpg?w=243&amp;h=162&amp;crop=1" class="attachment-carousel-big-thumb size-carousel-big-thumb wp-post-image" alt="jose-padilha-arc-of-justice" /></a>
+					<a href="http://deadline.com/v/film/" title="Go to all posts in Film" class="category"><i class="fa fa-play"></i>Film</a>					<h3>
+						<a href="http://deadline.com/2017/02/jose-padilha-arc-of-justice-mark-gordon-company-ossian-sweet-civil-rights-movie-narcos-1201944720/" title="José Padilha To Direct Race Case Pic &#8216;Arc Of&nbsp;Justice&#8217;" >José Padilha To Direct Race Case Pic &#8216;Arc Of&nbsp;Justice&#8217;</a>
+													<span class="author">by by <a href="http://deadline.com/author/abusch/" title="Posts by Anita Busch" rel="author" class="name">Anita Busch</a>
+		
+		<div class="clear"></div></span>
+												</h3>
+				</li>
+							<li id="slide-1201912990" class="slide">
+					<a href="http://deadline.com/2017/02/get-out-1201940270/" title="&#8216;Get Out&#8217; Could Be Next Uni/Blumhouse No. 1:&nbsp;Preview"   ><img width="243" height="162" src="https://cfmedia.deadline.com/2017/01/get-out.jpg?w=243&amp;h=162&amp;crop=1" class="attachment-carousel-big-thumb size-carousel-big-thumb wp-post-image" alt="get-out" /></a>
+					<a href="http://deadline.com/v/box-office/" title="Go to all posts in Box Office" class="category"><i class="fa fa-play"></i>Box Office</a>					<h3>
+						<a href="http://deadline.com/2017/02/get-out-1201940270/" title="&#8216;Get Out&#8217; Could Be Next Uni/Blumhouse No. 1:&nbsp;Preview" >&#8216;Get Out&#8217; Could Be Next Uni/Blumhouse No. 1:&nbsp;Preview</a>
+													<span class="author">by by <a href="http://deadline.com/author/abusch/" title="Posts by Anita Busch" rel="author" class="name">Anita Busch</a>
+		
+		<div class="clear"></div></span>
+												</h3>
+				</li>
+							<li id="slide-1201912990" class="slide">
+					<a href="http://deadline.com/2017/02/abby-lee-miller-final-sentencing-delayed-dance-moms-fraud-1201943445/" title="&#8216;Dance Moms&#8217; Star Abby Lee Miller Sentencing&nbsp;Delayed"   ><img width="243" height="162" src="https://cfmedia.deadline.com/2016/10/abby-lee-miller-summer-2016.jpg?w=243&amp;h=162&amp;crop=1" class="attachment-carousel-big-thumb size-carousel-big-thumb wp-post-image" alt="dance moms abby Lee Miller &#039;Bad Moms&#039; film premiere, Los Angeles, USA - 26 Jul 2016" /></a>
+					<a href="http://deadline.com/v/business/" title="Go to all posts in Business" class="category"><i class="fa fa-play"></i>Business</a>					<h3>
+						<a href="http://deadline.com/2017/02/abby-lee-miller-final-sentencing-delayed-dance-moms-fraud-1201943445/" title="&#8216;Dance Moms&#8217; Star Abby Lee Miller Sentencing&nbsp;Delayed" >&#8216;Dance Moms&#8217; Star Abby Lee Miller Sentencing&nbsp;Delayed</a>
+													<span class="author">by by <a href="http://deadline.com/author/abusch/" title="Posts by Anita Busch" rel="author" class="name">Anita Busch</a>
+		
+		<div class="clear"></div></span>
+												</h3>
+				</li>
+					</ul>
+	</section>
+	<!-- /#featured-content -->
+	</div>
+
+		<div id="content">
+		
+<div class="section-tag"><a href="http://deadline.com/v/film/" title="Go to all posts in Film" class="category">Film</a></div>
+
+	<h1 class="post-title entry-title desktop">Tom Brady Book &amp; Movie Coming From &#8216;The Finest Hours&#8217; Writing&nbsp;Team</h1>
+
+	
+<div class="post-author-time">
+
+    <div class="gravatars"><img width="56" height="76" src="https://cfmedia.deadline.com/2014/06/abusch.png?w=56&amp;h=76&amp;crop=1" class="attachment-author-gravatar size-author-gravatar wp-post-image" alt="abusch" /></div>
+    <div class="author-info ">
+
+        <span class="byline">by <a href="http://deadline.com/author/abusch/" title="Posts by Anita Busch" rel="author" class="name">Anita Busch</a>
+		
+		<div class="clear"></div></span>
+
+        <time class="date-published updated">February 15, 2017 2:56pm</time>
+
+        <div class="clear"></div>
+
+        
+<div class="counters">
+	<ul class="share-comment">
+		<li class="social-v3-facebook byline-icon fb-share-button as-popup">
+			<a class="" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fdeadline.com%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F&#038;t=Tom+Brady+Book+%26amp%3B+Movie+Coming+From+%E2%80%98The+Finest+Hours%E2%80%99+Writing%C2%A0Team" rel="nofollow" target="_blank"  ></a>
+		</li>
+
+		<li class="social-v3-twitter byline-icon as-popup" data-permalink="http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/" data-http-permalink="http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/">
+			<a target="_blank" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fdeadline.com%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F&#038;text=Tom+Brady+Book+%26amp%3B+Movie+Coming+From+%E2%80%98The+Finest+Hours%E2%80%99+Writing%C2%A0Team&#038;via=deadline" rel="nofollow" ></a>
+		</li>
+		<li class="social-v3-googleplus byline-icon as-popup">
+			<a target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Fdeadline.com%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F" rel="nofollow" ></a>
+<!--			<g:plusone size="medium" href="--><!--" data-width="60"></g:plusone>-->
+		</li>
+		<li class="social-v3-linkedin byline-icon as-popup">
+			<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=truemini=true&#038;url=http%3A%2F%2Fdeadline.com%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F&#038;title=Tom+Brady+Book+%26amp%3B+Movie+Coming+From+%E2%80%98The+Finest+Hours%E2%80%99+Writing%C2%A0Team&#038;summary=EXCLUSIVE%3A+A+new+book+and+feature+film+project+about+Tom+Brady%2C+who+has+won+more+Super+Bowls+than+any+quarterback+in+NFL+history%2C+is+on+its+way.+Paul+Tamasy+and+Eric+Johnson%2C+the+writers+behind+Disney%27s+The+Finest+Hours%C2%A0who+were+nominated+for+an+Oscar+for+The+Fighter%2C%C2%A0and+New+York+Times+bestselling+author+Casey+Sherman+are+reteaming.Joining+up&#038;source=Deadline" rel="nofollow" ></a>
+		</li>
+				<li class="social-v3-comments no-sprite">
+			<i class="fa fa-comments ">
+				<a class="" href="http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/#comments" title="Tom Brady Book &amp; Movie Coming From &#8216;The Finest Hours&#8217; Writing&nbsp;Team" >
+					21				</a>
+			</i>
+		</li>
+		
+		<li class="social-v3-mail no-sprite">
+			<a href="/cdn-cgi/l/email-protection#39064a4c5b535c5a4d046d5654197b4b585d40197b565652191f585449021974564f505c197a565450575e197f4b5654191f1a010b080f026d515c197f50575c4a4d1971564c4b4a1f1a010b080e02196e4b504d50575e1f575b4a49026d5c58541f5b565d40047a515c5a5212564c4d124d51504a12584b4d505a555c125f4b5654127d5c585d5550575c1c0a781c09781c0978514d4d491c0a781c0b7f1c0b7f5d5c585d5550575c175a56541c0b7f0b09080e1c0b7f090b1c0b7f4d5654145b4b585d4014575c4e145c575e5558575d1449584d4b50564d4a145b5656521454564f505c144d515c145f50575c4a4d1451564c4b4a144e4b504d50575e145a4b5c584d504f5c144d5c585414080b090800080b0000091c0b7f"><i class="fa fa-envelope-o"></i></a>
+		</li>
+
+		<li class="social-v3-print no-sprite">
+			<a rel="nofollow"  href="/print-article/1201912990/?KeepThis=1&#038;TB_iframe=1&#038;height=500&#038;width=750" class="thickbox" title="Print This Article"><i class="fa fa-print"></i></a>
+		</li>
+	</ul>
+
+	<div class="clear"></div>
+
+</div>
+
+<div class="social-links">
+	<div class="social twitter">
+		<a href="https://twitter.com/home?status=http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/" title="Follow Deadline Hollywood on Twitter"><i class="fa fa-twitter-square"></i></a>
+	</div>
+	<div class="social facebook">
+		<a href="http://www.facebook.com/sharer/sharer.php?u=http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/" title="Follow Deadline Hollywood on Facebook"><i class="fa fa-facebook-square"></i></a>
+	</div>
+	<div class="social google-plus">
+		<a href="https://plus.google.com/share?url=http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/" title="Follow Deadline Hollywood on Google Plus"><i class="fa fa-google-plus-square"></i></a>
+	</div>
+	<div class="social linkedin">
+		<a href="https://www.linkedin.com/shareArticle?title=Tom%20Brady%20Book%20&#038;%20Movie%20Coming%20From%20&#8216;The%20Finest%20Hours&#8217;%20Writing&nbsp;Team&#038;url=http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/&#038;source=deadline.com&#038;mini=true&#038;summary" title="Follow Deadline Hollywood on LinkedIn "><i class="fa fa-linkedin-square"></i></a>
+	</div>
+    <div class="social email">
+        <a href="/cdn-cgi/l/email-protection#dde2aea8bfb7b8bea9e089b2b0fd9fafbcb9a4fd9fb2b2b6fdfbbcb0ade6fd90b2abb4b8fd9eb2b0b4b3bafd9bafb2b0fdfbfee5efecebe689b5b8fd9bb4b3b8aea9fd95b2a8afaefbfee5efeceae6fd8aafb4a9b4b3bafbb3bfaeade689b8bcb0fbbfb2b9a4e09eb5b8beb6f6b2a8a9f6a9b5b4aef6bcafa9b4beb1b8f6bbafb2b0f699b8bcb9b1b4b3b8f8ee9cf8ed9cf8ed9cb5a9a9adf8ee9cf8ef9bf8ef9bb9b8bcb9b1b4b3b8f3beb2b0f8ef9befedeceaf8ef9bedeff8ef9ba9b2b0f0bfafbcb9a4f0b3b8aaf0b8b3bab1bcb3b9f0adbca9afb4b2a9aef0bfb2b2b6f0b0b2abb4b8f0a9b5b8f0bbb4b3b8aea9f0b5b2a8afaef0aaafb4a9b4b3baf0beafb8bca9b4abb8f0a9b8bcb0f0ecefedece4ecefe4e4edf8ef9b" title="Email Deadline Hollywood"><i class="fa fa-envelope"></i></a>
+    </div>
+    <div class="social comments">
+        <a href="#respond" title="Comment on Deadline Hollywood"><i class="fa fa-comments"></i></a>
+    </div>
+	<div class="clear"></div>
+</div>
+
+    </div>
+
+</div>
+
+<div id="content-wrapper">
+
+	<article class="post-1201912990 post type-post status-publish format-standard has-post-thumbnail hentry category-books category-breaking-news category-nfl category-screenwriting category-sports tag-casey-sherman tag-dave-wedge tag-eric-johnson tag-new-england-patriots tag-nfl tag-paul-tamasy tag-tom-brady vertical-film">
+
+					<div class="main-article-thumbnail-wrapper desktop ">
+				<img width="446" height="299" src="https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl.jpg?w=446&amp;h=299&amp;crop=1" class="attachment-main-article-thumb size-main-article-thumb wp-post-image" alt="Tom Brady movie" />			</div>
+					<div class="tags thumb">
+				<ul>
+				<li>
+				<a href="http://deadline.com/v/film/">
+					Film				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/category/books/">
+					Books				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/category/breaking-news/">
+					Breaking News				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/category/nfl/">
+					NFL				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/category/screenwriting/">
+					Screenwriting				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/category/sports/">
+					Sports				</a>
+			</li>
+					<li>
+				<a href="http://deadline.com/tag/casey-sherman/">
+					Casey Sherman				</a>
+			</li>
+		</ul>			</div>
+
+		<div class="copyright" itemprop="copyrightHolder">Associated Press</div><div class="clear"></div>
+		<div id="main-content-wrapper" class="desktop ">
+
+			<div class="post-content">
+				<p><strong>EXCLUSIVE:</strong> A new book and feature film project about <a href="http://deadline.com/tag/tom-brady/" id="auto-tag_tom-brady" data-tag="tom-brady">Tom Brady</a>, who has won more Super Bowls than any quarterback in <a href="http://deadline.com/tag/nfl/" id="auto-tag_nfl" data-tag="nfl">NFL</a> history, is on its way. <a href="http://deadline.com/tag/paul-tamasy/" id="auto-tag_paul-tamasy" data-tag="paul-tamasy">Paul Tamasy</a> and <a href="http://deadline.com/tag/eric-johnson/" id="auto-tag_eric-johnson" data-tag="eric-johnson">Eric Johnson</a>, the writers behind Disney&#8217;s <em>The Finest Hours</em>&nbsp;who were nominated for an Oscar for <em>The Fighter,&nbsp;</em>and <em>New York Times</em> bestselling author <a href="http://deadline.com/tag/casey-sherman/" id="auto-tag_casey-sherman" data-tag="casey-sherman">Casey Sherman</a> are reteaming.</p>
+<p><div class="related-article">
+					<div class="pad">
+						<a href="http://deadline.com/2017/02/directors-guild-rooney-rule-regected-diversity-push-dga-1201910795/" title="Related Article" class="related" >Related</a>
+						<div class="article"><a href="http://deadline.com/2017/02/directors-guild-rooney-rule-regected-diversity-push-dga-1201910795/" title="Related Article" >Studios &amp; Networks Rebuff DGA Diversity Push For &quot;Rooney Rule&quot;</a></div>
+						<div class="clear"></div>
+					</div>
+				</div></p>
+<p>Joining up with them is Boston journalist <a href="http://deadline.com/tag/dave-wedge/" id="auto-tag_dave-wedge" data-tag="dave-wedge">Dave Wedge</a>, who was Sherman&#8217;s co-author on <em>Boston Strong. </em>Tamasy and Johnson used the book as part of their source material the basis for <em>Patriots Day</em>, which they got story by credit on and also executive produced.</p>
+<p><a  href="https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl-trophy.jpg"  target="_blank"  ><img class="alignright wp-image-1201913003" src="https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl-trophy.jpg?w=441&#038;h=311" alt="Tom Brady movie" width="441" height="311" srcset="https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl-trophy.jpg?w=441&amp;h=311 441w, https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl-trophy.jpg?w=882&amp;h=622 882w, https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl-trophy.jpg?w=150&amp;h=106 150w, https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl-trophy.jpg?w=300&amp;h=212 300w, https://cfmedia.deadline.com/2045/06/tom-brady-super-bowl-trophy.jpg?w=768&amp;h=542 768w" sizes="(max-width: 441px) 100vw, 441px"></a></p>
+<p>The Brady book and film will chronicle the <a href="http://deadline.com/tag/new-england-patriots/" id="auto-tag_new-england-patriots" data-tag="new-england-patriots">New England Patriots</a> superstar&#8217;s come-from-behind win in Super Bowl LI, but it&#8217;s not going to shy away from controversy and will include the team&#8217;s battle to overcome the Deflategate debacle in 2014, follow Brady&rsquo;s fall from grace and then his triumphant return to lead the Patriots to his fifth world championship. That surprising overtime victory against the Falcons&nbsp;this month cemented Brady&rsquo;s and Bill Belichick&rsquo;s legacies as the top quarterback and head coach in NFL history.</p>
+<p>The writers already have cultivated several sources inside the Patriots locker room to provide a first-hand look at what went on behind the scenes in a Super Bowl that had everyone on the edge of their seats. The game, which the Patriots won 34-28, drew comparisons to other iconic moments in sports history such as Muhammad Ali&#8217;s win over George Foreman in the 1974 &#8220;Rumble in the Jungle.&#8221;</p>
+<p>Tamasy and Johnson also recently penned <a  href="http://deadline.com/2016/07/leicester-city-movie-jamie-vardy-the-fighter-screenwriters-paul-tamasy-eric-johnson-1201793697/"  >the screenplay about 5,000-to-1 underdog Leicester City</a>&rsquo;s miraculous&nbsp;run to the English Premier League title. We&#8217;re told that Sherman and Wedge (who both work in Boston) had a front-row seat and watched the drama unfold.</p>
+<p>Sherman&#8217;s book <em>The Finest Hours</em>, which Tamasy and Johnson adapted, was made into a film last year that starred Chris Pine and Casey Affleck, the latter a Best Actor Oscar nominee for <em>Manchester By The Sea</em>.</p>
+<p>The writers are repped by WME and The Gotham Group.</p>
+			</div>
+					</div>
+
+	</article>
+
+	<!-- End of article link to Using text link widget -->
+	<div id="text-4" class="widget-container widget_text">			<div class="textwidget"><p style="font-size:1.3335em;font-style:italic;margin-top:-10px;">Subscribe to <a href="http://pages.email.deadline.com/signup" style="color:#008ad8;">Deadline Breaking News Alerts</a> and keep your inbox happy</p></div>
+		</div>
+<ul class="social-strip" data-relativepath="/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/">
+	<li class="social-v3-facebook as-popup ">
+		<a  class="" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fdeadline.com%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F&#038;t=Tom+Brady+Book+%26amp%3B+Movie+Coming+From+%E2%80%98The+Finest+Hours%E2%80%99+Writing%C2%A0Team" rel="nofollow" target="_blank"></a>
+	</li>
+
+	<li class="social-v3-twitter as-popup" data-permalink="http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/" data-http-permalink="http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/">
+		<a target="_blank" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fdeadline.com%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F&#038;text=Tom+Brady+Book+%26amp%3B+Movie+Coming+From+%E2%80%98The+Finest+Hours%E2%80%99+Writing%C2%A0Team&#038;via=deadline" rel="nofollow"></a>
+	</li>
+	<li class="social-v3-googleplus as-popup ">
+		<a  target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Fdeadline.com%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F" rel="nofollow"></a>
+		<!--			<g:plusone size="medium" href="--><!--" data-width="60"></g:plusone>-->
+	</li>
+	<li class="social-v3-linkedin as-popup">
+		<a  target="_blank" href="https://www.linkedin.com/shareArticle?mini=truemini=true&#038;url=http%3A%2F%2Fdeadline.com%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F&#038;title=Tom+Brady+Book+%26amp%3B+Movie+Coming+From+%E2%80%98The+Finest+Hours%E2%80%99+Writing%C2%A0Team&#038;summary=EXCLUSIVE%3A+A+new+book+and+feature+film+project+about+Tom+Brady%2C+who+has+won+more+Super+Bowls+than+any+quarterback+in+NFL+history%2C+is+on+its+way.+Paul+Tamasy+and+Eric+Johnson%2C+the+writers+behind+Disney%27s+The+Finest+Hours%C2%A0who+were+nominated+for+an+Oscar+for+The+Fighter%2C%C2%A0and+New+York+Times+bestselling+author+Casey+Sherman+are+reteaming.Joining+up&#038;source=Deadline" rel="nofollow"></a>
+	</li>
+		<li class="no-sprite social-comments">
+		<i class="fa fa-comments ">
+			<a  class="" href="http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/#comments" title="Tom Brady Book &amp; Movie Coming From &#8216;The Finest Hours&#8217; Writing&nbsp;Team">
+				21			</a>
+		</i>
+	</li>
+	</ul>
+<div class="widget widget_pmc_outbrain_widget"><div class="outbrain-widget">
+			<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_1" data-ob-template="Deadline" ></div>
+	</div>
+</div>
+	<div class="widget-area horizontal ad" id="ad-widget-single">
+		<div class="admz" id="adm-after-article">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="620">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-dl-ros-620x250-uid3" class="ad-rotatable adw-620 adh-250"></div>
+	</div>
+		</div>
+
+	</div>
+	</div>
+
+	<div id="mobile-sidebar">
+			</div>
+
+	<div id="comments">
+
+		<h3 id="comments-title">21 Comments</h3>
+
+					<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="https://deadline.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+					<p class="comment-notes">Comments On Deadline Hollywood are monitored. So don't go off topic, don't impersonate anyone, and don't get your facts wrong.</p><input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="3e8af1e7d0" /><input type="hidden" name="_wp_http_referer" value="/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name</label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p></div>
+
+<div class="countdown comment-countdown" id="comment-countdown"></div>
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='1201912990' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7c52111c98" /></p>
+<input type="hidden" name="genseq" value="1487835610" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="98"/></p>				</form>
+					</div><!-- #respond -->
+		<div style="clear: both"></div>		<div class="clear"></div>
+
+		<ol id="comment-list-wrapper">
+						<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1806597">
+			<div id="comment-1806597" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 3:02 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>this movie will be huge in woburn and chelmsford</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806597#respond' onclick='return addComment.moveForm( "comment-1806597", "1806597", "respond", "1201912990" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment odd alt depth-2 highlander-comment" id="li-comment-1806642">
+			<div id="comment-1806642" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">true</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 4:05 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>FUNNY. Truth is Kurt Warner&#8217;s story is more compelling.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806642#respond' onclick='return addComment.moveForm( "comment-1806642", "1806642", "respond", "1201912990" )' aria-label='Reply to true'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1806602">
+			<div id="comment-1806602" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Corrine</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 3:06 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>no thanks! no one likes brady.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806602#respond' onclick='return addComment.moveForm( "comment-1806602", "1806602", "respond", "1201912990" )' aria-label='Reply to Corrine'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment odd alt depth-2 highlander-comment" id="li-comment-1806614">
+			<div id="comment-1806614" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 3:26 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>That&#8217;s why he is first in sales in NFL merchandise.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806614#respond' onclick='return addComment.moveForm( "comment-1806614", "1806614", "respond", "1201912990" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment even depth-3 highlander-comment" id="li-comment-1806796">
+			<div id="comment-1806796" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 7:36 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Not. Ezekiel Elliot.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806796#respond' onclick='return addComment.moveForm( "comment-1806796", "1806796", "respond", "1201912990" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt depth-2 highlander-comment" id="li-comment-1806621">
+			<div id="comment-1806621" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Goatworshipper</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 3:34 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Lol he&#8217;s the most popular qb in the league</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806621#respond' onclick='return addComment.moveForm( "comment-1806621", "1806621", "respond", "1201912990" )' aria-label='Reply to Goatworshipper'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even depth-2 highlander-comment" id="li-comment-1807194">
+			<div id="comment-1807194" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 16, 2017<span> 1:41 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>You don&#8217;t speak for other people Corrine.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1807194#respond' onclick='return addComment.moveForm( "comment-1807194", "1807194", "respond", "1201912990" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt depth-2 highlander-comment" id="li-comment-1810450">
+			<div id="comment-1810450" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Fred249</cite> &bull; 						<i>on </i> Feb 21, 2017<span> 3:16 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Corrine, You are a nobody.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1810450#respond' onclick='return addComment.moveForm( "comment-1810450", "1810450", "respond", "1201912990" )' aria-label='Reply to Fred249'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1806615">
+			<div id="comment-1806615" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 3:26 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>I&#8217;m in if the writers get into the locker room tension ramping up to the Presidential election and acrimony over the team White House visit.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806615#respond' onclick='return addComment.moveForm( "comment-1806615", "1806615", "respond", "1201912990" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1806617">
+			<div id="comment-1806617" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 3:30 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Awful idea. Unless they get Brady to play himself. Then it&#8217;s worth doing.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806617#respond' onclick='return addComment.moveForm( "comment-1806617", "1806617", "respond", "1201912990" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1806630">
+			<div id="comment-1806630" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Jekl</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 3:44 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>This will be like Patriot&#8217;s Day: people in its home area will care but as PD proved, that&#8217;s not enough for a box office hit.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806630#respond' onclick='return addComment.moveForm( "comment-1806630", "1806630", "respond", "1201912990" )' aria-label='Reply to Jekl'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1806663">
+			<div id="comment-1806663" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Movie viewer</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 4:30 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Pass</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806663#respond' onclick='return addComment.moveForm( "comment-1806663", "1806663", "respond", "1201912990" )' aria-label='Reply to Movie viewer'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment even depth-2 highlander-comment" id="li-comment-1807329">
+			<div id="comment-1807329" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Bluecat4usa</cite> &bull; 						<i>on </i> Feb 16, 2017<span> 4:53 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>&#8230;And you Fumble 💩</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1807329#respond' onclick='return addComment.moveForm( "comment-1807329", "1807329", "respond", "1201912990" )' aria-label='Reply to Bluecat4usa'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment odd alt thread-even depth-1 highlander-comment" id="li-comment-1806667">
+			<div id="comment-1806667" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 4:37 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>I&#8217;m in if the writers explore the locker room tension leading up to the Presidential election, and the acrimony that ensued over the White House visit. Somehow, I fully expect that to be disregarded.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806667#respond' onclick='return addComment.moveForm( "comment-1806667", "1806667", "respond", "1201912990" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1806711">
+			<div id="comment-1806711" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">bruck</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 5:38 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Wow! Greatest idea for a movie ever!!!!</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806711#respond' onclick='return addComment.moveForm( "comment-1806711", "1806711", "respond", "1201912990" )' aria-label='Reply to bruck'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-even depth-1 highlander-comment" id="li-comment-1806727">
+			<div id="comment-1806727" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">TigerClaw</cite> &bull; 						<i>on </i> Feb 15, 2017<span> 6:03 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Matt Damon should play Tom Brady, Cause he kind of looks like him.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806727#respond' onclick='return addComment.moveForm( "comment-1806727", "1806727", "respond", "1201912990" )' aria-label='Reply to TigerClaw'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1806953">
+			<div id="comment-1806953" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Cafe Joe</cite> &bull; 						<i>on </i> Feb 16, 2017<span> 5:43 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Who is paying to see a fake actor pretending to see Tom Brady when we have the real thing for free on television?  We also know the outcome of this story.  And it just happened.  These are good writers but this will tank and they&#8217;ll never get the NFL Logos unless they give the NFL approval over their script.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1806953#respond' onclick='return addComment.moveForm( "comment-1806953", "1806953", "respond", "1201912990" )' aria-label='Reply to Cafe Joe'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			<ul class="children">
+			<li class="comment odd alt depth-2 highlander-comment" id="li-comment-1807014">
+			<div id="comment-1807014" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 16, 2017<span> 8:38 am</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Agree. NFL will be looking at this much differently over brand permissions and chain of title / insurances would be interesting  for errors &amp; omissions coverages.<br />
+Great final game, but the game like a reality show is over.  People will want something new🙄</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1807014#respond' onclick='return addComment.moveForm( "comment-1807014", "1807014", "respond", "1201912990" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1807180">
+			<div id="comment-1807180" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 16, 2017<span> 1:32 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>A better story is the world class choke job by the Falcons.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1807180#respond' onclick='return addComment.moveForm( "comment-1807180", "1807180", "respond", "1201912990" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-1807386">
+			<div id="comment-1807386" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Brady is King</cite> &bull; 						<i>on </i> Feb 16, 2017<span> 6:53 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>I think its a great idea&#8230;but AFTER he retires.  This man is so freaking ridiculously good at his craft that they are making a movie about his life while he is still playing&#8230;crazy.</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1807386#respond' onclick='return addComment.moveForm( "comment-1807386", "1807386", "respond", "1201912990" )' aria-label='Reply to Brady is King'>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+			<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-1809111">
+			<div id="comment-1809111" class="comment-wrapper">
+
+				<div class="comment-inner">
+
+					<div class="comment-author vcard">
+						<cite class="fn">Anonymous</cite> &bull; 						<i>on </i> Feb 19, 2017<span> 2:00 pm</span>
+											</div>
+					<!-- .comment-author .vcard -->
+
+					<div class="comment-body"><p>Any book about Brady should be post retirement and be all inclusive. Tell all? Well, that depends on motive. Clear his name? Or revenge.Be classy and always ask the question, &#8221; what can be gained?</p>
+</div>
+
+					<div class="reply">
+						<a rel='nofollow' class='comment-reply-link' href='http://deadline.com/2017/02/tom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990/?replytocom=1809111#respond' onclick='return addComment.moveForm( "comment-1809111", "1809111", "respond", "1201912990" )' aria-label='Reply to '>Reply</a>					</div>
+					<!-- .reply -->
+
+					
+				</div>
+
+				<div class="clear"></div>
+			</div><!-- #comment-##  -->
+			</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+</div>
+	<div class="widget-area horizontal ad" id="after-comment-ad">
+		<div class="admz" id="adm-after-comments">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="620">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-dl-ros-620x251-uid4" class="ad-rotatable adw-620 adh-251"></div>
+	</div>
+		</div>
+
+	</div>
+	</div>
+
+</div>
+
+<ul id="sidebar" class="widget-area nocontent">
+<div class="admz" id="adm-widget-dl-ros-300x600">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-deadline-ros-300x600-uid5" class="ad-rotatable adw-300 adh-600"></div>
+	</div>
+		</div>
+
+	</div>
+<li id="deadline_most_popular-11" class="widget-container widget_deadline_most_popular"><h3 class="widget-title"><span>What&#039;s Hot on Deadline</span></h3><ul id="most-popular">				<li class="trending-item">
+					<span class="number">1</span>
+					<h5><a href="http://deadline.com/2017/02/abby-lee-miller-final-sentencing-delayed-dance-moms-fraud-1201943445/">&#039;Dance Moms&#039; Abby Lee Miller Gets 11th-Hour Reprieve In Fraud Case Sentencing</a></h5>
+					<div class="percentage" style="width:35%">
+				</li>
+							<li class="trending-item">
+					<span class="number">2</span>
+					<h5><a href="http://deadline.com/2017/02/joe-scarborough-donald-trump-erratic-behavior-has-republicans-worried-stephen-colbert-1201932091/">Joe Scarborough: Donald Trump&#039;s &quot;Erratic Behavior&quot; Has Republicans Worried</a></h5>
+					<div class="percentage" style="width:9%">
+				</li>
+							<li class="trending-item">
+					<span class="number">3</span>
+					<h5><a href="http://deadline.com/2017/02/fifty-shades-darker-lego-batman-la-la-land-xxx-xander-cage-international-box-office-1201916399/">&#039;Fifty Shades&#039; Dominant With $285M WW; &#039;La La&#039; Lands $200M+ Overseas; &#039;XXX&#039; Tops In China - International Box Office</a></h5>
+					<div class="percentage" style="width:8%">
+				</li>
+							<li class="trending-item">
+					<span class="number">4</span>
+					<h5><a href="http://deadline.com/2017/01/dance-moms-abby-lee-miller-sentencing-hearing-fraud-case-lifetime-1201890392/">Feds Want &#039;Dance Moms&#039; Abby Lee Miller To Get 2.5 Years In Prison For Fraud Case</a></h5>
+					<div class="percentage" style="width:8%">
+				</li>
+							<li class="trending-item">
+					<span class="number">5</span>
+					<h5><a href="http://deadline.com/2017/02/kellyanne-conway-tv-return-hannity-fox-and-friends-1201944044/">Kellyanne Conway Making Return To TV On Fox News Channel&#039;s &#039;Hannity&#039; Tonight</a></h5>
+					<div class="percentage" style="width:7%">
+				</li>
+							<li class="trending-item">
+					<span class="number">6</span>
+					<h5><a href="http://deadline.com/2017/02/most-likely-to-murder-rachel-bloom-crazy-ex-girlfriend-adam-pally-lionsgate-1201926203/">Lionsgate Sets &#039;Most Likely To Murder&#039;; &#039;Crazy Ex-Girlfriend&#039;s Rachel Bloom &amp; Adam Pally Star</a></h5>
+					<div class="percentage" style="width:6%">
+				</li>
+							<li class="trending-item">
+					<span class="number">7</span>
+					<h5><a href="http://deadline.com/2017/02/stephen-colbert-donald-trump-ben-carson-hud-housing-urban-development-museum-video-1201931335/">Stephen Colbert: Donald Trump Promises Ben Carson Will Find &quot;True Meaning Of HUD&quot;</a></h5>
+					<div class="percentage" style="width:6%">
+				</li>
+							<li class="trending-item">
+					<span class="number">8</span>
+					<h5><a href="http://deadline.com/2017/02/logan-review-hugh-jackman-wolverine-marvel-video-1201928946/">&#039;Logan&#039; Review: The Marvel Comic Book Movie For People Who Hate Marvel Comic Book Movies</a></h5>
+					<div class="percentage" style="width:6%">
+				</li>
+							<li class="trending-item">
+					<span class="number">9</span>
+					<h5><a href="http://deadline.com/2017/02/fox-marvel-pilot-casts-jamie-chung-blink-1201932472/">Fox&#039;s Marvel Pilot Casts Jamie Chung As Blink</a></h5>
+					<div class="percentage" style="width:5%">
+				</li>
+							<li class="trending-item">
+					<span class="number">10</span>
+					<h5><a href="http://deadline.com/2017/02/timeless-renewal-cancellation-nbc-season-2-1201917656/">&#039;Timeless&#039; Awaits Renewal Decision By NBC As Season 1 Ends: Is It Out Of Time?</a></h5>
+					<div class="percentage" style="width:5%">
+				</li>
+			</ul></li><li id="deadline-latest-vertical-news-3" class="widget-container widget_deadline-latest-vertical-news"><h3 class="widget-title"><span>Latest Film News</span></h3><!--  Latest Vertical News Module -->
+<section class="latest-vertical-news">
+	<ul>
+					<li>
+				<a href="http://deadline.com/2017/02/writers-guild-meeting-strike-talk-wga-contract-1201949307/"
+				   title="WGA Meeting Shows Guild On Strike Footing As Contract Talks Loom" rel="nofollow">
+					<img width="91" height="59" src="https://cfmedia.deadline.com/2014/06/wga_logogrid.jpg?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="WGA" />					<span>
+						WGA Meeting Shows Guild On Strike Footing As Contract Talks Loom					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+					<li>
+				<a href="http://deadline.com/2017/02/watch-alien-covenant-video-introduces-colony-ship-crew-michael-fassbender-katherine-waterston-1201947615/"
+				   title="‘Alien: Covenant’ &#8216;Prologue&#8217; Video Introduces The Colony Ship’s Crew Before Cryosleep" rel="nofollow">
+					<img width="91" height="59" src="https://cfmedia.deadline.com/2017/02/alien-covenant2.jpg?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="Alien Covenant" />					<span>
+						'Alien: Covenant' &#8216;Prologue&#8217; Video Introduces The Colony Ship's Crew Before Cryosleep					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+					<li>
+				<a href="http://deadline.com/2017/02/uta-rally-speakers-gavin-newsom-jodie-foster-keegan-michael-key-1201945816/"
+				   title="UTA Rally Speakers: Gavin Newsom, Jodie Foster, Keegan-Michael Key &amp; More" rel="nofollow">
+					<img width="91" height="59" src="https://cfmedia.deadline.com/2017/02/gavin-newsom.jpg?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="Copyright 2016 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.
+Mandatory Credit: Photo by Matt Rourke/AP/REX/Shutterstock (5800430m)
+Gavin Newsom
+Democratic National Convention, Philadelphia, USA - 27 Jul 2016
+California Lt. Gov. Gavin Newsom speaks during the third day session of the Democratic National Convention in Philadelphia" />					<span>
+						UTA Rally Speakers: Gavin Newsom, Jodie Foster, Keegan-Michael Key &amp; More					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+					<li>
+				<a href="http://deadline.com/2017/02/imdb-age-law-halted-california-1201945603/"
+				   title="SAG-AFTRA &#8220;Disappointed&#8221; In Court Pausing IMDb Age Law" rel="nofollow">
+					<img width="91" height="59" src="https://cfmedia.deadline.com/2017/01/imdb-logo-featured.jpg?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="imdb-logo-featured" />					<span>
+						SAG-AFTRA &#8220;Disappointed&#8221; In Court Pausing IMDb Age Law					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+					<li>
+				<a href="http://deadline.com/2017/02/trevor-habberstad-dead-x-men-stuntman-dies-27-1201945166/"
+				   title="Trevor Habberstad Dies: &#8216;X-Men&#8217; &amp; &#8216;Doctor Strange&#8217; Stuntman Was 27" rel="nofollow">
+					<img width="91" height="59" src="https://cfmedia.deadline.com/2045/06/trevor-habberstad.jpg?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="trevor-habberstad" />					<span>
+						Trevor Habberstad Dies: &#8216;X-Men&#8217; &amp; &#8216;Doctor Strange&#8217; Stuntman Was 27					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+					<li>
+				<a href="http://deadline.com/2017/02/jose-padilha-arc-of-justice-mark-gordon-company-ossian-sweet-civil-rights-movie-narcos-1201944720/"
+				   title="Mark Gordon, &#8216;Narcos&#8217; Helmer José Padilha Unite For Landmark Race Case Pic &#8216;Arc Of Justice&#8217;" rel="nofollow">
+					<img width="91" height="59" src="https://cfmedia.deadline.com/2017/02/jose-padilha-arc-of-justice.jpg?w=91&amp;h=59&amp;crop=1" class="attachment-latest-vertical-news size-latest-vertical-news wp-post-image" alt="jose-padilha-arc-of-justice" />					<span>
+						Mark Gordon, &#8216;Narcos&#8217; Helmer José Padilha Unite For Landmark Race Case Pic &#8216;Arc Of Justice&#8217;					</span>
+				</a>
+
+				<div class="clear"></div>
+			</li>
+			</ul>
+
+	<p class="more">
+		<a href="http://deadline.com/v/film/">More</a></p>
+</section>
+<!-- /End Latest Vertical News Module -->
+</li>		<style type="text/css">
+			.markplace-ads {
+				padding: 20px 0;
+			}
+
+			.marketplace-title {
+				display: none;
+			}
+		</style>
+		<li id="pmc_marketplace_ads-4" class="widget-container widget_pmc_marketplace_ads"><div class="markplace-ads" data-event-tracking="" ><h3 class='widget-title marketplace-title'><span>Marketplace</span></h3><ul><div class="admz" id="adm-widget-dl-marketplace-3">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-deadline-marketplace3-uid6" class="ad-rotatable adw-300 adh-100"></div>
+	</div>
+		</div>
+
+	</div>
+</ul></div></li><li id="pmc_wt_widget-7" class="widget-container pmc_wt_widget_template"><span class="pmc-templatized-widget" data-label="featured-jobs"><h3 class="widget-title"><span>Featured Jobs</span></h3>
+<ul style="border-bottom:white;">
+<li style="padding:5px 10px;font-family:balto web medium;border-bottom:solid 1px #e1e1e1;"><a href="http://jobsearch.deadline.com/jobs/creative-development-coordinator-new-york-new-york-10036-76895659-d?contextType=spotlight" target="_blank" style="color:#008cd8;">Creative Development Coordinator</a><br />Triptyk Studios, New York, New York</li>
+<li style="padding:5px 10px;font-family:balto web medium;border-bottom:solid 1px #e1e1e1;"><a href="http://jobsearch.deadline.com/jobs/account-project-coordinator-ad-agency-burbank-california-91502-76363067-d" target="_blank" style="color:#008cd8;">Account/Project Coordinator (Ad Agency)</a><br />
+Petrol Advertising, Burbank, California
+</li>
+<li style="padding:5px 10px;font-family:balto web medium;border-bottom:solid 1px #e1e1e1;"><a href="http://jobsearch.deadline.com/jobs/media-specialist-westport-connecticut-06880-77057795-d?contextType=spotlight" target="_blank" style="color:#008cd8;">Media Specialist</a><br />
+Bridgewater Associates, Westport, Connecticut
+</li>
+<li style="padding:5px 10px;font-family:balto web medium;border-bottom:solid 1px #e1e1e1;"><a href="http://jobsearch.deadline.com/jobs/executive-director-aspen-film-aspen-colorado-81611-76854695-d" target="_blank" style="color:#008cd8;">Executive Director, Aspen Film</a><br />
+Company Confidential, Aspen, Colorado
+</li>
+<li style="padding:5px 10px;font-family:balto web medium;"><a href="http://jobsearch.deadline.com/jobs/associate-director-youtuber-gamer-partnerships-fairfield-connecticut-06825-76696346-d?contextType=spotlight" target="_blank" style="color:#008cd8;">Associate Director, YouTuber &amp; Gamer Partnerships</a><br />
+Save the Children, Fairfield, Connecticut
+</li>
+<li style="padding:23px 10px 0;font-family:balto web medium;"><a href="http://jobsearch.deadline.com/jobs/search" target="_blank" style="color:white;background-color:#cd0000;padding:5px 5px 4px;">SEE MORE JOBS</a><br />
+</li>
+</ul></span></li><div class="admz" id="adm-widget-dl-ros-300x250">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-deadline-ros-300x250-uid7" class="ad-rotatable adw-300 adh-250"></div>
+	</div>
+		</div>
+
+	</div>
+</ul>
+
+<div class="clear"></div>
+</div><!-- /#content -->
+</div><!-- /#main-wrapper -->
+<div class="footer-ad-mobile">
+	</div>
+
+       <footer id="footer" class="site-footer wrap" role="contentinfo">
+           <div id="other-pmc-properties">
+               		<ul id="property-snippets">
+        
+			<li class="footer-sites variety">
+				<a href="http://variety.com/2017/biz/asia/sony-and-japans-mitsui-launch-animation-joint-venture-1201994346/">
+					<h5 class="variety-logo logos"></h5>
+					<img src="//cfimage.deadline.com/pmcvariety.files.wordpress.com/2017/02/animax-logo.jpg?resize=180%2C101" width="180" height="101" alt="Variety" />
+					<p>Sony and Japan's Mitsui Launch Animation Joint Venture</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites tvline">
+				<a href="http://tvline.com/2017/02/22/legion-recap-episode-3-chapter-3-fx-marvel/">
+					<h5 class="tvline-logo logos"></h5>
+					<img src="//cfimage.deadline.com/pmctvline2.files.wordpress.com/2017/02/legion-recap-episode-3-fx-marvel-david-syd.jpg?resize=180%2C101" width="180" height="101" alt="TVLine" />
+					<p>Legion Recap: Sweet Dreams</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites goldderby">
+				<a href="http://www.goldderby.com/gallery/actresses-who-played-jackie-kennedy-photos/">
+					<h5 class="goldderby-logo logos"></h5>
+					<img src="//cfimage.deadline.com/static.goldderby.com/wp-content/uploads/2016/09/jackie-natalie-portman.jpg?resize=180%2C101" width="180" height="101" alt="GoldDerby" />
+					<p>Actresses Who Played First Lady Jackie Kennedy, from Natalie&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites hollywoodlife">
+				<a href="http://hollywoodlife.com/2017/02/23/peter-gunz-tara-wallace-pregnancy-rumors-not-pregnant-lhh/">
+					<h5 class="hollywoodlife-logo logos"></h5>
+					<img src="//cfimage.deadline.com/akmedia.hollywoodlife.com/2017/02/tera-wallace-peter-gunz-baby-ftr.jpg?resize=180%2C101" width="180" height="101" alt="HollywoodLife" />
+					<p>Tara Wallace Pregnant With Peter Gunz' Baby? &mdash; How She's&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites bgr">
+				<a href="http://bgr.com/2017/02/23/drone-video-spillway/">
+					<h5 class="bgr-logo logos"></h5>
+					<img src="//cfimage.deadline.com/boygeniusreport.files.wordpress.com/2017/02/drone.gif?resize=180%2C101" width="180" height="101" alt="BGR" />
+					<p>This drone video perfectly captures the dread of falling into an&hellip;</p>
+				</a>
+			</li>
+		        </ul>
+        		<section class="footer-links">
+			<ul>
+				<li><a href="/about-dhd/" title="About" rel="nofollow">About Us</a></li>
+				<li><a href="/advertise/" title="Advertise" rel="nofollow">Advertise</a></li>
+				<li><a href="http://pmc.com/terms-of-use/" title="Terms of Use" rel="nofollow">Terms of Use</a>
+				</li>
+				<li><a href="http://pmc.com/privacy-policy/" title="Privacy Policy" rel="nofollow">Privacy Policy</a></li>
+				<li><a href="http://pmc.com/privacy-policy/#california" title="Your Privacy Rights" rel="nofollow">Your Privacy Rights</a></li>
+				<li><a href="https://plus.google.com/+Deadline" rel="publisher">Google+</a></li>
+			</ul>
+		</section>
+				<section class="pmc-links">
+			<h3 class="pmc-logo-wrap"><a href="http://www.pmc.com/" title="PMC Network" >
+					<span class="pmc-logo logos"></span>
+					<span class="power-content">The Power of Content</span></a></h3>
+			<nav>
+				<ul class="pmc-properties icon-pmc-logos">
+												<li class=" variety-logo logos"><a title="Variety" href="http://variety.com/" ><span>Variety</span></a></li>
+														<li class=" india-logo logos"><a title="india.com" href="http://india.com/" ><span>india.com</span></a></li>
+														<li class=" hollywoodlife-logo logos"><a title="Hollywoodlife" href="http://hollywoodlife.com" ><span>Hollywoodlife</span></a></li>
+														<li class=" spy-logo logos"><a title="SPY" href="http://spy.com" ><span>SPY</span></a></li>
+														<li class=" tvline-logo logos"><a title="TV Line" href="http://tvline.com" ><span>TV Line</span></a></li>
+														<li class=" bgr-logo logos"><a title="BGR" href="http://bgr.com" ><span>BGR</span></a></li>
+														<li class=" wwd-logo logos"><a title="WWD" href="http://wwd.com/" ><span>WWD</span></a></li>
+														<li class=" fn-logo logos"><a title="Footwear News" href="http://footwearnews.com/" ><span>Footwear News</span></a></li>
+							
+				</ul>
+			</nav>
+		</section>
+
+		
+		<p class="copyright">Copyright &copy; 2017 Penske Business Media, LLC. All rights reserved.<br />
+			HOLLYWOOD&trade; &amp; Design &copy; 2017 Hollywood Chamber of Commerce. The Hollywood Sign is a trademark and intellectual property of Hollywood Chamber of Commerce. All Rights Reserved.
+		</p>
+					<p class="copyright powered-by-vip">Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></p>
+			           </div><!-- closes wrap -->
+       </footer>
+    
+<!-- facebook needs this div to load the button :hover -->
+<div id="fb-root"></div>
+		<script data-cfasync='true' type='text/javascript'>
+			try {
+				amznads.setTargetingForGPTAsync('amznslots');
+			} catch(e) { /*ignore*/}
+		</script>
+		
+<!-- pmc-adm targeting -->
+<script>
+if ( typeof pmc !== 'undefined' && typeof pmc.hooks !== 'undefined' ) {
+	pmc.hooks.add_filter( 'pmc-adm-set-targeting-keywords', function( keywords ) {
+		try {
+			if ( typeof Krux !== 'undefined' ) {
+				if ( typeof keywords['ksg'] === 'undefined' ) {
+					keywords['ksg']  = Krux.segments;
+				}
+				if ( typeof keywords['kuid'] === 'undefined' ) {
+					keywords['kuid']  = Krux.user;
+				}
+			}
+		} catch(e) {}
+		return keywords;
+	} );
+}
+
+(function() {
+	if( window.hasOwnProperty('pmc_krux' ) ) {
+		window.pmc_krux['destination-url'] = window.location.href;
+		if( document.hasOwnProperty('referrer') && document.referrer.length ) {
+			window.pmc_krux['referrer'] = document.referrer;
+		}
+		if( 'undefined' !== typeof pmc_meta && 'string' === pmc_meta.omni_visit_id ) {
+			window.pmc_krux['omni_visit_id'] = pmc_meta.omni_visit_id;
+		}
+	}
+})();
+
+</script>
+
+<!-- DO NOT REMOVE, comment for engineering, 4BAfe4nkpyAktm3S -->
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: "" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+</script>
+<!-- End comScore Tag -->
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+_qevents.push([
+	{ qacct:"p-0f0nSqEQ_DwA6" }, // Deadline P-code
+	{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+]);
+</script>
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel?a.1=<code>&a.2=p-31f3D02tYU8zY" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- Quantcast tag End, part 2 -->
+
+<!-- CrazyEgg start -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4414.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!-- CrazyEgg end -->
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+(function () {
+var d = new Image(1, 1);
+d.onerror = d.onload = function () { d.onerror = d.onload = null; };
+d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203220h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript><div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203220h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" /></div></noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- START callback function for onhashchange(when the hash tag in the url gets updated) -->
+<script type="text/javascript">
+function global_urlhashchanged() {
+		/**
+	 * Track pageview
+	 */
+	// Build the current domain name
+	var tmp_td = document.domain.split('.');
+	var tracking_domain = tmp_td[tmp_td.length-2] + "." + tmp_td[tmp_td.length-1];
+
+	// Build the current image
+	var imgname = location.hash.replace('#','');
+	try {
+		ga( 'send', 'pageview', location.pathname + location.hash );
+	} catch(err) {}
+
+
+
+	// Track Comscore
+	try {
+		setTimeout(function(){ var url = "http" + (/^https:/.test(document.location.href) ? "s" : "") + "://beacon.scorecardresearch.com/scripts/beacon.dll" + "?c1=2&amp;c2=6035310&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=" + escape(document.location.href) + "&amp;c8=" + escape(document.title) + "&amp;c9=" + escape(document.referrer) + "&amp;c10=" + escape(screen.width+'x'+screen.height) + "&amp;rn=" + (new Date()).getTime(); var i = new Image(); i.src = url; }, 1);
+
+		COMSCORE.beacon({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: ""});
+	} catch(err) {}
+
+	// Track Quantcast
+	try {
+		_qevents.push([
+			{ qacct:"p-0f0nSqEQ_DwA6" }, // Deadline P-code
+			{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+		]);
+	} catch(err) {}
+
+	/**
+	 * Track pageview end
+	 */
+}
+</script>
+
+<script src="//tru.am/scripts/custom/penskemedia.js"></script>
+<script type="text/javascript" src="//s.skimresources.com/js/87443X1540252.skimlinks.js"></script>
+		<div id="pmc-ad-bait" class="pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links" style="width: 0 !important; height: 0 !important; position: fixed !important; left: -99999px !important;">ad</div>
+
+		<script>
+			if ( 'undefined' !== typeof jQuery ) {
+				var $pmc_ad_bait = jQuery('#pmc-ad-bait');
+				if ( $pmc_ad_bait.length ) {
+					if ( 'block' !== $pmc_ad_bait.css('display') ) {
+						window.pmc_is_adblocked = true;
+					}
+				}
+			}
+		</script>
+		<script type='text/javascript' class="script-mobile">
+pmc_adm_gpt.init({
+    "ad_targetings": {
+        "host": "deadline.com",
+        "kw": [
+            "books",
+            "breaking-news",
+            "nfl",
+            "screenwriting",
+            "sports",
+            "casey-sherman",
+            "dave-wedge",
+            "eric-johnson",
+            "new-england-patriots",
+            "paul-tamasy",
+            "tom-brady",
+            "film"
+        ]
+    },
+    "ad_list": {
+        "default": [
+            {
+                "targeting": [],
+                "slot": "3782/DHD/ros/skin",
+                "id": "gpt-dl-ros-skin-uid0",
+                "bidders": false,
+                "is_lazy_load": null,
+                "oop": true
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/DHD/ros",
+                "id": "div-gpt-deadline-ros-970x90-uid1",
+                "width": [
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        1000,
+                        577
+                    ],
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        66
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527242"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427185"
+                            }
+                        },
+                        {
+                            "bidder": "rubiconLite",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "37956",
+                                "zoneId": "204924"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-deadline-ros-970x90-uid1",
+                    "sizes": [
+                        [
+                            970,
+                            90
+                        ],
+                        [
+                            1000,
+                            577
+                        ],
+                        [
+                            728,
+                            90
+                        ],
+                        [
+                            970,
+                            66
+                        ],
+                        [
+                            970,
+                            250
+                        ]
+                    ]
+                },
+                "is_lazy_load": null
+            },
+            {
+                "targeting": [],
+                "slot": "3782/DHD/ros/inline",
+                "id": "gpt-dl-article-inline-uid2",
+                "bidders": false,
+                "is_lazy_load": null,
+                "oop": true
+            },
+            {
+                "targeting": {
+                    "pos": "mid"
+                },
+                "slot": "3782/DHD/ros/river-mid",
+                "id": "div-gpt-dl-ros-620x250-uid3",
+                "width": [
+                    [
+                        620,
+                        250
+                    ],
+                    [
+                        300,
+                        251
+                    ],
+                    [
+                        500,
+                        280
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527243"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427184"
+                            }
+                        },
+                        {
+                            "bidder": "rubiconLite",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "37956",
+                                "zoneId": "204924"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-dl-ros-620x250-uid3",
+                    "sizes": [
+                        [
+                            620,
+                            250
+                        ],
+                        [
+                            300,
+                            251
+                        ],
+                        [
+                            500,
+                            280
+                        ]
+                    ]
+                },
+                "is_lazy_load": null
+            },
+            {
+                "targeting": {
+                    "pos": "bottom"
+                },
+                "slot": "3782/DHD/ros/river-bottom",
+                "id": "div-gpt-dl-ros-620x251-uid4",
+                "width": [
+                    [
+                        620,
+                        251
+                    ],
+                    [
+                        300,
+                        252
+                    ],
+                    [
+                        500,
+                        280
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527243"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427184"
+                            }
+                        },
+                        {
+                            "bidder": "rubiconLite",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "37956",
+                                "zoneId": "204924"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-dl-ros-620x251-uid4",
+                    "sizes": [
+                        [
+                            620,
+                            251
+                        ],
+                        [
+                            300,
+                            252
+                        ],
+                        [
+                            500,
+                            280
+                        ]
+                    ]
+                },
+                "is_lazy_load": null
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/DHD/ros",
+                "id": "div-gpt-deadline-ros-300x600-uid5",
+                "width": [
+                    [
+                        300,
+                        600
+                    ],
+                    [
+                        300,
+                        1050
+                    ],
+                    [
+                        300,
+                        251
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527242"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427184"
+                            }
+                        },
+                        {
+                            "bidder": "rubiconLite",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "37956",
+                                "zoneId": "204924"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-deadline-ros-300x600-uid5",
+                    "sizes": [
+                        [
+                            300,
+                            600
+                        ],
+                        [
+                            300,
+                            1050
+                        ],
+                        [
+                            300,
+                            251
+                        ]
+                    ]
+                },
+                "is_lazy_load": null
+            },
+            {
+                "targeting": [],
+                "slot": "3782/DHD/marketplace_3",
+                "id": "div-gpt-deadline-marketplace3-uid6",
+                "width": [
+                    [
+                        300,
+                        100
+                    ]
+                ],
+                "bidders": false,
+                "is_lazy_load": null
+            },
+            {
+                "targeting": {
+                    "pos": "bottom"
+                },
+                "slot": "3782/DHD/ros",
+                "id": "div-gpt-deadline-ros-300x250-uid7",
+                "width": [
+                    [
+                        300,
+                        250
+                    ]
+                ],
+                "bidders": {
+                    "bids": [
+                        {
+                            "bidder": "appnexus",
+                            "params": {
+                                "placementId": "9527243"
+                            }
+                        },
+                        {
+                            "bidder": "sovrn",
+                            "params": {
+                                "tagid": "427184"
+                            }
+                        },
+                        {
+                            "bidder": "rubiconLite",
+                            "params": {
+                                "accountId": "11714",
+                                "siteId": "37956",
+                                "zoneId": "204924"
+                            }
+                        }
+                    ],
+                    "code": "div-gpt-deadline-ros-300x250-uid7",
+                    "sizes": [
+                        [
+                            300,
+                            250
+                        ]
+                    ]
+                },
+                "is_lazy_load": null
+            }
+        ]
+    }
+});
+</script>
+
+<!-- wpcom_wp_footer -->
+<script type="text/liquid" id="ac_article">
+	<div class="ac_title">{{ result | highlight: 'title' | unescape }}</div>
+	<div class="ac_sub">{{ result.published_at | date: "%h %d, %Y" }}</div>
+</script>
+
+<script type="text/liquid" id="ac_tag">
+	<div class="ac_title">
+		<a href="{{ result.url }}">{{ result.name }}</a>
+	</div>
+</script>
+	<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/pmcdeadline2.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/pmcdeadline2.wordpress.com\/wp-login.php?action=logout&_wpnonce=769c8a4cfc","homeURL":"http:\/\/deadline.com\/","postID":"1201912990","gravDefault":"blank","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+<noscript><img src="https://s3.amazonaws.com/heartbeat.pmc.com/track?host=deadline.com&#038;path=%2F2017%2F02%2Ftom-brady-new-england-patriots-book-movie-the-finest-hours-writing-creative-team-1201912990%2F&#038;post_id=1201912990&#038;title=Tom+Brady+Book+%26+Movie+Coming+From+%E2%80%98The+Finest+Hours%E2%80%99+Writing+Team&#038;author=Anita+Busch&#038;comment_count=21" border="0" width="0" height="0" style="z-index: 0; bottom: -1px; left: -1px; display: inline; position: fixed;" /></noscript><script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h&#038;ver=3.3a1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_helpdesk_vars = {"_ajax_url":"https:\/\/pmcdeadline2.wordpress.com\/wp-admin\/admin-ajax.php","_activity_indicator_url":"https:\/\/pmcdeadline2.wordpress.com\/wp-admin\/images\/wpspin_light.gif","affirm":"Okay"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/_static/??-eJxdjcEOwiAQRH9IulZJ9GL8FgMbgbLbtbCt/r1w0Bhvk3lvMrCJcTNX5AqpgMc1OpTnkMoOfhCpkaz3yAVynLDAQ1Ex3NhnXP7lGpCaskYBIfcd9hwwi8cy9S9C1s80ssvaQO/dTA1Vs6Dk10CRm3Sly2hPe3u04/mQ3jRhQkw='></script>
+<script type='text/javascript' src='https://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/mu-plugins/twitter-blackbird-pie/pending.js?m=1408998121h&#038;ver=20130322'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/mu-plugins/twitter-blackbird-pie/neverending.js?m=1349449263h&#038;ver=20121005'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/waypoints.js?m=1349469282h&#038;ver=1.1.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var krux_event_pixels = {"gallery_slide_view":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-krux-tag/js/krux-pixel.js?m=1435699506h'></script>
+<script type='text/javascript' src='//s.swiftypecdn.com/cc/Tyut9ZjAAB9kAKBjPMRb.js?ver=1.0'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-swiftype/classes/../assets/js/SwiftypeComponents.min.js?m=1474045913h&#038;ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SwiftypeConfigs = {"engine_key":"Tyut9ZjAAB9kAKBjPMRb","redirect_to":"\/results","home_url":"http:\/\/deadline.com\/","placeholder_image":"","image_size":"medium","autocomplete":{"tags":{"include":true,"name":"Tags"},"articles":{"include":true,"name":"Articles"}},"author_list":["Nellie Andreeva","Mike Fleming Jr","Pete Hammond","Anita Busch","Jeremy Gerrard","David Lieberman","Nancy Tartaglione","Dominic Patten","Jen Yamato","The Deadline Team","Patrick Hipes","Denise Petski","Erik Pedersen","David Bloom","Anthony D'Alessandro","Lisa de Moraes","Scott Bowles","David Robb","Brian Brooks","Anna Lisa Raya","Diane Haithman"],"date_filters":{"date_options:radio-options":{"title":"Date Filter","default_option":0},"topics_facet:checkbox-facet":{"limit":7,"allowed_items":[],"disallowed_items":[]},"tags_facet:checkbox-facet":{"limit":7,"allowed_items":[],"disallowed_items":[]},"author_facet:checkbox-facet":[]},"custom_facet_settings":[],"meta_tags":{"post_types":{"post":"Article"},"show_content_type_meta_tag":false,"tags":["post_tag"],"topics":["vertical"],"custom_topics":[],"comment_count":true,"appeared_in_print":false},"trans":{"search":"Search","search_button":"Search","reference":"Relevance","pub_date_new":"Published Date (newest first)","pub_date_old":"Published Date (oldest first)","most_commented":"Most Commented","clear":"Clear","content_type":"Content Type","topics":"Topics","tags":"Tags","all":"All","twentyfour_hours":"Past 24 Hours","seven_days":"Past 7 Days","thirty_days":"Past 30 Days","twelve_months":"Past 12 Months"},"q":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-swiftype/classes/../assets/js/configuration.min.js?m=1475537026h&#038;ver=1.0'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-deadline/library/js/jquery.sticky.js?m=1398184685h&#038;ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-js-libraries/vendor/dotdotdot/1.6.14/jquery.dotdotdot.min.js?m=1403293658h&#038;ver=1.6.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-includes/js/thickbox/thickbox.js?m=1473172720h'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/mu-plugins/2-vip/js/vip-analytics.js?m=1411795912h&#038;ver=20140927b'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/mu-plugins/admin-bar/masterbar-overrides/masterbar.js?m=1450888478h'></script>
+<script type='text/javascript' src='//widgets.outbrain.com/outbrain.js?ver=4.6.1-RC1-38499'></script>
+<script type='text/javascript' src='https://cfstatic.deadline.com/wp-content/themes/vip/pmc-plugins/pmc-outbrain/assets/js/pmc-outbrain.js?m=1444841494h&#038;ver=4.6.1-RC1-38499'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'36403310','blog_tz':'-8','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'36403310','v':'wpcom','tz':'-8','user_id':'0','post':'1201912990','subd':'pmcdeadline2'}]);
+function st_vt() {var x=document.createElement("img");x.src="https://pixel.wp.com/g.gif?blog=36403310&v=wpcomvt&tz=-8&user_id=0&post=1201912990&subd=pmcdeadline2&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTc/SE4sa0ZsbndoVVZfSjc4OFVSNkV+P0hBW2hwWG5LNy5kODg5WjRSZGF3cWssSmNaTWw/LUh1KyZwMFIrOWRTcEpkaisuZyx1bVUwWEsyVGJPaCtoQnRsOS1fTFQ/VEpVelV+bytVW1g1VDFhRkRCam9GWWR3Uj1WLDRBPTZLLjdNeHFETExEV2k/ci1xVSVzND1LaVl3X0xia01lRnw1Z35CeS0wWGFGP3gvNC1jUks1ZHdORGtUMmM9cExwY1BSeGZzSXEsZUhtOD9m'}]);
+_stq.push([ 'clickTrackerInit', '36403310', '1201912990' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+<!-- Divs for easy breakpoint checks in JS -->
+<div id="js-small-vis-check"></div>
+<div id="js-large-vis-check"></div>
+<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>
+<!--
+	generated in 0.235 seconds
+	141960 bytes batcached for 300 seconds
+-->
