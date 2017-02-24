@@ -1,0 +1,871 @@
+    #[1]alternate [2]alternate [3]alternate [4]publisher
+
+   [5]Sporting News [6]NFL
+     * [7]Login
+     * [8]Register
+     * [9]My Account
+
+     * Edition:
+     * [us.png?v1] USA
+     * |
+     * [australia.png] AUS
+
+   [10]Sporting News [11]NFL [12]Menu
+   [13]SCORES
+     *
+          + Edition:
+          + [us.png] USA
+          + |
+          + [australia.png] AUS
+     * [14]NFL
+     * [15]MLB
+     * [16]NBA
+     * [17]NHL
+     * [18]NCAAF
+     * [19]NCAAB
+     * [20]NASCAR
+     * [21]FANTASY
+     * [22]SOCCER
+     * [23]ATHLETICS
+     * [24]TENNIS
+     * [25]GOLF
+     * [26]MMA
+     * [27]WWE
+     * [28]OTHER SPORTS
+     * [29]MORE
+          + [30]SN ON FACEBOOK
+          + [31]SN ON TWITTER
+          + [32]SN ON INSTAGRAM
+          + [33]GOAL
+          + [34]WRITERS
+          + [35]NEWSLETTER
+          + [36]SHOP
+
+     * [37]NFL
+          + [38]NFL Home
+          + [39]Video
+          + [40]Photos
+          + [41]Lists
+          + [42]Scores
+          + [43]Schedule
+          + [44]Standings
+          + [45]Draft
+          + [46]News Archive
+          +
+          +
+               o [47]Shop
+     * [48]MLB
+          + [49]MLB Home
+          + [50]Video
+          + [51]Photos
+          + [52]Lists
+          + [53]Scores
+          + [54]Schedule
+          + [55]Standings
+          + [56]News Archive
+          + [57]Shop
+     * [58]NBA
+          + [59]NBA Home
+          + [60]Video
+          + [61]Photos
+          + [62]Lists
+          + [63]Scores
+          + [64]Schedule
+          + [65]Standings
+          + [66]News Archive
+          + [67]Shop
+     * [68]NHL
+          + [69]NHL Home
+          + [70]Video
+          + [71]Photos
+          + [72]Lists
+          + [73]Scores
+          + [74]Schedule
+          + [75]Standings
+          + [76]News Archive
+          + [77]Shop
+     * [78]NCAAF
+          + [79]NCAAF Home
+          + [80]Video
+          + [81]Photos
+          + [82]Lists
+          + [83]Scores
+          + [84]Schedule
+          + [85]Standings
+          + [86]Polls
+          + [87]News Archive
+          +
+          +
+               o [88]Shop
+     * [89]NCAAB
+          + [90]NCAAB Home
+          + [91]Bracket
+          + [92]Video
+          + [93]Photos
+          + [94]Lists
+          + [95]Scores
+          + [96]Schedule
+          + [97]Standings
+          + [98]Polls
+          + [99]News Archive
+          +
+          +
+               o [100]Shop
+     * [101]NASCAR
+          + [102]NASCAR Home
+          + [103]Video
+          + [104]Photos
+          + [105]Lists
+          + [106]Schedule
+          + [107]Standings
+          + [108]News Archive
+          + [109]Shop
+     * [110]FANTASY
+          + [111]FANTASY Home
+          + [112]Player Updates
+          + [113]Rankings
+          + [114]Daily Fantasy
+          + [115]DFS Lineup Builder
+          +
+          +
+               o [116]News Archive
+     * [117]SOCCER
+          + [118]SOCCER Home
+          + [119]Video
+          + [120]Photos
+          + [121]Lists
+          + [122]News Archive
+          + [123]Shop
+     * All Sports
+          + [124]ATHLETICS
+          + [125]TENNIS
+          + [126]GOLF
+          + [127]MMA
+          + [128]WWE
+          + [129]OTHER SPORTS
+     * MORE
+          + [130]SN on Facebook
+          + [131]SN on Twitter
+          + [132]SN on Instagram
+          + [133]Goal
+          + [134]Writers
+          +
+          + [135]Newsletter
+          +
+          + [136]Shop
+
+     * [137]NFL
+          + [138]NFL Home
+          + [139]Video
+          + [140]Photos
+          + [141]Lists
+          + [142]Scores
+          + [143]Schedule
+          + [144]Standings
+          +
+          +
+               o [145]Draft
+               o
+               o [146]News Archive
+               o
+               o [147]Shop
+     * [148]MLB
+          + [149]MLB Home
+          + [150]Video
+          + [151]Photos
+          + [152]Lists
+          + [153]Scores
+          + [154]Schedule
+          + [155]Standings
+          +
+          +
+               o [156]News Archive
+               o
+               o [157]Shop
+     * [158]NBA
+          + [159]NBA Home
+          + [160]Video
+          + [161]Photos
+          + [162]Lists
+          + [163]Scores
+          + [164]Schedule
+          + [165]Standings
+          +
+          +
+               o [166]News Archive
+               o
+               o [167]Shop
+     * [168]NHL
+          + [169]NHL Home
+          + [170]Video
+          + [171]Photos
+          + [172]Lists
+          + [173]Scores
+          + [174]Schedule
+          + [175]Standings
+          +
+          +
+               o [176]News Archive
+               o
+               o [177]Shop
+     * [178]NCAAF
+          + [179]NCAAF Home
+          + [180]Video
+          + [181]Photos
+          + [182]Lists
+          + [183]Scores
+          + [184]Schedule
+          + [185]Standings
+          +
+          +
+               o [186]Polls
+               o
+               o [187]News Archive
+               o
+               o [188]Shop
+     * [189]NCAAB
+          + [190]NCAAB Home
+          + [191]Bracket
+          + [192]Video
+          + [193]Photos
+          + [194]Lists
+          + [195]Scores
+          + [196]Schedule
+          +
+          +
+               o [197]Standings
+               o
+               o [198]Polls
+               o
+               o [199]News Archive
+               o
+               o [200]Shop
+     * All Sports
+          + [201]NASCAR
+          + [202]FANTASY
+          + [203]SOCCER
+          + [204]ATHLETICS
+          + [205]TENNIS
+          + [206]GOLF
+          + [207]MMA
+          + [208]WWE
+          + [209]OTHER SPORTS
+     * MORE
+          + [210]SN on Facebook
+          + [211]SN on Twitter
+          + [212]SN on Instagram
+          +
+          + [213]Goal
+          +
+          + [214]Writers
+          +
+          + [215]Newsletter
+          +
+          + [216]Shop
+
+   [217]NFL Home
+     * [218]Video
+     * [219]Photos
+     * [220]Lists
+     * [221]Scores
+     * [222]Schedule
+     * [223]Standings
+     * [224]Draft
+     * [225]Shop
+
+[226]NFL Mock Draft 2017: Redskins, Patriots go for versatile playmakers
+
+   [227]NFL
+     *
+     *
+     *
+
+   February 22, 2017 12:01pm EST February 22, 2017 11:08am EST In SN's
+   latest NFL Mock Draft for 2017, Washington and New England take chances
+   on a couple players about which other teams might no be so sure.
+   Peppers-McCaffrey-022117-Getty-FTR.jpg Jabrill Peppers, Christian
+   McCaffrey (Getty Images)
+
+   [228]Vinnie Iyer [229]@vinnieiyer
+
+   Published on Feb. 22, 2017
+
+   Feb. 22, 2017
+
+   It's February, so 2017 NFL mock drafts are on the clock.
+
+   With the real draft still more than two months away and both [230]NFL
+   free agency and the [231]Combine still yet to take place, a lot will
+   change.
+
+   But for now, based on what we know, here's a first shot at
+   the first-round projections.
+
+   MORE: [232]Optimum Scouting's latest mock draft
+
+NFL Mock Draft 2017
+
+1. Browns: Myles Garrett, DE/OLB, Texas A&M
+
+   Cleveland needs plenty beyond a quarterback, a position it can
+   acquire several other ways, including a later draft pick. So why not
+   take [233]the best all-around prospect in the class, a player who can
+   emerge soon as one of the league's dominant pass rushers? Keep in mind
+   what former Aggie Von Miller brought to the Broncos.
+
+2. 49ers: Jonathan Allen, DT/DE, Alabama
+
+   This is based on San Francisco making an aggressive, pre-draft move to
+   land a veteran QB ([234]hello, Jimmy Garoppolo). Going to a base 4-3
+   under new defensive coordinator Robert Saleh, the Niners must keep
+   building their line despite recently addressing it with DeForest
+   Buckner and Arik Armstread, who were drafted for a 3-4.
+
+3. Bears: Mitch Trubisky, QB, North Carolina
+
+   Is Trubisky is the best QB in the draft? [235]No, but he will look the
+   part with his accuracy to vie to be the first off the board to the
+   right team. Chicago, with Jay Cutler done, is that team, because
+   Trubisky really feels like the anti-Cutler.
+
+   MORE: [236]Top 10 QBs in 2017 NFL Draft
+
+4. Jaguars: Jamal Adams, S, LSU
+
+   Jacksonville found a good safety early in the 2013 draft in Johnathan
+   Cyprien, but just as he has emerged as a force, he's now a free agent.
+   Adams is right there with Garrett and Allen as potential immediate
+   defensive impact players.
+
+5. Titans (from Rams): Marshon Lattimore, CB, Ohio State
+
+   Tennessee with its two first-round picks needs to take advantage of
+   some strong secondary talent near the top of the board. It can get the
+   best corner here, ahead of the corner-desperate Jets. Lattimore has
+   great size and big-time coverage skills.
+
+6. Jets: Deshaun Watson, QB, Clemson
+
+   New York has made a habit of drafting struggling pro QBs in later
+   rounds, so it's about time the Jets go after somebody who can be the
+   franchise's answer. Watson's winning experience is as attractive as his
+   athletic skill set. He's the complete package.
+
+7. Chargers: Malik Hooker, S, Ohio State
+
+   San Diego could reach for some offensive line help here, but this point
+   in the draft lines up with its glaring need for a ballhawking safety.
+   With Joey Bosa wreaking havoc on the front end, they can get another
+   Buckeye to clean up on the back end.
+
+8. Panthers: Leonard Fournette, RB, LSU
+
+   This mock pick is developing into a consensus because it makes a ton of
+   sense for Carolina. The time is right to land a young, explosive
+   feature back to replace Jonathan Stewart and complement Cam Newton with
+   a runner of this caliber.
+
+   WATCH: [237]Fournette is a "freak show"
+
+9. Bengals: Solomon Thomas, DE, Stanford
+
+   Cincinnati has to rebuild its defense to have any chance of returning
+   to the playoffs in the near future. An edge rusher is the highest
+   priority on that side of the ball, and Thomas is a seamless fit for the
+   Bengals' scheme with a good chance at immediate flash.
+
+10. Bills: Mike Williams, WR, Clemson
+
+   They'll be on standby for Watson, but if the national champs' QB isn't
+   available, the Bills can simply take his former college go-to guy.
+   Williams, despite some concerns about his true gamebreaking ability, is
+   the best wideout in the class and is the ideal outside type to pair
+   with speedy fellow former Tiger Sammy Watkins.
+
+11. Saints: Reuben Foster, ILB, Alabama
+
+   In order to keep up with other teams in the NFC South, New
+   Orleans needs a thumper who can clean up everything in the middle of
+   the field. Atlanta (Deion Jones), Carolina (Luke Kuechly) and Tampa Bay
+   (Kwon Alexander) are way ahead. Foster will make the Saints catch up
+   fast with his rangy playmaking skills.
+
+12. Browns (from Eagles): DeShone Kizer, QB, Notre Dame
+
+   Cleveland has watched Kizer with great interest for a long time. He has
+   many of the traits offensive-minded coach Hue Jackson likes, and
+   Kizer's raw talents can convert into something special with the right
+   coaching. This pick sounds more surprising than it actually would be.
+
+13. Cardinals: Quincy Wilson, CB, Florida
+
+   Arizona often got torched opposite Patrick Peterson last season. Wilson
+   is one of two terrific Gator cornerback prospects who are pretty close
+   on most teams' boards, and his size and stability can be the tiebreaker
+   for this selection.
+
+14. Eagles (from Vikings): Corey Davis, WR, Western Michigan
+
+   Philadelphia took Carson Wentz in last year's first-round — now the Sam
+   Bradford trade can help it get his true No. 1 receiver in 2017. Davis
+   has good size (6-2, 205 pounds) and speed, but what stands out is
+   his precise route-running, which is critical for Doug Pederson's
+   offense.
+
+15. Colts: Dalvin Cook, RB, Florida State
+
+   There's no doubt from a production, durability and receiving
+   perspective, Cook has some edges over Fournette. Indianapolis isn't
+   settling at all for the second back off the board, because he's the
+   young, all-around feature back perfect to succeed Frank Gore and take
+   more pressure off Andrew Luck.
+
+16. Ravens: Jalen "Teez" Tabor, CB, Florida
+
+   Tabor has great natural ball skills, but he will need to coached up to
+   be more consistent in staying with receivers downfield and improve as a
+   tackler. Baltimore is a good place for that, with Jimmy Smith being a
+   terrific current case in point.
+
+17. Redskins: Jabrill Peppers, S, Michigan
+
+   Washingon needs help at both safety and inside linebacker. Some teams
+   might be off Peppers because of his "tweener" status and the challenge
+   of trying to fit him in a defense. The Redskins should welcome that
+   kind of versatility.
+
+18. Titans: John Ross, WR, Washington
+
+   There's no way Tennessee, with two first-round picks, won't tap into
+   this draft's top wideout talent. The Titans are missing a speedy
+   home-run hitter who can take the top off a defense, which in turn
+   would help open up the running game even more. Vertical and versatile
+   are the buzzwords for Ross.
+
+19. Buccaneers: Derek Barnett, DE, Tennessee
+
+   Tampa Bay has loaded up at linebacker, and it still has Gerald McCoy as
+   the inside anchor of its defensive line. But the Buccaneers need to get
+   better at the ends in order to have more pass-rush pop in a division
+   with Matt Ryan, Cam Newton and Drew Brees. Barnett fits the bill with
+   his power and production.
+
+   MORE: [238]Edge rushers to watch at the Combine
+
+20. Broncos: Ryan Ramczyk, OT, Wisconsin
+
+   Denver will be tempted by a tight end here, given this isn't the
+   strongest class for offensive linemen. But tackle is a real position of
+   need, and Ramczyk is the best option early.
+
+21. Lions: Taco Charlton, DE, Michigan
+
+   Detroit needs to spark its pass rush, too, and needing to go just a
+   little down the road for Charlton at Michigan is a nice bonus. The
+   Lions see what Ziggy Ansah has become, so there's some freakish
+   familiarity here.
+
+22. Dolphins: O.J. Howard, TE, Alabama
+
+   Sure, Miami is getting Julius Thomas, but it's also losing two tight
+   ends in free agency, Jordan Cameron and Dion Sims. Thomas' durability
+   in Jacksonville was iffy, and much of his production came in the red
+   zone. Howard provides a different element as a field-stretching
+   athlete, and the combination of the two would be fun in Adam Gase's
+   offense.
+
+23. Giants: David Njoku, TE, Miami
+
+   New York kept Will Tye but cut No. 3 wideout Victor Cruz and won't
+   re-sign free agent Larry Donnell. The Giants might think offensive line
+   here if the prospect is right, but they should be fine with taking the
+   next great Hurricanes tight end. Although New York had some good years
+   from Jeremy Shockey, Njoku is more of the Greg Olsen type they've been
+   missing.
+
+   MORE: [239]Meet the next great TE from Miami
+
+24. Raiders: Marlon Humphrey, CB, Alabama
+
+   Oakland thought it was fine at corner last season, but aging Sean Smith
+   was a massive free-agent bust in working with David Amerson. The
+   Raiders need some stability and playmaking potential in the secondary
+   to play off their front seven attack, and Humphrey can provide both.
+
+25. Texans: Garett Bolles, OT, Utah
+
+   No matter how they proceed at quarterback, the Texans need to bring in
+   another athletic offensive lineman as a blocking anchor. Bolles is a
+   good fit all-around for coach Bill O'Brien.
+
+26. Seahawks: Cam Robinson, OT, Alabama
+
+   Seattle has been trying to come up with makeshift answers at offensive
+   tackle, and none have worked. Robinson has slipped a little in the
+   draft evaluation process, but he still projects as a strong, long-term
+   run blocker for the right side.
+
+27. Chiefs: Sidney Jones, CB, Washington
+
+   Kansas City has enjoyed the dynamic play of former Huskies corner
+   Marcus Peters. Jones has developed into a bit of a Peters clone in the
+   same program, and the Chiefs shouldn't mind having two aggressive
+   on-ball playmakers in their secondary.
+
+28. Cowboys: Charles Harris, DE, Missouri
+
+   Harris also fits a 3-4, but Dallas with its 4-3 isn't about to ignore
+   an explosive edge rusher who falls into its lap. The Cowboys have taken
+   too many chances with the position. Harris brings good energy with his
+   quickness and agility, and he can be productive from multiple spots.
+
+29. Packers: Takkarist McKinley, OLB, UCLA
+
+   Former Bruin Datone Jones and former Trojan Nick Perry are both free
+   agents from Green Bay's 3-4 edge, and the potential of losing both
+   makes pass-rush production a high priority for the Packers. McKinley is
+   a high-effort player who would mesh nicely with the relentless Clay
+   Matthews.
+
+30. Steelers: Tim Williams, OLB, Alabama
+
+   Pittsburgh can keep adding to its young, swarming defense with yet
+   another first round-worthy Crimson Tide stud. Williams' quickness and
+   explosiveness matches what the Steelers have piled up at the position.
+
+31. Falcons: Carl Lawson, DE, Auburn
+
+   Despite Vic Beasley Jr. [240]going off in 2016, Atlanta's pass rush
+   didn't have much else. Now that Beasley is flying around on the second
+   level, too, the Falcons need some more edge help up front. Lawson is
+   the best 4-3 talent left for them at this point.
+
+32. Patriots: Christian McCaffrey, RB, Stanford
+
+   LeGarrette Blount is a free agent, and Dion Lewis remains a durability
+   concern. James White was the Super Bowl hero, but McCaffrey would be
+   the ultimate luxury Swiss Army Knife for Josh McDaniels' offense. It
+   doesn't hurt that he can improve the Patriots' return game, too.
+
+     * pic
+
+[241]40 most hated NFL players of all time: loudmouths, cheaters, criminals
+     * pic
+
+[242]All 25 Browns starting QBs, ranked from worst to ... not worst
+     * pic
+
+[243]Tom Brady's 12 best games: Big numbers, bigger wins for Patriots QB
+     * pic
+
+[244]Ranking all 26 Browns starting quarterbacks since 1999
+
+   [sn.png]
+
+     * [245]Sporting News
+     * [246]Media Kit
+     * [247]Contact
+     * [248]Privacy Policy
+     * [249]Perform Group
+     * [250]Facebook [251]Twitter [252]Instagram [253]Newsletter
+
+   © 2017 [254]Sporting News Media and its licensors. All rights reserved.
+
+   [255]Sporting News
+     *
+
+     * [256]Media Kit
+     * [257]Contact
+     * [258]Privacy Policy
+     * [259]Perform Group
+
+   © 2017 [260]Sporting News Media and its licensors. All rights reserved.
+
+   [p?c1=2&c2=6035805&cv=2.0&cj=1] Quantcast
+
+References
+
+   Visible links
+   1. http://www.sportingnews.com/nfl/news/nfl-mock-draft-2017-order-dates-combine-rumors-redskins-patriots/seqgod7syvfw1eymwuwcjk94d
+   2. http://www.sportingnews.com/nfl/news/nfl-mock-draft-2017-order-dates-combine-rumors-redskins-patriots/seqgod7syvfw1eymwuwcjk94d
+   3. http://www.sportingnews.com/au/nfl/news/nfl-mock-draft-2017-order-dates-combine-rumors-redskins-patriots/seqgod7syvfw1eymwuwcjk94d
+   4. https://plus.google.com/115523108392991665451/
+   5. http://www.sportingnews.com/
+   6. file:///nfl
+   7. file:///home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+   8. file:///home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+   9. file:///my-account
+  10. http://www.sportingnews.com/
+  11. file:///nfl
+  12. file:///home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+  13. file:///nfl/scoreboard
+  14. file:///nfl
+  15. file:///mlb
+  16. file:///nba
+  17. file:///nhl
+  18. file:///ncaa-football
+  19. file:///ncaa-basketball
+  20. file:///nascar
+  21. file:///fantasy
+  22. file:///soccer
+  23. file:///athletics
+  24. file:///tennis
+  25. file:///golf
+  26. file:///mma
+  27. file:///wwe
+  28. file:///other-sports
+  29. file:///home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+  30. https://www.facebook.com/sportingnews
+  31. https://www.twitter.com/sportingnews
+  32. https://instagram.com/sportingnews/
+  33. http://www.goal.com/
+  34. file:///writers
+  35. file:///newsletter/signup
+  36. http://shop.sportingnews.com/
+  37. file:///nfl
+  38. file:///nfl
+  39. file:///nfl/videos
+  40. file:///nfl/photos
+  41. file:///nfl/lists
+  42. file:///nfl/scoreboard
+  43. file:///nfl/schedule
+  44. file:///nfl/standings
+  45. file:///nfl/draft
+  46. file:///nfl/news
+  47. http://www.fanatics.com/NFL/partnerid/9938
+  48. file:///mlb
+  49. file:///mlb
+  50. file:///mlb/videos
+  51. file:///mlb/photos
+  52. file:///mlb/lists
+  53. file:///mlb/scoreboard
+  54. file:///mlb/schedule
+  55. file:///mlb/standings
+  56. file:///mlb/news
+  57. http://www.fanatics.com/MLB/partnerid/9938
+  58. file:///nba
+  59. file:///nba
+  60. file:///nba/videos
+  61. file:///nba/photos
+  62. file:///nba/lists
+  63. file:///nba/scoreboard
+  64. file:///nba/schedule
+  65. file:///nba/standings
+  66. file:///nba/news
+  67. http://www.fanatics.com/NBA/partnerid/9938
+  68. file:///nhl
+  69. file:///nhl
+  70. file:///nhl/videos
+  71. file:///nhl/photos
+  72. file:///nhl/lists
+  73. file:///nhl/scoreboard
+  74. file:///nhl/schedule
+  75. file:///nhl/standings
+  76. file:///nhl/news
+  77. http://www.fanatics.com/NHL/partnerid/9938
+  78. file:///ncaa-football
+  79. file:///ncaa-football
+  80. file:///ncaa-football/videos
+  81. file:///ncaa-football/photos
+  82. file:///ncaa-football/lists
+  83. file:///ncaa-football/scoreboard
+  84. file:///ncaa-football/schedule
+  85. file:///ncaa-football/standings
+  86. file:///ncaa-football/polls
+  87. file:///ncaa-football/news
+  88. http://www.fanatics.com/COLLEGE/partnerid/9938
+  89. file:///ncaa-basketball
+  90. file:///ncaa-basketball
+  91. file:///ncaa-basketball/tournament/2016/bracket
+  92. file:///ncaa-basketball/videos
+  93. file:///ncaa-basketball/photos
+  94. file:///ncaa-basketball/lists
+  95. file:///ncaa-basketball/scoreboard
+  96. file:///ncaa-basketball/schedule
+  97. file:///ncaa-basketball/standings
+  98. file:///ncaa-basketball/polls
+  99. file:///ncaa-basketball/news
+ 100. http://www.fanatics.com/COLLEGE/partnerid/9938
+ 101. file:///nascar
+ 102. file:///nascar
+ 103. file:///nascar/videos
+ 104. file:///nascar/photos
+ 105. file:///nascar/lists
+ 106. file:///nascar/schedule
+ 107. file:///nascar/standings
+ 108. file:///nascar/news
+ 109. http://www.fanatics.com/NASCAR/partnerid/9938
+ 110. file:///fantasy
+ 111. file:///fantasy
+ 112. file:///fantasy/player-updates
+ 113. file:///fantasy/tag/rankings
+ 114. file:///fantasy/tag/dfs
+ 115. http://www.rotoql.com/sportingnews/
+ 116. file:///fantasy/news
+ 117. file:///soccer
+ 118. file:///soccer
+ 119. file:///soccer/videos
+ 120. file:///soccer/photos
+ 121. file:///soccer/lists
+ 122. file:///soccer/news
+ 123. http://www.fanatics.com/pages/World_Soccer/partnerid/9938
+ 124. file:///athletics
+ 125. file:///tennis
+ 126. file:///golf
+ 127. file:///mma
+ 128. file:///wwe
+ 129. file:///other-sports
+ 130. https://www.facebook.com/sportingnews
+ 131. https://www.twitter.com/sportingnews
+ 132. https://instagram.com/sportingnews/
+ 133. http://www.goal.com/
+ 134. file:///writers
+ 135. file:///newsletter/signup
+ 136. http://shop.sportingnews.com/
+ 137. file:///nfl
+ 138. file:///nfl
+ 139. file:///nfl/videos
+ 140. file:///nfl/photos
+ 141. file:///nfl/lists
+ 142. file:///nfl/scoreboard
+ 143. file:///nfl/schedule
+ 144. file:///nfl/standings
+ 145. file:///nfl/draft
+ 146. file:///nfl/news
+ 147. http://www.fanatics.com/NFL/partnerid/9938
+ 148. file:///mlb
+ 149. file:///mlb
+ 150. file:///mlb/videos
+ 151. file:///mlb/photos
+ 152. file:///mlb/lists
+ 153. file:///mlb/scoreboard
+ 154. file:///mlb/schedule
+ 155. file:///mlb/standings
+ 156. file:///mlb/news
+ 157. http://www.fanatics.com/MLB/partnerid/9938
+ 158. file:///nba
+ 159. file:///nba
+ 160. file:///nba/videos
+ 161. file:///nba/photos
+ 162. file:///nba/lists
+ 163. file:///nba/scoreboard
+ 164. file:///nba/schedule
+ 165. file:///nba/standings
+ 166. file:///nba/news
+ 167. http://www.fanatics.com/NBA/partnerid/9938
+ 168. file:///nhl
+ 169. file:///nhl
+ 170. file:///nhl/videos
+ 171. file:///nhl/photos
+ 172. file:///nhl/lists
+ 173. file:///nhl/scoreboard
+ 174. file:///nhl/schedule
+ 175. file:///nhl/standings
+ 176. file:///nhl/news
+ 177. http://www.fanatics.com/NHL/partnerid/9938
+ 178. file:///ncaa-football
+ 179. file:///ncaa-football
+ 180. file:///ncaa-football/videos
+ 181. file:///ncaa-football/photos
+ 182. file:///ncaa-football/lists
+ 183. file:///ncaa-football/scoreboard
+ 184. file:///ncaa-football/schedule
+ 185. file:///ncaa-football/standings
+ 186. file:///ncaa-football/polls
+ 187. file:///ncaa-football/news
+ 188. http://www.fanatics.com/COLLEGE/partnerid/9938
+ 189. file:///ncaa-basketball
+ 190. file:///ncaa-basketball
+ 191. file:///ncaa-basketball/tournament/2016/bracket
+ 192. file:///ncaa-basketball/videos
+ 193. file:///ncaa-basketball/photos
+ 194. file:///ncaa-basketball/lists
+ 195. file:///ncaa-basketball/scoreboard
+ 196. file:///ncaa-basketball/schedule
+ 197. file:///ncaa-basketball/standings
+ 198. file:///ncaa-basketball/polls
+ 199. file:///ncaa-basketball/news
+ 200. http://www.fanatics.com/COLLEGE/partnerid/9938
+ 201. file:///nascar
+ 202. file:///fantasy
+ 203. file:///soccer
+ 204. file:///athletics
+ 205. file:///tennis
+ 206. file:///golf
+ 207. file:///mma
+ 208. file:///wwe
+ 209. file:///other-sports
+ 210. https://www.facebook.com/sportingnews
+ 211. https://www.twitter.com/sportingnews
+ 212. https://instagram.com/sportingnews/
+ 213. http://www.goal.com/
+ 214. file:///writers
+ 215. file:///newsletter/signup
+ 216. http://shop.sportingnews.com/
+ 217. file:///home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+ 218. file:///nfl/videos
+ 219. file:///nfl/photos
+ 220. file:///nfl/lists
+ 221. file:///nfl/scoreboard
+ 222. file:///nfl/schedule
+ 223. file:///nfl/standings
+ 224. file:///nfl/draft
+ 225. http://www.fanatics.com/NFL/partnerid/9938
+ 226. file:///nfl/news/nfl-mock-draft-2017-order-dates-combine-rumors-redskins-patriots/seqgod7syvfw1eymwuwcjk94d
+ 227. file:///nfl
+ 228. http://www.sportingnews.com/author/11-vinnie-iyer
+ 229. https://twitter.com/intent/follow?screen_name=vinnieiyer
+ 230. http://www.sportingnews.com/nfl/news/nfl-free-agency-2017-top-free-agents-player-rankings-by-position-franchise-tag-calendar/7x1fxh5h1ivj1lxlydoz9ru5h
+ 231. http://www.sportingnews.com/nfl/news/nfl-combine-2017-invites-players-participants-dates-schedule-tv-channel-location/7685v2a6fqtc1sa7l0n3x1ehv
+ 232. http://www.sportingnews.com/nfl/list/nfl-mock-draft-2017-order-picks-selections-packers-jets-browns-49ers-bears/1xodrpee7ulyu1487aifeeb813
+ 233. http://www.sportingnews.com/nfl/news/myles-garrett-nfl-mock-draft-browns-cowboys-trade-rumors-texas-am/8jtkc0z7zqh11uan1lunxupy4
+ 234. http://www.sportingnews.com/nfl/news/jimmy-garoppolo-nfl-trade-rumors-patriots-49ers-browns-bears/kx63zcuombcx1lkp7ou8zyuu2
+ 235. http://www.sportingnews.com/nfl/list/nfl-draft-2017-quarterbacks-class-deshaun-watson-mitch-trubisky-patrick-mahomes/540krzpw7bvy1t9rsgjmfrtsc
+ 236. http://www.sportingnews.com/nfl/list/nfl-draft-2017-quarterbacks-class-deshaun-watson-mitch-trubisky-patrick-mahomes/540krzpw7bvy1t9rsgjmfrtsc
+ 237. http://www.sportingnews.com/nfl/video/jeremiah-leonard-fournette-is-a-freak-show/9idbfuxh7ff31ulij4vq7ggjg
+ 238. http://www.sportingnews.com/nfl/video/which-edge-rushers-will-stand-out-at-the-combine/1c8x5myujjjws1a46o3wte26ob
+ 239. http://www.sportingnews.com/nfl/news/david-njoku-miami-tight-end-nfl-mock-draft-combine-results-comparison/g6nkfjtyp1pf1v1btnnusu1et
+ 240. http://www.sportingnews.com/nfl/video/scout-school-vic-beasley/166z106goo7a11jttv7j9kd4q
+ 241. file:///nfl/list/nfl-hated-players-vick-lewis-roethlisberger-tebow-owens/1imk9iv0s73i1kfv2fp7spyw9
+ 242. file:///nfl/list/browns-starting-quarterbacks-ranking-record-stats-cleveland/1mw1e9r502zny1wdrfx9avlpli
+ 243. file:///nfl/list/tom-brady-greatest-games-wins-records-patriots/n88atrk1fc9f16ewl9wrslxxq
+ 244. file:///nfl/list/ranking-browns-quarterbacks-worst-johnny-manziel-tim-couch-josh-mccown-cleveland/1up5vib3wl5um1khwr3muyifc4
+ 245. http://www.sportingnews.com/
+ 246. http://www.performgroup.com/brands/sporting-news/
+ 247. http://www.sportingnews.com/customer-service/contact
+ 248. http://www.sportingnews.com/privacy
+ 249. http://www.performgroup.co.uk/
+ 250. https://www.facebook.com/sportingnews
+ 251. http://twitter.com/sportingnews
+ 252. https://instagram.com/sportingnews/
+ 253. http://www.sportingnews.com/newsletter/signup
+ 254. file:///
+ 255. http://www.sportingnews.com/
+ 256. http://www.performgroup.com/brands/sporting-news/
+ 257. file:///customer-service/contact
+ 258. http://www.sportingnews.com/privacy
+ 259. http://www.performgroup.co.uk/
+ 260. http://www.sportingnews.com/
+
+   Hidden links:
+ 262. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+ 263. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+ 264. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+ 265. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+ 266. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+ 267. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+ 268. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+ 269. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+ 270. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+ 271. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw231.txt
+ 272. javascript:/
+ 273. javascript:/
+ 274. javascript:/
+ 275. file://localhost/nfl/list/nfl-hated-players-vick-lewis-roethlisberger-tebow-owens/1imk9iv0s73i1kfv2fp7spyw9
+ 276. file://localhost/nfl/list/browns-starting-quarterbacks-ranking-record-stats-cleveland/1mw1e9r502zny1wdrfx9avlpli
+ 277. file://localhost/nfl/list/tom-brady-greatest-games-wins-records-patriots/n88atrk1fc9f16ewl9wrslxxq
+ 278. file://localhost/nfl/list/ranking-browns-quarterbacks-worst-johnny-manziel-tim-couch-josh-mccown-cleveland/1up5vib3wl5um1khwr3muyifc4
+ 279. https://www.facebook.com/sportingnews
+ 280. http://twitter.com/sportingnews
+ 281. https://instagram.com/sportingnews/
+ 282. http://www.sportingnews.com/newsletter/signup

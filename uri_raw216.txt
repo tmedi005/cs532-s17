@@ -1,0 +1,163 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:php="http://php.net/xsl" xmlns:exslt="http://exslt.org/common" lang="en"><head xmlns=""><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=7"><meta name="Generator" content="Site Solution - lunarlander"><meta name="DESCRIPTION" id="mDescription" content="New one of a kindPATRIOTS poster!!  ©Kelly Sieckhaus all rights reserved"><meta name="KEYWORDS" id="mKeywords" content="Art, Kelly Sieckhaus, Patriots"><link rel="stylesheet" type="text/css" media="screen" id="globalCSS" href="http://l.yimg.com/lm/lib/smb/css/hosting/yss/v2/mc_global.195798.css"><link rel="stylesheet" type="text/css" media="screen" id="themeCSS" href="http://l.yimg.com/lm/themes/yhoo/ga/dolce/matcha/palette1/4.0.5/en-us/theme.css"><link rel="stylesheet" type="text/css" media="screen" id="extensionsCSS" href="http://l.yimg.com/ln/lib/smb/assets/hosting/yss/extensions/css/mc_yss_extensions.195289.css"><script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/utilities/utilities.js"></script><script type="text/javascript" src="http://l.yimg.com/ln/assets/lib/common/widgets/2/container/container_2.1.0.js"></script><script type="text/javascript">
+            var $D  =  YAHOO.util.Dom;
+            var $E  =  YAHOO.util.Event;
+            var $A  =  YAHOO.util.Anim;
+            var $M  =  YAHOO.util.Motion;
+            var $EA =  YAHOO.util.Easing;
+            var $DD =  YAHOO.util.DD;
+            var $C  =  YAHOO.util.Connect;
+            var $   =  $D.get;
+
+            YAHOO.namespace ("Smb.Asteroids.Logger");
+            YAHOO.Smb.Asteroids.Logger = {
+                Log : function(e) {
+                    if (typeof console !== 'undefined') {
+                        console.log(e);
+                    }
+                }
+            }
+            var $LOG = YAHOO.Smb.Asteroids.Logger.Log;
+        </script><title>Kelly Sieckhaus - Patriots</title></head><body class="lo_layout2wt"><div id="body"><div id="doc" class=""><div xmlns="" id="hd"><style>
+		blockquote {margin-right:0;padding-right:0}
+	</style><div id="hContent"><div id="headerContent" class="editorWrap"><div id="headerZoneElement" class="editable rte flexContent" rel="itemGuid.sit.hc.001"><h1><img class="yssDKImg yssImg yssImgE yssAstImg_itemGuid.56c5243cd16ee4.48062704_1700X600 yssDKImg_alignNone" style="undefined" src="/yahoo_site_admin/assets/images/ksdlogolg.47175425.jpg" alt="" width="578px" height="203px" border="0" /></h1></div></div></div><div id="hMisc"><div class="contactInfoContainer" style="width:auto;height:auto"><p class="vcard"><span class="adr"><span class="postal-code">63129</span></span><br><span class="mailtoWrapper"><a class="email" href="mailto:kel4603@yahoo.com">kel4603<wbr>@yahoo<wbr>.com</a></span></p></div></div></div><div id="wrapper" class="navpos_north"><div xmlns="" id="navigation" class="tglsty_arrow sub_dynamic"><ul id="mainNav" role="navigation"><li class="mainNav " style="z-index:18"><a href="/home">HOME</a></li> <li class="mainNav active" style="z-index:17"><a href="/patriots">Patriots</a></li> <li class="mainNav " style="z-index:16"><a href="/stl_print">stl print</a></li> <li class="mainNav trigger " style="z-index:15"><a href="/southie_print">southie print</a><a href="#yss" class="toggle voidLink"><img src="http://l.yimg.com/a/i/spacer.gif" title="" alt="Click to open the southie print menu"></a><ul class="subNav"><li><a href="/southie_print/dstreet_print">Dstreet print</a></li> <li><a href="/southie_print/custom_southie_print">Custom Southie Print</a></li> </ul></li> <li class="mainNav " style="z-index:14"><a href="/dorchester_print">Dorchester Print</a></li> <li class="mainNav " style="z-index:13"><a href="/red_sox">red sox</a></li> <li class="mainNav " style="z-index:12"><a href="/basic_nurse_prints">Basic Nurse prints</a></li> <li class="mainNav " style="z-index:11"><a href="/nurse_print_union">Nurse print Union</a></li> <li class="mainNav " style="z-index:10"><a href="/custom_print">custom print</a></li> <li class="mainNav trigger " style="z-index:8"><a href="/custom_tumblers">custom tumblers</a><a href="#yss" class="toggle voidLink"><img src="http://l.yimg.com/a/i/spacer.gif" title="" alt="Click to open the custom tumblers menu"></a><ul class="subNav"><li><a href="/custom_tumblers/order_form">Order Form</a></li> </ul></li> <li class="mainNav " style="z-index:7"><a href="/painted_shoes">painted shoes</a></li> <li class="mainNav trigger " style="z-index:6"><a href="/just_for_kids">Just for Kids</a><a href="#yss" class="toggle voidLink"><img src="http://l.yimg.com/a/i/spacer.gif" title="" alt="Click to open the Just for Kids menu"></a><ul class="subNav"><li><a href="/just_for_kids/tables__chairs">tables &amp; chairs</a></li> <li><a href="/just_for_kids/step_stools">step stools</a></li> <li><a href="/just_for_kids/rockers">rockers</a></li> <li><a href="/just_for_kids/doll_houses">doll houses</a></li> <li><a href="/just_for_kids/wall_murals">Wall Murals</a></li> </ul></li> <li class="mainNav trigger " style="z-index:5"><a href="/glassware">glassware</a><a href="#yss" class="toggle voidLink"><img src="http://l.yimg.com/a/i/spacer.gif" title="" alt="Click to open the glassware menu"></a><ul class="subNav"><li><a href="/glassware/girls_night_out">girls night out</a></li> <li><a href="/glassware/weddingbachelorette">wedding/bachelorette</a></li> <li><a href="/glassware/springsummer_styles">spring/summer styles</a></li> </ul></li> <li class="mainNav trigger " style="z-index:4"><a href="/pottery">Pottery</a><a href="#yss" class="toggle voidLink"><img src="http://l.yimg.com/a/i/spacer.gif" title="" alt="Click to open the Pottery menu"></a><ul class="subNav"><li><a href="/pottery/pottery_for_children">pottery for children</a></li> </ul></li> <li class="mainNav trigger " style="z-index:3"><a href="/diy_projects">diy projects</a><a href="#yss" class="toggle voidLink"><img src="http://l.yimg.com/a/i/spacer.gif" title="" alt="Click to open the diy projects menu"></a><ul class="subNav"><li><a href="/diy_projects/beverage_cart">beverage cart</a></li> <li><a href="/diy_projects/sew_it">sew it</a></li> <li><a href="/diy_projects/refinish_it">refinish it</a></li> <li><a href="/diy_projects/re-upholstered_chair">re-upholstered chair</a></li> <li><a href="/diy_projects/slipcover_sew_easy">slipcover "sew easy"</a></li> <li><a href="/diy_projects/kids_crafts">kids crafts</a></li> <li><a href="/diy_projects/this_n_that">this 'n' that</a></li> <li><a href="/diy_projects/raised_garden_bed">raised garden bed</a></li> <li><a href="/diy_projects/recylcled_tv_cart">recylcled TV cart</a></li> <li><a href="/diy_projects/backsplash">backsplash</a></li> <li><a href="/diy_projects/armoire_makeover">Armoire makeover</a></li> <li><a href="/diy_projects/popcorn_costume">popcorn costume</a></li> </ul></li> <li class="mainNav " style="z-index:2"><a href="/about_me">About Me</a></li> <li class="mainNav " style="z-index:1"><a href="/contact_us">Contact Us</a></li> </ul></div><div xmlns="" id="bd"><div id="pageName"><div id="pageNameContent" class="editorWrap"><div id="pageNameZoneContent" class="editable rte flexContent" rel="itemGuid.pgName.pageGuid.58978e5be1ac15.26442682"><h2>Patriots</h2></div></div></div><div id="zWrap"><div id="zA"><div id="zA-widget-layout-wrap" class="widget-layout-wrap " rel=""><div class="modWrap"><p style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #333399; font-family: 'arial black', 'avant garde';" data-mce-style="color: #333399; font-family: 'arial black', 'avant garde';"><span style="font-size: 24px;" data-mce-style="font-size: 24px;">New <span style="color: #000000; font-family: arial, helvetica, sans-serif;" data-mce-style="color: #000000; font-family: arial, helvetica, sans-serif;">one of a kind</span></span></span></p><p style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #000000; font-family: 'arial black', 'avant garde'; font-size: 18pt; line-height: normal;" data-mce-style="color: #000000; font-family: 'arial black', 'avant garde'; font-size: 18pt; line-height: normal;"><span style="color: #ff0000;" data-mce-style="color: #ff0000;">P<span style="color: #000080;" data-mce-style="color: #000080;">A</span></span><span style="color: #808080;" data-mce-style="color: #808080;">T</span><span style="color: #ff0000;" data-mce-style="color: #ff0000;">R</span><span style="color: #000080;" data-mce-style="color: #000080;">I</span><span style="color: #808080;" data-mce-style="color: #808080;">O</span><span style="color: #ff0000;" data-mce-style="color: #ff0000;">T</span><span style="color: #000080;" data-mce-style="color: #000080;">S</span> <span style="color: #808080; font-family: arial, helvetica, sans-serif;" data-mce-style="color: #808080; font-family: arial, helvetica, sans-serif;">poster!! </span></span></p><p style="text-align: center;" data-mce-style="text-align: center;"> </p><p style="text-align: center;" data-mce-style="text-align: center;"><a type="4" href="/yahoo_site_admin/assets/docs/PATRIOTS1sample.39161752.jpg" data-mce-href="/yahoo_site_admin/assets/docs/PATRIOTS1sample.39161752.jpg"><img class="yssDKImg yssImg yssImgE yssAstImg_itemGuid.589cf05f834d42.31485542_3600X4800 yssDKImg_alignNone" src="/yahoo_site_admin/assets/images/PATRIOTS1sample.39144335_std.jpg" alt="" width="333px" height="444px" border="0" data-mce-src="/yahoo_site_admin/assets/images/PATRIOTS1sample.39144335_std.jpg" /></a></p><p style="text-align: center;" data-mce-style="text-align: center;">©Kelly Sieckhaus all rights reserved</p></div></div></div><div id="zB"><div id="zB-widget-layout-wrap" class="widget-layout-wrap " rel=""><div class="modWrap"><p style="text-align: center;" data-mce-style="text-align: center;"> </p><p style="text-align: center;" data-mce-style="text-align: center;"><span style="font-size: 14pt; line-height: normal;" data-mce-style="font-size: 14pt; line-height: normal;"><strong><span style="color: #000000;" data-mce-style="color: #000000;">EMail me</span></strong> at: <a type="3" href="mailto:kel4603@yahoo.com" data-mce-href="mailto:kel4603@yahoo.com">kel4603@yahoo.com</a> </span></p><p style="text-align: center;" data-mce-style="text-align: center;"><span style="font-size: 14pt; line-height: normal;" data-mce-style="font-size: 14pt; line-height: normal;">If you have any questions.</span></p><p style="text-align: center;" data-mce-style="text-align: center;"> </p><p style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: normal;" data-mce-style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: normal;">18x24 <span style="color: #000000;" data-mce-style="color: #000000;">$40 </span></span></p><p style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: normal;" data-mce-style="color: #ff0000; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: normal;"><span style="color: #000000;" data-mce-style="color: #000000;">SHIPPED PRIORITY.</span></span></p><p style="text-align: center;" data-mce-style="text-align: center;">(Priority shipping with tracking &amp;insurance)</p><p style="text-align: center;" data-mce-style="text-align: center;"> </p><p style="text-align: center;" data-mce-style="text-align: center;"><a class="internallink" type="2" href="/contact_us" data-mce-href="/contact_us">THE FINE PRINT</a></p><p style="text-align: center;" data-mce-style="text-align: center;"><br /></p><p style="text-align: center;" data-mce-style="text-align: center;"><br /></p><p style="text-align: center;" data-mce-style="text-align: center;"><br /></p><p style="text-align: center;" data-mce-style="text-align: center;"><br /></p><p style="text-align: center;" data-mce-style="text-align: center;">PAYPAL LINK COMING SOON</p><p style="text-align: center;" data-mce-style="text-align: center;"><br /></p><p style="text-align: center;" data-mce-style="text-align: center;"> </p></div></div></div><div id="zC"><div id="zC-widget-layout-wrap" class="widget-layout-wrap " rel=""><div class="modWrap"><p style="text-align: center;" data-mce-style="text-align: center;"><span style="font-size: 24pt; line-height: normal; font-family: 'arial black', 'avant garde'; color: #ffffff;" data-mce-style="font-size: 24pt; line-height: normal; font-family: 'arial black', 'avant garde'; color: #ffffff;"><span style="color: rgb(255, 0, 0);" data-mce-style="color: #ff0000;">THEY</span> HATE <span style="color: rgb(51, 51, 153);" data-mce-style="color: #333399;">US</span> <span style="color: rgb(255, 0, 0);" data-mce-style="color: #ff0000;">CAUSE</span> THEY </span><span style="font-size: 24pt; line-height: normal; font-family: &quot;arial black&quot;, &quot;avant garde&quot;; color: rgb(51, 51, 153);" data-mce-style="font-size: 24pt; line-height: normal; font-family: 'arial black', 'avant garde'; color: #333399;">AIN&#39;T</span><span style="font-size: 24pt; line-height: normal; font-family: &quot;arial black&quot;, &quot;avant garde&quot;; color: rgb(255, 0, 0);" data-mce-style="font-size: 24pt; line-height: normal; font-family: 'arial black', 'avant garde'; color: #ff0000;"> US!!</span></p><p style="text-align: center;" data-mce-style="text-align: center;"><br /></p></div></div></div></div></div></div><div xmlns="" id="ft"><div id="fWrapper"><div id="fContent"><div id="footerContent" class="editorWrap"><div id="footerZoneElement" class="editable rte flexContent" rel="itemGuid.4f224582bba5d7.86637737.footerContent"><p> </p><p> </p><p> <span>****ONCE you have made payment I will email you to verify SHIPPING info! You should expect this confirmation within 24hrs.  </span>﻿</p><p> </p><p> </p><p> </p><p style="text-align: center;" data-mce-style="text-align: center;"> </p><p style="text-align: center;" data-mce-style="text-align: center;"><a href="http://smallbusiness.yahoo.com/webhosting/" target="_top" data-mce-href="http://smallbusiness.yahoo.com/webhosting/">Web Hosting by Yahoo</a>    </p><p style="text-align: center;" data-mce-style="text-align: center;">Copyright Kelly Sieckhaus Designs. All rights reserved.</p></div></div></div><div id="fMisc"><div class="contactInfoContainer" style="width:auto;height:auto"><p class="vcard"><span class="adr"><span class="postal-code">63129</span></span><br><span class="mailtoWrapper"><a class="email" href="mailto:kel4603@yahoo.com">kel4603<wbr>@yahoo<wbr>.com</a></span></p></div></div><div id="fBadges"></div></div></div><script xmlns="" language="JavaScript" src="http://l.yimg.com/ln/assets/lib/smb/js/hosting/cp/js_source/whv2_001.js"></script><script xmlns="" language="javascript">geovisit();</script><noscript xmlns=""><img src="http://visit.webhosting.luminate.com/visit.gif?us1487821914" alt="setstats" border="0" width="1" height="1"></noscript></div></div></body><script xmlns="" type="text/javascript"></script><script xmlns="" type="text/javascript" src="http://l.yimg.com/ln/lib/extensions/js/mc_yss_extensions.195289.js"></script><script xmlns="" type="text/javascript">
+    YAHOO.namespace('Smb.Asteroids');
+    var YSA = YAHOO.Smb.Asteroids;
+
+    YSA.Nav = {
+        isNavNorth : false,
+        tmr : null,
+        tmrInterval : 600,
+        prevCloseNode : null,
+        isFirstVisit : true,
+
+        openSub : function(navNode) {
+            $LOG('openSub');
+
+            // Clear the timer if any, and if the previously opened subnav is still open (timeout expiration) 
+            YSA.Nav.clearTimer();
+            YSA.Nav.closePrevSubMenu();
+
+            // For horizontal navigation, set the top position of sub-nav as the height of the 'trigger' element.
+            if (YSA.Nav.isNavNorth) { 
+                var subNavNode = navNode.getElementsByTagName('ul')[0];
+                subNavNode.style.top = navNode.offsetHeight + 'px';
+            }
+
+            $D.addClass(navNode, 'opened');
+            $D.addClass('admincontrols', 'displayNone');
+        },
+        closeSub : function(navNode) {
+            $LOG('closeSub');
+            YSA.Nav.clearTimer();
+            YSA.Nav.prevCloseNode = navNode;
+            YSA.Nav.tmr = setTimeout(function() { YSA.Nav.hideSub(navNode); }, YSA.Nav.tmrInterval); 
+        },
+        hideSub : function(navNode) {
+            YSA.Nav.clearTimer();
+    
+            // For key board accessibility, the active sub menu is display:block., not none. So giving -999 to move it off screen in hide mode
+            if (YSA.Nav.isNavNorth && $D.hasClass(navNode, 'active')) {
+                var subNavNode = navNode.getElementsByTagName('ul')[0];
+                subNavNode.style.top = '-999px'; 
+            }
+            $D.removeClass(navNode, 'opened');
+            $D.removeClass('admincontrols', 'displayNone');
+        },
+        closePrevSubMenu : function() {
+            if (YSA.Nav.prevCloseNode) {
+                $LOG('Closing previous sub nav');
+                YSA.Nav.hideSub(YSA.Nav.prevCloseNode);
+                YSA.Nav.prevCloseNode = null;
+            }
+        },
+        isSubOpen : function(navNode) {
+            return $D.hasClass(navNode, 'opened');
+        },
+        toggleSub : function(navNode) {
+            var NAV = YSA.Nav;
+            if (NAV.isSubOpen(navNode)) {
+                NAV.closeSub(navNode);
+            } else {
+                NAV.openSub(navNode);
+            }
+        },
+        mouseOverTrigger : function(e) {
+            $LOG('mouseOverTrigger');
+            YSA.Nav.openSub(this);
+        },
+        mouseOutTrigger : function(e) {
+            $LOG('mouseOutTrigger');
+            var target = $E.getTarget(e);
+            var relatedTarget = $E.getRelatedTarget(e);
+            $LOG(target);
+            $LOG(relatedTarget);
+            YSA.Nav.closeSub(this);
+        },
+        mouseOverMainNav : function(e) {
+            $LOG('mouseOverMainNav');
+            if (!$D.hasClass(this, 'trigger')) {
+                YSA.Nav.closePrevSubMenu();
+            }
+        },
+        toggleClicked : function(e) {
+            $LOG('toggle clicked');
+            $LOG(e);
+            $E.stopEvent(e);
+            YSA.Nav.toggleSub(this.parentNode);
+        },
+        clearTimer : function() {
+            $LOG('Clearing Nav Timer');
+            if (YSA.Nav.tmr) {
+                clearTimeout(YSA.Nav.tmr);
+            }
+            YSA.Nav.tmr = null;
+        },
+        clearSubNavStyles : function() {
+            /* For horizontal navigation, we set the 'top' of subNav to align it with the bottom of trigger
+                Now if the user chage the template from ribbon, remove this inline style. Else this old inline value will take precedence! */ 
+            var subNavNode;
+            var navDiv = $('navigation');
+            var triggers = $D.getElementsByClassName('trigger', '', navDiv);
+            for (var el in triggers) {
+                if (YAHOO.lang.hasOwnProperty(triggers, el)) {
+                    subNavNode = triggers[el].getElementsByTagName('ul')[0];
+                    subNavNode.style.top = '';
+                }
+            } 
+        },
+        initNavSettings : function() {
+            var wrapperDiv = $('wrapper');
+            YSA.Nav.isNavNorth = (wrapperDiv && $D.hasClass(wrapperDiv, 'navpos_north')) ? true : false; 
+        },
+        init : function() {
+            // For the first visit, subscribe to the layout(template) change event
+            // When user changes template from the ribbon, we need to re-init this JS, based on the new templates settings. 
+            if (YSA.Nav.isFirstVisit) {
+                YSA.Nav.isFirstVisit = false;
+                if (YSA.UiMgr) {
+                    YSA.UiMgr.Layout.onChange.eventObj.subscribe(
+                        function() { YSA.Nav.init() });
+                }
+            } else {
+                YSA.Nav.clearSubNavStyles();
+            }
+
+            YSA.Nav.initNavSettings();
+            var navDiv = $('navigation');
+            if (! $D.hasClass(navDiv, 'sub_dynamic')) {
+                return;
+            }
+            YSA.Nav.initNavSettings();
+            var triggers = $D.getElementsByClassName('trigger', '', navDiv);
+            $E.on(triggers, 'mouseover', this.mouseOverTrigger);
+            $E.on(triggers, 'mouseout', this.mouseOutTrigger);
+            var toggles = $D.getElementsByClassName('toggle', 'a', navDiv);
+            $E.on(toggles, 'click', this.toggleClicked);
+            var triggers = $D.getElementsByClassName('mainNav', '', navDiv);
+            $E.on(triggers, 'mouseover', this.mouseOverMainNav);
+        }
+    };
+    $E.on(window, 'load', YSA.Nav.init, YSA.Nav, true); 
+</script>                           <script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/997ecfa88f644e6133385b8aee3d1611?id=ddcbc6baae87";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script> </html>
