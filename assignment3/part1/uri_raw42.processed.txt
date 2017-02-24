@@ -1,0 +1,29 @@
+   IFRAME: [1]http://bit.ly/2mdgOUG
+
+   [2]Linkis
+     * [3]avatar
+     * Laurie Fiore
+       [4]@lfiore10
+
+     * [5]Twitter
+
+   [6]Like
+   [7]Login
+
+   Original URL
+   [8]bit.ly/2mdgOUG
+
+References
+
+   Visible links
+   1. http://bit.ly/2mdgOUG
+   2. file:///
+   3. https://twitter.com/lfiore10
+   4. https://twitter.com/lfiore10
+   5. http://twitter.com/lfiore10
+   6. file:///home/tmedina/cs432/assignment3/part1/uri_raw42.txt
+   7. javascript:void(0);
+   8. file:///url/go/?url=http://bit.ly/2mdgOUG
+
+   Hidden links:
+  10. javascript:void(0);

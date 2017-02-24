@@ -1,0 +1,1913 @@
+<!doctype html>
+<html>
+<head>
+<title>Find Art Pieces | Find Artist | Find Galleries or Organizations 	| Artist.com</title>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+<meta name="description" content="Find your choice of Art Pieces, Artist and Galleries or Organizations by entering the required details" />
+<meta name="keywords" content="Find Art Pieces | Find Artist | Find Galleries or Organizations " />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=1" />
+<link rel="SHORTCUT ICON" href="/site-images/favicon.ico" type="image/x-icon" />
+<link href="/site-css/style.1484040641.css" rel="stylesheet" type="text/css">
+<link href="/site-css/jquery-ui.1456813276.css" rel="stylesheet" type="text/css">
+<script src="/site-js/jquery.1456813551.js" type="text/javascript"></script>
+<script src="/site-js/responsiveslides.1456813551.js" type="text/javascript"></script>
+<script src="/site-js/php.1456813551.js" type="text/javascript"></script>
+<script src="/site-js/ajax.1456813551.js" type="text/javascript"></script>
+<script src="/site-js/ajax_request.1456813551.js" type="text/javascript"></script>
+<script src="/site-js/tabcontent.1456813551.js" type="text/javascript"></script>
+<script src="/site-js/html5shiv.1456813551.js" type="text/javascript"></script>
+<script src="/site-js/script.1484039329.js" type="text/javascript"></script>
+<script src="/site-js/jquery-ui.js" type="text/javascript"></script>
+<link href="/site-css/responsive.1473139467.css" rel="stylesheet" type="text/css"> 
+<script type="text/javascript">
+$(document).ready(function(e){
+$(".welcome_txt a, #my-account-div").hover(function() {
+    $('#my-account-div').show();
+},function() {
+        setTimeout(function() {
+        if(!($('#my-account-div:hover').length > 0))
+            $('#my-account-div').hide();
+        }, 300);
+    });  
+	
+	var news_letter_subscribe = '';
+	if(news_letter_subscribe != ''){
+		document.getElementById('newletter_frm_msg').scrollIntoView();
+	}
+	
+	var consigliere_subscribe = '';
+	if(consigliere_subscribe != ''){
+		document.getElementById('consigliere_frm_msg').scrollIntoView();
+	}
+
+		
+	$("body").on("contextmenu", "img", function(e) {
+		return false;
+	});
+	
+	});
+</script>
+<link href="/site-css/colpick.1456813276.css" rel="stylesheet" type="text/css">
+<script src="/site-js/colpick.1456813551.js" type="text/javascript"></script> 
+<script src="/site-js/index.1464861427.js" type="text/javascript"></script> 
+ 
+<script type="text/javascript">
+$(document).ready(function(){
+$(".welcome_txt a, #my-account-div").hover(function() {
+    $('#my-account-div').show();
+},function() {
+        setTimeout(function() {
+        if(!($('#my-account-div:hover').length > 0))
+            $('#my-account-div').hide();
+        }, 300);
+    });  
+});
+</script> 
+<script type="text/javascript">
+	$(document).ready(function(e) {
+    // Home Page Arts Slider
+		$(function () {
+		  $("#bannerrightone").responsiveSlides({
+				manualControls: '#bullet1',
+				auto:true,
+				pause: true
+		  });
+		});
+	 });
+</script> 
+ 
+<script src="/site-js/jquery.collagePlus.min.js"></script> 
+<script src="/site-js/jquery.removeWhitespace.js"></script> 
+ 
+<!--image montage script --> 
+<script type="text/javascript">
+//image montage script start here. handle carefully
+    $(window).load(function () {
+        $(document).ready(function(){
+            collage();
+        });
+    });
+    // Here we apply the actual CollagePlus plugin
+    function collage() {
+		$('.Collage').removeWhitespace().collagePlus(
+            {
+            'targetHeight'  : '250',
+           //'targetHeight'  : 272,
+            'direction'       : 'vertical',
+            'allowPartialLastRow': true
+            }
+        );
+    };
+    var resizeTimer = null;
+$(window).bind('resize', function() {
+    // hide all the images until we resize them
+    // set the element you are scaling i.e. the first child nodes of ```.Collage``` to opacity 0
+    $('.Collage .Image_Wrapper').css("opacity", 0);
+    // set a timer to re-apply the plugin
+    if (resizeTimer) clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(collage, 200);
+});
+//end	
+</script> 
+
+
+</head>
+<body>
+<!--HEADER START HERE-->
+<div id="mainWrapper">
+<header class="inner">
+    <div class="container">
+        <div id="header">
+            <div class="main-logo"> <span id="loaderText" > Loading.... </span> <a title="Artist.com" href="/"><img alt="Artist.com" src="/site-images/artist-main-logo-new.png"></a> </div>
+            <div class="header-right">
+			
+                <div class="header-login searchbox">
+                    <ul>
+						<li class="login-link phone-link"><a href="tel:888-255-9147"><span></span>888-255-9147</a></li>
+						<li class="login-link offer-link"><a title="$ Incredible Offers" href="/offers/">$ Incredible Offers</a></li>
+						<li class="login-link discount-art"><a title="Discount Art Supplies" href="/discount-art-supplies/"><span></span>Discount Art Supplies</a></li>
+						<li class="login-link consigliere"><a title="Artist.com Consigliere" href="/consigliere/">Artist.com Consigliere</a></li>
+					                                                <li class="login-link header-login-link"><a title="Login" href="/login/"><span></span>Login</a></li>
+                        <li class="login-link register-link"><a title="Join Artist.com" href="/register/" class="join-artist">Join Artist.com</a></li>
+                                            </ul>
+                   <script type="text/javascript">
+//Main keywords Search
+function commonSearch(){
+		var mainName = $('#common_keywords').val();
+		var keyword = mainName.toLowerCase();
+		var mainKeywords = keyword.replace(/ /g, '-');		
+		var url = '/';
+		var pt = '';
+		var pv = '';
+		if(mainName != '' && mainName != 'Keywords') {
+			if(pt == '') {
+				pt = 'keywords';
+				pv = mainKeywords;
+			} else {
+				pt += '-keywords';
+				pv += '-lv-'+mainKeywords;
+			}			
+		}
+		if(pt != '')
+			url += pt+"-lt-"+pv+"/art-work/";
+		else 
+			url = "/arts/";
+		window.location.href = url;			
+		return false;
+
+}
+</script>
+
+
+<form name="common_search" id="common_search" method="get"  onSubmit="return commonSearch();">
+	<ul>
+        <li><input type="text"  id="common_keywords" autocomplete="off" placeholder="Search For..." class="innersearch" value=""/><input type="submit" class="innersearchbutton" value="" />
+        </li>
+    </ul>
+</form> 
+                </div>
+                <div class="dummy_block1"></div>
+                <div class="common-menu">
+                    <ul class="menu1">
+                        <li class="first-common-menu"><a title="About" href="/about/" >About</a></li>
+                        <li><a title="Artists" href="/artists/" >Artists</a></li>
+                        <li><a title="Art Works" href="/arts/" >Art Works</a></li>
+                        <li><a title="Galleries" href="/galleries/" >Galleries</a></li>
+                        <li><a title="Art Recognition and Education" href="/art-recognition-and-education/">Art Recognition and Education</a></li>
+                        <li><a title="Contact" href="/contact/"  >Contact</a></li>
+                        <li><a title="News Events" href="/news-events/" >News Events</a></li>
+                        <li class="last"><a title="Faq" href="/faq/" >Faq</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!--HEADER ENDS HERE-->
+
+
+<section id="home-banner">
+    <div class="container">
+        <div id="index_banner">
+            <ul class="rslides" id="bannerrightone">
+				<li><a href="/consigliere/"><img src="/site-images/consigliere.jpg" alt="" class="medium"></a> <a href="/consigliere/"><img src="/site-images/consigliere_480.jpg" alt="" class="small" /></a> <a href="/consigliere/"><img src="/site-images/consigliere_1920.jpg" alt="" class="large" /></a>
+				<div class="consigliere_banner">
+                        <h3>Whether you are thinking of upgrading and renovating your house or your business, Artist.com Consigliere Program can provide beautifully designed,</h3>
+                        <a href="/consigliere/" class="inx_ban_rd slide1">READ MORE</a> </div>
+                </li>
+                <li><a href="/register/"><img src="/site-images/home-banner1.jpg" alt="" class="medium" /></a> <a href="/register/"><img src="/site-images/banner1_320.jpg" alt="" class="small" /></a> <a href="/register/"><img src="/site-images/banner1_1920px.jpg" alt="" class="large" /></a>
+                    <div class="index_banner1">
+                        <h3>Artists:<br>
+                            Let's Start Your Business Online</h3>
+                        <h4>You're 90% of the way there</h4>
+                        <a href="/register/" class="inx_ban_rd slide1">start selling</a> </div>
+                </li>
+                <li><a href="/arts/"><img src="/site-images/home-banner2.jpg" alt="" class="medium"></a> <a href="/arts/"><img src="/site-images/banner2_320.jpg" alt="" class="small" /></a> <a href="/arts/"><img src="/site-images/banner2_1920px.jpg" alt="" class="large" /></a>
+                    <div class="index_banner1">
+                        <h2>Art Lovers </h2>
+                        <h4>Own Original Artwork Masterpieces</h4>
+                        <a href="/arts/" class="inx_ban_rd slide2">shop now</a> </div>
+                </li>
+				<li><a href="/artists/"><img src="/site-images/home-banner3.jpg" alt="" class="medium"></a> <a href="/artists/"><img src="/site-images/banner3_320.jpg" alt="" class="small" /></a> <a href="/artists/"><img src="/site-images/banner3_1920px.jpg" alt="" class="large" /></a>
+                    <div class="index_banner3">
+                        <h2>Art Collectors</h2>
+                        <h4>Find the new masterpiece of your <br>
+                            favorite Artist, 
+                            for your collection</h4>
+                        <a href="/artists/" class="inx_ban_rd slide3">view artists now</a> </div>
+                </li>
+                <li><a href="/galleries/"><img src="/site-images/home-banner4.jpg" alt="" class="medium" /></a> <a href="/galleries/"><img src="/site-images/banner4_320.jpg" alt="" class="small" /></a> <a href="/galleries/"><img src="/site-images/banner4_1920px.jpg" alt="" class="large" /></a>
+                    <div class="index_banner4">
+                        <h2>Galleries</h2>
+                        <h4>Show and Sell You Exhibitions<br>
+                            Online Feature Your Artists</h4>
+                        <a href="/galleries/" class="inx_ban_rd slide4">show & sell now</a> </div>
+                </li>
+            </ul>
+            <div class="index_banner">
+                <ul id="bullet1" class="bullet1">
+                    <li><a href="">&bull;</a></li>
+                    <li><a href="">&bull;</a></li>
+                    <li><a href="">&bull;</a></li>
+                    <li><a href="">&bull;</a></li>
+					<li><a href="">&bull;</a></li>
+                </ul>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+</section>
+<section id="home-search">
+    <div class="container">
+	<div class="left_home_search">
+        <ul class="home-search-tabs">
+            <li class="art_piece"><a href="javascript:void(0)" id="art_piece_tab" class="active" onClick="switchToTab(1);"><span></span>Art Pieces</a></li>
+            <li class="artist"><a href="javascript:void(0)" id="artist_tab" onClick="switchToTab(2);"><span></span>Artists</a></li>
+            <li class="gallery"><a href="javascript:void(0)" id="gallery_tab" onClick="switchToTab(3);"><span></span>Galleries/Organizations</a></li>
+        </ul>
+		
+	   <div class="home-search-content">
+            <div id="tab-1">
+                <ul class="art_piece_tab-form">
+                    <li>
+                        <form name="search" id="artist_search_form" class="artist_search_form" method="get" action="/">
+                            <span>
+                            <input type="text" placeholder="What are you looking for" class="search rounded" name="main_keywords" id="main_keywords" value="" autocomplete="off">
+                            <span class="view_form"><img src="/site-images/search-icon.png" onClick="showpopup('popup');" alt="search"/></span>
+                            <input type="submit" value="" class="artist_main_search_form">
+                            </span>
+                        </form>
+                    </li>
+                </ul>
+            </div>
+            <div id="tab-2" class="artist_tab-form tab-form" style="display: none;">
+                <p>Search artists by following sequential filters</p>
+                <ul>
+                    <li>
+                        <input type="text" placeholder="Artist Name" value="" id="artist_name" name="artist_name" class="ui-autocomplete-input" autocomplete="off">
+                    </li>
+                    <li>
+                        <select id="artist_location">
+                            <option value= "">Country</option>
+                <option value="2" class="otherselect option">Afghanistan</option>
+<option value="5" class="otherselect option">Albania</option>
+<option value="62" class="otherselect option">Algeria</option>
+<option value="11" class="otherselect option">American Samoa</option>
+<option value="6" class="otherselect option">Andorra</option>
+<option value="3" class="otherselect option">Angola</option>
+<option value="4" class="otherselect option">Anguilla</option>
+<option value="12" class="otherselect option">Antarctica</option>
+<option value="14" class="otherselect option">Antigua and Barbuda</option>
+<option value="9" class="otherselect option">Argentina</option>
+<option value="10" class="otherselect option">Armenia</option>
+<option value="1" class="otherselect option">Aruba</option>
+<option value="15" class="otherselect option">Australia</option>
+<option value="16" class="otherselect option">Austria</option>
+<option value="17" class="otherselect option">Azerbaijan</option>
+<option value="25" class="otherselect option">Bahamas</option>
+<option value="24" class="otherselect option">Bahrain</option>
+<option value="22" class="otherselect option">Bangladesh</option>
+<option value="32" class="otherselect option">Barbados</option>
+<option value="27" class="otherselect option">Belarus</option>
+<option value="19" class="otherselect option">Belgium</option>
+<option value="28" class="otherselect option">Belize</option>
+<option value="20" class="otherselect option">Benin</option>
+<option value="29" class="otherselect option">Bermuda</option>
+<option value="34" class="otherselect option">Bhutan</option>
+<option value="30" class="otherselect option">Bolivia</option>
+<option value="26" class="otherselect option">Bosnia and Herzegovina</option>
+<option value="36" class="otherselect option">Botswana</option>
+<option value="35" class="otherselect option">Bouvet Island</option>
+<option value="31" class="otherselect option">Brazil</option>
+<option value="101" class="otherselect option">British Indian Ocean Territory</option>
+<option value="33" class="otherselect option">Brunei</option>
+<option value="23" class="otherselect option">Bulgaria</option>
+<option value="21" class="otherselect option">Burkina Faso</option>
+<option value="18" class="otherselect option">Burundi</option>
+<option value="114" class="otherselect option">Cambodia</option>
+<option value="44" class="otherselect option">Cameroon</option>
+<option value="38" class="otherselect option">Canada</option>
+<option value="50" class="otherselect option">Cape Verde</option>
+<option value="54" class="otherselect option">Cayman Islands</option>
+<option value="37" class="otherselect option">Central African Republic</option>
+<option value="206" class="otherselect option">Chad</option>
+<option value="41" class="otherselect option">Chile</option>
+<option value="42" class="otherselect option">China</option>
+<option value="53" class="otherselect option">Christmas Island</option>
+<option value="39" class="otherselect option">Cocos (Keeling) Islands</option>
+<option value="48" class="otherselect option">Colombia</option>
+<option value="49" class="otherselect option">Comoros</option>
+<option value="46" class="otherselect option">Congo</option>
+<option value="45" class="otherselect option">Congo, The Democratic Republic</option>
+<option value="47" class="otherselect option">Cook Islands</option>
+<option value="51" class="otherselect option">Costa Rica</option>
+<option value="43" class="otherselect option">Cote d'Ivoire</option>
+<option value="96" class="otherselect option">Croatia</option>
+<option value="52" class="otherselect option">Cuba</option>
+<option value="55" class="otherselect option">Cyprus</option>
+<option value="56" class="otherselect option">Czech Republic</option>
+<option value="60" class="otherselect option">Denmark</option>
+<option value="58" class="otherselect option">Djibouti</option>
+<option value="59" class="otherselect option">Dominica</option>
+<option value="61" class="otherselect option">Dominican Republic</option>
+<option value="212" class="otherselect option">East Timor</option>
+<option value="63" class="otherselect option">Ecuador</option>
+<option value="64" class="otherselect option">Egypt</option>
+<option value="193" class="otherselect option">El Salvador</option>
+<option value="85" class="otherselect option">Equatorial Guinea</option>
+<option value="65" class="otherselect option">Eritrea</option>
+<option value="68" class="otherselect option">Estonia</option>
+<option value="69" class="otherselect option">Ethiopia</option>
+<option value="72" class="otherselect option">Falkland Islands</option>
+<option value="74" class="otherselect option">Faroe Islands</option>
+<option value="71" class="otherselect option">Fiji Islands</option>
+<option value="70" class="otherselect option">Finland</option>
+<option value="73" class="otherselect option">France</option>
+<option value="90" class="otherselect option">French Guiana</option>
+<option value="178" class="otherselect option">French Polynesia</option>
+<option value="13" class="otherselect option">French Southern territories</option>
+<option value="76" class="otherselect option">Gabon</option>
+<option value="83" class="otherselect option">Gambia</option>
+<option value="78" class="otherselect option">Georgia</option>
+<option value="57" class="otherselect option">Germany</option>
+<option value="79" class="otherselect option">Ghana</option>
+<option value="80" class="otherselect option">Gibraltar</option>
+<option value="86" class="otherselect option">Greece</option>
+<option value="88" class="otherselect option">Greenland</option>
+<option value="87" class="otherselect option">Grenada</option>
+<option value="82" class="otherselect option">Guadeloupe</option>
+<option value="91" class="otherselect option">Guam</option>
+<option value="89" class="otherselect option">Guatemala</option>
+<option value="81" class="otherselect option">Guinea</option>
+<option value="84" class="otherselect option">Guinea-Bissau</option>
+<option value="92" class="otherselect option">Guyana</option>
+<option value="97" class="otherselect option">Haiti</option>
+<option value="94" class="otherselect option">Heard Island and McDonald Island</option>
+<option value="226" class="otherselect option">Holy See (Vatican City State)</option>
+<option value="95" class="otherselect option">Honduras</option>
+<option value="93" class="otherselect option">Hong Kong</option>
+<option value="98" class="otherselect option">Hungary</option>
+<option value="105" class="otherselect option">Iceland</option>
+<option value="100" class="otherselect option">India</option>
+<option value="99" class="otherselect option">Indonesia</option>
+<option value="103" class="otherselect option">Iran</option>
+<option value="104" class="otherselect option">Iraq</option>
+<option value="102" class="otherselect option">Ireland</option>
+<option value="106" class="otherselect option">Israel</option>
+<option value="107" class="otherselect option">Italy</option>
+<option value="108" class="otherselect option">Jamaica</option>
+<option value="110" class="otherselect option">Japan</option>
+<option value="109" class="otherselect option">Jordan</option>
+<option value="111" class="otherselect option">Kazakstan</option>
+<option value="112" class="otherselect option">Kenya</option>
+<option value="115" class="otherselect option">Kiribati</option>
+<option value="118" class="otherselect option">Kuwait</option>
+<option value="113" class="otherselect option">Kyrgyzstan</option>
+<option value="119" class="otherselect option">Laos</option>
+<option value="129" class="otherselect option">Latvia</option>
+<option value="120" class="otherselect option">Lebanon</option>
+<option value="126" class="otherselect option">Lesotho</option>
+<option value="121" class="otherselect option">Liberia</option>
+<option value="122" class="otherselect option">Libyan Arab Jamahiriya</option>
+<option value="124" class="otherselect option">Liechtenstein</option>
+<option value="127" class="otherselect option">Lithuania</option>
+<option value="128" class="otherselect option">Luxembourg</option>
+<option value="130" class="otherselect option">Macao</option>
+<option value="138" class="otherselect option">Macedonia</option>
+<option value="134" class="otherselect option">Madagascar</option>
+<option value="149" class="otherselect option">Malawi</option>
+<option value="150" class="otherselect option">Malaysia</option>
+<option value="135" class="otherselect option">Maldives</option>
+<option value="139" class="otherselect option">Mali</option>
+<option value="140" class="otherselect option">Malta</option>
+<option value="137" class="otherselect option">Marshall Islands</option>
+<option value="147" class="otherselect option">Martinique</option>
+<option value="145" class="otherselect option">Mauritania</option>
+<option value="148" class="otherselect option">Mauritius</option>
+<option value="151" class="otherselect option">Mayotte</option>
+<option value="136" class="otherselect option">Mexico</option>
+<option value="75" class="otherselect option">Micronesia</option>
+<option value="133" class="otherselect option">Moldova</option>
+<option value="132" class="otherselect option">Monaco</option>
+<option value="142" class="otherselect option">Mongolia</option>
+<option value="146" class="otherselect option">Montserrat</option>
+<option value="131" class="otherselect option">Morocco</option>
+<option value="144" class="otherselect option">Mozambique</option>
+<option value="141" class="otherselect option">Myanmar</option>
+<option value="152" class="otherselect option">Namibia</option>
+<option value="162" class="otherselect option">Nauru</option>
+<option value="161" class="otherselect option">Nepal</option>
+<option value="159" class="otherselect option">Netherlands</option>
+<option value="7" class="otherselect option">Netherlands Antilles</option>
+<option value="153" class="otherselect option">New Caledonia</option>
+<option value="163" class="otherselect option">New Zealand</option>
+<option value="157" class="otherselect option">Nicaragua</option>
+<option value="154" class="otherselect option">Niger</option>
+<option value="156" class="otherselect option">Nigeria</option>
+<option value="158" class="otherselect option">Niue</option>
+<option value="155" class="otherselect option">Norfolk Island</option>
+<option value="174" class="otherselect option">North Korea</option>
+<option value="143" class="otherselect option">Northern Mariana Islands</option>
+<option value="160" class="otherselect option">Norway</option>
+<option value="164" class="otherselect option">Oman</option>
+<option value="165" class="otherselect option">Pakistan</option>
+<option value="170" class="otherselect option">Palau</option>
+<option value="177" class="otherselect option">Palestine</option>
+<option value="166" class="otherselect option">Panama</option>
+<option value="171" class="otherselect option">Papua New Guinea</option>
+<option value="176" class="otherselect option">Paraguay</option>
+<option value="168" class="otherselect option">Peru</option>
+<option value="169" class="otherselect option">Philippines</option>
+<option value="167" class="otherselect option">Pitcairn</option>
+<option value="172" class="otherselect option">Poland</option>
+<option value="175" class="otherselect option">Portugal</option>
+<option value="173" class="otherselect option">Puerto Rico</option>
+<option value="179" class="otherselect option">Qatar</option>
+<option value="180" class="otherselect option">Reunion</option>
+<option value="181" class="otherselect option">Romania</option>
+<option value="182" class="otherselect option">Russian Federation</option>
+<option value="183" class="otherselect option">Rwanda</option>
+<option value="189" class="otherselect option">Saint Helena</option>
+<option value="116" class="otherselect option">Saint Kitts and Nevis</option>
+<option value="123" class="otherselect option">Saint Lucia</option>
+<option value="196" class="otherselect option">Saint Pierre and Miquelon</option>
+<option value="227" class="otherselect option">Saint Vincent and the Grenadin</option>
+<option value="234" class="otherselect option">Samoa</option>
+<option value="194" class="otherselect option">San Marino</option>
+<option value="197" class="otherselect option">Sao Tome and Principe</option>
+<option value="184" class="otherselect option">Saudi Arabia</option>
+<option value="186" class="otherselect option">Senegal</option>
+<option value="203" class="otherselect option">Seychelles</option>
+<option value="192" class="otherselect option">Sierra Leone</option>
+<option value="187" class="otherselect option">Singapore</option>
+<option value="199" class="otherselect option">Slovakia</option>
+<option value="200" class="otherselect option">Slovenia</option>
+<option value="191" class="otherselect option">Solomon Islands</option>
+<option value="195" class="otherselect option">Somalia</option>
+<option value="237" class="otherselect option">South Africa</option>
+<option value="188" class="otherselect option">South Georgia and the South Sandwich Islands</option>
+<option value="117" class="otherselect option">South Korea</option>
+<option value="67" class="otherselect option">Spain</option>
+<option value="125" class="otherselect option">Sri Lanka</option>
+<option value="185" class="otherselect option">Sudan</option>
+<option value="198" class="otherselect option">Suriname</option>
+<option value="190" class="otherselect option">Svalbard and Jan Mayen</option>
+<option value="202" class="otherselect option">Swaziland</option>
+<option value="201" class="otherselect option">Sweden</option>
+<option value="40" class="otherselect option">Switzerland</option>
+<option value="204" class="otherselect option">Syria</option>
+<option value="218" class="otherselect option">Taiwan</option>
+<option value="209" class="otherselect option">Tajikistan</option>
+<option value="219" class="otherselect option">Tanzania</option>
+<option value="208" class="otherselect option">Thailand</option>
+<option value="207" class="otherselect option">Togo</option>
+<option value="210" class="otherselect option">Tokelau</option>
+<option value="213" class="otherselect option">Tonga</option>
+<option value="214" class="otherselect option">Trinidad and Tobago</option>
+<option value="215" class="otherselect option">Tunisia</option>
+<option value="216" class="otherselect option">Turkey</option>
+<option value="211" class="otherselect option">Turkmenistan</option>
+<option value="205" class="otherselect option">Turks and Caicos Islands</option>
+<option value="217" class="otherselect option">Tuvalu</option>
+<option value="220" class="otherselect option">Uganda</option>
+<option value="221" class="otherselect option">Ukraine</option>
+<option value="8" class="otherselect option">United Arab Emirates</option>
+<option value="77" class="otherselect option">United Kingdom</option>
+<option value="224" class="otherselect option">United States</option>
+<option value="222" class="otherselect option">United States Minor Outlying Islands</option>
+<option value="223" class="otherselect option">Uruguay</option>
+<option value="225" class="otherselect option">Uzbekistan</option>
+<option value="232" class="otherselect option">Vanuatu</option>
+<option value="228" class="otherselect option">Venezuela</option>
+<option value="231" class="otherselect option">Vietnam</option>
+<option value="229" class="otherselect option">Virgin Islands, British</option>
+<option value="230" class="otherselect option">Virgin Islands, U.S.</option>
+<option value="233" class="otherselect option">Wallis and Futuna</option>
+<option value="66" class="otherselect option">Western Sahara</option>
+<option value="235" class="otherselect option">Yemen</option>
+<option value="236" class="otherselect option">Yugoslavia</option>
+<option value="238" class="otherselect option">Zambia</option>
+<option value="239" class="otherselect option">Zimbabwe</option>
+
+                        </select>
+                    </li>
+                    
+                    <li class="submit-shop">
+                        <input type="button" value="SEARCH" class="submit-artist">
+                    </li>
+                </ul>
+            </div>
+            <div id="tab-3" class="gallery_tab-form tab-form" style="display: none;">
+                <p>Search galleries by following sequential filters</p>
+                <ul>
+                    <li>
+                        <input type="text" placeholder="Gallery Name" value="" id="gallery_name" name="gallery_name" class="ui-autocomplete-input" autocomplete="off">
+                    </li>
+                    <li>
+                        <select id="gallery_location" style="color: ;">
+                            <option value= "">Country</option>
+                <option value="2" class="otherselect option">Afghanistan</option>
+<option value="5" class="otherselect option">Albania</option>
+<option value="62" class="otherselect option">Algeria</option>
+<option value="11" class="otherselect option">American Samoa</option>
+<option value="6" class="otherselect option">Andorra</option>
+<option value="3" class="otherselect option">Angola</option>
+<option value="4" class="otherselect option">Anguilla</option>
+<option value="12" class="otherselect option">Antarctica</option>
+<option value="14" class="otherselect option">Antigua and Barbuda</option>
+<option value="9" class="otherselect option">Argentina</option>
+<option value="10" class="otherselect option">Armenia</option>
+<option value="1" class="otherselect option">Aruba</option>
+<option value="15" class="otherselect option">Australia</option>
+<option value="16" class="otherselect option">Austria</option>
+<option value="17" class="otherselect option">Azerbaijan</option>
+<option value="25" class="otherselect option">Bahamas</option>
+<option value="24" class="otherselect option">Bahrain</option>
+<option value="22" class="otherselect option">Bangladesh</option>
+<option value="32" class="otherselect option">Barbados</option>
+<option value="27" class="otherselect option">Belarus</option>
+<option value="19" class="otherselect option">Belgium</option>
+<option value="28" class="otherselect option">Belize</option>
+<option value="20" class="otherselect option">Benin</option>
+<option value="29" class="otherselect option">Bermuda</option>
+<option value="34" class="otherselect option">Bhutan</option>
+<option value="30" class="otherselect option">Bolivia</option>
+<option value="26" class="otherselect option">Bosnia and Herzegovina</option>
+<option value="36" class="otherselect option">Botswana</option>
+<option value="35" class="otherselect option">Bouvet Island</option>
+<option value="31" class="otherselect option">Brazil</option>
+<option value="101" class="otherselect option">British Indian Ocean Territory</option>
+<option value="33" class="otherselect option">Brunei</option>
+<option value="23" class="otherselect option">Bulgaria</option>
+<option value="21" class="otherselect option">Burkina Faso</option>
+<option value="18" class="otherselect option">Burundi</option>
+<option value="114" class="otherselect option">Cambodia</option>
+<option value="44" class="otherselect option">Cameroon</option>
+<option value="38" class="otherselect option">Canada</option>
+<option value="50" class="otherselect option">Cape Verde</option>
+<option value="54" class="otherselect option">Cayman Islands</option>
+<option value="37" class="otherselect option">Central African Republic</option>
+<option value="206" class="otherselect option">Chad</option>
+<option value="41" class="otherselect option">Chile</option>
+<option value="42" class="otherselect option">China</option>
+<option value="53" class="otherselect option">Christmas Island</option>
+<option value="39" class="otherselect option">Cocos (Keeling) Islands</option>
+<option value="48" class="otherselect option">Colombia</option>
+<option value="49" class="otherselect option">Comoros</option>
+<option value="46" class="otherselect option">Congo</option>
+<option value="45" class="otherselect option">Congo, The Democratic Republic</option>
+<option value="47" class="otherselect option">Cook Islands</option>
+<option value="51" class="otherselect option">Costa Rica</option>
+<option value="43" class="otherselect option">Cote d'Ivoire</option>
+<option value="96" class="otherselect option">Croatia</option>
+<option value="52" class="otherselect option">Cuba</option>
+<option value="55" class="otherselect option">Cyprus</option>
+<option value="56" class="otherselect option">Czech Republic</option>
+<option value="60" class="otherselect option">Denmark</option>
+<option value="58" class="otherselect option">Djibouti</option>
+<option value="59" class="otherselect option">Dominica</option>
+<option value="61" class="otherselect option">Dominican Republic</option>
+<option value="212" class="otherselect option">East Timor</option>
+<option value="63" class="otherselect option">Ecuador</option>
+<option value="64" class="otherselect option">Egypt</option>
+<option value="193" class="otherselect option">El Salvador</option>
+<option value="85" class="otherselect option">Equatorial Guinea</option>
+<option value="65" class="otherselect option">Eritrea</option>
+<option value="68" class="otherselect option">Estonia</option>
+<option value="69" class="otherselect option">Ethiopia</option>
+<option value="72" class="otherselect option">Falkland Islands</option>
+<option value="74" class="otherselect option">Faroe Islands</option>
+<option value="71" class="otherselect option">Fiji Islands</option>
+<option value="70" class="otherselect option">Finland</option>
+<option value="73" class="otherselect option">France</option>
+<option value="90" class="otherselect option">French Guiana</option>
+<option value="178" class="otherselect option">French Polynesia</option>
+<option value="13" class="otherselect option">French Southern territories</option>
+<option value="76" class="otherselect option">Gabon</option>
+<option value="83" class="otherselect option">Gambia</option>
+<option value="78" class="otherselect option">Georgia</option>
+<option value="57" class="otherselect option">Germany</option>
+<option value="79" class="otherselect option">Ghana</option>
+<option value="80" class="otherselect option">Gibraltar</option>
+<option value="86" class="otherselect option">Greece</option>
+<option value="88" class="otherselect option">Greenland</option>
+<option value="87" class="otherselect option">Grenada</option>
+<option value="82" class="otherselect option">Guadeloupe</option>
+<option value="91" class="otherselect option">Guam</option>
+<option value="89" class="otherselect option">Guatemala</option>
+<option value="81" class="otherselect option">Guinea</option>
+<option value="84" class="otherselect option">Guinea-Bissau</option>
+<option value="92" class="otherselect option">Guyana</option>
+<option value="97" class="otherselect option">Haiti</option>
+<option value="94" class="otherselect option">Heard Island and McDonald Island</option>
+<option value="226" class="otherselect option">Holy See (Vatican City State)</option>
+<option value="95" class="otherselect option">Honduras</option>
+<option value="93" class="otherselect option">Hong Kong</option>
+<option value="98" class="otherselect option">Hungary</option>
+<option value="105" class="otherselect option">Iceland</option>
+<option value="100" class="otherselect option">India</option>
+<option value="99" class="otherselect option">Indonesia</option>
+<option value="103" class="otherselect option">Iran</option>
+<option value="104" class="otherselect option">Iraq</option>
+<option value="102" class="otherselect option">Ireland</option>
+<option value="106" class="otherselect option">Israel</option>
+<option value="107" class="otherselect option">Italy</option>
+<option value="108" class="otherselect option">Jamaica</option>
+<option value="110" class="otherselect option">Japan</option>
+<option value="109" class="otherselect option">Jordan</option>
+<option value="111" class="otherselect option">Kazakstan</option>
+<option value="112" class="otherselect option">Kenya</option>
+<option value="115" class="otherselect option">Kiribati</option>
+<option value="118" class="otherselect option">Kuwait</option>
+<option value="113" class="otherselect option">Kyrgyzstan</option>
+<option value="119" class="otherselect option">Laos</option>
+<option value="129" class="otherselect option">Latvia</option>
+<option value="120" class="otherselect option">Lebanon</option>
+<option value="126" class="otherselect option">Lesotho</option>
+<option value="121" class="otherselect option">Liberia</option>
+<option value="122" class="otherselect option">Libyan Arab Jamahiriya</option>
+<option value="124" class="otherselect option">Liechtenstein</option>
+<option value="127" class="otherselect option">Lithuania</option>
+<option value="128" class="otherselect option">Luxembourg</option>
+<option value="130" class="otherselect option">Macao</option>
+<option value="138" class="otherselect option">Macedonia</option>
+<option value="134" class="otherselect option">Madagascar</option>
+<option value="149" class="otherselect option">Malawi</option>
+<option value="150" class="otherselect option">Malaysia</option>
+<option value="135" class="otherselect option">Maldives</option>
+<option value="139" class="otherselect option">Mali</option>
+<option value="140" class="otherselect option">Malta</option>
+<option value="137" class="otherselect option">Marshall Islands</option>
+<option value="147" class="otherselect option">Martinique</option>
+<option value="145" class="otherselect option">Mauritania</option>
+<option value="148" class="otherselect option">Mauritius</option>
+<option value="151" class="otherselect option">Mayotte</option>
+<option value="136" class="otherselect option">Mexico</option>
+<option value="75" class="otherselect option">Micronesia</option>
+<option value="133" class="otherselect option">Moldova</option>
+<option value="132" class="otherselect option">Monaco</option>
+<option value="142" class="otherselect option">Mongolia</option>
+<option value="146" class="otherselect option">Montserrat</option>
+<option value="131" class="otherselect option">Morocco</option>
+<option value="144" class="otherselect option">Mozambique</option>
+<option value="141" class="otherselect option">Myanmar</option>
+<option value="152" class="otherselect option">Namibia</option>
+<option value="162" class="otherselect option">Nauru</option>
+<option value="161" class="otherselect option">Nepal</option>
+<option value="159" class="otherselect option">Netherlands</option>
+<option value="7" class="otherselect option">Netherlands Antilles</option>
+<option value="153" class="otherselect option">New Caledonia</option>
+<option value="163" class="otherselect option">New Zealand</option>
+<option value="157" class="otherselect option">Nicaragua</option>
+<option value="154" class="otherselect option">Niger</option>
+<option value="156" class="otherselect option">Nigeria</option>
+<option value="158" class="otherselect option">Niue</option>
+<option value="155" class="otherselect option">Norfolk Island</option>
+<option value="174" class="otherselect option">North Korea</option>
+<option value="143" class="otherselect option">Northern Mariana Islands</option>
+<option value="160" class="otherselect option">Norway</option>
+<option value="164" class="otherselect option">Oman</option>
+<option value="165" class="otherselect option">Pakistan</option>
+<option value="170" class="otherselect option">Palau</option>
+<option value="177" class="otherselect option">Palestine</option>
+<option value="166" class="otherselect option">Panama</option>
+<option value="171" class="otherselect option">Papua New Guinea</option>
+<option value="176" class="otherselect option">Paraguay</option>
+<option value="168" class="otherselect option">Peru</option>
+<option value="169" class="otherselect option">Philippines</option>
+<option value="167" class="otherselect option">Pitcairn</option>
+<option value="172" class="otherselect option">Poland</option>
+<option value="175" class="otherselect option">Portugal</option>
+<option value="173" class="otherselect option">Puerto Rico</option>
+<option value="179" class="otherselect option">Qatar</option>
+<option value="180" class="otherselect option">Reunion</option>
+<option value="181" class="otherselect option">Romania</option>
+<option value="182" class="otherselect option">Russian Federation</option>
+<option value="183" class="otherselect option">Rwanda</option>
+<option value="189" class="otherselect option">Saint Helena</option>
+<option value="116" class="otherselect option">Saint Kitts and Nevis</option>
+<option value="123" class="otherselect option">Saint Lucia</option>
+<option value="196" class="otherselect option">Saint Pierre and Miquelon</option>
+<option value="227" class="otherselect option">Saint Vincent and the Grenadin</option>
+<option value="234" class="otherselect option">Samoa</option>
+<option value="194" class="otherselect option">San Marino</option>
+<option value="197" class="otherselect option">Sao Tome and Principe</option>
+<option value="184" class="otherselect option">Saudi Arabia</option>
+<option value="186" class="otherselect option">Senegal</option>
+<option value="203" class="otherselect option">Seychelles</option>
+<option value="192" class="otherselect option">Sierra Leone</option>
+<option value="187" class="otherselect option">Singapore</option>
+<option value="199" class="otherselect option">Slovakia</option>
+<option value="200" class="otherselect option">Slovenia</option>
+<option value="191" class="otherselect option">Solomon Islands</option>
+<option value="195" class="otherselect option">Somalia</option>
+<option value="237" class="otherselect option">South Africa</option>
+<option value="188" class="otherselect option">South Georgia and the South Sandwich Islands</option>
+<option value="117" class="otherselect option">South Korea</option>
+<option value="67" class="otherselect option">Spain</option>
+<option value="125" class="otherselect option">Sri Lanka</option>
+<option value="185" class="otherselect option">Sudan</option>
+<option value="198" class="otherselect option">Suriname</option>
+<option value="190" class="otherselect option">Svalbard and Jan Mayen</option>
+<option value="202" class="otherselect option">Swaziland</option>
+<option value="201" class="otherselect option">Sweden</option>
+<option value="40" class="otherselect option">Switzerland</option>
+<option value="204" class="otherselect option">Syria</option>
+<option value="218" class="otherselect option">Taiwan</option>
+<option value="209" class="otherselect option">Tajikistan</option>
+<option value="219" class="otherselect option">Tanzania</option>
+<option value="208" class="otherselect option">Thailand</option>
+<option value="207" class="otherselect option">Togo</option>
+<option value="210" class="otherselect option">Tokelau</option>
+<option value="213" class="otherselect option">Tonga</option>
+<option value="214" class="otherselect option">Trinidad and Tobago</option>
+<option value="215" class="otherselect option">Tunisia</option>
+<option value="216" class="otherselect option">Turkey</option>
+<option value="211" class="otherselect option">Turkmenistan</option>
+<option value="205" class="otherselect option">Turks and Caicos Islands</option>
+<option value="217" class="otherselect option">Tuvalu</option>
+<option value="220" class="otherselect option">Uganda</option>
+<option value="221" class="otherselect option">Ukraine</option>
+<option value="8" class="otherselect option">United Arab Emirates</option>
+<option value="77" class="otherselect option">United Kingdom</option>
+<option value="224" class="otherselect option">United States</option>
+<option value="222" class="otherselect option">United States Minor Outlying Islands</option>
+<option value="223" class="otherselect option">Uruguay</option>
+<option value="225" class="otherselect option">Uzbekistan</option>
+<option value="232" class="otherselect option">Vanuatu</option>
+<option value="228" class="otherselect option">Venezuela</option>
+<option value="231" class="otherselect option">Vietnam</option>
+<option value="229" class="otherselect option">Virgin Islands, British</option>
+<option value="230" class="otherselect option">Virgin Islands, U.S.</option>
+<option value="233" class="otherselect option">Wallis and Futuna</option>
+<option value="66" class="otherselect option">Western Sahara</option>
+<option value="235" class="otherselect option">Yemen</option>
+<option value="236" class="otherselect option">Yugoslavia</option>
+<option value="238" class="otherselect option">Zambia</option>
+<option value="239" class="otherselect option">Zimbabwe</option>
+
+                        </select>
+                    </li>
+                    <li class="submit-shop">
+                        <input type="submit" value="SEARCH" class="submit-gallery">
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!--Popup Starts-->
+        <form name="art_form">
+            <div id="popup">
+                <div class="close" onClick="hide('popup');">X</div>
+                <p>Search galleries by following sequential filters</p>
+                <div class="left_form">
+                    <ul>
+                        <li>
+                            <select id="arts_art_from">
+                                <option value="">Art Form</option>
+									<option value="1" class="otherselect option">Animation</option>
+<option value="2" class="otherselect option">Architecture</option>
+<option value="3" class="otherselect option">Assemblage</option>
+<option value="4" class="otherselect option">Baskets</option>
+<option value="5" class="otherselect option">Calligraphy</option>
+<option value="6" class="otherselect option">Carvings</option>
+<option value="7" class="otherselect option">Ceramics</option>
+<option value="8" class="otherselect option">Chalk</option>
+<option value="9" class="otherselect option">Collage</option>
+<option value="11" class="otherselect option">Decorative Arts</option>
+<option value="12" class="otherselect option">Digital Art / Computer Art</option>
+<option value="13" class="otherselect option">Drawings / Sketch</option>
+<option value="14" class="otherselect option">Fiber Art</option>
+<option value="15" class="otherselect option">Folk Art</option>
+<option value="16" class="otherselect option">Functional Art</option>
+<option value="17" class="otherselect option">Glass</option>
+<option value="18" class="otherselect option">Graffiti</option>
+<option value="19" class="otherselect option">Graphic</option>
+<option value="20" class="otherselect option">Illustration</option>
+<option value="23" class="otherselect option">Land Art</option>
+<option value="24" class="otherselect option">Masks</option>
+<option value="25" class="otherselect option">Mosaic</option>
+<option value="26" class="otherselect option">Multipanel Art</option>
+<option value="27" class="otherselect option">Murals</option>
+<option value="28" class="otherselect option">Paintings</option>
+<option value="29" class="otherselect option">Paper Art</option>
+<option value="41" class="otherselect option">Pastel</option>
+<option value="30" class="otherselect option">Photography</option>
+<option value="31" class="otherselect option">Plastic Art</option>
+<option value="32" class="otherselect option">Poster</option>
+<option value="34" class="otherselect option">Printmaking</option>
+<option value="35" class="otherselect option">Rugs / Tapestries</option>
+<option value="36" class="otherselect option">Sand Art</option>
+<option value="37" class="otherselect option">Sculpture</option>
+
+                            </select>
+                        </li>
+                        <li>
+                            <select id="arts_media">
+                                <option value="">Media</option>
+								<option value="1" class="otherselect option">Acrylic</option>
+<option value="2" class="otherselect option">Bronze</option>
+<option value="31" class="otherselect option">Canvas</option>
+<option value="3" class="otherselect option">Ceramic</option>
+<option value="4" class="otherselect option">Charcoal</option>
+<option value="5" class="otherselect option">Clay</option>
+<option value="25" class="otherselect option">Cob</option>
+<option value="6" class="otherselect option">Digital</option>
+<option value="7" class="otherselect option">Encaustic</option>
+<option value="32" class="otherselect option">Epoxy</option>
+<option value="8" class="otherselect option">Fiber</option>
+<option value="9" class="otherselect option">Fresco</option>
+<option value="26" class="otherselect option">Glass</option>
+<option value="10" class="otherselect option">Gouache</option>
+<option value="11" class="otherselect option">Ice</option>
+<option value="12" class="otherselect option">Ink</option>
+<option value="13" class="otherselect option">Jade</option>
+<option value="14" class="otherselect option">Marble</option>
+<option value="15" class="otherselect option">Metal</option>
+<option value="16" class="otherselect option">Miniature </option>
+<option value="18" class="otherselect option">Mixed</option>
+<option value="19" class="otherselect option">Oil</option>
+<option value="17" class="otherselect option">Painting</option>
+<option value="20" class="otherselect option">Pastel</option>
+<option value="21" class="otherselect option">Pencil</option>
+<option value="30" class="otherselect option">Photography: Metal Print</option>
+<option value="27" class="otherselect option">Photography: Photographic Print</option>
+<option value="28" class="otherselect option">Photography: Premium Print</option>
+<option value="29" class="otherselect option">Photography: Stretched Canvas Print</option>
+<option value="33" class="otherselect option">Spray Paint</option>
+<option value="22" class="otherselect option">Stone</option>
+<option value="23" class="otherselect option">Watercolor</option>
+<option value="24" class="otherselect option">Wood</option>
+
+                            </select>
+                        </li>
+                        <li>
+                            <select id="arts_style">
+                                <option value="">Style</option>
+								<option value="1" class="otherselect option">Abstract</option>
+<option value="2" class="otherselect option">Chance</option>
+<option value="3" class="otherselect option">Commercial Design</option>
+<option value="4" class="otherselect option">Cubism</option>
+<option value="5" class="otherselect option">Dadaism</option>
+<option value="6" class="otherselect option">Existentialism</option>
+<option value="7" class="otherselect option">Expressionism</option>
+<option value="8" class="otherselect option">Fauvism</option>
+<option value="31" class="otherselect option">Fine Art</option>
+<option value="9" class="otherselect option">Futurism</option>
+<option value="10" class="otherselect option">Hallucinogens</option>
+<option value="11" class="otherselect option">Impressionism</option>
+<option value="12" class="otherselect option">Kineticism</option>
+<option value="13" class="otherselect option">Medievalism</option>
+<option value="14" class="otherselect option">Minimalism</option>
+<option value="15" class="otherselect option">Modernism</option>
+<option value="16" class="otherselect option">Opticality</option>
+<option value="17" class="otherselect option">Orphism</option>
+<option value="18" class="otherselect option">Performance Art</option>
+<option value="19" class="otherselect option">Photorealism</option>
+<option value="20" class="otherselect option">Pop Art</option>
+<option value="21" class="otherselect option">Primitive</option>
+<option value="22" class="otherselect option">Realism</option>
+<option value="23" class="otherselect option">Romanticism</option>
+<option value="24" class="otherselect option">Satire</option>
+<option value="25" class="otherselect option">Sensationalism</option>
+<option value="26" class="otherselect option">Shock</option>
+<option value="27" class="otherselect option">Street Art</option>
+<option value="28" class="otherselect option">Surrealism</option>
+<option value="29" class="otherselect option">Symbolism</option>
+
+                            </select>
+                        </li>
+                        <li>
+                            <input type="text" name="arts_name_of_artist" id="arts_name_of_artist" value="" placeholder="Artist Name"  class="ui-autocomplete-input" autocomplete="off"  >
+                        </li>
+                        <li>
+                            <select id="arts_genre">
+                                <option value="">Genre</option>
+								  <option value="1" class="otherselect option">3-D</option>
+<option value="60" class="otherselect option">Analytical art</option>
+<option value="2" class="otherselect option">Anatomy</option>
+<option value="3" class="otherselect option">Animals</option>
+<option value="4" class="otherselect option">Architecture</option>
+<option value="5" class="otherselect option">Art Brut</option>
+<option value="6" class="otherselect option">Avant-Garde</option>
+<option value="7" class="otherselect option">Botanical</option>
+<option value="8" class="otherselect option">Cartoon</option>
+<option value="9" class="otherselect option">Celestial / Space</option>
+<option value="10" class="otherselect option">Children</option>
+<option value="11" class="otherselect option">Cityscape</option>
+<option value="12" class="otherselect option">Composition</option>
+<option value="13" class="otherselect option">Conceptual</option>
+<option value="14" class="otherselect option">Daily Life</option>
+<option value="15" class="otherselect option">Dance</option>
+<option value="16" class="otherselect option">Decorative</option>
+<option value="17" class="otherselect option">Documentary</option>
+<option value="59" class="otherselect option">Environmental art</option>
+<option value="18" class="otherselect option">Erotic</option>
+<option value="19" class="otherselect option">Fantasy</option>
+<option value="20" class="otherselect option">Figurative</option>
+<option value="21" class="otherselect option">Floral</option>
+<option value="22" class="otherselect option">Found Objects</option>
+<option value="23" class="otherselect option">Furniture</option>
+<option value="24" class="otherselect option">Grotesque</option>
+<option value="25" class="otherselect option">Handwriting</option>
+<option value="26" class="otherselect option">Happenings</option>
+<option value="27" class="otherselect option">Historical</option>
+<option value="28" class="otherselect option">Humor</option>
+<option value="29" class="otherselect option">Inspirational</option>
+<option value="30" class="otherselect option">Land Art</option>
+<option value="31" class="otherselect option">Landscape</option>
+<option value="32" class="otherselect option">Machnine Forms</option>
+<option value="33" class="otherselect option">Mathematics</option>
+<option value="34" class="otherselect option">Memorial</option>
+<option value="35" class="otherselect option">Mirrors</option>
+<option value="36" class="otherselect option">Moving Images</option>
+<option value="37" class="otherselect option">Multicultural / Ethnic</option>
+<option value="38" class="otherselect option">Music</option>
+<option value="39" class="otherselect option">Mythical</option>
+<option value="40" class="otherselect option">Narrative</option>
+<option value="41" class="otherselect option">Nature</option>
+<option value="42" class="otherselect option">Nudes</option>
+<option value="43" class="otherselect option">People</option>
+<option value="44" class="otherselect option">Performance Art</option>
+<option value="45" class="otherselect option">Portrait</option>
+<option value="46" class="otherselect option">Prehistoric Rock Art</option>
+<option value="47" class="otherselect option">Propaganda</option>
+<option value="48" class="otherselect option">Protest</option>
+<option value="49" class="otherselect option">Religious</option>
+<option value="50" class="otherselect option">Seascape</option>
+<option value="51" class="otherselect option">Spiritual</option>
+<option value="52" class="otherselect option">Still Life</option>
+<option value="53" class="otherselect option">The Primative</option>
+<option value="54" class="otherselect option">The Unconscious</option>
+<option value="55" class="otherselect option">Tropical</option>
+<option value="56" class="otherselect option">Weddings</option>
+<option value="57" class="otherselect option">Wildlife</option>
+<option value="58" class="otherselect option">Window on the World</option>
+
+                            </select>
+                        </li>
+                        <li>
+                            <input type="text" name="arts_gallery" id="arts_gallery" value="" placeholder="Gallery Name" class="ui-autocomplete-input" autocomplete="off">
+                        </li>
+                    </ul>
+                </div>
+                <div class="right_form">
+                    <ul>
+                        <li class="diff-fields">
+                            <label for="width"><span>Width range:</span>
+                                <input type="text" id="width" readonly value="">
+                                <input type="hidden" id="isDraggable_width">
+                            </label>
+                            <div id="slider-range" class="range-slider"></div>
+                            <select id="width_type">
+                                <option value="inches" class="option">Inches</option>
+                                <option value="cms" class="otherselect option">Centimeters</option>
+                                <option value="feet" class="otherselect option">Feet</option>
+                            </select>
+                        </li>
+                        <li class="diff-fields">
+                            <label for="height"><span>Height range:</span>
+                                <input type="text" id="height" readonly value="">
+                                <input type="hidden" id="isDraggable_height">
+                            </label>
+                            <div id="slider-range1" class="range-slider"></div>
+                            <select id="height_type">
+                                <option value="inches" class="option">Inches</option>
+                                <option value="cms" class="otherselect option">Centimeters</option>
+                                <option value="feet" class="otherselect option">Feet</option>
+                            </select>
+                        </li>
+                        <li class="diff-fields">
+                            <label class="price">Price range (in $)</label>
+                            <div class="price-fields">
+                        <input type="text" name="start_price" id="start_price" value="" placeholder="Start Price">
+                                <input type="hidden" id="price_error_msg" value="">
+                               <input type="text" name="end_price" id="end_price" value="" placeholder="End Price">
+                            </div>
+                            <div class="year_text">(Please enter numeric values for start and end prices)</div>
+                        </li>
+                        <li class="diff-fields">
+                            <label class="year_range">Year range</label>
+                            <div class="price-fields">
+                                <input type="text" name="start_year" maxlength="4" id="start_year" value="" placeholder="Start Year">
+                                <input type="hidden" id="year_error_msg" value="">
+                                <input type="text" name="end_year" id="end_year" maxlength="4" value="" placeholder="End Year">
+                            </div>
+                            <div class="year_text">(Please enter numeric values for start and end years)</div>
+                        </li>
+                        <li class="colors-list">
+                            <input type="hidden" class="color" name="favcolor1" id ="arts_color1" value="">
+                            <div class="colors" id="000000" style="background-color:#000000;">&nbsp;</div>
+                            <div class="colors" id="9a6600" style="background-color:#9a6600;">&nbsp;</div>
+                            <div class="colors" id="ff9900" style="background-color:#ff9900;">&nbsp;</div>
+                            <div class="colors" id="99cc33" style="background-color:#99cc33;">&nbsp;</div>
+                            <div class="colors" id="017eff" style="background-color:#017eff;">&nbsp;</div>
+                            <div class="colors" id="4169E1" style="background-color:#4169E1;">&nbsp;</div>
+                            <div class="colors" id="8B4513" style="background-color:#8B4513;">&nbsp;</div>
+                            <div class="colors" id="FA8072" style="background-color:#FA8072;">&nbsp;</div>
+                            <div class="colors" id="F4A460" style="background-color:#F4A460;">&nbsp;</div>
+                            <div class="colors" id="2E8B57" style="background-color:#2E8B57;">&nbsp;</div>
+                            <div class="colors" id="00FF7F" style="background-color:#00FF7F;">&nbsp;</div>
+                            <div class="colors" id="4682B4" style="background-color:#4682B4;">&nbsp;</div>
+                            <div class="colors" id="D2B48C" style="background-color:#D2B48C;">&nbsp;</div>
+                            <div class="colors" id="008080" style="background-color:#008080;">&nbsp;</div>
+                            <div class="colors" id="D8BFD8" style="background-color:#D8BFD8;">&nbsp;</div>
+                            <div class="colors" id="FF6347" style="background-color:#FF6347;">&nbsp;</div>
+                            <div class="colors" id="40E0D0" style="background-color:#40E0D0;">&nbsp;</div>
+                            <div class="colors" id="EE82EE" style="background-color:#EE82EE;">&nbsp;</div>
+                            <div class="colors" id="F5DEB3" style="background-color:#F5DEB3;">&nbsp;</div>
+                            <div class="colors" id="DAA520" style="background-color:#DAA520;">&nbsp;</div>
+                            <input type="button" id="picker" value="Color">
+                            <input type="button" value="Color" class="color" id ="arts_color" style="border:2px solid #ccc; background-color:#000000; height:27px; line-height:20px; margin:0; padding:0; width:31px; display:none; text-indent:-9999px; float:left;">
+                            <a id="resetColor" style="cursor: pointer;color:#4169e1; text-decoration: underline; float:left; margin:3px 0 0 5px;">Reset</a> </li>
+                    </ul>
+                </div>
+                <div class="keywords-list">
+                    <input type="text" placeholder="Keywords" value="" id="keywords" name="keywords" autocomplete="off">
+                </div>
+                <div class="submit-shop">
+                    <input class="submit" type="submit" value="SEARCH">
+                </div>
+            </div>
+        </form>
+        <!--Popup ends--> 
+	</div>	
+		<div class="home-videos">
+		<div class="video-heading"><a href="/videos/">Our Videos</a></div>
+		<div class="home-video">
+			
+			<ul class="video-list">
+			
+							        <li class="video-list-item"> 
+			<div class="thumb-wrapper">
+			<a title="" href="/videos/tutorial-how-to-standout-as-an-artist-and-sell-more-art/3/" >
+					<img width="90" src="http://img.youtube.com/vi/KUqPEY3BWU4/0.jpg" alt="Tutorial: How to Standout as an Artist and Sell More Art!"><img src="/site-images/youtube_play.png" class="play_video" /></a>
+			</div>
+			<div class="content-wrapper"><a href="/videos/tutorial-how-to-standout-as-an-artist-and-sell-more-art/3/">Tutorial: How to Standout as an Artist and Sell More Art!</a>
+			<span class="upload_date">Duration: 5.57</span></div>
+        </li>
+        
+			        <li class="video-list-item"> 
+			<div class="thumb-wrapper">
+			<a title="" href="/videos/tutorial-how-to-master-selling-art-online/2/" >
+					<img width="90" src="http://img.youtube.com/vi/jzeq9q9MBLY/0.jpg" alt="Tutorial: How to Master Selling Art Online"><img src="/site-images/youtube_play.png" class="play_video" /></a>
+			</div>
+			<div class="content-wrapper"><a href="/videos/tutorial-how-to-master-selling-art-online/2/">Tutorial: How to Master Selling Art Online</a>
+			<span class="upload_date">Duration: 18:26</span></div>
+        </li>
+        
+								</ul>
+			
+			<div class="view_more_video"><a href="/videos/">View More</a></div>
+			
+		</div>
+		</div>
+    </div>
+</section>
+<section id="featured-art-works">
+    <div class="heading">
+        <h1>Featured Art Works</h1>
+    </div>
+    <div class="container">
+        <div class="Collage">                       
+                        <div class="Image_Wrapper"><a href="/ben-mosley/the-yellow-wall/art-details-974-1060/" title="The Yellow Wall">
+<img src="/photos/arts/collage/the-yellow-wall-1467825417.jpg" alt="The Yellow Wall"></a>
+                <div class="Caption_Content">
+                    <p><a href="/ben-mosley-
+974/">Ben Mosley</a></p>
+                    <p><a href="/ben-mosley/the-yellow-wall/art-details-974-1060/">The Yellow Wall</a></p>
+																<p><a class="art_price">$7,500.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/ben-mosley/asian-jazz/art-details-974-1059/" title="Asian Jazz">
+<img src="/photos/arts/collage/asian-jazz-1467824438.jpg" alt="Asian Jazz"></a>
+                <div class="Caption_Content">
+                    <p><a href="/ben-mosley-
+974/">Ben Mosley</a></p>
+                    <p><a href="/ben-mosley/asian-jazz/art-details-974-1059/">Asian Jazz</a></p>
+																<p><a class="art_price">$6,000.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/keni-kennedy/best-friends/art-details-963-1045/" title="Best friends">
+<img src="/photos/arts/collage/best-friends-1467744134.jpg" alt="Best friends"></a>
+                <div class="Caption_Content">
+                    <p><a href="/keni-kennedy-
+963/">Keni Kennedy</a></p>
+                    <p><a href="/keni-kennedy/best-friends/art-details-963-1045/">Best friends</a></p>
+																<p><a class="art_price">$950.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/micheal-eaken/angry-waves-on-lake-michigan/art-details-953-1036/" title="Angry Waves on Lake Michigan">
+<img src="/photos/arts/collage/angry-waves-on-lake-michigan-1467601746.jpg" alt="Angry Waves on Lake Michigan"></a>
+                <div class="Caption_Content">
+                    <p><a href="/micheal-eaken-
+953/">Micheal Eaken</a></p>
+                    <p><a href="/micheal-eaken/angry-waves-on-lake-michigan/art-details-953-1036/">Angry Waves on Lake Michigan</a></p>
+											<p><a class="art_price">SOLD</a></p>
+					                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/diana-whiley/autumn-reverie/art-details-901-989/" title="Autumn Reverie">
+<img src="/photos/arts/collage/autumn-reverie-1467091569.jpg" alt="Autumn Reverie"></a>
+                <div class="Caption_Content">
+                    <p><a href="/diana-whiley-
+901/">Diana Whiley</a></p>
+                    <p><a href="/diana-whiley/autumn-reverie/art-details-901-989/">Autumn Reverie</a></p>
+																<p><a class="art_price">$550.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/bianca-garcia/feeling-you/art-details-864-943/" title="Feeling you">
+<img src="/photos/arts/collage/feeling-you-1466827672.jpg" alt="Feeling you"></a>
+                <div class="Caption_Content">
+                    <p><a href="/bianca-garcia-
+864/">Bianca Garcia</a></p>
+                    <p><a href="/bianca-garcia/feeling-you/art-details-864-943/">Feeling you</a></p>
+																<p><a class="art_price">$800.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/philip-johnson/fat-boy-on-beach/art-details-877-928/" title="Fat Boy On The Beach">
+<img src="/photos/arts/collage/fat-boy-on-beach-1466597402.jpg" alt="Fat Boy On The Beach"></a>
+                <div class="Caption_Content">
+                    <p><a href="/philip-johnson-
+877/">Philip Johnson</a></p>
+                    <p><a href="/philip-johnson/fat-boy-on-beach/art-details-877-928/">Fat Boy On The Beach</a></p>
+																<p><a class="art_price">$395.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/brian-exton/heavenly-flowers/art-details-717-877/" title="Heavenly Flowers">
+<img src="/photos/arts/collage/heavenly-flowers-1464877665.jpg" alt="Heavenly Flowers"></a>
+                <div class="Caption_Content">
+                    <p><a href="/brian-exton-
+717/">Brian Exton</a></p>
+                    <p><a href="/brian-exton/heavenly-flowers/art-details-717-877/">Heavenly Flowers</a></p>
+																<p><a class="art_price">$1,800.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/adi-zur/the-times/art-details-681-869/" title="The Times">
+<img src="/photos/arts/collage/the-times-1464730372.jpg" alt="The Times"></a>
+                <div class="Caption_Content">
+                    <p><a href="/adi-zur-
+681/">adi zur</a></p>
+                    <p><a href="/adi-zur/the-times/art-details-681-869/">The Times</a></p>
+																<p><a class="art_price">$3,600.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/matthew-evans/the-marina-with-narrowboat/art-details-358-848/" title="The Marina with Narrowboat">
+<img src="/photos/arts/collage/the-marina-with-narrowboat-1484508429.jpg" alt="The Marina with Narrowboat"></a>
+                <div class="Caption_Content">
+                    <p><a href="/matthew-evans-
+358/">Matthew Evans</a></p>
+                    <p><a href="/matthew-evans/the-marina-with-narrowboat/art-details-358-848/">The Marina with Narrowboat</a></p>
+																<p><a class="art_price">$5,000.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/robert-crawford-/nautical-beacon/art-details-497-795/" title="Nautical Beacon">
+<img src="/photos/arts/collage/nautical-beacon-1463115405.jpg" alt="Nautical Beacon"></a>
+                <div class="Caption_Content">
+                    <p><a href="/robert-crawford--
+497/">Robert Crawford </a></p>
+                    <p><a href="/robert-crawford-/nautical-beacon/art-details-497-795/">Nautical Beacon</a></p>
+											<p><a class="art_price">SOLD</a></p>
+					                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/robert-crawford-/monkey-island/art-details-497-793/" title="Monkey Island">
+<img src="/photos/arts/collage/monkey-island-1463035519.jpg" alt="Monkey Island"></a>
+                <div class="Caption_Content">
+                    <p><a href="/robert-crawford--
+497/">Robert Crawford </a></p>
+                    <p><a href="/robert-crawford-/monkey-island/art-details-497-793/">Monkey Island</a></p>
+																<p><a class="art_price">$1,700.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/charles-freeman/le-club-is-a-drag/art-details-220-681/" title="Le Club is a Drag">
+<img src="/photos/arts/collage/le-club-is-a-drag-1460236266.jpg" alt="Le Club is a Drag"></a>
+                <div class="Caption_Content">
+                    <p><a href="/charles-freeman-
+220/">Charles Freeman</a></p>
+                    <p><a href="/charles-freeman/le-club-is-a-drag/art-details-220-681/">Le Club is a Drag</a></p>
+																<p><a class="art_price">$18,000.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/oliver-machado/puma-in-paradise/art-details-302-640/" title="Puma in Paradise">
+<img src="/photos/arts/collage/puma-in-paradise-1459916998.jpg" alt="Puma in Paradise"></a>
+                <div class="Caption_Content">
+                    <p><a href="/oliver-machado-
+302/">OLIVER MACHADO</a></p>
+                    <p><a href="/oliver-machado/puma-in-paradise/art-details-302-640/">Puma in Paradise</a></p>
+																<p><a class="art_price">$1,100.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/e-west/reflected-pleasure/art-details-321-617/" title="Reflected Pleasure">
+<img src="/photos/arts/collage/reflected-pleasure-1459012125.jpg" alt="Reflected Pleasure"></a>
+                <div class="Caption_Content">
+                    <p><a href="/e-west-
+321/">E West</a></p>
+                    <p><a href="/e-west/reflected-pleasure/art-details-321-617/">Reflected Pleasure</a></p>
+																<p><a class="art_price">$1,800.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/barbara-rachko/motley/art-details-326-611/" title="Motley">
+<img src="/photos/arts/collage/motley-1458931121.jpg" alt="Motley"></a>
+                <div class="Caption_Content">
+                    <p><a href="/barbara-rachko-
+326/">Barbara Rachko</a></p>
+                    <p><a href="/barbara-rachko/motley/art-details-326-611/">Motley</a></p>
+																<p><a class="art_price">$45,000.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/barbara-rachko/charade/art-details-326-590/" title="Charade">
+<img src="/photos/arts/collage/charade-1458659963.jpg" alt="Charade"></a>
+                <div class="Caption_Content">
+                    <p><a href="/barbara-rachko-
+326/">Barbara Rachko</a></p>
+                    <p><a href="/barbara-rachko/charade/art-details-326-590/">Charade</a></p>
+																<p><a class="art_price">$45,000.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/dick-bobnick/clint-eastwood/art-details-322-569/" title="CLINT EASTWOOD">
+<img src="/photos/arts/collage/clint-eastwood-1458249271.jpg" alt="CLINT EASTWOOD"></a>
+                <div class="Caption_Content">
+                    <p><a href="/dick-bobnick-
+322/">Dick Bobnick</a></p>
+                    <p><a href="/dick-bobnick/clint-eastwood/art-details-322-569/">CLINT EASTWOOD</a></p>
+																<p><a class="art_price">$15,000.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/j-farfan/sacre-coeur/art-details-24-548/" title="Sacre Coeur">
+<img src="/photos/arts/collage/sacre-coeur--1457203113.jpg" alt="Sacre Coeur"></a>
+                <div class="Caption_Content">
+                    <p><a href="/j-farfan-
+24/">J Farfan</a></p>
+                    <p><a href="/j-farfan/sacre-coeur/art-details-24-548/">Sacre Coeur</a></p>
+																<p><a class="art_price">$3,500.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/curtis-dickman/satisfaction/art-details-96-514/" title="SATISFACTION">
+<img src="/photos/arts/collage/satisfaction--1455906391.jpg" alt="SATISFACTION"></a>
+                <div class="Caption_Content">
+                    <p><a href="/curtis-dickman-
+96/">Curtis Dickman</a></p>
+                    <p><a href="/curtis-dickman/satisfaction/art-details-96-514/">SATISFACTION</a></p>
+																<p><a class="art_price">$2,500.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/fabio-modica/fabio-modica---gnosis-love-mixed-media-on-canvas-59x59-inches-2016/art-details-197-464/" title="Fabio Modica | Gnosis: Love - mixed media on canvas - 59x59 inches - 2016">
+<img src="/photos/arts/collage/gnosis-love-mixed-media-on-canvas-59x59-inches-2016-1453205633.jpg" alt="Fabio Modica | Gnosis: Love - mixed media on canvas - 59x59 inches - 2016"></a>
+                <div class="Caption_Content">
+                    <p><a href="/fabio-modica-
+197/">Fabio Modica</a></p>
+                    <p><a href="/fabio-modica/fabio-modica---gnosis-love-mixed-media-on-canvas-59x59-inches-2016/art-details-197-464/">Fabio Modica | Gnosis: Love - mixed media on canvas - 59x59 inches - 2016</a></p>
+																<p><a class="art_price">$13,500.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/jun-martinez/wings-philippines-dance/art-details-125-360/" title="Wings : Philippines Dance">
+<img src="/photos/arts/collage/wings-philippines-dance-1446346742.jpg" alt="Wings : Philippines Dance"></a>
+                <div class="Caption_Content">
+                    <p><a href="/jun-martinez-
+125/">Jun Martinez</a></p>
+                    <p><a href="/jun-martinez/wings-philippines-dance/art-details-125-360/">Wings : Philippines Dance</a></p>
+																<p><a class="art_price">$5,500.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/jun-martinez/music-dance/art-details-125-358/" title="Music and Dance">
+<img src="/photos/arts/collage/music-dance-1446345855.jpg" alt="Music and Dance"></a>
+                <div class="Caption_Content">
+                    <p><a href="/jun-martinez-
+125/">Jun Martinez</a></p>
+                    <p><a href="/jun-martinez/music-dance/art-details-125-358/">Music and Dance</a></p>
+																<p><a class="art_price">$13,500.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/j-farfan/always-remember-today/art-details-24-299/" title="Always Remember Today">
+<img src="/photos/arts/collage/always-remember-today--1445106505.jpg" alt="Always Remember Today"></a>
+                <div class="Caption_Content">
+                    <p><a href="/j-farfan-
+24/">J Farfan</a></p>
+                    <p><a href="/j-farfan/always-remember-today/art-details-24-299/">Always Remember Today</a></p>
+																<p><a class="art_price">$12,500.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/stefan-pabst/tears-in-3d/art-details-91-249/" title="Tears in 3D">
+<img src="/photos/arts/collage/tears-in-3d-1443981456.jpg" alt="Tears in 3D"></a>
+                <div class="Caption_Content">
+                    <p><a href="/stefan-pabst-
+91/">Stefan Pabst</a></p>
+                    <p><a href="/stefan-pabst/tears-in-3d/art-details-91-249/">Tears in 3D</a></p>
+																<p><a class="art_price">$1,000.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/j-farfan/hemisphere/art-details-24-103/" title="Hemisphere">
+<img src="/photos/arts/collage/1440874082.jpg" alt="Hemisphere"></a>
+                <div class="Caption_Content">
+                    <p><a href="/j-farfan-
+24/">J Farfan</a></p>
+                    <p><a href="/j-farfan/hemisphere/art-details-24-103/">Hemisphere</a></p>
+																<p><a class="art_price">$8,500.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/anatoli-krasko/delayed-bison-evolution-captured-grand-teton-national-park/art-details-8-17/" title="Delayed Bison Evolution Captured: Grand Teton National Park">
+<img src="/photos/arts/collage/1438449661.jpg" alt="Delayed Bison Evolution Captured: Grand Teton National Park"></a>
+                <div class="Caption_Content">
+                    <p><a href="/anatoli-krasko-
+8/">Anatoli Krasko</a></p>
+                    <p><a href="/anatoli-krasko/delayed-bison-evolution-captured-grand-teton-national-park/art-details-8-17/">Delayed Bison Evolution Captured: Grand Teton National Park</a></p>
+																<p><a class="art_price">$1,000.00</a></p>
+										                </div>
+            </div>
+             </div>
+    </div>
+    <div class="view_more"> <a href="/arts/">View More Art Works</a> </div>
+</section>
+	<section id="featured-artist">
+    <div class="heading">
+        <h1>Featured Artists</h1>
+    </div>
+    <div class="container">
+        <ul class="featured-artist-list">
+      
+                        <li><a href="/aaron-ellisor-216/"><img class="featured-artist-list-img" src="/photos/artist/medium/1453132963.jpg" alt="Aaron Ellisor"></a>
+                <p><a href="/aaron-ellisor-216/">Aaron Ellisor</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/adi-zur-681/"><img class="featured-artist-list-img" src="/photos/artist/medium/1464730665.jpg" alt="adi zur"></a>
+                <p><a href="/adi-zur-681/">adi zur</a><br>
+                    <span class="country_txt">Vaughan, Ontario<span>Canada</span></span>
+				</p>
+            </li>
+                        <li><a href="/alicia-maury-248/"><img class="featured-artist-list-img" src="/photos/artist/medium/1454609078.jpg" alt="Alicia Maury"></a>
+                <p><a href="/alicia-maury-248/">Alicia Maury</a><br>
+                    <span class="country_txt">San Juan, San Juan<span>Puerto Rico</span></span>
+				</p>
+            </li>
+                        <li><a href="/ambereen-ahmed-17/"><img class="featured-artist-list-img" src="/photos/artist/medium/1439094105.jpg" alt="Ambereen Ahmed"></a>
+                <p><a href="/ambereen-ahmed-17/">Ambereen Ahmed</a><br>
+                    <span class="country_txt">Dallas, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/amy-jones-145/"><img class="featured-artist-list-img" src="/photos/artist/medium/1446850549.jpg" alt="Amy Jones"></a>
+                <p><a href="/amy-jones-145/">Amy Jones</a><br>
+                    <span class="country_txt">Cary, North Carolina<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/anatoli-krasko-8/"><img class="featured-artist-list-img" src="/photos/artist/medium/1438472732.jpg" alt="Anatoli Krasko"></a>
+                <p><a href="/anatoli-krasko-8/">Anatoli Krasko</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/ann-biddlecombe-912/"><img class="featured-artist-list-img" src="/photos/artist/medium/1467711327.jpg" alt="Ann Biddlecombe"></a>
+                <p><a href="/ann-biddlecombe-912/">Ann Biddlecombe</a><br>
+                    <span class="country_txt">Plymouth, England<span>United Kingdom</span></span>
+				</p>
+            </li>
+                        <li><a href="/art-venti-415/"><img class="featured-artist-list-img" src="/photos/artist/medium/1461536691.jpg" alt="Art Venti"></a>
+                <p><a href="/art-venti-415/">Art Venti</a><br>
+                    <span class="country_txt">London, England<span>United Kingdom</span></span>
+				</p>
+            </li>
+                        <li><a href="/barbara-clay-59/"><img class="featured-artist-list-img" src="/photos/artist/medium/1441292579.jpg" alt="Barbara Clay"></a>
+                <p><a href="/barbara-clay-59/">Barbara Clay</a><br>
+                    <span class="country_txt">Lake Jackson, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/barbara-rachko-326/"><img class="featured-artist-list-img" src="/photos/artist/medium/1475622057.jpg" alt="Barbara Rachko"></a>
+                <p><a href="/barbara-rachko-326/">Barbara Rachko</a><br>
+                    <span class="country_txt">New York, New York<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/ben-mosley-974/"><img class="featured-artist-list-img" src="/photos/artist/medium/1467821136.jpg" alt="Ben Mosley"></a>
+                <p><a href="/ben-mosley-974/">Ben Mosley</a><br>
+                    <span class="country_txt">London, England<span>United Kingdom</span></span>
+				</p>
+            </li>
+                        <li><a href="/bernard-victor-622/"><img class="featured-artist-list-img" src="/photos/artist/medium/1463856195.jpg" alt="Bernard Victor"></a>
+                <p><a href="/bernard-victor-622/">Bernard Victor</a><br>
+                    <span class="country_txt">London, England<span>United Kingdom</span></span>
+				</p>
+            </li>
+                        <li><a href="/catherine-bayani-62/"><img class="featured-artist-list-img" src="/photos/artist/medium/1442275691.jpg" alt="Catherine Bayani"></a>
+                <p><a href="/catherine-bayani-62/">Catherine Bayani</a><br>
+                    <span class="country_txt">Pampanga Philippines, California<span>Philippines</span></span>
+				</p>
+            </li>
+                        <li><a href="/charles-freeman-220/"><img class="featured-artist-list-img" src="/photos/artist/medium/1452620369.jpg" alt="Charles Freeman"></a>
+                <p><a href="/charles-freeman-220/">Charles Freeman</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/christina-giza-411/"><img class="featured-artist-list-img" src="/photos/artist/medium/1461435510.jpg" alt="Christina Giza"></a>
+                <p><a href="/christina-giza-411/">Christina Giza</a><br>
+                    <span class="country_txt">Worcester, Massachusetts<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/corey-weaver-949/"><img class="featured-artist-list-img" src="/photos/artist/medium/1467445936.jpg" alt="Corey Weaver"></a>
+                <p><a href="/corey-weaver-949/">Corey Weaver</a><br>
+                    <span class="country_txt">Sacramento, California<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/curtis-dickman-96/"><img class="featured-artist-list-img" src="/photos/artist/medium/1444744621.jpg" alt="Curtis Dickman"></a>
+                <p><a href="/curtis-dickman-96/">Curtis Dickman</a><br>
+                    <span class="country_txt">Paradise Valley, Arizona<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/diana-whiley-901/"><img class="featured-artist-list-img" src="/photos/artist/medium/1466742099.jpg" alt="Diana Whiley"></a>
+                <p><a href="/diana-whiley-901/">Diana Whiley</a><br>
+                    <span class="country_txt">Adelaide, South Australia<span>Australia</span></span>
+				</p>
+            </li>
+                        <li><a href="/diane-jansson-463/"><img class="featured-artist-list-img" src="/photos/artist/medium/1462542855.jpg" alt="Diane Jansson"></a>
+                <p><a href="/diane-jansson-463/">Diane Jansson</a><br>
+                    <span class="country_txt">Las Vegas, Nevada<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/dick-bobnick-322/"><img class="featured-artist-list-img" src="/photos/artist/medium/1458243371.jpg" alt="Dick Bobnick"></a>
+                <p><a href="/dick-bobnick-322/">Dick Bobnick</a><br>
+                    <span class="country_txt">Burnsville, Minnesota<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/dom-dom-287/"><img class="featured-artist-list-img" src="/photos/artist/medium/1457024453.jpg" alt="dom dom"></a>
+                <p><a href="/dom-dom-287/">dom dom</a><br>
+                    <span class="country_txt">caserta, Campania<span>Italy</span></span>
+				</p>
+            </li>
+                        <li><a href="/elizabeth-defeo-288/"><img class="featured-artist-list-img" src="/photos/artist/medium/1457101608.jpg" alt="Elizabeth DeFeo"></a>
+                <p><a href="/elizabeth-defeo-288/">Elizabeth DeFeo</a><br>
+                    <span class="country_txt">Newmarket, New Hampshire<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/emma-jayne-hathaway-680/"><img class="featured-artist-list-img" src="/photos/artist/medium/1464346620.jpg" alt="Emma Jayne Hathaway"></a>
+                <p><a href="/emma-jayne-hathaway-680/">Emma Jayne Hathaway</a><br>
+                    <span class="country_txt">Blackpool, England<span>United Kingdom</span></span>
+				</p>
+            </li>
+                        <li><a href="/eric-kirkpatrick-109/"><img class="featured-artist-list-img" src="/photos/artist/medium/1446091260.jpg" alt="Eric Kirkpatrick"></a>
+                <p><a href="/eric-kirkpatrick-109/">Eric Kirkpatrick</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/erin-carr-87/"><img class="featured-artist-list-img" src="/photos/artist/medium/1443573375.jpg" alt="Erin Carr"></a>
+                <p><a href="/erin-carr-87/">Erin Carr</a><br>
+                    <span class="country_txt">West Bloomfield, Michigan<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/fabio-modica-197/"><img class="featured-artist-list-img" src="/photos/artist/medium/1452453743.jpg" alt="Fabio Modica"></a>
+                <p><a href="/fabio-modica-197/">Fabio Modica</a><br>
+                    <span class="country_txt">Catania, Sisilia<span>Italy</span></span>
+				</p>
+            </li>
+                        <li><a href="/gerda-faure-184/"><img class="featured-artist-list-img" src="/photos/artist/medium/1449926810.jpg" alt="Gerda Faure"></a>
+                <p><a href="/gerda-faure-184/">Gerda Faure</a><br>
+                    <span class="country_txt">Pretoria, Gauteng<span>South Africa</span></span>
+				</p>
+            </li>
+                        <li><a href="/gill-bustamante-542/"><img class="featured-artist-list-img" src="/photos/artist/medium/1462992498.jpg" alt="Gill Bustamante"></a>
+                <p><a href="/gill-bustamante-542/">Gill Bustamante</a><br>
+                    <span class="country_txt">Forest Row, England<span>United Kingdom</span></span>
+				</p>
+            </li>
+                        <li><a href="/gregory-kitterle-738/"><img class="featured-artist-list-img" src="/photos/artist/medium/1464803916.jpg" alt="Gregory Kitterle"></a>
+                <p><a href="/gregory-kitterle-738/">Gregory Kitterle</a><br>
+                    <span class="country_txt">Boston, Massachusetts<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/holly-lund-84/"><img class="featured-artist-list-img" src="/photos/artist/medium/1443300256.jpg" alt="Holly Lund"></a>
+                <p><a href="/holly-lund-84/">Holly Lund</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/j-farfan-24/"><img class="featured-artist-list-img" src="/photos/artist/medium/1439752781.jpg" alt="J Farfan"></a>
+                <p><a href="/j-farfan-24/">J Farfan</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/jennifer-brazelton-267/"><img class="featured-artist-list-img" src="/photos/artist/medium/1455472502.jpg" alt="Jennifer Brazelton"></a>
+                <p><a href="/jennifer-brazelton-267/">Jennifer Brazelton</a><br>
+                    <span class="country_txt">San Francisco, California<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/jocelyn-rodgers-251/"><img class="featured-artist-list-img" src="/photos/artist/medium/1454743933.jpg" alt="Jocelyn Rodgers"></a>
+                <p><a href="/jocelyn-rodgers-251/">Jocelyn Rodgers</a><br>
+                    <span class="country_txt">San Jose, California<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/joseph-culotta-103/"><img class="featured-artist-list-img" src="/photos/artist/medium/1445403862.jpg" alt="Joseph Culotta"></a>
+                <p><a href="/joseph-culotta-103/">Joseph Culotta</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/jun-martinez-125/"><img class="featured-artist-list-img" src="/photos/artist/medium/1446339995.jpg" alt="Jun Martinez"></a>
+                <p><a href="/jun-martinez-125/">Jun Martinez</a><br>
+                    <span class="country_txt">Manila, National Capital Reg<span>Philippines</span></span>
+				</p>
+            </li>
+                        <li><a href="/k-omvoi-929/"><img class="featured-artist-list-img" src="/photos/artist/medium/1467136711.jpg" alt="K Omvoi"></a>
+                <p><a href="/k-omvoi-929/">K Omvoi</a><br>
+                    <span class="country_txt">London, England<span>United Kingdom</span></span>
+				</p>
+            </li>
+                        <li><a href="/larry-larrinaga-71/"><img class="featured-artist-list-img" src="/photos/artist/medium/1441983993.jpg" alt="Larry Larrinaga"></a>
+                <p><a href="/larry-larrinaga-71/">Larry Larrinaga</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/laurie-s-auth-52/"><img class="featured-artist-list-img" src="/photos/artist/medium/1441081282.jpg" alt="Laurie S Auth"></a>
+                <p><a href="/laurie-s-auth-52/">Laurie S Auth</a><br>
+                    <span class="country_txt">New Haven, Connecticut<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/liz-conces-spencer-12/"><img class="featured-artist-list-img" src="/photos/artist/medium/1439155989.jpg" alt="Liz Conces Spencer"></a>
+                <p><a href="/liz-conces-spencer-12/">Liz Conces Spencer</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/marcel-franquelin-444/"><img class="featured-artist-list-img" src="/photos/artist/medium/1461879452.jpg" alt="Marcel Franquelin"></a>
+                <p><a href="/marcel-franquelin-444/">Marcel Franquelin</a><br>
+                    <span class="country_txt">Monmouth Junction, New Jersey<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/margaret-chwialkowska-234/"><img class="featured-artist-list-img" src="/photos/artist/medium/1453775405.jpg" alt="Margaret Chwialkowska"></a>
+                <p><a href="/margaret-chwialkowska-234/">Margaret Chwialkowska</a><br>
+                    <span class="country_txt">Ottawa, Ontario<span>Canada</span></span>
+				</p>
+            </li>
+                        <li><a href="/marty-jones-323/"><img class="featured-artist-list-img" src="/photos/artist/medium/1458168406.jpg" alt="Marty Jones"></a>
+                <p><a href="/marty-jones-323/">Marty Jones</a><br>
+                    <span class="country_txt">Portland, Oregon<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/micheal-eaken-953/"><img class="featured-artist-list-img" src="/photos/artist/medium/1467602000.jpg" alt="Micheal Eaken"></a>
+                <p><a href="/micheal-eaken-953/">Micheal Eaken</a><br>
+                    <span class="country_txt">Newark, New York<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/michelle-larsen-446/"><img class="featured-artist-list-img" src="/photos/artist/medium/1461943631.jpg" alt="Michelle Larsen"></a>
+                <p><a href="/michelle-larsen-446/">Michelle Larsen</a><br>
+                    <span class="country_txt">Boise City, Idaho<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/mike-decesare-334/"><img class="featured-artist-list-img" src="/photos/artist/medium/1466108201.jpg" alt="Mike DeCesare"></a>
+                <p><a href="/mike-decesare-334/">Mike DeCesare</a><br>
+                    <span class="country_txt">Spokane, Washington<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/naz-kaya-erdal-331/"><img class="featured-artist-list-img" src="/photos/artist/medium/1458445946.jpg" alt="Naz Kaya Erdal"></a>
+                <p><a href="/naz-kaya-erdal-331/">Naz Kaya Erdal</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/nicole-jolley-890/"><img class="featured-artist-list-img" src="/photos/artist/medium/1466709008.jpg" alt="Nicole Jolley"></a>
+                <p><a href="/nicole-jolley-890/">Nicole Jolley</a><br>
+                    <span class="country_txt">Columbus, Ohio<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/oliver-machado-302/"><img class="featured-artist-list-img" src="/photos/artist/medium/1457285497.jpg" alt="OLIVER MACHADO"></a>
+                <p><a href="/oliver-machado-302/">OLIVER MACHADO</a><br>
+                    <span class="country_txt">Dubai, Dubai<span>United Arab Emirates</span></span>
+				</p>
+            </li>
+                        <li><a href="/pawan-paagal-20/"><img class="featured-artist-list-img" src="/photos/artist/medium/1439365559.jpg" alt="Pawan Paagal"></a>
+                <p><a href="/pawan-paagal-20/">Pawan Paagal</a><br>
+                    <span class="country_txt">Faridabad, Haryana<span>India</span></span>
+				</p>
+            </li>
+                        <li><a href="/philip-johnson-877/"><img class="featured-artist-list-img" src="/photos/artist/medium/1466493822.jpg" alt="Philip Johnson"></a>
+                <p><a href="/philip-johnson-877/">Philip Johnson</a><br>
+                    <span class="country_txt">Stoke-on-Trent, England<span>United Kingdom</span></span>
+				</p>
+            </li>
+                        <li><a href="/rebecca-sakovitch-407/"><img class="featured-artist-list-img" src="/photos/artist/medium/1461455567.jpg" alt="Rebecca Sakovitch"></a>
+                <p><a href="/rebecca-sakovitch-407/">Rebecca Sakovitch</a><br>
+                    <span class="country_txt">Glendora, California<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/robert-crawford--497/"><img class="featured-artist-list-img" src="/photos/artist/medium/1462747962.jpg" alt="Robert Crawford "></a>
+                <p><a href="/robert-crawford--497/">Robert Crawford </a><br>
+                    <span class="country_txt">Honolulu, Hawaii<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/rodrigo-aguilera-27/"><img class="featured-artist-list-img" src="/photos/artist/medium/1439778808.jpg" alt="Rodrigo Aguilera"></a>
+                <p><a href="/rodrigo-aguilera-27/">Rodrigo Aguilera</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/stefan-pabst-91/"><img class="featured-artist-list-img" src="/photos/artist/medium/1443978826.jpg" alt="Stefan Pabst"></a>
+                <p><a href="/stefan-pabst-91/">Stefan Pabst</a><br>
+                    <span class="country_txt">Hamburg, Hamburg<span>Germany</span></span>
+				</p>
+            </li>
+                        <li><a href="/surbhi-bhatnagar-923/"><img class="featured-artist-list-img" src="/photos/artist/medium/1467049484.jpg" alt="Surbhi Bhatnagar"></a>
+                <p><a href="/surbhi-bhatnagar-923/">Surbhi Bhatnagar</a><br>
+                    <span class="country_txt">Philadelphia, Pennsylvania<span>United States</span></span>
+				</p>
+            </li>
+                        <li><a href="/valeria-latorre-604/"><img class="featured-artist-list-img" src="/photos/artist/medium/1466438717.jpg" alt="valeria latorre"></a>
+                <p><a href="/valeria-latorre-604/">valeria latorre</a><br>
+                    <span class="country_txt">London, England<span>United Kingdom</span></span>
+				</p>
+            </li>
+                        <li><a href="/william-loyd-18/"><img class="featured-artist-list-img" src="/photos/artist/medium/1446449969.jpg" alt="William Loyd"></a>
+                <p><a href="/william-loyd-18/">William Loyd</a><br>
+                    <span class="country_txt">Houston, Texas<span>United States</span></span>
+				</p>
+            </li>
+                    </ul>
+    </div>
+    <div class="view_more"><a href="/artists/">View More Artists</a></div>
+</section>
+<section id="art_works">
+    <div class="container">
+        <div class="heading">
+            <h1>Recent Art Works</h1>
+        </div>
+        <div class="Collage">                       
+                        <div class="Image_Wrapper"><a href="/shruthi-a/test/art-details-1240-1559/" title="Test"><img src="/photos/arts/collage/test-1487593861.jpg" alt="Test"></a>
+                <div class="Caption_Content">
+                    <p><a href="/shruthi-a-1240/">Shruthi A</a></p>
+                    <p><a href="/shruthi-a/test/art-details-1240-1559/">Test</a></p>
+																<p><a class="art_price">$2,500.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/shruthi-a/test-ignore/art-details-1240-1558/" title="test..ignore"><img src="/photos/arts/collage/test-ignore-1487593778.jpg" alt="test..ignore"></a>
+                <div class="Caption_Content">
+                    <p><a href="/shruthi-a-1240/">Shruthi A</a></p>
+                    <p><a href="/shruthi-a/test-ignore/art-details-1240-1558/">test..ignore</a></p>
+																<p><a class="art_price">$150.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/shruthi-a/test-image/art-details-1240-1557/" title="Test Image"><img src="/photos/arts/collage/test-image-1487660504.jpg" alt="Test Image"></a>
+                <div class="Caption_Content">
+                    <p><a href="/shruthi-a-1240/">Shruthi A</a></p>
+                    <p><a href="/shruthi-a/test-image/art-details-1240-1557/">Test Image</a></p>
+																<p><a class="art_price">$1,234.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/micheal-eaken/yosemite-valley/art-details-953-1556/" title=""Yosemite Valley""><img src="/photos/arts/collage/yosemite-valley-1487459497.jpg" alt=""Yosemite Valley""></a>
+                <div class="Caption_Content">
+                    <p><a href="/micheal-eaken-953/">Micheal Eaken</a></p>
+                    <p><a href="/micheal-eaken/yosemite-valley/art-details-953-1556/">"Yosemite Valley"</a></p>
+																<p><a class="art_price">$400.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/shruthi-a/test-art/art-details-1240-1553/" title="Test Art"><img src="/photos/arts/collage/test-art-1487249510.jpg" alt="Test Art"></a>
+                <div class="Caption_Content">
+                    <p><a href="/shruthi-a-1240/">Shruthi A</a></p>
+                    <p><a href="/shruthi-a/test-art/art-details-1240-1553/">Test Art</a></p>
+																<p><a class="art_price">$200.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/rebecca-magar/the-witch-s-chamber/art-details-1200-1552/" title="The Witch's Chamber"><img src="/photos/arts/collage/the-witch-s-chamber-1487081670.jpg" alt="The Witch's Chamber"></a>
+                <div class="Caption_Content">
+                    <p><a href="/rebecca-magar-1200/">Rebecca Magar</a></p>
+                    <p><a href="/rebecca-magar/the-witch-s-chamber/art-details-1200-1552/">The Witch's Chamber</a></p>
+											<p><a class="art_price">SOLD</a></p>
+					                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/susan-kerr/universal-light/art-details-1245-1549/" title="Universal Light"><img src="/photos/arts/collage/universal-light-1486829957.jpg" alt="Universal Light"></a>
+                <div class="Caption_Content">
+                    <p><a href="/susan-kerr-1245/">Susan Kerr</a></p>
+                    <p><a href="/susan-kerr/universal-light/art-details-1245-1549/">Universal Light</a></p>
+																<p><a class="art_price">$1,200.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/stephen-keller/walking-fog/art-details-1133-1548/" title="Walking the Fog"><img src="/photos/arts/collage/walking-fog-1486817911.jpg" alt="Walking the Fog"></a>
+                <div class="Caption_Content">
+                    <p><a href="/stephen-keller-1133/">Stephen Keller</a></p>
+                    <p><a href="/stephen-keller/walking-fog/art-details-1133-1548/">Walking the Fog</a></p>
+																<p><a class="art_price">$1,950.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/stephen-keller/december/art-details-1133-1547/" title="December"><img src="/photos/arts/collage/december-1486409483.jpg" alt="December"></a>
+                <div class="Caption_Content">
+                    <p><a href="/stephen-keller-1133/">Stephen Keller</a></p>
+                    <p><a href="/stephen-keller/december/art-details-1133-1547/">December</a></p>
+																<p><a class="art_price">$1,600.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/dick-bobnick/dancer-s-fantasy/art-details-322-1546/" title="DANCER'S FANTASY"><img src="/photos/arts/collage/dancer-s-fantasy-1486320280.jpg" alt="DANCER'S FANTASY"></a>
+                <div class="Caption_Content">
+                    <p><a href="/dick-bobnick-322/">Dick Bobnick</a></p>
+                    <p><a href="/dick-bobnick/dancer-s-fantasy/art-details-322-1546/">DANCER'S FANTASY</a></p>
+																<p><a class="art_price">$5,500.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/jamie-brotherton/boundless-borders/art-details-359-1545/" title="Boundless Borders"><img src="/photos/arts/collage/boundless-borders-1486138878.jpg" alt="Boundless Borders"></a>
+                <div class="Caption_Content">
+                    <p><a href="/jamie-brotherton-359/">Jamie Brotherton</a></p>
+                    <p><a href="/jamie-brotherton/boundless-borders/art-details-359-1545/">Boundless Borders</a></p>
+																<p><a class="art_price">$3,000.00</a></p>
+										                </div>
+            </div>
+                                  
+                        <div class="Image_Wrapper"><a href="/rebecca-magar/the-battle-of-horses/art-details-1200-1544/" title="The Battle of Horses"><img src="/photos/arts/collage/the-battle-of-horses-1486047115.jpg" alt="The Battle of Horses"></a>
+                <div class="Caption_Content">
+                    <p><a href="/rebecca-magar-1200/">Rebecca Magar</a></p>
+                    <p><a href="/rebecca-magar/the-battle-of-horses/art-details-1200-1544/">The Battle of Horses</a></p>
+																<p><a class="art_price">$400.00</a></p>
+										                </div>
+            </div>
+             </div>
+    </div>
+    <div class="view_more"> <a href="/arts/">View More Art Works</a> </div>
+</section>
+<!-- Subscribe Starts -->
+<div id="newsletter-subscribe">
+	<div class="container">
+		<div class="newsletter-subscribe">
+		<form method="post" name="subscribe_form" action="" onSubmit="return validateSubscriber();">
+		<p>SUBSCRIBE TO ARTIST.COM NEWSLETTER</p>
+		<span class="errorMessage" id="newletter_frm_msg"></span>
+		<div class="subcribe-form"><input type="hidden" name="newsletter_subscribe" value="1"><input type="text" value="" name="subscriber_first_name" placeholder="First Name"><input type="text" value="" name="subscriber_last_name" placeholder="Last Name"><input type="text" value="" name="subscriber_email" placeholder="Email"><span><img src="/newsletter_captch.php" alt="Capcha Image" class="captcha-image "><input type="text" name="subscribe_captcha" placeholder="Enter Verification Code" autocomplete="off" class="captch-text"><input type="submit" name="news_subscribe" value="SUBMIT"></span></div>
+		</form>
+		</div>
+	</div>
+</div>
+<!-- Subscribe Ends -->
+
+<!-- Footer Starts -->
+<footer>
+	<div class="container">
+    	<div class="footer-links">
+        	<p class="copyright">&copy; 2017 Artist.com. All rights reserved.</p>
+			<p><a href="/privacy/">Privacy Policy</a> | <a href="#">Legal Disclaimer</a> | <a href="/terms/">Terms &amp; Conditions</a> | <a href="/invite-frnds/">Invite Friends</a></p> 
+        </div>
+        
+       <div class="social-links">
+
+                   <span class="follow_us">Follow Us</span>
+                    <ul>
+                    <li><a class="facebook" href="https://www.facebook.com/artistwebsite" target="_blank">facebook</a></li>
+                    <li><a class="youtube" href="https://www.youtube.com/channel/UC2hppfZKIEp2kcRj10GggkA" target="_blank">youtube</a></li>
+                    <li><a class="twitter" href="https://twitter.com/wwwArtistCom" target="_blank">twitter</a></li>
+                    <!--<li><a class="gplus" href="" target="_blank">gplus</a></li>-->
+                    <li><a class="pinterest" style="-webkit-touch-callout: none;-webkit-user-select: none;" href="https://www.pinterest.com/artistcom/" target="_blank">pinterest</a></li>
+                    <li><a class="instagram" href="http://www.instagram.com/artistdotcom/" target="_blank">instagram</a></li>
+                    </ul>
+        </div>
+        <div class="ypo-logo">
+        	<a target="_blank" href="http://www.yourpracticeonline.net/"><img alt="Your Practice Online" src="/site-images/ypo-logo.jpg"></a>
+        </div>
+    </div>
+</footer>
+</div>
+
+ <script type="text/javascript">
+function showAjaxLoaderText(){
+	if(document.getElementById('loaderText')){
+	document.getElementById('loaderText').style.display = 'inline';
+	}
+}
+function showAjaxLoader(){
+	var point = window.center({width:128,height:128});
+	document.getElementById('loader').style.left = point.x + "px";
+	document.getElementById('loader').style.top = point.y + "px";
+	document.getElementById('loader').style.display = 'inline';
+	showAjaxLoaderText();
+}
+function hideAjaxLoader(){
+	if(document.getElementById('loader')) {
+		document.getElementById('loader').style.display = 'none';
+	}if(document.getElementById('loaderText')) {
+		document.getElementById('loaderText').style.display = 'none';
+	}
+}
+$(window).bind('beforeunload', function() { 
+	showAjaxLoaderText();
+});
+</script> 
+
+<!-- Footer Ends -->
+ <script src="/site-js/jquery.slicknav.min.js"></script> 
+ 
+   <script type="text/javascript">
+		isCurrentPage = '';
+        $(document).ready(function(){
+				$('.menu1').slicknav({
+					prependTo:".dummy_block1",
+					label:"MAIN MENU"
+				});
+
+				// Reset Button script in home page search
+				$('#resetColor').click( function(){
+					$("#arts_color").hide();
+					$("#arts_color1").val('');
+					$('.colors').css('border','');
+				});
+            });
+   </script>
+ 
+ <script src="/site-js/site-script.1463049270.js" type="text/javascript"></script>
+ 
+
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+
+  ga('create', 'UA-65743473-1', 'auto');
+
+  ga('send', 'pageview');
+
+
+
+</script>
+
+
+
+<!-- Start of StatCounter Code for PBase -->
+
+<script type="text/javascript">
+
+var sc_project=10551558;
+
+var sc_invisible=1;
+
+var sc_security="8747c47e";
+
+var scJsHost = (("https:" == document.location.protocol) ?
+
+"https://secure." : "http://www.");
+
+document.write("<sc"+"ript type='text/javascript' src='" +
+
+scJsHost+
+
+"statcounter.com/counter/counter.js'></"+"script>");
+
+</script>
+
+<noscript><div class="statcounter"><a title="free hit
+
+counter" href="http://statcounter.com/" target="_blank"><img
+
+class="statcounter"
+
+src="http://c.statcounter.com/10551558/0/8747c47e/1/"
+
+alt="free hit counter"></a></div></noscript>
+
+
+
+<!-- End of StatCounter Code for PBase -->
+	</body>    
+</html> 

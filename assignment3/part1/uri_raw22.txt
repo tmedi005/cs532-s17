@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="UTF-8" />
+	<title>The Mad Patriots   &raquo; Americans Suffering From Trump-Related Mental Illness</title>
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- CSS
+  ================================================== -->
+				<meta name="viewport" content="width=device-width, user-scalable=no">
+		
+	<!--[if IE 7]>
+		<link rel="stylesheet" href="http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/stylesheet/ie7-style.css" /> 
+		<link rel="stylesheet" href="http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/stylesheet/font-awesome/font-awesome-ie7.min.css" /> 
+	<![endif]-->	
+	
+	<link rel="shortcut icon" href="http://www.themadpatriots.com/wp-content/uploads/2016/01/TMPFAV.png" type="image/x-icon" /><meta property="og:image" content="http://www.themadpatriots.com/wp-content/uploads/2017/02/couch-150x150.jpg"/><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Mad Patriots &raquo; Feed" href="http://www.themadpatriots.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Mad Patriots &raquo; Comments Feed" href="http://www.themadpatriots.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Mad Patriots &raquo; Americans Suffering From Trump-Related Mental Illness Comments Feed" href="http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.themadpatriots.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wow-style-css'  href='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/style.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wow-foundation-css'  href='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/stylesheet/foundation-responsive.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='style-custom-css'  href='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/style-custom.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='Google-Font-Droid+Serif-css'  href='http://fonts.googleapis.com/css?family=Droid+Serif%3An%2Ci%2Cb%2Cbi&#038;subset=latin&#038;ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='Google-Font-Oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald%3An%2Ci%2Cb%2Cbi&#038;subset=latin&#038;ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cntctfrm_form_style-css'  href='http://www.themadpatriots.com/wp-content/plugins/contact-form-plugin/css/form_style.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gabfire-widget-css-css'  href='http://www.themadpatriots.com/wp-content/plugins/gabfire-widget-pack/css/style.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='st-widget-css'  href='http://www.themadpatriots.com/wp-content/plugins/share-this/css/style.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/stylesheet/superfish.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/stylesheet/fancybox.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-thumbs-css'  href='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/stylesheet/jquery.fancybox-thumbs.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/stylesheet/font-awesome/font-awesome.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='flex-slider-css'  href='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/stylesheet/flexslider.css?ver=4.6.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/javascript/jquery.fitvids.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='http://www.themadpatriots.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.themadpatriots.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.themadpatriots.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Could Dems Use the 25th Amendment to Kick Trump Out of Office?' href='http://www.themadpatriots.com/freedom-news/could-dems-use-the-25th-amendment-to-kick-trump-out-of-office/' />
+<meta name="generator" content="WordPress 4.6.3" />
+<link rel="canonical" href="http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/" />
+<link rel='shortlink' href='http://www.themadpatriots.com/?p=874' />
+<link rel="alternate" type="application/json+oembed" href="http://www.themadpatriots.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.themadpatriots.com%2Fhealth-news%2Famericans-suffering-from-trump-related-mental-illness%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.themadpatriots.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.themadpatriots.com%2Fhealth-news%2Famericans-suffering-from-trump-related-mental-illness%2F&#038;format=xml" />
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" id="st_insights_js" src="http://w.sharethis.com/button/buttons.js?publisher=&amp;product=sharethis-wordpress&amp;wordpress_version=4.6.1"></script><script type="text/javascript">stLight.options({publisher:'wp.fc4ddec3-dbc5-44b3-9c38-5ce4e31d2ae7'});var st_type='wordpress4.6.1';</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52049452-6', 'auto');
+  ga('send', 'pageview');
+
+</script>	
+<!--[if lt IE 9]>
+<style type="text/css">
+	body{ min-width: 1180px; }
+	div.shortcode-dropcap.circle,
+	div.anythingSlider .anythingControls ul a, .flex-control-nav li a, 
+	.nivo-controlNav a, ls-bottom-slidebuttons a{
+		z-index: 1000;
+		position: relative;
+		behavior: url(http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/stylesheet/ie-fix/PIE.php);
+	}
+
+	ul.gdl-accordion li, ul.gdl-toggle-box li{ overflow: hidden; }
+	
+		
+</style>
+<![endif]-->
+</head>
+<body class="single single-post postid-874 single-format-standard">
+<div class="body-outer-wrapper">
+	<div class="body-wrapper">
+		<div class="header-outer-wrapper">
+			<!-- top navigation -->
+						
+			<div class="header-wrapper boxed-style">
+				<div class="header-container container">
+					<!-- Get Logo -->
+					<div class="logo-wrapper">
+						<a href="http://www.themadpatriots.com"><img src="http://www.themadpatriots.com/wp-content/uploads/2016/01/TMPlogo75.jpg" alt=""/></a>					</div>
+					
+					<!-- Right Banner Area -->
+					<div class="header-right-banner-wrapper">
+										</div>
+					<div class="clear"></div>		
+				</div> <!-- header container -->
+			</div> <!-- header wrapper -->
+			
+			<!-- Navigation -->
+			<div class="gdl-navigation-wrapper boxed-style">
+				<div class="responsive-menu-wrapper"><select id="menu-menu-1" class="menu dropdown-menu"><option value="" class="blank">&#8212; Main Menu &#8212;</option><option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9 menu-item-depth-0" value="http://www.themadpatriots.com/">Home</option>
+<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12 menu-item-depth-0" value="http://www.themadpatriots.com/category/freedom-news/">Freedom News</option>
+<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13 menu-item-depth-0" value="http://www.themadpatriots.com/category/gun-news/">Gun News</option>
+<option class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-14 menu-item-depth-0" value="http://www.themadpatriots.com/category/health-news/">Health News</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11 menu-item-depth-0" value="http://www.themadpatriots.com/contact-us/">Contact Us</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10 menu-item-depth-0" value="http://www.themadpatriots.com/about/">About</option>
+</select></div><div class="clear"></div><div class="main-navigation-wrapper"><div class="main-superfish-wrapper" id="main-superfish-wrapper" ><ul id="menu-menu-2" class="sf-menu"><li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9"><a href="http://www.themadpatriots.com/">Home</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="http://www.themadpatriots.com/category/freedom-news/">Freedom News</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13"><a href="http://www.themadpatriots.com/category/gun-news/">Gun News</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-14"><a href="http://www.themadpatriots.com/category/health-news/">Health News</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="http://www.themadpatriots.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="http://www.themadpatriots.com/about/">About</a></li>
+</ul><div class="clear"></div></div><div class="clear"></div></div><div class="header-top-marquee" ><div class="marquee-head">BREAKING NEWS</div><div class="marquee-wrapper"><div class="marquee" id="marquee"><div><a href="http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/" >Americans Suffering From Trump-Related Mental Illness</a></div><div><a href="http://www.themadpatriots.com/freedom-news/could-dems-use-the-25th-amendment-to-kick-trump-out-of-office/" >Could Dems Use the 25th Amendment to Kick Trump Out of Office?</a></div><div><a href="http://www.themadpatriots.com/freedom-news/new-travel-ban-will-target-the-same-seven-countries/" >New Travel Ban Will Target the Same Seven Countries</a></div><div><a href="http://www.themadpatriots.com/freedom-news/new-york-times-liberals-now-adore-conspiracy-theories/" >New York Times: Liberals Now Adore Conspiracy Theories</a></div><div><a href="http://www.themadpatriots.com/politics/the-greatest-presidential-press-conference-of-all-time/" >The Greatest Presidential Press Conference of All Time?</a></div><div><a href="http://www.themadpatriots.com/politics/leftist-reporter-caught-lying-about-encounter-with-omarosa/" >Leftist Reporter Caught Lying About Encounter with Omarosa</a></div><div><a href="http://www.themadpatriots.com/freedom-news/trump-republicans-looking-for-leaks-after-flynn-resignation/" >Trump, Republicans Looking for Leaks After Flynn Resignation</a></div><div><a href="http://www.themadpatriots.com/politics/democrat-our-party-has-moved-very-far-to-the-left/" >Democrat: Our Party Has Moved &#8220;Very Far to the Left&#8221;</a></div><div><a href="http://www.themadpatriots.com/freedom-news/deportations-begin-ice-rounds-up-foreign-fugitives/" >Deportations Begin: ICE Rounds Up Foreign Fugitives</a></div><div><a href="http://www.themadpatriots.com/politics/meet-your-new-naacp-award-winning-attorney-general/" >Meet Your New, NAACP Award-Winning Attorney General!</a></div></div><div class="clear"></div></div></div>				<div class="clear"></div>
+			</div>	<!-- navigation-wrapper -->		
+			
+		</div> <!-- header outer wrapper -->
+				<div class="content-outer-wrapper">
+			<div class="content-wrapper container main ">		<div id="post-874" class="post-874 post type-post status-publish format-standard has-post-thumbnail hentry category-health-news category-politics">
+	<div class="page-wrapper normal-sidebar single-blog single-sidebar right-sidebar">
+		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 page-left-right-sidebar"><div class="row"><div class="gdl-page-item mb0 pb55 twelve columns"><div class="blog-content-wrapper"><div class="gdl-blog-full" ><h1 class="blog-title"><a href="http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/">Americans Suffering From Trump-Related Mental Illness</a></h1><div class="blog-info-wrapper gdl-item-border"><div class="blog-date"><span class="head">Posted On</span> <a href="http://www.themadpatriots.com/2017/02/22/" >22 Feb 2017</a></div><div class="blog-author"><span class="head">By :</span> <a href="http://www.themadpatriots.com/author/admin/" title="Posts by admin" rel="author">admin</a></div><div class="blog-comment"><a href="http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/#respond"><span class="dsq-postid" data-dsqidentifier="874 http://www.themadpatriots.com/?p=874">Comment: 0</span></a></div><div class="clear"></div></div><div class="blog-content">
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<span class='st_facebook_hcount' displayText='Facebook'></span>
+<span class='st_twitter_hcount' displayText='Tweet'></span>
+<span class='st_pinterest_hcount' displayText='Pinterest'></span>
+<span class='st_reddit_hcount' displayText='Reddit'></span>
+<span class='st_email_hcount' displayText='Email'></span>
+<span class='st_sharethis_hcount' displayText='ShareThis'></span>
+<br><br><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TMP middle 728 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1860509029142685"
+     data-ad-slot="4254143324"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p>Mental health professionals say their offices have been filled with patients who are depressed, anxiety-ridden, and stressed out over the results of the 2016 election. According to a CNN report this week, psychiatrists are beginning to term this new malady &#8220;post-election stress disorder.&#8221;</p>
+<p>While there&#8217;s an undeniably funny side to this, some people think it&#8217;s disrespectful to the suffering many war veterans are going through on a daily basis. U.S. Rep Brian Mast, an Army vet who lost his legs to an IED in Afghanistan, says it&#8217;s a mistake to trivialize something as serious as post-traumatic stress disorder.</p>
+<p>&#8220;There was a big missed opportunity in naming it &#8216;Post-Election Stress Disorder,'&#8221; he said on Fox News Tuesday. &#8220;I would have preferred they name it &#8216;Post-Inauguration Stress Disorder,&#8217; that way they could have called it &#8216;PISD.&#8217;</p>
+<p>&#8220;There&#8217;s a big difference between being pissed off about things and what happens on the battlefield,&#8221; he said.</p>
+<p>Mast said that while he understood that liberals were probably feeling irritated about Donald Trump&#8217;s election, psychology experts should emphasize the difference between what they&#8217;re going through and the crippling pain of PTSD.</p>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TMP top 728 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1860509029142685"
+     data-ad-slot="7207609724"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br><br>
+</div>
+
+<p>“I have empathy for the stress in people’s lives in the election,&#8221; Mast said. &#8220;But that does not mean their stress has any real comparison to service members who have been targeted by snipers or blown up — who have taken the lives of their enemies or had their uniforms stained by the blood of their friends — or who have had to bury friends year after year after year. There’s not a comparison here.&#8221;</p>
+<p>Obviously.</p>
+<p>We have to question whether this supposed mental health crisis is even real. Sure, CNN can find one or two psychiatrists willing to back up their claim. They can round up a couple of liberals who will be happy to tell them how much they&#8217;re suffering in the wake of Trump&#8217;s inauguration. But are we really to believe that a significant number of people across the country are so cut off from reality that President Trump is responsible for their mental health deterioration?</p>
+<p>Maybe, but the more likely explanation is that the lying media has found yet another fake news narrative with which to make Trump look bad.</p>
+<p>The sick part about it is that millions of liberals who felt just fine will read this and start thinking, &#8220;Yeah&#8230;yeah, come to think of it, I AM depressed! Cool, I have a new identity. I have a new &#8216;illness&#8217; to blame for my crappy life situation!&#8221;</p>
+<p>You think any of these psychiatrists ever say, &#8220;Turn off your friggin Facebook for a day or two&#8230;?&#8221;</p>
+<p>&nbsp;</p>
+
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<style>
+@media screen and (min-width: 650px) {
+  #ld-5846-1086 {
+    width: 50%;
+    float: left;
+  }
+  #ld-2134-8771 {
+    width: 50%;
+    float: left;
+  }
+}
+</style>
+<div id="ld-5846-1086"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:9512983697376870,size:[0, 0],id:"ld-5846-1086"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdome.com/_js/ajs.js?c18a45";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script><div id="ld-2134-8771"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:9517076063012454,size:[0, 0],id:"ld-2134-8771"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdome.com/_js/ajs.js?c18a45";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<br>
+<div id="contentad122562"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "126b064c-2169-4882-942c-1fe21039bcfb",
+            d:  "dGhlbWFkcGF0cmlvdHMuY29t",
+            wid: "122562",
+            cb: (new Date()).getTime()
+        };var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key])); var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad122562").appendChild(s);
+    })(document);
+</script>
+</div>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><p class="no-break"><span class='st_facebook_buttons' st_title='Americans Suffering From Trump-Related Mental Illness' st_url='http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/' displayText='Facebook'></span><span class='st_twitter_buttons' st_title='Americans Suffering From Trump-Related Mental Illness' st_url='http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/' displayText='Twitter'></span><span class='st_email_buttons' st_title='Americans Suffering From Trump-Related Mental Illness' st_url='http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/' displayText='Email'></span><span class='st_sharethis_buttons' st_title='Americans Suffering From Trump-Related Mental Illness' st_url='http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/' displayText='ShareThis'></span><span class='st_fblike_buttons' st_title='Americans Suffering From Trump-Related Mental Illness' st_url='http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/' displayText='Facebook Like'></span><span class='st_plusone_buttons' st_title='Americans Suffering From Trump-Related Mental Illness' st_url='http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/' displayText='Google +1'></span><span class='st_pinterest _buttons' st_title='Americans Suffering From Trump-Related Mental Illness' st_url='http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/' displayText='Pinterest'></span></p><div class="clear"></div></div></div><div class='about-author-wrapper'><div class='about-author-avartar'><img alt='' src='http://1.gravatar.com/avatar/492c7495e819eedc5a9e8e01694c965f?s=90&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/492c7495e819eedc5a9e8e01694c965f?s=180&amp;d=mm&amp;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' /></div><div class='about-author-info'><h5 class='about-author-title'>About the Author</h5></div><div class='clear'></div></div><div class="social-shares"><ul>			<li>
+				<a href="http://www.facebook.com/share.php?u=http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/" target="_blank">
+					<img class="no-preload" src="http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/images/icon/social-icon-m/facebook.png" width="32" height="32" />
+				</a>
+			</li>
+						<li>
+				<a href="http://twitter.com/share?url=http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/" target="_blank">
+					<img class="no-preload" src="http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/images/icon/social-icon-m/twitter.png" width="32" height="32" />
+				</a>
+			</li>
+						<li>
+				<a href="http://www.stumbleupon.com/submit?url=http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/&#038;title=Americans%20Suffering%20From%20Trump-Related%20Mental%20Illness" target="_blank">
+					<img class="no-preload" src="http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/images/icon/social-icon-m/stumble-upon.png" width="32" height="32" />
+				</a>
+			</li>
+						<li>
+				<a href="http://www.myspace.com/Modules/PostTo/Pages/?u=http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/" target="_blank">
+					<img class="no-preload" src="http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/images/icon/social-icon-m/my-space.png" width="32" height="32" />
+				</a>
+			</li>
+						<li>
+				<a href="http://digg.com/submit?url=http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/&#038;title=Americans%20Suffering%20From%20Trump-Related%20Mental%20Illness" target="_blank">
+					<img class="no-preload" src="http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/images/icon/social-icon-m/digg.png" width="32" height="32" />
+				</a>
+			</li>
+						<li>
+				<a href="http://reddit.com/submit?url=http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/&#038;title=Americans%20Suffering%20From%20Trump-Related%20Mental%20Illness" target="_blank">
+					<img class="no-preload" src="http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/images/icon/social-icon-m/reddit.png" width="32" height="32" />
+				</a>
+			</li>
+						<li>
+				<a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/&#038;title=Americans%20Suffering%20From%20Trump-Related%20Mental%20Illness" target="_blank">
+					<img class="no-preload" src="http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/images/icon/social-icon-m/linkedin.png" width="32" height="32" />
+				</a>
+			</li>
+						<li>		
+				<a href="https://plus.google.com/share?url=http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;">
+					<img class="no-preload" src="http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/images/icon/social-icon-m/google-plus.png" alt="google-share" width="32" height="32" />
+				</a>					
+			</li>
+						<li>
+				<a href="http://pinterest.com/pin/create/button/?url=http://www.themadpatriots.com/health-news/americans-suffering-from-trump-related-mental-illness/&media=http://www.themadpatriots.com/wp-content/uploads/2017/02/couch.jpg" class="pin-it-button" count-layout="horizontal" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;">
+					<img class="no-preload" src="http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/images/icon/social-icon-m/pinterest.png" width="32" height="32" />
+				</a>	
+			</li>
+			</ul></div><div class='clear'></div><div class="adjacent-post"><div class="previous-post-link"><i class="icon-double-angle-left"></i><div class="adjacent-post-content"><div class="previous-post-head">Previous Story</div><h3 class="previous-post-title"><a href="http://www.themadpatriots.com/freedom-news/could-dems-use-the-25th-amendment-to-kick-trump-out-of-office/" rel="prev">Could Dems Use the 25th Amendment to Kick Trump Out of Office?</a></h3></div></div><div class="clear"></div></div><div class="comment-wrapper">
+<div id="disqus_thread">
+    </div>
+
+</div></div></div><div class="clear"></div></div></div><div class='gdl-right-sidebar'><div class='gdl-sidebar-wrapper gdl-border-y left'><div class='sidebar-wrapper'><div class="custom-sidebar widget_text" id="text-13" >			<div class="textwidget"><div id="bfc9ef96db92ed5bd9e0fb66223a03f6"></div><script type="text/javascript" src="http://plutusads.com/ga/36/bfc9ef96db92ed5bd9e0fb66223a03f6" async></script>
+<br>
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F The-Mad-Patriots-1779497545626689%2F&tabs&width=340&height=154&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId= 346954869026769" width="340" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<a href="https://twitter.com/TheMadPatriots" class="twitter-follow-button" data-show-count="false">Follow @TheMadPatriots</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+		</div><div class="custom-sidebar widget_text" id="text-14" >			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- TMP long right -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-1860509029142685"
+     data-ad-slot="8823943722"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div class="custom-sidebar widget_text" id="text-15" >			<div class="textwidget"><script type='text/javascript'>
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=414601");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location).substring(0,1600));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   
+   document.write ("'></scr"+"ipt>");
+//]]>--></script></div>
+		</div></div></div></div><div class="clear"></div></div>		<div class="clear"></div>
+	</div> <!-- page wrapper -->
+	</div> <!-- post class -->
+
+			</div> <!-- content wrapper -->
+		</div> <!-- content outer wrapper -->
+
+				
+		<div class="footer-wrapper boxed-style">
+
+		<!-- Get Footer Widget -->
+				
+		</div><!-- footer wrapper -->
+	</div> <!-- body wrapper -->
+</div> <!-- body outer wrapper -->
+	
+<script type="text/javascript">jQuery(document).ready(function(){});</script>	<script>
+		var getElementsByClassName=function(a,b,c){if(document.getElementsByClassName){getElementsByClassName=function(a,b,c){c=c||document;var d=c.getElementsByClassName(a),e=b?new RegExp("\\b"+b+"\\b","i"):null,f=[],g;for(var h=0,i=d.length;h<i;h+=1){g=d[h];if(!e||e.test(g.nodeName)){f.push(g)}}return f}}else if(document.evaluate){getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e="",f="http://www.w3.org/1999/xhtml",g=document.documentElement.namespaceURI===f?f:null,h=[],i,j;for(var k=0,l=d.length;k<l;k+=1){e+="[contains(concat(' ', @class, ' '), ' "+d[k]+" ')]"}try{i=document.evaluate(".//"+b+e,c,g,0,null)}catch(m){i=document.evaluate(".//"+b+e,c,null,0,null)}while(j=i.iterateNext()){h.push(j)}return h}}else{getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e=[],f=b==="*"&&c.all?c.all:c.getElementsByTagName(b),g,h=[],i;for(var j=0,k=d.length;j<k;j+=1){e.push(new RegExp("(^|\\s)"+d[j]+"(\\s|$)"))}for(var l=0,m=f.length;l<m;l+=1){g=f[l];i=false;for(var n=0,o=e.length;n<o;n+=1){i=e[n].test(g.className);if(!i){break}}if(i){h.push(g)}}return h}}return getElementsByClassName(a,b,c)},
+			dropdowns = getElementsByClassName( 'dropdown-menu' );
+		for ( i=0; i<dropdowns.length; i++ )
+			dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
+	</script>
+	<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/javascript/superfish.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/javascript/supersub.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/javascript/hoverIntent.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/javascript/jquery.easing.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ATTR = {"enable":"enable","width":"80","height":"45"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/javascript/jquery.fancybox.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/javascript/jquery.fancybox-media.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/javascript/jquery.fancybox-thumbs.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/javascript/gdl-scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/javascript/marquee.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FLEX = {"animation":"fade","pauseOnHover":"enable","controlNav":"enable","directionNav":"enable","animationSpeed":"600","slideshowSpeed":"12000","pauseOnAction":"disable","controlsContainer":".slider-wrapper"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/themes/worldwide-v1-05/javascript/jquery.flexslider.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-includes/js/comment-reply.min.js?ver=4.6.3'></script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-includes/js/wp-embed.min.js?ver=4.6.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.6.3","language":""},"disqusIdentifier":"874 http:\/\/www.themadpatriots.com\/?p=874","disqusShortname":"themadpatriots","disqusTitle":"Americans Suffering From Trump-Related Mental Illness","disqusUrl":"http:\/\/www.themadpatriots.com\/health-news\/americans-suffering-from-trump-related-mental-illness\/","options":{"manualSync":false},"postId":"874"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=4.6.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"themadpatriots"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.6.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icegram_pre_data = {"ajax_url":"http:\/\/www.themadpatriots.com\/wp-admin\/admin-ajax.php","post_obj":{"is_home":false,"page_id":874,"action":"display_messages","shortcodes":[],"cache_compatibility":"no","device":"laptop"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.themadpatriots.com/wp-content/plugins/icegram/assets/js/main.min.js?ver=1.9.21'></script>
+
+</body>
+</html>

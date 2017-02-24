@@ -1,0 +1,1192 @@
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://blackhatconservative.com/xmlrpc.php">
+
+<title>Black Hat Conservative -</title>
+<meta property="og:title" content="George Soros Finances Group Helping Facebook Flag ‘Disputed’ Stories">
+<meta property="og:description" content="">
+<meta property="og:url" content="http://blackhatconservative.com/george-soros-finances-group-helping-facebook-flag-disputed-stories/">
+<meta property="og:image" content="http://blackhatconservative.com/wp-content/uploads/2016/12/soros.jpg">
+
+<!-- This site is optimized with the Yoast SEO plugin v3.7.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://blackhatconservative.com/" />
+<link rel="next" href="http://blackhatconservative.com/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Black Hat Conservative -" />
+<meta property="og:url" content="http://blackhatconservative.com/" />
+<meta property="og:site_name" content="Black Hat Conservative" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Black Hat Conservative -" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/blackhatconservative.com\/","name":"Black Hat Conservative","potentialAction":{"@type":"SearchAction","target":"http:\/\/blackhatconservative.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Black Hat Conservative &raquo; Feed" href="http://blackhatconservative.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Black Hat Conservative &raquo; Comments Feed" href="http://blackhatconservative.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/blackhatconservative.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='toc-screen-css'  href='http://blackhatconservative.com/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-site-title-font-default-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3A400&#038;ver=10.0.07' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-body-font-default-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;ver=10.0.07' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-heading-font-default-css'  href='//fonts.googleapis.com/css?family=Raleway%3A500%2C600%2C700%2C100%2C800%2C400%2C300&#038;ver=10.0.07' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-header-standard-css'  href='http://blackhatconservative.com/wp-content/themes/panoramic/library/css/header-standard.css?ver=10.0.07' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-font-awesome-css'  href='http://blackhatconservative.com/wp-content/themes/panoramic/library/fonts/font-awesome/css/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-style-css'  href='http://blackhatconservative.com/wp-content/themes/panoramic/style.css?ver=10.0.07' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic_customizer_theme_fonts-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3Aregular%26subset%3Dlatin%2C' type='text/css' media='screen' />
+<link rel='stylesheet' id='tipsy-css'  href='http://blackhatconservative.com/wp-content/plugins/wp-shortcode/css/tipsy.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mts_wpshortcodes-css'  href='http://blackhatconservative.com/wp-content/plugins/wp-shortcode/css/wp-shortcode.css?ver=4.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://blackhatconservative.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://blackhatconservative.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://blackhatconservative.com/wp-content/plugins/wp-shortcode/js/jquery.tipsy.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://blackhatconservative.com/wp-content/plugins/wp-shortcode/js/wp-shortcode.js?ver=4.7.2'></script>
+<link rel='https://api.w.org/' href='http://blackhatconservative.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blackhatconservative.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blackhatconservative.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+<meta property="fb:app_id" content=""/><!--[if IE 7]>
+<link rel="stylesheet" href="http://blackhatconservative.com/wp-content/plugins/wp-review/assets/css/wp-review-ie7.css">
+<![endif]-->
+<style type="text/css">
+@media only screen and (max-width: 960px) {	.main-navigation.translucent {
+		position: relative;
+	}
+    #main-menu.panoramic-mobile-menu-dark-color-scheme {
+    	background-color: #272727;
+	}
+    
+    
+	.main-navigation.translucent {
+		background-color: #006489 !important;
+	}
+	#main-menu.panoramic-mobile-menu-standard-color-scheme {
+		background-color: #006489;
+	}
+
+
+	/* Menu toggle button */
+    .header-menu-button {
+	    display: block;
+	    padding: 16px 18px;
+	    color: #FFF;
+	    text-transform: uppercase;
+    	text-align: center;
+	    cursor: pointer;
+	}
+	.header-menu-button .fa.fa-bars {
+    	font-size: 28px;
+		color: #FFFFFF;
+	}
+	
+	/* Menu close button */
+    .main-menu-close {
+        display: block;
+    	background-color: rgba(0, 0, 0, 0.2);
+    	border-radius: 100%;
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        font-size: 26px;
+        color: #FFFFFF;
+        text-align: center;
+        padding: 0 6px 0 10px;
+        height: 36px;
+    	width: 36px;
+        line-height: 33px;
+        cursor: pointer;
+    	
+	    -webkit-transition: all 0.2s ease 0s;
+	     -moz-transition: all 0.2s ease 0s;
+	      -ms-transition: all 0.2s ease 0s;
+	       -o-transition: all 0.2s ease 0s;
+	          transition: all 0.2s ease 0s;
+
+    }
+    .main-menu-close:hover .fa {
+    	font-weight: 700 !important;
+	}
+	.main-menu-close .fa-angle-left {
+        position: relative;
+        left: -4px;
+    }
+	
+    .main-navigation ul {
+        display: block;
+    }
+
+    .main-navigation #main-menu {
+        color: #FFFFFF;
+        box-shadow: 1px 0 1px rgba(255, 255, 255, 0.04) inset;
+        position: fixed;
+        top: 0;
+        right: -280px;
+        width: 280px;
+        max-width: 100%;
+        -ms-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 70px 0 30px 0;
+        z-index: 100000;
+        height: 100%;
+        overflow: auto;
+        -webkit-transition: right 0.4s ease 0s;
+        -moz-transition: right 0.4s ease 0s;
+        -ms-transition: right 0.4s ease 0s;
+        -o-transition: right 0.4s ease 0s;
+        transition: right 0.4s ease 0s;
+    }
+    #main-menu .menu {
+    	border-top-width: 1px;
+    	border-top-style: solid;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme .menu {
+    	border-top-color: #FFFFFF;
+	}
+	.main-navigation li {
+        display: block;
+        float: none;
+        position: relative;
+    }
+    .main-navigation li a {
+    	white-space: normal !important;
+    	border-bottom-width: 1px;
+    	border-bottom-style: solid;
+		box-shadow: none;
+		display: block;
+		color: #FFFFFF;
+        float: none;
+        padding: 10px 22px;
+        font-size: 14px;
+        text-align: left;
+  	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a {
+    	border-bottom-color: #FFFFFF;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a:hover {
+    	background-color: rgba(0, 0, 0, 0.2); 
+  	}
+    .main-navigation ul ul a {
+    	text-transform: none;
+  	}
+    .main-navigation ul ul li:last-child a,
+    .main-navigation ul ul li a {
+        padding: 6px 30px;
+        width: auto;
+    }
+    .main-navigation ul ul ul li a {
+        padding: 6px 39px !important;
+    }
+    .main-navigation ul ul ul ul li a {
+        padding: 6px 47px !important;
+    }
+    .main-navigation ul ul ul ul ul li a {
+        padding: 6px 55px !important;
+    }
+
+    .main-navigation ul ul {
+        position: relative !important;
+    	box-shadow: none;
+        top: 0 !important;
+        left: 0 !important;
+        float: none !important;
+    	background-color: transparent;
+        padding: 0;
+        margin: 0;
+        display: none;
+    	border-top: none;
+    }
+	.main-navigation ul ul ul {
+		left: 0 !important;
+	}
+	.menu-dropdown-btn {
+    	display: block;
+    }
+    .open-page-item > ul.children,
+    .open-page-item > ul.sub-menu {
+    	display: block !important;
+    }
+    .open-page-item .fa-angle-down {
+		color: #FFFFFF;
+    	font-weight: 700 !important;
+    }
+    
+    /* 1st level selected item */
+    #main-menu.panoramic-mobile-menu-standard-color-scheme a:hover,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2) !important;
+	}
+
+	/* 2nd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+	
+	/* 3rd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+	
+}
+</style>
+
+<!-- Begin Custom CSS -->
+<style type="text/css" id="out-the-box-custom-css">
+a,
+                .header-image .overlay .opacity h2,
+				.slider-container.default .slider .slide .overlay .opacity h2,
+				.search-btn,
+				.site-title a,
+				.widget-area .widget a,
+				.search-button .fa-search,
+				.info-text em,
+				.woocommerce .woocommerce-breadcrumb a,
+				.woocommerce-page .woocommerce-breadcrumb a,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+				.color-text{color:#000000;}input[type="text"]:focus,
+				input[type="email"]:focus,
+				input[type="url"]:focus,
+				input[type="password"]:focus,
+				input[type="search"]:focus,
+				textarea:focus{border-color:#000000;}#back-to-top,
+				.main-navigation,
+				.main-navigation ul ul,
+				#comments .form-submit #submit,
+				.search-block .search-submit,
+				.no-results-btn,
+				button,
+        		a.button,
+				input[type="button"],
+				input[type="reset"],
+				input[type="submit"],
+        		ul.sections > li hr.divider,
+				.woocommerce ul.products li.product a.add_to_cart_button,
+				.woocommerce-page ul.products li.product a.add_to_cart_button,
+				.woocommerce ul.products li.product a.button.product_type_simple,
+				.woocommerce-page ul.products li.product a.button.product_type_simple,
+				.woocommerce button.button.alt,
+				.woocommerce a.button.alt,
+				.woocommerce-page button.button.alt,
+				.woocommerce input.button.alt,
+				.woocommerce-page #content input.button.alt,
+				.woocommerce .cart-collaterals .shipping_calculator .button,
+				.woocommerce-page .cart-collaterals .shipping_calculator .button,
+				.woocommerce a.button,
+				.woocommerce-page a.button,
+				.woocommerce input.button,
+				.woocommerce-page #content input.button,
+				.woocommerce-page input.button,
+				.woocommerce #review_form #respond .form-submit input,
+				.woocommerce-page #review_form #respond .form-submit input,
+				.wpcf7-submit,
+				.site-footer-bottom-bar{background-color:#000000;}.header-cart-checkout.cart-has-items .fa-shopping-cart{background-color:#000000 !important;}.woocommerce .woocommerce-info,
+				.woocommerce .woocommerce-message{border-top-color:#000000;}.main-navigation.translucent{background-color:rgba(0,0,0, 0.7);}a:hover,
+				.widget-area .widget a:hover,
+				.search-btn:hover,
+				.search-button .fa-search:hover,
+				.site-header .site-top-bar-left a:hover,
+				.site-header .site-top-bar-right a:hover,
+				.site-header .site-header-right a:hover,
+				.woocommerce .woocommerce-breadcrumb a:hover,
+				.woocommerce-page .woocommerce-breadcrumb a:hover,
+				.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active{color:#dd3333;}#back-to-top .hover,
+				.main-navigation button:hover,
+				#comments .form-submit #submit:hover,
+				.search-block .search-submit:hover,
+				.no-results-btn:hover,
+				button:hover,
+        		a.button:hover,
+				input[type="button"]:hover,
+				input[type="reset"]:hover,
+				input[type="submit"]:hover,
+				.site-header .site-top-bar-left a:hover .header-cart-checkout .fa,
+				.site-header .site-top-bar-right a:hover .header-cart-checkout .fa,
+				.site-header .site-header-right a:hover .header-cart-checkout .fa,
+				.woocommerce input.button.alt:hover,
+				.woocommerce-page #content input.button.alt:hover,
+				.woocommerce .cart-collaterals .shipping_calculator .button,
+				.woocommerce-page .cart-collaterals .shipping_calculator .button,
+				.woocommerce a.button:hover,
+				.woocommerce-page a.button:hover,
+				.woocommerce input.button:hover,
+				.woocommerce-page #content input.button:hover,
+				.woocommerce-page input.button:hover,
+				.woocommerce ul.products li.product a.add_to_cart_button:hover,
+				.woocommerce-page ul.products li.product a.add_to_cart_button:hover,
+				.woocommerce ul.products li.product a.button.product_type_simple:hover,
+				.woocommerce-page ul.products li.product a.button.product_type_simple:hover,
+				.woocommerce button.button.alt:hover,
+				.woocommerce a.button.alt:hover,
+				.woocommerce-page button.button.alt:hover,
+				.woocommerce #review_form #respond .form-submit input:hover,
+				.woocommerce-page #review_form #respond .form-submit input:hover,
+				wpcf7-submit:hover{background-color:#dd3333;}.site-footer{background-color:#686868;}h1, h2, h3, h4, h5, h6,
+				h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+				.site-footer-widgets ul li h2.widgettitle,
+    			.header-image .overlay .opacity h2,
+				.slider-container.default .slider .slide .overlay .opacity h2,
+				.woocommerce a.button,
+				.woocommerce-page a.button,
+				.woocommerce a.button.alt,
+				.woocommerce table.cart th,
+				.woocommerce-page #content table.cart th,
+				.woocommerce-page table.cart th,
+				.woocommerce input.button.alt,
+				.woocommerce-page #content input.button.alt,
+				.woocommerce table.cart input,
+				.woocommerce-page #content table.cart input,
+				.woocommerce-page table.cart input,
+				.woocommerce #respond input#submit,
+				.woocommerce a.button,
+				.woocommerce button.button,
+				.woocommerce input.button,
+				button,
+    			a.button,
+    			input[type="button"],
+				input[type="reset"],
+				input[type="submit"]{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;}h1, h2, h3, h4, h5, h6,
+				h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+				.site-footer-widgets ul li h2.widgettitle{color:#0000ff;}body,
+				.site-header .site-top-bar-left a,
+				.site-header .site-top-bar-right a,
+				.site-header .site-header-right a,
+				.breadcrumbs,
+				.site-footer-widgets .widget a,
+				.site-footer-bottom-bar a,
+	            .header-image .overlay .opacity p,
+	            .slider-container.default .slider .slide .overlay .opacity p{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;}body,
+				.site-header .site-top-bar-left a,
+				.site-header .site-top-bar-right a,
+				.site-header .site-header-right a,
+				.breadcrumbs,
+				input[type="text"],
+				input[type="email"],
+				input[type="tel"],
+				input[type="url"],
+				input[type="password"],
+				input[type="search"],
+				textarea,
+				.search-block .search-field,
+				.select2-drop,
+				.select2-container .select2-choice,
+				.select2-results .select2-highlighted,
+				.woocommerce .woocommerce-breadcrumb,
+				.woocommerce-page .woocommerce-breadcrumb,
+                .header-image .overlay .opacity p,
+				.slider-container.default .slider .slide .overlay .opacity p,
+				.woocommerce .woocommerce-ordering select,
+				.woocommerce-page .woocommerce-ordering select,
+				.woocommerce #content .quantity input.qty,
+				.woocommerce .quantity input.qty,
+				.woocommerce-page #content .quantity input.qty,
+				.woocommerce-page .quantity input.qty,
+				.woocommerce #content ul.products li.product span.price,
+				.woocommerce-page #content ul.products li.product span.price,
+				.woocommerce #content div.product p.price,
+				.woocommerce-page #content div.product p.price,
+				.woocommerce-page div.product p.price,
+				.woocommerce #content div.product span.price,
+				.woocommerce div.product span.price,
+				.woocommerce-page #content div.product span.price,
+				.woocommerce-page div.product span.price,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+                .woocommerce #reviews #comments ol.commentlist li .meta,
+				#add_payment_method #payment div.payment_box,
+				.woocommerce-checkout #payment div.payment_box,
+				.widget-area .widget h2{color:#000000;}.rpwe-time,
+        		.select2-default{color:rgba(0,0,0, 0.7) !important;}::-webkit-input-placeholder{color:rgba(0,0,0, 0.7);}:-moz-placeholder{color:rgba(0,0,0, 0.7);}::-moz-placeholder{color:rgba(0,0,0, 0.7);}:-ms-input-placeholder{color:rgba(0,0,0, 0.7);}.header-cart-checkout .fa{background-color:#000000;}
+@media (max-width: 960px){.main-navigation.translucent,
+        		#main-menu.panoramic-mobile-menu-standard-color-scheme{background-color:#000000 !important;}}
+</style>
+<!-- End Custom CSS -->
+<link rel="icon" href="http://blackhatconservative.com/wp-content/uploads/2016/10/favicon-65x65.png" sizes="32x32" />
+<link rel="icon" href="http://blackhatconservative.com/wp-content/uploads/2016/10/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://blackhatconservative.com/wp-content/uploads/2016/10/favicon.png" />
+<meta name="msapplication-TileImage" content="http://blackhatconservative.com/wp-content/uploads/2016/10/favicon.png" />
+
+<!-- BEGIN GADWP v4.9.3.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-85369657-1', 'auto');
+  ga('send', 'pageview');
+
+  window.google_analytics_uacct = "UA-85369657-1";
+</script>
+
+<!-- END GADWP Universal Tracking -->
+
+</head>
+
+<body class="home blog wp-custom-logo">
+    
+
+<header id="masthead" class="site-header   panoramic-header-layout-standard" role="banner">
+    
+            
+        
+<div class="site-container">
+    
+    <div class="branding">
+        <a href="http://blackhatconservative.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="345" height="96" src="http://blackhatconservative.com/wp-content/uploads/2016/10/black-hat-logo.jpg" class="custom-logo" alt="" itemprop="logo" srcset="http://blackhatconservative.com/wp-content/uploads/2016/10/black-hat-logo.jpg 345w, http://blackhatconservative.com/wp-content/uploads/2016/10/black-hat-logo-300x83.jpg 300w" sizes="(max-width: 345px) 100vw, 345px" /></a>    </div><!-- .site-branding -->
+    
+    <div class="site-header-right">
+        
+        <div class="top">
+        <ul class="social-links">
+<li><a href="https://www.facebook.com/Black-Hat-Conservative-207061066379159/" target="_blank" title="Find us on Facebook" class="social-facebook"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/DeplorableYes" target="_blank" title="Follow us on Twitter" class="social-twitter"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.pinterest.com/DeplorableYes/" target="_blank" title="Pin us on Pinterest" class="social-pinterest"><i class="fa fa-pinterest"></i></a></li></ul>        </div>
+        
+        <div class="bottom">
+        		</div>
+		        
+    </div>
+    <div class="clearboth"></div>
+    
+	    
+</div>
+
+
+<nav id="site-navigation" class="main-navigation border-bottom " role="navigation">
+	<span class="header-menu-button"><i class="fa fa-bars"></i></span>
+	<div id="main-menu" class="main-menu-container panoramic-mobile-menu-standard-color-scheme">
+		<div class="main-menu-close"><i class="fa fa-angle-right"></i><i class="fa fa-angle-left"></i></div>
+		<div class="main-navigation-inner"><ul id="menu-main-menu" class="menu"><li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="http://blackhatconservative.com/category/election/">Election</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="http://blackhatconservative.com/category/news/">News</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="http://blackhatconservative.com/category/tea-party/">Tea Party</a></li>
+<li id="menu-item-61" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61"><a href="http://blackhatconservative.com/category/leaks/">Leaks</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21"><a href="http://blackhatconservative.com/category/black-hat-twitter/">Twitter</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="http://blackhatconservative.com/category/black-hat-youtube/">YouTube</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62"><a href="http://blackhatconservative.com/category/reddit/">Reddit</a></li>
+<li id="menu-item-153" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153"><a href="http://blackhatconservative.com/category/political-memes/">Political Memes</a></li>
+</ul></div>	</div>
+</nav><!-- #site-navigation -->
+        
+        
+</header><!-- #masthead -->
+
+<script>
+	var site_url = 'http://blackhatconservative.com';
+	var page_on_front = 'george-soros-finances-group-helping-facebook-flag-disputed-stories';
+	var panoramicLayoutMode = 'panoramic-layout-mode-multi-page';
+	var panoramicLayoutHighlightFirstMenuItem = true;
+	var panoramicSliderTransitionSpeed = parseInt(450);
+	var panoramicSliderTransitionEffect = 'uncover-fade';
+    
+    	var panoramicSliderSpeed = false;
+    </script>
+    
+
+<div id="content" class="site-content site-container ">    
+    
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+        
+        
+		
+						<div class='code-block code-block-1' style='text-align: center; margin: 8px auto;'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Black Hat 3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1415542915907444"
+     data-ad-slot="1731923891"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+				<article id="post-507" class=" blog-post-side-layout post-507 post type-post status-publish format-standard has-post-thumbnail hentry category-facebook category-news tag-facebook-fact-checking tag-george-soros tag-soros-funding">
+    
+        <div class="post-loop-images">
+        
+        <div class="post-loop-images-carousel-wrapper post-loop-images-carousel-wrapper-remove">
+            <div class="post-loop-images-carousel post-loop-images-carousel-remove">	
+				<div>
+					<img src="http://blackhatconservative.com/wp-content/uploads/2016/12/soros-352x230.jpg" alt="soros" />
+				</div>
+            </div>
+            
+        </div>
+        
+    </div>				
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="http://blackhatconservative.com/george-soros-finances-group-helping-facebook-flag-disputed-stories/" rel="bookmark">George Soros Finances Group Helping Facebook Flag ‘Disputed’ Stories</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="http://blackhatconservative.com/george-soros-finances-group-helping-facebook-flag-disputed-stories/" rel="bookmark"><time class="entry-date published updated" datetime="2016-12-16T22:48:20+00:00">December 16, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://blackhatconservative.com/author/admin/">admin</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<h2><strong>TEL AVIV — The organization partnered with Facebook to help determine whether a certain story is “disputed” is financed by billionaire George Soros and a slew of other left-wing funders.</strong></h2>
+<p>The International Fact-Checking Network (IFCN) drafted a code of five principles for news websites to accept, and Facebook yesterday announced it will work with “third-party fact checking organizations” that are signatories to the code of principles.</p>
+<p>Facebook <a class=" x5l" href="https://newsroom.fb.com/news/2016/12/news-feed-fyi-addressing-hoaxes-and-fake-news/" target="_blank" rel="noopener">says</a> that if the “fact checking organizations” determine that a certain story is fake, it will get flagged as disputed and, according to the Facebook announcement, “there will be a link to the corresponding article explaining why. Stories that have been disputed may also appear lower in News Feed.”</p>
+<p><iframe src="http://launch.newsinc.com/?type=VideoPlayer/Single&amp;widgetId=1&amp;trackingGroup=69016&amp;playlistId=19132&amp;siteSection=90085_pp&amp;videoId=31749373" width="590" height="332" frameborder="no" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p>
+<p>IFCN is <a class=" x5l" href="http://www.poynter.org/about-the-international-fact-checking-network/" target="_blank" rel="noopener">hosted by</a> the Poynter Institute for Media Studies. A cursory search of the Poynter Institute website finds that Poynter’s IFCN is openly funded by Soros’ Open Society Foundations as well as the Bill &amp; Melinda Gates Foundation, Google, and the National Endowment for Democracy.</p>
+<p>Poynter’s IFCN is also funded by the Omidyar Network, which is the nonprofit for liberal billionaire eBay founder Pierre Omidyar. The Omidyar Network has <a class=" x5l" href="https://www.omidyar.com/news/new-partnership-jumpstarts-development-sierra-leone-and-liberia" target="_blank" rel="noopener">partnered</a> with the Open Society on numerous projects and it has given <a class=" x5l" href="https://omidyar.com/news/omidyar-network-supports-15-transparency-and-accountability-organizations-grants-totaling-97m" target="_blank" rel="noopener">grants</a> to third parties using the Soros-funded Tides Foundation.  Tides is one of the largest donors to left-wing causes in the U.S.</p>
+<p>Another significant Poynter Institute donor is the Craig Newmark Foundation, the charitable organization established by Craigslist Founder Craig Newmark. On Monday, just days before the announcement of the Facebook partnership, Poynter issued a <a class=" x5l" href="http://www.poynter.org/2016/craig-newmark-foundation-gives-poynter-1-million-to-fund-chair-in-journalism-ethics/442301/" target="_blank" rel="noopener">press release </a>revealing that Newmark donated $1 million to the group to fund a faculty chair in journalism ethics.</p>
+<div></div>
+<p>States the press release:</p>
+<blockquote><p>The gift will support a five-year program at Poynter that focuses on verification, fact-checking and accountability in journalism. It’s the largest donation Poynter’s ever received from an individual foundation.</p>
+<p>The Newmark Chair will expand on Poynter’s teaching in journalism ethics and develop certification programs for journalists that commit to ethical decision-making practices. The faculty member will also organize an annual conference on ethics issues at Poynter and be a regular contributor to Poynter.org.</p></blockquote>
+<p>Newmark funds <a class=" x5l" href="http://craigconnects.org/organizations" target="_blank" rel="noopener">scores </a>of liberal groups also financed by Soros, including the Sierra Club, the New America Foundation, and the Sunlight Foundation.</p>
+<p>Newmark also <a class=" x5l" href="http://craigconnects.org/organizations" target="_blank" rel="noopener">finances </a>the investigative journalism group called the Center for Public Integrity, where he serves on the board.  Soros’ Open Society is <a class=" x5l" href="https://www.publicintegrity.org/about/our-work/supporters" target="_blank" rel="noopener">another </a>Public Integrity donor.</p>
+<p>Soros has earned his megafortune in part by short selling currencies and causing economic crises. He is credited with breaking the pound on September 16, 1992 in a day that became known in Britain as “Black Wednesday.” He <a class=" x5l" href="http://www.telegraph.co.uk/finance/2773265/Billionaire-who-broke-the-Bank-of-England.html" target="_blank" rel="noopener">reportedly </a>made $1.2 billion from that crisis.  In 2002, he was <a class=" x5l" href="https://www.theguardian.com/world/2002/dec/21/france.markmilner" target="_blank" rel="noopener">convicted </a>for insider trading.</p>
+<p>Poynter, meanwhile, has hosted controversial journalism programs in the past, including one that was accused of downplaying the threat of global Islamic terrorism. FoxNews.com <a class=" x5l" href="http://www.foxnews.com/politics/2011/09/29/journalism-course-stresses-jihad-not-leading-cause-death.html" target="_blank" rel="noopener">reported</a> the course suggested reporters “keep the death toll from Islamic terrorism in ‘context’ by comparing that toll to the number of people killed every year by malaria, HIV/AIDS and other factors.”</p>
+<p>The course taught reporters that the term “jihad” means internal struggle, and it discussed what it claimed was the issue of “right-wing activists” attempting to link American Muslims to terrorism.</p>
+<p>Continued FoxNews.com:</p>
+<p>The section includes the good-journalism tip that reporters should check to see if experts they’re interviewing “have a bias or a stake in the story you are covering.” But then it only cites examples of anti-Muslim groups.</p>
+<p>The course in Islam, Fox News reported, was supported by a group calling itself the Social Science Research Council, which has received funding from Soros-financed groups.</p>
+<p>In response to the report, the Poynter Institute explained that it created the course “as a tool for journalists who want to be accurate in educating their audience about the religion and culture of Islam, Muslim communities in the U.S., and the distinctions between Islam as a political movement and the radical philosophies that inspire militant Islamists.”</p>
+<p>“We believe there is a need to better understand the complexities of Muslim societies and the online course offered by Poynter and Washington State University is a vital resource toward that end,” Poynter added.</p>
+<p>“The values underpinning the course are truth, accuracy, independence, fairness, minimizing harm and context — the core journalistic values on which we build all our teaching here at Poynter.”</p>
+<p>Poynter’s IFCN <a class=" x5l" href="http://www.poynter.org/fact-checkers-code-of-principles/" target="_blank" rel="noopener">code of principles</a> for news outlets, meanwhile, reads as follows:</p>
+<blockquote><p><strong>1. A COMMITMENT TO NONPARTISANSHIP AND FAIRNESS</strong></p>
+<p>We fact-check claims using the same standard for every fact check. We do not concentrate our fact-checking on any one side. We follow the same process for every fact check and let the evidence dictate our conclusions. We do not advocate or take policy positions on the issues we fact-check.</p>
+<p><strong>2. A COMMITMENT TO TRANSPARENCY OF SOURCES</strong></p>
+<p>We want our readers to be able to verify our findings themselves. We provide all sources in enough detail that readers can replicate our work, except in cases where a source’s personal security could be compromised. In such cases, we provide as much detail as possible.</p>
+<p><strong>3. A COMMITMENT TO TRANSPARENCY OF FUNDING &amp; ORGANIZATION</strong></p>
+<p>We are transparent about our funding sources. If we accept funding from other organizations, we ensure that funders have no influence over the conclusions we reach in our reports. We detail the professional background of all key figures in our organization and explain our organizational structure and legal status. We clearly indicate a way for readers to communicate with us.</p>
+<p><strong>4. A COMMITMENT TO TRANSPARENCY OF METHODOLOGY</strong></p>
+<p>We explain the methodology we use to select, research, write, edit, publish and correct our fact checks. We encourage readers to send us claims to fact-check and are transparent on why and how we fact-check.</p>
+<p><strong>5. A COMMITMENT TO OPEN AND HONEST CORRECTIONS</strong></p>
+<p>We publish our corrections policy and follow it scrupulously. We correct clearly and transparently in line with our corrections policy, seeking so far as possible to ensure that readers see the corrected version.</p></blockquote>
+<p><strong><em>Aaron Klein is Breitbart’s Jerusalem bureau chief and senior investigative reporter. He is a New York Times bestselling author and hosts the popular weekend talk radio program, “</em><a class=" x5l" href="https://www.connectpal.com/aaronklein" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en-GB&amp;q=https://www.connectpal.com/aaronklein&amp;source=gmail&amp;ust=1481985714497000&amp;usg=AFQjCNG7AENw5cDPqn_OxIk78jr7lWulkQ"><em>Aaron Klein Investigative Radio</em></a><em>.” Follow him on<span class="m_6968565883715734000Apple-converted-space"> </span></em><a class=" x5l" href="https://twitter.com/AaronKleinShow" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en-GB&amp;q=https://twitter.com/AaronKleinShow&amp;source=gmail&amp;ust=1481985714498000&amp;usg=AFQjCNHAEKhB57xTyPnwqu4NFyVg4pai9A"><em>Twitter @AaronKleinShow.</em></a><em><span class="m_6968565883715734000Apple-converted-space"> </span>Follow him on<span class="m_6968565883715734000Apple-converted-space"> </span></em><a class=" x5l" href="https://www.facebook.com/aaronkleinshow" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en-GB&amp;q=https://www.facebook.com/aaronkleinshow&amp;source=gmail&amp;ust=1481985714498000&amp;usg=AFQjCNGfnyJsS6vTEwYcQpLE_AOYKW-faQ"><em>Facebook.</em></a></strong></p>
+<div id="wpdevar_comment_1" style="width:100%;text-align:left;">
+		<span style="padding: 10px;font-size:22px;font-family:Times New Roman,Times,Georgia,serif;color:#000000;">Facebook Comments</span>
+		<div class="fb-comments" data-href="http://blackhatconservative.com/george-soros-finances-group-helping-facebook-flag-disputed-stories/" data-order-by="social" data-numposts="7" data-width="100%" style="display:block;"></div></div>
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="http://blackhatconservative.com/category/facebook/" rel="category tag">Facebook</a>, <a href="http://blackhatconservative.com/category/news/" rel="category tag">News</a> </span><span class="tags-links">Tagged <a href="http://blackhatconservative.com/tag/facebook-fact-checking/" rel="tag">facebook fact checking</a>, <a href="http://blackhatconservative.com/tag/george-soros/" rel="tag">george soros</a>, <a href="http://blackhatconservative.com/tag/soros-funding/" rel="tag">soros funding</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<article id="post-504" class=" blog-post-side-layout post-504 post type-post status-publish format-standard has-post-thumbnail hentry category-clinton category-news tag-clinton-foundation tag-fbi tag-new-york tag-office">
+    
+        <div class="post-loop-images">
+        
+        <div class="post-loop-images-carousel-wrapper post-loop-images-carousel-wrapper-remove">
+            <div class="post-loop-images-carousel post-loop-images-carousel-remove">	
+				<div>
+					<img src="http://blackhatconservative.com/wp-content/uploads/2016/10/hillary-clinton-goldman-sachs-speech-e1476560945329-352x230.jpg" alt="hillary-clinton-goldman-sachs-speech" />
+				</div>
+            </div>
+            
+        </div>
+        
+    </div>				
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="http://blackhatconservative.com/fbi-new-york-field-office-told-continue-clinton-foundation-probe/" rel="bookmark">FBI New York Field Office Told To Continue Clinton Foundation Probe</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="http://blackhatconservative.com/fbi-new-york-field-office-told-continue-clinton-foundation-probe/" rel="bookmark"><time class="entry-date published updated" datetime="2016-12-16T19:50:47+00:00">December 16, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://blackhatconservative.com/author/admin/">admin</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Officials at FBI headquarters instructed its New York field office to continue its corruption investigation into the Clinton Foundation following the election of Republican candidate Donald Trump, according to a former senior law enforcement official.</p>
+<p>The instructions ordered agents to “go forward” with their ongoing inquiry into the Clinton Foundation which is focusing on issues of corruption and money laundering, according to the source.</p>
+<p>“There were no instructions to shut it down, to discontinue or to stand down on the investigation, but to continue its work,” the former official told the Daily Caller News Foundation in an interview.</p>
+<p>He said he received this information about a week ago and that the order originated from the bureau’s headquarters in Washington, D.C. well after the November 8 election.  He did not know who at FBI Headquarters issued the order.</p>
+<p>The same source <a href="http://dailycaller.com/2016/10/30/now-five-fbi-field-offices-are-probing-clinton-charity-adding-fuel-to-the-fire/" target="_blank">broke</a> the news to TheDCNF that the FBI was conducting a multi-city probe of the foundation in as many as five cities: New York, Little Rock, Washington, D.C., Los Angeles and Miami. The source did not know the status of the bureau’s work in the four other cities.</p>
+<p>After the election, President-elect Donald Trump indicated that prosecuting rival Hillary Clinton or her foundation would not be a priority.</p>
+<p>In an interview with the New York Times on November 21, he said, “I don’t want to hurt the Clintons, I really don’t.”</p>
+<p>But he didn’t rule out a continuing probe of the foundation, saying, “we’ll have people that do things,” on the foundation, which the Times wrote was, “perhaps a reference to the F.B.I. or Republicans who might continue to press for prosecutions in the email or foundation cases.”</p>
+<p>It’s rare for a president to stop an FBI investigation.  Halting an ongoing probe by the FBI, which is an independent law enforcement agency, can be fraught with many political risks for presidents and can expose them to charges of interfering or politicizing law enforcement activities.</p>
+<p>The Clinton Foundation originally started in Little Rock, Arkansas as the main nonprofit entity to build and maintain the presidential library for former President Bill Clinton.</p>
+<p>As its activities exploded in the United States and overseas, its operations migrated to New York City.</p>
+<p>In 2015, the foundation reported it had 528 full-time employees, most of them working in offices located on Wall Street.  It’s net assets in 2015 were $347 million <a href="https://www.clintonfoundation.org/sites/default/files/clinton_foundation_report_public_2015.pdf" target="_blank">according</a> to its Form 990 tax filing with the Internal Revenue Service.</p>
+<p>The charity moved in 2011 from Harlem to Wall Street where they shared offices with the investment giant Goldman Sachs, <a href="http://dailycaller.com/2016/10/16/wikileaks-clinton-foundation-left-harlem-for-wall-street-space-with-goldman-sachs/" target="_blank">according </a>to WikiLeaks.</p>
+<p>The move to Wall Street doubled the foundation’s rent, from $1.8 million to $4 million, according to the charity’s Form 990.</p>
+<p>The spark for the FBI investigation appeared to be secret recordings of suspects in Los Angeles involved in money laundering activities who mentioned the Clinton Foundation.    The disclosure triggered an investigation in that city beginning last February, <a href="http://www.wsj.com/articles/secret-recordings-fueled-fbi-feud-in-clinton-probe-1478135518" target="_blank">according</a> to the Wall Street Journal.</p>
+<p>Other FBI bureaus also opened probes of the foundation in other cities.</p>
+<p>On numerous occasions bureau agents also conferred with Peter Schweizer, who chronicled the money flows into the charity from influential and wealthy people and foreign governments and wrote about it in his book titled, “Clinton Cash.”</p>
+<p>FBI Director James Comey has been criticized by both Democrats and Republicans for his decisions on probing Hillary Clinton over her use of a private email server for government business.  He ended an investigation in July of this year of her email but then resurrected it just 10 days before the election when her emails showed up in a laptop owned by former U.S. Rep. Anthony Weiner.</p>
+<p>Weiner, who is married to Clinton aide Huma Abedin, is reportedly being investigated on child pornography grounds when he allegedly “sexted” with underage girls.</p>
+<p>Senior Justice Department officials reportedly were openly skeptical of the Clinton Foundation case and repeatedly tried to shut down the bureau’s probe.  But the department was not able to shut down the FBI activities.</p>
+<p><a href="https://twitter.com/rpollockDC" target="_blank">Follow Richard on Twitter</a><br />
+Read more: <a href="http://dailycaller.com/2016/12/14/exclusive-fbi-new-york-field-office-told-to-continue-clinton-foundation-probe/#ixzz4T246winS">http://dailycaller.com/2016/12/14/exclusive-fbi-new-york-field-office-told-to-continue-clinton-foundation-probe/#ixzz4T246winS</a></p>
+<div id="wpdevar_comment_2" style="width:100%;text-align:left;">
+		<span style="padding: 10px;font-size:22px;font-family:Times New Roman,Times,Georgia,serif;color:#000000;">Facebook Comments</span>
+		<div class="fb-comments" data-href="http://blackhatconservative.com/fbi-new-york-field-office-told-continue-clinton-foundation-probe/" data-order-by="social" data-numposts="7" data-width="100%" style="display:block;"></div></div>
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="http://blackhatconservative.com/category/clinton/" rel="category tag">Clinton</a>, <a href="http://blackhatconservative.com/category/news/" rel="category tag">News</a> </span><span class="tags-links">Tagged <a href="http://blackhatconservative.com/tag/clinton-foundation/" rel="tag">clinton foundation</a>, <a href="http://blackhatconservative.com/tag/fbi/" rel="tag">fbi</a>, <a href="http://blackhatconservative.com/tag/new-york/" rel="tag">new york</a>, <a href="http://blackhatconservative.com/tag/office/" rel="tag">office</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<article id="post-499" class=" blog-post-side-layout post-499 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-trump tag-elon-musk tag-trump-advisors tag-uber">
+    
+        <div class="post-loop-images">
+        
+        <div class="post-loop-images-carousel-wrapper post-loop-images-carousel-wrapper-remove">
+            <div class="post-loop-images-carousel post-loop-images-carousel-remove">	
+				<div>
+					<img src="http://blackhatconservative.com/wp-content/uploads/2016/12/elon.jpeg" alt="elon musk" />
+				</div>
+            </div>
+            
+        </div>
+        
+    </div>				
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="http://blackhatconservative.com/trump-names-elon-musk-uber-ceo-advisory-team-drives-liberals-nuts/" rel="bookmark">Trump names Elon Musk &#038; Uber CEO to advisory team &#8211; DRIVES LIBERALS NUTS</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="http://blackhatconservative.com/trump-names-elon-musk-uber-ceo-advisory-team-drives-liberals-nuts/" rel="bookmark"><time class="entry-date published updated" datetime="2016-12-14T22:21:55+00:00">December 14, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://blackhatconservative.com/author/admin/">admin</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tesla and SpaceX CEO Elon Musk will join an advisory team for President-elect Donald Trump, Trump’s transition office announced Wednesday. Uber CEO Travis Kalanick and Pepsi CEO Indra Nooyi will also join the President’s Strategic and Policy Forum.</p>
+<p><iframe src="http://launch.newsinc.com/?type=VideoPlayer/Single&amp;widgetId=1&amp;trackingGroup=69016&amp;playlistId=19132&amp;siteSection=thehill2300_nws_pol_sec&amp;videoId=31743021" width="590" height="332" frameborder="no" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p>
+<p>The transition team&#8217;s announcement comes in advance of Trump’s Wednesday meeting with top tech leaders, including Musk, at Trump Tower.</p>
+<p>Other key tech players expected to be at the meeting include Facebook’s Sheryl Sandberg; Eric Schmidt and Larry Page of Alphabet, Google&#8217;s parent company; and Jeff Bezos, the founder of Amazon who also owns The Washington Post. A representative from Uber will not be in attendance.</p>
+<p>“I look forward to engaging with our incoming President and this group on issues that affect our riders, drivers and the 450+ cities where we operate,” Kalanick said in a statement.</p>
+<p>Musk, Kalanick and Nooyi will join 13 other members of the President’s Strategic and Policy Forum who are expected to “meet with the President frequently to share their specific experience and knowledge as the President implements his economic agenda.”</p>
+<p>The forum will be chaired by Stephen A. Schwarzman, the CEO and co-founder of Blackstone, one of the world’s largest private equity firms.</p>
+<p>“America has the most innovative and vibrant companies in the world, and the pioneering CEOs joining this Forum today are at the top of their fields,” Trump said in a statement.</p>
+<p>“My Administration is going to work together with the private sector to improve the business climate and make it attractive for firms to create new jobs across the United States from Silicon Valley to the heartland.”</p>
+<div id="wpdevar_comment_3" style="width:100%;text-align:left;">
+		<span style="padding: 10px;font-size:22px;font-family:Times New Roman,Times,Georgia,serif;color:#000000;">Facebook Comments</span>
+		<div class="fb-comments" data-href="http://blackhatconservative.com/trump-names-elon-musk-uber-ceo-advisory-team-drives-liberals-nuts/" data-order-by="social" data-numposts="7" data-width="100%" style="display:block;"></div></div>
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="http://blackhatconservative.com/category/news/" rel="category tag">News</a>, <a href="http://blackhatconservative.com/category/trump/" rel="category tag">Trump</a> </span><span class="tags-links">Tagged <a href="http://blackhatconservative.com/tag/elon-musk/" rel="tag">elon musk</a>, <a href="http://blackhatconservative.com/tag/trump-advisors/" rel="tag">trump advisors</a>, <a href="http://blackhatconservative.com/tag/uber/" rel="tag">uber</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<article id="post-494" class=" blog-post-side-layout post-494 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-georgia-police-shooting tag-suspect">
+    
+        <div class="post-loop-images">
+        
+        <div class="post-loop-images-carousel-wrapper post-loop-images-carousel-wrapper-remove">
+            <div class="post-loop-images-carousel post-loop-images-carousel-remove">	
+				<div>
+					<img src="http://blackhatconservative.com/wp-content/uploads/2016/12/georgia-police-shooting-suspect-e1481140586916-352x230.jpg" alt="georgia police shooting suspect" />
+				</div>
+            </div>
+            
+        </div>
+        
+    </div>				
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="http://blackhatconservative.com/attn-georgia-residents-manhunt-way-1-georgia-cop-killed-1-seriously-injured-shooting/" rel="bookmark">ATTN GEORGIA RESIDENTS: Manhunt under way after 1 Georgia cop killed, 1 seriously injured in shooting</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="http://blackhatconservative.com/attn-georgia-residents-manhunt-way-1-georgia-cop-killed-1-seriously-injured-shooting/" rel="bookmark"><time class="entry-date published updated" datetime="2016-12-07T19:57:06+00:00">December 7, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://blackhatconservative.com/author/admin/">admin</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p><script type="text/javascript" src="http://video.foxnews.com/v/embed.js?id=5239080569001&#038;w=466&#038;h=263"></script><noscript>Watch the latest video at <a href="http://video.foxnews.com">video.foxnews.com</a></noscript></p>
+<p>A manhunt was launched Wednesday for the shooter responsible for killing one Georgia police officer and critically wounding another in an incident that triggered a lockdown at nearby Georgia Southwestern State College.</p>
+<p><b><a href="http://www.foxnews.com/us/2016/12/07/video-reportedly-clears-detroit-man-accused-in-killing-university-police-officer.html" target="_blank">VIDEO REPORTEDLY CLEARS DETROIT MAN ACCUSED IN KILLING OF UNIVERSITY POLICE OFFICER</a></b></p>
+<p>Minguell Kennedy Lembrick, 32, was named as the alleged shooter by a spokesperson for the Albany Police Department, <a href="http://wgxa.tv/news/local/two-officers-shot-in-americus-suspect-remains-at-large" target="_blank">WGXA</a> reported. Authorities consider Lembrick armed and dangerous.</p>
+<p>&#8220;There are no words to express the pain and sorrow,&#8221; Americus Police Chief Mark <a href="https://twitter.com/AmandaWALB/with_replies" target="_blank">Scott said.</a> Officials did not name the officers involved.</p>
+<p><a href="http://www.foxnews.com/us/2016/12/06/ex-con-ex-boyfriend-sought-after-ny-correction-officer-shot-dead-in-car.html" target="_blank"><b>EX-CON EX-BOYFRIEND SOUGHT AFTER NY CORRECTION OFFICER SHOT DEAD IN CAR</b></a></p>
+<p>The officer who was killed was from the Americus Police Dept. Another officer from Georgia Southwestern State University had been placed on a Life Flight to a hospital in Macon, Scott said. Both officers had head wounds, <a href="https://twitter.com/MarkWinneWSB/with_replies" target="_blank">WSB</a> reported. Neither officer was named.</p>
+<div class="ftb-widget" data-width="600" data-height="600" data-widget-id="jfLDj8kQKzj" data-href="http://places.findthehome.com/l/25795/Americus-GA">
+<div style="text-align: center; font: 14px/16px Helvetica,arial; color: #3d3d3d;"><a style="color: #3d3d3d;" href="http://places.findthehome.com/l/25795/Americus-GA" target="_blank">FindTheHome | Graphiq</a></div>
+</div>
+<p><script async src="https://s.graphiq.com/rx/widgets.js"></script></p>
+<p>The shooting unfolded just after 9:30 a.m. at the Country Club Estates apartments. The Americus officer went to the complex on a domestic disturbance call and the GSW officer arrived as backup, Scott told WGXA.</p>
+<p>“A shooting has taken place off campus near the south side of the Griffin Bell Golf Course,” <a href="https://gsw.edu/" target="_blank">a statement from GSW</a> said. “Students, faculty and staff should remain in their present location until further notice.”</p>
+<p>The alert advised those on lockdown to secure doors and windows, shut off lights and move away from doors. No students were injured during the incident, the school said in a tweet.</p>
+<p>Americus is about 75 miles southwest of Macon.</p>
+<p><a href="http://www.foxnews.com/us/2016/12/07/2-georgia-cops-seriously-injured-in-shooting-near-college.html" target="_blank">FROM FOX NEWS</a></p>
+<div id="wpdevar_comment_4" style="width:100%;text-align:left;">
+		<span style="padding: 10px;font-size:22px;font-family:Times New Roman,Times,Georgia,serif;color:#000000;">Facebook Comments</span>
+		<div class="fb-comments" data-href="http://blackhatconservative.com/attn-georgia-residents-manhunt-way-1-georgia-cop-killed-1-seriously-injured-shooting/" data-order-by="social" data-numposts="7" data-width="100%" style="display:block;"></div></div>
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="http://blackhatconservative.com/category/news/" rel="category tag">News</a> </span><span class="tags-links">Tagged <a href="http://blackhatconservative.com/tag/georgia-police-shooting/" rel="tag">georgia police shooting</a>, <a href="http://blackhatconservative.com/tag/suspect/" rel="tag">suspect</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<article id="post-482" class=" blog-post-side-layout post-482 post type-post status-publish format-standard has-post-thumbnail hentry category-election category-news tag-blame tag-clinton tag-drunk tag-jill-stein tag-recount">
+    
+        <div class="post-loop-images">
+        
+        <div class="post-loop-images-carousel-wrapper post-loop-images-carousel-wrapper-remove">
+            <div class="post-loop-images-carousel post-loop-images-carousel-remove">	
+				<div>
+					<img src="http://blackhatconservative.com/wp-content/uploads/2016/11/hillary-investigation-accelerates-e1478034892805-352x230.jpg" alt="hillary-investigation-accelerates" />
+				</div>
+            </div>
+            
+        </div>
+        
+    </div>				
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="http://blackhatconservative.com/ed-klein-hillary-clintons-campaign-joined-jill-steins-recount-effort-raise-spirits/" rel="bookmark">Ed Klein: Hillary Clinton’s Campaign Joined Jill Stein’s Recount Effort to Raise Her Spirits</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="http://blackhatconservative.com/ed-klein-hillary-clintons-campaign-joined-jill-steins-recount-effort-raise-spirits/" rel="bookmark"><time class="entry-date published updated" datetime="2016-12-05T20:32:00+00:00">December 5, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://blackhatconservative.com/author/admin/">admin</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Ed Klein with the interesting tidbits of information <a href="http://townhall.com/columnists/edklein/2016/11/30/the-real-reason-hillary-asked-for-a-recount-n2252841">about Hillary Clinton</a> post-Election Day loss to Donald Trump:</p>
+<blockquote><p>Part of the answer is that people close to Hillary—Huma Abedin, Chelsea Clinton, and Sidney Blumenthal—encouraged her to ask for a recount as a way of lifting her spirits.</p>
+<p>“She is weepy, looks ten years older and is very whiny,” said one of Hillary’s closest friends. “She has been drinking wine pretty heavily, much more than usual. She mopes around all day, swimming in a sea of recriminations and complaining that her campaign managers were ‘incompetent,’ Bill and Chelsea ‘didn’t work hard enough,’ FBI Director Comey was ‘in league with Trump.’”</p>
+<p>In addition, President Obama convinced Hillary that it was in the best interest of the Democratic Party if the Clinton legal team got involved with the recount and didn’t leave it to Jill Stein.</p></blockquote>
+<p>FROM <a href="http://www.aim.org/on-target-blog/ed-klein-hillary-clintons-campaign-joined-jill-steins-recount-effort-to-raise-her-spirits/" target="_blank">AIM.ORG</a></p>
+<p>&nbsp;</p>
+<div id="wpdevar_comment_5" style="width:100%;text-align:left;">
+		<span style="padding: 10px;font-size:22px;font-family:Times New Roman,Times,Georgia,serif;color:#000000;">Facebook Comments</span>
+		<div class="fb-comments" data-href="http://blackhatconservative.com/ed-klein-hillary-clintons-campaign-joined-jill-steins-recount-effort-raise-spirits/" data-order-by="social" data-numposts="7" data-width="100%" style="display:block;"></div></div>
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="http://blackhatconservative.com/category/election/" rel="category tag">Election</a>, <a href="http://blackhatconservative.com/category/news/" rel="category tag">News</a> </span><span class="tags-links">Tagged <a href="http://blackhatconservative.com/tag/blame/" rel="tag">blame</a>, <a href="http://blackhatconservative.com/tag/clinton/" rel="tag">clinton</a>, <a href="http://blackhatconservative.com/tag/drunk/" rel="tag">drunk</a>, <a href="http://blackhatconservative.com/tag/jill-stein/" rel="tag">jill stein</a>, <a href="http://blackhatconservative.com/tag/recount/" rel="tag">recount</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<article id="post-479" class=" blog-post-side-layout post-479 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-maggots-in-wound tag-va-hospital tag-vet-dies">
+    
+        <div class="post-loop-images">
+        
+        <div class="post-loop-images-carousel-wrapper post-loop-images-carousel-wrapper-remove">
+            <div class="post-loop-images-carousel post-loop-images-carousel-remove">	
+				<div>
+					<img src="http://blackhatconservative.com/wp-content/uploads/2016/12/va-352x230.jpg" alt="va" />
+				</div>
+            </div>
+            
+        </div>
+        
+    </div>				
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="http://blackhatconservative.com/vet-dies-4-va-hospital-employees-resign-maggots-found-vets-wound/" rel="bookmark">VET DIES: 4 VA Hospital Employees Resign After Maggots Found in Vet&#8217;s Wound</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="http://blackhatconservative.com/vet-dies-4-va-hospital-employees-resign-maggots-found-vets-wound/" rel="bookmark"><time class="entry-date published updated" datetime="2016-12-05T19:35:02+00:00">December 5, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://blackhatconservative.com/author/admin/">admin</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Can we just inaugurate Trump now?</p>
+<p>FROM <a href="http://insider.foxnews.com/2016/12/05/4-va-hospital-staff-workers-resign-after-maggots-found-veterans-wound" target="_blank">FOX NEWS</a>: Troubling revelations are coming out of a VA hospital in Oklahoma City. This is just heart-breaking.</p>
+<p>Myles Deering, executive director of the VA medical center in Talihina, Oklahoma, said four employees have resigned after maggots were discovered in the wound of a 73-year-old veteran, who later died of sepsis.</p>
+<p><script type="text/javascript" src="http://video.insider.foxnews.com/v/embed.js?id=5236069267001&#038;w=466&#038;h=263"></script><noscript>Watch the latest video at <a href="http://video.foxnews.com">video.foxnews.com</a></noscript></p>
+<p>Deering said the maggots were found while the patient, Owen Reese Peterson, was still alive and were not the only contributing factor to his death.</p>
+<p>Monday on <strong>America&#8217;s Newsroom</strong>, host <strong>Bill Hemmer</strong> asked Fox News contributor <strong>Pete Hegseth</strong>, a veteran who served in Iraq and Afghanistan, about the state of VA hospitals nationwide.</p>
+<div id="wpdevar_comment_6" style="width:100%;text-align:left;">
+		<span style="padding: 10px;font-size:22px;font-family:Times New Roman,Times,Georgia,serif;color:#000000;">Facebook Comments</span>
+		<div class="fb-comments" data-href="http://blackhatconservative.com/vet-dies-4-va-hospital-employees-resign-maggots-found-vets-wound/" data-order-by="social" data-numposts="7" data-width="100%" style="display:block;"></div></div>
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="http://blackhatconservative.com/category/news/" rel="category tag">News</a> </span><span class="tags-links">Tagged <a href="http://blackhatconservative.com/tag/maggots-in-wound/" rel="tag">maggots in wound</a>, <a href="http://blackhatconservative.com/tag/va-hospital/" rel="tag">va hospital</a>, <a href="http://blackhatconservative.com/tag/vet-dies/" rel="tag">vet dies</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<article id="post-473" class=" blog-post-side-layout post-473 post type-post status-publish format-standard has-post-thumbnail hentry category-leaks category-news tag-attorney-general tag-jeff-sessions tag-jeff-sessions-racist tag-senator-sessions">
+    
+        <div class="post-loop-images">
+        
+        <div class="post-loop-images-carousel-wrapper post-loop-images-carousel-wrapper-remove">
+            <div class="post-loop-images-carousel post-loop-images-carousel-remove">	
+				<div>
+					<img src="http://blackhatconservative.com/wp-content/uploads/2016/11/sessions-e1480378962566-352x230.jpg" alt="sessions" />
+				</div>
+            </div>
+            
+        </div>
+        
+    </div>				
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="http://blackhatconservative.com/jeff-sessions-desegregated-alabama-schools-got-death-penalty-kkk-murderer/" rel="bookmark">Jeff Sessions Desegregated Alabama Schools and Got the Death Penalty for KKK Murderer</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="http://blackhatconservative.com/jeff-sessions-desegregated-alabama-schools-got-death-penalty-kkk-murderer/" rel="bookmark"><time class="entry-date published updated" datetime="2016-11-29T00:26:51+00:00">November 29, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://blackhatconservative.com/author/admin/">admin</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Now that Jeff Sessions is Donald Trump&#8217;s pick for attorney general, you&#8217;re going to hear a lot of people dig up old accusations that Sessions is a racist. In fact, <a href="http://www.cnn.com/2016/11/17/politics/jeff-sessions-racism-allegations/" target="_blank">CNN did so last night</a>. However, between the nature of the accusations and Sessions&#8217;s actual record of desegregating schools and taking on the Klan in Alabama, it strains credulity to believe that he is a racist.</p>
+<p>These accusations all center around the bruising judicial nomination process Sessions went through in 1986. Ronald Reagan had tapped Sessions to serve on the federal bench and the Senate judiciary committee ultimately rejected him after they heard testimony that he had supposedly called the ACLU and NAACP &#8220;un-American&#8221; and &#8220;communist-inspired,&#8221; as well as made racist remarks. The accusations came from Thomas Figures, a black assistant U.S. attorney who worked for Sessions who said Sessions called him &#8220;boy&#8221; and had made a joke about how he thought the KKK was &#8220;O.K. until [he] found out they smoked pot.&#8221; Another prosecutor, J. Gerald Hebert, said Sessions had called a white lawyer &#8220;a disgrace to his race&#8221; for representing black clients.</p>
+<p><iframe src="https://www.youtube.com/embed/oOjovdMKiRM?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br />
+There is no concrete reason to doubt Figures or Herbert. Sessions vehemently denied calling Figures &#8220;boy,&#8221; but he didn&#8217;t rebut the substance of some of the claims—though he asserted they were taken out of context. It&#8217;s not exactly inaccurate to point out that the NAACP and ACLU were &#8220;communist-inspired.&#8221; He said he thought it absurd to think he would make a pro-KKK joke considering he was prosecuting the Klan at the time he made the remark. And for what it&#8217;s worth, Figures also directed accusations at a another assistant U.S. Attorney who worked with Figures. That assistant U.S. Attorney also said Figures wasn&#8217;t telling the truth and defended Sessions&#8217;s integrity. Ultimately, the charges were no more than hearsay.</p>
+<p>Original from <a href="http://www.weeklystandard.com/in-alabama-jeff-sessions-desegregated-schools-and-got-the-death-penalty-for-kkk-murderer-updated/article/2005461" target="_blank">WEEKLY STANDARD</a></p>
+<p>However, it&#8217;s worth noting that Senator Ted Kennedy, on the Senate judiciary committee at the time, seemed heavily invested in tanking Sessions nomination. The next year, Kennedy&#8217;s crusade was to sink Robert Bork&#8217;s nomination to the Supreme Court, which has generally been regarded as a shameful smear campaign ever since. The episode upended the comity that had previously existed between the Senate and the White House on Supreme Court nominations—Antonin Scalia was approved to the court 98-0 the year before, the same year that Sessions was filleted by Kennedy and Democrats on the judiciary committee. Perhaps Sessions was a trial run for &#8220;Borking.&#8221;</p>
+<p>In 2009, <a href="http://www.nationalreview.com/article/227464/court-sessions-mark-hemingway" target="_blank">Sessions himself told me that</a> &#8220;When I got to Washington, there had been an orchestrated campaign to smear my record, and it was executed with great care. And I, frankly, was a babe in the woods and wasn&#8217;t sufficiently prepared for it.&#8221; For that reason, when Sessions got to the Senate he has always been more deferential toward nominations than most of his GOP colleagues. For instance, he was one of the only Republican senators to support Eric Holder&#8217;s nomination for attorney general.</p>
+<p>Sessions&#8217;s actual track record certainly doesn&#8217;t suggest he&#8217;s a racist. Quite the opposite, in fact. As a U.S. Attorney he filed several cases to desegregate schools in Alabama. And he also prosecuted Klansman Henry Francis Hays, son of Alabama Klan leader <a href="http://community.seattletimes.nwsource.com/archive/?date=19930809&amp;slug=1715084" target="_blank">Bennie Hays</a>, for abducting and killing Michael Donald, a black teenager selected at random. Sessions insisted on the death penalty for Hays. When he was later elected the state Attorney General, Sessions followed through and made sure Hays was executed. The successful prosecution of Hays also led to a $7 million civil judgment against the Klan, effectively breaking the back of the KKK in Alabama.</p>
+<p>As a U.S. attorney, he also prosecuted a group of civil rights activists, which included a former aide to Martin Luther King Jr., for voter fraud in Perry County, Alabama. The case fell apart, and Sessions bluntly told me he &#8220;failed to make the case.&#8221; This incident has also been used to claim that Sessions is racist—but it shouldn&#8217;t be. The county has been dogged with accusations of voter fraud for decades. In 2008, state and federal officials <a href="http://www.nytimes.com/2008/07/10/us/10fraud.html" target="_blank">investigated voter fraud in Perry County after</a> &#8220;a local citizens group gathered affidavits detailing several cases in which at least one Democratic county official paid citizens for their votes, or encouraged them to vote multiple times.&#8221; A <a href="http://www.tuscaloosanews.com/news/20120830/uniontown-voting-raises-questions" target="_blank">detailed story in the</a> <a href="http://www.tuscaloosanews.com/news/20120830/uniontown-voting-raises-questions" target="_blank"><em>Tuscaloosa News</em></a> reported that voting patterns in one Perry County town were also mighty suspicious in 2012: &#8220;Uniontown has a population of 1,775, according to the 2010 census but, according to the Perry County board of registrars, has 2,587 registered voters. The total votes cast thereTuesday—1,431—represented a turnout of 55 percent of the number of registered voters and a whopping 80.6 percent of the town&#8217;s population.&#8221;</p>
+<div id="ad_2005461_5" class="ad dynamic-load article-ad" data-targeting="keywords:donald trump|jeff sessions|mark hemingway|racism|blog|conservative newsstand,section:today" data-position="5" data-desktop-sizes="[[400,375],[728,90],[300,250]]" data-desktop-placement="" data-tablet-sizes="[[400,375],[728,90],[300,250]]" data-tablet-placement="" data-mobile-sizes="[[400,375],[300,250]]" data-mobile-placement=""></div>
+<p>Perhaps there are a lot of ideological reasons for liberals to be upset about Sessions becoming attorney general. But I don&#8217;t think the character attacks on the man can be taken seriously.</p>
+<p><em>Correction: A previous version of this post identified Henry Francis Hays as an Alabama KKK head. He was actually the son of one: Bennie Hays, who, per his obituary, was accused of &#8220;instigating&#8221; the murder for which Henry Hays was executed. The story has been updated.</em></p>
+<p><strong>Update:</strong> Suffice it to say, because I didn&#8217;t specifically detail Sessions involvement in the prosecution of Hays&#8217;s case, some online critics are claiming I&#8217;m trying to give Sessions credit for something he did not do. The short answer is that&#8217;s not what happened, but the long answer is that it&#8217;s complicated. Let&#8217;s review <a href="http://www.weeklystandard.com/in-alabama-jeff-sessions-desegregated-schools-and-got-the-death-penalty-for-kkk-murderer/article/2005461" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.weeklystandard.com/in-alabama-jeff-sessions-desegregated-schools-and-got-the-death-penalty-for-kkk-murderer/article/2005461&amp;source=gmail&amp;ust=1479917592956000&amp;usg=AFQjCNEDnD0so8J61kwTzxCVveMJjMyMgw">what I wrote above</a>:</p>
+<p class="blockquote">And he also prosecuted Klansman Henry Francis Hays, son of Alabama Klan leader Bennie Hays, for abducting and killing Michael Donald, a black teenager selected at random. Sessions insisted on the death penalty for Hays. When he was later elected the state Attorney General, Sessions followed through and made sure Hays was executed. The successful prosecution of Hays also led to a $7 million civil judgment against the Klan, effectively breaking the back of the KKK in Alabama.</p>
+<p>That characterization of Sessions&#8217;s involvement in Henry Francis Hays was based on this quote from when I interviewed Sessions in 2009: &#8220;I prosecuted the head of the Klan for murdering somebody, and I insisted the klansman be given the death penalty. When I became attorney general years later, I handled that appeal and ensured that he was, in fact, executed.&#8221;</p>
+<p>At the time I wrote this seven years ago, and when I wrote the piece Friday, I did not understand this to be Sessions saying he &#8220;prosecuted&#8221; Hays in the narrow sense of the word or that he was trying to take credit for the work of the Mobile County district attorney. Hays was obviously tried in state court. However, Sessions&#8217;s office did a lot of initial investigation and legwork on the case, and my understanding was that Sessions worked with the DA to make sure that the case got into state court specifically for the reason of seeking the death penalty. And in fact, <a href="http://www.cbsnews.com/news/donald-trump-offers-jeff-sessions-attorney-general-post/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.cbsnews.com/news/donald-trump-offers-jeff-sessions-attorney-general-post/&amp;source=gmail&amp;ust=1479917592956000&amp;usg=AFQjCNEmjIcJf5xA1M0z8Rsqns8En4sKvw">a recent CBS News report</a> notes that in Sessions&#8217;s failed judiciary confirmation hearings in 1986 Sessions testified &#8220;he had been involved in the decision to try one of the killers in state court so he could face the death penalty.&#8221; That has not been disputed since then, so far as I can tell.</p>
+<div id="ad_2005461_6" class="ad article-ad" data-targeting="keywords:donald trump|jeff sessions|mark hemingway|racism|blog|conservative newsstand,section:today" data-position="6" data-desktop-sizes="[[728,90],[300,250]]" data-desktop-placement="" data-tablet-sizes="[[728,90],[300,250]]" data-tablet-placement="" data-mobile-sizes="[[300,250]]" data-mobile-placement=""></div>
+<p>Sessions later <a href="http://abcnews.go.com/Politics/jeff-sessions-race-civil-rights/story?id=43633501" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://abcnews.go.com/Politics/jeff-sessions-race-civil-rights/story?id%3D43633501&amp;source=gmail&amp;ust=1479917592956000&amp;usg=AFQjCNGSUfvML6g4QjuLuUfz9uHVYLWv3g">brought up Hays&#8217;s accomplice and Hays&#8217;s father on federal charges</a> related to the murder—a 1985 AP story quotes Sessions saying &#8220;justice has been done&#8221; after his office got a life sentence in federal court for Hays&#8217;s accomplice James Knowles. Between the investigative work and that it appears Sessions was working with the state on an overall prosecutorial strategy, I understood Sessions to be saying he prosecuted Hays in a broader sense. This would not be inaccurate, even if some people were confused that it did not mean that as a U.S. attorney Sessions was obviously not the guy who conducted the trial in a state court.</p>
+<p>In any event, I would have obviated the criticism had I clarified his role here or perhaps said he was &#8220;involved in the prosecution&#8221; of Henry Francis Hays. Regardless, some critics started to get very far afoot from what I wrote, by claiming that I said Sessions &#8220;led the prosecution&#8221; of Henry Francis Hays, which is much more emphatic than what I wrote or understood to be the case.</p>
+<p>The bottom line: Sessions was instrumental in seeing a Klan murderer charged with the death penalty, and later worked as Alabama&#8217;s attorney general to see that the death sentence was carried out swiftly, making Henry Francis Hays the first white man executed in Alabama for murdering a black person since 1913. Sessions spent the better part of two decades going after the Klan in Alabama, and that should be kept in mind when you assess the decades old charges that he is racist.</p>
+<div id="wpdevar_comment_7" style="width:100%;text-align:left;">
+		<span style="padding: 10px;font-size:22px;font-family:Times New Roman,Times,Georgia,serif;color:#000000;">Facebook Comments</span>
+		<div class="fb-comments" data-href="http://blackhatconservative.com/jeff-sessions-desegregated-alabama-schools-got-death-penalty-kkk-murderer/" data-order-by="social" data-numposts="7" data-width="100%" style="display:block;"></div></div>
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="http://blackhatconservative.com/category/leaks/" rel="category tag">Leaks</a>, <a href="http://blackhatconservative.com/category/news/" rel="category tag">News</a> </span><span class="tags-links">Tagged <a href="http://blackhatconservative.com/tag/attorney-general/" rel="tag">attorney general</a>, <a href="http://blackhatconservative.com/tag/jeff-sessions/" rel="tag">jeff sessions</a>, <a href="http://blackhatconservative.com/tag/jeff-sessions-racist/" rel="tag">jeff sessions racist</a>, <a href="http://blackhatconservative.com/tag/senator-sessions/" rel="tag">senator sessions</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<article id="post-469" class=" blog-post-side-layout post-469 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-iran-planes tag-usa-iran-deal">
+    
+        <div class="post-loop-images">
+        
+        <div class="post-loop-images-carousel-wrapper post-loop-images-carousel-wrapper-remove">
+            <div class="post-loop-images-carousel post-loop-images-carousel-remove">	
+				<div>
+					<img src="http://blackhatconservative.com/wp-content/uploads/2016/11/iran-2-352x230.jpg" alt="iran-2" />
+				</div>
+            </div>
+            
+        </div>
+        
+    </div>				
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="http://blackhatconservative.com/iran-using-commercial-planes-smuggle-weapons-terrorists/" rel="bookmark">Iran Using Commercial Planes to Smuggle Weapons to Terrorists</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="http://blackhatconservative.com/iran-using-commercial-planes-smuggle-weapons-terrorists/" rel="bookmark"><time class="entry-date published updated" datetime="2016-11-25T17:04:23+00:00">November 25, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://blackhatconservative.com/author/admin/">admin</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<h1 class="subheadline">Obama admin accused of facilitating Iranian terror by approving new airplane sales</h1>
+<p>From <a href="http://freebeacon.com/national-security/iran-using-planes-smuggle-weapons-terrorists/" target="_blank">Free Beacon:</a></p>
+<blockquote><p>The Obama administration has given clearance to Western airline manufacturers to sell planes to Iran at the same time the Islamic Republic is using commercial airliners to smuggle weapons and other illicit arms to Hezbollah terrorists in Lebanon, according to new intelligence and congressional communications obtained by the <em>Washington Free Beacon</em>.</p>
+<p>The disclosure of this new intelligence, which shows that Iran has been using its commercial airline company to smuggle advanced weaponry to Hezbollah and terrorists operating in Syria, has placed renewed focus on a congressional inquiry that has been stymied by Obama administration officials since early October.</p>
+<p>Senators, led by Sen. David Perdue (R., Ga.), have been pushing Obama administration officials to explain why they are helping airline manufacturers Boeing and AirBus sell planes to Iran, despite clear evidence that Tehran is using its commercial airline as cover for its continued terrorist operations across the region.</p>
+<p>As with multiple other congressional investigations into the Obama administration’s efforts to roll back economic sanctions and conduct secret dealings with Iran, officials have stonewalled Perdue, refusing to answer key questions about the motivation for aiding Tehran’s pursuit of planes that could be used to further its terrorist enterprise.</p>
+<p>This new intelligence comes just days after the Obama administration approved a second license for AirBus, a French company, to pursue even more sales with Iran.</p>
+<p>The <em>Free Beacon</em> recently disclosed that several American-made planes are currently being flown by Iran’s Air Force, while other jets are being used in its commercial sector to smuggle arms.</p>
+<p>Perdue on Wednesday accused the Obama administration of facilitating Iran’s terrorist operations by signing off on the multi-billion dollar deals to sell Iran planes, according to a <a href="http://freebeacon.com/wp-content/uploads/2016/11/11.23.16-Follow-up-Letter-to-US-Szubin-re-OFAC-licenses-for-sale-of-aircraft-to-Iran.pdf" target="_blank">letter</a> sent to the Treasury Department, which oversees such sales, and obtained by the <em>Free Beacon</em>.</p>
+<p>The senator chided the department for ignoring his initial Oct. 6 request for information, describing this lack of response as “troubling.”</p>
+<p>“While I find your lack of a response to our last letter troubling, I would not that the issue surrounding commercial aircraft usage for illicit purposes by the Iranian regime has now expanded, given new intelligence information alleging that Iran has indeed been using Mahan Air — a commercial airline that is currently subject to U.S. and UN sanctions — to smuggle weapons and ammunition to Hezbollah in Lebanon,” Perdue writes.</p>
+<p>New intelligence unearthed by the Israelis and disseminated to United Nations Security Council members in an “urgent letter” shows that Iran has been using Mahan Air to smuggle a large quantity of arms into Lebanon, where they are then transferred to Hezbollah, which remains committed to destroying the Jewish state.</p>
+<p>“These planes fly directly to the airport in Lebanon or Damascus and from there the weapons are transferred on the ground to Hezbollah,” according to the <a href="http://jewishnews.timesofisrael.com/israels-un-envoy-iran-smuggling-weapons-to-hezbollah/" target="_blank">letter</a> sent by Israeli officials to U.N. Security Council members.</p>
+<p>This includes weapons, ammunition, and missile technology to Hezbollah, which is placed inside suitcases and placed on Mahan’s commercial flights.</p>
+<p>The intelligence further shows that Hezbollah now has about 12,000 missiles hidden underground in Lebanon, or “more than 17 times the number of missiles it possessed 10 years ago, and more than the European NATO allies have above the ground,” according to Perdue’s letter.</p>
+<p>The intelligence appears to confirm fears by many in Congress that the easing of airline sales to Iran by the Obama administration will directly fuel Tehran’s global terrorist operation, according to the senator.</p>
+<p>“This report confirms precisely the fear we expressed in our October 6 letter: that Iran continues to use commercial aircraft to smuggle weapons and ammunition in violation of UN Security Council Resolution 2231 to support its terrorist proxies,” Perdue wrote, referring to the UN resolution currently governing last year’s comprehensive nuclear deal with Iran.</p>
+<p>“We are rightly concerned that Iran may continue to do so with the new commercial aircraft it purchases from Boeing and Airbus, as permitted by the U.S. Treasury Department,” the letter stated.</p>
+<p>Despite this intelligence, the Obama administration continues to sign off on and endorse these sales to Iran.</p>
+<p>“I was also disturbed to see that Airbus, one of the companies seeking licenses for the sale of commercial aircraft to the government of Iran, was just awarded a second license from U.S. Office of Foreign Asset Control (OFAC) to sell up to 118 jets to Iran,” Perdue wrote. “To echo the concerns of our last letter, what, if any, end-use monitoring controls can you guarantee will follow this license to ensure that these aircraft are not used to further support Iran’s terrorist proxies or support for the Assad regime in Syria?”</p>
+<p>One senior congressional aide familiar with the matter told the <em>Free Beacon</em> that the Obama administration’s permissive attitude towards Tehran has only emboldened its bad behavior.</p>
+<p>“The sanctions relief President Obama agreed to has allowed Iran to ramp up support for its destructive ambitions,” the source said. “Given this recent discovery by [Israeli U.N.] Ambassador Danon, President Obama and Congress shouldn’t wait to see what this rogue nation has planned for this massive increase in commercial aircraft.”</p>
+<p>“It’s been nearly a year since the implementation of President Obama’s nuclear deal and we’ve seen Iran become increasingly aggressive in its support of terrorism,” the source noted. “In fact, Iran is still the number one state sponsor of terrorism. If this isn’t a symptom of a failed deal, what is?”</p></blockquote>
+<div id="wpdevar_comment_8" style="width:100%;text-align:left;">
+		<span style="padding: 10px;font-size:22px;font-family:Times New Roman,Times,Georgia,serif;color:#000000;">Facebook Comments</span>
+		<div class="fb-comments" data-href="http://blackhatconservative.com/iran-using-commercial-planes-smuggle-weapons-terrorists/" data-order-by="social" data-numposts="7" data-width="100%" style="display:block;"></div></div>
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="http://blackhatconservative.com/category/news/" rel="category tag">News</a> </span><span class="tags-links">Tagged <a href="http://blackhatconservative.com/tag/iran-planes/" rel="tag">iran planes</a>, <a href="http://blackhatconservative.com/tag/usa-iran-deal/" rel="tag">usa iran deal</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<article id="post-464" class=" blog-post-side-layout post-464 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-hypocrites tag-liberals tag-tim-allen">
+    
+        <div class="post-loop-images">
+        
+        <div class="post-loop-images-carousel-wrapper post-loop-images-carousel-wrapper-remove">
+            <div class="post-loop-images-carousel post-loop-images-carousel-remove">	
+				<div>
+					<img src="http://blackhatconservative.com/wp-content/uploads/2016/11/tim-allen-calls-out-liberals-e1479847083538-352x230.jpg" alt="tim-allen-calls-out-liberals" />
+				</div>
+            </div>
+            
+        </div>
+        
+    </div>				
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="http://blackhatconservative.com/tim-allen-calls-hypocritical-hollywood-bullying/" rel="bookmark">Tim Allen calls out &#8216;hypocritical&#8217; Hollywood for bullying</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="http://blackhatconservative.com/tim-allen-calls-hypocritical-hollywood-bullying/" rel="bookmark"><time class="entry-date published updated" datetime="2016-11-22T20:39:45+00:00">November 22, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://blackhatconservative.com/author/admin/">admin</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Allen stopped by &#8220;The Kelly File&#8221; to call out those in Hollywood who are bullying people who support President-elect Donald Trump.</p>
+<p>&#8220;What I find odd in Hollywood is that they didn’t like Trump because he was a bully,&#8221; Allen told FOX News&#8217; Megyn Kelly on Monday night. &#8220;But if you had any kind of inkling that you were for Trump, you got bullied for doing that. And it gets a little bit hypocritical to me.&#8221;</p>
+<p>&nbsp;</p>
+<p><script type="text/javascript" src="http://video.foxnews.com/v/embed.js?id=5219987784001&#038;w=466&#038;h=263"></script></p>
+<p><a href="http://www.foxnews.com/entertainment/2016/11/22/gigi-hadid-says-melania-trump-impression-at-amas-was-done-in-good-humor.html">More: Gigi Hadid says Melania Trump impression at AMAs was &#8216;done in good humor&#8217;</a></p>
+<p>The &#8220;Last Man Standing&#8221; star added that he&#8217;s &#8220;not a spokesman for Hollywood&#8221; but rather a comedian who doesn&#8217;t &#8220;want anyone to tell me what to do.&#8221;</p>
+<p>&#8220;You get bullied into a position, but I don’t want to defend the guy,&#8221; Allen explained. &#8220;To me, he acts like a new talent comedian. These are guys that have great material that have very bad comedy timing. And he&#8217;s got terrible timing.&#8221;</p>
+<p><a href="http://www.foxnews.com/entertainment/slideshow/2016/07/19/star-politics-who-leans-left-and-who-leans-right.html#/slide/scott-baio--right-leaner">Star politics: Who leans left, and who leans right</a></p>
+<p>Allen also noted that while his &#8220;Last Man Standing&#8221; character is conservative, the show is &#8220;written by liberals.&#8221;</p>
+<p>The <a href="http://www.foxnews.com/entertainment/2016/01/13/tim-allen-says-leans-left-leans-right-and-ends-up-center-right.html">actor told us in January</a> that he &#8220;can be really either left leaning or very very right leaning,&#8221; but always ends up &#8220;center right.&#8221;</p>
+<p>ORIGINALLY <a href="http://www.foxnews.com/entertainment/2016/11/22/tim-allen-calls-out-hypocritical-hollywood-for-bullying-trump-supporters.html" target="_blank">ON FOX</a></p>
+<div id="wpdevar_comment_9" style="width:100%;text-align:left;">
+		<span style="padding: 10px;font-size:22px;font-family:Times New Roman,Times,Georgia,serif;color:#000000;">Facebook Comments</span>
+		<div class="fb-comments" data-href="http://blackhatconservative.com/tim-allen-calls-hypocritical-hollywood-bullying/" data-order-by="social" data-numposts="7" data-width="100%" style="display:block;"></div></div>
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="http://blackhatconservative.com/category/news/" rel="category tag">News</a> </span><span class="tags-links">Tagged <a href="http://blackhatconservative.com/tag/hypocrites/" rel="tag">hypocrites</a>, <a href="http://blackhatconservative.com/tag/liberals/" rel="tag">liberals</a>, <a href="http://blackhatconservative.com/tag/tim-allen/" rel="tag">tim allen</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<article id="post-457" class=" blog-post-side-layout post-457 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-mcdonalds-kiosk tag-minimum-wage tag-protesters">
+    
+        <div class="post-loop-images">
+        
+        <div class="post-loop-images-carousel-wrapper post-loop-images-carousel-wrapper-remove">
+            <div class="post-loop-images-carousel post-loop-images-carousel-remove">	
+				<div>
+					<img src="http://blackhatconservative.com/wp-content/uploads/2016/11/minimum-wage-352x230.jpg" alt="minimum-wage" />
+				</div>
+            </div>
+            
+        </div>
+        
+    </div>				
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="http://blackhatconservative.com/mcdonalds-deals-blow-minimum-wage-protesters-automated-ordering-machines/" rel="bookmark">McDonald’s Deals Blow to Minimum Wage Protesters With Automated Ordering Machines</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="http://blackhatconservative.com/mcdonalds-deals-blow-minimum-wage-protesters-automated-ordering-machines/" rel="bookmark"><time class="entry-date published updated" datetime="2016-11-22T20:18:05+00:00">November 22, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://blackhatconservative.com/author/admin/">admin</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Unfortunately for minimum wage activists, it looks like the “<a href="http://conservativetribune.com/when-fight-for-15-leader/" target="_blank">fight for $15</a>” is about to become the “fight to not have our jobs automated out of existence.”</p>
+<p>According to <a href="http://money.cnn.com/2016/11/17/news/mcdonalds-steve-easterbrook/" target="_blank">CNN Money</a>, McDonald’s — the nation’s most iconic fast food chain — is about to roll out automated ordering kiosks across the country at all of its locations, presumably to cut down on labor costs.</p>
+<p>In fact, McDonald’s also plans to introduce mobile ordering, which would allow customers to skip the kiosks entirely.</p>
+<p><iframe src="https://www.youtube.com/embed/34T3IkAtOrc?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>“Customers have access to information that gives them much more control over their lives,” McDonald’s CEO Steve Easterbrook said.</p>
+<p>While McDonald’s is hailing this as an attempt to give customers “much more control over their lives,” the locations it will be rolling out first are telling. Five-hundred restaurants in Florida, New York and California have the automated machines, and the next targets are Chicago, Boston, San Francisco, Seattle and Washington, D.C.</p>
+<p><img class="alignnone size-full wp-image-460" src="http://blackhatconservative.com/wp-content/uploads/2016/11/mcdonalds-kiosk.jpg" alt="mcdonalds-kiosk" width="694" height="455" srcset="http://blackhatconservative.com/wp-content/uploads/2016/11/mcdonalds-kiosk.jpg 694w, http://blackhatconservative.com/wp-content/uploads/2016/11/mcdonalds-kiosk-300x197.jpg 300w, http://blackhatconservative.com/wp-content/uploads/2016/11/mcdonalds-kiosk-352x230.jpg 352w" sizes="(max-width: 694px) 100vw, 694px" /></p>
+<p><a href="https://www.ny.gov/programs/mario-cuomo-campaign-economic-justice" target="_blank">New York</a>, <a href="http://www.lexology.com/library/detail.aspx?g=03622618-486b-477c-b026-20ba7def0dee" target="_blank">Florida</a>, <a href="http://conservativetribune.com/liberal-seattle-minimum-wage/" target="_blank">Seattle</a>, <a href="http://does.dc.gov/service/wage-hour-compliance" target="_blank">Washington D.C.</a>, <a href="https://www.boston.com/news/politics/2016/04/05/mayor-walsh-15-minimum-wage-ma" target="_blank">Boston</a>, <a href="http://conservativetribune.com/calif-after-minimum-wage-hike/" target="_blank">Los Angeles</a> and <a href="http://conservativetribune.com/minimum-wage-real-world/" target="_blank">San Francisco</a> have already put into effect legislation that will raise the minimum wage, some to eventually reach the $15 mark. This means that almost every locale seeing these kiosks has decided against elementary economics and is about to find out exactly how that works for them.</p>
+<p>McDonald’s is <a href="http://conservativetribune.com/wendys-hammer-shocks-move/" target="_blank">far from the only chain</a> doing this, and it’s certainly not going to be the last. In fact, in addition to killing jobs, these minimum wage laws may also benefit large corporations the most.</p>
+<p>While these kiosks save money, few small businesses are going to be able to afford the initial investment  in the kind of tech development that companies like McDonald’s or Wendy’s are able to. They’d likely have to either buy the equipment at a huge markup with exorbitant licensing fees for the software, or simply go out of business because they can’t compete with the lower labor costs large corporations can deliver thanks to economies of scale.</p>
+<p>Way to go, “fight for $15.” You started out trying to turn minimum-wage burger-flipping jobs into a living wage. You may end up eliminating burger-flipping jobs entirely.</p>
+<p>H/T <a href="http://dailycaller.com/2016/11/18/fight-for-15-mcdonalds-to-place-automated-ordering-stations-at-all-us-locations/" target="_blank">The Daily Caller</a></p>
+<div id="wpdevar_comment_10" style="width:100%;text-align:left;">
+		<span style="padding: 10px;font-size:22px;font-family:Times New Roman,Times,Georgia,serif;color:#000000;">Facebook Comments</span>
+		<div class="fb-comments" data-href="http://blackhatconservative.com/mcdonalds-deals-blow-minimum-wage-protesters-automated-ordering-machines/" data-order-by="social" data-numposts="7" data-width="100%" style="display:block;"></div></div>
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="http://blackhatconservative.com/category/news/" rel="category tag">News</a> </span><span class="tags-links">Tagged <a href="http://blackhatconservative.com/tag/mcdonalds-kiosk/" rel="tag">mcdonalds kiosk</a>, <a href="http://blackhatconservative.com/tag/minimum-wage/" rel="tag">minimum wage</a>, <a href="http://blackhatconservative.com/tag/protesters/" rel="tag">protesters</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Posts navigation</h1>
+		<div class="nav-links">
+
+						<div class="nav-previous"><a href="http://blackhatconservative.com/page/2/" >Older posts <span class="meta-nav">&rarr;</span></a></div>
+			
+			
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+    	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="text-2" class="widget widget_text">			<div class="textwidget"><center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Black Hat - Right -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-1415542915907444"
+     data-ad-slot="8969315897"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br>
+<br>
+<div id="contentad265895"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "0a2f1d40-063a-4fb3-8844-00f491015f75",
+            d:  "YmxhY2toYXRjb25zZXJ2YXRpdmUuY29t",
+            wid: "265895",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad265895").appendChild(s);
+    })(document);
+</script>
+                    
+
+</center></div>
+		</aside>	</div><!-- #secondary -->
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	
+	<div class="site-footer-widgets ">
+        <div class="site-container">
+                        <ul>
+                <li id="text-4" class="widget widget_text">			<div class="textwidget">.</div>
+		</li>
+            </ul>
+	            		
+            <div class="clearboth"></div>
+        </div>
+    </div>
+	
+	<div class="site-footer-bottom-bar">
+	
+		<div class="site-container">
+			
+			<div class="site-footer-bottom-bar-left">
+
+             	Copyright 2016 by Black Hat Conservative 
+                
+			</div>
+	        
+	        <div class="site-footer-bottom-bar-right">
+                
+	            <ul id="menu-footer-menu" class="menu"><li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://blackhatconservative.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://blackhatconservative.com/term/">Terms and Conditions</a></li>
+</ul>                
+	        </div>
+	        
+	    </div>
+		
+        <div class="clearboth"></div>
+	</div>
+	
+</footer><!-- #colophon -->
+
+
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=&version=v2.3";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>	
+    <link rel='stylesheet' id='dashicons-css'  href='http://blackhatconservative.com/wp-includes/css/dashicons.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://blackhatconservative.com/wp-includes/js/thickbox/thickbox.css?ver=4.7.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tocplus = {"visibility_show":"show","visibility_hide":"hide","width":"Auto"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blackhatconservative.com/wp-content/plugins/table-of-contents-plus/front.min.js?ver=1509'></script>
+<script type='text/javascript' src='http://blackhatconservative.com/wp-content/themes/panoramic/library/js/navigation.js?ver=10.0.07'></script>
+<script type='text/javascript' src='http://blackhatconservative.com/wp-content/themes/panoramic/library/js/jquery.carouFredSel-6.2.1-packed.js?ver=10.0.07'></script>
+<script type='text/javascript' src='http://blackhatconservative.com/wp-content/themes/panoramic/library/js/custom.js?ver=10.0.07'></script>
+<script type='text/javascript' src='http://blackhatconservative.com/wp-content/themes/panoramic/library/js/skip-link-focus-fix.js?ver=10.0.07'></script>
+<script type='text/javascript' src='http://blackhatconservative.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/blackhatconservative.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blackhatconservative.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+
+<div id="back-to-top" class="">
+	<i class="fa fa-angle-up"></i>
+	<div class="hover"></div>
+</div>
+
+</body>
+</html>
