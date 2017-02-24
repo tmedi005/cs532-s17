@@ -1,0 +1,1349 @@
+<!doctype html>
+
+<html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+
+	<!-- Meta tag includes -->
+	<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta property="fb:app_id" content="201850419839100">
+<meta name="description" content="Anteris Alliance(2A): an organizational network of outdoor manufacturers and service providers bonded by their dedication to support our Veterans and First Responders and their families!">
+<meta name="keywords" content="Business News">
+<meta property="og:title" content="Anteris Alliance 'A Pillar of Patriots' welcomes PatriotList.US" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.officer.com/press_release/12308248/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus" />
+<meta property="og:image" content="http://r1.officer.com/files/media/www.officer.com/beta/site_logo_fb.png" />
+<meta property="og:image:width" content="50" />
+<meta property="og:image:height" content="50" />
+<meta property="og:site_name" content="Officer.com" />
+<meta property="og:description" content="Anteris Alliance(2A): an organizational network of outdoor manufacturers and service providers bonded by their dedication to support our Veterans and First Responders and their families!" />
+
+
+	<title>Anteris Alliance "A Pillar of Patriots" welcomes PatriotList.US</title>
+	<link href="http://r3.officer.com/files/media/www.officer.com/beta/favicon.ico" rel="shortcut icon" />
+
+	<link rel="apple-touch-icon-precomposed" href="http://r3.officer.com/files/media/www.officer.com/beta/icon.png" />
+	<meta name=viewport content="width=device-width, initial-scale=1, user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+	
+
+	<!-- Begin included scripts -->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://cygnus-ofcr.baseplatform.io/components/platform.min.js">
+
+{}
+
+</script>
+<script type="text/javascript" src="http://cygnus-d.openx.net/w/1.0/jstag"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript" src="http://www.officer.com/app/merrick/files/www.officer.com/js/c949704b048fe26ab01998aae1bc7a71.js"></script>
+
+	
+<script type="text/javascript">
+//<![CDATA[
+
+	   var default_fb_image = 'http://r1.officer.com/files/media/www.officer.com/beta/site_logo_fb.png';
+	
+
+
+var
+   librarySrc = 'http://olytics.cygnus.com/olytics.js?v=2',
+   initParams = [
+      ['_setEndPoint', '/cygnus/ofcr'],
+      ['_setTrackerDomain', 'http://olytics.cygnus.com'],
+      ['_setDomainName', 'officer.com'],
+   ];
+
+   Analytics.setTracker('_olytics', librarySrc, initParams);
+
+
+
+
+   var 
+      librarySrc = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js',
+      token = $.cookie('token'),
+      initParams = [
+        ['_setAccount', 'UA-21023777-1'],
+        ['_setDomainName', 'officer.com'],
+        ['_trackPageLoadTime'],
+      ];
+
+   if (token) 
+   {
+      initParams.push(['_setCustomVar', 5, 'User', token, 1]);
+   }
+   else
+   {
+      initParams.push(['_setCustomVar', 5, 'User', 'Anonymous', 1]);
+   }
+
+   Analytics.setTracker('_gaq', librarySrc, initParams);
+
+
+//]]>
+</script>
+
+	<!-- End included scripts -->
+
+	<!-- Begin included CSS -->
+	<link rel="stylesheet" type="text/css" href="http://www.officer.com/app/merrick/files/www.officer.com/css/a8b69105fe87f355daaafa9252a09d49.css" />
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arvo:400,700" />
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700" />
+
+	<!-- End included CSS -->
+
+	
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+    PlatformComponents.on('ready', function() {
+
+        // Redraw masonry when comments change.
+        PlatformComponents.on('Comments.render', function() {
+            Page.reloadGrid();
+            Content.setSidebarHeight();
+        })
+
+        // Show download buttons when a customer is logged in.
+        PlatformComponents.on('CustomerManager.customer.loaded', function(e) {
+
+            if (null !== PlatformComponents.getCustomer().id && undefined !== window.oTable) {
+                $('<strong>EXPORT RESULTS AS</strong>').appendTo($('#spec_search .export'));
+                window.oTable.buttons().container().appendTo( $('#spec_search .export'));
+            }
+        })
+
+        var hideModal = function() {
+            Navigation.closeMenus();
+            Page.hideOverlay();
+        }
+
+        PlatformComponents.on('SignIn.login', function() {
+            hideModal();
+        });
+        PlatformComponents.on('SignIn.logout', function() {
+            hideModal();
+        });
+        PlatformComponents.on('SignIn.register', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            window.location.pathname = '/reg/register/display';
+        });
+
+        // Force merrick logout on component logout.
+        PlatformComponents.on('CustomerManager.logout.success', function() {
+            $.cookie('auth', null, { domain: '.officer.com' });
+            $.cookie('ukey', null, { domain: '.officer.com' });
+            Navigation.closeMenus();
+        });
+
+        // Force merrick logout on component logout.
+        PlatformComponents.on('CustomerManager.login.success', function(e, response, payload) {
+            if (payload.hasOwnProperty('_username') && payload.hasOwnProperty('_password')) {
+                var data = 'email='+payload._username+'&pwd='+payload._password;
+                PlatformComponents.ajaxSend('/reg/login/submit', 'POST', data).then(function(response) {
+                    Navigation.closeMenus();
+                }, function(err) {
+                    Navigation.closeMenus();
+                });
+            }
+        });
+
+        // Send cookies with component checkAuth
+        PlatformComponents.registerCallback('checkAuth', function() {
+            // Send merrick auth cookies to check auth.
+            var headers = {
+            };
+            if ($.cookie('token') && $.cookie('ukey') && $.cookie('auth')) {
+                headers = {
+                    'X-Merrick-Token': $.cookie('token'),
+                    'X-Merrick-Auth': $.cookie('auth'),
+                    'X-Merrick-Ukey': $.cookie('token'),
+                };
+            }
+            headers['X-Merrick-User'] = true;
+            return headers;
+        });
+    });
+    PlatformComponents.init();
+
+
+
+	// set social provides as specified in config.php on a per site basis
+	Cygnus.social.providers = 'facebook,twitter,google,linkedin';
+
+	// set how often sponsorship positions should rotate back in with ROS
+	Cygnus.advertisement.frequencies.sponsor = 3;
+
+	Cygnus.advertisement.meta = {
+		aliases: {"498342":"BS","498346":"MR","498343":"HP","498347":"ML","498344":"LB","498349":"SL","498348":"PP","498351":"WP","498350":"TO","498352":"WA","498345":"MS"},
+		data: {"BS":{"width":970,"height":250,"excludeLayout":["1col","2col"]},"MR":{"width":300,"height":250},"HP":{"width":300,"height":600},"ML":{"width":320,"height":50,"excludeLayout":["2col","3col"]},"LB":{"width":728,"height":90,"excludeLayout":["1col","3col"]},"SL":{"width":970,"height":90,"excludeLayout":["1col","2col"]},"PP":{"width":500,"height":500,"excludeLayout":["1col"]},"WP":{"width":1658,"height":1058,"excludeLayout":["1col","2col"]},"WA":{"width":550,"height":480,"excludeLayout":["1col"]},"TO":{"width":1,"height":1,"excludeLayout":["1col"]},"MS":{"width":300,"height":50}},
+        adUnits: {"BS":498342,"MR":498346,"HP":498343,"ML":498347,"LB":498344,"SL":498349,"PP":498348,"WP":498351,"TO":498350,"WA":498352,"MS":498345}
+	};
+
+	Cygnus.advertisement.skips.sponsor = 3;
+
+    
+    Cygnus.advertisement.useAdUnitGroups = true;
+    Cygnus.advertisement.adUnitGroups.COL1.adUnitGroupId = 537064936;
+    Cygnus.advertisement.adUnitGroups.COL2.adUnitGroupId = 537064937;
+    Cygnus.advertisement.adUnitGroups.COL3.adUnitGroupId = 537064938;
+    
+
+});
+//]]>
+</script>
+
+	
+
+    
+            <script type="text/javascript">
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/southcommbusinessmedia-network/loader.js');
+</script>
+
+    
+</head>
+
+<body>
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+	
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Custom Ads -->
+<!-- Wallpaper Ad container -->
+<div id="ad_hug">
+	<div id="ad_hug_left"></div>
+	<div id="ad_hug_right"></div>
+</div>
+<!-- End Wallpaper Ad container -->
+
+<!-- TEST TAGS -->
+<!-- END TEST TAGS -->
+
+<div class="ad custom-ad ad-1658x1058 wallpaper-ad" data-ad-unit-trigger="onload" data-instance-id="c-12308248-p1" data-ad-unit-id="498351" data-ad-skip-fallback="true" id="openx_adunit_id__498351__1706837063"></div>
+<!-- Welcome Ad container -->
+<!-- End Welcome Ad container -->
+
+<!-- TEST TAGS -->
+<!-- END TEST TAGS -->
+
+<div class="ad custom-ad ad-550x480 welcome-ad" data-ad-unit-trigger="onload" data-instance-id="c-12308248-p1" data-ad-unit-id="498352" data-ad-skip-fallback="true" id="openx_adunit_id__498352__2058361020"></div>
+<!-- Page Peel Ad container -->
+<!-- End Page Peel Ad container -->
+
+<!-- TEST TAGS -->
+<!-- END TEST TAGS -->
+
+<div class="ad custom-ad ad-500x500 page-peel-ad" data-ad-unit-trigger="onload" data-instance-id="c-12308248-p1" data-ad-unit-id="498348" data-ad-skip-fallback="true" id="openx_adunit_id__498348__1430798580"></div>
+<!-- Page Peel Ad container -->
+<!-- End Page Peel Ad container -->
+
+<!-- TEST TAGS -->
+<!-- END TEST TAGS -->
+
+<div class="ad custom-ad ad-1x1 take-over-ad" data-ad-unit-trigger="onload" data-instance-id="c-12308248-p1" data-ad-unit-id="498350" data-ad-skip-fallback="true" id="openx_adunit_id__498350__1844927141"></div>
+<!-- End Custom Ads -->
+
+<div class="overlay page-overlay ghost"></div>
+<div class="loading loading-large page-loading ghost"></div>
+
+<header class="header fixed fixed-top">
+<div class="inner header-inner">
+<aside class="row full container alert-container header-top"></aside>
+
+
+	<div class="navigation-item brand-logo-container">
+																<a class="brand-logo" href="/" title="Officer.com Homepage">
+			<img src="http://r2.officer.com/files/media/www.officer.com/beta/site_logo.png" alt="" height="50" width="150">
+		</a>
+	</div>
+
+		<ul class="navigation navigation-primary">
+
+		<li class="navigation-item open-icon text-left">
+			<i class="icon icon-reorder"></i>
+			<span class="uppercase navigation-active">				
+				Channels			
+			</span>
+			<i class="icon icon-caret-down"></i>
+		</li>
+
+		
+	    
+<li class="navigation-item section-10364" data-alias="/firearms">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/firearms" class="navigation-link uppercase">Firearms</a-->
+	<a href="/firearms" class="navigation-link uppercase no-wrap">Firearms</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10365" data-alias="/tactical">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/tactical" class="navigation-link uppercase">Tactical</a-->
+	<a href="/tactical" class="navigation-link uppercase no-wrap">Tactical</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10366" data-alias="/training-careers">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/training-careers" class="navigation-link uppercase">Training & Careers</a-->
+	<a href="/training-careers" class="navigation-link uppercase no-wrap">Training & Careers</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10367" data-alias="/on-the-street">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/on-the-street" class="navigation-link uppercase">On The Street</a-->
+	<a href="/on-the-street" class="navigation-link uppercase no-wrap">On The Street</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10368" data-alias="/technology">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/technology" class="navigation-link uppercase">Technology</a-->
+	<a href="/technology" class="navigation-link uppercase no-wrap">Technology</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10369" data-alias="/investigations">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/investigations" class="navigation-link uppercase">Investigations</a-->
+	<a href="/investigations" class="navigation-link uppercase no-wrap">Investigations</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10370" data-alias="/command-hq">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/command-hq" class="navigation-link uppercase">Command/HQ</a-->
+	<a href="/command-hq" class="navigation-link uppercase no-wrap">Command/HQ</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-3996" data-alias="/directory">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/directory" class="navigation-link uppercase">Product Guide</a-->
+	<a href="/directory" class="navigation-link uppercase no-wrap">Product Guide</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-4002" data-alias="/http://forums.officer.com">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/http://forums.officer.com" class="navigation-link uppercase">Forums</a-->
+	<a href="http://forums.officer.com" class="navigation-link uppercase no-wrap">Forums</a>
+	<!-- </div> -->
+</li>
+
+
+	</ul>
+	
+	<div class="tooltip-container extras">
+		<ul id="tooltip-menu" class="tooltip-menu navigation-secondary">
+			
+			<li class="tooltip-item search">
+				<a class="tooltip-trigger search" href="#" title="Search Officer.com"><i class="icon-search"></i></a>
+				<ul class="tooltip-submenu pos-1">
+					<li class="nav-pointer pos-1"></li>
+					<li class="tooltip-item search">
+						<form action="/search" method="GET">
+							<input name="q" placeholder="Search" type="search" class="search">
+							<button class="button button-primary search-submit">Go</button>
+						</form>
+					</li>
+				</ul>
+			</li>
+
+			<li class="tooltip-item">
+				<a class="tooltip-trigger menu" href="#" title="Officer.com Menu">
+					<i class="icon-reorder"></i>
+					<span class="small bold uppercase">Menu</span>
+				</a>
+				<ul class="tooltip-submenu pos-2">
+					<li class="nav-pointer pos-2"></li>
+
+					<li class="navigation-header channels">Channels</li>
+
+					
+	    
+<li class="navigation-item section-10364" data-alias="/firearms">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/firearms" class="navigation-link uppercase">Firearms</a-->
+	<a href="/firearms" class="navigation-link uppercase no-wrap">Firearms</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10365" data-alias="/tactical">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/tactical" class="navigation-link uppercase">Tactical</a-->
+	<a href="/tactical" class="navigation-link uppercase no-wrap">Tactical</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10366" data-alias="/training-careers">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/training-careers" class="navigation-link uppercase">Training & Careers</a-->
+	<a href="/training-careers" class="navigation-link uppercase no-wrap">Training & Careers</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10367" data-alias="/on-the-street">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/on-the-street" class="navigation-link uppercase">On The Street</a-->
+	<a href="/on-the-street" class="navigation-link uppercase no-wrap">On The Street</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10368" data-alias="/technology">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/technology" class="navigation-link uppercase">Technology</a-->
+	<a href="/technology" class="navigation-link uppercase no-wrap">Technology</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10369" data-alias="/investigations">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/investigations" class="navigation-link uppercase">Investigations</a-->
+	<a href="/investigations" class="navigation-link uppercase no-wrap">Investigations</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10370" data-alias="/command-hq">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/command-hq" class="navigation-link uppercase">Command/HQ</a-->
+	<a href="/command-hq" class="navigation-link uppercase no-wrap">Command/HQ</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-3996" data-alias="/directory">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/directory" class="navigation-link uppercase">Product Guide</a-->
+	<a href="/directory" class="navigation-link uppercase no-wrap">Product Guide</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-4002" data-alias="/http://forums.officer.com">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/http://forums.officer.com" class="navigation-link uppercase">Forums</a-->
+	<a href="http://forums.officer.com" class="navigation-link uppercase no-wrap">Forums</a>
+	<!-- </div> -->
+</li>
+
+
+					<li class="navigation-header alt-color-3">Additional Resources</li>
+
+					<li class="navigation-item extras section-4023" data-alias="/features/honoring-the-fallen">
+	<!-- <div class="color-effect"> -->
+		<a href="/features/honoring-the-fallen"  class="tooltip-item uppercase">Honoring the Fallen</a>
+	<!-- </div> -->
+</li>
+<li class="navigation-item extras section-11583" data-alias="/the-oceanside-chronicles">
+	<!-- <div class="color-effect"> -->
+		<a href="/the-oceanside-chronicles"  class="tooltip-item uppercase">The Oceanside Chronicles</a>
+	<!-- </div> -->
+</li>
+<li class="navigation-item extras section-4021" data-alias="/features/by-contributor">
+	<!-- <div class="color-effect"> -->
+		<a href="/features/by-contributor"  class="tooltip-item uppercase">By Contributor</a>
+	<!-- </div> -->
+</li>
+<li class="navigation-item extras section-8800" data-alias="/blogs/industry-insights">
+	<!-- <div class="color-effect"> -->
+		<a href="/blogs/industry-insights"  class="tooltip-item uppercase">Industry Insights</a>
+	<!-- </div> -->
+</li>
+<li class="navigation-item extras section-3999" data-alias="/magazine">
+	<!-- <div class="color-effect"> -->
+		<a href="/magazine"  class="tooltip-item uppercase">Magazines</a>
+	<!-- </div> -->
+</li>
+<li class="navigation-item extras section-10795" data-alias="/whitepaper">
+	<!-- <div class="color-effect"> -->
+		<a href="/whitepaper"  class="tooltip-item uppercase">Whitepapers</a>
+	<!-- </div> -->
+</li>
+<li class="navigation-item extras section-10794" data-alias="/webinar">
+	<!-- <div class="color-effect"> -->
+		<a href="/webinar"  class="tooltip-item uppercase">Webinars</a>
+	<!-- </div> -->
+</li>
+<li class="navigation-item extras section-4000" data-alias="/events">
+	<!-- <div class="color-effect"> -->
+		<a href="/events"  class="tooltip-item uppercase">Events</a>
+	<!-- </div> -->
+</li>
+<li class="navigation-item extras section-4001" data-alias="/careers">
+	<!-- <div class="color-effect"> -->
+		<a href="/careers"  class="tooltip-item uppercase">Careers</a>
+	<!-- </div> -->
+</li>
+
+
+					<li class="navigation-header alt-color-1">User</li>
+
+					    <li class="platform-logout navigation-item extras"><a href="/reg/logout/submit" class="tooltip-item">Log Out</a></li>
+    <li class="platform-register navigation-item one-half extras"><a href="/reg/register/display" class="tooltip-item">Register</a></li>
+    <li class="platform-login navigation-item one-half extras"><a href="/reg/login/display" class="tooltip-item">Log In</a></li>
+
+	<li class="navigation-item one-half extras"><a href="/privacy-policy" class="tooltip-item">Privacy Policy</a></li>
+	<li class="navigation-item one-half extras"><a href="/terms-conditions" class="tooltip-item">Terms of Use</a></li>
+
+
+
+					<li class="navigation-header alt-color-2">Site Tools</li>
+					
+					<li class="navigation-item one-half extras"><a href="/reg/contact_us/display" class="tooltip-item">Contact Us</a></li>
+					<li class="navigation-item one-half extras"><a href="/advertise" class="tooltip-item">Advertise</a></li>
+					<!-- <li class="navigation-item extras"><a href="/sitemap" class="tooltip-item">Sitemap</a></li> -->
+
+				</ul>
+			</li>
+			
+		</ul>		
+	</div>
+
+
+<aside class="row full container alert-container header-bottom"></aside>
+</div>
+</header>
+
+<aside class="advertisement leaderboard variable-ad block body">
+
+	<div class="ad-container leaderboard-ad-container variable">
+
+		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="c-12308248-p1" data-ad-unit-id="498347" id="openx_adunit_id__498347__130830784"></div>
+
+		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="c-12308248-p1" data-ad-unit-id="498344" id="openx_adunit_id__498344__1464994408"></div>
+
+		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="c-12308248-p1" data-ad-unit-id="498342" id="openx_adunit_id__498342__1219508181"></div>
+
+	</div>
+	
+</aside>
+
+<div class="page-context" data-id="c-12308248-p1">
+<script type="text/javascript">
+//<![CDATA[
+   // Context Data
+      var pageContextData = {"ad_server":[["addVariable","env","live"],["addVariable","pathname","\/press_release\/12308248\/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus"],["addVariable","content_id","12308248"],["addVariable","content_type","press_release"],["addVariable","section_id","10370"],["addVariable","term_vocab_ids","16826"],["addVariable","company_id","12297411"],["addContentTopic",170]],"tracking":{"page":{"title":"Anteris Alliance \"A Pillar of Patriots\" welcomes PatriotList.US","description":"Anteris Alliance(2A): an organizational network of outdoor manufacturers and service providers bonded by their dedication to support our Veterans and First Responders and their families!","keywords":["Business News"],"url":"http:\/\/www.officer.com\/press_release\/12308248\/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus","uri":"\/press_release\/12308248\/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus","number":1,"type":"Content: Press Release"},"content":{"id":12308248,"type":"Press Release","primary_section_id":10370,"primary_section_name":"Command\/HQ","olytics":{"type":"content","clientId":12308248,"keyValues":{"name":"Anteris Alliance \"A Pillar of Patriots\" welcomes PatriotList.US","contentType":"Press Release","teaser":"Anteris Alliance(2A): an organizational network of outdoor manufacturers and service providers bonded by their dedication to support our Veterans and First Responders and their families!","primarySection":10370},"relatedTo":[{"type":"content","clientId":12297411,"keyValues":{"name":"Anteris Alliance","contentType":"Company","teaser":null,"datatraxId":null},"relFields":{"type":"parentCompany"}}]}},"taxonomy":[16826]}};
+   Page.setContextData("c-12308248-p1", pageContextData);
+//]]>
+</script>
+</div>
+
+<section class="grid-wrapper content-grid masonry clearfix">
+
+	<div class="grid-block w-6 content-wrapper full content-full" data-offset="58">
+						<article class="block w-4 pull-right content content-container single-content press_release" data-id="12308248" data-title="Anteris Alliance A Pillar of Patriots welcomes PatriotList.US" data-url="/press_release/12308248/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus" data-full-url="http://officer.com/press_release/12308248/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus" data-offset="59" data-description="Anteris Alliance(2A): an organizational network of outdoor manufacturers and service providers bonded by their dedication to support our Veterans and First Responders and their families!" data-primary-image="" data-type="press_release" id="content-12308248">
+
+	<div class="page-context" data-id="c-12308248-p1">
+<script type="text/javascript">
+//<![CDATA[
+   // Context Data
+      var pageContextData = {"ad_server":[["addVariable","env","live"],["addVariable","pathname","\/press_release\/12308248\/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus"],["addVariable","content_id","12308248"],["addVariable","content_type","press_release"],["addVariable","section_id","10370"],["addVariable","term_vocab_ids","16826"],["addVariable","company_id","12297411"],["addContentTopic",170]],"tracking":{"page":{"title":"Anteris Alliance \"A Pillar of Patriots\" welcomes PatriotList.US","description":"Anteris Alliance(2A): an organizational network of outdoor manufacturers and service providers bonded by their dedication to support our Veterans and First Responders and their families!","keywords":["Business News"],"url":"http:\/\/www.officer.com\/press_release\/12308248\/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus","uri":"\/press_release\/12308248\/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus","number":1,"type":"Content: Press Release"},"content":{"id":12308248,"type":"Press Release","primary_section_id":10370,"primary_section_name":"Command\/HQ","olytics":{"type":"content","clientId":12308248,"keyValues":{"name":"Anteris Alliance \"A Pillar of Patriots\" welcomes PatriotList.US","contentType":"Press Release","teaser":"Anteris Alliance(2A): an organizational network of outdoor manufacturers and service providers bonded by their dedication to support our Veterans and First Responders and their families!","primarySection":10370},"relatedTo":[{"type":"content","clientId":12297411,"keyValues":{"name":"Anteris Alliance","contentType":"Company","teaser":null,"datatraxId":null},"relFields":{"type":"parentCompany"}}]}},"taxonomy":[16826]}};
+   Page.setContextData("c-12308248-p1", pageContextData);
+//]]>
+</script>
+</div>
+
+	<header class="full content content-header">
+
+	<aside class="content content-details content-tags uppercase bold relative">
+
+			
+	
+				<span class="section-10370 content-filter">
+			<a class="tag" href="/command-hq">Command/HQ</a>
+		</span>
+	
+
+
+	</aside>
+
+    		
+	
+	
+<h1 class="content content-name press_release standard"> Anteris Alliance "A Pillar of Patriots" welcomes PatriotList.US </h1>
+
+
+
+	
+<cite class="content content-author normal uppercase standard clear-left">
+	<span class="author-name">
+	<!-- Article-->
+					Source: <a class="link content-link company-link" href='/company/12297411/anteris-alliance' title='Anteris Alliance'>Anteris Alliance</a>
+				Feb 22, 2017
+	
+	<!-- Company -->   
+	
+	</span>
+</cite>
+
+</header>
+
+
+	<!-- Gated By external Survey -->
+		    <!-- Gated content access -->
+	    
+
+		
+		<section class="full content content-body">
+	<div class="container">
+		<div id="content">
+					    <div id="my-tab-content" class="float-left full tab-content">
+		        <div class="tab-pane active" id="description-12308248">
+		            <aside class="one-half pull-right inline relative">
+
+																					
+										<a href="/reg/rmi/display/12308248" alt="Learn More Now about " target="_self" onCLick="Analytics.trackContentRMIButtonClick(12308248)">
+			<div class="block text-center rmi-container uppercase  pull-right"> Request more information </div>
+		</a>
+	
+													
+						
+						
+						<div class="block w-2 h-6 advertisement pull-right">
+
+<aside class="advertisement body variable-ad" data-type="advertisement">
+	<div class="ad-container body-ad-container">
+		<div class="ad body-ad ad-300x250" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="c-12308248-p1" data-ad-unit-id="498346" id="openx_adunit_id__498346__1767358511" data-ad-strict-view=""></div>
+	</div>
+</aside>
+
+</div>
+
+					</aside>
+
+					<div class="content-body">
+
+						<div class="block text-center share-container">
+							<div class="uppercase content-share" data-id="12308248" data-title="Anteris Alliance "A Pillar of Patriots" welcomes PatriotList.US" data-description="Anteris Alliance(2A): an organizational network of outdoor manufacturers and service providers bonded by their dedication to support our Veterans and First Responders and their families!" data-image="" data-url="/press_release/12308248/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus">
+
+<button class="btn btn-Facebook btn-share share" data-provider="facebook">
+	<i class="icon-Facebook"></i> | Share
+</button>
+
+<button class="btn btn-Twitter btn-share share" data-provider="twitter">
+	<i class="icon-Twitter"></i> | Share
+</button>
+
+<button class="btn btn-Pinterest btn-share share" data-provider="pinterest">
+	<i class="icon-Pinterest"></i> | Share
+</button>
+
+<button class="btn btn-LinkedIn btn-share share" data-provider="linkedin">
+	<i class="icon-LinkedIn"></i> | Share
+</button>
+
+</div>
+
+						</div>
+
+							
+							<div class="text_wrapper"><p>Post Falls, ID. February 2, 2017 – <a href="http://www.anterisalliance.com">www.anterisalliance.com</a> Anteris Alliance, LLC was founded in early 2017, based on the concept of companies working together to do more than they could accomplish by themselves from demonstrations, events, sales and ultimately Veterans and First Responder support. Already, with over 32 brands and counting, the mission has taken hold at every level. Whether as a manufacturer or service provider, a buyer, or a patriot there is a way for everyone to be part of this great mission!</p>
+<p>PatriotList.US is a closed loop safe and secure version of Craigslist for the Military, Veteran, and Government communities that verifies the identity of each user and utilizes trusted peer to peer payment systems for added safety. When we found out that a consortium of veteran and first responder supporting companies was being brought together to leverage expertise and marketing networks to benefit the active duty, veteran, and first responder community we knew it would be a perfect match with our mission as a company.</p>
+<p>Patriot List pledges to provide a mobile first market platform for members of the Alliance to sell their retail products directly to members of the military and veteran communities. The Patriot List unique mobile application and website provides “Trust” and “Reputation” to a unique closed loop P2P marketplace that is required for our Veteran and Active duty communities to stay safe when buying and selling online.</p>
+<p>“Technological and social innovation are evolutionary processes that are central to economic growth and change. An alliance of companies that share similar values working together to serve a market segment that shares those same values is a recipe for success.” Colin Supko (Founder PatriotList.US)</p><p>“It has been amazing to see young companies with amazing new concepts for service a target audience come into the market! Patriot List, being Veteran owned, and dedicated to generating a safe place for every day commerce peer to peer, is definitely on the cutting edge of business function, and like the Alliance are leaning forward to provide smarter business models. We could not be more excited to have them on board with the Anteris Alliance,” – stated Casey Betzold, CEO of Anteris Alliance.</p>
+<p>Interested Manufacturers and Service Providers, Dealers, and Individuals can visit <a href="http://www.anterisalliance.com">www.anterisalliance.com</a> for more details and follow Anteris Alliance on social media on all major platforms – <a href="http://www.facebook.com/anterisalliance">Facebook</a>, <a href="http://www.instagram.com/anterisalliance">Instagram</a>, <a href="http://www.twitter.com/anterisalliance">Twitter</a>!</p></div>
+
+					</div>
+
+                                            <div class="taboola">
+                            <div id="taboola-below-article-c-12308248-p1"></div>
+                            <script type="text/javascript">
+
+                            	var context = {"ad_server":[["addVariable","env","live"],["addVariable","pathname","\/press_release\/12308248\/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus"],["addVariable","content_id","12308248"],["addVariable","content_type","press_release"],["addVariable","section_id","10370"],["addVariable","term_vocab_ids","16826"],["addVariable","company_id","12297411"],["addContentTopic",170]],"tracking":{"page":{"title":"Anteris Alliance \"A Pillar of Patriots\" welcomes PatriotList.US","description":"Anteris Alliance(2A): an organizational network of outdoor manufacturers and service providers bonded by their dedication to support our Veterans and First Responders and their families!","keywords":["Business News"],"url":"http:\/\/www.officer.com\/press_release\/12308248\/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus","uri":"\/press_release\/12308248\/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus","number":1,"type":"Content: Press Release"},"content":{"id":12308248,"type":"Press Release","primary_section_id":10370,"primary_section_name":"Command\/HQ","olytics":{"type":"content","clientId":12308248,"keyValues":{"name":"Anteris Alliance \"A Pillar of Patriots\" welcomes PatriotList.US","contentType":"Press Release","teaser":"Anteris Alliance(2A): an organizational network of outdoor manufacturers and service providers bonded by their dedication to support our Veterans and First Responders and their families!","primarySection":10370},"relatedTo":[{"type":"content","clientId":12297411,"keyValues":{"name":"Anteris Alliance","contentType":"Company","teaser":null,"datatraxId":null},"relFields":{"type":"parentCompany"}}]}},"taxonomy":[16826]}},
+                            	taboola_container_id = "taboola-below-article-c-12308248-p1";
+
+                            	
+                                window._taboola = window._taboola || [];
+                                _taboola.push({mode:'thumbnails-a', container: taboola_container_id, placement: 'Below Article Thumbnails', target_type: 'mix'});
+                                _taboola.push({article:'auto', url: context.tracking.page.url});
+                                
+                            </script>
+                        </div>
+                    
+
+											        <div id="platformComments" data-identifier="Content|12308248"></div>
+    
+					
+		        </div>
+
+		        		    </div>
+		</div>
+	</div>
+</section>
+<button class="pagination-controls full tall default-bg text-center uppercase bold clickable hidden button" onCLick="Analytics.trackContentContinueReading(12308248)">
+	<i class="icon-refresh"></i> Continue Reading
+</button>
+
+<script>
+$(function() {
+	paginationInit(12308248);
+})
+</script>
+
+	
+	<footer class="full content content-footer">
+
+</footer>
+
+</article>
+
+
+    
+<aside class="block w-2 pull-left list-wrapper content-related sidebar sidebar-left sticky-top" data-container=".content-wrapper">
+	<ul class="navigation navigation-primary">
+
+		<li class="navigation-item text-left">
+			<span class="uppercase">
+				&nbsp;&nbsp;Command/HQ
+			</span>
+		</li>
+
+	</ul>
+
+
+	<article class="block content content-block list-content full active" data-id="12308248">
+
+	<aside class="content content-details content-tags bold uppercase">
+			
+	
+				<span class="section-10370 content-filter">
+			<a class="tag" href="/command-hq">Command/HQ</a>
+		</span>
+	
+
+	</aside>
+ 
+
+
+<h2 class="content content-name press_release list float-left related">
+	
+	<a class="link content-link content-name-link content-ajax" href="/press_release/12308248/anteris-alliance-a-pillar-of-patriots-welcomes-patriotlistus" title="Anteris Alliance A Pillar of Patriots welcomes PatriotList.US"> Anteris Alliance "A Pillar of Patriots" welcomes PatriotList.US </a>
+
+</h2>
+
+
+ 
+ 
+</article>
+
+	
+		<article class="block content content-block list-content full" data-id="12297411">
+
+	<aside class="content content-details content-tags bold uppercase">
+			
+	
+				<span class="section-3996 content-filter">
+			<a class="tag" href="/directory">Product Guide</a>
+		</span>
+	
+
+	</aside>
+ 
+
+
+<h2 class="content content-name company list float-left related">
+	
+	<a class="link content-link content-name-link content-ajax" href="/company/12297411/anteris-alliance" title="Anteris Alliance"> Anteris Alliance </a>
+
+</h2>
+
+
+ 
+ 
+</article>
+
+	
+		<article class="block content content-block list-content full" data-id="12294833">
+
+	<aside class="content content-details content-tags bold uppercase">
+			
+	
+				<span class="section-10368 content-filter">
+			<a class="tag" href="/technology">Technology</a>
+		</span>
+	
+
+	</aside>
+ 
+<figure class="content content-image-container float-left inline container" data-id="12294833">
+
+	<a  class="link content-link content-image-link content-ajax" href="/article/12294833/virtual-fences-a-force-multiplier-that-protects-and-serves" title="Virtual Fences: A Force Multiplier that Protects and Serves">		<img alt="Virtual Fences: A Force Multiplier that Protects and Serves" src="http://r1.officer.com/files/base/OFCR/image/2017/01/16x9/112x63/F0F0F0/Gray_Reaper_aerial.58791f110fee1.jpg" class="content-image float-left inline float-left img-112x63 loaded">
+
+				
+	</a>
+</figure>
+
+
+<h2 class="content content-name article list float-left related">
+	
+	<a class="link content-link content-name-link content-ajax" href="/article/12294833/virtual-fences-a-force-multiplier-that-protects-and-serves" title="Virtual Fences: A Force Multiplier that Protects and Serves"> Virtual Fences: A Force Multiplier that Protects and Serves </a>
+
+</h2>
+
+
+ 
+ 
+</article>
+
+	
+		<article class="block content content-block list-content full" data-id="12291284">
+
+	<aside class="content content-details content-tags bold uppercase">
+			
+	
+				<span class="section-10368 content-filter">
+			<a class="tag" href="/technology">Technology</a>
+		</span>
+	
+
+	</aside>
+ 
+<figure class="content content-image-container float-left inline container" data-id="12291284">
+
+	<a  class="link content-link content-image-link content-ajax" href="/article/12291284/what-to-do-with-old-police-vehicles" title="What to do With  Old Police Vehicles?">		<img alt="What to do With  Old Police Vehicles?" src="http://r3.officer.com/files/base/OFCR/image/2016/09/16x9/112x63/F0F0F0/100_0986.57ec28abc18fb.jpg" class="content-image float-left inline float-left img-112x63 loaded">
+
+				
+	</a>
+</figure>
+
+
+<h2 class="content content-name article list float-left related">
+	
+	<a class="link content-link content-name-link content-ajax" href="/article/12291284/what-to-do-with-old-police-vehicles" title="What to do With  Old Police Vehicles?"> What to do With  Old Police Vehicles? </a>
+
+</h2>
+
+
+ 
+ 
+</article>
+
+	
+		<article class="block content content-block list-content full" data-id="12291227">
+
+	<aside class="content content-details content-tags bold uppercase">
+			
+	
+				<span class="section-10370 content-filter">
+			<a class="tag" href="/command-hq">Command/HQ</a>
+		</span>
+	
+
+	</aside>
+ 
+
+
+<h2 class="content content-name article list float-left related">
+	
+	<a class="link content-link content-name-link content-ajax" href="/article/12291227/veterans-in-prison" title="Veterans in Prison"> Veterans in Prison </a>
+
+</h2>
+
+
+ 
+ 
+</article>
+
+	
+		<article class="block content content-block list-content full" data-id="12307953">
+
+	<aside class="content content-details content-tags bold uppercase">
+			
+	
+				<span class="section-10370 content-filter">
+			<a class="tag" href="/command-hq">Command/HQ</a>
+		</span>
+	
+
+	</aside>
+ 
+
+
+<h2 class="content content-name article list float-left related">
+	
+	<a class="link content-link content-name-link content-ajax" href="/article/12307953/changing-times-changing-gear-and-how-it-plays-with-the-public" title="Changing Times, Changing Gear, and How It Plays with the Public"> Changing Times, Changing Gear, and How It Plays with the Public </a>
+
+</h2>
+
+
+ 
+ 
+</article>
+
+	
+		<article class="block content content-block list-content full" data-id="12307939">
+
+	<aside class="content content-details content-tags bold uppercase">
+			
+	
+				<span class="section-10370 content-filter">
+			<a class="tag" href="/command-hq">Command/HQ</a>
+		</span>
+	
+
+	</aside>
+ 
+<figure class="content content-image-container float-left inline container" data-id="12307939">
+
+	<a  class="link content-link content-image-link content-ajax" href="/article/12307939/reasons-why-good-dispatchers-leave-and-how-to-keep-them" title="Reasons Why Good Dispatchers Leave (And How to Keep Them)">		<img alt="Reasons Why Good Dispatchers Leave (And How to Keep Them)" src="http://r2.officer.com/files/base/OFCR/image/2016/12/16x9/112x63/F0F0F0/Emergency_Comms_default_carousel.584ff25be6b24.jpg" class="content-image float-left inline float-left img-112x63 loaded">
+
+				
+	</a>
+</figure>
+
+
+<h2 class="content content-name article list float-left related">
+	
+	<a class="link content-link content-name-link content-ajax" href="/article/12307939/reasons-why-good-dispatchers-leave-and-how-to-keep-them" title="Reasons Why Good Dispatchers Leave (And How to Keep Them)"> Reasons Why Good Dispatchers Leave (And How to Keep Them) </a>
+
+</h2>
+
+
+ 
+ 
+</article>
+
+	
+		<article class="block content content-block list-content full" data-id="12307908">
+
+	<aside class="content content-details content-tags bold uppercase">
+			
+	
+				<span class="section-10370 content-filter">
+			<a class="tag" href="/command-hq">Command/HQ</a>
+		</span>
+	
+
+	</aside>
+ 
+<figure class="content content-image-container float-left inline container" data-id="12307908">
+
+	<a  class="link content-link content-image-link content-ajax" href="/news/12307908/california-police-chief-after-officers-death-enough-is-enough" title="Chief After Officer's Death: 'Enough is Enough'">		<img alt="Chief After Officer's Death: 'Enough is Enough'" src="http://r1.officer.com/files/base/OFCR/image/2017/02/16x9/112x63/F0F0F0/US_NEWS_CALIF_OFFICERSHOT_1_LA.58ad77c6d563e.jpg" class="content-image float-left inline float-left img-112x63 loaded">
+
+				
+	</a>
+</figure>
+
+
+<h2 class="content content-name news list float-left related">
+	
+	<a class="link content-link content-name-link content-ajax" href="/news/12307908/california-police-chief-after-officers-death-enough-is-enough" title="Chief After Officer's Death: 'Enough is Enough'"> Chief After Officer's Death: 'Enough is Enough' </a>
+
+</h2>
+
+
+ 
+ 
+</article>
+
+	
+		<article class="block content content-block list-content full" data-id="12307904">
+
+	<aside class="content content-details content-tags bold uppercase">
+			
+	
+				<span class="section-10370 content-filter">
+			<a class="tag" href="/command-hq">Command/HQ</a>
+		</span>
+	
+
+	</aside>
+ 
+<figure class="content content-image-container float-left inline container" data-id="12307904">
+
+	<a  class="link content-link content-image-link content-ajax" href="/news/12307904/texas-sheriff-ends-controversial-ice-partnership" title="Sheriff Ends Controversial ICE Partnership">		<img alt="Sheriff Ends Controversial ICE Partnership" src="http://r3.officer.com/files/base/OFCR/image/2017/02/16x9/112x63/F0F0F0/texassheriff.58ad7e43a3ff7.jpg" class="content-image float-left inline float-left img-112x63 loaded">
+
+				
+	</a>
+</figure>
+
+
+<h2 class="content content-name news list float-left related">
+	
+	<a class="link content-link content-name-link content-ajax" href="/news/12307904/texas-sheriff-ends-controversial-ice-partnership" title="Sheriff Ends Controversial ICE Partnership"> Sheriff Ends Controversial ICE Partnership </a>
+
+</h2>
+
+
+ 
+ 
+</article>
+
+	
+		<article class="block content content-block list-content full" data-id="12307922">
+
+	<aside class="content content-details content-tags bold uppercase">
+			
+	
+				<span class="section-10370 content-filter">
+			<a class="tag" href="/command-hq">Command/HQ</a>
+		</span>
+	
+
+	</aside>
+ 
+<figure class="content content-image-container float-left inline container" data-id="12307922">
+
+	<a  class="link content-link content-image-link content-ajax" href="/news/12307922/massachusetts-police-forced-to-end-high-five-fridays" title="Mass. Police Forced to End 'High-Five Fridays'">		<img alt="Mass. Police Forced to End 'High-Five Fridays'" src="http://r1.officer.com/files/base/OFCR/image/2017/02/16x9/112x63/F0F0F0/highfive.58ad8ddbadb9a.jpg" class="content-image float-left inline float-left img-112x63 loaded">
+
+				
+	</a>
+</figure>
+
+
+<h2 class="content content-name news list float-left related">
+	
+	<a class="link content-link content-name-link content-ajax" href="/news/12307922/massachusetts-police-forced-to-end-high-five-fridays" title="Mass. Police Forced to End 'High-Five Fridays'"> Mass. Police Forced to End 'High-Five Fridays' </a>
+
+</h2>
+
+
+ 
+ 
+</article>
+
+	
+		<article class="block content content-block list-content full" data-id="12307830">
+
+	<aside class="content content-details content-tags bold uppercase">
+			
+	
+				<span class="section-10370 content-filter">
+			<a class="tag" href="/command-hq">Command/HQ</a>
+		</span>
+	
+
+	</aside>
+ 
+<figure class="content content-image-container float-left inline container" data-id="12307830">
+
+	<a  class="link content-link content-image-link content-ajax" href="/news/12307830/trump-administration-expands-dhs-authority-in-deportation-of-illegal-immigrants" title="Trump Administration Expands the Authority DHS  Has in Deportation of Illegal Immigrants">		<img alt="Trump Administration Expands the Authority DHS  Has in Deportation of Illegal Immigrants" src="http://r1.officer.com/files/base/OFCR/image/2017/02/16x9/112x63/F0F0F0/ice.58acc4d71ff11.jpg" class="content-image float-left inline float-left img-112x63 loaded">
+
+				
+	</a>
+</figure>
+
+
+<h2 class="content content-name news list float-left related">
+	
+	<a class="link content-link content-name-link content-ajax" href="/news/12307830/trump-administration-expands-dhs-authority-in-deportation-of-illegal-immigrants" title="Trump Administration Expands the Authority DHS  Has in Deportation of Illegal Immigrants"> Trump Administration Expands the Authority DHS  Has in Deportation of Illegal Immigrants </a>
+
+</h2>
+
+
+ 
+ 
+</article>
+
+	
+
+
+</aside>
+
+
+		
+
+	</div>
+
+
+	
+		
+<div class="block grid-block full h-10 dynamic-trigger loading loading-medium text-center clickable block body" data-src="/command-hq?action=get_section_body" data-page="1" data-offset="250" data-trigger="continuous" data-type="trigger"  data-url="">
+	<h4 class="title large">Loading</h4>
+</div>
+
+<!-- data-types="article|news|press_release|product|company"  -->
+
+	
+</section>
+
+
+<div class="footer-nav block full">
+	<div class="block w-6 footer-elements">
+		<div class="block logos">
+			<div class="logo">
+				<a class="brand-logo" href="/">
+					<img src="http://r1.officer.com/files/media/www.officer.com/beta/site_logo_gray.png" class="grayscale" border="0" alt=" Logo" height="50" width="150"/>
+				</a>
+			</div>
+			
+			
+											<div class="logo">
+					<a class="brand-logo" href="/magazine/let">
+						<img src="http://r1.officer.com/files/media/www.officer.com/beta/let_gray.png" class="grayscale" border="0" alt="let Logo" height="50" width="150"/>
+					</a>
+				</div>
+																			<div class="logo">
+					<a class="brand-logo" href="/magazine/lepn">
+						<img src="http://r1.officer.com/files/media/www.officer.com/beta/lepn_gray.png" class="grayscale" border="0" alt="lepn Logo" height="50" width="150"/>
+					</a>
+				</div>
+													</div>
+		<div class="block grid-block">
+			<ul class="secondary-navigation list relative clear">
+				
+	    
+<li class="navigation-item section-10364" data-alias="/firearms">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/firearms" class="navigation-link uppercase">Firearms</a-->
+	<a href="/firearms" class="navigation-link uppercase no-wrap">Firearms</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10365" data-alias="/tactical">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/tactical" class="navigation-link uppercase">Tactical</a-->
+	<a href="/tactical" class="navigation-link uppercase no-wrap">Tactical</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10366" data-alias="/training-careers">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/training-careers" class="navigation-link uppercase">Training & Careers</a-->
+	<a href="/training-careers" class="navigation-link uppercase no-wrap">Training & Careers</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10367" data-alias="/on-the-street">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/on-the-street" class="navigation-link uppercase">On The Street</a-->
+	<a href="/on-the-street" class="navigation-link uppercase no-wrap">On The Street</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10368" data-alias="/technology">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/technology" class="navigation-link uppercase">Technology</a-->
+	<a href="/technology" class="navigation-link uppercase no-wrap">Technology</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10369" data-alias="/investigations">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/investigations" class="navigation-link uppercase">Investigations</a-->
+	<a href="/investigations" class="navigation-link uppercase no-wrap">Investigations</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-10370" data-alias="/command-hq">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/command-hq" class="navigation-link uppercase">Command/HQ</a-->
+	<a href="/command-hq" class="navigation-link uppercase no-wrap">Command/HQ</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-3996" data-alias="/directory">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/directory" class="navigation-link uppercase">Product Guide</a-->
+	<a href="/directory" class="navigation-link uppercase no-wrap">Product Guide</a>
+	<!-- </div> -->
+</li>
+
+	    
+<li class="navigation-item section-4002" data-alias="/http://forums.officer.com">
+	<!-- <div class="color-effect"> -->
+	<!--a href="/http://forums.officer.com" class="navigation-link uppercase">Forums</a-->
+	<a href="http://forums.officer.com" class="navigation-link uppercase no-wrap">Forums</a>
+	<!-- </div> -->
+</li>
+
+				<li class="clear"></li>
+				    <li class="platform-logout navigation-item extras"><a href="/reg/logout/submit" class="tooltip-item">Log Out</a></li>
+    <li class="platform-register navigation-item one-half extras"><a href="/reg/register/display" class="tooltip-item">Register</a></li>
+    <li class="platform-login navigation-item one-half extras"><a href="/reg/login/display" class="tooltip-item">Log In</a></li>
+
+	<li class="navigation-item one-half extras"><a href="/privacy-policy" class="tooltip-item">Privacy Policy</a></li>
+	<li class="navigation-item one-half extras"><a href="/terms-conditions" class="tooltip-item">Terms of Use</a></li>
+
+				<li class="navigation-item one-half extras"><a href="/reg/contact_us/display" class="tooltip-item">Contact Us</a></li>
+				<li class="navigation-item one-half extras"><a href="/advertise" class="tooltip-item">Advertise</a></li>
+				<li class="navigation-item extras"><a href="/sitemap" class="tooltip-item">Sitemap</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="clearfix">&nbsp;</div>
+
+<footer class="footer page-footer fixed">
+
+<aside class="row full container alert-container footer-top"></aside>
+
+
+<aside class="advertisement leaderboard variable-ad ">
+
+	<div class="ad-container leaderboard-ad-container variable">
+
+		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="c-12308248-p1" data-ad-unit-id="498347" id="openx_adunit_id__498347__1066745458"></div>
+
+		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="c-12308248-p1" data-ad-unit-id="498344" id="openx_adunit_id__498344__1802069013"></div>
+
+		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="c-12308248-p1" data-ad-unit-id="498349" id="openx_adunit_id__498349__545073352"></div>
+
+	</div>
+	
+</aside>
+
+
+<aside class="row full container alert-container footer-bottom"></aside>
+
+
+
+    <iframe src="https://5326342.fls.doubleclick.net/activityi;src=5326342;type=south0;cat=offic0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+
+
+<script src="//fast.wistia.com/static/embed_shepherd-v1.js"></script>
+<script>
+//<![CDATA[
+wistiaEmbeds.onFind(function(video) {
+  var email = Wistia.localStorage("golden-ticket");
+  if (email) {
+    video.setEmail(email);
+  }
+});
+wistiaEmbeds.bind("conversion", function(video, type, data) {
+  if (/^(pre|mid|post)-roll-email$/.test(type)) {
+    Wistia.localStorage("golden-ticket", data);
+    for (var i = 0; i < wistiaEmbeds.length; i++) {
+      wistiaEmbeds[i].setEmail(data);
+    }
+  }
+});
+//]]>
+</script>
+
+
+
+</footer>
+
+
+
+
+
+
+
+	<script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://www.officer.com/app/merrick/files/www.officer.com/js/f5f488921506a271f0fd98853dd4ac25.js"></script>
+
+	
+
+			<script type="text/javascript">
+adroll_adv_id = "GWKNX2IBJRG6LPQBNDPJEO";
+adroll_pix_id = "Z6WGN3QJUJCUJDO6ZW36PK";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+	</body>
+
+</html>

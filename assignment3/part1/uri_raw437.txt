@@ -1,0 +1,2549 @@
+<!DOCTYPE html>
+   
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+    <title>Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech - YourStory.com    </title>
+    <!-- google tag manager tracking -->
+      <script type="text/javascript" charset="utf-8">
+  dataLayer = [];    
+          dataLayer.push({
+        authorName: 'Vishal Krishna',
+        articleCategory: 'Start Up India|Startup|Startup India',
+        articleTitle: 'Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech',
+        publicationYear: '2017',
+        publicationMonth: 'January',
+        publicationDate: '17',
+        language: 'English',
+        videoUrl: 'false',
+        articleLength: '1041',
+        tags: '5Barz|airtel|Daniel Bland|iot|Mindtree CEO|Samartha Nagabhushanam|Vodafone|Wi-Fi'
+    });
+      dataLayer.push({
+    tvc_cg_active_menu: 'YOURSTORY' 
+  });
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T276MZ');</script>
+<!-- End Google Tag Manager -->
+    <!-- google tag manager tracking end -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=0"/>
+    <meta property="fb:app_id" content="252967394737645"/>
+    <meta name="blitz" content="mu-f6a64b82-81143d4b-f2e87d35-dc8bc8ab">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" >
+
+    
+      <meta property="al:ios:url" content="ysApp://openarticle?site=YOURSTORY&article_id=248595&title=Stop+call+drops+with+5BARz%3A+Daniel+and+Samartha+explain+why+it+takes+years+to+perfect+tech&featured_image_url=https%3A%2F%2Fd25medu75j19j3.cloudfront.net%2Fwp-content%2Fuploads%2F2017%2F01%2FDanielBland-300x153.jpg" />
+      <meta property="al:ios:app_store_id" content="918399830" />
+      <meta property="al:ios:app_name" content="YourStory" />
+
+      <meta property="al:android:url" content="ysApp://openarticle?site=YOURSTORY&article_id=248595&title=Stop+call+drops+with+5BARz%3A+Daniel+and+Samartha+explain+why+it+takes+years+to+perfect+tech&featured_image_url=https%3A%2F%2Fd25medu75j19j3.cloudfront.net%2Fwp-content%2Fuploads%2F2017%2F01%2FDanielBland-300x153.jpg" />
+      <meta property="al:android:package" content="com.yslabs.yourstory" />
+      <meta property="al:android:app_name" content="YourStory" />
+
+        <!-- instant article id for yourstory-->
+    <meta property="fb:pages" content="467687645161" />
+    <!-- instant article id for socialstory-->
+    <meta property="fb:pages" content="111847538978830" />
+    <!-- instant article id for herstory-->
+    <meta property="fb:pages" content="321018914709839" />
+    <link rel="shortcut icon" href="https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/favicon.ico" />
+    <!--[if lte IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://yourstory.com/xmlrpc.php">
+    <!-- DEPLOYTD -->
+
+    <link href="https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/css/style.css?ver=31.7" rel="stylesheet">
+    <link href="https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/css/share.css?ver=1.0" rel="stylesheet">
+    <style type="text/css">
+   .ads_placeholder {
+        display:none; 
+   }
+   .sectionNavigation .logo-socialStory {
+       background-image: url("https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/images/logo_social_story.png");
+   }
+
+   .sectionNavigation .makeinindia{
+      	width: 120px; background-repeat: no-repeat;
+        background-position: center;
+      	background-size: 86px 40px;
+      	background-image: url("https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/images/icons/MIN.png");
+    }
+
+  .sectionNavigation .googleapp{
+        width: 98px; background-repeat: no-repeat;
+        background-position: center;
+        background-size: 88px 30px;
+        background-image: url("https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/images/icons/GooglePlay-Large.png");
+		float: left;
+   		 height: 40px;
+    }
+
+  .sectionNavigation .appleapp{
+      width: 98px; background-repeat: no-repeat;
+      background-position: center;
+      background-size: 88px 30px;
+      background-image: url("https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/images/icons/AppleStore-Large.png");
+	  float: left;
+   		 height: 40px;
+  }
+
+  .sectionApp .navigation .appicon{
+    height:52px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    max-width:48px;
+    background-image: url("https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/images/icons/48x48-icon.png");
+    background-size:contain;
+  }
+
+  .sectionApp .navigation .appdesc{
+    height:52px;
+    display: table;
+    margin: 0 auto;
+    
+
+  }
+
+  .sectionApp .navigation .appdesc p{
+    display: table-cell;
+    vertical-align: middle;
+
+  }
+
+  .sectionApp .navigation .googleplay{
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-image: url("https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/images/icons/Open_in_app.png");
+    height: 34px;
+    margin-top: 9px;
+    background-size:contain;
+  }
+
+  .sectionNavigation.show-nav.mob .navWrapper { margin-top: 0; top: 135px; }
+  .sectionApp .navigation .applestore{
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-image: url("https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/images/icons/Open_in_app.png");
+    height: 34px;
+    margin-top: 9px;
+    background-size:contain;
+  }
+
+  .sectionNavigation .blockRight .navigation{
+      list-style: none;
+      margin-left:5px;
+  }
+
+  .sectionApp .navigation{
+      list-style: none;
+  }
+
+ .sectionApp .navigation li
+  {
+      float: left;
+      vertical-align: middle;
+  }
+
+  .sectionApp .navigation li a
+  {
+    display: block;
+    height:52px;
+  }
+
+  .sectionNavigation .searchLink{
+      margin-left:20px;
+  }
+
+    .sectionSearchBar .searchBar {
+      color:black;
+    }
+    body.ys-tv .pagesNav li a.active {
+  	background-color: #8600E5;
+    } 
+    body.ys-tv .pagesNav li a:hover {
+ 	 background-color: #8600E5;
+    }
+ 
+    .sectionYsTv_trendingVideos .videosList .videoWrapper img {
+         width: 100%;
+         max-height: 100%;
+         max-width: 100%;
+    }  
+   #fbSEOComments {
+	z-index:0;
+   }
+   #mobile_only_banner {
+    position:fixed;
+    bottom:0px;
+    left:0px;
+    right:0px;
+   /* height:50px;*/
+    text-align:center;
+    display:none;
+   } 
+   .desktop_hide {
+    display:none;  
+   }
+    @media screen and (max-width: 500px) {
+       #mobile_only_banner {
+        display:block; 
+       }
+    }
+    .sectionNavigation .navigation > li.ysPages > a {
+      background-size: auto 28px;
+    }
+    @media screen and (min-width: 480px) {
+       .sectionYsTv_videoWrapper_FACEBOOK {
+        height:500px; 
+       }
+       .mainImgWrapper_FACEBOOK {
+            text-align:center;
+       }
+    }
+    @media  screen and (max-width: 480px) {
+        .sectionYsTv_videoWrapper_FACEBOOK {
+          height: 310px;
+        } 
+
+    }
+    @media only screen and (max-width: 767px){
+      .phn-grid-half { width: 50% !important; }
+    }
+    @media only screen and (max-width: 980px){
+       .desktop_hide {
+        display:block;  
+       }
+    }
+    .sectionHeader .sectionApp{
+        font-size: 13px; line-height: 13px;
+        color: #C3C3C3;
+        background-color: #383737;
+        position:relative;
+	z-index:8;    
+    }
+    .sectionHeader .sectionApp a{
+        color: #fff;       
+     }
+     .sectionHeader .sectionApp a span{
+        padding-top: 1px;  
+     }
+
+     .grid-three-seventh { 
+        width: 42.85%; 
+        display: inline;
+        position: relative;
+    }
+
+    .grid-one-seventh { 
+        width: 14.29%; 
+        display: inline;
+        position: relative;
+        padding-right: 1.5%;
+    }
+    .sectionNavigation .navigation > li.ysugc > a {
+        width: 180px;
+        margin-top:-2px;
+        background-repeat: no-repeat;
+        background-size: auto 18px;
+        background-image: url("https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/images/logo_ysugc.png");
+    }
+     .sectionNavigation .navigation > li.ysstartupindia > a {
+        width: 160px;
+        margin-top:2px;
+        background-repeat: no-repeat;
+        background-size: auto 35px;
+        background-image: url("https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/images/StartupIndia-new.png");
+    }
+    .HERSTORY_write_btn {
+         background-color: #E91E63;
+
+    }
+    .SOCIALSTORY_write_btn {
+         background-color: #53B560;
+         background-image: none;
+    }
+    .ys_post_content ul li,.ys_post_content ol li { margin-bottom: 16px; }
+
+    
+
+    </style>
+    <title>Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Forget the bad days with faulty Wi-Fi and call drops; this technology allows individuals and corporations to stay connected at all times. There are over 95"/>
+<meta name="news_keywords" content="5barz, communications technologies, samartha n, daniel bland, , airtel, iot, mindtree ceo, samartha nagabhushanam, vodafone, wi-fi, indian, startups, founders, entrepreneurs, innovators, stories, insights, investors, funding, acquisition" />
+<link rel="original-source" href="https://yourstory.com/2017/01/5barz/" />
+<meta name="robots" content="noodp"/>
+<meta name="keywords" content="5Barz, Daniel Bland, Samartha Nagabhushan, CEO of Mindtree"/>
+<link rel="canonical" href="https://yourstory.com/2017/01/5barz/" />
+<link rel="publisher" href="https://plus.google.com/111272339013288238153"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech" />
+<meta property="og:description" content="Forget the bad days with faulty Wi-Fi and call drops; this technology allows individuals and corporations to stay connected at all times. There are over 95" />
+<meta property="og:url" content="https://yourstory.com/2017/01/5barz/" />
+<meta property="og:site_name" content="YourStory.com" />
+<meta property="article:publisher" content="http://facebook.com/yourstorycom" />
+<meta property="article:author" content="https://www.facebook.com/vishalskrishna" />
+<meta property="article:tag" content="5Barz" />
+<meta property="article:tag" content="airtel" />
+<meta property="article:tag" content="Daniel Bland" />
+<meta property="article:tag" content="iot" />
+<meta property="article:tag" content="Mindtree CEO" />
+<meta property="article:tag" content="Samartha Nagabhushanam" />
+<meta property="article:tag" content="Vodafone" />
+<meta property="article:tag" content="Wi-Fi" />
+<meta property="article:section" content="Start Up India" />
+<meta property="article:published_time" content="2017-01-17T08:06:00+05:30" />
+<meta property="article:modified_time" content="2017-01-27T16:54:17+05:30" />
+<meta property="og:updated_time" content="2017-01-27T16:54:17+05:30" />
+<meta property="og:image" content="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2017/01/DanielBland.jpg" />
+<meta property="og:image:width" content="800" />
+<meta property="og:image:height" content="407" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Forget the bad days with faulty Wi-Fi and call drops; this technology allows individuals and corporations to stay connected at all times. There are over 95" />
+<meta name="twitter:title" content="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech" />
+<meta name="twitter:site" content="@YourStoryCo" />
+<meta name="twitter:image" content="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2017/01/DanielBland.jpg" />
+<meta name="twitter:creator" content="@vishalskrishna" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="YourStory.com &raquo; Feed" href="https://yourstory.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="YourStory.com &raquo; Comments Feed" href="https://yourstory.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="YourStory.com &raquo; Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech Comments Feed" href="https://yourstory.com/2017/01/5barz/feed/" />
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='https://d152j5tfobgaot.cloudfront.net/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://yourstory.com/wp-api/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://yourstory.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://d152j5tfobgaot.cloudfront.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel='shortlink' href='https://yourstory.com/?p=248595' />
+<link rel="alternate" type="application/json+oembed" href="https://yourstory.com/wp-api/oembed/1.0/embed?url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://yourstory.com/wp-api/oembed/1.0/embed?url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F&#038;format=xml" />
+<link rel='https://github.com/WP-API/WP-API' href='https://yourstory.com/wp-json' />
+<!-- Stream WordPress user activity plugin v3.1.1 -->
+<link rel="amphtml" href="https://yourstory.com/2017/01/5barz/amp/" />
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18173739" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=18173739&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '536691223168677');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=536691223168677&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Heap analytics code start -->
+    <!--<script type="text/javascript">
+      //window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+       // heap.load("3971747380");
+    </script>-->
+<!-- Heap analytics code end -->
+
+<!-- DFP Code Start -->
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script> 
+
+<script type='text/javascript'>
+
+  googletag.cmd.push(function() {
+
+    // Infinite scroll requires SRA
+    googletag.pubads().enableSingleRequest();
+
+    // Disable initial load, we will use refresh() to fetch ads.
+    // Calling this function means that display() calls just
+    // register the slot as ready, but do not fetch ads for it.
+    googletag.pubads().disableInitialLoad();
+
+    // Enable services
+    googletag.enableServices();
+  });
+
+ 
+</script> 
+
+
+<!-- DFP Code End -->
+<script type="text/javascript">
+        (function(p,u,s,h){
+    	    p._pcq=p._pcq||[];
+    	    p._pcq.push(['_currentTime',Date.now()]);
+    	    s=u.createElement('script');
+    	    s.type='text/javascript';
+            s.async=true;
+            s.src='https://cdn.pushcrew.com/js/9b415e54cc145d608629b81304ea5db3.js';
+            h=u.getElementsByTagName('script')[0];
+            h.parentNode.insertBefore(s,h);
+        })(window,document);
+</script>
+
+</head>
+
+    <body data-is-single="1" data-is-community="" data-page="article page" data-lang="English" class="post-template-default single single-post postid-248595 single-format-standard group-blog"  >
+
+    <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T276MZ"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Ad Sense Page Level Ads for Mobile --> 
+   <!--  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-1776065043228604",
+        enable_page_level_ads: true
+      });
+    </script> -->
+    <!-- Ad Sense Page Level Ads for Mobile -->     
+    
+    <div class="modal-overlay js-close-modal-trigger"></div>
+    <div class="modal modalLoginSignup">
+        <a href="#" class="btn-close js-close-modal-trigger"></a>
+        <div class="content">
+            <div class="header"></div>
+            <a href="#" data-tab="login" class="tabHeading active js-loginSignupTab-trigger">Login</a>
+            <a href="#" data-tab="signup" class="tabHeading js-loginSignupTab-trigger">Signup</a>
+            <div class="clr"></div>
+
+            <div data-tab="login" class="contentWrapper ma show">
+                <p class="section_text-xsmall bentonCondensed color-grey uc ls-1 ta-c mt-30 mb-20">Login with</p>
+                <ul class="modalSocialLinks">
+                    <li><a href="#" class="tw"><i class="icon-twitter-bird"></i></a></li>
+                    <li><a href="#" class="fb"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#" class="gp"><i class="icon-gplus"></i></a></li>
+                    <div class="clr"></div>
+                </ul>
+                <div class="orSeparator ta-c mv-30">
+                    <p class="inline-block text uc">or</p>
+                    <div class="line"></div>
+                </div>
+                <form class="mb-60">
+                    <input type="text" placeholder="Email" class="inputText inputText-large mb-20">
+                    <input type="text" placeholder="Password" class="inputText inputText-large">
+                </form>
+                <div class="ta-c">
+                    <a href="#" class="inline-block bentonCondensed color-red uc">Log in <i class="icon-right"></i></a><br/>
+                    <a href="#" class="inline-block forgotPassword color-grey mt-16 js-forgot-password-modal-trigger">Forgotten your password?</a>
+                </div>
+            </div>
+
+            <div data-tab="signup" class="contentWrapper ma">
+                <p class="section_text-xsmall bentonCondensed color-grey uc ls-1 ta-c mt-30 mb-20">Signup with</p>
+                <ul class="modalSocialLinks">
+                    <li><a href="#" class="tw"><i class="icon-twitter-bird"></i></a></li>
+                    <li><a href="#" class="fb"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#" class="gp"><i class="icon-gplus"></i></a></li>
+                    <div class="clr"></div>
+                </ul>
+                <div class="orSeparator ta-c mv-30">
+                    <p class="inline-block text uc">or</p>
+                    <div class="line"></div>
+                </div>
+                <form class="mb-30">
+                    <input type="text" placeholder="Name" class="inputText inputText-large mb-20">
+                    <input type="text" placeholder="Email" class="inputText inputText-large mb-20">
+                    <input type="text" placeholder="Password" class="inputText inputText-large">
+                </form>
+                <div class="ta-c">
+                    <a href="#" class="inline-block bentonCondensed color-red uc">Sign up <i class="icon-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal modalForgotPassword">
+        <a href="#" class="btn-close js-close-modal-trigger"></a>
+        <div class="content">
+            <div class="header"></div>
+            <p class="heading bentonCondensed bold color-black-2 uc ls-1 ta-c mar-20">Forgot Password?</p>
+            <p class="text ta-c ph-20">Enter your email below and we will send you a reset link.</p>
+            <form class="ta-c mt-30">
+                <input type="text" placeholder="Email" class="inputText inputText-large ma">
+            </form>
+            <div class="ta-c mt-30">
+                <a href="#" class="inline-block bentonCondensed color-red uc">Submit <i class="icon-right"></i></a>
+            </div>
+        </div>
+    </div>
+        <header class="sectionHeader">
+        <section class="sectionApp">
+           <div class="container">
+               
+                <div id="android_download_link" class="hide">
+                <a href="#" onclick='clickHandler()'>
+                    <ul class="navigation">    
+                         <li class="grid-one-seventh"> 
+                            <div class="appicon"> </div>                  
+                        </li>
+                        <li class="grid-three-seventh appdesc bentonCondensed"><p>Download App for free on Play Store</p></li>
+                        <li class="grid-three-seventh">
+                        <div class="googleplay">
+                                                        
+                        </div>
+                        </li>
+                    </ul>
+                 </a>    
+                </div> 
+                <!--
+                <div id="ios_download_link" class="hide">
+                 <a href="https://itunes.apple.com/in/app/yourstory/id918399830?mt=8" target="_blank">
+                    <ul class="navigation">    
+                        <li class="grid-one-seventh"> 
+                            <div class="appicon"> </div>                  
+                        </li>
+                        <li class="grid-three-seventh appdesc bentonCondensed"><p>Download App for free on App Store</p></li>
+                        <li class="grid-three-seventh">
+                            <div class="applestore">
+                             
+                            </div>
+                        </li>
+                    </ul>
+                 </a>
+                </div>
+                -->
+                <div class="clr"></div> 
+            </div>
+            <div class="clr"></div>
+        </section>
+        <section class="sectionLanguage sectionLanguage-red ">
+            <div class="container">
+                <ul class="fl sectionLanguage_list phn-hide">
+                    <li><a class="active" href="http://yourstory.com" 
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="English">English</a></li>
+                    <li><a href="http://hindi.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="Hindi">हिन्दी</a></li>
+		            <li><a href="http://bangla.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="bangla">বাংলা</a></li>
+                    <li><a href="http://telugu.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="telugu">తెలుగు</a></li>
+                    <li><a href="http://tamil.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="tamil">தமிழ்</a></li>
+		            <li><a href="http://kannada.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="kannada">ಕನ್ನಡ</a></li>
+                    <li><a href="http://marathi.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="marathi">मराठी</a></li>
+                    <li><a href="http://malayalam.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="malayalam">മലയാളം</a></li>
+                    <li><a href="http://odia.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="odia">ଓଡିଆ</a></li>
+                    <li><a href="http://gujarati.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="gujarati">ગુજરાતી</a></li>
+                    <li><a href="http://punjabi.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="punjabi">ਪੰਜਾਬੀ</a></li>
+                    <li><a href="http://asamiya.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="asamiya">অসমীয়া</a></li>
+                    <li><a href="http://urdu.yourstory.com"
+                        data-tvc_event_category="language_change"
+                        data-tvc_new_language="urdu">اردو</a></li>
+                    <div class="clr"></div>
+                </ul>
+                <div class="fl phnLanguageList hide phn-block">
+                    <select class="selectDropdown">
+                        <option>English</option>
+			            <option>हिन्दी</option>
+                        <option>বাংলা</option>
+                        <option>తెలుగు</option>
+                        <option>தமிழ்</option>
+ 			            <option>ಕನ್ನಡ</option>
+			<option>मराठी</option>
+                        <option>മലയാളം</option>
+                        <option>ଓଡିଆ</option>
+                        <option>ગુજરાતી</option>
+			<option>ਪੰਜਾਬੀ</option>
+			<option>অসমীয়া</option>
+			<option>اردو</option>
+                    </select>
+                </div>
+                <!--
+                <a href="" class="fr loginSignup bold uc js-login-signup-modal-trigger"><i class="icon-user"></i> Login/Signup</a>
+                -->
+                <ul style="padding-top:5px" class="socialLinks socialLinks-red  fr">
+                    <li>
+                        <a href="https://www.facebook.com/YourStoryCom" class="fb">
+                            <i class="icon-facebook"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/YourStoryCo" class="tw">
+                            <i class="icon-twitter-bird"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/yourstory-com" class="li">
+                            <i class="icon-linkedin"></i>
+                        </a>
+                    </li>
+                </ul>
+                <div class="clr"></div>
+            </div>
+        </section>
+        <section class="sectionNavigation float-nav sectionNavigation-red">
+            <div class="content">
+                <div class="container">
+                    <div class="fl blockLeft">
+                        <a href="#" class="fl menuBtn color-white hide js-mob-nav-trigger phn-tab-block tab-mr-20 phn-mr-20">
+                            <i class="icon-menu-2 js-icon-menu"></i>
+                            <i class="icon-cancel js-icon-cancel hide"></i>
+                        </a>
+                        <div class="has-dropdown current-page">
+                            <a href="http://yourstory.com" data-dropdown="logo" 
+                                data-tvc_event_category="navigation"
+                                data-tvc_navigation_position="top"
+                                data-tvc_navigation_level_name="yourStory" class="logo active hide-text">Your Story</a>
+                            <div data-dropdown="logo" class="navDropdown show">
+                                <div class="container">
+                                    <ul class="navDropdown_list">
+                                        <li><a href="http://yourstory.com" 
+                                                data-tvc_event_category="navigation"
+                                                data-tvc_navigation_position="sub"
+                                                data-tvc_navigation_level_name="yourStory/home" 
+                                                class="">Home</a></li>
+																
+                                        		<li><a href="http://yourstory.com/category/ys-stories" 
+                                                    data-tvc_event_category="navigation"
+                                                    data-tvc_navigation_position="sub"
+                                                    data-tvc_navigation_level_name="yourStory/ys-stories"  
+                                                    class="">Stories</a></li>
+
+																	
+                                        		<li><a href="http://yourstory.com/category/news" 
+                                                    data-tvc_event_category="navigation"
+                                                    data-tvc_navigation_position="sub"
+                                                    data-tvc_navigation_level_name="yourStory/news"  
+                                                    class="">News</a></li>
+
+																	
+                                        		<li><a href="http://yourstory.com/category/issues-that-matter" 
+                                                    data-tvc_event_category="navigation"
+                                                    data-tvc_navigation_position="sub"
+                                                    data-tvc_navigation_level_name="yourStory/issues-that-matter"  
+                                                    class="">Issues That Matter</a></li>
+
+																	
+                                        		<li><a href="http://yourstory.com/category/resources" 
+                                                    data-tvc_event_category="navigation"
+                                                    data-tvc_navigation_position="sub"
+                                                    data-tvc_navigation_level_name="yourStory/resources"  
+                                                    class="">Resources</a></li>
+
+																	
+                                        		<li><a href="http://yourstory.com/category/ys-in-depth/ys-research" 
+                                                    data-tvc_event_category="navigation"
+                                                    data-tvc_navigation_position="sub"
+                                                    data-tvc_navigation_level_name="yourStory/ys-in-depth/ys-research"  
+                                                    class="">Research</a></li>
+
+						                     <li><a href="https://yourstory.com/partner-events"
+                                        data-tvc_event_category="navigation"
+                                        data-tvc_navigation_position="sub"
+                                        data-tvc_navigation_level_name="yourStory/events">Events</a></li>   
+                                        <div class="clr"></div>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <nav class="fl navWrapper">
+                        <ul class="navigation">
+                            <li data-dropdown="herStory" class="herStory has-dropdown ">
+                                <a href="http://her.yourstory.com" 
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="top"
+                                    data-tvc_navigation_level_name="herStory" class=""></a>
+                                <div data-dropdown="herStory" class="navDropdown ">
+                                    <div class="container">
+					    <ul class="navDropdown_list">
+						<li><a href="http://her.yourstory.com" 
+                                data-tvc_event_category="navigation"
+                                data-tvc_navigation_position="sub"
+                                data-tvc_navigation_level_name="herStory/home" 
+                                class="">Home</a></li>
+																		
+								<li><a href="http://her.yourstory.com/women-entrepreneurs" 
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="sub"
+                                    data-tvc_navigation_level_name="yourStory/women-entrepreneurs"
+                                    class="">Women Entrepreneurs</a></li>
+																			
+								<li><a href="http://her.yourstory.com/corporate-leaders" 
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="sub"
+                                    data-tvc_navigation_level_name="yourStory/corporate-leaders"
+                                    class="">Corporate Leaders</a></li>
+																			
+								<li><a href="http://her.yourstory.com/arts" 
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="sub"
+                                    data-tvc_navigation_level_name="yourStory/arts"
+                                    class="">Arts</a></li>
+																			
+								<li><a href="http://her.yourstory.com/academia" 
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="sub"
+                                    data-tvc_navigation_level_name="yourStory/academia"
+                                    class="">Academia</a></li>
+																			
+								<li><a href="http://her.yourstory.com/sports" 
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="sub"
+                                    data-tvc_navigation_level_name="yourStory/sports"
+                                    class="">Sports</a></li>
+																			
+								<li><a href="http://her.yourstory.com/news" 
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="sub"
+                                    data-tvc_navigation_level_name="yourStory/news"
+                                    class="">News</a></li>
+													<div class="clr"></div>
+					    </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-dropdown="socialStory" class="socialStory has-dropdown ">
+                                <a href="http://social.yourstory.com" 
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="top"
+                                    data-tvc_navigation_level_name="socialStory" class=""></a>
+                                <div data-dropdown="socialStory" class="navDropdown ">
+                                    <div class="container">
+					    <ul class="navDropdown_list">
+						<li><a href="http://social.yourstory.com" 
+                                data-tvc_event_category="navigation"
+                                data-tvc_navigation_position="sub"
+                                data-tvc_navigation_level_name="socialStory/home"
+                                class="">Home</a></li>
+																		
+								<li><a href="http://social.yourstory.com/category/socialenterprise" 
+                                        data-tvc_event_category="navigation"
+                                        data-tvc_navigation_position="sub"
+                                        data-tvc_navigation_level_name="socialStory/socialenterprise"
+                                        class="">Social Enterprises</a></li>
+																			
+								<li><a href="http://social.yourstory.com/category/news" 
+                                        data-tvc_event_category="navigation"
+                                        data-tvc_navigation_position="sub"
+                                        data-tvc_navigation_level_name="socialStory/news"
+                                        class="">News</a></li>
+																			
+								<li><a href="http://social.yourstory.com/category/experts" 
+                                        data-tvc_event_category="navigation"
+                                        data-tvc_navigation_position="sub"
+                                        data-tvc_navigation_level_name="socialStory/experts"
+                                        class="">Experts</a></li>
+																			
+								<li><a href="http://social.yourstory.com/category/socialtv" 
+                                        data-tvc_event_category="navigation"
+                                        data-tvc_navigation_position="sub"
+                                        data-tvc_navigation_level_name="socialStory/socialtv"
+                                        class="">Social TV</a></li>
+																			
+								<li><a href="http://social.yourstory.com/category/think-change-india" 
+                                        data-tvc_event_category="navigation"
+                                        data-tvc_navigation_position="sub"
+                                        data-tvc_navigation_level_name="socialStory/think-change-india"
+                                        class="">Think Change India</a></li>
+													<div class="clr"></div>
+					    </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-dropdown="ysTv" class="ysTv has-dropdown ">
+                                <a href="http://yourstory.com/videos" 
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="top"
+                                    data-tvc_navigation_level_name="ysTV" class=""></a>
+                                <div data-dropdown="ysTv" class="navDropdown ">
+                                    <div class="container">
+                                        <ul class="navDropdown_list">
+                                            <li><a href="http://yourstory.com/videos" 
+                                                    data-tvc_event_category="navigation"
+                                                    data-tvc_navigation_position="sub"
+                                                    data-tvc_navigation_level_name="ysTV/Home" 
+                                                    class="active">Home</a></li>
+                                            <div class="clr"></div>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-dropdown="ysPages" class="ysPages has-dropdown">
+                                <a href="http://profiles.yourstory.com"
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="top"
+                                    data-tvc_navigation_level_name="ysProfiles"></a>
+                                <div data-dropdown="ysPages" class="navDropdown">
+                                    <div class="container">
+                                        <ul class="navDropdown_list">
+                                            <li><a href="http://profiles.yourstory.com" class="active">Home</a></li>
+                                            <li><a href="http://profiles.yourstory.com/create/organization" 
+                                                    data-tvc_event_category="navigation"
+                                                    data-tvc_navigation_position="sub"
+                                                    data-tvc_navigation_level_name="ysProfiles/Create"
+                                                    class="active">Create</a></li>
+                                            <div class="clr"></div>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-dropdown="ysugc" class="ysugc">
+                                <a href="http://yourstory.co" 
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="top"
+                                    data-tvc_navigation_level_name="UGC"></a>
+                            </li>
+                            <li data-dropdown="ysstartupindia" class="ysstartupindia">
+                                <a href="http://yourstory.com/start-up-india" 
+                                    data-tvc_event_category="navigation"
+                                    data-tvc_navigation_position="top"
+                                    data-tvc_navigation_level_name="startupindia"></a>
+                            </li>
+    			    <!-- <li class="makeinindia phn-tab-hide">
+                        <a href="http://yourstory.com/mii/"></a>
+    			    </li> -->
+                    
+                            <!--
+                            <li data-dropdown="ysjobs" class="ysjobs has-dropdown">
+                                <a href="#"></a>
+                                <div data-dropdown="ysjobs" class="navDropdown">
+                                    <div class="container">
+                                        <ul class="navDropdown_list">
+                                            <li><a href="#" class="active">Home</a></li>
+                                            <li><a href="#">Stories</a></li>
+                                            <li><a href="#">News</a></li>
+                                            <li><a href="#">Startup Advice</a></li>
+                                            <li><a href="#">Resources</a></li>
+                                            <li><a href="#">Research</a></li>
+                                            <li><a href="#">Asia</a></li>
+                                            <li><a href="#">Africa</a></li>
+                                            <li><a href="#">USA</a></li>
+                                            <div class="clr"></div>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-dropdown="ysEvents" class="ysEvents has-dropdown">
+                                <a href="#"></a>
+                                <div data-dropdown="ysEvents" class="navDropdown">
+                                    <div class="container">
+                                        <ul class="navDropdown_list">
+                                            <li><a href="#" class="active">Home</a></li>
+                                            <li><a href="#">Stories</a></li>
+                                            <li><a href="#">News</a></li>
+                                            <li><a href="#">Startup Advice</a></li>
+                                            <li><a href="#">Resources</a></li>
+                                            <li><a href="#">Research</a></li>
+                                            <li><a href="#">Asia</a></li>
+                                            <li><a href="#">Africa</a></li>
+                                            <li><a href="#">USA</a></li>
+                                            <div class="clr"></div>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-dropdown="ysAudio" class="ysAudio has-dropdown">
+                                <a href="#"></a>
+                                <div data-dropdown="ysAudio" class="navDropdown">
+                                    <div class="container">
+                                        <ul class="navDropdown_list">
+                                            <li><a href="#" class="active">Home</a></li>
+                                            <li><a href="#">Stories</a></li>
+                                            <li><a href="#">News</a></li>
+                                            <li><a href="#">Startup Advice</a></li>
+                                            <li><a href="#">Resources</a></li>
+                                            <li><a href="#">Research</a></li>
+                                            <li><a href="#">Asia</a></li>
+                                            <li><a href="#">Africa</a></li>
+                                            <li><a href="#">USA</a></li>
+                                            <div class="clr"></div>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            -->
+                            <div class="clr"></div>
+                        </ul>
+                    </nav>
+
+                    <div class="fr blockRight">
+                    <!-- 
+                    <a href="https://play.google.com/store/apps/details?id=com.yslabs.yourstory&hl=en" target="_blank" class="googleapp phn-tab-hide">
+                        </a> 
+                   
+                     <a href="https://itunes.apple.com/in/app/yourstory/id918399830?mt=8" target="_blank" class="appleapp phn-tab-hide">
+                       </a>
+                    --> 
+                    
+                    <a href="#" class="fr searchLink js-trigger-searchbar">
+                        <i class="icon-search"></i>
+                    </a>
+                    </div>
+                    <div class="clr"></div>
+                </div>
+                <div class="sectionSearchBar sectionProfile_postsWrapper ma tab-grid-full phn-grid-full">
+
+                   <div class="container">
+                        <form action="https://yourstory.com/search" id="cse-search-box">
+                            <input type="hidden" name="cx" value="partner-pub-1776065043228604:3651855861" />
+                            <input type="hidden" name="cof" value="FORID:10" />
+                            <input type="hidden" name="ie" value="UTF-8" />
+                            <input type="text" name="q" placeholder="Search for Stories ..." class="fr searchBar" >
+                            <div class="clr"></div>
+                        </form>                         
+                    </div>
+                    
+                    <div class="auto-complete-mobile">
+                        			<div class="suggestion-holder">
+                                    		
+                                    </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        
+        <!--new search-->
+            	<div class="search-holder">
+
+                    <div class="searchForm searchFormPop">
+                        <div class="search-box">
+            		     <!--  <gcse:searchbox-only enableAutoComplete="true" resultsUrl="/_search/" queryParameterName="query">                              
+                          </gcse:searchbox-only> -->
+                          
+                        <form action="https://yourstory.com/search" id="cse-search-box">
+                            <input type="hidden" name="cx" value="partner-pub-1776065043228604:3651855861">
+                            <input type="hidden" name="cof" value="FORID:10">
+                            <input type="hidden" name="ie" value="UTF-8">
+                            <input type="text" name="q" placeholder="" class="searchBar" style="margin-top: 3px;float: left;width: 504px;">
+  <input type="image" src="https://www.google.com/uds/css/v2/search_box_icon.png" class="gsc-search-button gsc-search-button-v2" title="search">
+                            <div class="clr"></div>
+                        </form>
+                        </div>  
+                    </div>
+
+
+                        <!-- <form  class="searchForm searchFormPop" >
+                        <i class="icon-search search-ico"></i>
+                      <input type="text" class="search-box font-light" id="search-box" name="s" placeholder="Search for Stories ..." autocomplete="off">
+                        </form> -->
+                        
+                        <div class="auto-complete">
+                        			<div class="suggestion-holder">
+                                    		
+                                    </div>
+                        </div>
+                        
+                </div>
+            <!--New Search-->
+        
+        
+    </header>
+                            
+    
+     
+    
+    
+    
+    
+    
+    
+
+    
+<div style="display:none">
+               <div class="CATEGORY_VIEW_EVENT">Start Up India</div> 
+                <div class="CATEGORY_VIEW_EVENT">Startup</div> 
+                <div class="CATEGORY_VIEW_EVENT">Startup India</div> 
+                <div class="INFINITE_SCROLL_EVENT"></div> 
+        </div>
+    
+<style type="text/css" media="all">
+    #profiles_sidebar {
+        width:0px;
+        background-color:#F7F7F8;
+        position:fixed;
+        bottom:0px;
+        top:0px;
+        right:0px;
+        z-index: 2147483647;
+        overflow-x: visible;
+        border-width: 0px 0px 0px 1px;
+        border-left-style: solid;
+        border-left-color: rgb(221, 221, 221);
+        right: 0px;
+        display: block;
+        backface-visibility: hidden;
+        transition: width 1s;
+        margin-top:30px;
+    }
+    #profiles_sidebar .navigation {
+         background-color: #ffffff;
+         min-height:30px;
+         position:fixed;
+         top:0px;
+         width:0px;
+         right:0px;
+         border-bottom: 1px solid #e7e7e7;
+         border-left: 2px solid #e7e7e7;
+         transition: width 1s;
+    }
+    #profiles_sidebar .navigation .control {
+    }
+    #profiles_sidebar .navigation .control img {
+        width:20px;
+        margin-top:5px;
+        margin-left:5px;
+    }
+    .profiles_highlight {
+        border-radius: 3px;
+        background-color:rgba(232, 146, 151, 0.25);
+        cursor: pointer;
+    }
+</style>
+<script id="profiles_sidebar_iframe_placeholder_template" type="text/template" charset="utf-8">
+     <html>
+        <head>
+            <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+            <title></title>
+            <style type="text/css" media="all">
+                .outer {
+                    display: table;
+                    position: absolute;
+                    height: 100%;
+                    width: 100%;
+                }
+
+                .middle {
+                    display: table-cell;
+                    vertical-align: middle;
+                    text-align: center;
+                }
+
+                .inner {
+                    margin-left: auto;
+                    margin-right: auto; 
+                    width: /*whatever width you want*/;
+                }
+            </style>
+                
+        </head>
+        <body>
+            <div class="outer">
+                <div class="middle">
+                    <div class="inner">
+                        
+                        <img src="https://d12fdm3gkm7ro6.cloudfront.net/assets/Profiles-Logo-3ae4cc71a0daae4abc599f26f70727b36a598a29fbbbe2abcc1921e0e141bd81.png" style="width:140px" alt="" />
+                        <br/>
+                        <img src="https://userfilescdn.yourstory.com/sibh1lom-cropped.gif" style="width:140px" alt="" />
+                    </div>
+                </div>
+            </div>
+  
+        </body>
+     </html>
+</script>
+<div id="profiles_sidebar" data-nav="248595">
+        <div class="navigation">
+         <a data-category="close" class="control" style="margin-right:10px" href="#"><img src="https://userfilescdn.yourstory.com/g5nmq0wv-Delete-48.png" style="width:20px" alt="" /> </a>
+     </div>
+    <iframe id="profiles_sidebar_iframe" src="" frameborder="0" style="width:100%;height:100%"></iframe>
+</div>
+    
+<section id="ys_post_id_248595" 
+    class="ys_post_section section sectionArticle pt-0" 
+    data-page-path="/2017/01/5barz/" 
+    data-page-title="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech">
+                <div class="INFINITE_SCROLL_DATA" 
+                data-tvc_event_category="infinite_scroll"
+                data-tvc_author_name="Vishal Krishna"
+                data-tvc_article_category="Start Up India|Startup|Startup India"
+                data-tvc_article_name="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech"
+                data-tvc_publication_year="2017"
+                data-tvc_publication_month="January"
+                data-tvc_publication_date="17"
+                data-tvc_video_url="false"
+                data-tvc_article_length="1041"
+                data-tvc_tags="5Barz|airtel|Daniel Bland|iot|Mindtree CEO|Samartha Nagabhushanam|Vodafone|Wi-Fi"
+                data-tvc_page_url="/2017/01/5barz/"
+                data-tvc_cg_active_menu="YOURSTORY"></div>
+    <div class="container">
+        
+            <div class="grid-three-fourth alpha phn-tab-grid-full">
+                <div class="articleWrapper tab-mh-0 phn-mh-0">
+                    <div class="mb-30 phn-tab-hide">
+
+                        
+                                                             
+                                                          <!-- /102423847/YS-MastHead728x90 -->
+<div id='YS-MastHead728x90-SLOT-0' style='height:90px; width:728px;margin:0 auto'>
+<script type='text/javascript'>
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-MastHead728x90-SLOT-0';
+         var slot = googletag.defineSlot('/102423847/YS-MastHead728x90', [728, 90],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+</script>
+</div>
+<!-- /102423847/YS-MastHead728x90 -->
+<!-- <div id='div-gpt-ad-1480602847547-0' style='height:90px; width:728px;margin:0 auto'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480602847547-0'); });
+</script>
+</div> -->   
+                             
+                                         
+                                             </div>
+                    <div class="pill pill-white">
+                                                                            Start Up India                                            </div>
+                    <h3 class="ys_post_title title color-ys" data-page-path="">
+                        Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech                    </h3>
+                    <p class="title-small mt-20 mb-30">
+                    </p>
+                                                                <!-- EDITORIAL POST AUTHOR STARTS -->
+                        <div class="fl mb-10">
+                            <a href="https://yourstory.com/author/vishal-krishna/" class="postInfo color-ys">
+                                Vishal Krishna                            </a>
+                            <p class="postInfo color-grey mt-5 fr">,&nbsp;
+                                17 January 2017                            </p>
+                          
+
+                        </div>
+                        <!-- EDITORIAL POST AUTHOR ENDS -->
+                       
+                    
+                        
+	 	 
+	<div class="s-holder">
+    
+    	<div class="s-count s-tab">
+        		
+                <div class="share_count_span">0</div>
+                <div class="share-con">SHARES</div>
+        	
+        </div>
+    
+    <div class="share-holder s-tab">
+    
+      <!-- Buttons start here. Copy this ul to your document.-->
+     
+        <ul class="YS-buttons tab" style="opacity:0;">
+
+     
+<!--Facebook-->
+      <li class="YS-facebook">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>" class="popup">
+          <span class="YS-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29"><path d="M26.4 0H2.6C1.714 0 0 1.715 0 2.6v23.8c0 .884 1.715 2.6 2.6 2.6h12.393V17.988h-3.996v-3.98h3.997v-3.062c0-3.746 2.835-5.97 6.177-5.97 1.6 0 2.444.173 2.845.226v3.792H21.18c-1.817 0-2.156.9-2.156 2.168v2.847h5.045l-.66 3.978h-4.386V29H26.4c.884 0 2.6-1.716 2.6-2.6V2.6c0-.885-1.716-2.6-2.6-2.6z"/></svg></span>
+          <span class="YS-text">facebook</span>
+        </a>
+      </li>
+
+<!--Facebook-->      
+
+      
+
+<!--Twitter-->     
+      <li class="YS-twitter">
+        <a href="https://twitter.com/intent/tweet?text=Stop+call+drops+with+5BARz%3A+Daniel+and+Samartha+explain+why+it+takes+years+to+perfect+tech https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial_share%26utm_term%3D<client_id> via @YourStoryCo"
+        class="popup">
+          <span class="YS-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+              <path d="M24.253 8.756C24.69 17.08 18.297 24.182 9.97 24.62c-3.122.162-6.22-.646-8.86-2.32 2.702.18 5.375-.648 7.507-2.32-2.072-.248-3.818-1.662-4.49-3.64.802.13 1.62.077 2.4-.154-2.482-.466-4.312-2.586-4.412-5.11.688.276 1.426.408 2.168.387-2.135-1.65-2.73-4.62-1.394-6.965C5.574 7.816 9.54 9.84 13.802 10.07c-.842-2.738.694-5.64 3.434-6.48 2.018-.624 4.212.043 5.546 1.682 1.186-.213 2.318-.662 3.33-1.317-.386 1.256-1.248 2.312-2.4 2.942 1.048-.106 2.07-.394 3.02-.85-.458 1.182-1.343 2.15-2.48 2.71z"
+              />
+            </svg>
+          </span>
+          <span class="YS-text">twitter</span>
+        </a>
+      </li>
+<!--Twitter-->
+
+<!--LinkdIn-->
+	 <li class="YS-linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>&amp;title=Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech&amp;summary=Forget the bad days with faulty Wi-Fi and call drops; this technology allows individuals and corporations to stay connected at all times. There are over 950 million Indians who struggle with call drops and data loss over the telecom network. It is frustrating, to say the least, because the telecom operator makes money even though [&hellip;]" class="popup"><span class="YS-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewbox="0 0 28 28">
+                <path d="M25.424 15.887v8.447h-4.896v-7.882c0-1.98-.71-3.33-2.48-3.33-1.354 0-2.158.91-2.514 1.802-.13.315-.162.753-.162 1.194v8.216h-4.9s.067-13.35 0-14.73h4.9v2.087c-.01.017-.023.033-.033.05h.032v-.05c.65-1.002 1.812-2.435 4.414-2.435 3.222 0 5.638 2.106 5.638 6.632zM5.348 2.5c-1.676 0-2.772 1.093-2.772 2.54 0 1.42 1.066 2.538 2.717 2.546h.032c1.71 0 2.77-1.132 2.77-2.546C8.056 3.593 7.02 2.5 5.344 2.5h.005zm-2.48 21.834h4.896V9.604H2.867v14.73z"></path>
+              </svg></span><span class="YS-text">linkedin</span></a></li>
+<!--LinkedIn-->
+      
+  <!--Reddit-->
+      <li class="YS-reddit">
+        <a href="http://www.reddit.com/submit?url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%26title%3DStop+call+drops+with+5BARz%3A+Daniel+and+Samartha+explain+why+it+takes+years+to+perfect+tech%26utm_source%3Dreddit%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>&text=Forget the bad days with faulty Wi-Fi and call drops; this technology allows individuals and corporations to stay connected at all times. There are over 950 million Indians who struggle with call drops and data loss over the telecom network. It is frustrating, to say the least, because the telecom operator makes money even though [&hellip;]" class="popup">
+          <span class="YS-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+              <path d="M11.794 15.316c0-1.03-.835-1.895-1.866-1.895-1.03 0-1.893.866-1.893 1.896s.863 1.9 1.9 1.9c1.023-.016 1.865-.916 1.865-1.9zM18.1 13.422c-1.03 0-1.895.864-1.895 1.895 0 1 .9 1.9 1.9 1.865 1.03 0 1.87-.836 1.87-1.865-.006-1.017-.875-1.917-1.875-1.895zM17.527 19.79c-.678.68-1.826 1.007-3.514 1.007h-.03c-1.686 0-2.834-.328-3.51-1.005-.264-.265-.693-.265-.958 0-.264.265-.264.7 0 1 .943.9 2.4 1.4 4.5 1.402.005 0 0 0 0 0 .005 0 0 0 0 0 2.066 0 3.527-.46 4.47-1.402.265-.264.265-.693.002-.958-.267-.334-.688-.334-.988-.043z"
+              />
+              <path d="M27.707 13.267c0-1.785-1.453-3.237-3.236-3.237-.792 0-1.517.287-2.08.76-2.04-1.294-4.647-2.068-7.44-2.218l1.484-4.69 4.062.955c.07 1.4 1.3 2.6 2.7 2.555 1.488 0 2.695-1.208 2.695-2.695C25.88 3.2 24.7 2 23.2 2c-1.06 0-1.98.616-2.42 1.508l-4.633-1.09c-.344-.082-.693.117-.803.454l-1.793 5.7C10.55 8.6 7.7 9.4 5.6 10.75c-.594-.45-1.3-.75-2.1-.72-1.785 0-3.237 1.45-3.237 3.2 0 1.1.6 2.1 1.4 2.69-.04.27-.06.55-.06.83 0 2.3 1.3 4.4 3.7 5.9 2.298 1.5 5.3 2.3 8.6 2.325 3.227 0 6.27-.825 8.57-2.325 2.387-1.56 3.7-3.66 3.7-5.917 0-.26-.016-.514-.05-.768.965-.465 1.577-1.565 1.577-2.698zm-4.52-9.912c.74 0 1.3.6 1.3 1.3 0 .738-.6 1.34-1.34 1.34s-1.343-.602-1.343-1.34c.04-.655.596-1.255 1.396-1.3zM1.646 13.3c0-1.038.845-1.882 1.883-1.882.31 0 .6.1.9.21-1.05.867-1.813 1.86-2.26 2.9-.338-.328-.57-.728-.57-1.26zm20.126 8.27c-2.082 1.357-4.863 2.105-7.83 2.105-2.968 0-5.748-.748-7.83-2.105-1.99-1.3-3.087-3-3.087-4.782 0-1.784 1.097-3.484 3.088-4.784 2.08-1.358 4.86-2.106 7.828-2.106 2.967 0 5.7.7 7.8 2.106 1.99 1.3 3.1 3 3.1 4.784C24.86 18.6 23.8 20.3 21.8 21.57zm4.014-6.97c-.432-1.084-1.19-2.095-2.244-2.977.273-.156.59-.245.928-.245 1.036 0 1.9.8 1.9 1.9-.016.522-.27 1.022-.57 1.327z"
+              />
+            </svg>
+          </span>
+          <span class="YS-text">reddit</span>
+        </a>
+      </li>
+    <!--Reddit-->    
+      
+      
+ <!--Tumblr-->     
+      <li class="YS-tumblr">
+        <a href="http://tumblr.com/share/link?url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%26utm_source%3Dtumblr%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>&name=Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech"  class="popup"
+        >
+          <span class="YS-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M18.02 21.842c-2.03.052-2.422-1.396-2.44-2.446v-7.294h4.73V7.874H15.6V1.592h-3.714s-.167.053-.182.186c-.218 1.935-1.144 5.33-4.988 6.688v3.637h2.927v7.677c0 2.8 1.7 6.7 7.3 6.6 1.863-.03 3.934-.795 4.392-1.453l-1.22-3.54c-.52.213-1.415.413-2.115.455z"/></svg></span>
+          <span class="YS-text">tumblr</span>
+        </a>
+      </li>
+<!--Tumblr-->      
+      
+      <!--Google-->
+      <li class="YS-googleplus">
+        <a href="https://plus.google.com/share?url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dgoogle%252B%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>"class="popup">
+          <span class="YS-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M21 8.29h-1.95v2.6h-2.6v1.82h2.6v2.6H21v-2.6h2.6v-1.885H21V8.29zM7.614 10.306v2.925h3.9c-.26 1.69-1.755 2.925-3.9 2.925-2.34 0-4.29-2.016-4.29-4.354s1.885-4.353 4.29-4.353c1.104 0 2.014.326 2.794 1.105l2.08-2.08c-1.3-1.17-2.924-1.883-4.874-1.883C3.65 4.586.4 7.835.4 11.8s3.25 7.212 7.214 7.212c4.224 0 6.953-2.988 6.953-7.082 0-.52-.065-1.104-.13-1.624H7.614z"/></svg>            </span>
+          <span class="YS-text">google+</span>
+        </a>
+      </li>
+  <!--Google-->    
+      
+      
+    
+    
+    <!--Flipboard-->  
+        <li class="YS-flipboard">
+         <a href="https://share.flipboard.com/bookmarklet/popout?v=2&title=Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech&url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dflipboard%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>" class="popup">
+          <span class="YS-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 96 92">
+               <g shape-rendering="crispEdges" fill="white">
+					<rect x="40" y="40" width="20" height="20" opacity="0.8" />
+					<rect x="40" y="20" width="40" height="20" opacity="0.9" />
+					<rect x="20" y="20" width="20" height="60" />
+				</g>
+            </svg>
+          </span>
+          <span class="YS-text">Flipboard</span>
+        </a>
+      </li>
+    <!--Flipboard-->  
+     
+      
+      
+    <!--WhatsApp-->  
+        <li class="YS-whatsapp">
+        <a href="whatsapp://send?text=Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>">
+          <span class="YS-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 59 53">
+              <path d="M46.3802,10.7138c-4.6512-4.6565-10.8365-7.222-17.4266-7.2247c-13.5785,0-24.63,11.0506-24.6353,24.6333   c-0.0019,4.342,1.1325,8.58,3.2884,12.3159l-3.495,12.7657l13.0595-3.4257c3.5982,1.9626,7.6495,2.9971,11.7726,2.9985h0.01   c0.0008,0-0.0006,0,0.0002,0c13.5771,0,24.6293-11.0517,24.635-24.6347C53.5914,21.5595,51.0313,15.3701,46.3802,10.7138z    M28.9537,48.6163h-0.0083c-3.674-0.0014-7.2777-0.9886-10.4215-2.8541l-0.7476-0.4437l-7.7497,2.0328l2.0686-7.5558   l-0.4869-0.7748c-2.0496-3.26-3.1321-7.028-3.1305-10.8969c0.0044-11.2894,9.19-20.474,20.4842-20.474   c5.469,0.0017,10.6101,2.1344,14.476,6.0047c3.8658,3.8703,5.9936,9.0148,5.9914,14.4859   C49.4248,39.4307,40.2395,48.6163,28.9537,48.6163z"/><path class="st0" d="M40.1851,33.281c-0.6155-0.3081-3.6419-1.797-4.2061-2.0026c-0.5642-0.2054-0.9746-0.3081-1.3849,0.3081   c-0.4103,0.6161-1.59,2.0027-1.9491,2.4136c-0.359,0.4106-0.7182,0.4623-1.3336,0.1539c-0.6155-0.3081-2.5989-0.958-4.95-3.0551   c-1.83-1.6323-3.0653-3.6479-3.4245-4.2643c-0.359-0.6161-0.0382-0.9492,0.27-1.2562c0.2769-0.2759,0.6156-0.7189,0.9234-1.0784   c0.3077-0.3593,0.4103-0.6163,0.6155-1.0268c0.2052-0.4109,0.1027-0.7704-0.0513-1.0784   c-0.1539-0.3081-1.3849-3.3379-1.8978-4.5706c-0.4998-1.2001-1.0072-1.0375-1.3851-1.0566   c-0.3585-0.0179-0.7694-0.0216-1.1797-0.0216s-1.0773,0.1541-1.6414,0.7702c-0.5642,0.6163-2.1545,2.1056-2.1545,5.1351   c0,3.0299,2.2057,5.9569,2.5135,6.3676c0.3077,0.411,4.3405,6.6282,10.5153,9.2945c1.4686,0.6343,2.6152,1.013,3.5091,1.2966   c1.4746,0.4686,2.8165,0.4024,3.8771,0.2439c1.1827-0.1767,3.6419-1.489,4.1548-2.9267c0.513-1.438,0.513-2.6706,0.359-2.9272   C41.211,33.7433,40.8006,33.5892,40.1851,33.281z"
+              />
+            </svg>
+          </span>
+          <span class="YS-text">WhatsApp</span>
+        </a>
+      </li>
+    <!--WhatsApp-->  
+      
+    </ul>
+    
+  </div>  
+  
+  
+</div>  
+                    <div class="clr"></div>
+
+                    <div class="hr mt-10 mb-10"></div>
+                    <!-- content starts -->
+
+                            
+                                                                
+<div style="display:flex;" id="banner_inside_article" class="hide phn-tab-block mb-20 mt-20" >  <!-- /102423847/YS-MOB-ZONE4-300*250 -->
+<div id='YS-MOB-ZONE4-300*250-SLOT-MOB-0' style='height:250px; width:300px;margin:0 auto'>
+<script type='text/javascript'>
+if (window.outerWidth < 768 ) {
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-MOB-ZONE4-300*250-SLOT-MOB-0';
+         var slot = googletag.defineSlot('/102423847/YS-MOB-ZONE4-300*250', [300, 250],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+}
+</script>
+</div>
+</div>
+                    <div class="ys_post_content text">
+                                    
+                                                            
+                                                                
+        
+                                                                
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<html><body><em>Forget the bad days with faulty Wi-Fi and call drops; this technology allows individuals and corporations to stay connected at all times.</em></p>
+<p>There are over 950 million Indians who struggle with call drops and data loss over the telecom network. It is frustrating, to say the least, because the telecom operator makes money even though the calls fail. There are over 800 million prepaid 2G users in the country who complain about their operators when calls drop in certain locations. Operators, or telcos, have finally realised that if they do not address these drawbacks, their customers will leave them for other networks, causing drops in their revenues. This is where 5BARz International steps in to show telcos how to win <a href="https://yourstory.com/2017/01/bbq-ride-india/">customers</a> back.</p>
+<div style="display:flex;" id="banner_inside_article" class="hide phn-tab-block mb-20 mt-20" >  <!-- /102423847/YS-MOB-ZONE7-300*250 --></p>
+<div id='YS-MOB-ZONE7-300*250-SLOT-MOB-0' style='height:250px; width:300px;margin:0 auto'>
+<script type='text/javascript'>
+if (window.outerWidth < 768 ) {
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-MOB-ZONE7-300*250-SLOT-MOB-0';
+         var slot = googletag.defineSlot('/102423847/YS-MOB-ZONE7-300*250', [300, 250],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+}
+</script>
+</div>
+</div>
+<div style="display:flex;" id="banner_inside_article" class="phn-tab-hide mb-20 mt-20" > <!-- /102423847/YS-AP-ZONE4-300X250 --></p>
+<div id='YS-AP-ZONE4-300X250-SLOT-IN-0' style='height:250px; width:300px;margin:0 auto'>
+<script type='text/javascript'>
+if (window.outerWidth > 768 ) {
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-AP-ZONE4-300X250-SLOT-IN-0';
+         var slot = googletag.defineSlot('/102423847/YS-AP-ZONE4-300X250', [300, 250],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+}
+</script>
+</div>
+</div>
+<figure id="attachment_248600" style="width: 800px" class="wp-caption aligncenter"><img class="size-full wp-image-248600" src="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2017/01/DanielBland.jpg" alt="" width="800" height="407"><figcaption class="wp-caption-text">CEO and Founder of 5BARz, Daniel Bland</figcaption></figure>
+<p>Sometimes, all it takes is the coming together of experience to solve problems in society. Daniel Bland and Samartha Nagabhushanam were businessmen with three decades of <a href="https://yourstory.com/2017/01/gymsym/">experience</a> before they set up telecom technology startup 5BARz. They have both built three startups each, which have been in the spheres of digital storage, healthcare, and networks and IT.</p>
+<p>5BARz is a small box with powerful antennae, which will be installed by telecom operators for their high-ARPU customers. The box picks off signals from the tower and boosts cell phones to keep their network bars full. The company is going to roll out five million smart Wi-Fi devices across the country.&nbsp; The technology may seem simple enough, but the antennae pull the spectrum from the towers and match the need for signals inside a building. The software inside the box analyses the amount of frequency needed to boost the networks in the building. 5Barz technology is so impressive that Gil Amelio, the former Apple CEO, is the chairman of the board of the company.</p>
+<h2><strong>The early days</strong></h2>
+<p>As a youngster, Daniel promoted rock concerts in the school circuit and later became a stock broker before embarking on three startups between 1990 and 2008. Samartha, on the other hand, has worked in the corporate world and sold a business to Mindtree Ltd, the $700-million IT company, and also worked as its CEO for a year. Both the founders met around 2013, in the USA, and Daniel, who was impressed with Samartha&rsquo;s engineering and leadership abilities, convinced him to join in as the head of 5Barz&rsquo;s India operations. Samartha, who was running another IoT startup, took a couple of years before he decided to jump in full time. &ldquo;Initially, my company was providing engineering services to 5Barz, when Daniel and I realised that the product had more potential in developing markets,&rdquo; says Samartha, MD of 5BARz India Ltd.</p>
+<div style="display:flex;" id="banner_inside_article" class="hide phn-tab-block mb-20 mt-20" >  <!-- /102423847/YS-MOB-ZONE8-300*250 --></p>
+<div id='YS-MOB-ZONE8-300*250-SLOT-MOB-0' style='height:250px; width:300px;margin:0 auto'>
+<script type='text/javascript'>
+if (window.outerWidth < 768 ) {
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-MOB-ZONE8-300*250-SLOT-MOB-0';
+         var slot = googletag.defineSlot('/102423847/YS-MOB-ZONE8-300*250', [300, 250],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+}
+</script>
+</div>
+</div>
+<p>Building this technology has taken time.</p>
+<p>The journey of 5BARz started in 2008, in the USA, when Daniel and a bunch of engineers began to build technology for the telecommunications industry. The premise was simple &mdash; even with network towers everywhere, mobile phones don&rsquo;t have all five bars of their network icon working inside buildings. 5BARz is the <a href="https://yourstory.com/2017/01/inmobi-storyline/">technology</a> that will boost network in buildings that cannot receive telephone signals.</p>
+<p>The company has created patented technology to create a highly engineered unit that strengthens weak cellular signals to deliver high-quality signals for voice, data, and video reception on cell phones and other cellular-equipped devices. &ldquo;The R&amp;D on the project began almost eight years ago. The first product, which will serve 2G and 3G customers, is going live in India with a couple of telecom operators,&rdquo; says Daniel, CEO of 5BARz.</p>
+<h2><strong>The market opportunity</strong></h2>
+<p>With IoT and automation of devices becoming synonymous, there is an opportunity for networks to become stronger to make people consume more data through their smartphones. Its product is a perfect fit for the IoT revolution because it configures the smartphone to perform a lot of functions.</p>
+<p>Its smart power platform enables users to access four hours of power backup for uninterrupted power supply. It also has smart wireless&nbsp;and smart usage which creates mini instances of the Wi-Fi with variable bandwidth, speeds and data download allowances for each device based on user profile. It also has a section called smart storage, which enables a house to share a common drive for storing pictures, videos, and music relevant to the family. Finally, it has smart <a href="https://yourstory.com/2016/10/digging-deeper-into-tech30/">bandwidth</a>, which alerts when usage is likely to exceed thresholds based on patterns of usage.</p>
+<p>The box also allows smart home functionalities which enlist the power of IoT to provide a household with safety and comfort. With a small IoT accessory, the system can perform functionalities such as temperature, humidity, and gas detection. There are motion sensors and cameras which can alert the home owners with a call or SMS. &ldquo;These are some of the use cases of this product and we already have agreements to supply these solutions to telcos, who are preparing to release these services to the public,&rdquo; says Samartha.</p>
+<p>Gartner Inc predicts that there will be around 20.8 billion devices connected by 2020. Currently, there are around six billion devices connected worldwide. The market spending on IOT is predicted to go well over $100 billion by 2020.</p>
+<p>The 5BARz <a href="https://yourstory.com/2017/01/founders-role-companies-scale/">team</a> is readying products for several applications that will make telcos get closer to their customers and improve network efficiency. Their next product, which is 4G-based, will go live in the USA by next year.</p>
+<p>&ldquo;These are companies that focus on technology and their ability to generate revenues depends on how operators use the technology to improve consumer consumption of data,&rdquo; says Naganand Doraswamy, Founder of Ideaspring Capital.</p>
+<p>The 50-member 5BARz team has the right ingredients to succeed and the company is listed on OTC Markets (an alternative investment forum) in the USA. It has invested close to $6.1 million so far. By the end of the decade, its products could power the IoT revolution across homes in the world. Its competition is Siemens, CISCO, and Bosch.</p>
+<p>&nbsp;</body></html></p>
+<div class="entry-content align-center"></div>
+<hr>
+<hr>
+                    </div>
+
+                    <!-- content ends -->
+
+                    <!-- company widget starts-->
+                    <div id="companyInfoWidget" data-company-domain="">
+
+    
+</div>
+<script id="companyInfoWidgetTemplate" type="template/html">
+<a target="_blank" href="<%=permalink%>">
+<div id="companies-info" class="articleSidebar articleInfo mt-10 mb-20 pt-16 pb-20 pr-20 pl-20">
+    <p class="bentonCondensed uc bold mh-16">
+        <%=brand_name%>
+    </p>
+    <hr class="company-hr">
+    <div>
+        <div class="grid-one-fifth company-logo background-color height width logo">
+            <img style="width:100%;height:auto" src="<%=logo%>" >
+        </div>
+        <div class="grid-five">
+            <p class="invisible">hide this</p>
+        </div>
+        <div class="grid-three-fourth background-color padding height" style="min-height:108px">
+            <% if(founded_year !== null && founded_year !== undefined) { %>
+            <div class="grid-four-tenth">
+                <p class="bold new-bold">FOUNDED</p>
+            </div>
+            <div class="grid-half  pl-20">
+                <p class="color-red"><%= founded_year %></p>
+            </div>
+            <div class="clr"></div>
+            <% } %>
+            <% if(founders.length > 0) { %>
+                <div class="grid-four-tenth ">
+                    <p class="bold"> FOUNDERS </p>
+                </div>
+                <div class="grid-half pl-20">
+                    <p class="color-red">
+                        <% _.each(founders, function(founder,index){ %>
+                            <a class="color-ys" target="_blank" href=""><%=founder.name%></a>
+                            <% if(index != founders.length - 1) { %>
+                            ,
+                            <% } %>
+                        <% }); %>
+                    </p>
+                </div>
+                <div class="clr"></div>
+            <% } %>
+
+            <div class="grid-four-tenth ">
+                <p class="bold"> INVESTMENT </p>
+            </div>
+            <div class="grid-half pl-20">
+                <p class="color-red"><%=total_investment%></p>
+            </div>
+            <div class="clr"></div>
+            <!--
+            <div class="grid-four-tenth">
+                <p class="bold new-bold">SECTOR</p>
+            </div>
+            <div class="grid-half  pl-20">
+                <p class="color-red">E-Commerce</p>
+            </div>
+            <div class="clr"></div>
+            
+            <div class="grid-four-tenth">
+                <p class="bold">CITY</p>
+            </div>
+            <div class="grid-half  pl-20">
+                <p class="color-red">Bangalore</p>
+            </div>
+            <div class="clr"></div>
+            -->
+        </div>
+    </div>    
+    <div class="clr"></div>
+</div>
+</a>
+</script>                    <!-- company widget ends-->
+
+                    <!-- disclaimer if post in think-change-india -->
+                                        <!-- disclaimer ends -->
+		    <div>
+            <div id="android_download_link" class="mb-30 hide align-center">
+                <a target="_blank" href="https://play.google.com/store/apps/details?id=com.yslabs.yourstory&hl=en">
+                    <img src="https://d152j5tfobgaot.cloudfront.net/wp-content/uploads/2016/02/Mobile-Web-App_Banner.jpg" style="border:1px solid black">
+                </a>
+            </div>
+            <div id="ios_download_link" class="mb-30 hide align-center">
+                <a target="_blank" href="https://itunes.apple.com/in/app/yourstory/id918399830?mt=8">
+                    <img src="https://d152j5tfobgaot.cloudfront.net/wp-content/uploads/2016/02/Mobile-Web-App_Banner.jpg" style="border:1px solid black">
+                </a>
+            </div> 
+            
+            <div class="mt-10"> 
+            	   
+	 	 
+	<div class="s-holder">
+    
+    	<div class="s-count s-tab">
+        		
+                <div class="share_count_span">0</div>
+                <div class="share-con">SHARES</div>
+        	
+        </div>
+    
+    <div class="share-holder s-tab">
+    
+      <!-- Buttons start here. Copy this ul to your document.-->
+     
+        <ul class="YS-buttons tab" style="opacity:0;">
+
+     
+<!--Facebook-->
+      <li class="YS-facebook">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>" class="popup">
+          <span class="YS-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29"><path d="M26.4 0H2.6C1.714 0 0 1.715 0 2.6v23.8c0 .884 1.715 2.6 2.6 2.6h12.393V17.988h-3.996v-3.98h3.997v-3.062c0-3.746 2.835-5.97 6.177-5.97 1.6 0 2.444.173 2.845.226v3.792H21.18c-1.817 0-2.156.9-2.156 2.168v2.847h5.045l-.66 3.978h-4.386V29H26.4c.884 0 2.6-1.716 2.6-2.6V2.6c0-.885-1.716-2.6-2.6-2.6z"/></svg></span>
+          <span class="YS-text">facebook</span>
+        </a>
+      </li>
+
+<!--Facebook-->      
+
+      
+
+<!--Twitter-->     
+      <li class="YS-twitter">
+        <a href="https://twitter.com/intent/tweet?text=Stop+call+drops+with+5BARz%3A+Daniel+and+Samartha+explain+why+it+takes+years+to+perfect+tech https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial_share%26utm_term%3D<client_id> via @YourStoryCo"
+        class="popup">
+          <span class="YS-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+              <path d="M24.253 8.756C24.69 17.08 18.297 24.182 9.97 24.62c-3.122.162-6.22-.646-8.86-2.32 2.702.18 5.375-.648 7.507-2.32-2.072-.248-3.818-1.662-4.49-3.64.802.13 1.62.077 2.4-.154-2.482-.466-4.312-2.586-4.412-5.11.688.276 1.426.408 2.168.387-2.135-1.65-2.73-4.62-1.394-6.965C5.574 7.816 9.54 9.84 13.802 10.07c-.842-2.738.694-5.64 3.434-6.48 2.018-.624 4.212.043 5.546 1.682 1.186-.213 2.318-.662 3.33-1.317-.386 1.256-1.248 2.312-2.4 2.942 1.048-.106 2.07-.394 3.02-.85-.458 1.182-1.343 2.15-2.48 2.71z"
+              />
+            </svg>
+          </span>
+          <span class="YS-text">twitter</span>
+        </a>
+      </li>
+<!--Twitter-->
+
+<!--LinkdIn-->
+	 <li class="YS-linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>&amp;title=Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech&amp;summary=Forget the bad days with faulty Wi-Fi and call drops; this technology allows individuals and corporations to stay connected at all times. There are over 950 million Indians who struggle with call drops and data loss over the telecom network. It is frustrating, to say the least, because the telecom operator makes money even though [&hellip;]" class="popup"><span class="YS-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewbox="0 0 28 28">
+                <path d="M25.424 15.887v8.447h-4.896v-7.882c0-1.98-.71-3.33-2.48-3.33-1.354 0-2.158.91-2.514 1.802-.13.315-.162.753-.162 1.194v8.216h-4.9s.067-13.35 0-14.73h4.9v2.087c-.01.017-.023.033-.033.05h.032v-.05c.65-1.002 1.812-2.435 4.414-2.435 3.222 0 5.638 2.106 5.638 6.632zM5.348 2.5c-1.676 0-2.772 1.093-2.772 2.54 0 1.42 1.066 2.538 2.717 2.546h.032c1.71 0 2.77-1.132 2.77-2.546C8.056 3.593 7.02 2.5 5.344 2.5h.005zm-2.48 21.834h4.896V9.604H2.867v14.73z"></path>
+              </svg></span><span class="YS-text">linkedin</span></a></li>
+<!--LinkedIn-->
+      
+  <!--Reddit-->
+      <li class="YS-reddit">
+        <a href="http://www.reddit.com/submit?url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%26title%3DStop+call+drops+with+5BARz%3A+Daniel+and+Samartha+explain+why+it+takes+years+to+perfect+tech%26utm_source%3Dreddit%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>&text=Forget the bad days with faulty Wi-Fi and call drops; this technology allows individuals and corporations to stay connected at all times. There are over 950 million Indians who struggle with call drops and data loss over the telecom network. It is frustrating, to say the least, because the telecom operator makes money even though [&hellip;]" class="popup">
+          <span class="YS-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+              <path d="M11.794 15.316c0-1.03-.835-1.895-1.866-1.895-1.03 0-1.893.866-1.893 1.896s.863 1.9 1.9 1.9c1.023-.016 1.865-.916 1.865-1.9zM18.1 13.422c-1.03 0-1.895.864-1.895 1.895 0 1 .9 1.9 1.9 1.865 1.03 0 1.87-.836 1.87-1.865-.006-1.017-.875-1.917-1.875-1.895zM17.527 19.79c-.678.68-1.826 1.007-3.514 1.007h-.03c-1.686 0-2.834-.328-3.51-1.005-.264-.265-.693-.265-.958 0-.264.265-.264.7 0 1 .943.9 2.4 1.4 4.5 1.402.005 0 0 0 0 0 .005 0 0 0 0 0 2.066 0 3.527-.46 4.47-1.402.265-.264.265-.693.002-.958-.267-.334-.688-.334-.988-.043z"
+              />
+              <path d="M27.707 13.267c0-1.785-1.453-3.237-3.236-3.237-.792 0-1.517.287-2.08.76-2.04-1.294-4.647-2.068-7.44-2.218l1.484-4.69 4.062.955c.07 1.4 1.3 2.6 2.7 2.555 1.488 0 2.695-1.208 2.695-2.695C25.88 3.2 24.7 2 23.2 2c-1.06 0-1.98.616-2.42 1.508l-4.633-1.09c-.344-.082-.693.117-.803.454l-1.793 5.7C10.55 8.6 7.7 9.4 5.6 10.75c-.594-.45-1.3-.75-2.1-.72-1.785 0-3.237 1.45-3.237 3.2 0 1.1.6 2.1 1.4 2.69-.04.27-.06.55-.06.83 0 2.3 1.3 4.4 3.7 5.9 2.298 1.5 5.3 2.3 8.6 2.325 3.227 0 6.27-.825 8.57-2.325 2.387-1.56 3.7-3.66 3.7-5.917 0-.26-.016-.514-.05-.768.965-.465 1.577-1.565 1.577-2.698zm-4.52-9.912c.74 0 1.3.6 1.3 1.3 0 .738-.6 1.34-1.34 1.34s-1.343-.602-1.343-1.34c.04-.655.596-1.255 1.396-1.3zM1.646 13.3c0-1.038.845-1.882 1.883-1.882.31 0 .6.1.9.21-1.05.867-1.813 1.86-2.26 2.9-.338-.328-.57-.728-.57-1.26zm20.126 8.27c-2.082 1.357-4.863 2.105-7.83 2.105-2.968 0-5.748-.748-7.83-2.105-1.99-1.3-3.087-3-3.087-4.782 0-1.784 1.097-3.484 3.088-4.784 2.08-1.358 4.86-2.106 7.828-2.106 2.967 0 5.7.7 7.8 2.106 1.99 1.3 3.1 3 3.1 4.784C24.86 18.6 23.8 20.3 21.8 21.57zm4.014-6.97c-.432-1.084-1.19-2.095-2.244-2.977.273-.156.59-.245.928-.245 1.036 0 1.9.8 1.9 1.9-.016.522-.27 1.022-.57 1.327z"
+              />
+            </svg>
+          </span>
+          <span class="YS-text">reddit</span>
+        </a>
+      </li>
+    <!--Reddit-->    
+      
+      
+ <!--Tumblr-->     
+      <li class="YS-tumblr">
+        <a href="http://tumblr.com/share/link?url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%26utm_source%3Dtumblr%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>&name=Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech"  class="popup"
+        >
+          <span class="YS-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M18.02 21.842c-2.03.052-2.422-1.396-2.44-2.446v-7.294h4.73V7.874H15.6V1.592h-3.714s-.167.053-.182.186c-.218 1.935-1.144 5.33-4.988 6.688v3.637h2.927v7.677c0 2.8 1.7 6.7 7.3 6.6 1.863-.03 3.934-.795 4.392-1.453l-1.22-3.54c-.52.213-1.415.413-2.115.455z"/></svg></span>
+          <span class="YS-text">tumblr</span>
+        </a>
+      </li>
+<!--Tumblr-->      
+      
+      <!--Google-->
+      <li class="YS-googleplus">
+        <a href="https://plus.google.com/share?url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dgoogle%252B%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>"class="popup">
+          <span class="YS-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M21 8.29h-1.95v2.6h-2.6v1.82h2.6v2.6H21v-2.6h2.6v-1.885H21V8.29zM7.614 10.306v2.925h3.9c-.26 1.69-1.755 2.925-3.9 2.925-2.34 0-4.29-2.016-4.29-4.354s1.885-4.353 4.29-4.353c1.104 0 2.014.326 2.794 1.105l2.08-2.08c-1.3-1.17-2.924-1.883-4.874-1.883C3.65 4.586.4 7.835.4 11.8s3.25 7.212 7.214 7.212c4.224 0 6.953-2.988 6.953-7.082 0-.52-.065-1.104-.13-1.624H7.614z"/></svg>            </span>
+          <span class="YS-text">google+</span>
+        </a>
+      </li>
+  <!--Google-->    
+      
+      
+    
+    
+    <!--Flipboard-->  
+        <li class="YS-flipboard">
+         <a href="https://share.flipboard.com/bookmarklet/popout?v=2&title=Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech&url=https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dflipboard%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>" class="popup">
+          <span class="YS-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 96 92">
+               <g shape-rendering="crispEdges" fill="white">
+					<rect x="40" y="40" width="20" height="20" opacity="0.8" />
+					<rect x="40" y="20" width="40" height="20" opacity="0.9" />
+					<rect x="20" y="20" width="20" height="60" />
+				</g>
+            </svg>
+          </span>
+          <span class="YS-text">Flipboard</span>
+        </a>
+      </li>
+    <!--Flipboard-->  
+     
+      
+      
+    <!--WhatsApp-->  
+        <li class="YS-whatsapp">
+        <a href="whatsapp://send?text=Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech https%3A%2F%2Fyourstory.com%2F2017%2F01%2F5barz%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial_share%26utm_term%3D<client_id>">
+          <span class="YS-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 59 53">
+              <path d="M46.3802,10.7138c-4.6512-4.6565-10.8365-7.222-17.4266-7.2247c-13.5785,0-24.63,11.0506-24.6353,24.6333   c-0.0019,4.342,1.1325,8.58,3.2884,12.3159l-3.495,12.7657l13.0595-3.4257c3.5982,1.9626,7.6495,2.9971,11.7726,2.9985h0.01   c0.0008,0-0.0006,0,0.0002,0c13.5771,0,24.6293-11.0517,24.635-24.6347C53.5914,21.5595,51.0313,15.3701,46.3802,10.7138z    M28.9537,48.6163h-0.0083c-3.674-0.0014-7.2777-0.9886-10.4215-2.8541l-0.7476-0.4437l-7.7497,2.0328l2.0686-7.5558   l-0.4869-0.7748c-2.0496-3.26-3.1321-7.028-3.1305-10.8969c0.0044-11.2894,9.19-20.474,20.4842-20.474   c5.469,0.0017,10.6101,2.1344,14.476,6.0047c3.8658,3.8703,5.9936,9.0148,5.9914,14.4859   C49.4248,39.4307,40.2395,48.6163,28.9537,48.6163z"/><path class="st0" d="M40.1851,33.281c-0.6155-0.3081-3.6419-1.797-4.2061-2.0026c-0.5642-0.2054-0.9746-0.3081-1.3849,0.3081   c-0.4103,0.6161-1.59,2.0027-1.9491,2.4136c-0.359,0.4106-0.7182,0.4623-1.3336,0.1539c-0.6155-0.3081-2.5989-0.958-4.95-3.0551   c-1.83-1.6323-3.0653-3.6479-3.4245-4.2643c-0.359-0.6161-0.0382-0.9492,0.27-1.2562c0.2769-0.2759,0.6156-0.7189,0.9234-1.0784   c0.3077-0.3593,0.4103-0.6163,0.6155-1.0268c0.2052-0.4109,0.1027-0.7704-0.0513-1.0784   c-0.1539-0.3081-1.3849-3.3379-1.8978-4.5706c-0.4998-1.2001-1.0072-1.0375-1.3851-1.0566   c-0.3585-0.0179-0.7694-0.0216-1.1797-0.0216s-1.0773,0.1541-1.6414,0.7702c-0.5642,0.6163-2.1545,2.1056-2.1545,5.1351   c0,3.0299,2.2057,5.9569,2.5135,6.3676c0.3077,0.411,4.3405,6.6282,10.5153,9.2945c1.4686,0.6343,2.6152,1.013,3.5091,1.2966   c1.4746,0.4686,2.8165,0.4024,3.8771,0.2439c1.1827-0.1767,3.6419-1.489,4.1548-2.9267c0.513-1.438,0.513-2.6706,0.359-2.9272   C41.211,33.7433,40.8006,33.5892,40.1851,33.281z"
+              />
+            </svg>
+          </span>
+          <span class="YS-text">WhatsApp</span>
+        </a>
+      </li>
+    <!--WhatsApp-->  
+      
+    </ul>
+    
+  </div>  
+  
+  
+</div>  
+                <br />
+            </div>
+
+            <!-- Temp Code for More Impressions -->
+            <!-- <div class="hide phn-tab-block" style="margin:0 auto"> -->
+            <!-- /102423847/YS-Mob-Test -->
+            <!-- <div id='YS-Mob-Test-FSLOT-0'>
+                <script type='text/javascript'>
+                    // Define the slot itself, call display() to 
+                    // register the div and refresh() to fetch ad.
+                    googletag.cmd.push(function() {
+                    var slotName = 'YS-Mob-Test-FSLOT-0';
+                    var slot = googletag.defineSlot('/102423847/YS-Mob-Test', [320, 50],slotName).
+                    setTargeting("test","infinitescroll").
+                    addService(googletag.pubads());
+                    // Display has to be called before
+                    // refresh and after the slot div is in the page.
+                    googletag.display(slotName);
+                    googletag.pubads().refresh([slot]);
+                    });
+                </script> 
+            </div>
+            </div> -->
+              
+		    			<div class='yarpp-related'>
+<div>
+            <div style="display:none" class="related_article" data-post-id="229629"></div>
+            <div style="display:none" class="related_article" data-post-id="191581"></div>
+            <div style="display:none" class="related_article" data-post-id="256179"></div>
+            <div style="display:none" class="related_article" data-post-id="254231"></div>
+            <div style="display:none" class="related_article" data-post-id="253035"></div>
+            <div style="display:none" class="related_article" data-post-id="251695"></div>
+            <div style="display:none" class="related_article" data-post-id="249478"></div>
+            <div style="display:none" class="related_article" data-post-id="249213"></div>
+            <div style="display:none" class="related_article" data-post-id="222068"></div>
+            <div style="display:none" class="related_article" data-post-id="256201"></div>
+    </div>
+</div>
+		    		    </div>
+
+                            
+                                                                                                
+<div id="banner_inside_article" class="mb-30 phn-tab-hide" ><div style="padding-top:8px"> <!-- /102423847/YS-ZONE24-728X90 -->
+<div id='YS-ZONE24-728X90-SLOT-0' style='height:90px; width:728px;margin:0 auto'>
+<script type='text/javascript'>
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-ZONE24-728X90-SLOT-0';
+         var slot = googletag.defineSlot('/102423847/YS_ZONE24_728x90Banner', [728, 90],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+</script>
+</div>
+
+<!-- /102423847/YS_ZONE24_728x90Banner -->
+<!-- <div id='div-gpt-ad-1480602847547-12' style='height:90px; width:728px;margin:0 auto'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480602847547-12'); });
+</script>
+</div>--></div><div id="banner_text" style="text-align:center;font-size:10px;margin-top:-20px">Advertisement</div></div>
+                    <ul class="socialLinks mt-30">
+                       <!--   
+                            <li>
+                            <a href="#" class="fb ysshare" data-type="facebook" data-url="https://yourstory.com/2017/01/5barz/" class="socialIconWrapper facebook" data-title="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech" data-via="YourStory.in">
+                                    <i class="icon-facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                            <a href="#" class="tw ysshare" data-type="twitter" data-url="https://yourstory.com/2017/01/5barz/" class="socialIconWrapper facebook" data-title="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech" data-via="YourStoryCo" data-description="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech">
+                                    <i class="icon-twitter-bird"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="gp ysshare" data-type="googleplus" data-url="https://yourstory.com/2017/01/5barz/" class="socialIconWrapper facebook" data-title="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech" data-via="YourStoryCo">
+                                    <i class="icon-gplus"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="li ysshare" data-type="linkedin" data-url="https://yourstory.com/2017/01/5barz/" class="socialIconWrapper facebook" data-title="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech" data-via="YourStoryCo">
+                                    <i class="icon-linkedin"></i>
+                                </a>
+                            </li>
+-->
+                    </ul>
+
+
+                                                                <div class="postInfo bentonCondensed color-grey ls-0 mt-30">Tags</div>
+                        <ul class="articleTags mt-5">
+                             
+                                <li>
+                                <a href="/tag/5barz" class="pill pill-large pill-grey" data-tvc_event_category="articlepage_tags" data-tvc_tag_name="5Barz" data-tvc_article_category="Start Up India" data-tvc_article_name="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech">
+                                    5Barz                                    </a>
+                                </li>
+                             
+                                <li>
+                                <a href="/tag/airtel" class="pill pill-large pill-grey" data-tvc_event_category="articlepage_tags" data-tvc_tag_name="airtel" data-tvc_article_category="Start Up India" data-tvc_article_name="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech">
+                                    airtel                                    </a>
+                                </li>
+                             
+                                <li>
+                                <a href="/tag/daniel-bland" class="pill pill-large pill-grey" data-tvc_event_category="articlepage_tags" data-tvc_tag_name="Daniel Bland" data-tvc_article_category="Start Up India" data-tvc_article_name="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech">
+                                    Daniel Bland                                    </a>
+                                </li>
+                             
+                                <li>
+                                <a href="/tag/iot" class="pill pill-large pill-grey" data-tvc_event_category="articlepage_tags" data-tvc_tag_name="iot" data-tvc_article_category="Start Up India" data-tvc_article_name="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech">
+                                    iot                                    </a>
+                                </li>
+                             
+                                <li>
+                                <a href="/tag/mindtree-ceo" class="pill pill-large pill-grey" data-tvc_event_category="articlepage_tags" data-tvc_tag_name="Mindtree CEO" data-tvc_article_category="Start Up India" data-tvc_article_name="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech">
+                                    Mindtree CEO                                    </a>
+                                </li>
+                             
+                                <li>
+                                <a href="/tag/samartha-nagabhushanam" class="pill pill-large pill-grey" data-tvc_event_category="articlepage_tags" data-tvc_tag_name="Samartha Nagabhushanam" data-tvc_article_category="Start Up India" data-tvc_article_name="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech">
+                                    Samartha Nagabhushanam                                    </a>
+                                </li>
+                             
+                                <li>
+                                <a href="/tag/vodafone" class="pill pill-large pill-grey" data-tvc_event_category="articlepage_tags" data-tvc_tag_name="Vodafone" data-tvc_article_category="Start Up India" data-tvc_article_name="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech">
+                                    Vodafone                                    </a>
+                                </li>
+                             
+                                <li>
+                                <a href="/tag/wi-fi" class="pill pill-large pill-grey" data-tvc_event_category="articlepage_tags" data-tvc_tag_name="Wi-Fi" data-tvc_article_category="Start Up India" data-tvc_article_name="Stop call drops with 5BARz: Daniel and Samartha explain why it takes years to perfect tech">
+                                    Wi-Fi                                    </a>
+                                </li>
+                                                        <div class="clr"></div>
+                        </ul>
+                        <div style="overflow:auto;">
+                                                         
+                                <div class="phn-tab-hide" style="float:left; margin-left: 20px; padding-top: 5px;">
+                                        
+                                    
+                                </div>
+
+                             
+                                <div class="phn-tab-hide" style="float:left; margin-left: 20px; padding-top: 5px;">
+                                        
+                                    
+                                </div>
+
+                                                        
+                        </div>
+                                        <!-- need to run a survery so commenting out the banner -->
+                    <!--  <div class="mb-30 phn-tab-hide">
+                                            </div> -->
+                   <!--  <div class="hr mt-30 mb-20"></div>
+                                            <div class="hr mt-30 mb-20"></div> -->
+
+                    <p class="bentonCondensed uc color-ys">
+                        About the author
+                    </p>
+
+                    <div class="aboutAuthor mt-15" data-handle="vishal.krishna">
+			<!-- uses private function of user_photo pluin TODO -->
+			<img src="https://d152j5tfobgaot.cloudfront.net/wp-content/uploads/userphoto/34445.jpg"
+			class="aboutAuthor_img fl mr-16" />
+                        <div class="aboutAuthor_content">
+                            <div>
+                            <a href="https://yourstory.com/author/vishal-krishna/" class="aboutAuthor_name inline-block mr-5">
+				    Vishal Krishna                                </a>
+				    						<a target="_blank" href="http://twitter.com/vishalskrishna" class="twLink">
+						    <i class="icon-twitter-bird"></i>
+						</a>
+				                                </div>
+                            <p class="aboutAuthor_text mt-5">
+                                 Vishal Krishna is a Business Editor who writes about the economic and social issues relevant to the development of India. At YourStory he networks with colourful folks that build a nation through startups, small business and large corporate. He is also a closet guitarist and a sports fan.    
+                            </p>
+                        </div>
+                        <div class="clr"></div>
+                    </div>
+
+                    <div class="hr mt-15 mb-30"></div>
+
+                   
+
+                    <div class="fb-comments" data-href="http://yourstory.com/2017/01/5barz/" data-numposts="10" data-colorscheme="light" data-width="100%"></div>  
+                    <!-- check if seo facebook comments plugin is enabled only then enable comments -->
+                                    </div>
+            </div>
+        <div id="single_page_main_second_column" class="grid-one-fourth omega mt-30 phn-tab-grid-full tab-mt-0 phn-mt-16">
+        <div class="mb-30">
+            <a href="http://yourstory.co/editor" 
+                data-tvc_event_category="writeyourstory"
+                class="phn-tab-hide block btn-write-story YOURSTORY_write_btn mb-15" style="color:white">
+                    <div class="section_text-small bold uc mb-5">Write your story <i class="icon-right"></i></div>
+                    <div class="section_text-xsmall">Share your stories with us and inspire others like you!</div>
+            </a>
+            
+
+            </div>
+                                    <div class="phn-tab-hide">
+                            <div>  
+                            
+                                                                     <!-- /102423847/YS-ZONE4-300*250 YS -->
+<div id='YS-ZONE4-300*250-SLOT-0' style='height:250px; width:300px;margin:0 auto'>
+<script type='text/javascript'>
+if (window.outerWidth > 768 ) {
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-ZONE4-300*250-SLOT-0';
+         var slot = googletag.defineSlot('/102423847/YS-ZONE4-300*250', [300, 250],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+}
+</script>
+</div>
+
+<!-- /102423847/YS-HOME-ZONE4-300X250 -->
+<!-- <div id='div-gpt-ad-1480677931196-0' style='height:250px; width:300px;margin:0 auto'>
+<script>
+if (window.outerWidth > 768 ) {
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480677931196-0'); });
+}
+</script>
+</div> -->
+                <div class="hr mb-16"></div>
+                                        
+                </div>
+                            <div>  
+                            
+                                                         <!-- /102423847/YS-ZONE7-300X250 -->
+<div id='YS-ZONE7-300X250-SLOT-0' style='height:250px; width:300px;margin:0 auto'>
+<script type='text/javascript'>
+if (window.outerWidth > 768 ) {
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-ZONE7-300X250-SLOT-0';
+         var slot = googletag.defineSlot('/102423847/YS-ZONE7-300X250', [300, 250],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+}
+</script>
+</div>
+
+<!-- /102423847/YS-ZONE7-300X250 -->
+<!-- <div id='div-gpt-ad-1480602847547-2' style='height:250px; width:300px;margin:0 auto'>
+<script>
+if (window.outerWidth > 768 ) {
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480602847547-2'); });
+}
+</script>
+</div> -->                <div class="hr mb-16"></div>
+                                        
+                </div>
+                        </div>
+            
+             
+     
+                <p class="phn-tab-hide bentonCondensed bold color-ys uc mt-60 phn-mt-30 phn-mh-16">
+                    Most Popular
+                    <!-- Related Articles -->
+                </p>
+                
+                <ul class="phn-tab-hide suggestedPostsList mt-10 phn-mh-16">
+                 
+                    <li>
+                        <a href="http://yourstory.com/2017/02/indian-womans-blood-boil/">
+                            <div class="imgWrapper fl">
+                                <img src="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2017/02/Staring_men2-300x150.jpg">
+                            </div>
+                            <div class="content">
+                                <p class="postInfo bentonCondensed color-grey">
+                                    Popular
+                                </p>
+                                <p class="postTitle bentonCondensed mt-5">
+                                    5 things that make every Indian woman's blood boil                                </p>
+                            </div>
+                            <div class="clr"></div>
+                        </a>
+                    </li>
+                 
+                    <li>
+                        <a href="http://yourstory.com/2017/02/thebagtalk-anita-hassanandani-rohit-reddy/">
+                            <div class="imgWrapper fl">
+                                <img src="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2017/02/pic-300x150.jpg">
+                            </div>
+                            <div class="content">
+                                <p class="postInfo bentonCondensed color-grey">
+                                    Popular
+                                </p>
+                                <p class="postTitle bentonCondensed mt-5">
+                                    How this TV actress and investment banker couple are bagging a new niche in e-commerce                                </p>
+                            </div>
+                            <div class="clr"></div>
+                        </a>
+                    </li>
+                 
+                    <li>
+                        <a href="http://yourstory.com/2017/02/100m-users-ambani-woos-reliance-jio-users-jio-prime-membership/">
+                            <div class="imgWrapper fl">
+                                <img src="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2016/09/reliance-jio-mukesh-ambani-300x149.png">
+                            </div>
+                            <div class="content">
+                                <p class="postInfo bentonCondensed color-grey">
+                                    Popular
+                                </p>
+                                <p class="postTitle bentonCondensed mt-5">
+                                    After 100M users, Ambani woos Reliance Jio users with ‘Jio Prime Membership’                                </p>
+                            </div>
+                            <div class="clr"></div>
+                        </a>
+                    </li>
+                 
+                </ul>
+     
+            <!-- <div style="margin-top:25px;">
+                <a href="https://goo.gl/Bzxmxx" target="_blank">
+                    <img src="https://userfilescdn.yourstory.com/w9fslirt-report-banner-2-(1).png" style="width:300px"/>
+                </a>
+            </div> -->
+            <!-- <div style="margin-top:25px;">
+                <a href="https://yourstory.com/tag/ys-branch/" target="_blank">
+                    <img src="https://userfilescdn.yourstory.com/a9w5juih-MobileGrowthIndia-3.gif" style="width:300px"/>
+                </a>
+            </div> -->
+      
+            
+            <div class="phn-tab-hide">
+                            <div>  
+                            
+                                                            <!-- /102423847/YS-ZONE8-300X250 -->
+<div id='YS-ZONE8-300X250-SLOT-0' style='height:250px; width:300px;margin:0 auto'>
+<script type='text/javascript'>
+if (window.outerWidth > 768 ) {
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-ZONE8-300X250-SLOT-0';
+         var slot = googletag.defineSlot('/102423847/YS-ZONE8-300X250', [300, 250],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+}
+</script>
+</div>
+
+<!-- /102423847/YS-ZONE8-300X250 -->
+<!-- <div id='div-gpt-ad-1480602847547-3' style='height:250px; width:300px;margin:0 auto'>
+<script>
+if (window.outerWidth > 768 ) {
+     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480602847547-3'); });
+}
+</script>
+</div> -->                <div class="hr mb-16"></div>
+                                        
+                </div>
+                            <div>  
+                            
+                                                         <!-- /102423847/YS-ZONE9-300X250 -->
+<div id='YS-ZONE9-300X250-SLOT-0' style='height:250px; width:300px;margin:0 auto'>
+<script type='text/javascript'>
+if (window.outerWidth > 768 ) {
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-ZONE9-300X250-SLOT-0';
+         var slot = googletag.defineSlot('/102423847/YS-ZONE9-300X250', [300, 250],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+}
+</script>
+</div>
+
+<!-- /102423847/YS-ZONE9-300X250 -->
+<!-- <div id='div-gpt-ad-1480602847547-4' style='height:250px; width:300px;margin:0 auto'>
+<script>
+if (window.outerWidth > 768 ) {
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480602847547-4'); });
+}
+</script>
+</div> -->                <div class="hr mb-16"></div>
+                                        
+                </div>
+                        </div>
+
+             
+     
+                <p class="phn-tab-hide bentonCondensed bold color-ys uc mt-60 phn-mt-30 phn-mh-16">
+                    Most Popular
+                    <!-- Related Articles -->
+                </p>
+                
+                <ul class="phn-tab-hide suggestedPostsList mt-10 phn-mh-16">
+                 
+                    <li>
+                        <a href="http://yourstory.com/2016/04/recurrex/">
+                            <div class="imgWrapper fl">
+                                <img src="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2016/04/Mat-Alex-300x151.jpg">
+                            </div>
+                            <div class="content">
+                                <p class="postInfo bentonCondensed color-grey">
+                                    Popular
+                                </p>
+                                <p class="postTitle bentonCondensed mt-5">
+                                    Why this Canadian duo chose no place other than India to start up                                </p>
+                            </div>
+                            <div class="clr"></div>
+                        </a>
+                    </li>
+                 
+                    <li>
+                        <a href="http://yourstory.com/2017/02/nami-zarringhalam-oneplus-experience-store/">
+                            <div class="imgWrapper fl">
+                                <img src="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2017/02/YourStory-Nami-300x150.jpg">
+                            </div>
+                            <div class="content">
+                                <p class="postInfo bentonCondensed color-grey">
+                                    Popular
+                                </p>
+                                <p class="postTitle bentonCondensed mt-5">
+                                    Exclusive: Nami Zarringhalam, Co-founder, Truecaller, inaugurates community interactions at OnePlus Experience Store                                </p>
+                            </div>
+                            <div class="clr"></div>
+                        </a>
+                    </li>
+                 
+                    <li>
+                        <a href="http://yourstory.com/2017/02/mumbai-principal-says-pants-stop-women-from-reproducing-twitter-reacts/">
+                            <div class="imgWrapper fl">
+                                <img src="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2017/02/dresslikeawoman-hs-300x147.jpg">
+                            </div>
+                            <div class="content">
+                                <p class="postInfo bentonCondensed color-grey">
+                                    Popular
+                                </p>
+                                <p class="postTitle bentonCondensed mt-5">
+                                    Mumbai principal says pants stop women from reproducing, and the Twitterverse shows her what it thinks of that                                </p>
+                            </div>
+                            <div class="clr"></div>
+                        </a>
+                    </li>
+                 
+                </ul>
+     
+            <!-- <div style="margin-top:25px;">
+                <a href="https://goo.gl/Bzxmxx" target="_blank">
+                    <img src="https://userfilescdn.yourstory.com/w9fslirt-report-banner-2-(1).png" style="width:300px"/>
+                </a>
+            </div> -->
+            <!-- <div style="margin-top:25px;">
+                <a href="https://yourstory.com/tag/ys-branch/" target="_blank">
+                    <img src="https://userfilescdn.yourstory.com/a9w5juih-MobileGrowthIndia-3.gif" style="width:300px"/>
+                </a>
+            </div> -->
+      
+            
+            <div class="phn-tab-hide">
+                            <div>  
+                            
+                                                         <!-- /102423847/YS-ZONE13-300X250 -->
+<div id='YS-ZONE13-300X250-SLOT-0' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-ZONE13-300X250-SLOT-0';
+         var slot = googletag.defineSlot('/102423847/YS-ZONE13-300X250', [300, 250],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+
+</script>
+</div>
+
+<!-- /102423847/YS-ZONE13-300X250 -->
+<!--<div id='div-gpt-ad-1480602847547-5' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480602847547-5'); });
+</script>
+</div>-->                <div class="hr mb-16"></div>
+                                        
+                </div>
+                            <div>  
+                            
+                                                         <!-- /102423847/YS-ZONE14-300*250 -->
+<div id='YS-ZONE14-300*250-SLOT-0' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+   // Define the slot itself, call display() to 
+   // register the div and refresh() to fetch ad.
+   googletag.cmd.push(function() {
+         var slotName = 'YS-ZONE14-300*250-SLOT-0';
+         var slot = googletag.defineSlot('/102423847/YS-ZONE14-300*250', [300, 250],slotName).
+         setTargeting("test","infinitescroll").
+         addService(googletag.pubads());
+
+     // Display has to be called before
+     // refresh and after the slot div is in the page.
+     googletag.display(slotName);
+     googletag.pubads().refresh([slot]);
+});
+
+</script>
+</div>                <div class="hr mb-16"></div>
+                                        
+                </div>
+                        </div>
+
+             
+     
+                <p class="phn-tab-hide bentonCondensed bold color-ys uc mt-60 phn-mt-30 phn-mh-16">
+                    Most Popular
+                    <!-- Related Articles -->
+                </p>
+                
+                <ul class="phn-tab-hide suggestedPostsList mt-10 phn-mh-16">
+                 
+                    <li>
+                        <a href="http://yourstory.com/2017/02/sexual-harassment-indian-startup-ecosystem/">
+                            <div class="imgWrapper fl">
+                                <img src="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2017/02/shout_out-300x150.jpg">
+                            </div>
+                            <div class="content">
+                                <p class="postInfo bentonCondensed color-grey">
+                                    Popular
+                                </p>
+                                <p class="postTitle bentonCondensed mt-5">
+                                    Sexual harassment - underbelly of the Indian startup ecosystem exposed                                </p>
+                            </div>
+                            <div class="clr"></div>
+                        </a>
+                    </li>
+                 
+                    <li>
+                        <a href="http://yourstory.com/2017/02/mukesh-ambani-failures/">
+                            <div class="imgWrapper fl">
+                                <img src="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2017/02/Mukesh-Ambani-300x150.jpg">
+                            </div>
+                            <div class="content">
+                                <p class="postInfo bentonCondensed color-grey">
+                                    Popular
+                                </p>
+                                <p class="postTitle bentonCondensed mt-5">
+                                    I faced multiple business failures but never gave up: Mukesh Ambani                                </p>
+                            </div>
+                            <div class="clr"></div>
+                        </a>
+                    </li>
+                 
+                    <li>
+                        <a href="http://yourstory.com/2016/10/rjio-sets-world-record/">
+                            <div class="imgWrapper fl">
+                                <img src="https://d25medu75j19j3.cloudfront.net/wp-content/uploads/2016/09/reliance-jio-mukesh-ambani-300x149.png">
+                            </div>
+                            <div class="content">
+                                <p class="postInfo bentonCondensed color-grey">
+                                    Popular
+                                </p>
+                                <p class="postTitle bentonCondensed mt-5">
+                                    RJio clocks 16M users in the first month, sets 'world record'                                </p>
+                            </div>
+                            <div class="clr"></div>
+                        </a>
+                    </li>
+                 
+                </ul>
+     
+            <!-- <div style="margin-top:25px;">
+                <a href="https://goo.gl/Bzxmxx" target="_blank">
+                    <img src="https://userfilescdn.yourstory.com/w9fslirt-report-banner-2-(1).png" style="width:300px"/>
+                </a>
+            </div> -->
+            <!-- <div style="margin-top:25px;">
+                <a href="https://yourstory.com/tag/ys-branch/" target="_blank">
+                    <img src="https://userfilescdn.yourstory.com/a9w5juih-MobileGrowthIndia-3.gif" style="width:300px"/>
+                </a>
+            </div> -->
+      
+
+            <!-- <div class="phn-tab-hide" style="float:left; padding-top: 5px;"> -->
+            <!--  -->
+            
+        </div>
+
+        <div class="clr"></div>
+    </div>
+</section>
+
+
+
+
+    <section id="footer_start" class="section sectionNewsletter pt-0">
+        <div class="container">
+            <div class="newsletterWrapper ma">
+                <div class="sectionNewsletter_icon ma"></div>
+                <p class="sectionNewsletter_text ta-c mt-20">
+                    Sign Up for the daily <span class="bold">YS Newsletter </span>for all the latest updates
+                </p>
+                <form action="https://yourstory.us8.list-manage.com/subscribe/post" method="POST" class="sectionNewsletter_form mt-15">
+	            <input type="hidden" name="u" value="c737ed6d8bb034c32a915cde2">
+		    <input type="hidden" name="id" value="84c16acfc9">
+                    <input type="email" placeholder="Type your email address" class="inputText fl" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+                    <input type="submit" 
+                        data-tvc_event_category="subscription"
+                        class="submitBtn hide-text fr">
+                    <div class="clr"></div>
+                </form>
+            </div>
+        </div>
+    </section>
+    <footer class="sectionFooter sectionFooter-red ">
+        <div class="container">
+            <div class="socialLinksWrapper ma bg-red  phn-grid-full">
+                <a href="#" class="footerLogo hide-text ma">
+                    Your Story
+                </a>
+                <ul class="socialLinks ta-c mt-20">
+                    <li>
+                        <a href="https://twitter.com/YourStoryCo">
+                            <i class="icon-twitter-bird"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/YourStoryCom">
+                            <i class="icon-facebook"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/user/yourstorytv">
+                            <i class="icon-youtube"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://plus.google.com/111272339013288238153/about">
+                            <i class="icon-gplus"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://in.linkedin.com/company/yourstory.com">
+                            <i class="icon-linkedin"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="sectionFooterNavigation bg-red ">
+            <div class="container">
+                <ul class="navigation ta-c pv-20 phn-pt-0">
+                    <div class="inline-block phn-grid-half alpha phn-fl phn-ta-l phn-pr-16">
+                        <li>
+                            <a data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="About us"
+                                 href="http://yourstory.com/our-story">
+                                About us
+                            </a>
+                        </li>
+                        <li>
+                            <a  data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="Contact us"
+                                href="http://yourstory.com/contact-us/">
+                                Contact us
+                            </a>
+                        </li>
+                        <li>
+                            <a data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="Faqs"
+                                href="http://yourstory.com/frequently-asked-questions">
+                                Faqs
+                            </a>
+                        </li>
+                        <li>
+                            <a data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="Privacy"
+                                href="http://yourstory.com/privacy">
+                                Privacy
+                            </a>
+                        </li>
+                        <li>
+                            <a data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="Jobs@ys"
+                                href="http://careers.yourstory.com">
+                                Jobs@ys
+                            </a>
+                        </li>
+                        <li>
+                            <a data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="Partner Events"
+                                href="http://yourstory.com/partner-events/">
+                                Partner Events
+                            </a>
+                        </li>
+                        <li>
+                            
+                        </li>
+                    </div>
+                    <div class="inline-block phn-grid-half omega phn-fl phn-ta-l phn-pl-16">
+                        <li>
+                            <a data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="Terms &amp; Conditions"
+                                href="http://yourstory.com/terms-and-conditions">
+                                Terms &amp; Conditions
+                            </a>
+                        </li>
+                        <li>
+                            <a data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="Team YS"
+                                href="http://yourstory.com/team-ys">
+                                 Team YS    
+                            </a>
+                        </li>
+                        <li>
+                            <a data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="Testimonials"
+                                href="http://yourstory.com/testimonials">
+                                Testimonials
+                            </a>
+                        </li>
+                        <li>
+                            <a data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="Disclaimer"
+                                href="http://yourstory.com/disclaimer">
+                                Disclaimer
+                            </a>
+                        </li>
+                        <li>
+                            <a data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="Advertise"
+                                href="https://yourstory.com/advertise/">
+                                Advertise
+                            </a>
+                        </li>
+                        <li>
+                            <a data-tvc_event_category="footer_links"
+                                data-tvc_footer_link_label="Code of Conduct"
+                                href="/yourstory-code-of-conduct">
+                                Code of Conduct
+                            </a>
+                        </li>
+                    </div>
+                    <div class="clr"></div>
+                </ul>
+            </div>
+        </div>
+        <div class="sectionCopyright">
+            <div class="container">
+                <p class="ta-c pv-15">
+                    &copy; 2017 YourStory Media Private Limited. All rights reserved.
+                </p>
+            </div>
+        </div>
+    </footer>
+     
+<div id="mobile_only_banner">
+    
+    			
+			
+				
+						<!-- <a href="#" onClick="toggle_mob_banner();" style="display:none;right:0px;position:absolute;margin-right:4%;top:-12px;"> <img src= "https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/images/icons/close-button.png" height="24" width="24"></img>
+    					</a> -->
+                	
+                	  <!-- /102423847/YS-MHP-MAST-HEAD-320X50 -->
+<div id='YS-MHP-MAST-HEAD-320X50-SLOT-0'>
+<script type='text/javascript'>
+// Define the slot itself, call display() to 
+// register the div and refresh() to fetch ad.
+googletag.cmd.push(function() {
+var slotName = 'YS-MHP-MAST-HEAD-320X50-SLOT-0';
+var slot = googletag.defineSlot('/102423847/YS-MHP-MAST-HEAD-320X50', [320, 50],slotName).
+setTargeting("test","infinitescroll").
+addService(googletag.pubads());
+// Display has to be called before
+// refresh and after the slot div is in the page.
+googletag.display(slotName);
+googletag.pubads().refresh([slot]);
+});
+</script>
+</div></div>
+
+<link rel='stylesheet' id='yarppRelatedCss-css'  href='https://d152j5tfobgaot.cloudfront.net/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/jquery-1.9.1.min.js?ver=20151025'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/browser-deeplink.js?ver=20160329'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/share.js?ver=20160521'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/trunk8.js?ver=20160420'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/third-party/jquery.prettySocial.min.js?ver=20151025'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/third-party/underscore-min.js?ver=20160430'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/main.js?ver=20170213'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/ads.js?ver=20151025'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/video.js?ver=20170208'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/third-party/jquery.cookie.min.js?ver=20151025'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/browser-detect.js?ver=20160327'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/infinite_scroll.js?ver=20161030'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/yourstory_misc.js?ver=20170222'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-content/themes/YourStoryWPTheme/js/profiles.js?ver=20161121_7'></script>
+<script type='text/javascript' src='https://d152j5tfobgaot.cloudfront.net/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+
+
+<script type="text/javascript">
+
+    deeplink.setup({
+        iOS: {
+            appId: "918399830",
+            appName: "YourStory",
+        },
+        android: {
+            appId: "com.yslabs.yourstory"
+        }
+    });
+
+    function clickHandler() {
+
+        
+        deeplink.open("ysApp://openarticle?site=YOURSTORY&article_id=248595&title=Stop+call+drops+with+5BARz%3A+Daniel+and+Samartha+explain+why+it+takes+years+to+perfect+tech&featured_image_url=https%3A%2F%2Fd25medu75j19j3.cloudfront.net%2Fwp-content%2Fuploads%2F2017%2F01%2FDanielBland-300x153.jpg");
+        return false;
+    }
+
+  </script>
+
+
+<!-- Google Code for Remarketing Tag -->
+<!--
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 945972682;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<div style="display:none">
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+</div>    
+<noscript>
+<div style="display:none;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/945972682/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- facebook sdk start -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_IN/sdk.js#xfbml=1&appId=1502686356678302&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- facebook sdk  end-->
+
+<!-- -->
+
+
+<!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com :: Campaign Title: Decoding Budget for Startups --><div id="om-atpm8jixaqppo46z-holder"></div><script>var atpm8jixaqppo46z,atpm8jixaqppo46z_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){atpm8jixaqppo46z_poll(function(){if(window['om_loaded']){if(!atpm8jixaqppo46z){atpm8jixaqppo46z=new OptinMonsterApp();return atpm8jixaqppo46z.init({"u":"18306.510007","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;atpm8jixaqppo46z=new OptinMonsterApp();atpm8jixaqppo46z.init({"u":"18306.510007","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster -->:
+<!-- Google CSE Start -->
+<script>
+  (function() {
+    var cx = '010874631379318530955:vzzv6drtaqk';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<!-- Google CSE End -->
+<!-- io code starts -->
+
+<!-- io code ends -->
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Content Delivery Network via Amazon Web Services: CloudFront: d152j5tfobgaot.cloudfront.net
+Database Caching 261/344 queries in 0.707 seconds using memcached
+
+ Served from: yourstory.com @ 2017-02-23 13:10:56 by W3 Total Cache -->

@@ -1,0 +1,34 @@
+   IFRAME: [1]http://bit.ly/2mdgOUG
+
+   Why are you closing?
+   [2]It hides the content [3]It looks like an ad [4]I trust only original
+   links
+   Link shared by
+   [5]Brenda cunnien
+   [6]Brenda cunnien @CunnienBrenda
+
+   [7]Log in
+   Original URL
+   [8]http://bit.ly/2mdgOUG
+   TB12, JE11 and Brady's missing jersey: [9]6 hours ago
+
+References
+
+   Visible links
+   1. http://bit.ly/2mdgOUG
+   2. file:///url/go/?url=http://bit.ly/2mdgOUG
+   3. file:///url/go/?url=http://bit.ly/2mdgOUG
+   4. file:///url/go/?url=http://bit.ly/2mdgOUG
+   5. https://twitter.com/CunnienBrenda
+   6. https://twitter.com/CunnienBrenda
+   7. file:///home/tmedina/cs432/assignment3/part1/uri_raw403.txt
+   8. file:///url/go/?url=http://bit.ly/2mdgOUG
+   9. https://twitter.com/linkis/status/834574810088865798
+
+   Hidden links:
+  11. file://localhost/url/go/?url=http%3A%2F%2Fbit.ly%2F2mdgOUG
+  12. file://localhost/
+  13. file://twitter.com/CunnienBrenda
+  14. file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw403.txt
+  15. file://localhost/url/go/?url=http%3A%2F%2Fbit.ly%2F2mdgOUG
+  16. javascript:void(0);

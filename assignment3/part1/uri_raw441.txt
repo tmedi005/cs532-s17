@@ -1,0 +1,727 @@
+<!doctype html>
+<!--[if lt IE 7 ]><html lang="en" class="no-js ie6" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]><html lang="en" class="no-js ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]><html lang="en" class="no-js ie8" lang="en-US"> <![endif]-->
+<!--[if IE 9 ]><html lang="en" class="no-js ie9" lang="en-US"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en" class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>How Superbowl LI Became an Anime Classic | Website dedicated to and from the perspective of Blerds (Black Nerds). We tackle all subjects for your nerd pedigree</title>
+    
+<meta name="description" content="Website dedicated to and from the perspective of Blerds (Black Nerds). We tackle all subjects for your nerd pedigree" />
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://blacknerdproblems.com/?feed=rss2" />
+    <link rel="pingback" href="http://blacknerdproblems.com/xmlrpc.php" />
+
+    <link rel="alternate" type="application/rss+xml" title="Black Nerd Problems &raquo; Feed" href="http://blacknerdproblems.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Black Nerd Problems &raquo; Comments Feed" href="http://blacknerdproblems.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Black Nerd Problems &raquo; How Superbowl LI Became an Anime Classic Comments Feed" href="http://blacknerdproblems.com/how-superbowl-li-became-an-anime-classic/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/blacknerdproblems.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=b5b68b27db41d81196cfc359615ac4c4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='addtofeedly-style-css'  href='http://blacknerdproblems.com/wp-content/plugins/add-to-feedly/style.css?ver=b5b68b27db41d81196cfc359615ac4c4' type='text/css' media='all' />
+<link rel='stylesheet' id='abap-css-css'  href='http://blacknerdproblems.com/wp-content/plugins/author-box-after-posts/abap.css?ver=b5b68b27db41d81196cfc359615ac4c4' type='text/css' media='all' />
+<link rel='stylesheet' id='main_style-css'  href='http://blacknerdproblems.com/wp-content/themes/newssetter-child/style.css?ver=b5b68b27db41d81196cfc359615ac4c4' type='text/css' media='all' />
+<link rel='stylesheet' id='screen_css-css'  href='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/screen.css?ver=b5b68b27db41d81196cfc359615ac4c4' type='text/css' media='all' />
+<link rel='stylesheet' id='default-css'  href='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/styles/default.css?ver=b5b68b27db41d81196cfc359615ac4c4' type='text/css' media='all' />
+<link rel='stylesheet' id='cusel-css'  href='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/css/cusel.css?ver=b5b68b27db41d81196cfc359615ac4c4' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/framework/static/css/prettyPhoto.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='shCore-css'  href='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/css/shCore.css?ver=b5b68b27db41d81196cfc359615ac4c4' type='text/css' media='all' />
+<link rel='stylesheet' id='shThemeDefault-css'  href='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/css/shThemeDefault.css?ver=b5b68b27db41d81196cfc359615ac4c4' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://blacknerdproblems.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://blacknerdproblems.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/plugins/add-to-feedly/js/jquery-1.10.2.min.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/plugins/add-to-feedly/js/scripts.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/libs/modernizr-2.5.3.min.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/libs/respond.min.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/general.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/cusel-min.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/jquery.tools.min.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/jquery.easing.1.3.min.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/jquery.carouFredSel.min.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/jquery.touchSwipe.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/jquery.touchwipe.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/slides.min.jquery.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/jScrollPane.min.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/jquery.mousewheel.min.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/jquery.customInput.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/framework/static/javascript/jquery.prettyPhoto.js?ver=3.1.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blacknerdproblems.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blacknerdproblems.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Heathen #1 Preview' href='http://blacknerdproblems.com/heathen-1-preview/' />
+<link rel='next' title='Loose Ends #2 Review' href='http://blacknerdproblems.com/loose-ends-2-review/' />
+
+<link rel='canonical' href='http://blacknerdproblems.com/how-superbowl-li-became-an-anime-classic/' />
+<link rel='shortlink' href='http://blacknerdproblems.com/?p=52838' />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-0000000-0']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type='text/javascript' data-cfasync='false'>var _mmunch = {'front': false, 'page': false, 'post': false, 'category': false, 'author': false, 'search': false, 'attachment': false, 'tag': false};_mmunch['post'] = true; _mmunch['postData'] = {"ID":52838,"post_name":"how-superbowl-li-became-an-anime-classic","post_title":"How Superbowl LI Became an Anime Classic","post_type":"post","post_author":"22","post_status":"publish"}; _mmunch['postCategories'] = [{"term_id":96,"name":"Editorials","slug":"editorials","term_group":0,"term_taxonomy_id":109,"taxonomy":"category","description":"","parent":93,"count":679,"object_id":52838,"filter":"raw","cat_ID":96,"category_count":679,"category_description":"","cat_name":"Editorials","category_nicename":"editorials","category_parent":93},{"term_id":93,"name":"Features","slug":"features","term_group":0,"term_taxonomy_id":106,"taxonomy":"category","description":"","parent":0,"count":156,"object_id":52838,"filter":"raw","cat_ID":93,"category_count":156,"category_description":"","cat_name":"Features","category_nicename":"features","category_parent":0}]; _mmunch['postTags'] = [{"term_id":314,"name":"anime","slug":"anime","term_group":0,"term_taxonomy_id":336,"taxonomy":"post_tag","description":"","parent":0,"count":59,"object_id":52838,"filter":"raw"},{"term_id":2778,"name":"Football","slug":"football","term_group":0,"term_taxonomy_id":2787,"taxonomy":"post_tag","description":"","parent":0,"count":1,"object_id":52838,"filter":"raw"}]; _mmunch['postAuthor'] = {"name":"","ID":""};</script><script data-cfasync="false" src="//s3.amazonaws.com/mailmunch/static/site.js" id="mailmunch-script" data-mailmunch-site-id="26051" async></script>	<style type="text/css">
+		.paypal_donation_button:before,
+		.paypal_donation_button:after {
+		    content: " ";
+		    display: table;
+		}
+		.paypal_donation_button:after {
+			clear: both;
+		}
+		.paypal_donation_button {
+			max-width: 147px;
+			margin: 0 auto;
+			padding: 0;
+			display: block;
+		}
+	</style>
+	
+<link rel="alternate" type="application/rss+xml" title="Podcast RSS feed" href="http://blacknerdproblems.com/feed/podcast" />
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//blacknerdproblems.com/?wordfence_logHuman=1&hid=EC953C8715C8C02FB7F446C3EE70E07F');
+</script><meta name="google-site-verification" content="z88CUt-iuqNKs-VOiVy6-elLojCNnziIgMrEkkDMfPo" />
+<link rel='dns-prefetch' href='//widgets.wp.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel="shortcut icon" href="http://blacknerdproblems.com/wp-content/uploads/2012/08/BNP_icon_blck_2.png"/>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="How Superbowl LI Became an Anime Classic" />
+<meta property="og:url" content="http://blacknerdproblems.com/how-superbowl-li-became-an-anime-classic/" />
+<meta property="og:description" content="y now everyone should know about what went down in Super Bowl LI. How the Pats stole Christmas, AKA the Patriot&#039;s Christmas Miracle, was a game for the ages. A game that lost a lot of people money ..." />
+<meta property="article:published_time" content="2017-02-21T06:13:19+00:00" />
+<meta property="article:modified_time" content="2017-02-21T14:17:16+00:00" />
+<meta property="og:site_name" content="Black Nerd Problems" />
+<meta property="og:image" content="http://img04.deviantart.net/58ce/i/2015/249/9/d/mega_man_x_new_england_patriot_armor_2015_by_hbgoo-d98mozz.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@BlkNrdProblems" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@BlkNrdProblems" />
+
+<script type="text/javascript">/* <![CDATA[ */
+tf_script={"TF_THEME_PREFIX":"newssetter","TFUSE_THEME_URL":"http:\/\/blacknerdproblems.com\/wp-content\/themes\/newssetter-parent","ajaxurl":"http:\/\/blacknerdproblems.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */</script>
+
+<link rel="stylesheet" href="http://blacknerdproblems.com/wp-content/themes/newssetter-parent/cache/min-css-af0364b7dad49a50225c8b13b768f44b.css?m=0" type="text/css" media="all" /><meta data-pso-pv="1.2.0" data-pso-pt="singlePost" data-pso-th="676bf9f99ca09a58b3dc85368c2bd08a">
+    	<link href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300,400,700|Alike" rel="stylesheet">
+	<!-- Mobile viewport optimized: h5bp.com/viewport -->
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body class="chrome">
+<div class="body_wrap homepage">
+    <div class="header_container header_full">
+            <!-- adv before head --><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Test 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6644841426525560"
+     data-ad-slot="3002315332"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> <!-- adv before head -->        <header style="background-image:url(http://blacknerdproblems.com/wp-content/themes/newssetter-parent/images/header_pattern_1.png);background-color:#111111">
+            <div class="container">
+                <div class="header_right">            	
+                    <div class="top_btn">
+                        <div class="topsearch">
+                                    <form id="searchForm" action="http://blacknerdproblems.com/" method="get">
+            <input type="submit" id="searchSubmit" value="Search" class="btn-search">
+            <input type="text" name="s" id="stext" value="" class="stext">                    
+        </form>
+                            </div> 
+                    </div>
+                </div>
+                <div class="header_left">
+                    <div class="logo">
+                        	<a href="http://blacknerdproblems.com" title="Website dedicated to and from the perspective of Blerds (Black Nerds). We tackle all subjects for your nerd pedigree">
+            <img src="http://blacknerdproblems.com/wp-content/uploads/2012/08/bnp-3-300x74.png" alt="Black Nerd Problems"  border="0" />
+	</a>
+	                    </div><!--/ .logo -->
+                </div>
+                <div class="clear"></div>
+            </div><!--/ .container -->
+        </header>
+    </div>
+<!--/ header_container -->
+<div class="container topm_cont">
+	<nav id="topmenu" class="menu-top-nav-container"><ul id="menu-top-nav" class="dropdown"><li id="menu-item-2066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2066"><a href="http://blacknerdproblems.com/bnp/"><span>BNP</span></a>
+<ul/ class="submenu-1" />
+	<li id="menu-item-2068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2068"><a href="http://blacknerdproblems.com/bnp/contributors/"><span>Contributors</span></a></li>
+	<li id="menu-item-24916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24916"><a href="http://blacknerdproblems.com/bnp/interns-apply-here/"><span>Interns Apply Here!</span></a></li>
+	<li id="menu-item-2069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2069"><a href="http://blacknerdproblems.com/bnp/about-us/"><span>About Us</span></a></li>
+	<li id="menu-item-2067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2067"><a href="http://blacknerdproblems.com/bnp/affiliations/"><span>Affiliations</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2070"><a href="http://blacknerdproblems.com/category/comics/"><span>Comics</span></a>
+<ul/ class="submenu-1" />
+	<li id="menu-item-3005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3005"><a href="http://blacknerdproblems.com/category/comics/manga/"><span>Manga</span></a></li>
+	<li id="menu-item-3394" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3394"><a href="http://blacknerdproblems.com/category/comics/graphic-novels/"><span>Graphic Novels</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2071" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-2071"><a href="http://blacknerdproblems.com/category/features/"><span>Features</span></a>
+<ul/ class="submenu-1" />
+	<li id="menu-item-2078" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2078"><a href="http://blacknerdproblems.com/category/features/editorials/"><span>Editorials</span></a></li>
+	<li id="menu-item-2077" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2077"><a href="http://blacknerdproblems.com/category/features/cosplay-corner/"><span>Cosplay Corner</span></a></li>
+	<li id="menu-item-25512" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25512"><a href="http://blacknerdproblems.com/category/features/top-five-dead-or-alive/"><span>Top Five Dead Or Alive</span></a></li>
+	<li id="menu-item-3534" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3534"><a href="http://blacknerdproblems.com/category/features/carcosa-interviews/"><span>Carcosa Interviews</span></a></li>
+	<li id="menu-item-2079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2079"><a href="http://blacknerdproblems.com/category/features/nerd_in_residence/"><span>Nerd in Residence</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2321"><a href="http://blacknerdproblems.com/category/media/"><span>Media</span></a>
+<ul/ class="submenu-1" />
+	<li id="menu-item-2074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2074"><a href="http://blacknerdproblems.com/category/media/tv-shows/"><span>TV Shows</span></a>
+	<ul/ class="submenu-1" />
+		<li id="menu-item-3599" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3599"><a href="http://blacknerdproblems.com/category/media/tv-shows/anime-tv-shows/"><span>Anime</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-2322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2322"><a href="http://blacknerdproblems.com/category/media/movies/"><span>Movies</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2083"><a href="http://blacknerdproblems.com/category/video-game/"><span>Video Games</span></a>
+<ul/ class="submenu-1" />
+	<li id="menu-item-2317" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2317"><a href="http://blacknerdproblems.com/category/video-game/ps4-video-game/"><span>PS4</span></a></li>
+	<li id="menu-item-2318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2318"><a href="http://blacknerdproblems.com/category/video-game/xbox-one/"><span>Xbox One</span></a></li>
+	<li id="menu-item-2315" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2315"><a href="http://blacknerdproblems.com/category/video-game/current-gen/"><span>Current Gen</span></a>
+	<ul/ class="submenu-1" />
+		<li id="menu-item-40484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-40484"><a href="http://blacknerdproblems.com/bnp-magical-girl-design-contest/"><span>Design Contest!</span></a>
+		<ul/ class="submenu-1" />
+			<li id="menu-item-5979" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5979"><a href="http://blacknerdproblems.com/category/podcasts/"><span>Podcasts</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-2316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2316"><a href="http://blacknerdproblems.com/category/video-game/pc/"><span>PC</span></a></li>
+</ul>
+</li>
+<li id="menu-item-4396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4396"><a href="http://blacknerdproblems.com/category/fiction-lit/"><span>Fiction Lit</span></a></li>
+<li id="menu-item-2084" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2084"><a href="http://blacknerdproblems.com/category/review/"><span>Review</span></a></li>
+<li id="menu-item-4401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4401"><a href="http://blacknerdproblems.com/store/"><span>Store</span></a></li>
+<li id="menu-item-50519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50519"><a href="http://blacknerdproblems.com/jobs/"><span>BNP Got That Work</span></a></li>
+</ul></nav>                <div class="topbar">
+		                        <div class="top_share">
+                            <span class="social_title">Follow</span>
+                            <a href="https://www.google.com/+BlackNerdProblemsBNP" class="social_google">Google +1</a><a href="http://facebook.com/blacknerdproblems" class="social_fb">Facebook</a><a href="http://twitter.com/blknrdproblems" class="social_twitter">Twitter</a>                        </div>
+                    				
+                <div class="clear"></div>
+            </div>  
+</div>
+<div class="container">	
+        <div class="middle full_width">
+            <article class="post-detail">            
+                <div class="entry">
+                     <!-- adv: 468x60 center --><div class="adv_content"><div class="adv_468"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Test 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6644841426525560"
+     data-ad-slot="3002315332"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div><!--/ adv: 468x60 center -->							
+                    <div class="clear"></div>
+                </div>
+            </article>
+        </div>
+				<div  id="middle" class="cols2">
+					
+	<div class="title">
+		<h1>How Superbowl LI Became an Anime Classic</h1>                                    <div class="post-meta">
+                        <span class="tags">
+                            <a href="http://blacknerdproblems.com/tag/anime/">anime</a> <a href="http://blacknerdproblems.com/tag/football/">Football</a>                         </span>
+                        by <a href="#" class="author"><a href="http://blacknerdproblems.com/author/williethepooh/" title="Posts by William Young" rel="author">William Young</a></a>
+																					<span class="separator">|</span>
+								on February 21, 2017													                                                    <span class="separator">|</span>
+                            <a href="http://blacknerdproblems.com/how-superbowl-li-became-an-anime-classic/#comments" class="anchor">1 comment</a>
+                                                                            <span class="separator">|</span> in <a href="http://blacknerdproblems.com/category/features/editorials/">
+            Editorials        </a>
+                                <span class="separator">|</span>
+                            <input type="hidden" class="love_it_hidden" id="hidden_52838" value="0">                            <a href="#" class="love_it" id="love_52838" ><span class="link-comments" style="">Like it</span></a>
+                    </div>
+			</div>	                <div  class="content" role="main">
+                    <article class="post-detail post-page" id="post-52838" class="post-52838 post type-post status-publish format-standard hentry category-editorials category-features tag-anime tag-football">
+                        <div class="entry">
+
+                            
+                                    
+        <a href="http://blacknerdproblems.com/wp-content/uploads/2017/02/16-8-9-SB-Sweeps-Insider-1360x775.jpg" rel="prettyPhoto[gallery52838]"><img src="http://blacknerdproblems.com/wp-content/uploads/2017/02/16-8-9-SB-Sweeps-Insider-1360x775.jpg"  class="frame_box " alt="How Superbowl LI Became an Anime Classic" width="850" height="350" /></a>    <div class='mailmunch-forms-before-post' style='display: none !important;'></div>
+<p><span class="dropcap2">B</span>y now everyone should know about what went down in Super Bowl LI. How the Pats stole Christmas, AKA the Patriot&#8217;s Christmas Miracle, was a game for the ages. A game that lost a lot of people money in Vegas. While I wish I could&#8217;ve thrown my few cents in the catastrophic cookie jar, this isn&#8217;t about wasted opportunities. No, this is about entertainment. This is about defeating all the odds. This is about a plot that had been brewing since Super Bowl XLIX and was brought full circle in the season finale on February 5th, 2017. This was an anime classic in the making.</p>
+<p>No matter how you feel about the Patriots, you should be able to appreciate how good they usually are. Living in Miami, I personally have an extreme dislike for them because of the fact that the Dolphins are in the same conference; however, after the whole <a href="http://www.espn.com/blog/new-england-patriots/post/_/id/4782561/timeline-of-events-for-deflategate-tom-brady" target="_blank">Deflategate </a> fiasco in 2014-2015, my extreme dislike became a rather small dislike. Deflategate was a story arc that had the New England Patriots once again painted as the villain. They used footballs that were not deflated to the NFL regulatory standard to give themselves an advantage in a playoff game against the Colts. How much of an advantage can a deflated football give to a team? Who knows, but man were people pissed about it. The Patriots won the Super Bowl because of the Seattle Seahawks&#8217; own story arc, so to many it was a hollow victory. We could say that was the end of the first half of the Super Bowl LI anime.</p>
+<p>Enter the 2015-2016 NFL anime season. Nothing much happened. The Patriots lost to the Broncos, who were clearly the main characters that season, what with Peyton Manning planning on retiring and all that.</p>
+<div style="width: 598px" class="wp-caption aligncenter"><img class="" src="http://i.imgur.com/SpjDtox.jpg" alt="" width="588" height="306" />
+<p class="wp-caption-text">The things you can find if you put &#8220;anime&#8221; after a team&#8217;s name</p>
+</div>
+<div class="divider"></div>
+<p>Now, in 2016-2017 the main storyline links back to Deflategate from 2 whole seasons ago. Tom Brady and the Patriots had been fighting the NFL so that Brady wouldn&#8217;t be suspended. Honestly, it wasn&#8217;t a good look for the NFL. When it was all said and done, Tom Brady was suspended for 4 games, leaving the Patriots without their Goku, without their Luffy, without their Tsuna Sawada. There were a lot of references that could have been made there, but I had to save the last one for a Katekyō Hitman Reborn! shoutout. Most other teams would write themselves off without their star player, especially if that star player is their quarterback. Imagine how different Eyeshield 21 would have turned out without Hiruma. Despite this, the Patriots went 3-1 without Brady, setting up for a great anime climax. Along the way to their 14-2 record, they lost more key players: most notably Rob Gronkowski. Still they persevered and stepped into the playoffs. They reached the Super Bowl with ease, as most main characters do before the final showdown.</p>
+<p>Their opponents, the Atlanta Falcons, however had a storyline of their own. Quarterback Matt Ryan was always seen as a great quarterback that just couldn&#8217;t get it done. He wasn&#8217;t clutch. Julio Jones was quickly showing everyone that he should be on everyone&#8217;s top wide receiver list and the Falcons were getting a new stadium next season. All of this was being powered by an offense that had quickly become a well-oiled machine. Although the Patriots were still villains, they were clearly underdogs.</p>
+<div id="attachment_52842" style="width: 810px" class="wp-caption aligncenter"><a href="http://blacknerdproblems.com/wp-content/uploads/2017/02/ATL-Falcons_anime.png"><img class="wp-image-52842 " src="http://blacknerdproblems.com/wp-content/uploads/2017/02/ATL-Falcons_anime.png" alt="ATL Falcons_anime" width="800" height="267" /></a>
+<p class="wp-caption-text">See I&#8217;m telling you, there&#8217;s anime for every team!</p>
+</div>
+<div class="divider"></div>
+<p>And so we come to The Big Game. Admittedly, the hype wasn&#8217;t as high as other Super Bowls at first. At least that&#8217;s how it felt. The game was pretty boring for a while until the Falcons scored, and then scored again&#8230;and again&#8230;and again. The Falcons were running all over the villains of the NFL. The Patriots couldn&#8217;t get anything going and by the end of the half it was 21-3. On the sidelines some of the Falcons players were starting to get a little cocky. Too cocky to be the heroes of the story? Not really, but it was still a little jarring. In the third quarter the Falcons score yet again, making the score 28-3. At this point my friends and I were playing the Cartoon Network version of Flux instead of paying attention to the game. Halfway through the third quarter, the Patriots scored making it 28-9 after a missed extra point. After a miserable onside kick attempt, it seemed like all was lost for the true main characters of the season. The Falcons went 3 and out and the Patriots had to settle for a field goal making it 28-12 with less than 10 minutes left in the game. If the Falcons could get a few first downs and keep possession of the ball, the Patriots would have virtually no chance.</p>
+<p>On the next Falcons drive, the moment that would shift the Patriots from true villains to anti-heroes came to fruition. Patriots linebacker Dont&#8217;a Hightower sacked Matt Ryan, causing a fumble and the Patriots recovered with extremely good field position. Our game of Cartoon Network Flux was quickly put on halt and my dislike for the Patriots dissipated as I realized that the NFL had a sports anime happening right in everyone&#8217;s living room. The Patriots scored and completed the 2 point conversion to make the score 28-20 with about 6 minutes left in the game. The Falcons were imploding. After a sack and a penalty they had to punt the ball back to the Patriots with 3:30 left on the clock. Of course, our true main characters scored and scored another 2 point conversion to tie the game at 28-28 setting up for the only Super Bowl to go into overtime since before most of us were even old enough to watch football. The Patriots won the coin toss and took it straight down the field for the game winning touchdown to win the game 28-34. The villains who were the underdogs became anti-heroes in the greatest Super Bowl comeback in NFL history. From 28-3 to 28-34. The Patriots went against the NFL, the masses, and the Falcons all at once. Whether you watch football or not, watching this game culminate with the backstory that the Patriots have would make most anyone a fan for at least a few minutes. The comeback was anime level. The storyline was anime level. Even the halftime show was anime level. The Patriots proved that their Super Bowl in the shadow of Defategate was no fluke, and that they&#8217;ll take being villains and anti-heroes any day of the week.<br />
+<img class="aligncenter" src="http://img04.deviantart.net/58ce/i/2015/249/9/d/mega_man_x_new_england_patriot_armor_2015_by_hbgoo-d98mozz.jpg" alt="" width="612" height="407" /></p>
+<div class="divider"></div>
+<p><em>Are you following Black Nerd Problems on <a href="http://www.twitter.com/blknrdproblems" target="_blank">Twitter</a>, <a href="http://www.facebook.com/blacknerdproblems" target="_blank">Facebook</a>, <a href="http://blacknerdproblems.tumblr.com" target="_blank">Tumblr</a> or <a href="https://plus.google.com/u/1/+BlackNerdProblemsBNP/posts" target="_blank">Google+</a>?</em>
+<div id="abap_box">
+<p><span class="author_photo"><img src="https://lh6.googleusercontent.com/-SyLI9gPBrK8/VG-SAuQ5MRI/AAAAAAAAIbY/bnUB7z2Yq1k/s96-no/WillSmallPic.png" alt="William Young" width="" height="" /></span> <strong>About <a href="http://blacknerdproblems.com/author/williethepooh/">William Young</a></strong> </p>
+<p class="abap_links"><a rel="me nofollow" href="https://twitter.com/iamthedeadpooh" target="_blank">Twitter</a>&nbsp;&#8226;&nbsp;<a  rel="me nofollow" href="https://www.youtube.com/user/williethepoohbear" target="_blank">Youtube</a>&nbsp;&#8226;&nbsp;<a rel="me nofollow" href="http://instagram.com/williethepoohbear" target="_blank">Instagram</a>&nbsp;&#8226;&nbsp;</p>
+<div class='mailmunch-forms-in-post-middle' style='display: none !important;'></div>
+</div>
+<div class='mailmunch-forms-after-post' style='display: none !important;'></div>
+<div class="sharedaddy sd-sharing-enabled">
+<div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing">
+<h3 class="sd-title">NERD THE WEALTH:</h3>
+<div class="sd-content">
+<ul>
+<li class="share-facebook">
+<div class="fb-share-button" data-href="http://blacknerdproblems.com/how-superbowl-li-became-an-anime-classic/" data-layout="button_count"></div>
+</li>
+<li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button" href="http://blacknerdproblems.com/how-superbowl-li-became-an-anime-classic/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li>
+<li class="share-google-plus-1">
+<div class="googleplus1_button">
+<div class="g-plus" data-action="share" data-annotation="bubble" data-href="http://blacknerdproblems.com/how-superbowl-li-became-an-anime-classic/"></div>
+</div>
+</li>
+<li class="share-twitter">
+<div class="twitter_button"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fblacknerdproblems.com%2Fhow-superbowl-li-became-an-anime-classic%2F&#038;counturl=http%3A%2F%2Fblacknerdproblems.com%2Fhow-superbowl-li-became-an-anime-classic%2F&#038;count=horizontal&#038;text=How%20Superbowl%20LI%20Became%20an%20Anime%20Classic%3A&#038;via=BlkNrdProblems" style="width:101px; height:20px;"></iframe></div>
+</li>
+<li class="share-tumblr"><a target="_blank" href="http://www.tumblr.com/share/link/?url=http%3A%2F%2Fblacknerdproblems.com%2Fhow-superbowl-li-became-an-anime-classic%2F&#038;name=How%20Superbowl%20LI%20Became%20an%20Anime%20Classic" title="Share on Tumblr" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:62px; height:20px; background:url('//platform.tumblr.com/v1/share_2.png') top left no-repeat transparent;">Share on Tumblr</a></li>
+<li class="share-pinterest">
+<div class="pinterest_button"><a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fblacknerdproblems.com%2Fhow-superbowl-li-became-an-anime-classic%2F&#038;media=http%3A%2F%2Fi.imgur.com%2FSpjDtox.jpg&#038;description=How%20Superbowl%20LI%20Became%20an%20Anime%20Classic" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a></div>
+</li>
+<li class="share-reddit">
+<div class="reddit_button"><iframe src="http://www.reddit.com/static/button/button1.html?width=120&amp;url=http%3A%2F%2Fblacknerdproblems.com%2Fhow-superbowl-li-became-an-anime-classic%2F&amp;title=How%20Superbowl%20LI%20Became%20an%20Anime%20Classic" height="22" width="120" scrolling="no" frameborder="0"></iframe></div>
+</li>
+<li class="share-end"></li>
+</ul>
+</div>
+</div>
+</div>
+<div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-68465122-52838-58ae8a58e28e7' data-src='//widgets.wp.com/likes/#blog_id=68465122&amp;post_id=52838&amp;origin=blacknerdproblems.com&amp;obj_id=68465122-52838-58ae8a58e28e7' data-name='like-post-frame-68465122-52838-58ae8a58e28e7'>
+<h3 class='sd-title'>Like this:</h3>
+<div class='likes-widget-placeholder post-likes-widget-placeholder' style='height:55px'><span class='button'><span>Like</span></span> <span class="loading">Loading&#8230;</span></div>
+<p><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+
+
+                                                            
+                            <div class="clear"></div>
+                        </div><!--/ .entry -->
+                                                </article>
+                                
+    <div class="comment-list" id="comments">
+        
+
+        <h2>1 Readers Commented</h2>
+        <a href="#addcomments" class="link-add-comment anchor">Join discussion</a>
+
+<ol>
+        <li class="comment even thread-even depth-1" id="li-comment-4021">
+	 
+		<div class="comment-body">
+
+			<div class="comment-avatar">
+				<div class="avatar"><img alt='' src='http://2.gravatar.com/avatar/b93ae9c3d547de95a9d96aa85d5cfa5f?s=40&#038;d=mm&#038;r=r' srcset='http://2.gravatar.com/avatar/b93ae9c3d547de95a9d96aa85d5cfa5f?s=80&amp;d=mm&amp;r=r 2x' class='avatar avatar-40 photo' height='40' width='40' /></div>
+			</div>
+
+			<div class="comment-text">
+
+				<div class="comment-author">
+					<a href="" class="link-author">David Kim</a>
+						
+					<div class="link-reply"><a rel='nofollow' class='comment-reply-link' href='http://blacknerdproblems.com/how-superbowl-li-became-an-anime-classic/?replytocom=4021#respond' onclick='return addComment.moveForm( "comment-4021", "4021", "respond", "52838" )' aria-label='Reply to David Kim'>Reply</a></div>
+					<span class="comment-date">on February 22, 2017</span>
+				</div>
+
+				<div class="comment-entry">
+					<p>Even though I&#8217;m not much of a sports fan totally appreciated this article! Tenouttaten!</p>
+				</div>
+
+				
+			</div>
+			<!-- /.comment-head -->
+
+			<div id="comment-4021"></div>
+			<div class="clear"></div>
+		</div>
+    </li><!-- #comment-## -->
+</ol>
+
+
+</div><!-- #comments -->
+			
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Got Any Thoughts? (Please be brief. Dissertations will be deleted) <small><a rel="nofollow" id="cancel-comment-reply-link" href="/how-superbowl-li-became-an-anime-classic/#respond" style="display:none;">Cancel reply</a></small></h3>
+			<div id="commentform" class="comment-form">
+				<iframe src="http://jetpack.wordpress.com/jetpack-comment/?blogid=68465122&#038;postid=52838&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Got+Any+Thoughts%3F+%28Please+be+brief.+Dissertations+will+be+deleted%29&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en-US&#038;jetpack_version=3.6.1&#038;sig=60ae23e3e263342991947ba868a0d81769580ff9#parent=http%3A%2F%2Fblacknerdproblems.com%2Fhow-superbowl-li-became-an-anime-classic%2F" allowtransparency="false" style="width:100%; height: 430px;border:0px;" frameBorder="0" scrolling="no" name="jetpack_remote_comment" id="jetpack_remote_comment"></iframe>
+			</div>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		                </div><!--/ .content -->
+
+                                    <div class="sidebar">
+                        <div class="widget-container widget_recent_entries unboxed">		<img src="http://blacknerdproblems.com/wp-content/themes/newssetter-parent/images/icons/icons_16_date.png" class="widget_icon" /> 
+        <h3 class="widget-title">LATEST HEADLINES</h3>
+        <ul>
+             
+                <li>
+                    <a href="http://blacknerdproblems.com/black-panther-11-review/"><img src="http://blacknerdproblems.com/wp-content/uploads/2017/02/BP11Cover-54x54.png"  class="thumbnail" alt="Black Panther #11 Review" width="54" height="54" /></a>
+					 <div class="recent_entry"><a href="http://blacknerdproblems.com/black-panther-11-review/" class="link-name">Black Panther #11 Review</a></div>
+                </li>
+
+             
+                <li>
+                    <a href="http://blacknerdproblems.com/the-prowler-5-review/"><img src="http://blacknerdproblems.com/wp-content/uploads/2017/01/462576._SX1280_QL80_TTD_-54x54.jpg"  class="thumbnail" alt="The Prowler #5 Review" width="54" height="54" /></a>
+					 <div class="recent_entry"><a href="http://blacknerdproblems.com/the-prowler-5-review/" class="link-name">The Prowler #5 Review</a></div>
+                </li>
+
+             
+                <li>
+                    <a href="http://blacknerdproblems.com/blue-beetle-6-review/"><img src="http://blacknerdproblems.com/wp-content/uploads/2017/02/BLUE-Cv6-ds-54x54.jpg"  class="thumbnail" alt="Blue Beetle #6 Review" width="54" height="54" /></a>
+					 <div class="recent_entry"><a href="http://blacknerdproblems.com/blue-beetle-6-review/" class="link-name">Blue Beetle #6 Review</a></div>
+                </li>
+
+             
+                <li>
+                    <a href="http://blacknerdproblems.com/wonder-woman-17-review/"><img src="http://blacknerdproblems.com/wp-content/uploads/2017/02/WW17cover-54x54.png"  class="thumbnail" alt="Wonder Woman #17 Review" width="54" height="54" /></a>
+					 <div class="recent_entry"><a href="http://blacknerdproblems.com/wonder-woman-17-review/" class="link-name">Wonder Woman #17 Review</a></div>
+                </li>
+
+                    </ul>
+    </div>
+
+    <div class="widget-container widget_tag_cloud ">		<img src="http://blacknerdproblems.com/wp-content/themes/newssetter-parent/images/icons/icons_16_tag.png" class="widget_icon" /> 
+		<h3 class="widget-title">TAGS</h3><div class="tagcloud"><a href='http://blacknerdproblems.com/tag/anime/' class='tag-link-314' title='59 topics' style='font-size: 14.65pt;'>anime</a>
+<a href='http://blacknerdproblems.com/tag/arrow/' class='tag-link-1694' title='51 topics' style='font-size: 13.6pt;'>arrow</a>
+<a href='http://blacknerdproblems.com/tag/avatar/' class='tag-link-348' title='26 topics' style='font-size: 8.525pt;'>Avatar</a>
+<a href='http://blacknerdproblems.com/tag/avengers/' class='tag-link-203' title='31 topics' style='font-size: 9.925pt;'>avengers</a>
+<a href='http://blacknerdproblems.com/tag/batman/' class='tag-link-162' title='60 topics' style='font-size: 14.825pt;'>batman</a>
+<a href='http://blacknerdproblems.com/tag/batman-eternal/' class='tag-link-306' title='41 topics' style='font-size: 11.85pt;'>Batman Eternal</a>
+<a href='http://blacknerdproblems.com/tag/black-panther/' class='tag-link-1697' title='30 topics' style='font-size: 9.575pt;'>black panther</a>
+<a href='http://blacknerdproblems.com/tag/captain-america/' class='tag-link-120' title='27 topics' style='font-size: 8.875pt;'>captain america</a>
+<a href='http://blacknerdproblems.com/tag/comics/' class='tag-link-1688' title='38 topics' style='font-size: 11.325pt;'>Comics</a>
+<a href='http://blacknerdproblems.com/tag/convergence/' class='tag-link-1201' title='25 topics' style='font-size: 8.175pt;'>Convergence</a>
+<a href='http://blacknerdproblems.com/tag/cosplay/' class='tag-link-188' title='53 topics' style='font-size: 13.775pt;'>cosplay</a>
+<a href='http://blacknerdproblems.com/tag/cosplay-corner-2/' class='tag-link-621' title='30 topics' style='font-size: 9.575pt;'>cosplay corner</a>
+<a href='http://blacknerdproblems.com/tag/daredevil/' class='tag-link-275' title='32 topics' style='font-size: 10.1pt;'>Daredevil</a>
+<a href='http://blacknerdproblems.com/tag/dc-comics/' class='tag-link-163' title='111 topics' style='font-size: 19.375pt;'>dc comics</a>
+<a href='http://blacknerdproblems.com/tag/diversity/' class='tag-link-1695' title='40 topics' style='font-size: 11.675pt;'>diversity</a>
+<a href='http://blacknerdproblems.com/tag/game-of-thrones/' class='tag-link-1689' title='69 topics' style='font-size: 15.875pt;'>game of thrones</a>
+<a href='http://blacknerdproblems.com/tag/geoff-johns/' class='tag-link-259' title='29 topics' style='font-size: 9.4pt;'>geoff johns</a>
+<a href='http://blacknerdproblems.com/tag/gotham-academy/' class='tag-link-612' title='25 topics' style='font-size: 8.175pt;'>Gotham Academy</a>
+<a href='http://blacknerdproblems.com/tag/grimm/' class='tag-link-1843' title='27 topics' style='font-size: 8.875pt;'>grimm</a>
+<a href='http://blacknerdproblems.com/tag/image-comics/' class='tag-link-82' title='41 topics' style='font-size: 11.85pt;'>image comics</a>
+<a href='http://blacknerdproblems.com/tag/jason-aaron/' class='tag-link-434' title='25 topics' style='font-size: 8.175pt;'>jason aaron</a>
+<a href='http://blacknerdproblems.com/tag/jonathan-hickman/' class='tag-link-252' title='52 topics' style='font-size: 13.6pt;'>Jonathan Hickman</a>
+<a href='http://blacknerdproblems.com/tag/justice-league/' class='tag-link-264' title='24 topics' style='font-size: 8pt;'>Justice League</a>
+<a href='http://blacknerdproblems.com/tag/marvel/' class='tag-link-1687' title='71 topics' style='font-size: 16.05pt;'>Marvel</a>
+<a href='http://blacknerdproblems.com/tag/marvel-comics/' class='tag-link-205' title='98 topics' style='font-size: 18.5pt;'>Marvel Comics</a>
+<a href='http://blacknerdproblems.com/tag/miles-morales/' class='tag-link-145' title='26 topics' style='font-size: 8.525pt;'>Miles Morales</a>
+<a href='http://blacknerdproblems.com/tag/ms-marvel/' class='tag-link-269' title='36 topics' style='font-size: 10.975pt;'>ms. marvel</a>
+<a href='http://blacknerdproblems.com/tag/nerd-culture/' class='tag-link-329' title='29 topics' style='font-size: 9.4pt;'>nerd culture</a>
+<a href='http://blacknerdproblems.com/tag/review-2/' class='tag-link-91' title='48 topics' style='font-size: 13.075pt;'>review</a>
+<a href='http://blacknerdproblems.com/tag/reviews-2/' class='tag-link-207' title='157 topics' style='font-size: 22pt;'>Reviews</a>
+<a href='http://blacknerdproblems.com/tag/rick-remender/' class='tag-link-462' title='28 topics' style='font-size: 9.05pt;'>rick remender</a>
+<a href='http://blacknerdproblems.com/tag/saga/' class='tag-link-1698' title='24 topics' style='font-size: 8pt;'>saga</a>
+<a href='http://blacknerdproblems.com/tag/spider-gwen/' class='tag-link-1081' title='24 topics' style='font-size: 8pt;'>Spider-Gwen</a>
+<a href='http://blacknerdproblems.com/tag/spider-man/' class='tag-link-144' title='47 topics' style='font-size: 12.9pt;'>Spider-Man</a>
+<a href='http://blacknerdproblems.com/tag/star-wars/' class='tag-link-790' title='38 topics' style='font-size: 11.325pt;'>Star Wars</a>
+<a href='http://blacknerdproblems.com/tag/supergirl/' class='tag-link-1332' title='27 topics' style='font-size: 8.875pt;'>Supergirl</a>
+<a href='http://blacknerdproblems.com/tag/superman/' class='tag-link-212' title='34 topics' style='font-size: 10.45pt;'>superman</a>
+<a href='http://blacknerdproblems.com/tag/the-flash/' class='tag-link-211' title='77 topics' style='font-size: 16.575pt;'>The Flash</a>
+<a href='http://blacknerdproblems.com/tag/the-walking-dead/' class='tag-link-168' title='49 topics' style='font-size: 13.25pt;'>the walking dead</a>
+<a href='http://blacknerdproblems.com/tag/tv/' class='tag-link-77' title='52 topics' style='font-size: 13.6pt;'>tv</a>
+<a href='http://blacknerdproblems.com/tag/tv-recap/' class='tag-link-1786' title='32 topics' style='font-size: 10.1pt;'>tv recap</a>
+<a href='http://blacknerdproblems.com/tag/tv-recaps/' class='tag-link-675' title='74 topics' style='font-size: 16.4pt;'>tv recaps</a>
+<a href='http://blacknerdproblems.com/tag/video-games/' class='tag-link-88' title='61 topics' style='font-size: 14.825pt;'>Video Games</a>
+<a href='http://blacknerdproblems.com/tag/wonder-woman/' class='tag-link-126' title='29 topics' style='font-size: 9.4pt;'>wonder woman</a>
+<a href='http://blacknerdproblems.com/tag/x-men/' class='tag-link-206' title='31 topics' style='font-size: 9.925pt;'>X-Men</a></div>
+</div>                    </div><!--/ .sidebar -->
+                                	</div><!--/ .middle -->
+</div><!--/ container --> 
+
+<input type="hidden" id="tf_pagination_texts"
+       data-read-more="Read more stories"
+       data-no-more="NO MORE STORIES TO LOAD"
+       data-loading-more="LOADING Stories ..." />
+<footer>
+    <div class="container" style="background-image:url(http://blacknerdproblems.com/wp-content/themes/newssetter-parent/images/header_pattern_1.png);background-color:#111111">
+        				<div class="footer_left">
+                <div class="widget-container widget_text ">		
+			<div class="textwidget"><img src="http://blacknerdproblems.com/wp-content/uploads/2012/08/bnp-3-300x74.png" height="50" alt=""></div>
+		</div>				</div>
+				<div class="footer_right">
+                		<div class="footer_right"><div class="botmenu"><div class="menu-menu_footer-container"><ul id="menu-menu_footer" class="menu"><li id="menu-item-17916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-17916"><a href="http://blacknerdproblems.com/"><span>Home</span></a></li>
+<li id="menu-item-17917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17917"><a href="http://blacknerdproblems.com/bnp/about-us/"><span>About Us</span></a></li>
+<li id="menu-item-17919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17919"><a href="http://blacknerdproblems.com/bnp/contributors/"><span>Contributors</span></a></li>
+<li id="menu-item-17920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17920"><a href="http://blacknerdproblems.com/store/"><span>Store</span></a></li>
+</ul></div></div></div>				</div>
+
+                </div>
+</footer>
+</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/blacknerdproblems.com\/how-superbowl-li-became-an-anime-classic\/":52838};
+		window.WPCOM_jetpack = true;
+				window.WPCOM_site_ID = 68465122;
+			</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+		<div id="fb-root"></div><script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>	<div id="sharing_email" style="display: none;">
+		<form action="/how-superbowl-li-became-an-anime-classic/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="http://blacknerdproblems.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+			<script type="text/javascript">
+			  (function() {
+			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			    po.src = 'https://apis.google.com/js/plusone.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>
+					<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+		<script type="text/javascript" src="//platform.tumblr.com/v1/share.js"></script>					<script type="text/javascript">
+				// Pinterest shared resources
+				var s = document.createElement("script");
+				s.type = "text/javascript";
+				s.async = true;
+				s.setAttribute('data-pin-hover', true);				s.src = window.location.protocol + "//assets.pinterest.com/js/pinit.js";
+				var x = document.getElementsByTagName("script")[0];
+				x.parentNode.insertBefore(s, x);
+				// if 'Pin it' button has 'counts' make container wider
+				jQuery(window).load( function(){ jQuery( 'li.share-pinterest a span:visible' ).closest( '.share-pinterest' ).width( '80px' ); } );
+			</script>
+		<script type='text/javascript' src='http://blacknerdproblems.com/wp-includes/js/comment-reply.min.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201708'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='//maps.google.com/maps/api/js?sensor=false&#038;ver=1.0'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/jquery.gmap.min.js?ver=3.3.0'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/shCore.js?ver=2.1.382'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/shBrushPlain.js?ver=2.1.382'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/themes/newssetter-parent/js/SyntaxHighlighter.js?ver=b5b68b27db41d81196cfc359615ac4c4'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/plugins/jetpack/_inc/postmessage.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/plugins/jetpack/_inc/jquery.jetpack-resize.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/plugins/jetpack/_inc/jquery.inview.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/plugins/jetpack/modules/likes/queuehandler.js?ver=3.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blacknerdproblems.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=3.6.1'></script>
+		<iframe src='http://widgets.wp.com/likes/master.html?ver=20141028#ver=20141028&amp;mp6=1' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53851118-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+		<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=68465122&postid=52838&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Got+Any+Thoughts%3F+%28Please+be+brief.+Dissertations+will+be+deleted%29&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.6.1&sig=60ae23e3e263342991947ba868a0d81769580ff9#parent=http%3A%2F%2Fblacknerdproblems.com%2Fhow-superbowl-li-became-an-anime-classic%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=68465122&postid=52838&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Got+Any+Thoughts%3F+%28Please+be+brief.+Dissertations+will+be+deleted%29&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.6.1&sig=60ae23e3e263342991947ba868a0d81769580ff9#parent=http%3A%2F%2Fblacknerdproblems.com%2Fhow-superbowl-li-became-an-anime-classic%2F";
+				}
+			};
+
+	
+			if ( 'undefined' !== typeof addComment ) {
+				addComment._Jetpack_moveForm = addComment.moveForm;
+
+				addComment.moveForm = function( commId, parentId, respondId, postId ) {
+					var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ), cancelClick, cancel;
+
+					if ( false === returnValue ) {
+						cancel = document.getElementById( 'cancel-comment-reply-link' );
+						cancelClick = cancel.onclick;
+						cancel.onclick = function() {
+							var cancelReturn = cancelClick.call( this );
+							if ( false !== cancelReturn ) {
+								return cancelReturn;
+							}
+
+							if ( !comm_par ) {
+								return cancelReturn;
+							}
+
+							comm_par = 0;
+
+							tellFrameNewParent();
+
+							return cancelReturn;
+						};
+					}
+
+					if ( comm_par == parentId ) {
+						return returnValue;
+					}
+
+					comm_par = parentId;
+
+					tellFrameNewParent();
+
+					return returnValue;
+				};
+			}
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+
+	
+<script type="text/javascript" src="http://blacknerdproblems.com/wp-content/themes/newssetter-parent/cache/min-js-22e41f45e4ef7fd9b599d1784dfd039f.js?m=0"></script></body>
+</html>
+
+<!-- Dynamic page generated in 0.757 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-02-23 03:08:09 -->
+
+<!-- super cache -->

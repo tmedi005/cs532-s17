@@ -1,0 +1,83 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta name=viewport content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/png" />
+	<title>buzztap</title>
+	<style>
+		img {border-style: none;}
+	
+        #top, #bottom, #left, #right { background: white; }	
+        #left, #right { position: fixed; top: 0; bottom: 0; width: 20px; }
+        #top, #bottom { position: fixed; left: 0; right: 0; height: 20px; }
+	    #left { left: 0; border-right:5px solid #116c11;}
+	    #right { right: 0; border-left:5px solid #116c11;}
+	    #top { top: 0; }
+	    #bottom { bottom: 0; }
+	    
+	    #container { text-align:center; position: fixed; width: 100%; height: 100%; left: 0; top: 20px; border-top:5px solid #116c11;}
+	    #close {float: right; margin-right: 30px; margin-top:5px;}
+	    #bottom-border { position: fixed; left:0; right: 0; bottom:20px; border-bottom:5px solid #116c11; }
+	    
+	    #cycler { position:absolute; top:50%; left:50%; margin-top:-50px; margin-left:-60px;}
+		#cycler img { position:absolute;z-index:1; background-color:white}
+		#cycler img.active { z-index:3}
+	</style>
+</head>
+<body>
+	<div id="container">
+		<div id="close"><a href="http://nesn.com/2017/02/mike-lombardi-says-he-doesnt-believe-patriots-will-trade-jimmy-garoppolo/"><img src="/img/close.png"></a></div>
+		<div id="cycler">
+			<img class="active" src="/img/baseball_text.png" alt="football buzz" width="150" height="50"/>
+			<img src="/img/golf_text.png" alt="golf buzz" width="150" height="50"/>	
+			<img src="/img/basketball_text.png" alt="basketball buzz" width="150" height="50"/>
+			<img src="/img/racing_text.png" alt="racing buzz" width="150" height="50"/>
+			<img src="/img/soccer_text.png" alt="soccer buzz" width="150" height="50"/>	
+			<img src="/img/tennis_text.png" alt="tennis buzz" width="150" height="50"/>	
+			<img src="/img/football_text.png" alt="baseball buzz" width="150" height="50"/>	
+			<img src="/img/mma_text.png" alt="mma buzz" width="150" height="50"/>
+			<img src="/img/hockey_text.png" alt="hockey buzz" width="150" height="50"/>
+			<img src="/img/buzztap_text.png" alt="buzztap" width="150" height="50"/>
+		</div>
+		<div id="bottom-border"></div>
+	</div>
+	<div id="left"></div>
+   	<div id="right"></div>
+    <div id="top"></div>
+    <div id="bottom">
+    </div>   
+    <script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-4992288-1', 'auto');
+	  ga('send', 'pageview');	
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> 
+    <script type="text/javascript">
+		function cycleImages(){
+		      var $active = $('#cycler .active');
+		      var $next = ($active.next().length > 0) ? $active.next() : $('#cycler img:first');
+		      $next.css('z-index',2);//move the next image up the pile
+			  $active.fadeOut(150,function(){//fade out the top image
+			  $active.css('z-index',1).show().removeClass('active');//reset the z-index and unhide the image
+		      $next.css('z-index',3).addClass('active');//make the next image the top one
+			  if ($('#cycler .active').next().length > 0) { setTimeout('cycleImages()',275); }
+			  else { setTimeout('redirect()', 1000) }
+		      });
+		    }
+		
+		function redirect(){
+			window.location="http://nesn.com/2017/02/mike-lombardi-says-he-doesnt-believe-patriots-will-trade-jimmy-garoppolo/";
+		}
+		
+	    $(document).ready(function(){
+	      setTimeout('cycleImages()', 275);
+	    })
+	</script>
+</body>
+</html>

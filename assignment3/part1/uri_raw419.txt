@@ -1,0 +1,1067 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sixth Super Bowl Win Continues To Elude Patriots | Qrashion</title>
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+    <script src="/asset/typeahead.bundle.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="/asset/jquery.bootstrap-autohidingnavbar.js"></script>
+    <script src="/asset/coffee.js"></script>  
+    <script src="/asset/atm8y.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Cinzel:700" rel="stylesheet">
+      <link href='https://fonts.googleapis.com/css?family=' rel='stylesheet' type='text/css' />
+      <link href='https://fonts.googleapis.com/css?family=' rel='stylesheet' type='text/css' />
+      <link href='https://fonts.googleapis.com/css?family=' rel='stylesheet' type='text/css' />
+      <link href='https://fonts.googleapis.com/css?family=' rel='stylesheet' type='text/css' />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.4.0/css/flag-icon.min.css" />
+    <link href="/asset/typeahead.css" rel="stylesheet" />
+    <link href="/asset/web.css" rel="stylesheet" />
+    <style type="text/css">
+      
+    </style>
+    <script>
+      $(document).ready(function(){
+      //$('.issue').text('published at ' + moment($('.issue').attr('data-up') * 1).format('YYYY.MM.DD (ddd) HH:mm'));
+      });
+    </script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-4522246955850508",
+      enable_page_level_ads: true
+      });
+    </script>
+  </head>  <body style="background-image:url(/asset/suttles/sayagata-400px.png);font-family:;">
+    <nav class="navbar navbar-inverse navbar-fixed-top" style="font-family:;background-color:#;">
+      <div class="container-fluid"">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+            <a class="navbar-brand super-brand" style="background-color:#000;" href="/">Qracion</a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+                <div class="arrow-right"></div>
+              <li style="font-family:;"><a href="/humor/">Humor</a></li>
+              <li class=""><a href="/humor/news/1/">Latest</a></li>
+              <li class=""><a href="/humor/week/1/">Weekly</a></li>
+              <li class=""><a href="/humor/top/1/">All-Time</a></li>
+                <li class=""><a href="/topics/1/">Topics</a></li>
+          </ul>
+            
+            <ul class="nav navbar-nav navbar-right" style="margin-right:0;">
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language <span class="caret"></span></a>
+                <ul class="dropdown-menu lang_nav">
+                  <li class=""><a href="http://ar.qracion.com/"><i class="flag-icon flag-icon-il" style="margin-right:10px;"></i>العَرَبِيَّة‎‎</a></li>
+                  <li class=""><a href="http://zh.qracion.com/"><i class="flag-icon flag-icon-cn" style="margin-right:10px;"></i>中文</a></li>              
+                  <li class="active"><a href="http://qracion.com/"><i class="flag-icon flag-icon-us" style="margin-right:10px;"></i>English</a></li>
+                  <li class=""><a href="http://fr.qracion.com/"><i class="flag-icon flag-icon-fr" style="margin-right:10px;"></i>Français</a></li>              
+                  <li class=""><a href="http://de.qracion.com/"><i class="flag-icon flag-icon-de" style="margin-right:10px;"></i>Deutsch</a></li>
+                  <li class=""><a href="http://el.qracion.com/"><i class="flag-icon flag-icon-gr" style="margin-right:10px;"></i>ελληνικά</a></li>              
+                  <li class=""><a href="http://it.qracion.com/"><i class="flag-icon flag-icon-it" style="margin-right:10px;"></i>Italiano</a></li>              
+                  <li class=""><a href="http://ja.qracion.com/"><i class="flag-icon flag-icon-jp" style="margin-right:10px;"></i>日本語</a></li>              
+                  <li class=""><a href="http://ko.qracion.com/"><i class="flag-icon flag-icon-kr" style="margin-right:10px;"></i>한국어</a></li>
+                  <li class=""><a href="http://pt.qracion.com/"><i class="flag-icon flag-icon-br" style="margin-right:10px;"></i>Português</a></li>              
+                  <li class=""><a href="http://es.qracion.com/"><i class="flag-icon flag-icon-es" style="margin-right:10px;"></i>Español</a></li>
+    
+                </ul>
+            </ul>
+            <form class="navbar-form navbar-right">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search Topics" id="search_topics">
+              </div>
+            </form>
+        </div>
+      </div>
+    </nav>
+        <div class="container-fluid" style="margin-top:70px;">
+          <div class="row">
+              <div class="col-xs-12 col-sm-0 col-md-3 xxs_right hidden-xs hidden-sm">
+                <div style="margin-bottom:20px;">
+                  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- atm8y-left -->
+                    <ins class="adsbygoogle"
+                       style="display:block"
+                       data-ad-client="ca-pub-4522246955850508"
+                       data-ad-slot="2478114224"
+                       data-ad-format="auto"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>    </div>
+                <div class="list-group lefty">
+                    <a href="/humor/a/58a7cef8bd872c821523ec2c/" class="list-group-item ">
+                      <div class="row">
+                        <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                          <div class="img-circle" style="background-color:#686ceb;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                        </div>
+                        <div class="col-sm-9 col-xs-10">
+                            <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                          
+                          <h4 class="list-group-item-heading" style="color:#337ab7;">Putin takes sh*t seriously</h4>
+                          <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                            
+                              <cite class="pull-right">02/18/2017</cite>
+                              <div class="clearfix"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    <a href="/humor/a/58a7cd4603ab234315518880/" class="list-group-item ">
+                      <div class="row">
+                        <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                          <div class="img-circle" style="background-color:#2f7670;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                        </div>
+                        <div class="col-sm-9 col-xs-10">
+                            <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                          
+                          <h4 class="list-group-item-heading" style="color:#337ab7;">...but my free speech</h4>
+                          <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                            <cite class="text-primary pull-left"><i class="fa fa-facebook-square"></i> 0 Share</cite>
+                              <cite class="pull-right">02/18/2017</cite>
+                              <div class="clearfix"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    <a href="/humor/a/58a7cef8bd872c821523ec2b/" class="list-group-item ">
+                      <div class="row">
+                        <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                          <div class="img-circle" style="background-color:#3ff00f;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                        </div>
+                        <div class="col-sm-9 col-xs-10">
+                            <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                          
+                          <h4 class="list-group-item-heading" style="color:#337ab7;">This is a hostage situation!</h4>
+                          <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                            
+                              <cite class="pull-right">02/18/2017</cite>
+                              <div class="clearfix"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    <a href="/humor/a/58a7cef8bd872c821523ec2a/" class="list-group-item visible-sm-block visible-md-block">
+                      <div class="row">
+                        <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                          <div class="img-circle" style="background-color:#3b08af;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                        </div>
+                        <div class="col-sm-9 col-xs-10">
+                            <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                          
+                          <h4 class="list-group-item-heading" style="color:#337ab7;">Feeling angry in the morning</h4>
+                          <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                            
+                              <cite class="pull-right">02/18/2017</cite>
+                              <div class="clearfix"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    <a href="/humor/a/58a7cef8bd872c821523ec29/" class="list-group-item ">
+                      <div class="row">
+                        <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                          <div class="img-circle" style="background-color:#23455f;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                        </div>
+                        <div class="col-sm-9 col-xs-10">
+                            <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                          
+                          <h4 class="list-group-item-heading" style="color:#337ab7;">Say hello to my little friend...</h4>
+                          <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                            
+                              <cite class="pull-right">02/18/2017</cite>
+                              <div class="clearfix"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                </div>
+                <div style="margin-top:20px;">
+                  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- atm8y-left -->
+                    <ins class="adsbygoogle"
+                       style="display:block"
+                       data-ad-client="ca-pub-4522246955850508"
+                       data-ad-slot="2478114224"
+                       data-ad-format="auto"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>    </div>
+              </div>
+            <div class="col-xs-12 col-sm-8 col-md-6">
+                <div style="background-color:white;padding:20px;margin-bottom:20px;">
+                  <div class="artclip2">
+                    <div class="row">
+                      <div class="col-xs-12">
+                                <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;margin-top:15px;">Humor</div>
+                              <h4 style="font-family:;" class="text-center"><a href="http://www.theonion.com/article/sixth-super-bowl-win-continues-elude-patriots-55231?utm_medium&#x3D;RSS&amp;utm_campaign&#x3D;feeds" target="_blank">Sixth Super Bowl Win Continues To Elude Patriots</a></h4>
+                              <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                                <cite class="text-primary pull-left"><i class="fa fa-facebook-square"></i> 9017 Share</cite>
+                                  <cite class="pull-right">02/06/2017</cite>
+                                  <div class="clearfix"></div>
+                              </div>
+                              
+                              <div style="margin-top:10px;">  HOUSTON—As disappointed players and coaches returned to the locker room following the end of Super Bowl LI, members of the New England Patriots acknowledged to reporters Sunday that the team’s sixth...</div>
+                            
+                      </div>
+                    </div>
+                  </div>
+                  <div style="margin-top:20px;margin-bottom:20px;">
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                      <!-- atm8y-left -->
+                      <ins class="adsbygoogle"
+                         style="display:block"
+                         data-ad-client="ca-pub-4522246955850508"
+                         data-ad-slot="2478114224"
+                         data-ad-format="auto"></ins>
+                      <script>
+                      (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>          </div>
+                  <div class="clearfix"></div>
+                </div>
+                
+                                    <div class="row centy">
+                                        <div class="col-xs-1 visible-xxs-block">
+                                        </div>
+                                        <div class=" col-xs-6 xxs_center col-sm-6 col-md-6 col-lg-4">
+                                        <div class="thumbnail" style="padding:0;">
+                                            <a href="/humor/a/58a7cef8bd872c821523ec2e/">
+                                              <div style="background-color:#f1b27b;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:60%;"></div></div>            
+                                            </a>
+                                            <div class="caption text-center">
+                                                <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                                              
+                                              <h4><a href="/humor/a/58a7cef8bd872c821523ec2e/">Ad on point</a></h4>
+                                              <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                                                
+                                                  <cite class="pull-right">02/18/2017</cite>
+                                                  <div class="clearfix"></div>
+                                              </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                        <div class="col-xs-1 visible-xxs-block">
+                                        </div>
+                                        <div class="clearfix xxs_clear"></div>
+                                        
+                                        <div class="col-xs-1 visible-xxs-block">
+                                        </div>
+                                        <div class=" col-xs-6 xxs_center col-sm-6 col-md-6 col-lg-4">
+                                        <div class="thumbnail" style="padding:0;">
+                                            <a href="/humor/a/58a7cd4603ab234315518890/">
+                                              <div style="background-color:#3b019b;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:60%;"></div></div>            
+                                            </a>
+                                            <div class="caption text-center">
+                                                <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                                              
+                                              <h4><a href="/humor/a/58a7cd4603ab234315518890/">I updated the chain of command on this ship, because they hadn&#x27;t yet.</a></h4>
+                                              <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                                                
+                                                  <cite class="pull-right">02/18/2017</cite>
+                                                  <div class="clearfix"></div>
+                                              </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                        <div class="col-xs-1 visible-xxs-block">
+                                        </div>
+                                        <div class="clearfix xxs_clear"></div>
+                                          <div class="clearfix visible-xs-block"></div>
+                                          <div class="clearfix visible-sm-block"></div>
+                                          <div class="clearfix visible-md-block"></div>
+                                        
+                                        <div class="col-xs-1 visible-xxs-block">
+                                        </div>
+                                        <div class=" col-xs-6 xxs_center col-sm-6 col-md-6 col-lg-4">
+                                        <div class="thumbnail" style="padding:0;">
+                                            <a href="/humor/a/58a7cd5e03ab234315518895/">
+                                              <div style="background-color:#39db5c;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:60%;"></div></div>            
+                                            </a>
+                                            <div class="caption text-center">
+                                                <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                                              
+                                              <h4><a href="/humor/a/58a7cd5e03ab234315518895/">Twitter Is Trying to Figure Out Why Men Wear Basketball Shorts After Sex</a></h4>
+                                              <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                                                
+                                                  <cite class="pull-right">02/18/2017</cite>
+                                                  <div class="clearfix"></div>
+                                              </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                        <div class="col-xs-1 visible-xxs-block">
+                                        </div>
+                                        <div class="clearfix xxs_clear"></div>
+                                          <div class="clearfix visible-lg-block"></div>
+                                        
+                                        <div class="col-xs-1 visible-xxs-block">
+                                        </div>
+                                        <div class=" col-xs-6 xxs_center col-sm-6 col-md-6 col-lg-4">
+                                        <div class="thumbnail" style="padding:0;">
+                                            <a href="/humor/a/58a7cef8bd872c821523ec2d/">
+                                              <div style="background-color:#193dea;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:60%;"></div></div>            
+                                            </a>
+                                            <div class="caption text-center">
+                                                <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                                              
+                                              <h4><a href="/humor/a/58a7cef8bd872c821523ec2d/">What a beautiful scenery of destroy the moon</a></h4>
+                                              <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                                                
+                                                  <cite class="pull-right">02/18/2017</cite>
+                                                  <div class="clearfix"></div>
+                                              </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                        <div class="col-xs-1 visible-xxs-block">
+                                        </div>
+                                        <div class="clearfix xxs_clear"></div>
+                                          <div class="clearfix visible-xs-block"></div>
+                                          <div class="clearfix visible-sm-block"></div>
+                                          <div class="clearfix visible-md-block"></div>
+                                        
+                                        <div class="col-xs-1 visible-xxs-block">
+                                        </div>
+                                        <div class=" col-xs-6 xxs_center col-sm-6 col-md-6 col-lg-4">
+                                        <div class="thumbnail" style="padding:0;">
+                                            <a href="/humor/a/58a7ce9dbd872c821523ebdb/">
+                                              <div style="background-color:#d162fd;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:60%;"></div></div>            
+                                            </a>
+                                            <div class="caption text-center">
+                                                <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                                              
+                                              <h4><a href="/humor/a/58a7ce9dbd872c821523ebdb/">Adorable toddler is obsessed with bubble wrap (Video)</a></h4>
+                                              <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                                                
+                                                  <cite class="pull-right">02/18/2017</cite>
+                                                  <div class="clearfix"></div>
+                                              </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                        <div class="col-xs-1 visible-xxs-block">
+                                        </div>
+                                        <div class="clearfix xxs_clear"></div>
+                                        
+                                    </div>
+                                    <div style="margin-bottom:20px;">
+                                      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                                        <!-- atm8y-left -->
+                                        <ins class="adsbygoogle"
+                                           style="display:block"
+                                           data-ad-client="ca-pub-4522246955850508"
+                                           data-ad-slot="2478114224"
+                                           data-ad-format="auto"></ins>
+                                        <script>
+                                        (adsbygoogle = window.adsbygoogle || []).push({});
+                                      </script>                            </div>
+                                    <div class="clearfix"></div>
+                                    <div id="disqus_thread" style="margin-bottom:20px;"></div>
+                                    <script>
+        
+                                      /**
+                                      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                                      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
+                                      /*
+                                      var disqus_config = function () {
+                                      this.page.title = "Sixth Super Bowl Win Continues To Elude Patriots"
+                                      this.page.url = "http://qracion.com/humor/a/58987e39b91b91661cffefec/";  // Replace PAGE_URL with your page's canonical URL variable
+                                      this.page.identifier = "58987e39b91b91661cffefec"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                                      };
+                                      */
+                                      (function() { // DON'T EDIT BELOW THIS LINE
+                                      var d = document, s = d.createElement('script');
+                                      s.src = '//qracion.disqus.com/embed.js';
+                                      s.setAttribute('data-timestamp', +new Date());
+                                      (d.head || d.body).appendChild(s);
+                                      })();
+                                    </script>
+                                    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                  <div style="margin-bottom:20px;">
+                                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                                      <!-- atm8y-left -->
+                                      <ins class="adsbygoogle"
+                                         style="display:block"
+                                         data-ad-client="ca-pub-4522246955850508"
+                                         data-ad-slot="2478114224"
+                                         data-ad-format="auto"></ins>
+                                      <script>
+                                      (adsbygoogle = window.adsbygoogle || []).push({});
+                                    </script>                          </div>
+            </div>
+              <div class="col-xs-12 col-sm-4 col-md-3">
+                <div style="margin-bottom:20px;">
+                  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- atm8y-left -->
+                    <ins class="adsbygoogle"
+                       style="display:block"
+                       data-ad-client="ca-pub-4522246955850508"
+                       data-ad-slot="2478114224"
+                       data-ad-format="auto"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>    </div>
+                <div class="righty">
+                  <div class="list-group">
+                    <div class="visible-sm-block visible-xs-block">      
+                
+                        <a href="/humor/a/58a7cef8bd872c821523ec2c/" class="list-group-item ">
+                          <div class="row">
+                            <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                              <div class="img-circle" style="background-color:#686ceb;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                            </div>
+                            <div class="col-sm-9 col-xs-10">
+                                <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                              
+                              <h4 class="list-group-item-heading" style="color:#337ab7;">Putin takes sh*t seriously</h4>
+                              <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                                
+                                  <cite class="pull-right">02/18/2017</cite>
+                                  <div class="clearfix"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </a>
+                        <a href="/humor/a/58a7cd4603ab234315518880/" class="list-group-item ">
+                          <div class="row">
+                            <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                              <div class="img-circle" style="background-color:#2f7670;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                            </div>
+                            <div class="col-sm-9 col-xs-10">
+                                <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                              
+                              <h4 class="list-group-item-heading" style="color:#337ab7;">...but my free speech</h4>
+                              <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                                <cite class="text-primary pull-left"><i class="fa fa-facebook-square"></i> 0 Share</cite>
+                                  <cite class="pull-right">02/18/2017</cite>
+                                  <div class="clearfix"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </a>
+                        <a href="/humor/a/58a7cef8bd872c821523ec2b/" class="list-group-item ">
+                          <div class="row">
+                            <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                              <div class="img-circle" style="background-color:#3ff00f;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                            </div>
+                            <div class="col-sm-9 col-xs-10">
+                                <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                              
+                              <h4 class="list-group-item-heading" style="color:#337ab7;">This is a hostage situation!</h4>
+                              <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                                
+                                  <cite class="pull-right">02/18/2017</cite>
+                                  <div class="clearfix"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </a>
+                        <a href="/humor/a/58a7cef8bd872c821523ec2a/" class="list-group-item visible-sm-block visible-md-block">
+                          <div class="row">
+                            <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                              <div class="img-circle" style="background-color:#3b08af;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                            </div>
+                            <div class="col-sm-9 col-xs-10">
+                                <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                              
+                              <h4 class="list-group-item-heading" style="color:#337ab7;">Feeling angry in the morning</h4>
+                              <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                                
+                                  <cite class="pull-right">02/18/2017</cite>
+                                  <div class="clearfix"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </a>
+                        <a href="/humor/a/58a7cef8bd872c821523ec29/" class="list-group-item ">
+                          <div class="row">
+                            <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                              <div class="img-circle" style="background-color:#23455f;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                            </div>
+                            <div class="col-sm-9 col-xs-10">
+                                <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                              
+                              <h4 class="list-group-item-heading" style="color:#337ab7;">Say hello to my little friend...</h4>
+                              <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                                
+                                  <cite class="pull-right">02/18/2017</cite>
+                                  <div class="clearfix"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </a>
+                    </div>
+                  </div>
+                  
+                  <div class="list-group">
+                      <a href="/humor/a/58a7cef8bd872c821523ec28/" class="list-group-item ">
+                        <div class="row">
+                          <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                            <div class="img-circle" style="background-color:#8fc0eb;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                          </div>
+                          <div class="col-sm-9 col-xs-10">
+                              <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                            
+                            <h4 class="list-group-item-heading" style="color:#337ab7;">The PC-Building-Guide Part 3. Assembling a PC. (Sorry if I forgot to tag)</h4>
+                            <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                              
+                                <cite class="pull-right">02/18/2017</cite>
+                                <div class="clearfix"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                      <a href="/humor/a/58a7cef8bd872c821523ec27/" class="list-group-item ">
+                        <div class="row">
+                          <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                            <div class="img-circle" style="background-color:#fe9c0c;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                          </div>
+                          <div class="col-sm-9 col-xs-10">
+                              <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                            
+                            <h4 class="list-group-item-heading" style="color:#337ab7;">What kinda music is he listening?</h4>
+                            <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                              
+                                <cite class="pull-right">02/18/2017</cite>
+                                <div class="clearfix"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                      <a href="/humor/a/58a7cef8bd872c821523ec26/" class="list-group-item ">
+                        <div class="row">
+                          <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                            <div class="img-circle" style="background-color:#75b22f;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                          </div>
+                          <div class="col-sm-9 col-xs-10">
+                              <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                            
+                            <h4 class="list-group-item-heading" style="color:#337ab7;">Knights</h4>
+                            <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                              
+                                <cite class="pull-right">02/18/2017</cite>
+                                <div class="clearfix"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                      <a href="/humor/a/58a7cef8bd872c821523ec25/" class="list-group-item ">
+                        <div class="row">
+                          <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                            <div class="img-circle" style="background-color:#9054b6;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                          </div>
+                          <div class="col-sm-9 col-xs-10">
+                              <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                            
+                            <h4 class="list-group-item-heading" style="color:#337ab7;">When you travel through space and time</h4>
+                            <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                              
+                                <cite class="pull-right">02/18/2017</cite>
+                                <div class="clearfix"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                      <a href="/humor/a/58a7cef8bd872c821523ec24/" class="list-group-item ">
+                        <div class="row">
+                          <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+                            <div class="img-circle" style="background-color:#a46c48;background-image:url();width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+                          </div>
+                          <div class="col-sm-9 col-xs-10">
+                              <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">Humor</div>
+                            
+                            <h4 class="list-group-item-heading" style="color:#337ab7;">One of my favorite scenes of the seventh season</h4>
+                            <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                              
+                                <cite class="pull-right">02/18/2017</cite>
+                                <div class="clearfix"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                  </div>
+                </div>    <div style="margin-top:20px;">
+                  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- atm8y-left -->
+                    <ins class="adsbygoogle"
+                       style="display:block"
+                       data-ad-client="ca-pub-4522246955850508"
+                       data-ad-slot="2478114224"
+                       data-ad-format="auto"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>    </div>
+              </div>
+          </div>
+          <nav class="text-center pagenav">
+            <ul class="pagination" style="margin-top:0;">
+            </ul>
+          </nav>
+        </div>
+      <div style="display:none;">
+        <input type="hidden" id="island" value="lander" />
+        <input type="hidden" id="lang" value="en" />
+        <input type="hidden" id="trans" value="{&quot;newart&quot;:&quot;New Articles&quot;,&quot;alltop&quot;:&quot;All-Time Top&quot;,&quot;weektop&quot;:&quot;Weekly Top&quot;,&quot;latest&quot;:&quot;Latest&quot;,&quot;weekly&quot;:&quot;Weekly&quot;,&quot;alltime&quot;:&quot;All-Time&quot;,&quot;topics&quot;:&quot;Topics&quot;,&quot;trend&quot;:&quot;Trending Topics&quot;,&quot;viewmore&quot;:&quot;view more&quot;,&quot;about&quot;:&quot;About&quot;,&quot;language&quot;:&quot;Language&quot;,&quot;search&quot;:&quot;Search Topics&quot;,&quot;about_cont&quot;:&quot;Qracion is a content curation service for &lt;span class&#x3D;\&quot;point\&quot;&gt;niche topics&lt;/span&gt;. There exist tons of content curation blogs, social bookmarking services and feed reader apps out there today. But one problem with most of the tools available is that the topics those tools are focusing on are too broad or variety to stay relevant to one&#x27;s interest. On the other hand, taxonomy seen in social efforts often ends up being too sparse and provides not enough coverage for topics defined as tags. Qracion aims to close in on each narrow targeted subject while covering as much depth as possible with machine learning technology.&quot;}" />
+        <input type="hidden" id="art_state" value="exists" />
+        <input type="hidden" id="art_id" value="58987e39b91b91661cffefec" />
+        <input type="hidden" id="artset" value="" />  
+        <input type="hidden" id="keywords" value="[{&quot;key&quot;:&quot;music&quot;,&quot;title&quot;:&quot;Music&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;0a5dhvxy2sqoghx&quot;,&quot;week&quot;:&quot;fkbfwa6sd0kxnod&quot;,&quot;news&quot;:&quot;hk6ti3xm2cg8doq&quot;,&quot;top&quot;:&quot;e3bpblnoy3rn43g&quot;,&quot;cover&quot;:&quot;cb0pkbaz9ey2q1r&quot;},&quot;fc&quot;:25347202,&quot;news&quot;:393,&quot;dname&quot;:&quot;musicinfo.cf&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;naoka791&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#0815c9&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;politics&quot;,&quot;title&quot;:&quot;Politics&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;6xhix88m0dhfd67&quot;,&quot;week&quot;:&quot;50qhkjxktfmmls9&quot;,&quot;news&quot;:&quot;rzn5gdgdd9fe9mf&quot;,&quot;top&quot;:&quot;1xj8wnlpra3v851&quot;,&quot;cover&quot;:&quot;s2jzbj27nwvtzh4&quot;},&quot;fc&quot;:859121,&quot;news&quot;:227,&quot;dname&quot;:&quot;politicsfeed.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;eiri75&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#22523d&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;science&quot;,&quot;title&quot;:&quot;Science&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;4ff9l3bmdof55v5&quot;,&quot;week&quot;:&quot;kl1exruw6i9vsa0&quot;,&quot;news&quot;:&quot;5x56wvr2prdlenk&quot;,&quot;top&quot;:&quot;rb1qondqkhq8n9n&quot;,&quot;cover&quot;:&quot;e4h6e7y2hb5pzgf&quot;},&quot;fc&quot;:758062,&quot;news&quot;:286,&quot;dname&quot;:&quot;science.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;famenewsml369&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#d97428&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;news&quot;,&quot;title&quot;:&quot;News&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;86jfadmw7lgfq7s&quot;,&quot;week&quot;:&quot;23un85p5wqsgtoa&quot;,&quot;news&quot;:&quot;mzganfdby5nwg93&quot;,&quot;top&quot;:&quot;xf11sjwqjq25trn&quot;,&quot;cover&quot;:&quot;zota7ez6fkaheq5&quot;},&quot;fc&quot;:724836,&quot;news&quot;:272,&quot;dname&quot;:&quot;newsstream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;moviesnewsml&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#58d592&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;videos&quot;,&quot;title&quot;:&quot;Videos&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;ke7mgxo0ktuo3j6&quot;,&quot;week&quot;:&quot;cths9bkzs4190es&quot;,&quot;news&quot;:&quot;2fjvxl3fv7xkaxh&quot;,&quot;top&quot;:&quot;7g6gnr74tml9vxo&quot;,&quot;arts&quot;:&quot;m5lnpar9dfl32dg&quot;},&quot;fc&quot;:428102,&quot;news&quot;:69,&quot;dname&quot;:&quot;videosinfo.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;188583152A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#10511e&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;world&quot;,&quot;title&quot;:&quot;World&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;b49cba1z6i62w30&quot;,&quot;week&quot;:&quot;p9tcrsbtked3pjq&quot;,&quot;news&quot;:&quot;qixy5017ixmv4xs&quot;,&quot;top&quot;:&quot;672ywjii92jbuny&quot;,&quot;cover&quot;:&quot;0wh0eqfyeoi6bxz&quot;},&quot;fc&quot;:371005,&quot;news&quot;:144,&quot;dname&quot;:&quot;worldworld.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;spaceworldml423&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#c4cb3a&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:true},{&quot;key&quot;:&quot;environment&quot;,&quot;title&quot;:&quot;Environment&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;4yy48x349qkuhiy&quot;,&quot;week&quot;:&quot;1v6yuascdbn2cef&quot;,&quot;news&quot;:&quot;4yr9x5ac3jodf5b&quot;,&quot;top&quot;:&quot;jb3xpcdkxx7478g&quot;,&quot;cover&quot;:&quot;97tl7itza2tombi&quot;},&quot;fc&quot;:294349,&quot;news&quot;:70,&quot;dname&quot;:&quot;environmentworld.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;riyou57&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#e19c0c&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;journalism&quot;,&quot;title&quot;:&quot;Journalism&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;ptfkc4bvdts6iwn&quot;,&quot;week&quot;:&quot;to2k783lj1h8dlj&quot;,&quot;news&quot;:&quot;hfiw83lr9iux9k1&quot;,&quot;top&quot;:&quot;ho4kfb947rbn9ae&quot;,&quot;cover&quot;:&quot;mb3104pe5nq0z7t&quot;},&quot;fc&quot;:199700,&quot;news&quot;:194,&quot;dname&quot;:&quot;mediaboard.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;healthstream296&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#b7d79b&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;movies&quot;,&quot;title&quot;:&quot;Movies&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;6jghzlwe3cvidsc&quot;,&quot;week&quot;:&quot;o0cgloq3apoeg9z&quot;,&quot;news&quot;:&quot;kmwf616l47ky1fl&quot;,&quot;top&quot;:&quot;euktcmydriuzvpy&quot;,&quot;cover&quot;:&quot;u7cip2gr8z3dq7a&quot;},&quot;fc&quot;:187402,&quot;news&quot;:107,&quot;dname&quot;:&quot;moviebuzz.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;funnystreamml&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#f324c4&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;animal&quot;,&quot;title&quot;:&quot;Animals&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;828clcy3pvuxf44&quot;,&quot;week&quot;:&quot;0n309filf2fb5uh&quot;,&quot;news&quot;:&quot;y5urdpoq2k7rhh8&quot;,&quot;top&quot;:&quot;zvyzoca9kwbvabe&quot;,&quot;cover&quot;:&quot;mcnjy4scxd6q8av&quot;},&quot;fc&quot;:153565,&quot;news&quot;:96,&quot;dname&quot;:&quot;animals.cf&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;natuki910&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#2bbd83&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;writing&quot;,&quot;title&quot;:&quot;Writing&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;0dwkzbf802mx00n&quot;,&quot;week&quot;:&quot;quva242aoj6v066&quot;,&quot;news&quot;:&quot;lv0p2z5ws5vbtyp&quot;,&quot;top&quot;:&quot;bgvotq7cu64qpkr&quot;,&quot;cover&quot;:&quot;i9nuvy5euanwmvj&quot;},&quot;fc&quot;:140861,&quot;news&quot;:115,&quot;dname&quot;:&quot;writinginfo.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;booksfeedml&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#749a5f&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;hackernews&quot;,&quot;title&quot;:&quot;Hacker News&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;q4kdbewy9s70pm1&quot;,&quot;week&quot;:&quot;c24rhzwoabldh69&quot;,&quot;news&quot;:&quot;5y5itjiqo4lczai&quot;,&quot;top&quot;:&quot;w3nebroqs6xuh8d&quot;,&quot;arts&quot;:&quot;w0bnt6tcnc6f6y5&quot;},&quot;fc&quot;:120703,&quot;news&quot;:82,&quot;dname&quot;:&quot;hackernewsnews.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;natuko391&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#1f68c9&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:true},{&quot;key&quot;:&quot;law&quot;,&quot;title&quot;:&quot;Law&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;dc0zztst9jg53cd&quot;,&quot;week&quot;:&quot;btk3xuqxl40y0u3&quot;,&quot;news&quot;:&quot;ie7qucrtrsw0ji6&quot;,&quot;top&quot;:&quot;ky0v61lv728vucg&quot;,&quot;cover&quot;:&quot;m6s1pghnyt8gm83&quot;},&quot;fc&quot;:108657,&quot;news&quot;:179,&quot;dname&quot;:&quot;lawnews.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;racecf137&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#ebf418&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;entertainment&quot;,&quot;title&quot;:&quot;Entertainment&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;kj9hrjega37rzm6&quot;,&quot;cover&quot;:&quot;dng4urt3wntxynz&quot;,&quot;week&quot;:&quot;mdworwdl1q60p9e&quot;,&quot;news&quot;:&quot;kku80p741fwwrxh&quot;,&quot;top&quot;:&quot;fh8dnl1pcsaxk20&quot;},&quot;fc&quot;:105073,&quot;news&quot;:27,&quot;dname&quot;:&quot;entertainmentboard.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;nanato221&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#a77ea8&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;magazines&quot;,&quot;title&quot;:&quot;Magazines&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;8vob8lrn2vs8k61&quot;,&quot;week&quot;:&quot;bhp7e284dd3npbw&quot;,&quot;news&quot;:&quot;9o56a8c8wtvw1tq&quot;,&quot;top&quot;:&quot;6am3r7g0tl4fr4c&quot;,&quot;arts&quot;:&quot;mlgr58ceh3syb3y&quot;},&quot;fc&quot;:95190,&quot;news&quot;:43,&quot;dname&quot;:&quot;magazinesstream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;nijiho57&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#74d4db&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;energy&quot;,&quot;title&quot;:&quot;Energy&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;oka57wf9lvevw90&quot;,&quot;week&quot;:&quot;n2378vie3oxoji6&quot;,&quot;news&quot;:&quot;omil9bkxqllv1tb&quot;,&quot;top&quot;:&quot;6kb8vdr0kr6kj9r&quot;,&quot;arts&quot;:&quot;vvgi29defbmnn9y&quot;},&quot;fc&quot;:81750,&quot;news&quot;:87,&quot;dname&quot;:&quot;energyinfo.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;711030942A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#ecdf94&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;tv&quot;,&quot;title&quot;:&quot;TV&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;zl3a3csnrpdrk1l&quot;,&quot;week&quot;:&quot;n50282cub304xel&quot;,&quot;news&quot;:&quot;7nazmp0nvix0cid&quot;,&quot;top&quot;:&quot;zx56h8y33ibry2b&quot;,&quot;cover&quot;:&quot;65ma6rccrr5fsj5&quot;},&quot;fc&quot;:81228,&quot;news&quot;:97,&quot;dname&quot;:&quot;tvnews.cf&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;tuki452&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#b92c8e&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;social&quot;,&quot;title&quot;:&quot;Social&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;q8xgb241m10crxp&quot;,&quot;week&quot;:&quot;i7frzgv4019hzdl&quot;,&quot;news&quot;:&quot;u7zvkm1leksmw9w&quot;,&quot;top&quot;:&quot;jk84drfhb51o1r1&quot;,&quot;cover&quot;:&quot;bvbq44dgzoqo8xn&quot;},&quot;fc&quot;:80669,&quot;news&quot;:236,&quot;dname&quot;:&quot;socialtrend.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;536487603A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#0acf72&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:true},{&quot;key&quot;:&quot;education&quot;,&quot;title&quot;:&quot;Education&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;mlwoeuozm6opzdu&quot;,&quot;week&quot;:&quot;wpxnqq423fzodv1&quot;,&quot;news&quot;:&quot;yz7a4ala3vi2gin&quot;,&quot;top&quot;:&quot;mte1444hyothf9z&quot;,&quot;cover&quot;:&quot;5tlwo5k3byx3a0h&quot;},&quot;fc&quot;:70124,&quot;news&quot;:50,&quot;dname&quot;:&quot;education.gq&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;citiesnewsml&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#c31a69&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;sports&quot;,&quot;title&quot;:&quot;Sports&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;29ee4ed41yxi4n7&quot;,&quot;cover&quot;:&quot;q0b1gd6n89mr0xh&quot;,&quot;week&quot;:&quot;h4h9ifagxyw1yd3&quot;,&quot;news&quot;:&quot;w1uddjmuloperjf&quot;,&quot;top&quot;:&quot;07d7zeejoml3vmz&quot;},&quot;fc&quot;:63303,&quot;news&quot;:193,&quot;dname&quot;:&quot;sportfeed.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;crimegq&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#159182&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;soccer&quot;,&quot;title&quot;:&quot;Soccer&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;kona247p8fpabw4&quot;,&quot;week&quot;:&quot;cfysowryhk0s8ly&quot;,&quot;news&quot;:&quot;9srhvboym5y9ujw&quot;,&quot;top&quot;:&quot;3nn5p2w98kymyzh&quot;,&quot;cover&quot;:&quot;ygdsc31ny1c1ebe&quot;},&quot;fc&quot;:55936,&quot;news&quot;:217,&quot;dname&quot;:&quot;soccertrend.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;479538042A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#09ee29&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;american-football&quot;,&quot;title&quot;:&quot;Football&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;wxpwfck3q7l9to4&quot;,&quot;week&quot;:&quot;hxz1gid0sfimkdx&quot;,&quot;news&quot;:&quot;zklpe7nysq2w5i5&quot;,&quot;top&quot;:&quot;6rle54sc09te46u&quot;,&quot;arts&quot;:&quot;vhokk80ljxmg8sn&quot;},&quot;fc&quot;:52849,&quot;news&quot;:214,&quot;dname&quot;:&quot;american-footballboard.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;oto205&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#f4fba0&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;dev&quot;,&quot;title&quot;:&quot;Development&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;mzow6gwxi0mnhyw&quot;,&quot;week&quot;:&quot;fdmrprj30lkj28a&quot;,&quot;news&quot;:&quot;f77tlvy13j2xpn4&quot;,&quot;top&quot;:&quot;7fvuetw9bhsv5sh&quot;,&quot;arts&quot;:&quot;295z0vvl8i464zr&quot;},&quot;fc&quot;:52018,&quot;news&quot;:18,&quot;dname&quot;:&quot;devbuzz.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;666723293A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#957ea6&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;culture&quot;,&quot;title&quot;:&quot;Culture&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;zdv54lt9auo4hn7&quot;,&quot;week&quot;:&quot;srhkoqeqb1x014n&quot;,&quot;news&quot;:&quot;s2rdk8p3pqmjb2g&quot;,&quot;top&quot;:&quot;n6zd71a23d9x4po&quot;,&quot;cover&quot;:&quot;0vzli4uqeeekqo8&quot;},&quot;fc&quot;:49789,&quot;news&quot;:55,&quot;dname&quot;:&quot;culture.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;778935363A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#7e9a41&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:true},{&quot;key&quot;:&quot;psychology&quot;,&quot;title&quot;:&quot;Psychology&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;epeamwyxernec0o&quot;,&quot;week&quot;:&quot;sxwjqna687rzxa8&quot;,&quot;news&quot;:&quot;2g8jlvwojozv3kf&quot;,&quot;top&quot;:&quot;vszcgi59tm64s7y&quot;,&quot;cover&quot;:&quot;pqijslywzop6pbq&quot;},&quot;fc&quot;:47928,&quot;news&quot;:96,&quot;dname&quot;:&quot;psychologybuzz.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;sae841&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#90a32c&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;lifestyle&quot;,&quot;title&quot;:&quot;Life&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;k88ctynf9ljb1dj&quot;,&quot;week&quot;:&quot;c26q1modei9e0eo&quot;,&quot;news&quot;:&quot;o2kpxz7wob5fysr&quot;,&quot;top&quot;:&quot;oas0o2nwe22qtp5&quot;,&quot;cover&quot;:&quot;4vr6hxaehcxj680&quot;},&quot;fc&quot;:37780,&quot;news&quot;:169,&quot;dname&quot;:&quot;lifestyleworld.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;economicsinfoml&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#131b06&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;games&quot;,&quot;title&quot;:&quot;Games&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;pq81gkeed2vx53f&quot;,&quot;week&quot;:&quot;45d3tqguszjlxi9&quot;,&quot;news&quot;:&quot;24438h540sfc51f&quot;,&quot;top&quot;:&quot;1jcoyjvhlbpi1a3&quot;,&quot;cover&quot;:&quot;kmlorgkx1mt7x8k&quot;},&quot;fc&quot;:34988,&quot;news&quot;:228,&quot;dname&quot;:&quot;gamestream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;worldworldml&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#30971f&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;hockey&quot;,&quot;title&quot;:&quot;Hockey&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;26nxiahtci336wv&quot;,&quot;week&quot;:&quot;3y5bvf18eu4omyl&quot;,&quot;news&quot;:&quot;7nj6ux9u65dytcn&quot;,&quot;top&quot;:&quot;n4qc6ppujhvvw2a&quot;,&quot;cover&quot;:&quot;0o8zzdwhn5okl6z&quot;},&quot;fc&quot;:34140,&quot;news&quot;:48,&quot;dname&quot;:&quot;hockeystream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;713741633A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#e6f100&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;fitness&quot;,&quot;title&quot;:&quot;Fitness&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;xwvb9xxjkcjiick&quot;,&quot;week&quot;:&quot;eyyyjt1f3mo4zn6&quot;,&quot;news&quot;:&quot;ycgukfw2j1ckw98&quot;,&quot;top&quot;:&quot;4hhlg1qe6074810&quot;,&quot;cover&quot;:&quot;dftwma8s59e9sot&quot;},&quot;fc&quot;:31658,&quot;news&quot;:175,&quot;dname&quot;:&quot;fitnessinfo.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;991216763A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#bb202e&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;books&quot;,&quot;title&quot;:&quot;Books&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;4fm4pakk7jjluuz&quot;,&quot;week&quot;:&quot;qcpsdk5mvhdm9e7&quot;,&quot;news&quot;:&quot;zc7gbt7os019mvu&quot;,&quot;top&quot;:&quot;cqswkr74q22xl2i&quot;,&quot;cover&quot;:&quot;la5tk2pz61smic5&quot;},&quot;fc&quot;:31120,&quot;news&quot;:95,&quot;dname&quot;:&quot;booksfeed.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;sciencega868&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#20134c&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:true},{&quot;key&quot;:&quot;europe&quot;,&quot;title&quot;:&quot;Europe&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;bo6e0b7tdiu97sk&quot;,&quot;week&quot;:&quot;3lstlrhiix9qal0&quot;,&quot;news&quot;:&quot;d2f94bs8kmcykdo&quot;,&quot;top&quot;:&quot;dy9kkw9b7y4sjdy&quot;,&quot;cover&quot;:&quot;i40x1plenq1mmnh&quot;},&quot;fc&quot;:28810,&quot;news&quot;:73,&quot;dname&quot;:&quot;europeboard.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;tvnewscf198&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#5b7441&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;nature&quot;,&quot;title&quot;:&quot;Nature&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;dhs1tsk6olrqu4c&quot;,&quot;week&quot;:&quot;osa9bfztymg8b8j&quot;,&quot;news&quot;:&quot;982stogzb6ju7u1&quot;,&quot;top&quot;:&quot;zlbxwdf1gyd5p6a&quot;,&quot;cover&quot;:&quot;h9k0y68crijgn8s&quot;},&quot;fc&quot;:28001,&quot;news&quot;:89,&quot;dname&quot;:&quot;naturefeed.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;naomi3912&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#ff484a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;conspiracy&quot;,&quot;title&quot;:&quot;Conspiracy&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;1neou8dji55yaj5&quot;,&quot;week&quot;:&quot;k6hnj5c10vjvrhw&quot;,&quot;news&quot;:&quot;jlv541q717fbayw&quot;,&quot;top&quot;:&quot;ui2merxtjciscnf&quot;,&quot;arts&quot;:&quot;h6epq8pfp1whhhm&quot;},&quot;fc&quot;:25789,&quot;news&quot;:289,&quot;dname&quot;:&quot;conspiracyinfo.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;710587024A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#b38a8a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;military&quot;,&quot;title&quot;:&quot;Military&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;cg7fzls3u3thczp&quot;,&quot;week&quot;:&quot;jlpfe2rbloa4qob&quot;,&quot;news&quot;:&quot;7v7n5iq425wsa0i&quot;,&quot;top&quot;:&quot;3ns8by5sy7yue7m&quot;,&quot;cover&quot;:&quot;svo8bn5ypq9j2jx&quot;},&quot;fc&quot;:23323,&quot;news&quot;:16,&quot;dname&quot;:&quot;military.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;708660911A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#02b20a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;space&quot;,&quot;title&quot;:&quot;Space&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;9zjqh55pacrs1l3&quot;,&quot;week&quot;:&quot;tzpn8i3h2lhemv6&quot;,&quot;news&quot;:&quot;830ua74z5w81njq&quot;,&quot;top&quot;:&quot;cmyjsz53f84cijy&quot;,&quot;cover&quot;:&quot;hcbrzumsbw13yyz&quot;},&quot;fc&quot;:22507,&quot;news&quot;:189,&quot;dname&quot;:&quot;spaceworld.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;alternative152&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#18d5a5&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;religion&quot;,&quot;title&quot;:&quot;Religion&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;liv6w43ur90hbxy&quot;,&quot;week&quot;:&quot;zg9guy3jz1v83o4&quot;,&quot;news&quot;:&quot;bjche592pqtg8xs&quot;,&quot;top&quot;:&quot;em2r99rs27r1zsw&quot;,&quot;cover&quot;:&quot;gjc2zf465mxh3no&quot;},&quot;fc&quot;:21333,&quot;news&quot;:43,&quot;dname&quot;:&quot;religion.gq&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;915596972A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#14a4d2&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;weather&quot;,&quot;title&quot;:&quot;Weather&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;w73w6eu76bvmrul&quot;,&quot;week&quot;:&quot;omcm01shao4iehw&quot;,&quot;news&quot;:&quot;ie3bd4n7hyu79oi&quot;,&quot;top&quot;:&quot;n6uai0qyr1fm2cx&quot;,&quot;arts&quot;:&quot;fy9cie7ub8sjvpk&quot;},&quot;fc&quot;:17128,&quot;news&quot;:42,&quot;dname&quot;:&quot;weatherboard.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;800798479A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#bc8be9&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;musical&quot;,&quot;title&quot;:&quot;Theatre&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;xv238awco551zo0&quot;,&quot;week&quot;:&quot;7kzmh7r4r8o7wb6&quot;,&quot;news&quot;:&quot;ywxstht0oy5e63d&quot;,&quot;top&quot;:&quot;27rj4ybci3ngbhp&quot;,&quot;arts&quot;:&quot;y7ajnpgul0sb8br&quot;},&quot;fc&quot;:14978,&quot;news&quot;:44,&quot;dname&quot;:&quot;musical.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;742193618A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#59ca7f&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;asia&quot;,&quot;title&quot;:&quot;Asia&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;woa28jtta047xvf&quot;,&quot;week&quot;:&quot;9q8xmvbk5y1fq0h&quot;,&quot;news&quot;:&quot;cas0x7oc1l0bufz&quot;,&quot;top&quot;:&quot;3cfj30wpjl0shf7&quot;,&quot;cover&quot;:&quot;9polq8mja6uumlr&quot;},&quot;fc&quot;:13430,&quot;news&quot;:23,&quot;dname&quot;:&quot;asiastream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;101110106A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#95adf0&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;funny&quot;,&quot;title&quot;:&quot;Funny&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;vmu7e89u7heykgg&quot;,&quot;week&quot;:&quot;68wstqp90nffqbe&quot;,&quot;news&quot;:&quot;quoprpt6uhncrak&quot;,&quot;top&quot;:&quot;qkazma1yflysu1b&quot;,&quot;cover&quot;:&quot;hmglot3vyeu1an1&quot;},&quot;fc&quot;:12195,&quot;news&quot;:4,&quot;dname&quot;:&quot;funnystream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;internetfeedml&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#e64a4d&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;beauty&quot;,&quot;title&quot;:&quot;Beauty&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;ab78z7gvytt33ik&quot;,&quot;week&quot;:&quot;9enonipk0t3rd0i&quot;,&quot;news&quot;:&quot;luqo0w2ezgkhgvu&quot;,&quot;top&quot;:&quot;ma0o8hycwmm4vmh&quot;,&quot;cover&quot;:&quot;pxvktln5i9auydk&quot;},&quot;fc&quot;:11743,&quot;news&quot;:41,&quot;dname&quot;:&quot;beautyboard.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;85571028A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#5874c7&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;medical&quot;,&quot;title&quot;:&quot;Medical&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;d7f5iqv0evn4yxm&quot;,&quot;week&quot;:&quot;w5nn8iaeetfupvv&quot;,&quot;news&quot;:&quot;b7w3rynvass02fd&quot;,&quot;top&quot;:&quot;xqjo63k6mw8tlo1&quot;,&quot;arts&quot;:&quot;ikujjgawqpvvd3l&quot;},&quot;fc&quot;:10182,&quot;news&quot;:185,&quot;dname&quot;:&quot;medicalnews.cf&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;noriyo34&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#7ea69a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;health&quot;,&quot;title&quot;:&quot;Health&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;lajlfraq0wpfboy&quot;,&quot;week&quot;:&quot;hvur7iqdp16p10h&quot;,&quot;news&quot;:&quot;m4z9ae5e6anrf7n&quot;,&quot;top&quot;:&quot;97p4w01d91u97xq&quot;,&quot;cover&quot;:&quot;zplj5ghu9kw72ar&quot;},&quot;fc&quot;:9934,&quot;news&quot;:254,&quot;dname&quot;:&quot;healthstream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;natuka68&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#793777&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;design&quot;,&quot;title&quot;:&quot;Design&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;gd7g91xqksgmsh4&quot;,&quot;week&quot;:&quot;oh6z29e2cf3ffw7&quot;,&quot;news&quot;:&quot;f75q8g6ilko04r9&quot;,&quot;top&quot;:&quot;zpzjnjvv7oscm18&quot;,&quot;cover&quot;:&quot;tknkw44j97f204d&quot;},&quot;fc&quot;:9641,&quot;news&quot;:67,&quot;dname&quot;:&quot;designworld.gq&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;technologyst729&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#3a25a6&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;travel&quot;,&quot;title&quot;:&quot;Travel&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;jo7xjxbquarkke8&quot;,&quot;week&quot;:&quot;lbrzlb1z4yrv06e&quot;,&quot;news&quot;:&quot;2ulafrw73imnfaa&quot;,&quot;top&quot;:&quot;xqeqbo0i6o3o9lh&quot;,&quot;cover&quot;:&quot;huuv4gfa2hnxk0d&quot;},&quot;fc&quot;:9338,&quot;news&quot;:184,&quot;dname&quot;:&quot;travelboard.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;sachio431&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#b015ec&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;hacking&quot;,&quot;title&quot;:&quot;Hacking&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;3ffq6yrbgcub1mb&quot;,&quot;week&quot;:&quot;zr99vssfguk9s9q&quot;,&quot;news&quot;:&quot;4zipqqneb49deam&quot;,&quot;top&quot;:&quot;kpmrbx6pul3oxis&quot;,&quot;cover&quot;:&quot;w9s1mlqeskay2a6&quot;},&quot;fc&quot;:9103,&quot;news&quot;:34,&quot;dname&quot;:&quot;hackingstream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;riri361&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#4d0588&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;history&quot;,&quot;title&quot;:&quot;History&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;yhozqheetxuf0iz&quot;,&quot;week&quot;:&quot;11m5zpsisvypefq&quot;,&quot;news&quot;:&quot;131txq1z3elbp2q&quot;,&quot;top&quot;:&quot;ttraqejoarc44xl&quot;,&quot;cover&quot;:&quot;ym6d1hbti9hkmbx&quot;},&quot;fc&quot;:9031,&quot;news&quot;:18,&quot;dname&quot;:&quot;historyinfo.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;739419500A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#e85ee4&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;fashion&quot;,&quot;title&quot;:&quot;Fashion&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;in44843ag4pyqif&quot;,&quot;week&quot;:&quot;qbge256ya57gknb&quot;,&quot;news&quot;:&quot;y6m00ri713vdqds&quot;,&quot;top&quot;:&quot;8k501wxw895wvdb&quot;,&quot;cover&quot;:&quot;1b0rex2psulges2&quot;},&quot;fc&quot;:8906,&quot;news&quot;:66,&quot;dname&quot;:&quot;fashionfeed.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;807005707A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#d3f616&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;home&quot;,&quot;title&quot;:&quot;Home&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;6iqg0ueqayqfkui&quot;,&quot;week&quot;:&quot;t70kqsoxdz5scp3&quot;,&quot;news&quot;:&quot;howfhn7n8xd1i4m&quot;,&quot;top&quot;:&quot;lwm74kwtvbgqw7f&quot;,&quot;cover&quot;:&quot;uako8o4t8c2pftm&quot;},&quot;fc&quot;:7194,&quot;news&quot;:47,&quot;dname&quot;:&quot;hometrend.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;otoka19&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#4315db&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;android&quot;,&quot;title&quot;:&quot;Android&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;b9b0duarzu4ab2t&quot;,&quot;week&quot;:&quot;xjpo910rmdww2ij&quot;,&quot;news&quot;:&quot;mpr6umtbtsw0aub&quot;,&quot;top&quot;:&quot;kfmf52ogzjtlbj7&quot;,&quot;arts&quot;:&quot;6sheo1tz4bd83z6&quot;},&quot;fc&quot;:5441,&quot;news&quot;:107,&quot;dname&quot;:&quot;androidnews.cf&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;639203272A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#fafdd1&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;bitcoin&quot;,&quot;title&quot;:&quot;Bitcoin&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;ml1buvy1rq462hd&quot;,&quot;week&quot;:&quot;3xmb9nb09nn0r56&quot;,&quot;news&quot;:&quot;de0hmc737ct4750&quot;,&quot;top&quot;:&quot;hr8atrs66sbjo9a&quot;,&quot;arts&quot;:&quot;vz1b363x54u9o1p&quot;},&quot;fc&quot;:5311,&quot;news&quot;:30,&quot;dname&quot;:&quot;bitcoinnews.cf&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;hackernewsnewsm&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#785b50&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;cars&quot;,&quot;title&quot;:&quot;Cars&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;ve4es76melv308w&quot;,&quot;week&quot;:&quot;1po32y4c59nvlos&quot;,&quot;news&quot;:&quot;bbuwtbvce1ec1ha&quot;,&quot;top&quot;:&quot;rsh1gyoi41m5fjr&quot;,&quot;cover&quot;:&quot;mfz9fow4y1pv4b4&quot;},&quot;fc&quot;:5017,&quot;news&quot;:66,&quot;dname&quot;:&quot;carsstream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;funnynewscf&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#88c8bd&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;biology&quot;,&quot;title&quot;:&quot;Biology&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;tydchoqlx0el2bl&quot;,&quot;week&quot;:&quot;zq35trm67lcnaan&quot;,&quot;news&quot;:&quot;snnu5vcbiz2rrwz&quot;,&quot;top&quot;:&quot;qymjsew5gzfhhgy&quot;,&quot;cover&quot;:&quot;xbwrx9o229i21j9&quot;},&quot;fc&quot;:5016,&quot;news&quot;:81,&quot;dname&quot;:&quot;biologystream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;275275349A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#9ba465&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;architecture&quot;,&quot;title&quot;:&quot;Architecture&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;u1s7gl26n7yxlqq&quot;,&quot;week&quot;:&quot;g2e4rd83krbo8zj&quot;,&quot;news&quot;:&quot;tcdh7b9508cokgx&quot;,&quot;top&quot;:&quot;fssduhqilk4zfem&quot;,&quot;cover&quot;:&quot;yi8dvdbq3v5qh7j&quot;},&quot;fc&quot;:4386,&quot;news&quot;:7,&quot;dname&quot;:&quot;architecturebuzz.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;curiousga989&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#d2376f&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;bikes&quot;,&quot;title&quot;:&quot;Bikes&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;0epnctvfn7qpb03&quot;,&quot;week&quot;:&quot;4tv2hy29gim9wrd&quot;,&quot;news&quot;:&quot;4vx4xboj2od0rcj&quot;,&quot;top&quot;:&quot;dtf2ml6igiq6qj3&quot;,&quot;arts&quot;:&quot;fhwyvf0er5086k0&quot;},&quot;dname&quot;:&quot;bikestream.ml&quot;,&quot;fc&quot;:3907,&quot;news&quot;:23,&quot;social&quot;:{&quot;twitter&quot;:&quot;nijika411&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#8a76c9&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;photography&quot;,&quot;title&quot;:&quot;Photography&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;5caf27qxizharae&quot;,&quot;week&quot;:&quot;n80wee7kkpa8ter&quot;,&quot;news&quot;:&quot;dxqain8xot1mh18&quot;,&quot;top&quot;:&quot;auxhzvck7w8bt5w&quot;,&quot;cover&quot;:&quot;x6ynvesx6kue07u&quot;},&quot;fc&quot;:3486,&quot;news&quot;:145,&quot;dname&quot;:&quot;photographyinfo.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;saeka982&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#1b1209&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;aviation&quot;,&quot;title&quot;:&quot;Aviation&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;b2z67r9wjlqdfhs&quot;,&quot;week&quot;:&quot;pxunkdfxb4w9jvh&quot;,&quot;news&quot;:&quot;48tc3v55rmz0t3f&quot;,&quot;top&quot;:&quot;u1qz80iszqx87q1&quot;,&quot;cover&quot;:&quot;xfyktq03po6gs0y&quot;},&quot;fc&quot;:2609,&quot;news&quot;:14,&quot;dname&quot;:&quot;aviation.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;election2016ml&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#f07d79&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;food&quot;,&quot;title&quot;:&quot;Food/Cooking&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;b7ksm0ct9ucbybs&quot;,&quot;week&quot;:&quot;21qk9houct1rgnl&quot;,&quot;news&quot;:&quot;r5ip70mmgl6m35e&quot;,&quot;top&quot;:&quot;1pxhq6zkfw96u7o&quot;,&quot;cover&quot;:&quot;ll6f42jbzduzepw&quot;},&quot;dname&quot;:&quot;foodnews.ml&quot;,&quot;fc&quot;:2234,&quot;news&quot;:57,&quot;social&quot;:{&quot;twitter&quot;:&quot;riyouna1&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#1f602e&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;anime&quot;,&quot;title&quot;:&quot;Anime&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;thdrrwa3gncwvj7&quot;,&quot;week&quot;:&quot;5ov51mkb2p65xft&quot;,&quot;news&quot;:&quot;7l8b6vg01ucq6dj&quot;,&quot;top&quot;:&quot;zwti2b5fmaw3hqi&quot;,&quot;cover&quot;:&quot;ktyvwhxgv762fju&quot;},&quot;fc&quot;:1504,&quot;news&quot;:76,&quot;dname&quot;:&quot;animefeed.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;914598684A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#95ac2a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;web-design&quot;,&quot;title&quot;:&quot;Web Design&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;ij8xy6ko3hb5rrk&quot;,&quot;week&quot;:&quot;eyycfq7squ7pl7t&quot;,&quot;news&quot;:&quot;r4qe1uxp5o3hulz&quot;,&quot;top&quot;:&quot;8dnsd6qyphn7upu&quot;,&quot;arts&quot;:&quot;7mk8mxng1b8k1v1&quot;},&quot;fc&quot;:1223,&quot;news&quot;:12,&quot;dname&quot;:&quot;web-designinfo.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;935812960A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#8d0654&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;math&quot;,&quot;title&quot;:&quot;Math&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;7irr9ioef4to8ao&quot;,&quot;week&quot;:&quot;assftk9jobqo40x&quot;,&quot;news&quot;:&quot;97iddt1zgiqntrj&quot;,&quot;arts&quot;:&quot;lttx71m2b1gjqth&quot;,&quot;top&quot;:&quot;8ao52zs2df3v76e&quot;},&quot;dname&quot;:&quot;mathworld.ml&quot;,&quot;fc&quot;:1199,&quot;news&quot;:172,&quot;social&quot;:{&quot;twitter&quot;:&quot;589093908A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#9612c2&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;art&quot;,&quot;title&quot;:&quot;Art&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;srmfww93of96rqm&quot;,&quot;week&quot;:&quot;d0rkelvsyd9l3lx&quot;,&quot;news&quot;:&quot;i2pjc0v2yxkz18o&quot;,&quot;top&quot;:&quot;3gn5j84rhrwrd06&quot;,&quot;cover&quot;:&quot;1i2q577h0dcp1hi&quot;},&quot;fc&quot;:1112,&quot;news&quot;:117,&quot;dname&quot;:&quot;artbuzz.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;trailersboar900&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#168534&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;basketball&quot;,&quot;title&quot;:&quot;Basketball&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;5ldhjgiw1ifsxfy&quot;,&quot;week&quot;:&quot;i7dn9s2hw79kjy8&quot;,&quot;news&quot;:&quot;amjt0iy5elgahng&quot;,&quot;top&quot;:&quot;q2vvvjjyjtua846&quot;,&quot;cover&quot;:&quot;xqgh3q42pmxp9hm&quot;},&quot;dname&quot;:&quot;baskettrend.ml&quot;,&quot;fc&quot;:957,&quot;news&quot;:36,&quot;social&quot;:{&quot;twitter&quot;:&quot;rumoi95&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#03b67a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;nutrition&quot;,&quot;title&quot;:&quot;Nutrition&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;9c8xcuy3mi90q8f&quot;,&quot;week&quot;:&quot;9ywpm7o4gjm3n77&quot;,&quot;news&quot;:&quot;oku4oqtmrufmd07&quot;,&quot;top&quot;:&quot;lst8l3a0r1s1syw&quot;,&quot;cover&quot;:&quot;4vllgvxwcpymih8&quot;},&quot;fc&quot;:800,&quot;news&quot;:93,&quot;dname&quot;:&quot;nutritionstream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;rizu67&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#38dd9d&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;security&quot;,&quot;title&quot;:&quot;Security&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;rf1peohq69nk22x&quot;,&quot;week&quot;:&quot;q8137g4eu86cr3s&quot;,&quot;news&quot;:&quot;zy4wojvzp0wtgsw&quot;,&quot;top&quot;:&quot;a05swag094b5kfu&quot;,&quot;arts&quot;:&quot;yycq9yw8xzuv2zj&quot;},&quot;fc&quot;:796,&quot;news&quot;:60,&quot;dname&quot;:&quot;securityfeed.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;418036413A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#1d8ab2&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;shopping&quot;,&quot;title&quot;:&quot;Shopping&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;onaoqg1haivyj40&quot;,&quot;week&quot;:&quot;5rn42sr8hc9ae8s&quot;,&quot;news&quot;:&quot;6dklwx71o9sg2yg&quot;,&quot;top&quot;:&quot;cjt3vt6c5yg185n&quot;,&quot;cover&quot;:&quot;zj7ozdsqeltxalk&quot;},&quot;fc&quot;:500,&quot;news&quot;:124,&quot;dname&quot;:&quot;shoppingnews.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;rina2007112537&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#c489b1&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;startup&quot;,&quot;title&quot;:&quot;Startup&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;ug72vos7f5s09yj&quot;,&quot;week&quot;:&quot;w4n46b3m2bt2yxc&quot;,&quot;news&quot;:&quot;32xc8ajf6bc1i47&quot;,&quot;top&quot;:&quot;n1ixndohv4shcha&quot;,&quot;arts&quot;:&quot;ct6jg1b1eylj5wu&quot;},&quot;fc&quot;:497,&quot;news&quot;:38,&quot;dname&quot;:&quot;startupfeed.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;849859871A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#4d48ae&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;linux-unix&quot;,&quot;title&quot;:&quot;Linux/Unix&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;b5byc1u6iumlyq1&quot;,&quot;week&quot;:&quot;3u5hr5jnoodp2jm&quot;,&quot;news&quot;:&quot;fqtaviy7xbl1kl0&quot;,&quot;top&quot;:&quot;7zbvqokq0falw70&quot;,&quot;cover&quot;:&quot;hm8fteipkerzo0r&quot;},&quot;fc&quot;:463,&quot;news&quot;:271,&quot;dname&quot;:&quot;linux-unix.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;567671461A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#b36f91&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;chemistry&quot;,&quot;title&quot;:&quot;Chemistry&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;xpkc64m13iu2hmi&quot;,&quot;week&quot;:&quot;ja0top2f2etsu61&quot;,&quot;news&quot;:&quot;kipk9ng5i69942v&quot;,&quot;top&quot;:&quot;dmoevj2zo8ozxha&quot;,&quot;cover&quot;:&quot;8pdvzsl5ms6ruzr&quot;},&quot;dname&quot;:&quot;chemnews.ml&quot;,&quot;fc&quot;:331,&quot;news&quot;:5,&quot;social&quot;:{&quot;twitter&quot;:&quot;rian815&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#6a985b&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;gardening&quot;,&quot;title&quot;:&quot;Gardening&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;6oxquvm0ihmce2f&quot;,&quot;week&quot;:&quot;vanu8facnt0uau5&quot;,&quot;news&quot;:&quot;zlytesxbbsq132v&quot;,&quot;top&quot;:&quot;5fzq6tyz5qoo4tv&quot;,&quot;cover&quot;:&quot;436xj1eqck1ownd&quot;},&quot;fc&quot;:297,&quot;news&quot;:6,&quot;dname&quot;:&quot;gardeninginfo.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;riha711&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#1a8025&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;physics&quot;,&quot;title&quot;:&quot;Physics&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;7vhr5q67cylona8&quot;,&quot;week&quot;:&quot;xrs63sn32e5p55q&quot;,&quot;news&quot;:&quot;44fbs6ujbrfbls6&quot;,&quot;top&quot;:&quot;dtov5f5zh5o0wot&quot;,&quot;cover&quot;:&quot;6xag6ypdpund28t&quot;},&quot;fc&quot;:193,&quot;news&quot;:22,&quot;dname&quot;:&quot;physicstrend.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;87341205A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#f9b41b&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;accounting&quot;,&quot;title&quot;:&quot;Accounting&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;4nh1dgkrllsqjen&quot;,&quot;week&quot;:&quot;d53evmzljoo97qc&quot;,&quot;news&quot;:&quot;ibv2rah4c8b1rff&quot;,&quot;top&quot;:&quot;4yqx531y2n54eod&quot;,&quot;cover&quot;:&quot;5v9z4x7snz4yk9b&quot;},&quot;fc&quot;:189,&quot;news&quot;:1,&quot;dname&quot;:&quot;financialinfo.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;reira342&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#2e5b60&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;programming&quot;,&quot;title&quot;:&quot;Programming&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;645kwo5aokzya9m&quot;,&quot;week&quot;:&quot;0m4v2bkwy13nh1i&quot;,&quot;news&quot;:&quot;8gfrgbhp985idna&quot;,&quot;top&quot;:&quot;jwpoc0hk5mcxk1a&quot;,&quot;cover&quot;:&quot;8ocl0ubqn76sc63&quot;},&quot;fc&quot;:163,&quot;news&quot;:247,&quot;dname&quot;:&quot;programmingfeed.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;saaya63&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#3b3beb&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;mobile&quot;,&quot;title&quot;:&quot;Gadgets&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;rxwahmrw5mz57ym&quot;,&quot;week&quot;:&quot;x1ks73ug4lnolwr&quot;,&quot;news&quot;:&quot;07ru6crql05fmtk&quot;,&quot;top&quot;:&quot;mijzmwitx0usp3o&quot;,&quot;cover&quot;:&quot;dcyi6hgjqjtmrgb&quot;},&quot;fc&quot;:116,&quot;news&quot;:20,&quot;dname&quot;:&quot;mobilestream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;219167929A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#e8f218&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;baseball&quot;,&quot;title&quot;:&quot;Baseball&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;53r9mka0dknsknt&quot;,&quot;week&quot;:&quot;y8ytnswzkejcd98&quot;,&quot;news&quot;:&quot;gb7dtvzhoei3hnb&quot;,&quot;top&quot;:&quot;a5zrz60yy8hbkww&quot;,&quot;cover&quot;:&quot;eetfiefk9veo0rt&quot;},&quot;fc&quot;:55,&quot;news&quot;:15,&quot;dname&quot;:&quot;baseball.gq&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;765967903A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#3d0c9f&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;learning&quot;,&quot;title&quot;:&quot;Learning&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;j7v28gdf5oph0uy&quot;,&quot;week&quot;:&quot;nm7ya774uis044p&quot;,&quot;news&quot;:&quot;z6nrsm3antnn82i&quot;,&quot;top&quot;:&quot;8up4vp31rajg6qo&quot;,&quot;arts&quot;:&quot;imview3q06rdshh&quot;},&quot;fc&quot;:27,&quot;news&quot;:30,&quot;dname&quot;:&quot;learning.cf&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;6651898A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#7c1ead&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;motorcycle&quot;,&quot;title&quot;:&quot;Motorcycles&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;di1wumeef82ayzj&quot;,&quot;week&quot;:&quot;4e342afdtz5xky6&quot;,&quot;news&quot;:&quot;8p2k9h26wh8q5xx&quot;,&quot;top&quot;:&quot;0slc61tpqdcfw81&quot;,&quot;cover&quot;:&quot;d004m6m819u10te&quot;},&quot;fc&quot;:23,&quot;news&quot;:74,&quot;dname&quot;:&quot;motorcyclebuzz.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;ruiri19&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#d5e918&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;dogs&quot;,&quot;title&quot;:&quot;Dogs&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;oc3jmh97kbanqgt&quot;,&quot;week&quot;:&quot;ko3r1nbo849w2f9&quot;,&quot;news&quot;:&quot;vr5plit9knkqqyz&quot;,&quot;top&quot;:&quot;p0i9dwzbx6dgk6g&quot;,&quot;cover&quot;:&quot;akpojeo6emk9xa2&quot;},&quot;fc&quot;:10,&quot;news&quot;:2,&quot;dname&quot;:&quot;dogsworld.cf&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;847755730A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#e4b65a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;sdvertising&quot;,&quot;title&quot;:&quot;Advertising&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;i99tixglprq9seq&quot;,&quot;week&quot;:&quot;0wcp83s9fqk4kc4&quot;,&quot;news&quot;:&quot;cpaprzxq8txqjzi&quot;,&quot;top&quot;:&quot;1ius7mkw40mqe98&quot;,&quot;cover&quot;:&quot;qgce0636bp8etus&quot;},&quot;fc&quot;:8,&quot;news&quot;:8,&quot;dname&quot;:&quot;advertisingnews.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;newsnewsml771&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#665e7e&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;marketing&quot;,&quot;title&quot;:&quot;Marketing&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;uoj8ll4300hadpt&quot;,&quot;week&quot;:&quot;sy2oo9i2701e2gl&quot;,&quot;news&quot;:&quot;k5ak9iicf1qm8ij&quot;,&quot;top&quot;:&quot;fif3p9s2b08ku30&quot;,&quot;cover&quot;:&quot;gnqus6naj1lfoj5&quot;},&quot;fc&quot;:6,&quot;news&quot;:88,&quot;dname&quot;:&quot;marketing.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;riemi711&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#11ed54&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;business&quot;,&quot;title&quot;:&quot;Business&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;r47zrd3hn8frn4g&quot;,&quot;week&quot;:&quot;zctcfkuz600r0ik&quot;,&quot;news&quot;:&quot;owsxqjtpmzgq5nm&quot;,&quot;top&quot;:&quot;opte0kjdz7t40p8&quot;,&quot;cover&quot;:&quot;vkt7021ecdp6tkw&quot;},&quot;fc&quot;:5,&quot;news&quot;:128,&quot;dname&quot;:&quot;businessnews.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;designnewsml&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#d222e3&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;diy&quot;,&quot;title&quot;:&quot;DIY&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;29tqmvc3j4zn25l&quot;,&quot;week&quot;:&quot;v6y7ngddrnn0qgh&quot;,&quot;news&quot;:&quot;g8v8392y62xxpi4&quot;,&quot;top&quot;:&quot;hxw38thtd15zo75&quot;,&quot;arts&quot;:&quot;ogk8kj6nzg0d8ba&quot;},&quot;fc&quot;:5,&quot;news&quot;:3,&quot;dname&quot;:&quot;diyworld.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;60868496A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#25f7f2&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;javascript&quot;,&quot;title&quot;:&quot;Javascript&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;ag1lht04heiesff&quot;,&quot;week&quot;:&quot;f9iji11i8ab14ch&quot;,&quot;news&quot;:&quot;hkwf0bozzpipirq&quot;,&quot;top&quot;:&quot;pp20dyyo27r43jl&quot;,&quot;arts&quot;:&quot;blcm78xqbop33ps&quot;},&quot;dname&quot;:&quot;javascriptboard.ml&quot;,&quot;fc&quot;:1,&quot;news&quot;:228,&quot;social&quot;:{&quot;twitter&quot;:&quot;626374042A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#66612d&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;quotes&quot;,&quot;title&quot;:&quot;Quotes&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;0qcwbk218wnwovm&quot;,&quot;week&quot;:&quot;y84dsw3uyv51up1&quot;,&quot;news&quot;:&quot;xyedmddyn7onj7f&quot;,&quot;top&quot;:&quot;5lx3j5z18zkz0i1&quot;,&quot;cover&quot;:&quot;5a1tk5y8n7sgogj&quot;},&quot;fc&quot;:0,&quot;news&quot;:140,&quot;dname&quot;:&quot;quotesbuzz.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;841994707A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#3c43b3&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;language&quot;,&quot;title&quot;:&quot;Language&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;0ujo6yo3cf20qc6&quot;,&quot;week&quot;:&quot;ux8ohkrvxdea5mx&quot;,&quot;news&quot;:&quot;c47vb8zqr6c9xq8&quot;,&quot;top&quot;:&quot;ukeazwzf3frhf51&quot;,&quot;cover&quot;:&quot;owmv9jzr02pmkcv&quot;},&quot;fc&quot;:0,&quot;news&quot;:80,&quot;dname&quot;:&quot;languagestream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;yuduru2&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#02b58a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;productivity&quot;,&quot;title&quot;:&quot;Productivity&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;0sv77b12qir6w6g&quot;,&quot;week&quot;:&quot;wl0btcp99mwj6ea&quot;,&quot;news&quot;:&quot;en2oz28qhgdmnw3&quot;,&quot;top&quot;:&quot;nc4hb10cmozrhpr&quot;,&quot;arts&quot;:&quot;fnbo9y5i4x8kz1x&quot;},&quot;dname&quot;:&quot;productivity.ml&quot;,&quot;fc&quot;:0,&quot;news&quot;:71,&quot;social&quot;:{&quot;twitter&quot;:&quot;179089933A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#7390aa&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;yoga&quot;,&quot;title&quot;:&quot;Yoga&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;lttqmj2p2jsonhd&quot;,&quot;week&quot;:&quot;tc7kaxktob8kgtz&quot;,&quot;news&quot;:&quot;5xvpkanfx5m5cq6&quot;,&quot;top&quot;:&quot;nsd9ua0pkb8geo8&quot;,&quot;cover&quot;:&quot;xwn33kl4wkc4cu0&quot;},&quot;fc&quot;:0,&quot;news&quot;:42,&quot;dname&quot;:&quot;yogatrend.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;163127416A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#3dae04&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;software&quot;,&quot;title&quot;:&quot;Software&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;485g094vojz1vzz&quot;,&quot;week&quot;:&quot;1gvy0yxcjgfn0at&quot;,&quot;news&quot;:&quot;6sozpjqqq1gao7m&quot;,&quot;top&quot;:&quot;dcrhsuf2gxvryyi&quot;,&quot;cover&quot;:&quot;2h02rap2o7mwps3&quot;},&quot;fc&quot;:0,&quot;news&quot;:39,&quot;dname&quot;:&quot;softwarefeed.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;314402983A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#219dec&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;job&quot;,&quot;title&quot;:&quot;Jobs&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;wm4fiy4w31wi0t5&quot;,&quot;week&quot;:&quot;80x7qka2ru5necz&quot;,&quot;news&quot;:&quot;1kp6arejq8jy81i&quot;,&quot;top&quot;:&quot;llnt0rl6kn3jtu1&quot;,&quot;arts&quot;:&quot;wdby4sfeg2hxqoj&quot;},&quot;fc&quot;:0,&quot;news&quot;:30,&quot;dname&quot;:&quot;jobworld.cf&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;810822119A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#3b34cf&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;outdoors&quot;,&quot;title&quot;:&quot;Outdoors&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;39s1ahvbe4njy1y&quot;,&quot;week&quot;:&quot;xunolpjdj19vjyr&quot;,&quot;news&quot;:&quot;qicjzv991wpgb1u&quot;,&quot;top&quot;:&quot;da402jc1nbl1qj1&quot;,&quot;cover&quot;:&quot;0a1tb6dxdesq8ol&quot;},&quot;fc&quot;:0,&quot;news&quot;:15,&quot;dname&quot;:&quot;outdoorsnews.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;567093109A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#2dcabd&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;economics&quot;,&quot;title&quot;:&quot;Economics&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;d16ttdba121o2f9&quot;,&quot;week&quot;:&quot;f3q8vu06eo03kcx&quot;,&quot;news&quot;:&quot;1ae0cht4zf6pw68&quot;,&quot;top&quot;:&quot;75d9piq2o1nzop5&quot;,&quot;cover&quot;:&quot;dbmu8m522wxhyh3&quot;},&quot;fc&quot;:0,&quot;news&quot;:0,&quot;dname&quot;:&quot;economicsinfo.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;economicsgq813&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#9bfc2a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;technology&quot;,&quot;title&quot;:&quot;Tech&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;war8tbvaeyicjof&quot;,&quot;week&quot;:&quot;7ohk4a450nt5a23&quot;,&quot;news&quot;:&quot;j034zn22dmec5ew&quot;,&quot;top&quot;:&quot;q1ku3gvgk7y4of8&quot;,&quot;cover&quot;:&quot;3t4q2xcsbkya7pv&quot;},&quot;fc&quot;:0,&quot;news&quot;:0,&quot;dname&quot;:&quot;technology.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;408152616A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#e4ed41&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;africa&quot;,&quot;title&quot;:&quot;Africa&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;ahkbco9ps7skmul&quot;,&quot;week&quot;:&quot;udty2bdjgngfsq8&quot;,&quot;news&quot;:&quot;xn8ibw6q3x9e2jz&quot;,&quot;top&quot;:&quot;0tk8dcrx8uwy8ts&quot;,&quot;cover&quot;:&quot;21fyqz9mfbmznkc&quot;},&quot;fc&quot;:0,&quot;news&quot;:0,&quot;dname&quot;:&quot;africaboard.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;ria763&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#fc1621&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;celebrity&quot;,&quot;title&quot;:&quot;Celebrity&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;4wennhbuun2kzw8&quot;,&quot;week&quot;:&quot;07os6bq9n7gvwyu&quot;,&quot;news&quot;:&quot;9gchqj6ojamv003&quot;,&quot;top&quot;:&quot;cgbmgdwuygl6cb6&quot;,&quot;cover&quot;:&quot;524pz35t7muhr6a&quot;},&quot;dname&quot;:&quot;celeb.gq&quot;,&quot;fc&quot;:0,&quot;news&quot;:0,&quot;social&quot;:{&quot;twitter&quot;:&quot;ouka371&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#61e8d0&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;oil&quot;,&quot;title&quot;:&quot;Oil&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;ff5xut6vae9rmwu&quot;,&quot;week&quot;:&quot;aeed12j9y5pqpec&quot;,&quot;news&quot;:&quot;4rj3cjgx3cfv0n6&quot;,&quot;top&quot;:&quot;od2vv02s965y83o&quot;,&quot;arts&quot;:&quot;i9k3jbhd0iwv6oc&quot;},&quot;fc&quot;:0,&quot;news&quot;:0,&quot;dname&quot;:&quot;oilnews.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;orika581&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#0de8dd&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;shoes&quot;,&quot;title&quot;:&quot;Shoes&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;m1s65jyqhcg2gie&quot;,&quot;week&quot;:&quot;xuuktb795ca4cic&quot;,&quot;news&quot;:&quot;typnvvuhx0b05tc&quot;,&quot;top&quot;:&quot;xdstl0lcb423ag9&quot;,&quot;arts&quot;:&quot;see31o1kv3cex31&quot;},&quot;dname&quot;:&quot;shoesinfo.ml&quot;,&quot;fc&quot;:0,&quot;news&quot;:0,&quot;social&quot;:{&quot;twitter&quot;:&quot;politicsfeed315&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#180148&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;hip-hop&quot;,&quot;title&quot;:&quot;Hip Hop&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;j9g0qjl6tl4foaw&quot;,&quot;week&quot;:&quot;8pz1rsoatx0r2f3&quot;,&quot;news&quot;:&quot;xejhzucl6nwild7&quot;,&quot;top&quot;:&quot;mzl13k0ewhd1rf0&quot;,&quot;arts&quot;:&quot;vzcxpmrwpglt6f8&quot;},&quot;fc&quot;:0,&quot;news&quot;:0,&quot;dname&quot;:&quot;hip-hopworld.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;212153577A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#170e66&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;apps&quot;,&quot;title&quot;:&quot;Apps&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;uepzcs9akobja14&quot;,&quot;week&quot;:&quot;z3cmx0wccyaepgn&quot;,&quot;news&quot;:&quot;7wf0kk19i8ym6yb&quot;,&quot;top&quot;:&quot;3e1qhb5y4brcwkp&quot;,&quot;arts&quot;:&quot;wsywxm9ps5cr9ym&quot;},&quot;dname&quot;:&quot;appsnews.ml&quot;,&quot;fc&quot;:0,&quot;news&quot;:0,&quot;social&quot;:{&quot;twitter&quot;:&quot;longreadsga&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#0df745&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;wordpress&quot;,&quot;title&quot;:&quot;Wordpress&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;w84m47j616ts6mg&quot;,&quot;week&quot;:&quot;93m8v14c93er7q8&quot;,&quot;news&quot;:&quot;9haxbtzeq2cv2d2&quot;,&quot;top&quot;:&quot;lysac93xtf22usz&quot;,&quot;arts&quot;:&quot;hjmttossclgvnwn&quot;},&quot;dname&quot;:&quot;wordpressstream.ml&quot;,&quot;fc&quot;:0,&quot;news&quot;:0,&quot;social&quot;:{&quot;twitter&quot;:&quot;historiesgq785&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#473065&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;inspiration&quot;,&quot;title&quot;:&quot;Inspiration&quot;,&quot;maps&quot;:{&quot;week&quot;:&quot;q17e81f5vs1l5ra&quot;,&quot;news&quot;:&quot;3cw8lr2n1rxnts3&quot;,&quot;top&quot;:&quot;fgh5obs5l9ar1hh&quot;,&quot;cover&quot;:&quot;qbiruj1stlaqszb&quot;,&quot;arts&quot;:&quot;0bxstcd6zt0khve&quot;},&quot;fc&quot;:0,&quot;news&quot;:0,&quot;dname&quot;:&quot;inspiration.gq&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;953014737A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#d9301b&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;computer&quot;,&quot;title&quot;:&quot;Computer&quot;,&quot;maps&quot;:{&quot;cover&quot;:&quot;r31vvzv5arznb2i&quot;,&quot;week&quot;:&quot;9rjrz0kxiza4shd&quot;,&quot;news&quot;:&quot;tfghj8wnl8crbyd&quot;,&quot;top&quot;:&quot;vwxem01fn9vkrlp&quot;,&quot;arts&quot;:&quot;ve91jhddvrj7xy6&quot;},&quot;dname&quot;:&quot;computertrend.ml&quot;,&quot;fc&quot;:0,&quot;news&quot;:0,&quot;social&quot;:{&quot;twitter&quot;:&quot;natuna_551&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#6858d2&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;cities&quot;,&quot;title&quot;:&quot;Cities&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;ffkkprc3hekbq5u&quot;},&quot;dname&quot;:&quot;citiesnews.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;929361516A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#7d9b5d&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;audio&quot;,&quot;title&quot;:&quot;Audio&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;2vseku8s4vs5wcm&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#b2f1d0&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;style&quot;,&quot;title&quot;:&quot;Style&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;3m5diw5zmmkwhhb&quot;},&quot;dname&quot;:&quot;styleboard.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;385677111A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#093395&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;comics&quot;,&quot;title&quot;:&quot;Comics&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;yq76ej3tyqp3vom&quot;},&quot;dname&quot;:&quot;comicsboard.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;534228118A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#ab9e19&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;lgbt&quot;,&quot;title&quot;:&quot;LGBT&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;tp7grhmkwlbzl2c&quot;},&quot;dname&quot;:&quot;lgbtstream.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;600980600A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#c30f54&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;toys&quot;,&quot;title&quot;:&quot;Toys&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;6i2ej0gq0qpd6oq&quot;},&quot;dname&quot;:&quot;toysboard.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;962665257A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#25a088&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;humor&quot;,&quot;title&quot;:&quot;Humor&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;ggwfw3ugnjzcpj8&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#5a957b&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;magic-illusions&quot;,&quot;title&quot;:&quot;Magic/Illusions&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;26wldfg69cw34cd&quot;},&quot;dname&quot;:&quot;magic-illusions.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;787114359A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#30709e&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;philosophy&quot;,&quot;title&quot;:&quot;Philosophy&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;o4x1fxxbjlci52r&quot;},&quot;dname&quot;:&quot;philosophy.ga&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;509954104A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#46c1dd&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;christianity&quot;,&quot;title&quot;:&quot;Christianity&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;111e610k2is98b8&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#3d82f9&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;crafts&quot;,&quot;title&quot;:&quot;Crafts&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;q4uicdtrzpiyqpn&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#337561&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;windows&quot;,&quot;title&quot;:&quot;Windows&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;ez47nj6by70qo4g&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#ebbe4c&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;research&quot;,&quot;title&quot;:&quot;Research&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;hokdrquj811pbb5&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#fc6a4a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;parenting&quot;,&quot;title&quot;:&quot;Parenting&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;7a6paqi44b7xe6q&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#819447&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;japan&quot;,&quot;title&quot;:&quot;Japan&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;py0wwyccwi1henz&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#c3d77a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;australia&quot;,&quot;title&quot;:&quot;Australia&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;0p6qb4cbx0hytg0&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#ce3f9a&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;canada&quot;,&quot;title&quot;:&quot;Canada&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;f0w3a7a6vlbc88s&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#c77a24&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;banking&quot;,&quot;title&quot;:&quot;Banking&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;kjqrr2on1emrgqz&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#372910&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;agriculture&quot;,&quot;title&quot;:&quot;Agriculture&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;74ae6nqkki3kfjk&quot;},&quot;dname&quot;:&quot;agriculturefeed.ml&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;976106243A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#f9b75a&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;feminism&quot;,&quot;title&quot;:&quot;Feminism&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;jbk0s4oo1p2uyrr&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#d9ea30&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;catholic&quot;,&quot;title&quot;:&quot;Catholic&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;45jterassxatz6c&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#8eff7e&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;java&quot;,&quot;title&quot;:&quot;Java&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;yfg6818p621si1l&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#b151c9&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;golf&quot;,&quot;title&quot;:&quot;Golf&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;zjaew1pcudnrg6a&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#b2fb71&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;management-hr&quot;,&quot;title&quot;:&quot;Management/HR&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;uwphz1k1v785ugp&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#461e8d&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;israel&quot;,&quot;title&quot;:&quot;Israel&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;7mh2fn2g1gowelg&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#da8c31&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;literature&quot;,&quot;title&quot;:&quot;Literature&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;kznmigrpufcltlh&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#dc2cbd&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;entrepreneurship&quot;,&quot;title&quot;:&quot;Entrepreneurship&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;vk0amtw78b23z9o&quot;},&quot;dname&quot;:&quot;entrepreneur.gq&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;476086691A&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#884310&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;bargains-coupons&quot;,&quot;title&quot;:&quot;Bargains/Coupons&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;rtgk47fqb8gdyma&quot;},&quot;dname&quot;:&quot;bargains-coupons.cf&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#12c005&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;china&quot;,&quot;title&quot;:&quot;China&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;83uhglrzrvm5dwm&quot;},&quot;dname&quot;:&quot;chinatrend.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#5b6833&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;india&quot;,&quot;title&quot;:&quot;India&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;t2rtgorgosltuvy&quot;},&quot;dname&quot;:&quot;indiafeed.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#244694&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;insurance&quot;,&quot;title&quot;:&quot;Insurance&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;t35946zbt69zish&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#2374d5&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;recipes&quot;,&quot;title&quot;:&quot;Recipes&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;9bdj044z00z60i5&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#86e33b&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;green&quot;,&quot;title&quot;:&quot;Green&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;osy80um1nlvejq7&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#f76b77&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;wedding&quot;,&quot;title&quot;:&quot;Wedding&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;fwhoffs8mw9pung&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#0ac19e&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;comedy&quot;,&quot;title&quot;:&quot;Comedy&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;bjw1qfr26lug9ol&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#b08fa6&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;dc&quot;,&quot;title&quot;:&quot;DC&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;lczrnr2m3o60cjs&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#029c3f&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;national&quot;,&quot;title&quot;:&quot;National&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;pusp5gntxa3u5ka&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#29f157&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;baby&quot;,&quot;title&quot;:&quot;Baby&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;tiz1n4ta8238a5i&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#f67b3d&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;church&quot;,&quot;title&quot;:&quot;Church&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;3amxvwqugpjtbzt&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#282f1d&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;work&quot;,&quot;title&quot;:&quot;Work&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;3teru9jnj2lkgwe&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#a2d5ea&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;malaysia&quot;,&quot;title&quot;:&quot;Malaysia&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;qemc34fqzo4nz0j&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#b486d2&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;atlanta&quot;,&quot;title&quot;:&quot;Atlanta&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;1scg46gwgm1z6wd&quot;},&quot;dname&quot;:&quot;atlantatrend.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#e2afa8&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;boston&quot;,&quot;title&quot;:&quot;Boston&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;e2y7aqidgdr9q2r&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#bec2b1&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;disney&quot;,&quot;title&quot;:&quot;disney&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;zwir0mhafq6bdv8&quot;},&quot;dname&quot;:&quot;disneynews.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#df5d56&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;ebooks&quot;,&quot;title&quot;:&quot;eBooks&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;ioin59lwpzrnxxf&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#a22aa8&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;events&quot;,&quot;title&quot;:&quot;events&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;ukzidhk8f9nomkq&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#8d35d1&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;iphone&quot;,&quot;title&quot;:&quot;iPhone&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;q6iwtsxn6nqhc25&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#bea201&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;microsoft&quot;,&quot;title&quot;:&quot;Microsoft&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;gkos81zlp0irr9i&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#fbefb1&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;nigeria&quot;,&quot;title&quot;:&quot;Nigeria&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;rq82anppk0wlk2r&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#30cfc0&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;reddit&quot;,&quot;title&quot;:&quot;Reddit&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;clq7u62e4e9d4zl&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#e0de82&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;seattle&quot;,&quot;title&quot;:&quot;Seattle&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;5srmimt41otnhu1&quot;},&quot;dname&quot;:&quot;seattletrend.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#1cf075&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;stocks&quot;,&quot;title&quot;:&quot;stock&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;h6tudwp9gb8a6qy&quot;},&quot;dname&quot;:&quot;stocksnews.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#58d3bf&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;tumblr&quot;,&quot;title&quot;:&quot;Tumblr&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;gi30t9t7oy1yppc&quot;},&quot;dname&quot;:&quot;tumblrtrend.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#4d0d1a&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;youtube&quot;,&quot;title&quot;:&quot;YouTube&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;58u813068oq0ir9&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#2307da&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;chicago&quot;,&quot;title&quot;:&quot;Chicago&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;6lb124tkyi9cd8x&quot;},&quot;dname&quot;:&quot;chicagotrend.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#ffa1e1&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:true},{&quot;key&quot;:&quot;apple&quot;,&quot;title&quot;:&quot;apple&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;aizark77gk3audi&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#fc8775&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;google&quot;,&quot;title&quot;:&quot;google&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;9ayj12hy7jgh638&quot;},&quot;dname&quot;:&quot;googletrend.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#6647a7&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;metal&quot;,&quot;title&quot;:&quot;metal&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;wkugjdlv2tf8v0v&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#5815f7&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;journals&quot;,&quot;title&quot;:&quot;journals&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;vxwazqo1sz5ajvx&quot;},&quot;dname&quot;:&quot;journalsinfo.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#866686&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;infosec&quot;,&quot;title&quot;:&quot;infosec&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;ysl9op3uv2ccvdb&quot;},&quot;dname&quot;:&quot;infosec.cf&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#17b62d&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;web&quot;,&quot;title&quot;:&quot;web&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;d510msq3iy8vmz8&quot;},&quot;dname&quot;:&quot;webstream.ga&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#f1d8a7&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:true},{&quot;key&quot;:&quot;radio&quot;,&quot;title&quot;:&quot;radio&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;3lc3b9vdufq8vhw&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#ab2886&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;data&quot;,&quot;title&quot;:&quot;data&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;hh0oztgqwaek59d&quot;},&quot;dname&quot;:&quot;datastream.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#cc097b&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;local&quot;,&quot;title&quot;:&quot;local&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;srhxmebxo0acif3&quot;},&quot;dname&quot;:&quot;localtrend.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#f0db25&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;nyc&quot;,&quot;title&quot;:&quot;nyc&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;fldf8px9gc6bwau&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#14e32b&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;opinion&quot;,&quot;title&quot;:&quot;opinion&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;re06t68gzbk3t6y&quot;},&quot;dname&quot;:&quot;opinionboard.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#eb6dca&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;conservative&quot;,&quot;title&quot;:&quot;conservative&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;lca0c6xmy73geks&quot;},&quot;dname&quot;:&quot;conservative.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#7e5bd6&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:true},{&quot;key&quot;:&quot;trading&quot;,&quot;title&quot;:&quot;trading&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;o3da8m0zmqvbmoe&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#419cd7&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;electronics&quot;,&quot;title&quot;:&quot;electronics&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;jpqfaqlu439u2wp&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#b55724&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;library&quot;,&quot;title&quot;:&quot;library&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;v2825gxktfcc73f&quot;},&quot;dname&quot;:&quot;libraryworld.ga&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#ac3998&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;manga&quot;,&quot;title&quot;:&quot;manga&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;gp1rv186pbtoexq&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#291c3a&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;english&quot;,&quot;title&quot;:&quot;english&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;tw0v23jlbakkb6i&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#9a5db4&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;philly&quot;,&quot;title&quot;:&quot;philly&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;0mjgi3ng8u64xo4&quot;},&quot;dname&quot;:&quot;philly.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#939616&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:true},{&quot;key&quot;:&quot;man&quot;,&quot;title&quot;:&quot;man&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;4j3ioqcpnog0dmc&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#d0817b&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;london&quot;,&quot;title&quot;:&quot;london&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;sbrrdybtgo37q2b&quot;},&quot;dname&quot;:&quot;londonfeed.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#89a402&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;cloud&quot;,&quot;title&quot;:&quot;cloud&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;ir6635xqsqrt0da&quot;},&quot;dname&quot;:&quot;cloudtrend.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#229136&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;markets&quot;,&quot;title&quot;:&quot;markets&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;8dfrk9pzy860ugq&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#03c546&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:true,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;faith&quot;,&quot;title&quot;:&quot;faith&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;cg4k02xym3wyhgg&quot;},&quot;dname&quot;:&quot;faithnews.ml&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#8be27a&quot;,&quot;t&quot;:&quot;black&quot;},&quot;clear&quot;:false,&quot;clear_sm&quot;:false,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:false},{&quot;key&quot;:&quot;theology&quot;,&quot;title&quot;:&quot;theology&quot;,&quot;maps&quot;:{&quot;arts&quot;:&quot;rihiudjivlvixoh&quot;},&quot;color&quot;:{&quot;b&quot;:&quot;#27309e&quot;,&quot;t&quot;:&quot;white&quot;},&quot;clear&quot;:true,&quot;clear_sm&quot;:true,&quot;clear_md&quot;:false,&quot;clear_lg&quot;:true},{&quot;key&quot;:&quot;engineering&quot;,&quot;title&quot;:&quot;engineering&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#cfb8df&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;3d&quot;,&quot;title&quot;:&quot;3D&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#ac426a&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;property-1&quot;,&quot;title&quot;:&quot;Property&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#064d31&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;retail&quot;,&quot;title&quot;:&quot;Retail&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#0a5408&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;singapore&quot;,&quot;title&quot;:&quot;Singapore&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#4e8477&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;ems&quot;,&quot;title&quot;:&quot;ems&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#a5f9e5&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;jewish&quot;,&quot;title&quot;:&quot;jewish&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#a8a14f&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;defense&quot;,&quot;title&quot;:&quot;defense&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#8704b7&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;sea&quot;,&quot;title&quot;:&quot;sea&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#7f41b1&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;racing&quot;,&quot;title&quot;:&quot;racing&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#3c1aac&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;jewisch&quot;,&quot;title&quot;:&quot;jew&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#2cf887&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;toronto&quot;,&quot;title&quot;:&quot;toronto&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#e37634&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;international&quot;,&quot;title&quot;:&quot;international&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#43a6fb&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;la&quot;,&quot;title&quot;:&quot;la&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#cff794&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;wind&quot;,&quot;title&quot;:&quot;wind&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#93852c&quot;,&quot;t&quot;:&quot;black&quot;}},{&quot;key&quot;:&quot;alternative&quot;,&quot;title&quot;:&quot;alternative&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#4809b0&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;nz&quot;,&quot;title&quot;:&quot;nz&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#5d7c00&quot;,&quot;t&quot;:&quot;white&quot;}},{&quot;key&quot;:&quot;psycho&quot;,&quot;title&quot;:&quot;psycho&quot;,&quot;color&quot;:{&quot;b&quot;:&quot;#81c09e&quot;,&quot;t&quot;:&quot;black&quot;}}]" />
+        <input type="hidden" id="pagekey" value="humor" />
+        <input type="hidden" id="pagemaps" value="{&quot;arts&quot;:&quot;ggwfw3ugnjzcpj8&quot;}" />
+        <input type="hidden" id="pagenum" value="" />
+        <input type="hidden" id="fonts_bfont" value="" />
+        <input type="hidden" id="fonts_bfont2" value="" />
+        <input type="hidden" id="fonts_hfont" value="" />
+        <input type="hidden" id="fonts_hfont2" value="" />
+        <input type="hidden" id="color_text" value="" />
+        <input type="hidden" id="color_bg" value="" />
+        <input type="hidden" id="color_sub1" value="" />
+        <input type="hidden" id="color_sub2" value="" />
+        <input type="hidden" id="isdomain" value="" />    
+      </div>
+      
+      <script id="hbs_cover_wrap" type="text/x-handlebars-template">
+      <div class="cover container-fluid" style="padding-top:50px;margin-bottom:20px;">
+        <div class="row">
+          {{> cover cover=cover.c_0 par=this isdomain=isdomain}}
+          {{> cover cover=cover.c_1 par=this isdomain=isdomain}}
+          {{> cover cover=cover.c_2 par=this isdomain=isdomain}}
+          {{> cover cover=cover.c_3 par=this isdomain=isdomain}}
+        </div>
+      </div>
+      
+      </script>
+      
+      <script id="hbs_cover" type="text/x-handlebars-template">
+      <div class="{{cover.hidden}} col-lg-3 col-sm-4 col-xs-6 xxs_t cover-entry" style="background-color:{{cover.color.b}};background-image:url({{cover.img}});">
+        <a href="{{par.test_pre}}/{{#unless isdomain}}{{cover.pre}}{{/unless}}a/{{cover._id}}/{{par.test_suf}}">
+          {{#if cover.label}}
+            {{#unless isdomain}}
+              <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:12px;color:#ddd;">{{cover.label}}</div>
+            {{/unless}}
+          {{/if}}
+          <div class="cover-title" style="font-family:{{par.fonts.hfont2}};{{#if isdomain}}height:90%;{{/if}}">{{cover.title}}</div>
+          <div class="cover-share" style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+            <cite class="pull-left"><i class="fa fa-facebook-square"></i> {{cover.count_facebook}} Share</cite>
+            <cite class="pull-right">{{cover.from}}</cite>
+            <div class="clearfix"></div>
+          </div>	    
+        </a>
+      </div>
+      
+      </script>
+      
+      <script id="hbs_lefty" type="text/x-handlebars-template">
+      <div class="list-group lefty">
+        {{#if island}}
+          <ol class="breadcrumb">
+            <li class="active">{{trans.newart}}</li>    
+            <li><a href="./news/1/">{{trans.viewmore}}</a></li>
+          </ol>
+        {{/if}}
+        {{#each tarticles}}
+          {{> artclip test_pre=../test_pre test_suf=../test_suf isdomain=../isdomain}}        
+        {{/each}}
+      </div>
+      
+      </script>
+      
+      <script id="hbs_artclip" type="text/x-handlebars-template">
+      <a href="{{test_pre}}/{{#unless isdomain}}{{pre}}{{/unless}}a/{{_id}}/{{test_suf}}" class="list-group-item {{show}}">
+      {{#if color}}
+        <div class="row">
+          <div class="col-sm-3 col-xs-2" style="padding:0 0 0 10px;">
+            <div class="img-circle" style="background-color:{{color.b}};background-image:url({{img}});width:100%;background-size:cover;background-position:center top;"><div style="padding-top:100%;"></div></div>
+          </div>
+          <div class="col-sm-9 col-xs-10">
+            {{#if label}}
+              <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">{{label}}</div>
+            {{/if}}
+            
+            <h4 class="list-group-item-heading" style="color:#337ab7;">{{title}}</h4>
+            <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+              {{#if isfc}}<cite class="text-primary pull-left"><i class="fa fa-facebook-square"></i> {{count_facebook}} Share</cite>{{/if}}
+                <cite class="pull-right">{{from}}</cite>
+                <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        {{else}}
+        <h4 class="list-group-item-heading" style="color:#337ab7;">{{title}}</h4>
+        <div style="font-size:12px;">
+          {{#if isfc}}<cite class="text-primary pull-left"><i class="fa fa-facebook-square"></i> {{count_facebook}} Share</cite>{{/if}}
+            <cite class="pull-right">{{from}}</cite>
+            <div class="clearfix"></div>
+        </div>
+          {{/if}}
+      </a>
+      
+      </script>
+      
+      <script id="hbs_artclip2" type="text/x-handlebars-template">
+      {{#with article}}
+        {{#if img}}
+          <div class="row">
+            <div class="col-xs-1">
+            </div>
+            <div class="col-xs-10">
+              <img src="{{img}}" style="width:100%;">
+            </div>
+            <div class="col-xs-1">
+            </div>
+          </div>
+        {{/if}}
+      {{/with}}
+      <div class="row">
+        <div class="col-xs-12">
+          {{#if fetching}}
+            <div style="text-align:center;font-size:50px;color:grey;margin-bottom:20px;"><i class="fa fa-spinner fa-spin"></i></div>
+            <h4 style="font-family:{{../fonts.hfont2}};" class="text-center">Fetching the Article...</h4>
+            {{else}}
+            {{#if noart}}
+              <h4 style="font-family:{{../fonts.hfont2}};color:tomato;" class="text-center">This Article doesn't Exist</h4>
+              {{else}}
+              {{#with article}}              
+                {{#if label}}
+                  <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;margin-top:15px;">{{label}}</div>
+                {{/if}}
+                <h4 style="font-family:{{../fonts.hfont2}};" class="text-center"><a href="{{url}}" target="_blank">{{title}}</a></h4>
+                <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                  {{#if isfc}}<cite class="text-primary pull-left"><i class="fa fa-facebook-square"></i> {{count_facebook}} Share</cite>{{/if}}
+                    <cite class="pull-right">{{from}}</cite>
+                    <div class="clearfix"></div>
+                </div>
+                
+                <div style="margin-top:10px;">{{desc}}</div>
+                {{#if comments}}
+                  <table class="table" style="margin-top:20px;">
+                    {{#each comments}}
+                      <tr style="vertical-align:top;"><td><a href="https://twitter.com/{{name}}" target="_blank"><img src="{{img}}" style="width:50px;" /></a></td><td><div><a href="https://twitter.com/{{name}}" target="_blank">{{title}}</a> <span class="text-danger" style="margin-left:10px;">{{rt}} RT</span></div><div>{{txt}}</div></td></tr>
+                    {{/each}}
+                  </table>
+                {{/if}}
+              {{/with}}
+              
+                  {{/if}}
+                  {{/if}}
+        </div>
+      </div>
+      
+      </script>
+      
+      <script id="hbs_righty" type="text/x-handlebars-template">
+      <div class="righty">
+        <div class="list-group">
+          <div class="visible-sm-block visible-xs-block">      
+            {{#if island}}
+              <ol class="breadcrumb">
+                <li class="active">{{trans.newart}}</li>    
+                <li><a href="./news/1/">{{trans.viewmore}}</a></li>
+              </ol>
+            {{/if}}
+      
+            {{#each tarticles}}
+              {{> artclip test_pre=../test_pre test_suf=../test_suf}}                        
+            {{/each}}
+          </div>
+        </div>
+        {{#if island}}
+          <div class="visible-xs-block" style="margin-top:20px;"></div>
+          <ol class="breadcrumb">
+            <li class="active">{{trans.alltop}}</li>    
+            <li><a href="./top/1/">{{trans.viewmore}}</a></li>
+          </ol>
+        {{/if}}
+        
+        <div class="list-group">
+          {{#each rarticles}}
+            {{> artclip test_pre=../test_pre test_suf=../test_suf isdomain=../isdomain}}                        
+          {{/each}}
+        </div>
+      </div>
+      </script>
+      
+      <script id="hbs_centy" type="text/x-handlebars-template">
+      <div class="row centy">
+        {{#if island}}
+          <ol class="breadcrumb">
+            <li class="active">{{trans.weektop}}</li>    
+            <li><a href="./week/1/">{{trans.viewmore}}</a></li>
+          </ol>
+        {{/if}}
+        {{#each carticles}}
+          <div class="col-xs-1 visible-xxs-block">
+          </div>
+          <div class="{{show}} col-xs-{{../icol}} xxs_center col-sm-{{../icol_sm}} col-md-{{../icol_md}} col-lg-{{../icol_lg}}">
+          <div class="thumbnail" style="padding:0;">
+            {{#if color}}
+              <a href="{{../test_pre}}/{{#unless ../isdomain}}{{pre}}{{/unless}}a/{{_id}}/{{../test_suf}}">
+              {{#if img}}
+                <div style="background-color:{{color.b}};background-image:url({{img}});width:100%;background-size:cover;background-position:center top;"><div style="padding-top:60%;"></div></div>
+                {{else}}
+                <div style="background-color:{{color.b}};background-image:url({{img}});width:100%;background-size:cover;background-position:center top;"><div style="padding-top:60%;"></div></div>            
+              {{/if}}
+              </a>
+              {{/if}}
+              <div class="caption text-center">
+                {{#if label}}
+                  <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">{{label}}</div>
+                {{/if}}
+                
+                <h4><a href="{{../test_pre}}/{{#unless ../isdomain}}{{pre}}{{/unless}}a/{{_id}}/{{../test_suf}}">{{title}}</a></h4>
+                <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                  {{#if isfc}}<cite class="text-primary pull-left"><i class="fa fa-facebook-square"></i> {{count_facebook}}</cite>{{/if}}
+                    <cite class="pull-right">{{from}}</cite>
+                    <div class="clearfix"></div>
+                </div>
+              </div>
+          </div>
+          </div>
+          <div class="col-xs-1 visible-xxs-block">
+          </div>
+          <div class="clearfix xxs_clear"></div>
+          {{#if clear}}
+            <div class="clearfix visible-xs-block"></div>
+          {{/if}}
+          {{#if clear_sm}}
+            <div class="clearfix visible-sm-block"></div>
+          {{/if}}
+          {{#if clear_md}}
+            <div class="clearfix visible-md-block"></div>
+          {{/if}}
+          {{#if clear_lg}}
+            <div class="clearfix visible-lg-block"></div>
+          {{/if}}
+          
+        {{/each}}
+      </div>
+      
+      </script>
+      
+      <script id="hbs_page" type="text/x-handlebars-template">
+      <nav class="text-center pagenav">
+        <ul class="pagination" style="margin-top:0;">
+          {{#each pages}}
+            <li class="{{active}}"><a href="{{../test_pre}}/{{../pdir}}/{{p}}/{{../test_suf}}">{{txt}}</a></li>
+          {{/each}}
+        </ul>
+      </nav>
+      
+      </script>
+      
+      <script id="hbs_rank" type="text/x-handlebars-template">
+      <div class="row ranker">
+        {{#each articles}}
+          <div class="col-xs-{{../tcol}} col-sm-{{../tcol_sm}} col-md-{{../tcol_md}} xxs_t">
+          <div class="thumbnail" style="padding:0;">
+            {{#if color}}
+              <a href="{{../test_pre}}/{{#unless ../isdomain}}{{pre}}{{/unless}}a/{{_id}}/{{../test_suf}}">
+              {{#if img}}
+                <div style="background-color:{{color.b}};background-image:url({{img}});width:100%;background-size:cover;background-position:center top;"><div style="padding-top:60%;"></div></div>                  
+                {{else}}
+                <div style="background-color:{{color.b}};background-image:url({{img}});width:100%;background-size:cover;background-position:center top;"><div style="padding-top:60%;"></div></div>
+              {{/if}}
+              </a>
+              {{/if}}
+              <div class="caption text-center">
+                {{#if label}}
+                  {{#unless ../isdomain}}
+                  <div style="font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:left;color:grey;font-size:12px;">{{label}}</div>
+                  {{/unless}}
+                {{/if}}
+                
+                <h4><a href="{{../test_pre}}/{{#unless ../isdomain}}{{pre}}{{/unless}}a/{{_id}}/{{../test_suf}}">{{title}}</a></h4>
+                <div style="font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;">
+                  {{#if isfc}}<cite class="text-primary pull-left"><i class="fa fa-facebook-square"></i> {{count_facebook}} Share</cite>{{/if}}
+                    <cite class="pull-right">{{from}}</cite>
+                    <div class="clearfix"></div>
+                </div>
+                
+              </div>
+          </div>
+          </div>
+          {{#if clear}}
+            <div class="clearfix visible-xs-block"></div>
+          {{/if}}
+          {{#if clear_sm}}
+            <div class="clearfix visible-sm-block"></div>
+          {{/if}}
+          {{#if clear_md}}
+            <div class="clearfix visible-md-block"></div>
+            <div class="clearfix visible-lg-block"></div>
+          {{/if}}
+      
+        {{/each}}
+      </div>
+      
+      </script>
+      
+      <script id="hbs_fbl" type="text/x-handlebars-template">
+      <table class="table table-condensed table-bordered" style="font-size:12px;">
+        <tbody>
+          <tr style="color:white;background-color:#222;text-align:center;"><th></th><th></th><th>name</th><th>max</th><th>lang</th><th>followers</th><th>following</th><th>ffc_r</th><th>ffc</th><th>ffrate</th><th>ffrate_r</th><th>statuses</th><th>perday</th><th>follow</th><th>followed</th><th>unfollow</th><th>unfollowed</th><th>tag</th><th>check</th><th></th></tr>
+      {{#each tweeple}}
+        <tr class="{{flclass}} {{good}}" style="background-color:white;"><td>{{index}}</td><td style="padding:0;"><img src="{{profile_image_url}}" class="twimg" /></td><td><a style="color:{{maxcolor}};"href="http://twitter.com/{{screen_name}}" target="_blank">{{#if verified}}<i class="glyphicon glyphicon-check"></i> {{/if}}{{name}}</a></td><td>{{#if max}}<i class="text-danger glyphicon glyphicon-remove"></i>{{/if}}</td><td>{{lang}}</td><td>{{followers_count}}</td><td>{{friends_count}}</td><td style="color:tomato;">{{ffc_r}}</td><td>{{ffc}}</td><td>{{ffrate}}</td><td>{{ffrate_r}}</td><td>{{statuses_count}}</td><td>{{freq}}</td><td>{{fdate}}</td><td>{{fddate}}</td><td style="color:tomato;">{{ufdate}}</td><td style="color:tomato;">{{ufddate}}</td><td>{{#if istag}}<i class="text-danger glyphicon glyphicon-bookmark"></i>{{/if}}</td><td>{{checkdate}}</td><td>{{description}}</td></tr>
+      {{/each}}
+        </tbody>
+      </table>
+      </script>
+      
+      <script id="hbs_fbl_cover" type="text/x-handlebars-template">
+      <div class="row">
+        <div class="col-sm-6">
+          <ol class="breadcrumb" style="margin-top:15px;margin-bottom:10px;">      
+            <li><a href="/fbl/hub/">Hub Category</a></li>
+            <li>11 Divisions</li>
+            <li><span style="color:tomato;">{{hublen}}</span> Hub Accounts</li>                
+          </ol>
+          <table class="table table-condensed table-bordered" style="font-size:12px;">
+            <tbody>
+              <tr style="color:white;background-color:#222;text-align:center;"><th></th><th></th><th></th><th></th><th>followers</th></tr>
+              {{#each hub}}
+                {{> fbl_tweeple}}
+              {{/each}}
+            </tbody>
+          </table>
+        </div>
+        <div class="col-sm-6">
+          <ol class="breadcrumb" style="margin-top:15px;margin-bottom:10px;">
+            <li><a href="/fbl/solo/">Solo Category</a></li>
+            <li>11 Divisions</li>
+            <li><span style="color:tomato;">{{sololen}}</span> Solo Accounts</li>        
+          </ol>
+          <table class="table table-condensed table-bordered" style="font-size:12px;">
+            <tbody>
+              <tr style="color:white;background-color:#222;text-align:center;"><th></th><th></th><th></th><th>FFCR</th><th>followers</th></tr>
+              {{#each solo}}
+                {{> fbl_tweeple}}
+              {{/each}}
+            </tbody>
+          </table>
+        </div>
+        
+      </div>
+      </script>
+      
+      <script id="hbs_fbl_tweeple" type="text/x-handlebars-template">
+      <tr class="{{flclass}}" style="background-color:white;"><td>{{index}}</td><td style="padding:0;"><img src="{{profile_image_url}}" class="twimg" /></td><td><a href="http://twitter.com/{{screen_name}}" target="_blank">{{#if verified}}<i class="glyphicon glyphicon-check"></i> {{/if}}{{name}}</a></td><td><span style="color:tomato;">{{ffc_r}}</span></td><td>{{followers_count}}</td></tr>  
+      </script>
+      
+      <script id="hbs_fbl_cover_div" type="text/x-handlebars-template">
+      <div class="row">
+        {{#each tweeple}}
+          <div class="col-sm-4">
+            <ol class="breadcrumb" style="margin-top:15px;margin-bottom:10px;">
+              <li><a href="/fbl/{{../cat}}/{{div}}/1/">{{divname}} Division</a></li>
+              <li>{{range}}</li>                        
+              <li><span style="color:tomato;">{{len}}</span> Accounts</li>                
+            </ol>
+            <table class="table table-condensed table-bordered" style="font-size:12px;">
+              <tbody>
+                <tr style="color:white;background-color:#222;text-align:center;"><th></th><th></th><th></th><th>FFCR</th><th>followers</th></tr>
+                {{#each tweeple}}
+                  {{> fbl_tweeple}}
+                {{/each}}
+              </tbody>
+            </table>
+          </div>
+                {{/each}}
+      </div>
+      </script>
+      <footer style="padding:15px;">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-6" style="text-align:left;margin-bottom:15px;">
+                  <div class="keytop_title">Trending Topics <a style="font-size:11px;font-weight:normal;margin-left:10px;" href="/topics/1/">view more</a></div>
+                    <a href="/music/" class="keylabel">Music</a>
+                    <a href="/politics/" class="keylabel">Politics</a>
+                    <a href="/science/" class="keylabel">Science</a>
+                    <a href="/news/" class="keylabel">News</a>
+                    <a href="/videos/" class="keylabel">Videos</a>
+                    <a href="/world/" class="keylabel">World</a>
+                    <a href="/environment/" class="keylabel">Environment</a>
+                    <a href="/journalism/" class="keylabel">Journalism</a>
+                    <a href="/movies/" class="keylabel">Movies</a>
+                    <a href="/animal/" class="keylabel">Animals</a>
+                    <a href="/writing/" class="keylabel">Writing</a>
+                    <a href="/hackernews/" class="keylabel">Hacker News</a>
+                    <a href="/law/" class="keylabel">Law</a>
+                    <a href="/entertainment/" class="keylabel">Entertainment</a>
+                    <a href="/magazines/" class="keylabel">Magazines</a>
+                    <a href="/energy/" class="keylabel">Energy</a>
+                    <a href="/tv/" class="keylabel">TV</a>
+                    <a href="/social/" class="keylabel">Social</a>
+                    <a href="/education/" class="keylabel">Education</a>
+                    <a href="/sports/" class="keylabel">Sports</a>
+                    <a href="/soccer/" class="keylabel">Soccer</a>
+                    <a href="/american-football/" class="keylabel">Football</a>
+                    <a href="/dev/" class="keylabel">Development</a>
+                    <a href="/culture/" class="keylabel">Culture</a>
+                    <a href="/psychology/" class="keylabel">Psychology</a>
+                    <a href="/lifestyle/" class="keylabel">Life</a>
+                    <a href="/games/" class="keylabel">Games</a>
+                    <a href="/hockey/" class="keylabel">Hockey</a>
+                    <a href="/fitness/" class="keylabel">Fitness</a>
+                    <a href="/books/" class="keylabel">Books</a>
+                    <a href="/europe/" class="keylabel">Europe</a>
+                    <a href="/nature/" class="keylabel">Nature</a>
+                    <a href="/conspiracy/" class="keylabel">Conspiracy</a>
+                    <a href="/military/" class="keylabel">Military</a>
+                    <a href="/space/" class="keylabel">Space</a>
+                    <a href="/religion/" class="keylabel">Religion</a>
+                    <a href="/weather/" class="keylabel">Weather</a>
+                    <a href="/musical/" class="keylabel">Theatre</a>
+                    <a href="/asia/" class="keylabel">Asia</a>
+                    <a href="/funny/" class="keylabel">Funny</a>
+                <div class="clearfix"></div>        
+              </div>      
+              <div class="col-md-6" style="margin-bottom:15px;">
+                <div class="keytop_title">About</div>
+                <div>Qracion is a content curation service for <span class="point">niche topics</span>. There exist tons of content curation blogs, social bookmarking services and feed reader apps out there today. But one problem with most of the tools available is that the topics those tools are focusing on are too broad or variety to stay relevant to one's interest. On the other hand, taxonomy seen in social efforts often ends up being too sparse and provides not enough coverage for topics defined as tags. Qracion aims to close in on each narrow targeted subject while covering as much depth as possible with machine learning technology.</div>
+                <div style="margin-top:20px;">
+                  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- atm8y-left -->
+                    <ins class="adsbygoogle"
+                       style="display:block"
+                       data-ad-client="ca-pub-4522246955850508"
+                       data-ad-slot="2478114224"
+                       data-ad-format="auto"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>          </div>
+                <div class="clearfix"></div>
+                <div class="social">
+                    <a href="https://twitter.com/qracion" target="_blank"><i class="fa fa-twitter-square"></i></a>
+                    <a href="https://www.facebook.com/qracion/" target="_blank"><i class="fa fa-facebook-square"></i></a>
+                    <a href="http://qracion.tumblr.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+                    <a href="https://www.pinterest.com/qracion/" target="_blank"><i class="fa fa-pinterest-square"></i></a>
+                    <a href="https://www.youtube.com/channel/UC-KhEaCBxUKyKyPKbDfCOsg" target="_blank"><i class="fa fa-youtube-square"></i></a>
+                  
+                </div>
+                <div class="clearfix"></div>
+              </div>
+            </div>
+        <div class="row text-center" style="margin-top:10px;">
+          <div><a class="copy" href="/">&copy; <span class="super-brand">Qrashion</span></a></div>
+        </div>
+      </footer>
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      
+        ga('create', 'UA-74515037-1', 'auto');
+        ga('send', 'pageview');
+      
+      </script>
+  </body></html>

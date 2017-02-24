@@ -1,0 +1,1391 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<head>
+	
+	<meta charset="UTF-8" />
+	<title>Patriots Coach Bill Belichick Could Be Called As Witness In Aaron Hernandez Murder Trial &laquo; CBS Boston</title>
+	<meta name="description" content="New evidence in the upcoming Aaron Hernandez double murder trial has been released, including transcripts from jailhouse cellphone conversations and a lengthy potential defense witness list that includes Patriots coach Bill Belichick." />
+	<link rel="pingback" href="http://boston.cbslocal.com/xmlrpc.php" />
+	<meta name="keywords" content="vibNews" />
+								<meta name="news_keywords" content="aaron hernandez, beth germano, bill belichick, new england patriots" />
+			
+<!-- WP Header - Start -->
+	<meta name="news_keywords" content="bill belichick aaron hernandez, belichick witness hernandez trial, beth germano" />
+<meta name="keywords" content="bill belichick aaron hernandez, belichick witness hernandez trial, beth germano" /><meta property="fb:pages" content="7446277009" />
+
+<meta name="google-site-verification" content="44caXBf4kjHeKKAT7ZZ89NaCX25utL_yRSa-qGpwIhY" />
+<meta name="msvalidate.01" content="FDD12CE797EAB78953FDE9ACF7F312A5" />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=boston.cbslocal.com&amp;id=3859903&amp;t=1487835645&amp;back=http%3A%2F%2Fboston.cbslocal.com%2F2017%2F02%2F22%2Fpatriots-bill-belichick-aaron-hernandez-witness-murder-trial%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//assets.adobedtm.com' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.evcdn.com' />
+<link rel='dns-prefetch' href='//apis.google.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//cbsboston.wordpress.com' />
+<link rel='dns-prefetch' href='//services.babator.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//wayne.cbslocal.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="CBS Boston &raquo; Feed" href="http://boston.cbslocal.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CBS Boston &raquo; Comments Feed" href="http://boston.cbslocal.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CBS Boston &raquo; Patriots Coach Bill Belichick Could Be Called As Witness In Aaron Hernandez Murder&nbsp;Trial Comments Feed" href="http://boston.cbslocal.com/2017/02/22/patriots-bill-belichick-aaron-hernandez-witness-murder-trial/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1473172720h&ver=4.6.1-RC1-38499"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJy1ktFOwzAMRX8INypMlBfEt7ip6dImcYjdlf49admEBkIrDzwexz65imPmBJajUlSjRwok5uSSsa2AZ4veJD/1LooJ3E2+nApbhx4CdQ6NFTGz63pSONdT5sDqOFbl7M7csg9ihreJ8mJeCUtH9q4/6hVUwe2UfY+6NUHAiD3lLetVBTqSUTn9j5x8oajywx4muLi8G4tpIE1oR9hoX5j1uoRZI2UxmRUVW0/wuYr9ijLVUgdZ5E+jX0vj2YPFzJOQX6G6wD6R6OJpf9xfn/TW18Jol5bfz1xdGOrqobpfbS/huT48NXXTHOrH4QMkSCdR' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Questrial%7CArvo%3A400%2C700%7CMerriweather%3A400%2C900%7COswald%3A300%2C400%2C700%7CChanga+One%7CRighteous&#038;ver=1.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-2-css'  href='https://fonts.googleapis.com/css?family=Black+Ops+One%7CVollkorn%7COpen+Sans%3A300%2C400%2C700%2C800%7CMontserrat%3A300%2C400%2C700%7CLato%3A400%2C700%7CPT+Sans%3A400%2C700&#038;ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-squada-one-css'  href='https://fonts.googleapis.com/css?family=Squada+One%3A300%2C400%2C700&#038;ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='local-css'  href='https://s0.wp.com/wp-content/themes/vip/cbs-local/plugins/modules/theme-manager/css/markets/local.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cbs-custom-css-css'  href='http://wayne.cbslocal.com/cbs-local-custom-css/global/cbslocal_custom_global.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-10-1' href='https://s0.wp.com/_static/??-eJyVj9EKwjAMRX/IGAXZ9iJ+S9eFrdq0pWnd75tNBspA8CWU23MPCc4JbAyFQsEyEZPg0yW0vYCP1nhMvo4uCHIcqtdfYZMLzG4YqaCV7+CowQH/Va4QsAlmpLw61eisp52OK2xlGzNpzsmUhWAanCGvorDf4qPGqdlay3My9iG/+DkpDX2fMomATnaV4X3W0rvx9Xxpz113apvu/gK2ynyE' type='text/css' media='all' />
+<link rel='stylesheet' id='cbs-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-12-1' href='https://s1.wp.com/_static/??-eJytj9EOgjAMRX/I2WiQ8GL8ljnqrG4r2Qr8vmNE1JAYH3y7TW/P7YWxU4aDYBCQK3pMMFAH5pyUY6MddK63FBJ4bnuXtyO1FiWBSYveZr0BgsBCmZUWMS/eEnyvnjyLXBKEOHwM6uI0xW+nEc+ObZa2fPEaV0c/NSom5XXQFmMheh3vU8fZb9hxXHf5C5sHjGMkwQl/8sdd1VR1s6+rw+0B9BaaIQ==' type='text/css' media='all' />
+<link rel='stylesheet' id='cbs-external-css-css'  href='http://wayne.cbslocal.com/cbs-local-custom-css/global/cbslocal_custom_global.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-14-1' href='https://s1.wp.com/wp-content/themes/h4/global.css?m=1420737423h' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJydUO0OwiAMfCEBPxf9YXyWjuHGhIKj+PH21sXF7I/ZTEiaK9e79tQ9Cova5cok1fK7ZtM9P0W2aaF+EYS3dQdkpLc4kHVAMkiKGuN55Gaj0mUSLmhwKrpcW0zKhyo7/oWqF+UyafzrfzbAjM7ZuqER+HuVniQ8INSmezuNGoLPv1CIc9cE1M8yPIZAByxWciPXMoK+TFKElGwiQOrjOmfUZANOC23mocYxYiPWPvnjarsvdsVhu1u2L+VMzwY='></script>
+<script type='text/javascript' src='//assets.adobedtm.com/21d6c746401821d9ceb8fd43cc9c7649a92762c2/satelliteLib-62c5c4d67cd6b55dd225771b27563dbd602fde8f.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyNkNEOgjAMRX/IMTEYeTF+yxgVO8eK6wbRr3cmw2BixKem7bm9beU0CE0ugAvSsOypQQsiMnjVpZpAd6bC8EZ+cgNx6IE5QV+65hbB33Mo0I0I0ypmIAxKX4UHxsd7KjptYwu84CNKTR6KHt1vasK2g7DOBdXwkppXDBdIN8oRB6kbFpa0si9l4htohWcW2eJPYbakyQqtPKUv21dSzEle4tQfy6o+7OpyX23NE4pKmwA='></script>
+<script type='text/javascript' src='http://s1.evcdn.com/store/js/switchboard.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFjEsKwzAQQy+UdAgYk03IWVx72tiMP6Cxe/26qy6zEAj0nujTVl+LclHSizODRmzkn1ileifUpL9jAeUausyVx0RfXSj9+yNhobsjB0SoK4qf6sLFiIOneuZjM7uZscamL7ESNVk='></script>
+<script type='text/javascript' src='http://apis.google.com/js/plusone.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://ajax.cbslocal.com/jquery/modernizr/2.0.6/modernizr.min.js?ver=2.0.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SafeCommentsAjax = {"ajaxurl":"http:\/\/boston.cbslocal.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJydzN0KwjAMBeAXsqsFZbsRnyXrstqS/ti0ur29HSh4JSq5CCHnfPKehI6hYCiyXNAjy5tNUo8sKGog6Vi6a8W8PlenI1Uf7LwK1e3beBs6xzv5MzSCSJFLSzIY/N+ZCRcmO2H+tm8ojkBfpRNVYwNLH6dK7VsZs8hoLJcMxcawee/3B/VlMczYjBRzaTHvW4w3BhwsrX72J3UYetWrQR3dAzsJmzI='></script>
+<script type='text/javascript' src='https://services.babator.com/tags?apiKey=30911450-5367-11e6-b9b6-b5368b08d969&#038;ver=1.0.0'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cbsboston.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://cbsloc.al/2m8J5is' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fboston.cbslocal.com%2F2017%2F02%2F22%2Fpatriots-bill-belichick-aaron-hernandez-witness-murder-trial%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fboston.cbslocal.com%2F2017%2F02%2F22%2Fpatriots-bill-belichick-aaron-hernandez-witness-murder-trial%2F&amp;for=wpcom-auto-discovery" /><link rel="shortcut icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/72ff1baf55fe94c284ce5747d8d4a96e?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://1.gravatar.com/blavatar/72ff1baf55fe94c284ce5747d8d4a96e?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://1.gravatar.com/blavatar/72ff1baf55fe94c284ce5747d8d4a96e?s=114" />
+<link rel='openid.server' href='http://cbsboston.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://cbsboston.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://boston.cbslocal.com/osd.xml" title="CBS Boston" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style type="text/css">
+			#wwWrapper { overflow: hidden; }
+			#wwWidget { background: none; font-family: Arial, Helvetica, sans-serif; margin-bottom: 5px; overflow: hidden; padding: 5px; width: 170px; }
+			#wwWidget a { text-decoration: none; }
+			#wwWidget img { border: 0; float: left; margin: 3px 0 0 0; padding: 0; width: 28px; }
+			#wwWidget span#wwTemp { color: #a6d4f7; font: normal 31px Helvetica, Arial, sans-serif; letter-spacing: 0; }
+		</style>
+			<link rel="canonical" href="http://boston.cbslocal.com/2017/02/22/patriots-bill-belichick-aaron-hernandez-witness-murder-trial/" />
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<style type="text/css">
+.widget_twitter li {
+	word-wrap: break-word;
+}
+</style>
+<meta name="application-name" content="CBS Boston" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Boston News, Sports, Weather, Traffic and Boston&#039;s Best" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://boston.cbslocal.com/feed/;icon-uri=http://1.gravatar.com/blavatar/72ff1baf55fe94c284ce5747d8d4a96e?s=16" />
+					<meta name="twitter:card" content="summary_large_image" />
+			<meta name="twitter:image" content="https://cbsboston.files.wordpress.com/2017/02/belichick-hernandez.jpg?w=628">
+		
+					<meta name="twitter:title" content="Patriots Coach Bill Belichick Could Be Called As Witness In Aaron Hernandez Murder Trial" />
+					<meta name="twitter:description" content="New evidence in the upcoming Aaron Hernandez double murder trial has been released, including transcripts from jailhouse cellphone conversations and a lengthy potential defense witness list that includes Patriots coach Bill Belichick." />
+					<meta name="twitter:site" content="CBSboston" />
+		
+		
+					<meta property="og:title" content="Patriots Coach Bill Belichick Could Be Called As Witness In Aaron Hernandez Murder Trial" />
+					<meta property="og:image" content="https://cbsboston.files.wordpress.com/2017/02/belichick-hernandez.jpg?w=628" />
+					<meta property="og:image:secure_url" content="https://cbsboston.files.wordpress.com/2017/02/belichick-hernandez.jpg?w=628" />
+					<meta property="og:description" content="New evidence in the upcoming Aaron Hernandez double murder trial has been released, including transcripts from jailhouse cellphone conversations and a lengthy potential defense witness list that includes Patriots coach Bill Belichick." />
+					<meta property="og:type" content="article" />
+					<meta property="og:url" content="http://boston.cbslocal.com/2017/02/22/patriots-bill-belichick-aaron-hernandez-witness-murder-trial/" />
+					<meta property="og:image:height" content="353" />
+					<meta property="og:image:width" content="628" />
+					<meta property="article:publisher" content="http://www.facebook.com/CBSBoston" />
+					<meta property="article:author" content="http://www.facebook.com/CBSBoston" />
+		
+		<link rel="amphtml" href="http://boston.cbslocal.com/2017/02/22/patriots-bill-belichick-aaron-hernandez-witness-murder-trial/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+
+							<script type="text/javascript" src="https://mtrx.go.sonobi.com/morpheus.cbslocal.3566.js"></script>
+		
+							<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+			<script type="text/javascript" >
+				try {
+					amznads.getAds('3063');
+				} catch(e) {}
+			</script>
+		
+		
+				<script type="text/javascript">
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+				var gads = document.createElement("script");
+				gads.async = true;
+				gads.type = "text/javascript";
+				var useSSL = "https:" == document.location.protocol;
+				gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+				var node =document.getElementsByTagName("script")[0];
+				node.parentNode.insertBefore(gads, node);
+			})();
+		</script>
+
+		
+	<script type="text/javascript">
+		var ybotq = ybotq || [];
+		(function() {
+			var js = document.createElement('script');
+			js.src = '//cdn.yldbt.com/js/yieldbot.intent.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(js, node);
+		})();
+	</script>
+
+	
+					<script type="text/javascript">
+				try {
+					amznads.setTargetingForGPTAsync('amznslots');
+				} catch(e) {}
+			</script>
+		
+		
+					<script type="text/javascript" src="//native.sharethrough.com/assets/tag.js" async></script>
+		
+				<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s0.wp.com/?custom-css=1&#038;csblog=gc8v&#038;cscache=6&#038;csrev=640" />
+		<!-- WP Header - End -->
+
+	<script type="text/javascript">
+		//<![CDATA[
+			
+			
+			!function(o){function n(e){if(t[e])return t[e].exports;var i=t[e]={exports:{},id:e,loaded:!1};return o[e].call(i.exports,i,i.exports,n),i.loaded=!0,i.exports}var t={};return n.m=o,n.c=t,n.p="",n(0)}({0:function(o,n,t){"use strict";function e(o){return o&&o.__esModule?o:{"default":o}}function i(){if(!j){j=!0,window._sp_=window._sp_||{},H=window._sp_.config=window._sp_.config||{},K=H.content_control_callback||window._sp_lock,N=H.account_id||H.client_id||window.sp_cid;for(var o in H)T[o]=H[o]}}function r(o,n){var t=arguments.length>2&&void 0!==arguments[2]?arguments[2]:"",e=new Image;e.src="//"+E+"/cct?v="+encodeURIComponent(x)+"&ct=1&cid="+encodeURIComponent(N)+"&l="+encodeURIComponent(o.toString())+"&rc="+encodeURIComponent(n)+"&d0="+encodeURIComponent(t)}function c(o,n,t,e){var i=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},r=arguments.length>5&&void 0!==arguments[5]&&arguments[5],d=function(){return c(o,n,t,e,i,!0)},a=r?t:d;o(n,a,e,i)}function d(o,n,t,e){var i=document.createElement("script");i.src=o,i.onload=function(){try{if(window._sp_&&window._sp_.bootstrap===p&&window.spBootstrap===u&&window._sp_.config===H){for(var o in T)if(T[o]!==H[o]){h&&h();break}}else h&&h()}catch(n){h&&h()}e.onLoad&&e.onLoad()},i.onerror=function(){function i(o,n){t(o,n),e.onError&&e.onError(n)}function r(o){return c.indexOf(o)>-1}var c=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();r("mobi")||r("ipad")||r("android")||r("iphone")?i(S):r("exabot")?i(k):r("bingbot")||r("bingpreview")?i(D):r("googlebot")||r("adsbot-google")||r("mediapartners-google")?i(R):r("googleweblight")?i(I):window.location.host===g?i(L):window.location.host.indexOf(m)>-1?i(M):r("msie 10")||r("msie 9")||r("msie 8")?i(U):a(o,n,i)},document.head.appendChild(i),document.querySelector('script[src="'+o+'"]')||window.location.host.indexOf(m)!==-1||n(O,o)}function a(o,n,t){(0,v["default"])(o,function(e,i,r,c){var d=e||i?n:t;d(c,o+"::"+r)})}function s(o,n){return A?void w(B+"::"+o,n):(r(y,o,n),void(K&&setTimeout(function(){K()},250)))}function w(o,n){r(C,o,n)}function u(o,n){i(),n&&(K=window._sp_lock=n),c(d,o,s,w)}function p(o,n){i(),c(d,o,s,w,n)}var f=t(384),l=e(f),_=t(99),v=e(_),g=["w","e","b","c","a","c","h","e",".","g","o","o","g","l","e","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m"].join(""),m=["o","p","t","i","m","i","z","e","l","y","p","r","e","v","i","e","w",".","c","o","m"].join(""),h=void 0;try{h=window._sp_&&window._sp_.config&&window._sp_.config.spid_control_callback}catch(b){}var E=l["default"].be.join(""),x=l["default"].bv,C=0,y=1,O="s",S="m",R="g",L="gw",I="gl",U="i",D="b",k="e",B="n",M="o",T={},j=!1,A=!1,H=void 0,K=void 0,N=void 0;window.addEventListener("beforeunload",function(){A=!0});try{window._sp_=window._sp_||{},window._sp_.bootstrap=p,window.spBootstrap=u,window._sp_.bootstrap===p&&window.spBootstrap===u||h&&h()}catch(b){h&&h()}},99:function(o,n){"use strict";function t(o,n){function t(o){try{return o&&o.timeStamp?o.timeStamp:window.performance.now()}catch(o){return Date.now()}}var a=document.createElement("a");if(a.href=o,"https:"===window.location.protocol&&a.protocol!==window.location.protocol)return void n(!1,!1,a.protocol,d);var s=new XMLHttpRequest;try{s.open("GET",o)}catch(w){return void n(!0,!1,w.toString(),r,s)}var u=void 0,p=void 0;s.onloadstart=function(o){u=t(o)},s.onreadystatechange=function(o){if(4===this.readyState){p=t(o)-u;var r=0===this.status,c="2"===this.status.toString()[0],d=c?i:e;return void n(r,c,this.status+"::"+p,d,s)}};try{s.send()}catch(w){return void n(!0,!1,w.toString(),c,s)}}Object.defineProperty(n,"__esModule",{value:!0}),n["default"]=t;var e=n.NETWORK_FAILURE="n",i=n.XHR_SUCCEEDED="nx",r=n.OPEN_BLOCKED="xo",c=n.SEND_BLOCKED="xs",d=n.PROTOCOL_MISMATCH="p"},384:function(o,n){"use strict";o.exports={be:["w","w","w",".","b","e","e","f","t","r","a","n","s","m","i","s","s","i","o","n",".","c","o","m"],bv:"1.7.598"}}});
+
+(function() {window._sp_ = window._sp_ || {};window._sp_.config = window._sp_.config || {};window._sp_.config.account_id = 323;window._sp_.config.content_control_callback = function() {cbs_lib.log("CONTENT LOCK");};window._sp_.config.mms_domain = "mms.cbslocal.com";window._sp_.mms = window._sp_.mms || {};window._sp_.mms.cmd = window._sp_.mms.cmd || [];window._sp_.config.mms_client_data_callback = function(o) {cbs_lib.log("[SP]: client data callback / abp " + o.d.abp + " / abt " + o.d.abt);};window._sp_.mms.cmd.push(function() {cbs_lib.log("[SP]: set targetting");window._sp_.mms.setTargeting("x", "y");});window._sp_.mms.cmd.push(function() {cbs_lib.log("[SP]: start MSG");window._sp_.mms.startMsg();});})();window._sp_.bootstrap("https://s0.wp.com/wp-content/themes/vip/cbs-local/js-modules/sourcepoint/msg.js");window._sp_.bootstrap("https://s0.wp.com/wp-content/themes/vip/cbs-local/js-modules/sourcepoint/mms_client.js");		//]]>
+	</script>
+
+</head>
+
+<body class="single single-post postid-805342 single-format-standard desktop-display-type  mp6 customizer-styles-applied market-template-local highlander-enabled highlander-light tag-aaron-hernandez tag-beth-germano tag-bill-belichick tag-new-england-patriots" style="background: #eaeaea url(http://cbsboston.files.wordpress.com/2011/06/boston-bg.jpg) no-repeat center top;">
+
+			<!--[if lt IE 9]>
+			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<!--[if lte IE 8]>
+			<div id="global-browser-not-supported">
+				<p>Sorry, your browser is out-of-date and cannot support this site. Please upgrade to the latest version, or try another browser.</p>
+				<p><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank">Download Internet Explorer</a> | <a href="http://www.mozilla.com/firefox/" target="_blank">Download Firefox</a> | <a href="http://www.google.com/chrome" target="_blank">Download Chrome</a></p>
+			</div>
+		<![endif]-->
+	
+	<div id="wrapper" class="body-wrapper">
+
+
+
+
+<header id="page-header" class="page-header-type-modular modular-header-market" style="background-image:url(https://s0.wp.com/wp-content/themes/vip/cbs-local/plugins/modules/theme-manager/images/header-backgrounds/market-blue-outer.png);">
+	<div class="wrapper">
+	<div id="page-header-inner" style="">
+
+					
+
+		<div id="header-rows" class="header-row">
+							<div class="header-row-top header-row">
+																		<div id="page-header-top-left" class="header-cell">
+								<div id="component-links" class="header-component"><ul id="menu-header-dropdown-menu" class="menu"><li id="menu-item-573889" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-573889"><a href="http://boston.cbslocal.com">Boston</a>
+<ul class="sub-menu">
+	<li id="menu-item-574448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-574448"><a href="http://radio.com">Radio.com</a></li>
+	<li id="menu-item-573891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573891"><a href="http://sports.cbslocal.com">CBS Local Sports</a></li>
+	<li id="menu-item-573892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573892"><a href="http://radio.cbssports.com">CBS Sports Radio</a></li>
+	<li id="menu-item-573893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573893"><a href="http://tailgatefan.cbslocal.com">Tailgate Fan</a></li>
+	<li id="menu-item-573894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573894"><a href="http://atlanta.cbslocal.com">Atlanta</a></li>
+	<li id="menu-item-573895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573895"><a href="http://baltimore.cbslocal.com">Baltimore</a></li>
+	<li id="menu-item-573897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573897"><a href="http://chicago.cbslocal.com">Chicago</a></li>
+	<li id="menu-item-573898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573898"><a href="http://cleveland.cbslocal.com">Cleveland</a></li>
+	<li id="menu-item-573899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573899"><a href="http://connecticut.cbslocal.com">Connecticut</a></li>
+	<li id="menu-item-573900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573900"><a href="http://dallas.cbslocal.com">Dallas</a></li>
+	<li id="menu-item-573901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573901"><a href="http://denver.cbslocal.com">Denver</a></li>
+	<li id="menu-item-573902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573902"><a href="http://detroit.cbslocal.com">Detroit</a></li>
+	<li id="menu-item-573903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573903"><a href="http://houston.cbslocal.com">Houston</a></li>
+	<li id="menu-item-573904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573904"><a href="http://lasvegas.cbslocal.com">Las Vegas</a></li>
+	<li id="menu-item-573905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573905"><a href="http://losangeles.cbslocal.com">Los Angeles</a></li>
+	<li id="menu-item-573906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573906"><a href="http://miami.cbslocal.com">Miami</a></li>
+	<li id="menu-item-573907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573907"><a href="http://minnesota.cbslocal.com">Minnesota</a></li>
+	<li id="menu-item-573908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573908"><a href="http://newyork.cbslocal.com">New York</a></li>
+	<li id="menu-item-573909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573909"><a href="http://philadelphia.cbslocal.com">Philadelphia</a></li>
+	<li id="menu-item-573910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573910"><a href="http://pittsburgh.cbslocal.com">Pittsburgh</a></li>
+	<li id="menu-item-573911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573911"><a href="http://sacramento.cbslocal.com">Sacramento</a></li>
+	<li id="menu-item-573912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573912"><a href="http://sanfrancisco.cbslocal.com">San Francisco</a></li>
+	<li id="menu-item-573913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573913"><a href="http://seattle.cbslocal.com">Seattle</a></li>
+	<li id="menu-item-573914" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573914"><a href="http://stlouis.cbslocal.com">St Louis</a></li>
+	<li id="menu-item-573915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573915"><a href="http://tampa.cbslocal.com">Tampa</a></li>
+	<li id="menu-item-573916" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573916"><a href="http://washington.cbslocal.com">Washington</a></li>
+</ul>
+</li>
+<li id="menu-item-573890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573890"><a href="http://boston.cbslocal.com/newsletter/signup/">SIGN UP FOR NEWSLETTERS</a></li>
+</ul></div>
+							</div>
+																								<div id="page-header-top-right" class="header-cell">
+								<div id="component-account" class="header-component"><div id="sso-header-wrapper"></div></div>
+<div id="component-search" class="header-component"><form action="http://boston.cbslocal.com/search/" class="search"><input type="text" class="query" name="q" id="s" size="31" placeholder="Search" /><input type="reset" class="reset" value="Reset" /><input type="submit" class="submit" value="Search" /></form></div>
+							</div>
+															</div>
+			
+			<div class="header-row-inner header-row">
+								
+													<div id="page-header-tall-right">
+						<div id="component-sponsored-ad" class="header-component">
+<div class="sponsored-by ad-size-120x60">
+
+			<strong class="disclosure">Sponsored By</strong>
+	
+	<div class="cbs-ad-unit-wrapper"><div id="ad_10" class="cbs-ad-unit ad_gpt sponsor-unit" data-id="10" data-max-width="120" data-max-height="60"></div></div>
+</div></div>
+					</div>
+				
+				<div class="header-row-middle-and-bottom header-row">
+											<div class="header-row-middle header-row">
+																								<div id="page-header-middle-left" class="header-cell">
+										<a href="http://boston.cbslocal.com" id="component-logo" class="header-component"><img src="https://cbsboston.files.wordpress.com/2016/04/cbs_boston.png" alt="CBS Boston" /></a>
+									</div>
+																																<div id="page-header-middle-right" class="header-cell">
+										<a href="http://boston.cbslocal.com/weather/" id="component-weather" class="header-component weather-widget" data-key="245c93fff38d0d82" data-location="02101"></a>
+									</div>
+																					</div>
+					
+											<div class="header-row-bottom header-row">
+																								<div id="page-header-bottom-left" class="header-cell">
+										<div id="component-stations" class="header-component"><a href="http://boston.cbslocal.com/station/wbz-tv/" title="WBZ-TV" class="cbs-thumbnail-link" id="752" ><div class="thumbnail-wrapper"><img width="33" height="28" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2010/10/wbz41.png?w=33" class="attachment-thumbnail-110x28 size-thumbnail-110x28 wp-post-image" alt="WBZ4[1]" /></div><div class="title-wrapper"><strong class="title">WBZ-TV</strong><em class="description">1170 Soldiers Field Road Boston, MA 02134 Directions (617) 787-7000 Newsroom: 617-787-7145 Programming: 617-746-8383 ON-AIR SCHEDULE Follow @cbsboston NewsFollow WBZ-TV PersonalitiesFind Us On Facebook WBZ-TV LINKS AND INFORMATION Contact WBZ-TV Invite A WBZ-TV Speaker Public [...]</em></div></a><a href="http://boston.cbslocal.com/station/wbz-news-radio/" title="WBZ NewsRadio 1030" class="cbs-thumbnail-link" id="754" ><div class="thumbnail-wrapper"><img width="110" height="28" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2010/10/wbz10301.png?w=110" class="attachment-thumbnail-110x28 size-thumbnail-110x28 wp-post-image" alt="WBZ1030[1]" /></div><div class="title-wrapper"><strong class="title">WBZ NewsRadio 1030</strong><em class="description">Today&#8217;s Top Stories | Today&#8217;s Weather Forecast Traffic and Weather Together on the 3s. Breaking News When It Happens. 1170 Soldiers Field Road Boston, MA 02134 Directions (617) 787-7000 Call-In Line: 617-254-1030 or 888-WBZ-1030 Contest [...]</em></div></a><a href="http://boston.cbslocal.com/station/985-the-sports-hub/" title="98.5 The Sports&nbsp;Hub" class="cbs-thumbnail-link" id="753" ><div class="thumbnail-wrapper"><img width="41" height="28" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2010/10/985_sportshub1.png?w=41" class="attachment-thumbnail-110x28 size-thumbnail-110x28 wp-post-image" alt="985_SportsHub[1]" /></div><div class="title-wrapper"><strong class="title">98.5 The Sports&nbsp;Hub</strong><em class="description">WELCOME TO 98.5 THE SPORTS HUB The Flagship Station of the Bruins, Patriots, Celtics &amp; Revolution Latest Boston Sports News &gt; Visit CBSBostonSports.com For Our Complete Sports Coverage 98.5 The Sports Hub Shows TOUCHER AND [...]</em></div></a><a href="http://boston.cbslocal.com/station/tv38/" title="myTV38" class="cbs-thumbnail-link" id="755" ><div class="thumbnail-wrapper"><img width="35" height="28" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2010/10/my381.png?w=35" class="attachment-thumbnail-110x28 size-thumbnail-110x28 wp-post-image" alt="my38[1]" /></div><div class="title-wrapper"><strong class="title">myTV38</strong><em class="description">1170 Soldiers Field Road Boston, MA 02134 Directions Administrative Offices 617-787-7000 Newsroom 617-787-7145 Programming Announcements 617-746-8383 &nbsp; Find Us On Facebook &nbsp; myTV38 LINKS AND INFORMATION Contact myTV38 (WSBK-TV) Request myTV38/WBZ-TV News Video myTV38 Programming [...]</em></div></a></div>
+									</div>
+																																<div id="page-header-bottom-right" class="header-cell">
+										<div id="component-social" class="header-component follow-us social-follow-items size-24x24 type-blue"><a href="http://www.facebook.com/CBSBoston" class="facebook" target="_blank">Facebook</a><a href="http://twitter.com/#!/CBSboston" class="twitter" target="_blank">Twitter</a><a href="https://www.youtube.com/cbsboston" class="youtube" target="_blank">YouTube</a></div>
+									</div>
+																					</div>
+					
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+	</div>
+</header>
+
+<nav id="main-navigation" class="top modular-nav">
+	<ul class="main-nav item-count-10">
+					<li class="main-nav-item item-0 w-link wo-submenu"> 
+				<a href="http://boston.cbslocal.com" class="main-nav-link">Home</a>							</li>
+					<li class="main-nav-item item-1 w-link w-submenu"> 
+				<a href="http://boston.cbslocal.com/category/news/" class="main-nav-link">News</a>									<div class="submenu"><div class="wrapper">
+						
+<section class="items-grid column-count-2 block-type-wpmenu layout-compact aspect-ratio-16-9" id="block-0" >
+		<header class="column-header">
+				<h4 class="title">All News</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/category/news/local/" title="Local" class="cbs-thumbnail-link item-0" ><div class="title-wrapper"><strong class="title">Local</strong></div></a><a href="http://boston.cbslocal.com/category/health/" title="Health" class="cbs-thumbnail-link item-1" ><div class="title-wrapper"><strong class="title">Health</strong></div></a><a href="http://boston.cbslocal.com/category/politics/" title="Politics" class="cbs-thumbnail-link item-2" ><div class="title-wrapper"><strong class="title">Politics</strong></div></a><a href="http://boston.cbslocal.com/category/news/business/" title="Business" class="cbs-thumbnail-link item-3" ><div class="title-wrapper"><strong class="title">Business</strong></div></a><a href="http://boston.cbslocal.com/category/news/i-team/" title="i-Team" class="cbs-thumbnail-link item-4" ><div class="title-wrapper"><strong class="title">i-Team</strong></div></a><a href="http://boston.cbslocal.com/category/news/education/" title="Education" class="cbs-thumbnail-link item-5" ><div class="title-wrapper"><strong class="title">Education</strong></div></a><a href="http://boston.cbslocal.com/category/news/consumer/" title="Consumer" class="cbs-thumbnail-link item-6" ><div class="title-wrapper"><strong class="title">Consumer</strong></div></a><a href="http://boston.cbslocal.com/category/news/entertainment/" title="Entertainment" class="cbs-thumbnail-link item-7" ><div class="title-wrapper"><strong class="title">Entertainment</strong></div></a><a href="http://boston.cbslocal.com/category/cbs-boston-blogs/blogs/" title="Blogs" class="cbs-thumbnail-link item-8" ><div class="title-wrapper"><strong class="title">Blogs</strong><em class="description">CBS Boston Blogs</em></div></a><a href="http://boston.cbslocal.com/wbz-daily-poll/" title="Poll" class="cbs-thumbnail-link item-9" ><div class="title-wrapper"><strong class="title">Poll</strong></div></a><a href="http://boston.cbslocal.com/category/autos/" title="Autos" class="cbs-thumbnail-link item-10" ><div class="title-wrapper"><strong class="title">Autos</strong></div></a>		</div>
+	</section>
+
+<section class="items-grid enable-type-icons column-count-4 block-type-grid layout-3_column aspect-ratio-16-9" id="block-1" >
+		<header class="column-header">
+				<h4 class="title">Latest Headlines</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/2017/02/22/winning-numbers-drawn-for-435-million-powerball-jackpot/" title="Winning Numbers Drawn For $435 Million Powerball Jackpot" class="cbs-thumbnail-link item-1487824311" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2017/02/power.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Winning Numbers Drawn For $435 Million Powerball Jackpot</strong><em class="description">The winning Powerball numbers have been drawn for the jackpot that&#039;s climbed above $400 million for the first time in nearly three months.</em></div></a><a href="http://boston.cbslocal.com/2017/02/22/2-people-shot-near-dudley-square-t-stop/" title="2 People Shot Near Dudley Square T Stop" class="cbs-thumbnail-link item-1487822908" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2017/02/dudley.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">2 People Shot Near Dudley Square T Stop</strong><em class="description">Police are searching for the gunman who shot two people near the Dudley Square T stop.  </em></div></a><a href="http://boston.cbslocal.com/2017/02/22/quincy-gas-station-clerk-gunpoint-robbery/" title="Robber Holds Gun To Clerk&#039;s Head In Quincy Gas Station" class="cbs-thumbnail-link item-1487814930" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2017/02/clerk.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Robber Holds Gun To Clerk&#039;s Head In Quincy Gas Station</strong><em class="description">A gas station clerk was held at gunpoint by robbers in Quincy. </em></div></a><a href="http://boston.cbslocal.com/2017/02/22/i-team-gov-baker-reacts-complaints-uber-lyft-background-checks-too-stringent/" title="I-Team: Gov. Baker Reacts To Complaints That Uber &amp; Lyft Background Checks Are Too Stringent" class="cbs-thumbnail-link item-1487807767" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2017/02/baker1.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">I-Team: Gov. Baker Reacts To Complaints That Uber &amp; Lyft Background Checks Are Too Stringent</strong><em class="description">Governor Charlie Baker said the rules are all about public safety.</em></div></a>		</div>
+	</section>
+					</div></div>
+							</li>
+					<li class="main-nav-item item-2 w-link w-submenu"> 
+				<a href="http://boston.cbslocal.com/weather" class="main-nav-link">Weather</a>									<div class="submenu"><div class="wrapper">
+						
+<div id="weather_widget" class="weather-widget weather-nav-widget items-grid column-count-2 block-type-compact2col">
+	<div class="weather-widget-wrapper">
+		<header class="column-header"><h4 class="title"></h4></header>
+
+		<div>
+			<div class="general">
+				<span class="icon"></span>
+				<span class="temperature-average"></span>
+				<span class="temperature-high"></span>
+				<span class="temperature-low"></span>
+				<span class="humidity"></span>
+				<span class="precipitation"></span>
+				<span class="wind"></span>
+			</div>
+
+			<div class="daily-forecast"></div>
+		</div>
+
+		<a class="full-forecast-link" href="http://boston.cbslocal.com/weather/">FULL FORECAST</a>
+	</div>
+
+	<script>
+		jQuery(function($) {
+			cbs_lib.weather_widget_wsi('USMA0046', function(data) {
+				var $obj = jQuery('.weather-widget#weather_widget');
+				cbs_weather_widget_wsi_load($obj, data);
+			});
+		});
+	</script>
+</div>
+<section class="items-grid column-count-1 block-type-wpmenu layout-compact aspect-ratio-16-9" id="block-1" >
+		<header class="column-header">
+				<h4 class="title">Weather Links</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/closings/" title="School Closings" class="cbs-thumbnail-link item-0" ><div class="title-wrapper"><strong class="title">School Closings</strong></div></a><a href="http://boston.cbslocal.com/category/weather/#section-weather-map-3" title="Interactive Radar" class="cbs-thumbnail-link item-1" ><div class="title-wrapper"><strong class="title">Interactive Radar</strong></div></a><a href="http://boston.cbslocal.com/category/beyond-the-forecast/" title="Weather Blog" class="cbs-thumbnail-link item-2" ><div class="title-wrapper"><strong class="title">Weather Blog</strong></div></a><a href="http://apps.cbslocal.com/weather/boston/" title="Weather App" class="cbs-thumbnail-link item-3" ><div class="title-wrapper"><strong class="title">Weather App</strong></div></a><a href="http://photos.boston.cbslocal.com/gallery/10206" title="Share Photos" class="cbs-thumbnail-link item-4" ><div class="title-wrapper"><strong class="title">Share Photos</strong></div></a>		</div>
+	</section>
+
+<section class="items-grid enable-type-icons column-count-2 block-type-grid layout-3_column aspect-ratio-16-9" id="block-2" >
+		<header class="column-header">
+				<h4 class="title">More Weather</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/2017/02/21/record-warmth-dominates-the-lower-48/" title="Record Warmth Dominates The Lower 48" class="cbs-thumbnail-link item-1487722180" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2017/02/warm.png?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Record Warmth Dominates The Lower 48</strong><em class="description">Record breaking warmth has been bringing spring to most of the country this month, and those warm temperatures are en route to New England this week. </em></div></a><a href="http://boston.cbslocal.com/2017/02/16/epic-ski-conditions-across-new-england-for-presidents-day-weekend/" title="Epic Ski Conditions Across New England For President&#039;s Day Weekend" class="cbs-thumbnail-link item-1487291393" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2017/02/moose.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Epic Ski Conditions Across New England For President&#039;s Day Weekend</strong><em class="description">The best President&#039;s Day Weekend conditions in years are setting up across New England. A deep snow pack and quiet weather? Perfect storm for winter sports. </em></div></a>		</div>
+	</section>
+					</div></div>
+							</li>
+					<li class="main-nav-item item-3 w-link w-submenu"> 
+				<a href="http://boston.cbslocal.com/category/sports/" class="main-nav-link">Sports</a>									<div class="submenu"><div class="wrapper">
+						
+<section class="items-grid column-count-2 block-type-wpmenu layout-compact aspect-ratio-16-9" id="block-0" >
+		<header class="column-header">
+				<h4 class="title">All Sports</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/category/sports/" title="Latest" class="cbs-thumbnail-link item-0" ><div class="title-wrapper"><strong class="title">Latest</strong></div></a><a href="http://boston.cbslocal.com/audio/category/98-5-sports-hub/" title="Podcasts" class="cbs-thumbnail-link item-1" ><div class="title-wrapper"><strong class="title">Podcasts</strong></div></a><a href="http://boston.cbslocal.com/category/sports/patriots/" title="Patriots" class="cbs-thumbnail-link item-2" ><div class="title-wrapper"><strong class="title">Patriots</strong></div></a><a href="http://boston.cbslocal.com/category/sports/red-sox/" title="Red Sox" class="cbs-thumbnail-link item-3" ><div class="title-wrapper"><strong class="title">Red Sox</strong></div></a><a href="http://boston.cbslocal.com/category/sports/bruins/" title="Bruins" class="cbs-thumbnail-link item-4" ><div class="title-wrapper"><strong class="title">Bruins</strong></div></a><a href="http://boston.cbslocal.com/category/sports/celtics/" title="Celtics" class="cbs-thumbnail-link item-5" ><div class="title-wrapper"><strong class="title">Celtics</strong></div></a><a href="http://scoresandstats.boston.cbslocal.com" title="Scores" class="cbs-thumbnail-link item-6" ><div class="title-wrapper"><strong class="title">Scores</strong></div></a><a href="http://scoresandstats.boston.cbslocal.com/news/odds-picks.aspx" title="Odds" class="cbs-thumbnail-link item-7" ><div class="title-wrapper"><strong class="title">Odds</strong></div></a><a href="http://scoresandstats.boston.cbslocal.com/sports-scores/Football-Scores-Matchups.aspx" title="NFL" class="cbs-thumbnail-link item-8" ><div class="title-wrapper"><strong class="title">NFL</strong></div></a><a href="http://scoresandstats.boston.cbslocal.com/sports-scores/Baseball-Scores-Matchups.aspx" title="MLB" class="cbs-thumbnail-link item-9" ><div class="title-wrapper"><strong class="title">MLB</strong></div></a><a href="http://scoresandstats.boston.cbslocal.com/sports-scores/Basketball-Scores-Matchups.aspx" title="NBA" class="cbs-thumbnail-link item-10" ><div class="title-wrapper"><strong class="title">NBA</strong></div></a><a href="http://scoresandstats.boston.cbslocal.com/sports-scores/Hockey-Scores-Matchups.aspx" title="NHL" class="cbs-thumbnail-link item-11" ><div class="title-wrapper"><strong class="title">NHL</strong></div></a>		</div>
+	</section>
+
+<section class="items-grid enable-type-icons column-count-4 block-type-grid layout-4_column aspect-ratio-1-1" id="block-1" >
+		<header class="column-header">
+				<h4 class="title">Shows</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/category/98-5-the-sportshub-shows/toucher-and-rich/" title="Toucher &amp; Rich" class="cbs-thumbnail-link item-1480349411" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/11/toucherrich400x400.jpg?w=310&#038;h=310&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Toucher &amp; Rich</strong></div></a><a href="http://boston.cbslocal.com/category/98-5-the-sportshub-shows/zolak-bertrand/" title="Zolak &amp; Bertrand" class="cbs-thumbnail-link item-1480349297" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/11/zobertrand400x400.jpg?w=310&#038;h=310&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Zolak &amp; Bertrand</strong></div></a><a href="http://boston.cbslocal.com/category/98-5-the-sportshub-shows/felger-massarotti/" title="Felger &amp; Mazz" class="cbs-thumbnail-link item-1480349258" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/11/felgermazz400x400.jpg?w=310&#038;h=310&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Felger &amp; Mazz</strong></div></a><a href="http://boston.cbslocal.com/category/98-5-the-sportshub-shows/the-adam-jones-show/" title="Adam Jones Show" class="cbs-thumbnail-link item-1480349212" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/11/jones400x400.jpg?w=310&#038;h=310&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Adam Jones Show</strong></div></a>		</div>
+	</section>
+					</div></div>
+							</li>
+					<li class="main-nav-item item-4 w-link wo-submenu"> 
+				<a href="http://boston.cbslocal.com/traffic/" class="main-nav-link">Traffic</a>							</li>
+					<li class="main-nav-item item-5 w-link w-submenu"> 
+				<a href="http://boston.cbslocal.com/video/" class="main-nav-link">Video</a>									<div class="submenu"><div class="wrapper">
+						
+<section class="items-grid column-count-2 block-type-wpmenu layout-compact aspect-ratio-16-9" id="block-0" >
+		<header class="column-header">
+				<h4 class="title"><a href="http://boston.cbslocal.com/video/">All Videos</a></h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/video/category/news/" title="All News Video" class="cbs-thumbnail-link item-0" ><div class="title-wrapper"><strong class="title">All News Video</strong></div></a><a href="http://boston.cbslocal.com/video/category/sports/" title="All Sports Video" class="cbs-thumbnail-link item-1" ><div class="title-wrapper"><strong class="title">All Sports Video</strong></div></a><a href="http://boston.cbslocal.com/video/category/news-weather-forecast/" title="Weather Forecast" class="cbs-thumbnail-link item-2" ><div class="title-wrapper"><strong class="title">Weather Forecast</strong></div></a><a href="http://boston.cbslocal.com/show/phantom-gourmet/" title="Phantom Gourmet" class="cbs-thumbnail-link item-3" ><div class="title-wrapper"><strong class="title">Phantom Gourmet</strong></div></a><a href="http://boston.cbslocal.com/show/cbs-boston-live-video/" title="Live Newscasts" class="cbs-thumbnail-link item-4" ><div class="title-wrapper"><strong class="title">Live Newscasts</strong></div></a><a href="http://boston.cbslocal.com/cbsn-live-streaming-video-from-cbs-news/" title="CBSN Live" class="cbs-thumbnail-link item-5" ><div class="title-wrapper"><strong class="title">CBSN Live</strong></div></a>		</div>
+	</section>
+
+<section class="items-grid enable-type-icons column-count-4 block-type-grid layout-4_column aspect-ratio-1-1" id="block-1" >
+		<header class="column-header">
+				<h4 class="title">On Demand Video</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/video/program/671/" title="Phantom Gourmet" class="cbs-thumbnail-link item-1479761558" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/10/phantomgourmet1.jpg?w=310&#038;h=310&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Phantom Gourmet</strong></div></a><a href="http://boston.cbslocal.com/video/program/669/" title="Wednesday’s Child" class="cbs-thumbnail-link item-1478027152" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/10/wednesdayschild.jpg?w=310&#038;h=310&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Wednesday’s Child</strong></div></a><a href="http://boston.cbslocal.com/video/program/670/" title="Sports Final" class="cbs-thumbnail-link item-1477079945" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/10/sportsfinal1.jpg?w=310&#038;h=310&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Sports Final</strong></div></a><a href="http://boston.cbslocal.com/video/program/778/" title="Felger &amp; Massarotti" class="cbs-thumbnail-link item-1476907036" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/10/felgermazz.jpg?w=310&#038;h=310&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Felger &amp; Massarotti</strong></div></a>		</div>
+	</section>
+					</div></div>
+							</li>
+					<li class="main-nav-item item-6 w-link w-submenu"> 
+				<a href="http://boston.cbslocal.com/category/eat-see-play/" class="main-nav-link">E.S.P.</a>									<div class="submenu"><div class="wrapper">
+						
+<section class="items-grid enable-type-icons column-count-2 block-type-grid layout-3_column aspect-ratio-16-9" id="block-0" >
+		<header class="column-header">
+				<h4 class="title"><a href="http://boston.cbslocal.com/category/eat-see-play/eat">Eat</a></h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/2017/02/17/rapscallion-brewery-acton-phantom-gourmet/" title="Phantom Gourmet: Rapscallion Tap &amp; Table In Acton" class="cbs-thumbnail-link item-1487326073" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2017/02/rap4.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Phantom Gourmet: Rapscallion Tap &amp; Table In Acton</strong><em class="description">With a world-class chef in the kitchen, and twin brothers who know a thing or two about beer behind the bar, you&#039;re going to want to come hungry and thirsty.</em></div></a><a href="http://boston.cbslocal.com/2017/02/16/best-restaurants-beat-cold-comfort-food-phantom-gourmet/" title="Phantom Gourmet: Great 8 Spots To Beat The Cold" class="cbs-thumbnail-link item-1487240019" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2017/02/great8.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Phantom Gourmet: Great 8 Spots To Beat The Cold</strong><em class="description">When the temperature drops, nothing warms Phantom up like some piping hot food served in a cozy restaurant.</em></div></a>		</div>
+	</section>
+
+<section class="items-grid enable-type-icons column-count-2 block-type-grid layout-3_column aspect-ratio-16-9" id="block-1" >
+		<header class="column-header">
+				<h4 class="title"><a href="http://boston.cbslocal.com/category/eat-see-play/see">See</a></h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/2017/02/21/bostons-best-places-to-see-indie-rock/" title="Boston&#039;s Best Places To See Indie Rock" class="cbs-thumbnail-link item-1487674800" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/01/guitar.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Boston&#039;s Best Places To See Indie Rock</strong><em class="description">Here are just five of the best places in Boston to see and hear indie rock.</em></div></a><a href="http://boston.cbslocal.com/2017/01/24/bostons-best-comedy-shows-in-spring-2017/" title="Boston&#039;s Best Comedy Shows In Spring 2017" class="cbs-thumbnail-link item-1485255600" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/05/mic.png?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Boston&#039;s Best Comedy Shows In Spring 2017</strong><em class="description">Bostonians love to laugh - and as Winter lingers on and Spring seems so close but so far away, that is when they not only love to but need to laugh.  Fortunately, the city has some great comedy clubs and theaters where both young, up-and-coming talent as well as veteran comedians can make Bostonians do just that.  Here are just five of Boston&#039;s Best Comedy Shows to see in and just before the start of Spring 2017.</em></div></a>		</div>
+	</section>
+
+<section class="items-grid enable-type-icons column-count-2 block-type-grid layout-3_column aspect-ratio-16-9" id="block-2" >
+		<header class="column-header">
+				<h4 class="title"><a href="http://boston.cbslocal.com/category/eat-see-play/play">Play</a></h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/2017/02/16/boston-weekend-events-wine-expo-bugs-bunny/" title="What&#039;s Up This Weekend: Wine Expo, Bugs Bunny Film Fest &amp; More" class="cbs-thumbnail-link item-1487238622" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2017/02/bugs.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">What&#039;s Up This Weekend: Wine Expo, Bugs Bunny Film Fest &amp; More</strong><em class="description">It&#039;s a long weekend, which means extra time to enjoy all the area has to offer, like a &quot;wild&quot; birthday party, some classic cartoons, and modern art.</em></div></a><a href="http://boston.cbslocal.com/2017/02/09/boston-weekend-events-chinatown-parade-boat-show-film-festival/" title="What&#039;s Up This Weekend: Chinatown Parade, Boat Show, Film Festival &amp; More" class="cbs-thumbnail-link item-1486635639" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2017/02/boatshow.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">What&#039;s Up This Weekend: Chinatown Parade, Boat Show, Film Festival &amp; More</strong><em class="description">There is a lot going on in around Boston this weekend. You can enjoy Lion Dances in Chinatown, plan a trip at the Travel Show, and check out a Science Fiction Film Festival.</em></div></a>		</div>
+	</section>
+					</div></div>
+							</li>
+					<li class="main-nav-item item-7 w-link w-submenu"> 
+				<a href="http://boston.cbslocal.com/audio/" class="main-nav-link">Audio</a>									<div class="submenu"><div class="wrapper">
+						
+<section class="items-grid column-count-1 block-type-wpmenu layout-compact aspect-ratio-16-9" id="block-0" >
+		<header class="column-header">
+				<h4 class="title">Audio</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/audio/" title="All Audio" class="cbs-thumbnail-link item-0" ><div class="title-wrapper"><strong class="title">All Audio</strong></div></a><a href="http://boston.cbslocal.com/audio/category/wbz-newsradio-1030/" title="WBZ-AM Audio" class="cbs-thumbnail-link item-1" ><div class="title-wrapper"><strong class="title">WBZ-AM Audio</strong></div></a><a href="http://boston.cbslocal.com/audio/category/98-5-sports-hub/" title="Sports Hub Audio" class="cbs-thumbnail-link item-2" ><div class="title-wrapper"><strong class="title">Sports Hub Audio</strong></div></a><a href="http://player.radio.com/listen/station/wbz-newsradio-1030" title="WBZ-AM Live" class="cbs-thumbnail-link item-3" ><div class="title-wrapper"><strong class="title">WBZ-AM Live</strong></div></a><a href="http://player.radio.com/listen/station/985-the-sports-hub" title="Sports Hub Live" class="cbs-thumbnail-link item-4" ><div class="title-wrapper"><strong class="title">Sports Hub Live</strong></div></a>		</div>
+	</section>
+
+<section class="items-grid enable-type-icons column-count-5 block-type-grid layout-4_column aspect-ratio-1-1" id="block-1" >
+		<header class="column-header">
+				<h4 class="title">Featured Podcasts</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/audio/felger-massarotti/" title="Felger &amp; Massarotti" class="cbs-thumbnail-link item-1476997017" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/10/felger-mazz.jpg?w=250&#038;h=250&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Felger &amp; Massarotti</strong></div></a><a href="http://boston.cbslocal.com/audio/toucher-rich/" title="Toucher &amp; Rich" class="cbs-thumbnail-link item-1476996767" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/10/toucher-rich.jpg?w=250&#038;h=250&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Toucher &amp; Rich</strong></div></a><a href="http://boston.cbslocal.com/audio/wbz-newsradio-1030/" title="WBZ NewsRadio 1030" class="cbs-thumbnail-link item-1476935980" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/10/newsaudio.jpg?w=250&#038;h=250&#038;crop=1"></div><div class="title-wrapper"><strong class="title">WBZ NewsRadio 1030</strong></div></a><a href="http://boston.cbslocal.com/audio/keller-at-large/" title="Keller at Large" class="cbs-thumbnail-link item-1476911839" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2015/01/wbzam_2015_podcast_keller-at-large.jpg?w=310&#038;h=310&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Keller at Large</strong></div></a><a href="http://boston.cbslocal.com/audio/wbz-newsradio-1030-reporters-roundup/" title="Reporters Roundup" class="cbs-thumbnail-link item-1476911447" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/11/reportersroundup.jpg?w=250&#038;h=250&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Reporters Roundup</strong></div></a>		</div>
+	</section>
+					</div></div>
+							</li>
+					<li class="main-nav-item item-8 w-link wo-submenu"> 
+				<a href="http://boston.cbslocal.com/category/contests-and-promotions/" class="main-nav-link">Contest</a>							</li>
+					<li class="main-nav-item item-9 w-submenu"> 
+				<span class="main-nav-link">More</span>									<div class="submenu"><div class="wrapper">
+						
+<section class="items-grid column-count-1 block-type-wpmenu layout-compact aspect-ratio-16-9" id="block-0" >
+		<header class="column-header">
+				<h4 class="title">Station Info</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/contact/" title="Contact WBZ-TV" class="cbs-thumbnail-link item-0" ><div class="title-wrapper"><strong class="title">Contact WBZ-TV</strong></div></a><a href="http://boston.cbslocal.com/contact/" title="Contact WBZ-AM" class="cbs-thumbnail-link item-1" ><div class="title-wrapper"><strong class="title">Contact WBZ-AM</strong></div></a><a href="http://boston.cbslocal.com/contact/" title="Contact SportsHub" class="cbs-thumbnail-link item-2" ><div class="title-wrapper"><strong class="title">Contact SportsHub</strong></div></a><a href="http://boston.cbslocal.com/station/wbz-tv/" title="WBZ-TV Team" class="cbs-thumbnail-link item-3" ><div class="title-wrapper"><strong class="title">WBZ-TV Team</strong></div></a><a href="http://boston.cbslocal.com/station/wbz-news-radio/" title="WBZ-AM Team" class="cbs-thumbnail-link item-4" ><div class="title-wrapper"><strong class="title">WBZ-AM Team</strong></div></a><a href="http://boston.cbslocal.com/station/985-the-sports-hub/" title="Sports Hub Team" class="cbs-thumbnail-link item-5" ><div class="title-wrapper"><strong class="title">Sports Hub Team</strong></div></a>		</div>
+	</section>
+
+<section class="items-grid column-count-1 block-type-wpmenu layout-compact aspect-ratio-16-9" id="block-1" >
+		<header class="column-header">
+				<h4 class="title">Connect</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/social" title="Social Media" class="cbs-thumbnail-link item-0" ><div class="title-wrapper"><strong class="title">Social Media</strong></div></a><a href="http://boston.cbslocal.com/newsletter/signup/" title="Email Newsletters" class="cbs-thumbnail-link item-1" ><div class="title-wrapper"><strong class="title">Email Newsletters</strong></div></a><a href="http://apps.cbslocal.com/" title="CBS Local App" class="cbs-thumbnail-link item-2" ><div class="title-wrapper"><strong class="title">CBS Local App</strong></div></a><a href="http://apps.cbslocal.com/weather/boston/" title="Weather App" class="cbs-thumbnail-link item-3" ><div class="title-wrapper"><strong class="title">Weather App</strong></div></a><a href="http://boston.cbslocal.com/callforaction/" title="Call For Action" class="cbs-thumbnail-link item-4" ><div class="title-wrapper"><strong class="title">Call For Action</strong></div></a><a href="http://boston.cbslocal.com/wbz-daily-poll/" title="WBZ Poll" class="cbs-thumbnail-link item-5" ><div class="title-wrapper"><strong class="title">WBZ Poll</strong></div></a>		</div>
+	</section>
+
+<section class="items-grid enable-type-icons column-count-4 block-type-grid layout-3_column aspect-ratio-16-9" id="block-2" >
+		<header class="column-header">
+				<h4 class="title">More</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/category/travel/" title="Travel" class="cbs-thumbnail-link item-1484232790" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2014/06/airplane_-_thinsktock3.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Travel</strong></div></a><a href="http://boston.cbslocal.com/category/only-cbs/" title="Only CBS" class="cbs-thumbnail-link item-1484232704" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2014/09/only-cbs-124x75.jpg?w=124&#038;h=75&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Only CBS</strong></div></a><a href="http://events.boston.cbslocal.com/" title="Events" class="cbs-thumbnail-link item-1477002158" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/10/events.png?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Events</strong></div></a><a href="http://offers.cbslocal.com/deal/boston" title="Deals" class="cbs-thumbnail-link item-1477001855" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2016/10/deals.png?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Deals</strong></div></a>		</div>
+	</section>
+					</div></div>
+							</li>
+			</ul>
+</nav>		<section class="page-ad-container page-pencil-ad-container-top">
+			<div class="positioning-wrapper">
+				<table cellpadding="0" cellspacing="0"><tr><td align="center">
+					<div class="cbs-ad-unit-wrapper"><div id="ad_1" class="cbs-ad-unit ad_gpt full-ad page-pencil-ad" data-id="1" data-max-width="970" data-max-height="250"></div></div>				</td></tr></table>
+			</div>
+		</section>
+		
+<div id="page-content" class="main-white page-block-container">
+<section class="page-columns">
+
+	<header class="page-section-title three-column">
+		<div class="column-header">
+			<h1 class="posttitle">Patriots Coach Bill Belichick Could Be Called As Witness In Aaron Hernandez Murder&nbsp;Trial</h1>
+						<em class="entry-date">February 22, 2017 5:29 PM</em>
+			
+			
+		</div>
+
+								<div class="column-header-metadata">
+				<strong>Filed Under:</strong> <span><a href="http://boston.cbslocal.com/tag/aaron-hernandez/">Aaron Hernandez</a>, <a href="http://boston.cbslocal.com/tag/beth-germano/">Beth Germano</a>, <a href="http://boston.cbslocal.com/tag/bill-belichick/">Bill Belichick</a>, <a href="http://boston.cbslocal.com/tag/new-england-patriots/">New England Patriots</a></span>
+			</div>
+			</header>
+
+	<section class="page-column two-column columns-left">
+		<section class="column-item media-type-anvato" id="featured-media"><div class="video-wrapper"><div id='p0'></div><script data-anvp='{&quot;mcp&quot;:&quot;cbs&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;100%&quot;,&quot;video&quot;:&quot;3626510&quot;,&quot;autoplay&quot;:true,&quot;titleVisible&quot;:false,&quot;accessKey&quot;:&quot;anvato_cbslocal_app_web_prod_547f3e49241ef0e5d30c79b2efbca5d92c698f67&quot;,&quot;accessControl&quot;:{&quot;preview&quot;:false},&quot;pInstance&quot;:&quot;p0&quot;,&quot;plugins&quot;:{&quot;heartbeat&quot;:{&quot;account&quot;:&quot;cbslocal-global-unified&quot;,&quot;publisherId&quot;:&quot;cbslocal&quot;,&quot;jobId&quot;:&quot;sc_va&quot;,&quot;marketingCloudId&quot;:&quot;823BA0335567497F7F000101@AdobeOrg&quot;,&quot;trackingServer&quot;:&quot;cbsdigitalmedia.hb.omtrdc.net&quot;,&quot;customTrackingServer&quot;:&quot;cbsdigitalmedia.d1.sc.omtrdc.net&quot;,&quot;chapterTracking&quot;:false,&quot;version&quot;:&quot;1.5&quot;},&quot;comscore&quot;:{&quot;clientId&quot;:&quot;3000023&quot;,&quot;c3&quot;:&quot;Boston.cbslocal.com&quot;},&quot;dfp&quot;:{&quot;clientSide&quot;:{&quot;adTagUrl&quot;:&quot;http:\/\/pubads.g.doubleclick.net\/gampad\/ads?sz=2x2&amp;iu=\/4128\/CBS.BOSTON&amp;ciu_szs&amp;impl=s&amp;gdfp_req=1&amp;env=vp&amp;output=xml_vast2&amp;unviewed_position_start=1&amp;url=[referrer_url]&amp;description_url=[description_url]&amp;correlator=[timestamp]&quot;,&quot;keyValues&quot;:{&quot;categories&quot;:&quot;[[CATEGORIES]]&quot;,&quot;program&quot;:&quot;[[PROGRAM_NAME]]&quot;,&quot;siteSection&quot;:&quot;featured&quot;}}}},&quot;shareLink&quot;:&quot;http:\/\/cbsloc.al\/2m8J5is&quot;}' src='http://up.anv.bz/latest/scripts/anvload.js'></script></div></section>
+
+		<section class="column-item" id="main-story">
+			<div class="social-buttons">
+	<div class="social-media-container vertical">
+					<div class="social-share-items addthis_toolbox addthis_default_style addthis_32x32_style">
+								<span><a class="addthis_button_facebook" ></a><a class="addthis_button_twitter" ></a><a class="addthis_button_compact" ></a></span>
+			</div>
+		
+		
+					<a href="#comments" class="comments-link onclick-scrollto on-click-open-block" data-onclick-scrollto=".comments-location-beacon" data-onclick-open="#story-comments"></a>
+			</div>
+</div>
+			<article class="article-bucket content">
+				<div class="story">
+					<p>BOSTON (CBS) &#8212; New evidence in the upcoming Aaron Hernandez double murder trial has been released, including transcripts from jailhouse cellphone conversations and a lengthy potential defense witness list that includes Patriots coach Bill Belichick.</p>
+<p>The list contains nearly 270 names, and Belichick is listed as number 11.</p>
+<p>He was also on the potential witness list when Hernandez was first tried and convicted for the murder of Odin Lloyd, but Belichick was never called.</p>
+<p><a href="https://cbsboston.files.wordpress.com/2017/02/2-21-17updatedwitnesslistcommonwealth-of-massachusetts.pdf" target="_blank">See defense witness list (PDF)</a></p>
+<p>&#8220;Ninety-eight percent of them will not be called,&#8221; said legal expert Harry Manion. &#8220;What a defendant does in all trials, and especially murder one trials, is name the conceivable universe.&#8221;</p>
+<p>Manion sees only a limited circumstance this time around for Belichick.</p>
+<p>&#8220;The evidence may go in a way where the Commonwealth challenges that he was known to be a thug in the locker room, that he was known to be a bad guy,&#8221; said Manion. &#8220;They may bring Belichick out and say, have you heard any of that? I&#8217;m doubting the Commonwealth would do that, though.&#8221;</p>
+<div id="attachment_805346" style="width: 430px" class="wp-caption aligncenter"><img class="size-medium wp-image-805346" src="https://cbsboston.files.wordpress.com/2017/02/belichick-hernandez.jpg?w=420&#038;h=236" alt="Belichick and Hernandez (Image credits Al Bello/Getty Images and WBZ)" width="420" height="236" title="Patriots Coach Bill Belichick Could Be Called As Witness In Aaron Hernandez Murder Trial" srcset="https://cbsboston.files.wordpress.com/2017/02/belichick-hernandez.jpg?w=420&amp;h=236 420w, https://cbsboston.files.wordpress.com/2017/02/belichick-hernandez.jpg?w=200&amp;h=112 200w, https://cbsboston.files.wordpress.com/2017/02/belichick-hernandez.jpg?w=620&amp;h=349 620w, https://cbsboston.files.wordpress.com/2017/02/belichick-hernandez.jpg 628w" sizes="(max-width: 420px) 100vw, 420px" /><p class="wp-caption-text">Belichick and Hernandez (Image credits Al Bello/Getty Images and WBZ)</p></div>
+<p>Earlier in the month, a defense motion said Patriots offensive coordinator <a href="http://boston.cbslocal.com/2017/02/03/josh-mcdaniels-aaron-hernandez-murder-trial-new-england-patriots/">Josh McDaniels may testify</a> on the possible meanings of some of Hernandez’s tattoos.</p>
+<p>WBZ-TV Sports Director Steve Burton is also listed as a potential witness in the court paperwork. The documents cite Steve’s 2011 interview with Hernandez.</p>
+<p>Hernandez is about to go on trial for the a double murder in Boston&#8217;s South End in July of 2012. Daniel Abreu and Safiro Furtado were both gunned down in a drive-by shooting.</p>
+<p>Prosecutors contend Hernandez told a friend that one of the victims was &#8220;trying&#8221; or challenging him during an encounter at a nightclub.</p>
+<p>They want to submit a jailhouse cellphone conversation where he tells a former college teammate he plans to get another tattoo in the shape of a stop sign that will send the message, &#8220;beware, no hesitations  Feel me, like no try me there&#8217;s no hesitations.&#8221;</p>
+<p>In another call, prosecutors say Hernandez tells his mother she cannot be trusted with information.</p>
+<p>Manion believes the calls &#8220;are a reach,&#8221; but prosecutors hope it helps get to motive in the case, a case Manion sees as a tough one for the defense.</p>
+<p>&#8220;What&#8217;s the defense, somebody else did it?&#8221; Manion said.</p>
+<p>According to the documents, the defense also plans to call experts to testify about marijuana use in the NFL, and the correlation between marijuana and violence.</p>
+<p>Jury selection continues with the trial set to start March 1.</p>
+<p>Hernandez is already serving a life sentence without parole for the 2013 murder of Odin Lloyd.</p>
+<p>&nbsp;</p>
+
+<!-- AddThis Button Begin -->
+<script type="text/javascript">var addthis_product = 'wpp-261';
+var addthis_config = {"data_track_clickback":true};if (typeof(addthis_share) == "undefined"){ addthis_share = {"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{"login":"cbslocal","apiKey":"R_bfe2742f79bb4091b0fcfbdf5c6a81ca"}}};}</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ddd05dc24272928"></script>				</div>
+			</article>
+
+					</section>
+
+		<div class="column-item" id="story-anchor-comments"><a href="#comments" class="onclick-scrollto on-click-open-block" data-onclick-scrollto=".comments-location-beacon" data-onclick-open="#story-comments">Comments</a></div><div class="cbs-ad-unit-wrapper"><div id="ad_31" class="cbs-ad-unit ad_gpt partner-container partner-sharethrough" data-id="31" data-max-width="1" data-max-height="5"></div></div><div class="partner-container partner-taboola"><div id="taboola-block-1"></div></div>
+	<style>
+	#comments .comments-title,
+	#comments #respond #reply-title {
+		color: black;
+		font-size: 16px;
+		font-weight: normal;
+		margin-bottom: 20px;
+	}
+	#comments a:hover {
+		text-decoration: underline;
+	}
+	#comments .comment-list,
+	#comments .comment-list .children {
+		list-style: none;
+		margin: 0;
+	}
+		#comments .comment-list .comment {
+			border-top: 1px solid #dfe3e6;
+			padding: 20px 10px;
+		}
+			#comments .comment-list .comment .comment-body {
+				color: black;
+				font-size: 13px;
+				position: relative;
+			}
+				#comments .comment-list .comment .comment-body p {
+					margin: 5px 0 7px 0;
+					overflow: hidden;
+					padding: 0;
+				}
+			#comments .comment-list .comment .comment-author .avatar {
+				float: left;
+				height: 42px;
+				margin-bottom: 10px;
+				margin-right: 15px;
+				width: 42px;
+			}
+			#comments .comment-list .comment .comment-author .fn {
+				color: black;
+				font-size: 13px;
+				font-style: normal;
+				font-weight: bold;
+			}
+			#comments .comment-list .comment .comment-author .says {
+				display: none;
+			}
+
+			#comments .comment-list .comment .comment-meta {
+				position: absolute;
+				right: 0;
+				top: 0;
+			}
+			#comments .comment-list .comment .reply {
+				margin-left: 57px;
+			}
+			#comments .comment-list .comment .comment-meta a,
+			#comments .comment-list .comment .reply a {
+				color: #808080;
+				font-size: 11px;
+			}
+				#comments .comment-list:hover .comment .comment-meta a,
+				#comments .comment-list:hover .comment .reply a {
+					color: #333;
+				}
+			#comments .comment-list .comment .reply .safe-comments-report-link:last-of-type {
+				display: none;
+			}
+	#comments .comment-list .children {
+		margin-left: 20px;
+		margin-top: 20px;
+	}
+		#comments .comment-list .children .comment {
+			border-top: none;
+			padding-right: 0;
+			padding-top: 0;
+		}
+
+	#comments #reply-title a {
+		color: black;
+		font-size: 13px;
+		padding: 0 5px;
+	}
+		#comments #reply-title small a {
+			font-weight: normal;
+		}
+	
+
+
+
+</style>
+
+<div class="commenting-container">
+	<a name="comments" class="comments-location-beacon"></a>
+	<section id="story-comments" class="column-item">
+
+		<div id="comments" class="comments-area">
+
+			
+											<div id="respond" class="comment-respond">
+			<h4 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/02/22/patriots-bill-belichick-aaron-hernandez-witness-murder-trial/#respond" style="display:none;">Cancel reply</a></small></h4>		<form action="http://boston.cbslocal.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+														
+
+
+						<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="3e8af1e7d0" /><input type="hidden" name="_wp_http_referer" value="/2017/02/22/patriots-bill-belichick-aaron-hernandez-witness-murder-trial/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity" class="comment_registration">
+
+	<div id="comment-form-nascar">
+		<p>Please log in using one of these methods to post your comment:</p>
+		<ul>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Notify me of new posts via email.</label></p></div>
+
+						<p class="form-submit">
+				<input name="submit" type="submit" id="comment-submit" value="Post Comment" />
+				<input type='hidden' name='comment_post_ID' value='805342' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+			</p>
+			<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4ac7a35690" /></p>
+<input type="hidden" name="genseq" value="1487835647" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="53"/></p>		</form>
+		</div><!-- #respond -->
+		<div style="clear: both"></div>			
+		</div>
+
+	</section>
+</div>
+	</section>
+
+	
+<aside class="sidebar right-bar">
+	<div id="listen-live-button" class="listen-live-action"><div class="cbs-ad-unit-wrapper"><div id="ad_32" class="cbs-ad-unit ad_gpt listen-live-ad-block" data-id="32" data-max-width="88" data-max-height="31"></div></div><a class="listen-live-logo" href="#listen-live" target="_self" title="Listen to Live Radio" style=""></a><a class="wrapper" href="#listen-live" target="_self"><p class="listen-live-text listen">Listen Live</p></a></div><div class="cbs-ad-unit-wrapper"><div id="ad_2" class="cbs-ad-unit ad_gpt big-right-ad" data-id="2" data-max-width="300" data-max-height="1050"></div></div><div id="sidebar-smart-widget-1" class="smart-widget-container"><iframe src="http://boston.cbslocal.com/_iframe_/smart-widget/?placement=article&#038;cat_slug=local%7Cnews%7Csyndicated-local" class="widget-iframe" scrolling="no" seamless="seamless"></iframe></div><div class="cbs-ad-unit-wrapper"><div id="ad_33" class="cbs-ad-unit ad_gpt big-right-ad sidebar-adhesive-ad" data-id="33" data-max-width="300" data-max-height="250"></div></div><div id="ev-rightrail-widget-id" class="partner-container partner-eventful"> <div class="ev-container ev-article-rec ev-triple"></div></div>
+</aside>
+
+</section>
+
+
+
+</div>
+
+		<section class="page-ad-container page-pencil-ad-container-bottom">
+			<div class="positioning-wrapper">
+				<table cellpadding="0" cellspacing="0"><tr><td align="center">
+					<div class="cbs-ad-unit-wrapper"><div id="ad_4" class="cbs-ad-unit ad_gpt full-ad page-pencil-ad" data-id="4" data-max-width="728" data-max-height="90"></div></div>				</td></tr></table>
+			</div>
+		</section>
+		
+<section class="items-grid page-block-container layout-3_column aspect-ratio-16-9" id="drip-pan" >
+		<header class="column-header">
+				<h4 class="title">More From CBS Boston</h4>
+	</header>
+	
+		
+			<div class="article-buckets-list">
+			<a href="http://boston.cbslocal.com/call-for-action/" title="Call For Action" class="cbs-thumbnail-link item-1484945974" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2017/01/cfa-628x353-copy.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Call For Action</strong></div></a><a href="http://apps.cbslocal.com/" title="Download Our App" class="cbs-thumbnail-link item-1472748494" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2014/04/appdlsize.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Download Our App</strong></div></a><a href="http://apps.cbslocal.com/weather/boston/" title="Download Weather App" class="cbs-thumbnail-link item-1445428191" ><div class="thumbnail-wrapper"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2014/10/weatherappdl.jpg?w=310&#038;h=174&#038;crop=1"></div><div class="title-wrapper"><strong class="title">Download Weather App</strong></div></a>		</div>
+	</section>
+
+<footer id="page-footer" class="page-footer-type-menus-vertical">
+			<section class="top">
+			<a href="http://boston.cbslocal.com" class="logo"><img src="https://cbsboston.files.wordpress.com/2016/04/boston.png" alt="CBS Boston" /></a>							<div id="component-social" class="footer-component social-follow-items type-blue size-24x24">
+					<div class="social-align-wrapper">
+						<span class="disclosure">Follow Us</span>
+						<a href="http://www.facebook.com/CBSBoston" class="facebook" target="_blank">Facebook</a><a href="http://twitter.com/#!/CBSboston" class="twitter" target="_blank">Twitter</a><a href="https://www.youtube.com/cbsboston" class="youtube" target="_blank">YouTube</a>					</div>
+				</div>
+					</section>
+	
+			<section class="middle">
+							<div class="navigation-menus menu-count-6">
+					<div class="menu-block"><div class="title">News</div><div class="menu-footer-news-container"><ul id="menu-footer-news" class="footer-navigation nav-footer-list-1"><li id="menu-item-669475" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669475"><a href="http://boston.cbslocal.com/category/news/local/">Local</a></li>
+<li id="menu-item-669476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669476"><a href="http://boston.cbslocal.com/category/politics/">Politics</a></li>
+<li id="menu-item-669477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669477"><a href="http://boston.cbslocal.com/category/news/business/">Business</a></li>
+<li id="menu-item-669478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669478"><a href="/category/health/">HealthWatch</a></li>
+<li id="menu-item-669479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669479"><a href="http://boston.cbslocal.com/traffic/">Traffic</a></li>
+<li id="menu-item-669480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669480"><a href="http://boston.cbslocal.com/weather">Weather</a></li>
+<li id="menu-item-675577" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-675577"><a href="http://boston.cbslocal.com/category/news/entertainment/">Entertainment</a></li>
+</ul></div></div><div class="menu-block"><div class="title">Sports</div><div class="menu-footer-sports-container"><ul id="menu-footer-sports" class="footer-navigation nav-footer-list-2"><li id="menu-item-669481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669481"><a href="http://boston.cbslocal.com/category/sports/bruins/">Bruins</a></li>
+<li id="menu-item-669482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669482"><a href="http://boston.cbslocal.com/category/sports/celtics/">Celtics</a></li>
+<li id="menu-item-669483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669483"><a href="http://boston.cbslocal.com/category/sports/patriots/">Patriots</a></li>
+<li id="menu-item-669484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669484"><a href="http://boston.cbslocal.com/category/sports/red-sox/">Red Sox</a></li>
+<li id="menu-item-669485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669485"><a href="http://boston.cbslocal.com/station/985-the-sports-hub/">98.5 The Sports Hub</a></li>
+</ul></div></div><div class="menu-block"><div class="title">Eat.See.Play</div><div class="menu-footer-eat-see-play-container"><ul id="menu-footer-eat-see-play" class="footer-navigation nav-footer-list-3"><li id="menu-item-775087" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-775087"><a href="http://boston.cbslocal.com/category/eat-see-play/eat/">Eat</a></li>
+<li id="menu-item-775090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-775090"><a href="http://boston.cbslocal.com/category/eat-see-play/see/">See</a></li>
+<li id="menu-item-775091" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-775091"><a href="http://boston.cbslocal.com/category/eat-see-play/play/">Play</a></li>
+</ul></div></div><div class="menu-block"><div class="title">Connect</div><div class="menu-footer-connect-container"><ul id="menu-footer-connect" class="footer-navigation nav-footer-list-4"><li id="menu-item-669493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669493"><a href="http://boston.cbslocal.com/social">Social</a></li>
+<li id="menu-item-669495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669495"><a href="http://boston.cbslocal.com/newsletter/signup/">Email Newsletters</a></li>
+<li id="menu-item-669496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669496"><a href="http://apps.cbslocal.com/">Download Our App</a></li>
+</ul></div></div><div class="menu-block"><div class="title">Contacts &amp; Station Info</div><div class="menu-footer-contacts-station-info-container"><ul id="menu-footer-contacts-station-info" class="footer-navigation nav-footer-list-5"><li id="menu-item-669503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669503"><a href="http://boston.cbslocal.com/station/wbz-tv/">WBZ-TV</a></li>
+<li id="menu-item-669504" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669504"><a href="http://boston.cbslocal.com/station/tv38/">myTV38</a></li>
+<li id="menu-item-669505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669505"><a href="http://boston.cbslocal.com/station/wbz-news-radio/">WBZ NewsRadio</a></li>
+<li id="menu-item-669506" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669506"><a href="http://boston.cbslocal.com/station/985-the-sports-hub/">98.5 The Sports Hub</a></li>
+</ul></div></div><div class="menu-block"><div class="title">Corporate</div><div class="menu-footer-corporate-container"><ul id="menu-footer-corporate" class="footer-navigation nav-footer-list-6"><li id="menu-item-669507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669507"><a href="http://boston.cbslocal.com/about-us/">About Us</a></li>
+<li id="menu-item-669508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669508"><a href="http://boston.cbslocal.com/about-us/advertising-basics/">Advertise</a></li>
+<li id="menu-item-738000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738000"><a href="http://policies.cbslocal.com/privacy/current.html#onlinead">Ad Choices</a></li>
+<li id="menu-item-669509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-669509"><a href="http://boston.cbslocal.com/about-us/contact-us/">Contact Us</a></li>
+<li id="menu-item-675626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-675626"><a href="http://boston.cbslocal.com/category/only-cbs/">Only CBS</a></li>
+<li id="menu-item-737999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-737999"><a href="http://boston.cbslocal.com/eeo-reports/">EEO Reports</a></li>
+<li id="menu-item-738001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738001"><a href="http://policies.cbslocal.com/fcc/boston.television.html">CBS Television Public File</a></li>
+<li id="menu-item-749787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-749787"><a href="http://policies.cbslocal.com/fcc/boston.radio.html">CBS Radio Public File</a></li>
+</ul></div></div>				</div>
+					</section>
+	
+			<section class="bottom">
+			<a href="http://boston.cbslocal.com" class="logo"><img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/plugins/modules/theme-manager/images/cbs-local-logo-white.png" alt="CBS Boston" /></a>
+			<div class="copyright-wrapper">
+								<span class="copyright">&copy;2017 CBS Broadcasting Inc. All Rights Reserved.</span>
+
+									<span class="powered-by-wordpress">
+						Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a>					</span>
+							</div>
+
+			<div class="right-wrapper">
+									<div class="terms-of-use">By viewing our video content, you are accepting the terms of our <a href="http://policies.cbslocal.com/privacy-june-2015/current.html#video-services" target="_blank" title="Video Services Policy">Video Services Policy</a></div>
+								<ul id="menu-final-footer-menu" class="nav-final-footer"><li id="menu-item-285543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-285543"><a href="http://policies.cbslocal.com/privacy/current.html">Privacy Policy</a></li>
+<li id="menu-item-285544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-285544"><a href="http://policies.cbslocal.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-652005" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-652005"><a href="http://policies.cbslocal.com/privacy/current.html#cali-visitors">Your California Privacy Rights</a></li>
+<li id="menu-item-652007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-652007"><a href="http://policies.cbslocal.com/mobile-app-agreement/">Mobile User Agreement</a></li>
+</ul>			</div>
+
+					</section>
+	</footer>
+
+<!--PARTNER SCRIPTS START-->
+<div class="cbs-ad-unit-wrapper"><div id="ad_34" class="cbs-ad-unit ad_gpt" data-id="34" data-max-width="1" data-max-height="4"></div></div><div class="cbs-ad-unit-wrapper"><div id="ad_35" class="cbs-ad-unit ad_gpt" data-id="35" data-max-width="1" data-max-height="8"></div></div><div class="cbs-ad-unit-wrapper"><div id="ad_36" class="cbs-ad-unit ad_gpt" data-id="36" data-max-width="1" data-max-height="6"></div></div><div class="cbs-ad-unit-wrapper"><div id="ad_37" class="cbs-ad-unit ad_gpt" data-id="37" data-max-width="1" data-max-height="7"></div></div>
+<!--PARTNER SCRIPTS END-->
+
+
+</div>
+
+<!-- wpcom_wp_footer -->
+
+<!-- AddThis Button Begin -->
+<script type="text/javascript">var addthis_product = 'wpp-261';
+var addthis_config = {"data_track_clickback":true};if (typeof(addthis_share) == "undefined"){ addthis_share = {"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{"login":"cbslocal","apiKey":"R_bfe2742f79bb4091b0fcfbdf5c6a81ca"}}};}</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ddd05dc24272928"></script>		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201708y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/cbsboston.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/cbsboston.wordpress.com\/wp-login.php?action=logout&_wpnonce=769c8a4cfc","homeURL":"http:\/\/boston.cbslocal.com\/","postID":"805342","gravDefault":"mystery","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"1","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h'></script>
+<link rel='stylesheet' id='all-css-0-3' href='https://s0.wp.com/wp-content/themes/vip/cbs-local/plugins/modules/partners/css/partners.css?m=1483458356h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJx9jkEOwiAQRS8kjq1NdGM8yxQmFoQpMkD19lIXxrjobvL/fy8DS1R65kycwQkYqlZTfO6d7OCnCkVFX26WBby9k8CjUKEJ2XhK/+M8UWiTaiPoUZSfNfpVLmVkrBvqXq2M+6AKGf0rWy0bAJpgWY2YIKBkSu1Sc6WUrGkPfLNmuIZLN5wOw3Hozr17A3jgWrE='></script>
+<script type='text/javascript' src='http://boston.cbslocal.us.intellitxt.com/ast/js/CBSLocal/CBSLocal_Boston_cs.js?ver=1.0.0'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'3859903','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'3859903','v':'wpcom','tz':'-5','user_id':'0','post':'805342','subd':'cbsboston'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=3859903&v=wpcomvt&tz=-5&user_id=0&post=805342&subd=cbsboston&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdocExCODFfQnlZTGxWLFVFPVlVSzZxZ0xDODBzU3dseGF2Z3Aldm83QXBWbEpCP0NYUXRhZ0dEUk5iMjJoeUgzJkVaS2UwVzgmeDh0JnxLX2xEZEkyUkpvOUhLamJTL00vcllta35kYnNTa1JCckdPTV9UZUZNaDglXUV0M2Y0MS8uZGRbSTMyZnQ9cH5TMS9wOXFvcT0wLDRVXzZtPWhVcEIyZ3xFUnx8ajNhc1JQfDR4cHpNTkJWTSwrZE9u'}]);
+_stq.push([ 'clickTrackerInit', '3859903', '805342' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+
+<script type="text/javascript">window._taboola = window._taboola || [];_taboola.push({article:"auto"});!function (e, f, u, i) {if (!document.getElementById(i)){e.async = 1;e.src = u;e.id = i;f.parentNode.insertBefore(e, f);}}(document.createElement("script"),document.getElementsByTagName("script")[0],"//cdn.taboola.com/libtrc/cbslocal-network/loader.js","tb_loader_script");</script>
+<script type="text/javascript">
+	var cbs_market_root = 'http://boston.cbslocal.com';
+	var cbs_template_root = 'https://s0.wp.com/wp-content/themes/vip/cbs-local';
+	var cbs_market_gmt_offset = -18000;
+
+	var site_url = 'http://boston.cbslocal.com';
+
+	var cbs_sso_url_base = "https://my.cbslocal.com";
+_taboola.push({mode:"thumbnails-a",container: "taboola-block-1",placement: "Below Article Thumbnails",target_type: "mix"});_taboola.push({flush: true});
+	jQuery(function($) {
+		cbs_lib.weather_widget("#page-header #component-weather");
+
+cbs_adhesive.add( '#main-story .social-buttons', 'main-story', '#main-story', 'activator-top' );
+cbs_adhesive.add( '.sidebar-adhesive-ad', 'sidebar', '.page-columns', 'activator-top' );
+$('.ev-container.ev-article-rec').on('evComplete', function(event, param) {cbs_adhesive.add( '#ev-rightrail-widget-id .ev-container .cbs-articles:nth-child(0n+3)', 'sidebar', '.page-columns', 'activator-top' );
+cbs_adhesive.add( '#ev-rightrail-widget-id .ev-container .cbs-powered', 'sidebar', '.page-columns', 'activator-top' );
+});
+	});
+
+	jQuery(function($) { jQuery(window).load(function () { setTimeout(function () {
+			}, 500); }); });
+
+	jQuery(function($) { jQuery(window).load(function () { setTimeout(function () {
+		cbs_lib.load_script("//native.sharethrough.com/assets/sfp.js");
+
+		var user_info = decodeURI(cbs_lib.get_cookie('sso-userdata'));
+		var user_data_string = '';
+
+		//Make sure the cookie exists and make sure it is not set to empty after loggin out.
+		if (typeof user_info !== 'undefined' && typeof user_info !== null && user_info) {
+			var user_data_obj = JSON.parse(user_info);
+
+			if (user_data_obj) {
+				if (user_data_obj.hasOwnProperty('ZipCode')) {
+					user_data_string += '&zip=' + encodeURIComponent(user_data_obj.ZipCode);
+				}
+				if (user_data_obj.hasOwnProperty('Gender')) {
+					user_data_string += '&gd=' + encodeURIComponent(user_data_obj.Gender);
+				}
+				if (user_data_obj.hasOwnProperty('Age')) {
+					user_data_string += '&ag=' + encodeURIComponent(user_data_obj.Age);
+				}
+			}
+		}
+
+		cbs_lib.load_script("https:\/\/loadus.exelator.com\/load\/?j=d&p=279&g=003&global=cbslocal&interface=site&station=http%3A%2F%2Fboston.cbslocal.com&subctg1=local&subcategory=local&ctg1=news&category=news%2Csyndicated-local&ctg2=syndicated-local&location=boston&type=local&group=swtv&tit=patriots-bill-belichick-aaron-hernandez-witness-murder-trial" + user_data_string);
+
+		}, 5000); }); });
+
+</script>
+
+	
+			
+		<script type="text/javascript">
+			var use_ga = true;
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+
+		<script type="text/javascript">
+			try {
+				var is_logged_in = false;
+
+				var rollupTracker = _gat._getTracker("UA-2438645-53"); rollupTracker._setCustomVar(1, "User Type", is_logged_in ? "User" : "Guest", 2); rollupTracker._trackPageview();
+				var pageTracker = _gat._getTracker("UA-17434257-42"); pageTracker._setCustomVar(1, "User Type", is_logged_in ? "User" : "Guest", 2);
+				pageTracker._trackPageview("/category/news" + window.location.pathname + "?cat=local;cat=news;cat=syndicated-local;");
+			}
+			catch(err) {}
+		</script>
+
+			
+		<script type="text/javascript">
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "3000023"
+									,options: { url_append: "comscorekw=news" }
+							});
+			(function() {
+				var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=3000023&cv=2.0&cj=1" /></noscript>
+
+	
+			<script type='text/javascript'>
+			var $cbs_adobe_analytics = new Object();
+							$cbs_adobe_analytics.market = 'Boston';
+							$cbs_adobe_analytics.dom = 'boston.cbslocal.com';
+							$cbs_adobe_analytics.exp = 'desktop';
+							$cbs_adobe_analytics.subprim = 'swtv';
+							$cbs_adobe_analytics.url = 'http://boston.cbslocal.com/2017/02/22/patriots-bill-belichick-aaron-hernandez-witness-murder-trial/';
+							$cbs_adobe_analytics.conttype = 'article';
+							$cbs_adobe_analytics.cat1 = 'analytics-article|news|local|syndicated-local|aaron-hernandez|beth-germano|bill-belichick|new-england-patriots';
+							$cbs_adobe_analytics.pn = 'article|Patriots Coach Bill Belichick Could Be Called As Witness In Aaron Hernandez Murder Trial';
+							$cbs_adobe_analytics.featured_media_type = 'anvato';
+					</script>
+		<script type='text/javascript'>_satellite.pageBottom();</script>
+	
+	<!-- Moat and Cloudfront tracking pixels -->
+	<img src="//dbg52463.moatads.com?a=033f43a2ddba4ba592b52109d2ccf5ed" style="display:none;"> 
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=033f43a2ddba4ba592b52109d2ccf5ed" style="display:none;">
+	
+		<script type="text/javascript">
+		(function(d, s, id) { 
+			var js, evjs = d.getElementsByTagName(s)[0]; 
+			if (d.getElementById(id)) return; 
+			js = d.createElement(s); js.id = id; 
+			js.src = "//s1.evcdn.com/store/plugins/tracker-ev-sdk.js"; 
+			evjs.parentNode.insertBefore(js, evjs); 
+		}(document, 'script', 'tracker-ev-sdk'));
+	</script>
+
+			<div id="listen-live-wrapper">
+			<div class="listen-live">
+				<div class="header">
+					<div class="listen-live-logo"></div>
+					<h3>Listen Live</h3>
+											<div class="sponsor">
+							<div class="cbs-ad-unit-wrapper"><div id="ad_listenlive" class="cbs-ad-unit ad_gpt listen-live-sponsor cbs-ad-auto-center" data-id="38" data-max-width="88" data-max-height="31"></div></div>						</div>
+														</div>
+				<div class="listen-live-content">
+					<div class="lead-wrapper">
+													<h4>AM/FM Stations</h4>
+										
+							<ul class="stations">
+
+																	
+									
+									<li class="list-item station-count-5"><a href="http://player.radio.com/listen/station/mix-1041" target="_blank" title="Mix 104.1" class="cbs-thumbnail-link station-count-5" ><div class="thumbnail-wrapper"><img width="272" height="272" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2015/05/mix_104-1.png?w=272" class="thumbnail station-count-5 wp-post-image" alt="mix_104-1" srcset="https://cbsboston.files.wordpress.com/2015/05/mix_104-1.png?w=272 272w, https://cbsboston.files.wordpress.com/2015/05/mix_104-1.png?w=150 150w, https://cbsboston.files.wordpress.com/2015/05/mix_104-1.png 300w" sizes="(max-width: 272px) 100vw, 272px" /></div><div class="title-wrapper"><strong class="title">Mix 104.1</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item station-count-5"><a href="http://player.radio.com/listen/station/1033-amp-radio" target="_blank" title="AMP 103.3" class="cbs-thumbnail-link station-count-5" ><div class="thumbnail-wrapper"><img width="272" height="272" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2015/05/amp_103-3.png?w=272" class="thumbnail station-count-5 wp-post-image" alt="AMP_103-3" srcset="https://cbsboston.files.wordpress.com/2015/05/amp_103-3.png?w=272 272w, https://cbsboston.files.wordpress.com/2015/05/amp_103-3.png?w=150 150w, https://cbsboston.files.wordpress.com/2015/05/amp_103-3.png 300w" sizes="(max-width: 272px) 100vw, 272px" /></div><div class="title-wrapper"><strong class="title">AMP 103.3</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item station-count-5"><a href="http://player.radio.com/listen/station/1007-wzlx" target="_blank" title="100.7 WZLX" class="cbs-thumbnail-link station-count-5" ><div class="thumbnail-wrapper"><img width="272" height="272" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2015/05/100-7_wzlx-classicrock.png?w=272" class="thumbnail station-count-5 wp-post-image" alt="100-7_WZLX-classicRock" srcset="https://cbsboston.files.wordpress.com/2015/05/100-7_wzlx-classicrock.png?w=272 272w, https://cbsboston.files.wordpress.com/2015/05/100-7_wzlx-classicrock.png?w=150 150w, https://cbsboston.files.wordpress.com/2015/05/100-7_wzlx-classicrock.png 300w" sizes="(max-width: 272px) 100vw, 272px" /></div><div class="title-wrapper"><strong class="title">100.7 WZLX</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item station-count-5"><a href="http://player.radio.com/listen/station/985-the-sports-hub" target="_blank" title="98.5 The Sports Hub" class="cbs-thumbnail-link station-count-5" ><div class="thumbnail-wrapper"><img width="272" height="272" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2015/05/98-5_sportshub.png?w=272" class="thumbnail station-count-5 wp-post-image" alt="98-5_SportsHub" srcset="https://cbsboston.files.wordpress.com/2015/05/98-5_sportshub.png?w=272 272w, https://cbsboston.files.wordpress.com/2015/05/98-5_sportshub.png?w=150 150w, https://cbsboston.files.wordpress.com/2015/05/98-5_sportshub.png 300w" sizes="(max-width: 272px) 100vw, 272px" /></div><div class="title-wrapper"><strong class="title">98.5 The Sports Hub</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item station-count-5"><a href="http://player.radio.com/listen/station/wbz-newsradio-1030" target="_blank" title="WBZ News Radio" class="cbs-thumbnail-link station-count-5" ><div class="thumbnail-wrapper"><img width="272" height="272" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2015/05/wbz_1030.png?w=272" class="thumbnail station-count-5 wp-post-image" alt="WBZ_1030" srcset="https://cbsboston.files.wordpress.com/2015/05/wbz_1030.png?w=272 272w, https://cbsboston.files.wordpress.com/2015/05/wbz_1030.png?w=150 150w, https://cbsboston.files.wordpress.com/2015/05/wbz_1030.png 300w" sizes="(max-width: 272px) 100vw, 272px" /></div><div class="title-wrapper"><strong class="title">WBZ News Radio</strong></div></a></li>
+								
+															</ul>
+
+						
+													
+															
+								
+								<div class="">
+								
+															
+							<h4>Featured Shows &amp; Multimedia</h4>
+							
+							<ul class="featured-posts">
+								
+																	
+									
+									<li class="list-item"><a href="http://www1.play.it/audio/" target="_blank" title="Play.It" class="cbs-thumbnail-link thumbnail" ><div class="thumbnail-wrapper"><img width="200" height="113" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2015/05/play-it-bar.jpeg?w=200" class="thumbnail wp-post-image" alt="Play.it Bar" /></div><div class="title-wrapper"><strong class="title">Play.It</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item"><a href="http://player.radio.com/listen/station/cbs-sports-radio" title="CBS Sports Radio" class="cbs-thumbnail-link thumbnail" ><div class="thumbnail-wrapper"><img width="200" height="113" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2015/05/balt_live_234x132.png?w=200" class="thumbnail wp-post-image" alt="balt_live_234x132" srcset="https://cbsboston.files.wordpress.com/2015/05/balt_live_234x132.png?w=200 200w, https://cbsboston.files.wordpress.com/2015/05/balt_live_234x132.png 234w" sizes="(max-width: 200px) 100vw, 200px" /></div><div class="title-wrapper"><strong class="title">CBS Sports Radio</strong></div></a></li>
+								
+																	
+									
+									<li class="list-item"><a href="http://radio.com/" title="Radio.com" class="cbs-thumbnail-link thumbnail" ><div class="thumbnail-wrapper"><img width="200" height="113" src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/global/blank_1x1.gif" data-src="https://cbsboston.files.wordpress.com/2015/05/always-radiocom.png?w=200" class="thumbnail wp-post-image" alt="always-radioCom" srcset="https://cbsboston.files.wordpress.com/2015/05/always-radiocom.png?w=200 200w, https://cbsboston.files.wordpress.com/2015/05/always-radiocom.png 300w" sizes="(max-width: 200px) 100vw, 200px" /></div><div class="title-wrapper"><strong class="title">Radio.com</strong></div></a></li>
+								
+													
+							</ul>
+
+															</div>
+							
+											
+					</div>
+
+					<a href="https://www.audioadcenter.com/" class="advertise-on-our-streams" target="_blank">Advertise On Our Streams</a>
+				</div>
+			</div>
+		</div>
+		
+		
+	<div id="ad_skin_1" class="cbs-ad-unit ad_gpt cbs-ad-skin"></div>
+<script type="text/javascript">//<![CDATA[
+	var ads_cluster = new Array();
+	var ad_skin_1 = null;
+	cbs_ads_zone = "news";
+	cbs_ads_tags = ["post","patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial","local","news","syndicatedlocal","aaronhernandez","bethgermano","billbelichick","newenglandpatriots","news","featuredvideo"];
+	cbs_partner_inject();
+
+	ybotq.push(function() { 
+		yieldbot.pub("f211");
+		yieldbot.defineSlot("ad_1");
+		yieldbot.defineSlot("ad_2");
+		yieldbot.enableAsync();
+		yieldbot.go();
+	});
+
+	ybotq.push(function() { googletag.cmd.push(function() {
+
+		googletag.pubads().enableAsyncRendering();
+		ads_cluster["ad_10"] = googletag.defineSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", [[120,60]], "ad_10").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("loc", "header").setTargeting("pos", 10).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("refresh", "0").setCollapseEmptyDiv(true);
+		ads_cluster["ad_1"] = googletag.defineSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", [[970,66],[728,90],[970,250]], "ad_1").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("loc", "top").setTargeting("pos", 1).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("refresh", "0").setCollapseEmptyDiv(true);
+		ad_skin_1 = googletag.defineOutOfPageSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", "ad_skin_1").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("refresh", "0");
+		ads_cluster["ad_31"] = googletag.defineSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", [[1,5]], "ad_31").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("pos", 31).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("strnativekey", "d3da4d50").setTargeting("refresh", "0").setCollapseEmptyDiv(true);
+		ads_cluster["ad_32"] = googletag.defineSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", [[88,31]], "ad_32").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags.concat(["listenlivebutton"])).setTargeting("pos", 32).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("refresh", "0").setCollapseEmptyDiv(true);
+		ads_cluster["ad_2"] = googletag.defineSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", [[300,250],[300,600],[300,1050]], "ad_2").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("loc", "top").setTargeting("pos", 2).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("refresh", "0").setCollapseEmptyDiv(true);
+		ads_cluster["ad_33"] = googletag.defineSlot("/4128/CBS.BOSTON/adhesion/" + cbs_ads_zone + "", [[300,250]], "ad_33").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("loc", "adhesion").setTargeting("pos", 33).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("refresh", "0").setCollapseEmptyDiv(true);
+		ads_cluster["ad_4"] = googletag.defineSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", [[728,90]], "ad_4").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("loc", "bottom").setTargeting("pos", 4).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("refresh", "0").setCollapseEmptyDiv(true);
+		ads_cluster["ad_34"] = googletag.defineSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", [[1,4]], "ad_34").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("pos", 34).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("refresh", "0").setCollapseEmptyDiv(true);
+		ads_cluster["ad_35"] = googletag.defineSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", [[1,8]], "ad_35").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("pos", 35).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("refresh", "0").setCollapseEmptyDiv(true);
+		ads_cluster["ad_36"] = googletag.defineSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", [[1,6]], "ad_36").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("pos", 36).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("refresh", "0").setCollapseEmptyDiv(true);
+		ads_cluster["ad_37"] = googletag.defineSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", [[1,7]], "ad_37").addService(googletag.pubads()).setTargeting("tag", cbs_ads_tags).setTargeting("pos", 37).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("refresh", "0").setCollapseEmptyDiv(true);
+		
+		yieldbot.setSlotTargeting("ad_1", ads_cluster["ad_1"]);
+		yieldbot.setSlotTargeting("ad_2", ads_cluster["ad_2"]);
+
+		googletag.enableServices();
+
+		googletag.display("ad_10");
+		googletag.display("ad_1");
+		googletag.display("ad_skin_1");
+		googletag.display("ad_31");
+		googletag.display("ad_32");
+		googletag.display("ad_2");
+		googletag.display("ad_33");
+		googletag.display("ad_4");
+		googletag.display("ad_34");
+		googletag.display("ad_35");
+		googletag.display("ad_36");
+		googletag.display("ad_37");
+
+		ad_refresh_interval = setInterval(function(){
+			googletag.pubads().updateCorrelator();
+
+amznads.getAdsCallback("3063", function() {amznads.setTargetingForGPTAsync("amznslots");
+cbs_ad_refresh_count++;
+
+			yieldbot.setSlotTargeting("ad_1", ads_cluster["ad_1"]);
+		googletag.pubads().clear([ads_cluster["ad_1"]]);ads_cluster["ad_1"].setTargeting("refresh", cbs_ad_refresh_count.toString());googletag.pubads().refresh([ads_cluster["ad_1"]], {changeCorrelator: false});
+			googletag.pubads().clear([ad_skin_1]);ad_skin_1.setTargeting("refresh", cbs_ad_refresh_count.toString());googletag.pubads().refresh([ad_skin_1], {changeCorrelator: false});
+			yieldbot.setSlotTargeting("ad_2", ads_cluster["ad_2"]);
+		googletag.pubads().clear([ads_cluster["ad_2"]]);ads_cluster["ad_2"].setTargeting("refresh", cbs_ad_refresh_count.toString());googletag.pubads().refresh([ads_cluster["ad_2"]], {changeCorrelator: false});
+			googletag.pubads().clear([ads_cluster["ad_33"]]);ads_cluster["ad_33"].setTargeting("refresh", cbs_ad_refresh_count.toString());googletag.pubads().refresh([ads_cluster["ad_33"]], {changeCorrelator: false});
+			googletag.pubads().clear([ads_cluster["ad_4"]]);ads_cluster["ad_4"].setTargeting("refresh", cbs_ad_refresh_count.toString());googletag.pubads().refresh([ads_cluster["ad_4"]], {changeCorrelator: false});
+
+});googletag.pubads().clearTargeting("amznslots");
+
+			cbs_ads.set_top_728x90_ad_adhesive_reset();
+		}, 240000);
+
+
+	}); });
+
+
+	function cbs_run_ad_listenlive() { 
+		var is_refresh = false;
+		if (ads_cluster["ad_listenlive"]) {
+			googletag.cmd.push(function() { (ads_cluster["ad_listenlive"]).clearTargeting(); });
+			is_refresh = true;
+		} else {
+			googletag.cmd.push(function() { ads_cluster["ad_listenlive"] = googletag.defineSlot("/4128/CBS.BOSTON/" + cbs_ads_zone + "", [[88,31]], "ad_listenlive").addService(googletag.pubads())});
+		}
+		googletag.cmd.push(function() { (ads_cluster["ad_listenlive"]).setTargeting("tag", cbs_ads_tags.concat(["listenliveoverlay"])).setTargeting("pos", 38).setTargeting("type", "post").setTargeting("title", "patriotscoachbillbelichickcouldbecalledaswitnessinaaronhernandezmurdertrial").setTargeting("refresh", "0").setCollapseEmptyDiv(true); });
+		if (is_refresh) googletag.cmd.push(function() { googletag.pubads().refresh([ads_cluster["ad_listenlive"]]); });
+		else googletag.cmd.push(function() { googletag.display("ad_listenlive"); });
+	}
+//]]></script>
+
+</body>
+</html>
