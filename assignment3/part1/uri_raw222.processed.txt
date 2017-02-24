@@ -1,0 +1,75 @@
+   #[1]SoundCloud search [2]alternate [3]alternate [4]alternate
+   [5]alternate [6]alternate
+
+   [7]SoundCloud
+   [loader-dark-45940ae3.gif]
+
+   JavaScript is disabled
+
+   You need to enable JavaScript to use SoundCloud
+   [8]Show me how to enable it
+
+[9]His Journey by [10]GXXD.FXXD.
+
+   published on 2016-02-08T05:26:51Z
+
+   His Journey
+
+   Genre
+          [11]Hip Hop
+
+Comment by [12]Joel Santiago 25
+
+   this shit is nasty
+   2017/02/21 04:51:09 +0000
+
+Comment by [13]Guido's Lounge Café
+
+   Love it :)
+   2017/02/21 04:19:18 +0000
+     * [14]Users who like His Journey
+     * [15]Users who reposted His Journey
+     * [16]Playlists containing His Journey
+     * [17]Groups containing His Journey
+     * [18]More tracks like His Journey
+
+   License: all-rights-reserved
+
+   Your current browser isn't compatible with SoundCloud.
+   Please download one of our supported browsers. [19]Need help?
+   [20]Chrome | [21]Firefox | [22]Safari | [23]Internet Explorer
+
+   Sorry! Something went wrong
+
+   Is your network connection unstable or browser outdated?
+   [24]I need help
+
+   [25]Popular searches
+
+References
+
+   1. file:///sc-opensearch.xml
+   2. https://m.soundcloud.com/gxxdfxxd/his-journey
+   3. https://soundcloud.com/oembed?url=https://soundcloud.com/gxxdfxxd/his-journey&format=xml
+   4. https://soundcloud.com/oembed?url=https://soundcloud.com/gxxdfxxd/his-journey&format=json
+   5. android-app://com.soundcloud.android/soundcloud/sounds:245986365
+   6. ios-app://336353151/soundcloud/sounds:245986365
+   7. file:///
+   8. http://www.enable-javascript.com/
+   9. file:///gxxdfxxd/his-journey
+  10. file:///gxxdfxxd
+  11. file:///tags/Hip Hop
+  12. file:///joel-santiago-27
+  13. file:///guidosloungecafe
+  14. file:///gxxdfxxd/his-journey/likes
+  15. file:///gxxdfxxd/his-journey/reposts
+  16. file:///gxxdfxxd/his-journey/sets
+  17. file:///gxxdfxxd/his-journey/groups
+  18. file:///gxxdfxxd/his-journey/recommended
+  19. http://help.soundcloud.com/customer/portal/articles/552882-the-site-won-t-load-for-me-all-i-see-is-the-soundcloud-logo-what-can-i-do-
+  20. http://google.com/chrome
+  21. http://firefox.com/
+  22. http://apple.com/safari
+  23. http://windows.microsoft.com/ie
+  24. http://help.soundcloud.com/
+  25. file:///popular/searches

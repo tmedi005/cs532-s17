@@ -1,0 +1,767 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+    <title>Patriots coach could be called as witness in Aaron Hernandez murder trial | Breaking US news</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://thetruth24.net/xmlrpc.php" />
+    <meta name="author" content="CBS News">
+<link rel="alternate" type="application/rss+xml" title="Breaking US news &raquo; Feed" href="https://thetruth24.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Breaking US news &raquo; Comments Feed" href="https://thetruth24.net/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Breaking US news &raquo; Patriots coach could be called as witness in Aaron Hernandez murder trial Comments Feed" href="https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/thetruth24.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://thetruth24.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_automatic_gallery_style-css'  href='https://thetruth24.net/wp-content/plugins/wp-automatic/css/wp-automatic.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_open_sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&#038;ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C500italic%2C400%2C300&#038;ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://thetruth24.net/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='https://thetruth24.net/wp-content/themes/Newspaper/style.css?ver=6.6.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://thetruth24.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://thetruth24.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://thetruth24.net/wp-content/plugins/wp-automatic/js/main-front.js?ver=4.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FlowFlowOpts = {"streams":{},"open_in_new":"nope","filter_all":"All","filter_search":"Search","expand_text":"Expand","collapse_text":"Collapse","posted_on":"Posted on","show_more":"Show more","date_style":"agoStyleDate","dates":{"Yesterday":"Yesterday","s":"s","m":"m","h":"h","ago":"ago","months":["Jan","Feb","March","April","May","June","July","Aug","Sept","Oct","Nov","Dec"]},"lightbox_navigate":"Navigate with arrow keys","server_time":"1487835525","forceHTTPS":"nope","isAdmin":"","ajaxurl":"https:\/\/thetruth24.net\/wp-admin\/admin-ajax.php","isLog":"","plugin_base":"https:\/\/thetruth24.net\/wp-content\/plugins\/flow-flow","plugin_ver":"2.5.1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thetruth24.net/wp-content/plugins/flow-flow/js/require-utils.js?ver=2.5.1'></script>
+<link rel='https://api.w.org/' href='https://thetruth24.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thetruth24.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://thetruth24.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='&#8220;THE FIRST 100 DAYS&#8221; Huckabee — Opposition to Trump&#8221;s immigration policies is &#8220;manufactured outrage&#8221; Krauthammer to Trump &#8220;Fix the vetting&#8221; and forget about banning immigration' href='https://thetruth24.net/2017/02/23/the-first-100-days-huckabee--opposition-to-trumps-immigration-policies-is-manufactured-outrage-krauthammer-to-trump-fix-the-vetting-and-forget-about-banning-immigration/' />
+<link rel='next' title='Scientists warn of threats to oceans&#8221; &#8220;superzoos&#8221;' href='https://thetruth24.net/2017/02/23/scientists-warn-of-threats-to-oceans-superzoos/' />
+<meta name="generator" content="WordPress 4.5.3" />
+<link rel='shortlink' href='https://thetruth24.net/?p=325027' />
+<link rel="alternate" type="application/json+oembed" href="https://thetruth24.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthetruth24.net%2F2017%2F02%2F23%2Fpatriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://thetruth24.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthetruth24.net%2F2017%2F02%2F23%2Fpatriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial%2F&#038;format=xml" />
+<!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta property="fb:app_id" content="918544844933780"/><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://thetruth24.net/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://thetruth24.net/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Patriots coach could be called as witness in Aaron Hernandez murder trial" />
+<meta property="og:url" content="https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/" />
+<meta property="og:description" content="BOSTON &#8212; New England Patriots head coach Bill Belichick could be called as a witness in the double murder trial of Aaron Hernandez, according to court documents released Wednesday, CBS Boston…" />
+<meta property="article:published_time" content="2017-02-23T02:24:32+00:00" />
+<meta property="article:modified_time" content="-001-11-30T00:00:00+00:00" />
+<meta property="og:site_name" content="Breaking US news" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary" />
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+var tdBlocksArray = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function tdBlock() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+    this.td_filter_value = ''; //current live filter value
+    this.is_ajax_running = false;
+    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+    this.header_color = '';
+    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+}
+
+    
+    
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .post img";
+var td_ajax_url="https:\/\/thetruth24.net\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=6.6.5";
+var td_get_template_directory_uri="https:\/\/thetruth24.net\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="9";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61881436-1', 'auto');
+  ga('send', 'pageview');
+
+</script><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2615317486735902",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+
+<body class="single single-post postid-325027 single-format-standard patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial wpb-js-composer js-comp-ver-4.9.2 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+
+<div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+
+<div id="td-outer-wrap">
+
+    <div class="td-transition-content-and-menu td-mobile-nav-wrap">
+        <div id="td-mobile-nav">
+    <!-- mobile menu close -->
+    <div class="td-mobile-close">
+        <a href="#">CLOSE</a>
+        <div class="td-nav-triangle"></div>
+    </div>
+
+    <div class="td-mobile-content">
+        <div class="menu-main-container"><ul id="menu-main" class=""><li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first menu-item-9"><a href="http://104.154.40.118/">Home</a></li>
+<li id="menu-item-4714" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4714"><a href="https://thetruth24.net/category/domesticnews/">Local</a></li>
+<li id="menu-item-25788" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25788"><a href="https://thetruth24.net/category/foxsports/">Sports</a></li>
+<li id="menu-item-4713" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4713"><a href="https://thetruth24.net/category/worldnews/">World</a></li>
+<li id="menu-item-302517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302517"><a href="https://thetruth24.net/contact-us-2/">Contact Us</a></li>
+</ul></div>    </div>
+</div>    </div>
+
+        <div class="td-transition-content-and-menu td-content-wrap">
+
+
+
+<!--
+Header style 9
+-->
+
+<div class="td-header-wrap td-header-style-9">
+
+    <div class="td-header-top-menu-full">
+        <div class="td-container td-header-row td-header-top-menu">
+            
+    <div class="top-bar-style-1">
+        
+<div class="td-header-sp-top-menu">
+
+
+	</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="td-banner-wrap-full td-logo-wrap-full">
+        <div class="td-header-sp-logo">
+                <span class="logo-text-container">
+		<a class="td-logo-wrap" href="https://thetruth24.net/">
+			<span class="td-logo-text">TheTruth24.net</span>
+			<span class="td-tagline-text">DISCOVER THE ART OF PUBLISHING</span>
+		</a>
+    </span>
+	        </div>
+    </div>
+
+    <div class="td-header-menu-wrap-full">
+        <div class="td-header-menu-wrap td-header-gradient">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div id="td-header-menu">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo">
+            </div>
+    <div class="menu-main-container"><ul id="menu-main-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-menu-item td-normal-menu menu-item-9"><a href="http://104.154.40.118/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4714"><a href="https://thetruth24.net/category/domesticnews/">Local</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-25788"><a href="https://thetruth24.net/category/foxsports/">Sports</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4713"><a href="https://thetruth24.net/category/worldnews/">World</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-302517"><a href="https://thetruth24.net/contact-us-2/">Contact Us</a></li>
+</ul></div></div>
+
+
+<div class="td-search-wrapper">
+    <div id="td-top-search">
+        <!-- Search -->
+        <div class="header-search-wrap">
+            <div class="dropdown header-search">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header-search-wrap">
+	<div class="dropdown header-search">
+		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+			<form role="search" method="get" class="td-search-form" action="https://thetruth24.net/">
+				<div class="td-head-form-search-wrap">
+					<input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+				</div>
+			</form>
+			<div id="td-aj-search"></div>
+		</div>
+	</div>
+</div>            </div>
+        </div>
+    </div>
+
+    <div class="td-banner-wrap-full td-banner-bg">
+        <div class="td-container-header td-header-row td-header-header">
+            <div class="td-header-sp-recs">
+                <div class="td-header-rec-wrap">
+    
+</div>            </div>
+        </div>
+    </div>
+
+</div><div class="td-main-content-wrap">
+
+    <div class="td-container td-post-template-default ">
+        <div class="td-crumb-container"><div class="entry-crumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="https://thetruth24.net/"><span itemprop="title">Home</span></a></span> <i class="td-icon-right td-bread-sep"></i> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="View all posts in News" class="entry-crumb" itemprop="url" href="https://thetruth24.net/category/news/"><span itemprop="title">News</span></a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content = "Patriots coach could be called as witness in Aaron Hernandez murder trial"><meta itemprop="url" content = "https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/">Patriots coach could be called as witness in Aaron Hernandez murder trial</span></div></div>
+
+        <div class="td-pb-row">
+<div style="width:800px; margin:0 auto;">
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- banner336x280 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-2615317486735902"
+     data-ad-slot="1401176598"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br>
+</div>
+
+                                    <div class="td-pb-span8 td-main-content" role="main">
+                            <div class="td-ss-main-content">
+                                
+    <article id="post-325027" class="post-325027 post type-post status-publish format-standard hentry category-news" itemscope itemtype="https://schema.org/Article">
+        <div class="td-post-header">
+
+            
+            <header class="td-post-title">
+                <h1 class="entry-title">Patriots coach could be called as witness in Aaron Hernandez murder trial</h1>
+
+                
+
+                <div class="td-module-meta-info">
+                    <div class="td-post-author-name">By <a href="https://thetruth24.net/author/cbs-news/">CBS News</a> - </div>                    <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-23T02:24:32+00:00" >February 23, 2017</time></div>                    <div class="td-post-comments"><a href="https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/#respond"><i class="td-icon-comments"></i>0</a></div>                    <div class="td-post-views"><i class="td-icon-views"></i><span class="td-nr-views-325027">75</span></div>                </div>
+
+            </header>
+
+        </div>
+
+        <div class="td-post-sharing td-post-sharing-top ">
+				<div class="td-default-sharing">
+		            <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fthetruth24.net%2F2017%2F02%2F23%2Fpatriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Share on Facebook</div></a>
+		            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Patriots+coach+could+be+called+as+witness+in+Aaron+Hernandez+murder+trial&url=https%3A%2F%2Fthetruth24.net%2F2017%2F02%2F23%2Fpatriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial%2F&via=TheTruth24US"  ><i class="td-icon-twitter"></i><div class="td-social-but-text">Tweet on Twitter</div></a>
+		            <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>
+		            <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/&amp;media=&description=Patriots+coach+could+be+called+as+witness+in+Aaron+Hernandez+murder+trial" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>
+		            <a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Patriots+coach+could+be+called+as+witness+in+Aaron+Hernandez+murder+trial - https%3A%2F%2Fthetruth24.net%2F2017%2F02%2F23%2Fpatriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial%2F" ><i class="td-icon-whatsapp"></i></a>
+	            </div></div>
+
+        <div class="td-post-content">
+
+        
+        
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-content_top">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:640px;height:300px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+<p><html><br />
+ <head></head><br />
+ <body></p>
+<div data-page="1" data-page-hidden="0" data-use-autolinker="false">
+<p><strong>BOSTON &#8212;</strong> <a href="http://www.cbssports.com/nfl/teams/page/NE/new-england-patriots" target="_blank">New England Patriots</a> head coach Bill Belichick could be called as a witness in the double murder trial of <a href="http://www.cbsnews.com/news/aaron-hernandez-case-survivor-raychides-sanches-says-shooter-in-2012-boston-killings-looked-like/" target="_blank">Aaron Hernandez</a>, according to court documents released Wednesday,<a href="http://boston.cbslocal.com/2017/02/22/patriots-bill-belichick-aaron-hernandez-witness-murder-trial/" target="_blank"> CBS Boston reports</a>.</p>
+<p>Belichick’s name appeared on a list of possible witnesses filed Tuesday by Hernandez’s defense.</p>
+<p>Hernandez played for Belichick and the Patriots from 2010 to 2013. The former star tight end is being tried in <a href="http://www.cbsnews.com/news/aaron-hernandez-indicted-in-2012-boston-double-murder/" target="_blank">the drive-by slayings</a> of 29-year-old Daniel de Abreu and 28-year-old Safiro Furtado. Both men were shot to death as they left a Boston nightclub back in 2012. Prosecutors say Hernandez shot them after one spilled a drink on him at a club. Hernandez has pleaded not guilty.&nbsp;</p>
+
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-content_inline">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:640px;height:300px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+<p>There are dozens of potential civilian and expert witnesses listed on the new defense filing. “William Belichick, Hingham, MA” is No. 11.&nbsp;</p>
+<p>Earlier in the month, a defense motion said Patriots offensive coordinator Josh McDaniels may testify on the possible meanings of some of Hernandez’s tattoos. </p>
+<p>WBZ-TV Sports Director Steve Burton is also listed as a potential witness in the court paperwork. The documents cite Steve’s 2011 interview with Hernandez.&nbsp;</p>
+<p>Jury selection is underway. Opening statements are scheduled March 1. </p>
+<p>Hernandez grew up in Connecticut. He is serving a life sentence in the 2013 <a href="http://www.cbsnews.com/news/aaron-hernandez-guilty-of-first-degree-murder-in-death-of-odin-lloyd/" target="_blank">killing of Odin Lloyd, </a>who was dating the sister of Hernandez’s fiancee.</p>
+</p></div>
+<p> </body><br />
+</html></p>
+<!-- Facebook Comments free Add-on for Easy Social Share Buttons for WordPress : http://codecanyon.net/item/easy-social-share-buttons-for-wordpress/6394476?ref=appscreo --><div class="fb-comments" data-href="https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/" data-width="100%" data-numposts="10" data-colorscheme="light" data-order-by="social" ></div>
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-content_bottom">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:640px;height:300px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2615317486735902" data-ad-slot="1401176598"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+        </div>
+
+
+        <footer>
+                        
+            <div class="td-post-source-tags">
+                                            </div>
+
+            <div class="td-post-sharing td-post-sharing-bottom td-with-like"><span class="td-post-share-title">SHARE</span>
+            <div class="td-default-sharing">
+	            <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fthetruth24.net%2F2017%2F02%2F23%2Fpatriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Facebook</div></a>
+	            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Patriots+coach+could+be+called+as+witness+in+Aaron+Hernandez+murder+trial&url=https%3A%2F%2Fthetruth24.net%2F2017%2F02%2F23%2Fpatriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial%2F&via=TheTruth24US"><i class="td-icon-twitter"></i><div class="td-social-but-text">Twitter</div></a>
+	            <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>
+	            <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/&amp;media=&description=Patriots+coach+could+be+called+as+witness+in+Aaron+Hernandez+murder+trial" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>
+	            <a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Patriots+coach+could+be+called+as+witness+in+Aaron+Hernandez+murder+trial - https%3A%2F%2Fthetruth24.net%2F2017%2F02%2F23%2Fpatriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial%2F" ><i class="td-icon-whatsapp"></i></a>
+            </div><div class="td-classic-sharing"><ul><li class="td-classic-facebook"><iframe frameBorder="0" src="https://www.facebook.com/plugins/like.php?href=https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:105px; height:21px; background-color:transparent;"></iframe></li><li class="td-classic-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/" data-text="Patriots coach could be called as witness in Aaron Hernandez murder trial" data-via="" data-lang="en">tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li></ul></div></div>            <div class="td-block-row td-post-next-prev"><div class="td-block-span6 td-post-prev-post"><div class="td-post-next-prev-content"><span>Previous article</span><a href="https://thetruth24.net/2017/02/23/the-first-100-days-huckabee--opposition-to-trumps-immigration-policies-is-manufactured-outrage-krauthammer-to-trump-fix-the-vetting-and-forget-about-banning-immigration/">&#8220;THE FIRST 100 DAYS&#8221; Huckabee — Opposition to Trump&#8221;s immigration policies is &#8220;manufactured outrage&#8221; Krauthammer to Trump &#8220;Fix the vetting&#8221; and forget about banning immigration</a></div></div><div class="td-next-prev-separator"></div><div class="td-block-span6 td-post-next-post"><div class="td-post-next-prev-content"><span>Next article</span><a href="https://thetruth24.net/2017/02/23/scientists-warn-of-threats-to-oceans-superzoos/">Scientists warn of threats to oceans&#8221; &#8220;superzoos&#8221;</a></div></div></div>            <div class="author-box-wrap"><a href="https://thetruth24.net/author/cbs-news/"><img alt='' src='https://secure.gravatar.com/avatar/e33e8a0c9649e31a45da7aad405c5555?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e33e8a0c9649e31a45da7aad405c5555?s=192&amp;d=mm&amp;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' /></a><div class="desc"><div class="td-author-name vcard author"><span class="fn"><a href="https://thetruth24.net/author/cbs-news/">CBS News</a></span></div><div class="td-author-url"><a href="http://www.cbsnews.com/">http://www.cbsnews.com/</a></div><div class="td-author-description">The official twitter feed of @CBSNews. Follow for original reporting and trusted news.</div><div class="td-author-social"><span class="td-social-icon-wrap"><a target="_blank" href="https://twitter.com/CBSNews" title="Twitter"><i class="td-icon-font td-icon-twitter"></i></a></span></div><div class="clearfix"></div></div></div>	        <span style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="CBS News"></span><meta itemprop="datePublished" content="2017-02-23T02:24:32+00:00"><meta itemprop="dateModified" content="-001-11-30T00:00:00+00:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://thetruth24.net/2017/02/23/patriots-coach-could-be-called-as-witness-in-aaron-hernandez-murder-trial/"/><span style="display: none;" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span style="display: none;" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content=""></span><meta itemprop="name" content="Breaking US news"></span><meta itemprop="headline " content="Patriots coach could be called as witness in Aaron Hernandez murder trial"><span style="display: none;" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://thetruth24.net/wp-content/themes/Newspaper/images/no-thumb/td_meta_replacement.png"><meta itemprop="width" content="1068"><meta itemprop="height" content="580"></span>        </footer>
+
+    </article> <!-- /.post -->
+
+    
+                            </div>
+                        </div>
+                        <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                            <div class="td-ss-main-sidebar">
+                                <div class="td_block_wrap td_block_social_counter td_block_widget td_uid_1_58ae9185db2bf_rand td-pb-border-top"><h4 class="block-title"><span>STAY CONNECTED</span></h4><div class="td_social_type td-pb-margin-side td_social_twitter"><div class="td-sp td-sp-twitter"></div><span class="td_social_info">16,431</span><span class="td_social_info td_social_info_name">Followers</span><span class="td_social_button"><a href="https://twitter.com/TheTruth24US" target="_blank">Follow</a></span></div></div> <!-- ./block --><script>var block_td_uid_2_58ae9185dc299 = new tdBlock();
+block_td_uid_2_58ae9185dc299.id = "td_uid_2_58ae9185dc299";
+block_td_uid_2_58ae9185dc299.atts = '{"custom_title":"Lastest","custom_url":"","header_text_color":"#","header_color":"#","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","sort":"","limit":"5","offset":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","ajax_pagination":"load_more","ajax_pagination_infinite_stop":"","class":"td_block_widget td_uid_2_58ae9185dc299_rand"}';
+block_td_uid_2_58ae9185dc299.td_column_number = "1";
+block_td_uid_2_58ae9185dc299.block_type = "td_block_6";
+block_td_uid_2_58ae9185dc299.post_count = "5";
+block_td_uid_2_58ae9185dc299.found_posts = "238559";
+block_td_uid_2_58ae9185dc299.header_color = "#";
+block_td_uid_2_58ae9185dc299.ajax_pagination_infinite_stop = "";
+block_td_uid_2_58ae9185dc299.max_num_pages = "47712";
+tdBlocksArray.push(block_td_uid_2_58ae9185dc299);
+</script><div class="td_block_wrap td_block_6 td_block_widget td_uid_2_58ae9185dc299_rand td_with_ajax_pagination td-pb-border-top"><h4 class="block-title"><span>Lastest</span></h4><div id=td_uid_2_58ae9185dc299 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_5 td_module_wrap td-animation-stack td_module_no_thumb">
+
+            <h3 class="entry-title td-module-title"><a href="https://thetruth24.net/2017/02/23/standoff-then-arrest-after-triple-shooting-at-crowded-kansas-bar/" rel="bookmark" title="Standoff, then arrest after triple shooting at crowded Kansas bar">Standoff, then arrest after triple shooting at crowded Kansas bar</a></h3>
+            <div class="td-module-meta-info">
+                <div class="td-post-author-name"><a href="https://thetruth24.net/author/cbs-news/">CBS News</a> <span>-</span> </div>                <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-23T11:40:11+00:00" >February 23, 2017</time></div>                <div class="td-module-comments"><a href="https://thetruth24.net/2017/02/23/standoff-then-arrest-after-triple-shooting-at-crowded-kansas-bar/#respond">0</a></div>            </div>
+
+            <div class="td-module-image">
+                                <a href="https://thetruth24.net/category/news/" class="td-post-category">News</a>            </div>
+
+            <div class="td-excerpt">
+                
+ 
+ 
+   
+   OLATHE, Kan. -- Police have arrested a suspect in the shooting Wednesday evening of three people...            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_5 td_module_wrap td-animation-stack td_module_no_thumb">
+
+            <h3 class="entry-title td-module-title"><a href="https://thetruth24.net/2017/02/23/judge-blocks-colo-towns-ban-on-topless-women/" rel="bookmark" title="Judge blocks Colo. town&#8221;s ban on topless women">Judge blocks Colo. town&#8221;s ban on topless women</a></h3>
+            <div class="td-module-meta-info">
+                <div class="td-post-author-name"><a href="https://thetruth24.net/author/cbs-news/">CBS News</a> <span>-</span> </div>                <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-23T09:31:50+00:00" >February 23, 2017</time></div>                <div class="td-module-comments"><a href="https://thetruth24.net/2017/02/23/judge-blocks-colo-towns-ban-on-topless-women/#respond">0</a></div>            </div>
+
+            <div class="td-module-image">
+                                <a href="https://thetruth24.net/category/news/" class="td-post-category">News</a>            </div>
+
+            <div class="td-excerpt">
+                
+ 
+ 
+   
+   DENVER -- A Colorado judge has blocked a college town’s law against women going topless, saying...            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_5 td_module_wrap td-animation-stack td_module_no_thumb">
+
+            <h3 class="entry-title td-module-title"><a href="https://thetruth24.net/2017/02/23/bao-bao-usborn-panda-lands-in-new-home-in-china/" rel="bookmark" title="Bao Bao, U.S.born panda, lands in new home in China">Bao Bao, U.S.born panda, lands in new home in China</a></h3>
+            <div class="td-module-meta-info">
+                <div class="td-post-author-name"><a href="https://thetruth24.net/author/cbs-news/">CBS News</a> <span>-</span> </div>                <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-23T08:50:10+00:00" >February 23, 2017</time></div>                <div class="td-module-comments"><a href="https://thetruth24.net/2017/02/23/bao-bao-usborn-panda-lands-in-new-home-in-china/#respond">0</a></div>            </div>
+
+            <div class="td-module-image">
+                                <a href="https://thetruth24.net/category/news/" class="td-post-category">News</a>            </div>
+
+            <div class="td-excerpt">
+                
+ 
+ 
+   
+   BEIJING -- An American-born panda started settling into her new home Thursday in southwest China where...            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_5 td_module_wrap td-animation-stack td_module_no_thumb">
+
+            <h3 class="entry-title td-module-title"><a href="https://thetruth24.net/2017/02/23/video-captures-offduty-lapd-officer-firing-gun-after-altercation-with-teens/" rel="bookmark" title="Video captures offduty LAPD officer firing gun after altercation with teens">Video captures offduty LAPD officer firing gun after altercation with teens</a></h3>
+            <div class="td-module-meta-info">
+                <div class="td-post-author-name"><a href="https://thetruth24.net/author/cbs-news/">CBS News</a> <span>-</span> </div>                <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-23T07:41:36+00:00" >February 23, 2017</time></div>                <div class="td-module-comments"><a href="https://thetruth24.net/2017/02/23/video-captures-offduty-lapd-officer-firing-gun-after-altercation-with-teens/#respond">0</a></div>            </div>
+
+            <div class="td-module-image">
+                                <a href="https://thetruth24.net/category/news/" class="td-post-category">News</a>            </div>
+
+            <div class="td-excerpt">
+                
+ 
+ 
+   
+   ANAHEIM --&nbsp;Anaheim police say two juveniles were arrested after a brawl escalated and an off-duty Los...            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_5 td_module_wrap td-animation-stack td_module_no_thumb">
+
+            <h3 class="entry-title td-module-title"><a href="https://thetruth24.net/2017/02/23/trumps-transgender-guidance-reversal-contradicts-past-supportive-comments/" rel="bookmark" title="Trump&#8221;s transgender guidance reversal contradicts past supportive comments">Trump&#8221;s transgender guidance reversal contradicts past supportive comments</a></h3>
+            <div class="td-module-meta-info">
+                <div class="td-post-author-name"><a href="https://thetruth24.net/author/abc-news/">ABC News</a> <span>-</span> </div>                <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-23T07:27:06+00:00" >February 23, 2017</time></div>                <div class="td-module-comments"><a href="https://thetruth24.net/2017/02/23/trumps-transgender-guidance-reversal-contradicts-past-supportive-comments/#respond">0</a></div>            </div>
+
+            <div class="td-module-image">
+                                <a href="https://thetruth24.net/category/politics/" class="td-post-category">Politics</a>            </div>
+
+            <div class="td-excerpt">
+                
+ 
+ 
+   Just last month the White House said Donald Trump is &quot;respectful and supportive of LGBTQ rights,&quot; but following Wednesday&quot;s...            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div><div class="td-load-more-wrap"><a href="#" class="td_ajax_load_more td_ajax_load_more_js" id="next-page-td_uid_2_58ae9185dc299" data-td_block_id="td_uid_2_58ae9185dc299">Load more<i class="td-icon-font td-icon-menu-down"></i></a></div></div> <!-- ./block --><script>var block_td_uid_3_58ae9185e0a89 = new tdBlock();
+block_td_uid_3_58ae9185e0a89.id = "td_uid_3_58ae9185e0a89";
+block_td_uid_3_58ae9185e0a89.atts = '{"custom_title":"Most read","custom_url":"","header_text_color":"#","header_color":"#","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","sort":"jetpack_popular_2","limit":"5","offset":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","ajax_pagination":"","ajax_pagination_infinite_stop":"","class":"td_block_widget td_uid_3_58ae9185e0a89_rand"}';
+block_td_uid_3_58ae9185e0a89.td_column_number = "1";
+block_td_uid_3_58ae9185e0a89.block_type = "td_block_6";
+block_td_uid_3_58ae9185e0a89.post_count = "0";
+block_td_uid_3_58ae9185e0a89.found_posts = "0";
+block_td_uid_3_58ae9185e0a89.header_color = "#";
+block_td_uid_3_58ae9185e0a89.ajax_pagination_infinite_stop = "";
+block_td_uid_3_58ae9185e0a89.max_num_pages = "0";
+tdBlocksArray.push(block_td_uid_3_58ae9185e0a89);
+</script><div class="td_block_wrap td_block_6 td_block_widget td_uid_3_58ae9185e0a89_rand td_with_ajax_pagination td-pb-border-top"><h4 class="block-title"><span>Most read</span></h4><div id=td_uid_3_58ae9185e0a89 class="td_block_inner"></div></div> <!-- ./block -->                            </div>
+                        </div>
+                            </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+
+<!-- Footer -->
+
+
+<!-- Sub Footer -->
+    <div class="td-sub-footer-container">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span7 td-sub-footer-menu">
+                                        </div>
+
+                <div class="td-pb-span5 td-sub-footer-copy">
+                    &copy;                 </div>
+            </div>
+        </div>
+    </div>
+    </div><!--close content div-->
+</div><!--close td-outer-wrap-->
+
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2015
+        Version: 6.6.5 (rara)
+        Deploy mode: deploy
+        
+        uid: 58ae9185e0d3c
+    -->
+
+    <script type='text/javascript' src='https://thetruth24.net/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thetruth24.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='https://thetruth24.net/wp-content/themes/Newspaper/js/tagdiv_theme.js?ver=6.6.5'></script>
+<script type='text/javascript' src='https://thetruth24.net/wp-includes/js/comment-reply.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='https://thetruth24.net/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://thetruth24.net/wp-content/themes/Newspaper/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://thetruth24.net/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+<!-- Facebook Comments free Add-on for Easy Social Share Buttons for WordPress : http://codecanyon.net/item/easy-social-share-buttons-for-wordpress/6394476?ref=appscreo -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=918544844933780";
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+</html>

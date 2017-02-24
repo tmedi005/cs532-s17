@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+
+<!-- BEGIN html -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<!--<![endif]-->
+	<!-- BEGIN head -->
+	<head>
+		<!-- Title -->
+		<title>
+			The Concerned Statesmen And Patriots Of Nigeria | Frontiers News		</title>
+
+		<!-- Meta Tags -->
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+		<!-- Favicon -->
+					<link rel="shortcut icon" href="http://www.frontiersnews.com/wp-content/uploads/2016/04/favicon.jpg" type="image/x-icon" />
+				
+		<link rel="alternate" type="application/rss+xml" href="http://www.frontiersnews.com/feed/" title="Frontiers News latest posts" />
+		<link rel="alternate" type="application/rss+xml" href="http://www.frontiersnews.com/comments/feed/" title="Frontiers News latest comments" />
+		<link rel="pingback" href="http://www.frontiersnews.com/xmlrpc.php" />
+
+		<link rel="alternate" type="application/rss+xml" title="Frontiers News &raquo; Feed" href="http://www.frontiersnews.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Frontiers News &raquo; Comments Feed" href="http://www.frontiersnews.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Frontiers News &raquo; The Concerned Statesmen And Patriots Of Nigeria Comments Feed" href="http://www.frontiersnews.com/the-concerned-statesmen-and-patriots-of-nigeria/feed/" />
+
+<!-- WPPA+ BEGIN Facebook meta tags -->
+<!-- WPPA+ END Facebook meta tags -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.frontiersnews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.7"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='toolbar.css-css'  href='http://www.frontiersnews.com/wp-content/plugins/google-language-translator/css/toolbar.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='style.css-css'  href='http://www.frontiersnews.com/wp-content/plugins/google-language-translator/css/style.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='send-link-to-friend-css'  href='http://www.frontiersnews.com/wp-content/plugins/send-link-to-friend/style.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='kamn-css-easy-twitter-feed-widget-css'  href='http://www.frontiersnews.com/wp-content/plugins/easy-twitter-feed-widget/easy-twitter-feed-widget.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='http://fonts.googleapis.com/css?family=Open+Sans&#038;subset=latin&#038;ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='reset-css'  href='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/css/reset.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/css/font-awesome.min.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dat-menu-css'  href='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/css/dat-menu.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='main-stylesheet-css'  href='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/css/main-stylesheet.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-css'  href='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/css/lightbox.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcode-css'  href='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/css/shortcodes.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/css/animate.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='carousel-css'  href='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/css/owl.carousel.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/css/responsive.css?ver=4.4.7' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='ie-only-styles-css'  href='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/css/ie-ancient.css?ver=4.4.7' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='dynamic-css-css'  href='http://www.frontiersnews.com/wp-admin/admin-ajax.php?action=ot_dynamic_css&#038;ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/style.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='soccer-info-front-css'  href='http://www.frontiersnews.com/wp-content/plugins/soccer-info/css/soccer-info-front.css?ver=4.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wppa_style-css'  href='http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus/theme/wppa-style.css?ver=6-3-01-000' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ot = {"THEME_NAME":"gadgetine","adminUrl":"http:\/\/www.frontiersnews.com\/wp-admin\/admin-ajax.php","gallery_id":"","galleryCat":"","imageUrl":"http:\/\/www.frontiersnews.com\/wp-content\/themes\/gadgetine-theme\/images\/","cssUrl":"http:\/\/www.frontiersnews.com\/wp-content\/themes\/gadgetine-theme\/css\/","themeUrl":"http:\/\/www.frontiersnews.com\/wp-content\/themes\/gadgetine-theme"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/google-language-translator/js/flags.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/google-language-translator/js/toolbar.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/google-language-translator/js/load-toolbar.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus/js/wppa-utils.min.js?ver=6-3-01-000'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus/js/wppa.min.js?ver=6-3-01-000'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus/js/wppa-slideshow.min.js?ver=6-3-01-000'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus/js/wppa-ajax-front.min.js?ver=6-3-01-000'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus/js/wppa-popup.min.js?ver=6-3-01-000'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus/js/wppa-touch.min.js?ver=6-3-01-000'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus/wppa-init.en.js?ver=17'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/send-link-to-friend/send-link-to-friend.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/owl.carousel.min.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-admin/admin-ajax.php?action=ot_dynamic_js&#038;ver=1'></script>
+<link rel='https://api.w.org/' href='http://www.frontiersnews.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.frontiersnews.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.frontiersnews.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='EFCC Recovers 17 Vehicles from Ex-Customs Boss, Inde' href='http://www.frontiersnews.com/efcc-recovers-17-vehicles-from-ex-customs-boss-inde/' />
+<link rel='next' title='Weather Report For Thursday February 23rd, 2017' href='http://www.frontiersnews.com/weather-report-for-thursday-february-23rd-2017/' />
+<meta name="generator" content="WordPress 4.4.7" />
+<link rel="canonical" href="http://www.frontiersnews.com/the-concerned-statesmen-and-patriots-of-nigeria/" />
+<link rel='shortlink' href='http://www.frontiersnews.com/?p=69919' />
+<link rel="alternate" type="application/json+oembed" href="http://www.frontiersnews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.frontiersnews.com%2Fthe-concerned-statesmen-and-patriots-of-nigeria%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.frontiersnews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.frontiersnews.com%2Fthe-concerned-statesmen-and-patriots-of-nigeria%2F&#038;format=xml" />
+<style type="text/css">.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }#flags { display:none; }#google_language_translator {color: transparent;}body { top:0px !important; }</style><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67232254-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- WPPA+ BEGIN Page specific urls -->
+<script type="text/javascript">
+	wppaImageDirectory = "http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus/images/";
+	wppaWppaUrl = "http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus";
+	wppaIncludeUrl = "http://www.frontiersnews.com/wp-includes";
+	wppaAjaxUrl = "http://www.frontiersnews.com/wp-admin/admin-ajax.php";
+	wppaUploadUrl = "http://www.frontiersnews.com/wp-content/uploads/wppa";
+</script>
+<!-- WPPA+ END Page specific urls -->
+
+<!-- WPPA+ Kickoff -->
+<!-- Browser detected = curl/7.52.1 -->
+<!-- WPPA+ Custom styles -->
+<style type="text/css" >
+</style>
+<!-- Pinterest share -->
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<!-- Rendering enabled -->
+<!-- /WPPA Kickoff -->
+
+		
+
+	<!-- END head -->
+	</head>
+	
+	<!-- BEGIN body -->
+	<body class="single single-post postid-69919 single-format-standard">
+			
+					<!-- BEGIN .boxed -->
+		<div class="boxed active">
+						<!-- BEGIN .header -->
+			<header class="header">
+								<div class="top-line">
+					<div class="wrapper">
+																<nav class="menu-top-menu-container"><ul class="top-menu load-responsive" rel="Top Menu"><li id="menu-item-14859" class="menu-item menu-item-type-post_type menu-item-object-page single"><a href="http://www.frontiersnews.com/about-us/">About Us</a></li>
+<li id="menu-item-14858" class="menu-item menu-item-type-post_type menu-item-object-page single"><a href="http://www.frontiersnews.com/advert-rates/">Privacy Policy</a></li>
+<li id="menu-item-14857" class="menu-item menu-item-type-post_type menu-item-object-page single"><a href="http://www.frontiersnews.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-49765" class="menu-item menu-item-type-taxonomy menu-item-object-category single"><a href="http://www.frontiersnews.com/category/editorial/">Editorial</a></li>
+<li id="menu-item-49766" class="menu-item menu-item-type-taxonomy menu-item-object-category single"><a href="http://www.frontiersnews.com/category/features/">Features</a></li>
+<li id="menu-item-49767" class="menu-item menu-item-type-taxonomy menu-item-object-category single"><a href="http://www.frontiersnews.com/category/opinion/">Opinion</a></li>
+<li id="menu-item-50078" class="menu-item menu-item-type-taxonomy menu-item-object-category single"><a href="http://www.frontiersnews.com/category/press-releases/">Press Releases</a></li>
+<li id="menu-item-62122" class="menu-item menu-item-type-post_type menu-item-object-page single"><a href="http://www.frontiersnews.com/advert-rates-2/">Frontiers News Advert Rates</a></li>
+<li id="menu-item-64559" class="menu-item menu-item-type-taxonomy menu-item-object-category single"><a href="http://www.frontiersnews.com/category/cartoon-of-the-week/">Cartoon Of The Week</a></li>
+</ul></nav>						
+									</div>
+				</div>
+				
+
+				<!-- BEGIN .wrapper -->
+				<div class="wrapper">
+					
+					<!-- BEGIN .header-block -->
+					<div class="header-block">
+						<div class="header-logo">
+																<a href="http://www.frontiersnews.com"><img src="http://www.frontiersnews.com/wp-content/uploads/2016/04/frontiers-header-1.png" alt="Frontiers News" /></a>
+													</div>
+
+											<!-- END .header-block -->
+					</div>
+					
+				<!-- END .wrapper -->
+				</div>
+
+
+				<div class="header-menu">
+
+					<nav class="main-menu">
+					
+													<div class="right head-searcher">
+								<form method="get" action="http://www.frontiersnews.com" name="searchform" >
+									<input type="search" class="head-search-input" value="" placeholder="Search something.." name="s" id="s"/>
+									<input type="submit" class="head-search-button" value="s" />
+								</form>
+							</div>
+						
+						
+						<a href="#dat-menu" class="main-menu-reposnive-button"><i class="fa fa-bars"></i>Show Menu</a>
+
+
+						<ul class="load-responsive" rel="Main Menu"><li id="menu-item-17897" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a href="http://www.frontiersnews.com/category/contents/">News</a></li>
+<li id="menu-item-14987" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.frontiersnews.com/category/politics/c122-politics/">Politics</a></li>
+<li id="menu-item-8393" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.frontiersnews.com/category/business/">Business</a></li>
+<li id="menu-item-15848" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.frontiersnews.com/category/exclusive/">Exclusive</a></li>
+<li id="menu-item-8792" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.frontiersnews.com/category/news/special-reports/">Special Reports</a></li>
+<li id="menu-item-8394" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.frontiersnews.com/category/foreign-news/">Foreign News</a></li>
+<li id="menu-item-8791" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.frontiersnews.com/category/sports/">Sports</a></li>
+<li id="menu-item-15851" class="normal-drop   no-description menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.frontiersnews.com/category/arts-and-entertainment/">Arts and Entertainment</a></li>
+</ul>			<!-- END .header -->
+			</header>
+
+
+				<!-- BEGIN .content -->
+			<section class="content">
+				
+				<!-- BEGIN .wrapper -->
+				<div class="wrapper">
+					
+					
+					<div class="main-content-wrapper
+										 big-sidebar-right					">
+
+						<!-- BEGIN .main-content -->
+						<div class="main-content">
+
+											<!-- BEGIN .def-panel -->
+			<div class="def-panel">
+				<div class="panel-content shortocde-content">
+					<div class="article-header">
+											
+
+
+		<h1>The Concerned Statesmen And Patriots Of Nigeria</h1>
+ 							<div class="article-header-photo">
+				<img src="http://www.frontiersnews.com/wp-content/uploads/2015/09/Nigerian-Soldiers_fp-1200x545_c.jpg" alt="The Concerned Statesmen And Patriots Of Nigeria" />	</div>
+													<div class="article-header-info">
+																	<div class="right social-headers">
+										<a href="http://www.facebook.com/sharer/sharer.php?u=http://www.frontiersnews.com/the-concerned-statesmen-and-patriots-of-nigeria/" data-url="http://www.frontiersnews.com/the-concerned-statesmen-and-patriots-of-nigeria/" class="soc-facebook ot-share"><i class="fa fa-facebook"></i></a>
+										<a href="#" data-hashtags="" data-url="http://www.frontiersnews.com/the-concerned-statesmen-and-patriots-of-nigeria/" data-via="EditorFrontiers" data-text="The+Concerned+Statesmen+And+Patriots+Of+Nigeria" class="soc-twitter ot-tweet"><i class="fa fa-twitter"></i></a>
+										<a href="http://pinterest.com/pin/create/button/?url=http://www.frontiersnews.com/the-concerned-statesmen-and-patriots-of-nigeria/&media=http://www.frontiersnews.com/wp-content/uploads/2015/09/Nigerian-Soldiers_fp.jpg&description=The Concerned Statesmen And Patriots Of Nigeria" data-url="http://www.frontiersnews.com/the-concerned-statesmen-and-patriots-of-nigeria/" class="soc-pinterest ot-pin"><i class="fa fa-pinterest"></i></a>
+										<a href="https://plus.google.com/share?url=http://www.frontiersnews.com/the-concerned-statesmen-and-patriots-of-nigeria/" class="soc-google-plus ot-pluss"><i class="fa fa-google-plus"></i></a>
+										<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.frontiersnews.com/the-concerned-statesmen-and-patriots-of-nigeria/&title=The+Concerned+Statesmen+And+Patriots+Of+Nigeria" data-url="http://www.frontiersnews.com/the-concerned-statesmen-and-patriots-of-nigeria/" class="soc-linkedin ot-link"><i class="fa fa-linkedin"></i></a>
+									</div>
+																								<span class="article-header-meta">
+																											<span class="article-header-meta-date">February 22</span>
+										<span class="article-header-meta-time">
+											<span class="head-time">19:09</span>
+											<span class="head-year">2017</span>
+										</span>
+																											<span class="article-header-meta-links  one-is-missing">
+																													
+											<a  href="http://www.frontiersnews.com/the-concerned-statesmen-and-patriots-of-nigeria/print/" target="_blank"><i class="fa fa-print"></i><span>Print This Article</span></a>
+																												</span>
+																									</span>
+															</div>
+											</div>
+
+							
+					<p class="caps">Nigerian group accuse French authorities of sabotaging Nigeria&#8217;s war against insurgency .</p>
+<p>A coalition of some concerned Nigerian statesmen and Patriots have alleged that the French authority has not been sincere with Nigerian government in the on going fight against insurgency in the country hence total defeat has not been achieved .</p>
+<p>They say overwhelming evidence abounds to attest to this conclusion stressing that the insincerity is a ploy to sabotage and undermine all the efforts of the Nigerian government to fight the Boko Haram insurgents to a stand still .</p>
+<p>Disclosing this today at a press conference in Abuja , the leader of the group referred to as the concerned statesmen and patriots of Nigeria , professor Emmanuel Ome , on behalf of the group said , &#8220;French president Francois Hollande has hosted several summits on Boko Haram only for things to get worse . He would have to prove that these conferences are not used to make our security and intelligence community to share sensitive operational information which in turn are handed over to the monsters Boko Haram&#8221;.</p>
+<p>The group leader also revealed that ,&#8221; the worrisome pattern that Boko Haram always kidnap expatriates of French origin each time it is broke and the French government will hurry to pay ransom in millions of dollars . This is nothing short of creating a legitimate front to pass money to Boko Haram in the public glare&#8221;.</p>
+<p>The group also queried why there has been no explanation from the French authority regarding the sighting of its aircrafts across Nigeria&#8217;s borders with Cameroon, Chad and Niger on numerous occasions by internally displaced people and victims of Boko Haram attacks insinuating that &#8220;the pattern has been for the terrorists to stage spectacular attacks after these sightings &#8221; .</p>
+<p>The group which consists of some academies and Nigerian professionals however appealed to the United Nations to intervene and stop any undue interference and sabotage by France and other foreign interests stressing that ,&#8221; the damage done to this point has unleashed unthinking Humanitarian crisis that is already a blot on the collective human conscience &#8221;<br />
+They also called on the Nigerian government to carry out investigations into the roles of France in the execution of the insurgency war in the country .</p>
+<p>&nbsp;</p>
+	
+						
+
+																							</div>
+				<!-- END .def-panel -->
+				</div>
+
+				
+
+												<!-- BEGIN .def-panel -->
+					<div class="def-panel">
+						<div class="panel-title">
+							<a href="#respond" class="right">write a comment</a>
+							<h2>0 Comments</h2>
+						</div>
+
+						<div class="comments">
+
+							
+																		<div class="comments">
+											<div class="no-comments-yet">
+												<h3>No Comments Yet!</h3>
+												<span>You can be the one to <a href="#respond">start a conversation</a>.</span>
+											</div>
+										</div>
+																						
+						</div>
+					</div>
+
+											<!-- BEGIN .def-panel -->
+						<div class="def-panel">
+															<div class="panel-title">
+									<h2>Add a Comment</h2>
+								</div>
+								<div class="comment-form">
+
+									<div id="writecomment">
+
+
+										<a href="#" name="respond"></a>
+														<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/the-concerned-statesmen-and-patriots-of-nigeria/?platform=hootsuite#respond" style="display:none;">Click here to cancel reply.</a></small></h3>				<form action="http://www.frontiersnews.com/wp-comments-post.php" method="post" id="" class="comment-form">
+					
+						<div class="info-block">
+							<i class="fa fa-info-circle icon-msg-large"></i>
+							<i class="fa fa-info-circle icon-msg-medium"></i>
+							<i class="fa fa-info-circle icon-msg-small"></i>
+							<strong>Your data will be safe!</strong>
+							<span>Your e-mail address will not be published. Also other data will not be shared with third person.<br/>All fields are required.</span>
+						</div>
+	<p class="contact-form-message"><label for="comment">Comment:<span class="required">*</span></label><textarea name="comment" id="comment" placeholder="Your comment.."></textarea></p><p class="contact-form-user"><label for="c_name">Nickname<span class="required">*</span></label><input type="text" placeholder="Nickname" name="author" id="author"></p>
+<p class="contact-form-email"><label for="c_email">E-mail<span class="required">*</span></label><input type="text" placeholder="E-mail" name="email" id="email"></p>
+<p class="contact-form-website"><label for="c_webside">Website</label><input type="text" placeholder="Website" name="url" id="url"></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post a Comment" /> <input type='hidden' name='comment_post_ID' value='69919' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>		<p class="antispam-group antispam-group-q" style="clear: both;">
+			<label>Current ye@r <span class="required">*</span></label>
+			<input type="hidden" name="antspm-a" class="antispam-control antispam-control-a" value="2017" />
+			<input type="text" name="antspm-q" class="antispam-control antispam-control-q" value="3.5" autocomplete="off" />
+		</p>
+		<p class="antispam-group antispam-group-e" style="display: none;">
+			<label>Leave this field empty</label>
+			<input type="text" name="antspm-e-email-url-website" class="antispam-control antispam-control-e" value="" autocomplete="off" />
+		</p>
+				</form>
+					</div><!-- #respond -->
+											</div>
+								</div>
+													</div>
+													<!-- BEGIN .def-panel -->
+	<div class="def-panel">
+		<div class="panel-title">
+			<a href="http://www.frontiersnews.com/blog/?cat=7,8" class="right">
+				view more articles			</a>
+			<h2>Related Articles</h2>
+		</div>
+		<div class="related-articles">
+		
+			<div class="item">
+				<div class="item-header">
+					<div class="image-overlay-icons" onclick="javascript:location.href = 'http://www.frontiersnews.com/explosions-rock-gombe-gov-s-residence/';">
+						<a href="http://www.frontiersnews.com/explosions-rock-gombe-gov-s-residence/" title="Explosions Rock Gombe Gov’s Residence">
+							<i class="fa fa-search"></i>
+						</a>
+					</div>
+					<a href="http://www.frontiersnews.com/explosions-rock-gombe-gov-s-residence/" class="hover-image">
+											</a>
+				</div>
+				<div class="item-content">
+					<h4>
+						<a href="http://www.frontiersnews.com/explosions-rock-gombe-gov-s-residence/">Explosions Rock Gombe Gov’s Residence</a>
+												</h4>
+				</div>
+			</div>
+			
+			<div class="item">
+				<div class="item-header">
+					<div class="image-overlay-icons" onclick="javascript:location.href = 'http://www.frontiersnews.com/sierra-leone-deploys-troops-to-ebola-clinics/';">
+						<a href="http://www.frontiersnews.com/sierra-leone-deploys-troops-to-ebola-clinics/" title="Sierra Leone Deploys Troops To Ebola Clinics">
+							<i class="fa fa-search"></i>
+						</a>
+					</div>
+					<a href="http://www.frontiersnews.com/sierra-leone-deploys-troops-to-ebola-clinics/" class="hover-image">
+						<img src="http://www.frontiersnews.com/wp-content/uploads/2014/08/Ebola-Doc-750x400-367x269_c.jpg" alt="Sierra Leone Deploys Troops To Ebola Clinics" />					</a>
+				</div>
+				<div class="item-content">
+					<h4>
+						<a href="http://www.frontiersnews.com/sierra-leone-deploys-troops-to-ebola-clinics/">Sierra Leone Deploys Troops To Ebola Clinics</a>
+												</h4>
+				</div>
+			</div>
+			
+			<div class="item">
+				<div class="item-header">
+					<div class="image-overlay-icons" onclick="javascript:location.href = 'http://www.frontiersnews.com/five-injured-as-fire-razes-bayelsa-park/';">
+						<a href="http://www.frontiersnews.com/five-injured-as-fire-razes-bayelsa-park/" title="Five Injured As Fire Razes Bayelsa Park">
+							<i class="fa fa-search"></i>
+						</a>
+					</div>
+					<a href="http://www.frontiersnews.com/five-injured-as-fire-razes-bayelsa-park/" class="hover-image">
+						<img src="http://www.frontiersnews.com/wp-content/uploads/2015/04/000-367x269_c.jpg" alt="Five Injured As Fire Razes Bayelsa Park" />					</a>
+				</div>
+				<div class="item-content">
+					<h4>
+						<a href="http://www.frontiersnews.com/five-injured-as-fire-razes-bayelsa-park/">Five Injured As Fire Razes Bayelsa Park</a>
+												</h4>
+				</div>
+			</div>
+							</div>
+	<!-- END .def-panel -->
+	</div>
+
+
+
+				
+						
+					<!-- END .main-content-spacy -->
+				</div>
+					
+	<!-- BEGIN #sidebar -->
+	<aside id="sidebar">
+		<div class="widget-1 first widget"><h3>Translate:</h3><div id="flags" class="size18"><ul id="sortable" class="ui-sortable" style="float:left"><li id='English'><a title='English' class='notranslate flag en united-states'></a></li></ul></div><div id="google_language_translator"></div></div><div class="widget-2 widget">			<div class="textwidget"><a href="http://frontiersnews.com.ng/maillist/?p=subscribe&id=1">
+<img src="http://www.frontiersnews.com/wp-content/uploads/2016/04/newsletterr.png" alt="" title="" /</a/></a></div>
+		</div>		
+	<div class="widget-3 widget">					<h3 style="border-bottom: 2px solid #264C84; color: #264C84;">
+				Latest News			</h3>
+					<div class="small-article-list">
+													<div class="item">
+													<div class="item-header">
+								<a href="http://www.frontiersnews.com/buharis-lawyer-denies-bribing-justice-ademola-with-n500000/" class="hover-image">
+									<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/justice-ade-620x400-57x37_c.jpg" alt="Buhari&#8217;s Lawyer Denies Bribing Justice Ademola With N500,000" />								</a>
+							</div>
+												<div class="item-content">
+							<h4>
+								<a href="http://www.frontiersnews.com/buharis-lawyer-denies-bribing-justice-ademola-with-n500000/">Buhari&#8217;s Lawyer Denies Bribing Justice Ademola With N500,000</a>
+															</h4>
+						</div>
+					</div>
+													<div class="item">
+													<div class="item-header">
+								<a href="http://www.frontiersnews.com/mkhitaryan-carrick-set-to-miss-wembley-after-st-etienne-victory/" class="hover-image">
+									<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/2810-57x37_c.jpg" alt="Mkhitaryan, Carrick Set To Miss Wembley After St-Étienne Victory" />								</a>
+							</div>
+												<div class="item-content">
+							<h4>
+								<a href="http://www.frontiersnews.com/mkhitaryan-carrick-set-to-miss-wembley-after-st-etienne-victory/">Mkhitaryan, Carrick Set To Miss Wembley After St-Étienne Victory</a>
+															</h4>
+						</div>
+					</div>
+													<div class="item">
+													<div class="item-header">
+								<a href="http://www.frontiersnews.com/pjaca-alves-deliver-late-double-to-hand-juventus-edge-over-10-man-porto/" class="hover-image">
+									<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/2953-57x37_c.jpg" alt="Vardy Hands Leicester Champions League Lifeline Against Sevilla" />								</a>
+							</div>
+												<div class="item-content">
+							<h4>
+								<a href="http://www.frontiersnews.com/pjaca-alves-deliver-late-double-to-hand-juventus-edge-over-10-man-porto/">Vardy Hands Leicester Champions League Lifeline Against Sevilla</a>
+															</h4>
+						</div>
+					</div>
+													<div class="item">
+													<div class="item-header">
+								<a href="http://www.frontiersnews.com/osinbajo-receives-africon-commander-says-time-to-deepen-nigeria-us-relation/" class="hover-image">
+									<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/US-AFRICOM-2-57x37_c.jpg" alt="Osinbajo Receives AFRICOM Commander Says Time To Deepen Nigeria-US Relation" />								</a>
+							</div>
+												<div class="item-content">
+							<h4>
+								<a href="http://www.frontiersnews.com/osinbajo-receives-africon-commander-says-time-to-deepen-nigeria-us-relation/">Osinbajo Receives AFRICOM Commander Says Time To Deepen Nigeria-US Relation</a>
+															</h4>
+						</div>
+					</div>
+													<div class="item">
+													<div class="item-header">
+								<a href="http://www.frontiersnews.com/weather-report-for-thursday-february-23rd-2017/" class="hover-image">
+									<img src="http://www.frontiersnews.com/wp-content/uploads/2016/07/nigerian-weather-forecast-57x37_c.jpg" alt="Weather Report For Thursday February 23rd, 2017" />								</a>
+							</div>
+												<div class="item-content">
+							<h4>
+								<a href="http://www.frontiersnews.com/weather-report-for-thursday-february-23rd-2017/">Weather Report For Thursday February 23rd, 2017</a>
+															</h4>
+						</div>
+					</div>
+													<a href="http://www.frontiersnews.com/blog/" class="more-articles-button">show all articles</a>
+							</div>
+
+	</div>
+      <div class="widget-4 widget"><h3>Cartoon Of The Week</h3>			<div class="textwidget"><a href="http://www.frontiersnews.com/cartoon-of-the-week-3/">
+<img src="http://www.frontiersnews.com/wp-content/uploads/2017/01/IMG-20170127-WA0000.jpg" alt="" title="" /</a/><br />
+</a><a href="http://www.frontiersnews.com/cartoon-of-the-week-11/">Click for more Cartoon of The Week</a></div>
+		</div><div class="widget-5 widget"><div id="fb-root"></div> 
+<script>(function(d, s, id) {  
+ var js, fjs = d.getElementsByTagName(s)[0]; 
+  if (d.getElementById(id)) return; 
+  js = d.createElement(s); js.id = id; 
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3"; 
+  fjs.parentNode.insertBefore(js, fjs); 
+}(document, 'script', 'facebook-jssdk'));</script> 
+<div class="fb-page" data-href="https://www.facebook.com/Frontiers-News-225071940920987/" data-width="300" data-height="500" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/Frontiers-News-225071940920987/"><a href="https://www.facebook.com/Frontiers-News-225071940920987/">Facebook</a></blockquote></div></div> 
+</div>        <div class="widget-6 widget">			<h3>Photo News</h3>			<div>
+			<div class="photo-gallery-list">
+															<div class="item" rel="gallery-69939">
+							<div class="item-header">
+								<div class="gallery-navi">
+									<a href="#gal-left"><i class="fa fa-angle-left"></i></a>
+									<a href="#gal-right"><i class="fa fa-angle-right"></i></a>
+								</div>
+								<div class="gallery-change">
+									
+												<a href="http://www.frontiersnews.com/gallery/osinbajo-chairs-valedictory-session-for-out-going-minister-of-environment-mrs-amina-mohammed/?page=1" class=" active" data-id="gallery-69939">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/VELEDICTORY-SESSION-8-300x168_c.jpg" data-id="1" alt="Osinbajo Chairs Valedictory Session For Out-Going Minister Of Environment, Mrs Amina Mohammed" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/osinbajo-chairs-valedictory-session-for-out-going-minister-of-environment-mrs-amina-mohammed/?page=2" class="" data-id="gallery-69939">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/VELEDICTORY-SESSION-2-300x168_c.jpg" data-id="2" alt="Osinbajo Chairs Valedictory Session For Out-Going Minister Of Environment, Mrs Amina Mohammed" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/osinbajo-chairs-valedictory-session-for-out-going-minister-of-environment-mrs-amina-mohammed/?page=3" class="" data-id="gallery-69939">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/VELEDICTORY-SESSION-3-300x168_c.jpg" data-id="3" alt="Osinbajo Chairs Valedictory Session For Out-Going Minister Of Environment, Mrs Amina Mohammed" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/osinbajo-chairs-valedictory-session-for-out-going-minister-of-environment-mrs-amina-mohammed/?page=4" class="" data-id="gallery-69939">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/VELEDICTORY-SESSION-6-300x168_c.jpg" data-id="4" alt="Osinbajo Chairs Valedictory Session For Out-Going Minister Of Environment, Mrs Amina Mohammed" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/osinbajo-chairs-valedictory-session-for-out-going-minister-of-environment-mrs-amina-mohammed/?page=5" class="" data-id="gallery-69939">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/VELEDICTORY-SESSION-6B-300x168_c.jpg" data-id="5" alt="Osinbajo Chairs Valedictory Session For Out-Going Minister Of Environment, Mrs Amina Mohammed" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/osinbajo-chairs-valedictory-session-for-out-going-minister-of-environment-mrs-amina-mohammed/?page=6" class="" data-id="gallery-69939">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/VELEDICTORY-SESSION-4-300x168_c.jpg" data-id="6" alt="Osinbajo Chairs Valedictory Session For Out-Going Minister Of Environment, Mrs Amina Mohammed" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/osinbajo-chairs-valedictory-session-for-out-going-minister-of-environment-mrs-amina-mohammed/?page=7" class="" data-id="gallery-69939">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/VELEDICTORY-SESSION-5-300x168_c.jpg" data-id="7" alt="Osinbajo Chairs Valedictory Session For Out-Going Minister Of Environment, Mrs Amina Mohammed" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/osinbajo-chairs-valedictory-session-for-out-going-minister-of-environment-mrs-amina-mohammed/?page=8" class="" data-id="gallery-69939">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/VELEDICTORY-SESSION-6B-300x168_c.jpg" data-id="8" alt="Osinbajo Chairs Valedictory Session For Out-Going Minister Of Environment, Mrs Amina Mohammed" />
+												</a>
+																			</div>
+							</div>
+							<div class="item-content">
+								<h4><a href="http://www.frontiersnews.com/gallery/osinbajo-chairs-valedictory-session-for-out-going-minister-of-environment-mrs-amina-mohammed/" data-id="gallery-69939" class="">Osinbajo Chairs Valedictory Session For Out-Going Minister Of Environment, Mrs Amina Mohammed</a></h4>
+																<a href="http://www.frontiersnews.com/gallery/osinbajo-chairs-valedictory-session-for-out-going-minister-of-environment-mrs-amina-mohammed/" data-id="gallery-69939" class="read-more-link right">View gallery<i class="fa fa-chevron-right"></i></a>
+								<span class="info-empty-link"><i class="fa fa-camera"></i>8 Photos</span>
+								<div class="clear-float"></div>
+							</div>
+						</div>
+
+																			<div class="item" rel="gallery-69925">
+							<div class="item-header">
+								<div class="gallery-navi">
+									<a href="#gal-left"><i class="fa fa-angle-left"></i></a>
+									<a href="#gal-right"><i class="fa fa-angle-right"></i></a>
+								</div>
+								<div class="gallery-change">
+									
+												<a href="http://www.frontiersnews.com/gallery/acting-president-osinbajo-receives-commander-us-africom-general-thomas-d-waldhauser/?page=1" class=" active" data-id="gallery-69925">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/US-AFRICOM-4-300x168_c.jpg" data-id="1" alt="Acting President Osinbajo Receives Commander US-AFRICOM, General Thomas D. Waldhauser" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/acting-president-osinbajo-receives-commander-us-africom-general-thomas-d-waldhauser/?page=2" class="" data-id="gallery-69925">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/US-AFRICOM-1-300x168_c.jpg" data-id="2" alt="Acting President Osinbajo Receives Commander US-AFRICOM, General Thomas D. Waldhauser" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/acting-president-osinbajo-receives-commander-us-africom-general-thomas-d-waldhauser/?page=3" class="" data-id="gallery-69925">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/US-AFRICOM-1B-300x168_c.jpg" data-id="3" alt="Acting President Osinbajo Receives Commander US-AFRICOM, General Thomas D. Waldhauser" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/acting-president-osinbajo-receives-commander-us-africom-general-thomas-d-waldhauser/?page=4" class="" data-id="gallery-69925">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/US-AFRICOM-5-300x168_c.jpg" data-id="4" alt="Acting President Osinbajo Receives Commander US-AFRICOM, General Thomas D. Waldhauser" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/acting-president-osinbajo-receives-commander-us-africom-general-thomas-d-waldhauser/?page=5" class="" data-id="gallery-69925">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/US-AFRICOM-2-300x168_c.jpg" data-id="5" alt="Acting President Osinbajo Receives Commander US-AFRICOM, General Thomas D. Waldhauser" />
+												</a>
+																			</div>
+							</div>
+							<div class="item-content">
+								<h4><a href="http://www.frontiersnews.com/gallery/acting-president-osinbajo-receives-commander-us-africom-general-thomas-d-waldhauser/" data-id="gallery-69925" class="">Acting President Osinbajo Receives Commander US-AFRICOM, General Thomas D. Waldhauser</a></h4>
+																<a href="http://www.frontiersnews.com/gallery/acting-president-osinbajo-receives-commander-us-africom-general-thomas-d-waldhauser/" data-id="gallery-69925" class="read-more-link right">View gallery<i class="fa fa-chevron-right"></i></a>
+								<span class="info-empty-link"><i class="fa fa-camera"></i>5 Photos</span>
+								<div class="clear-float"></div>
+							</div>
+						</div>
+
+																			<div class="item" rel="gallery-69898">
+							<div class="item-header">
+								<div class="gallery-navi">
+									<a href="#gal-left"><i class="fa fa-angle-left"></i></a>
+									<a href="#gal-right"><i class="fa fa-angle-right"></i></a>
+								</div>
+								<div class="gallery-change">
+									
+												<a href="http://www.frontiersnews.com/gallery/federal-executive-council-meeting/?page=1" class=" active" data-id="gallery-69898">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/PIC-7.-FEC-MEETING-22-02-17-300x168_c.jpg" data-id="1" alt="Acting President Osinbajo Presides Over FEC Meeting. Feb 22 2017" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/federal-executive-council-meeting/?page=2" class="" data-id="gallery-69898">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/PIC-8.-FEC-MEETING-22-02-17-300x168_c.jpg" data-id="2" alt="Acting President Osinbajo Presides Over FEC Meeting. Feb 22 2017" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/federal-executive-council-meeting/?page=3" class="" data-id="gallery-69898">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/PIC-8B.-FEC-MEETING-22-02-17-300x168_c.jpg" data-id="3" alt="Acting President Osinbajo Presides Over FEC Meeting. Feb 22 2017" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/federal-executive-council-meeting/?page=4" class="" data-id="gallery-69898">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/PIC-6.-FEC-MEETING-22-02-17-300x168_c.jpg" data-id="4" alt="Acting President Osinbajo Presides Over FEC Meeting. Feb 22 2017" />
+												</a>
+																			</div>
+							</div>
+							<div class="item-content">
+								<h4><a href="http://www.frontiersnews.com/gallery/federal-executive-council-meeting/" data-id="gallery-69898" class="">Acting President Osinbajo Presides Over FEC Meeting. Feb 22 2017</a></h4>
+																<a href="http://www.frontiersnews.com/gallery/federal-executive-council-meeting/" data-id="gallery-69898" class="read-more-link right">View gallery<i class="fa fa-chevron-right"></i></a>
+								<span class="info-empty-link"><i class="fa fa-camera"></i>4 Photos</span>
+								<div class="clear-float"></div>
+							</div>
+						</div>
+
+																			<div class="item" rel="gallery-69877">
+							<div class="item-header">
+								<div class="gallery-navi">
+									<a href="#gal-left"><i class="fa fa-angle-left"></i></a>
+									<a href="#gal-right"><i class="fa fa-angle-right"></i></a>
+								</div>
+								<div class="gallery-change">
+									
+												<a href="http://www.frontiersnews.com/gallery/national-productivity-order-of-merit-npom-awards/?page=1" class=" active" data-id="gallery-69877">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/9-1-300x168_c.jpg" data-id="1" alt="National Productivity Order of Merit (NPOM) Awards" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/national-productivity-order-of-merit-npom-awards/?page=2" class="" data-id="gallery-69877">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/6-1-300x168_c.jpg" data-id="2" alt="National Productivity Order of Merit (NPOM) Awards" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/national-productivity-order-of-merit-npom-awards/?page=3" class="" data-id="gallery-69877">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/7-1-300x168_c.jpg" data-id="3" alt="National Productivity Order of Merit (NPOM) Awards" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/national-productivity-order-of-merit-npom-awards/?page=4" class="" data-id="gallery-69877">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/10-3-300x168_c.jpg" data-id="4" alt="National Productivity Order of Merit (NPOM) Awards" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/national-productivity-order-of-merit-npom-awards/?page=5" class="" data-id="gallery-69877">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/11-3-300x168_c.jpg" data-id="5" alt="National Productivity Order of Merit (NPOM) Awards" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/national-productivity-order-of-merit-npom-awards/?page=6" class="" data-id="gallery-69877">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/5-1-300x168_c.jpg" data-id="6" alt="National Productivity Order of Merit (NPOM) Awards" />
+												</a>
+											
+												<a href="http://www.frontiersnews.com/gallery/national-productivity-order-of-merit-npom-awards/?page=7" class="" data-id="gallery-69877">
+													<img src="http://www.frontiersnews.com/wp-content/uploads/2017/02/8-1-300x168_c.jpg" data-id="7" alt="National Productivity Order of Merit (NPOM) Awards" />
+												</a>
+																			</div>
+							</div>
+							<div class="item-content">
+								<h4><a href="http://www.frontiersnews.com/gallery/national-productivity-order-of-merit-npom-awards/" data-id="gallery-69877" class="">National Productivity Order of Merit (NPOM) Awards</a></h4>
+																<a href="http://www.frontiersnews.com/gallery/national-productivity-order-of-merit-npom-awards/" data-id="gallery-69877" class="read-more-link right">View gallery<i class="fa fa-chevron-right"></i></a>
+								<span class="info-empty-link"><i class="fa fa-camera"></i>7 Photos</span>
+								<div class="clear-float"></div>
+							</div>
+						</div>
+
+													
+			</div>
+			</div>
+
+
+		</div>	
+        <style>
+.rpwe-block ul{list-style:none!important;margin-left:0!important;padding-left:0!important;}.rpwe-block li{border-bottom:1px solid #eee;margin-bottom:10px;padding-bottom:10px;list-style-type: none;}.rpwe-block a{display:inline!important;text-decoration:none;}.rpwe-block h3{background:none!important;clear:none;margin-bottom:0!important;margin-top:0!important;font-weight:400;font-size:12px!important;line-height:1.5em;}.rpwe-thumb{border:1px solid #EEE!important;box-shadow:none!important;margin:2px 10px 2px 0;padding:3px!important;}.rpwe-summary{font-size:12px;}.rpwe-time{color:#bbb;font-size:11px;}.rpwe-comment{color:#bbb;font-size:11px;padding-left:5px;}.rpwe-alignleft{display:inline;float:left;}.rpwe-alignright{display:inline;float:right;}.rpwe-aligncenter{display:block;margin-left: auto;margin-right: auto;}.rpwe-clearfix:before,.rpwe-clearfix:after{content:"";display:table !important;}.rpwe-clearfix:after{clear:both;}.rpwe-clearfix{zoom:1;}
+</style>
+	<div class="widget-7 widget"><h3>Press Releases</h3><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://www.frontiersnews.com/efcc-docks-ex-gov-shema-others-for-n11billion-fraud/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://www.frontiersnews.com/wp-content/uploads/2017/02/Screenshot_20170110-202434_resized_2-45x45.png" alt="EFCC Docks Ex-Gov Shema, Others for N11billion Fraud"></a><h3 class="rpwe-title"><a href="http://www.frontiersnews.com/efcc-docks-ex-gov-shema-others-for-n11billion-fraud/" title="Permalink to EFCC Docks Ex-Gov Shema, Others for N11billion Fraud" rel="bookmark">EFCC Docks Ex-Gov Shema, Others for N11billion Fraud</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://www.frontiersnews.com/efcc-to-arraign-inec-official-over-alleged-n16m-bribe/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://www.frontiersnews.com/wp-content/uploads/2017/02/DSC_7597-45x45.jpg" alt="EFCC to Arraign INEC Official Over Alleged N16m Bribe"></a><h3 class="rpwe-title"><a href="http://www.frontiersnews.com/efcc-to-arraign-inec-official-over-alleged-n16m-bribe/" title="Permalink to EFCC to Arraign INEC Official Over Alleged N16m Bribe" rel="bookmark">EFCC to Arraign INEC Official Over Alleged N16m Bribe</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://www.frontiersnews.com/witness-recounts-how-1m-was-recovered-in-badehs-house/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://www.frontiersnews.com/wp-content/uploads/2016/06/Alex-Badeh-1-45x45.jpg" alt="Witness Recounts How $1m Was Recovered In Badeh’s House"></a><h3 class="rpwe-title"><a href="http://www.frontiersnews.com/witness-recounts-how-1m-was-recovered-in-badehs-house/" title="Permalink to Witness Recounts How $1m Was Recovered In Badeh’s House" rel="bookmark">Witness Recounts How $1m Was Recovered In Badeh’s House</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></div><div class="widget-9 widget">		<div class="widget-easy-twitter-feed-widget-global-wrapper">
+			<div class="widget-easy-twitter-feed-widget-container">
+
+				
+	          	<div class="widget-easy-twitter-feed-widget-row">
+		          	<div class="widget-easy-twitter-feed-widget-col">
+			          <div class="twitterwidget widget-easy-twitter-feed-widget-kamn-2">
+						<a class="twitter-timeline" width="300" height="500" href="https://twitter.com/twitterdev" data-widget-id="344713329262084096" data-screen-name="editorfrontiers" data-show-replies="false" data-theme="light" data-link-color="" data-border-color="" data-chrome="">Tweets by @editorfrontiers</a>
+			          </div>
+	          		</div>
+          		</div>
+
+          	</div> <!-- End .widget-global-wrapper -->
+        </div>
+
+</div><style>
+.rpwe-block ul{list-style:none!important;margin-left:0!important;padding-left:0!important;}.rpwe-block li{border-bottom:1px solid #eee;margin-bottom:10px;padding-bottom:10px;list-style-type: none;}.rpwe-block a{display:inline!important;text-decoration:none;}.rpwe-block h3{background:none!important;clear:none;margin-bottom:0!important;margin-top:0!important;font-weight:400;font-size:12px!important;line-height:1.5em;}.rpwe-thumb{border:1px solid #EEE!important;box-shadow:none!important;margin:2px 10px 2px 0;padding:3px!important;}.rpwe-summary{font-size:12px;}.rpwe-time{color:#bbb;font-size:11px;}.rpwe-comment{color:#bbb;font-size:11px;padding-left:5px;}.rpwe-alignleft{display:inline;float:left;}.rpwe-alignright{display:inline;float:right;}.rpwe-aligncenter{display:block;margin-left: auto;margin-right: auto;}.rpwe-clearfix:before,.rpwe-clearfix:after{content:"";display:table !important;}.rpwe-clearfix:after{clear:both;}.rpwe-clearfix{zoom:1;}
+</style>
+	<div class="widget-10 widget"><h3>Features</h3><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://www.frontiersnews.com/the-rise-fall-and-rise-again-of-boko-haram/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://www.frontiersnews.com/wp-content/uploads/2015/08/boko-haram-leader_fp-45x45.jpg" alt="The Rise, Fall, and Rise Again of Boko Haram"></a><h3 class="rpwe-title"><a href="http://www.frontiersnews.com/the-rise-fall-and-rise-again-of-boko-haram/" title="Permalink to The Rise, Fall, and Rise Again of Boko Haram" rel="bookmark">The Rise, Fall, and Rise Again of Boko Haram</a></h3><time class="rpwe-time published" datetime="2017-02-12T15:09:18+00:00">February 12, 2017</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://www.frontiersnews.com/muhammadu-buharis-inconclusive-medical-vacation/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://www.frontiersnews.com/wp-content/uploads/2017/02/buhari-believe-45x45.jpg" alt="Muhammadu Buhari&#8217;s &#8216;inconclusive&#8217; Medical Vacation"></a><h3 class="rpwe-title"><a href="http://www.frontiersnews.com/muhammadu-buharis-inconclusive-medical-vacation/" title="Permalink to Muhammadu Buhari&#8217;s &#8216;inconclusive&#8217; Medical Vacation" rel="bookmark">Muhammadu Buhari&#8217;s &#8216;inconclusive&#8217; Medical Vacation</a></h3><time class="rpwe-time published" datetime="2017-02-09T13:06:16+00:00">February 9, 2017</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://www.frontiersnews.com/why-does-nigeria-import-so-much-rice-bbc-news/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://www.frontiersnews.com/wp-content/uploads/2015/05/rice_fp-45x45.jpg" alt="Why does Nigeria import so much rice? &#8211; BBC News"></a><h3 class="rpwe-title"><a href="http://www.frontiersnews.com/why-does-nigeria-import-so-much-rice-bbc-news/" title="Permalink to Why does Nigeria import so much rice? &#8211; BBC News" rel="bookmark">Why does Nigeria import so much rice? &#8211; BBC News</a></h3><time class="rpwe-time published" datetime="2017-02-02T08:09:40+00:00">February 2, 2017</time></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></div><div class="widget-11 widget">			<div class="textwidget"><img src="http://www.frontiersnews.com/wp-content/uploads/2016/04/gocop-logo.jpe" alt="" title="" />
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+.style2 {font-size: 12px; font-weight: bold; }
+-->
+</style>
+</head>
+
+<body>
+<table width="300" border="0">
+  <tr>
+    <td><a href="http://www.africanexaminer.com/" class="style2">African Examiner</a></td>
+    <td><a href="http://realnewsmagazine.net/" class="style2">RealNews</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://biztellers.com/" class="style2">BizTellers</a></td>
+    <td><a href="http://www.thecitizenng.com/" class="style2">The Citizen</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.newsentinel.com.ng/" class="style2">NewSentinel</a></td>
+    <td><a href="http://www.therainbowonline.net/" class="style2">The Rainbow</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.environewsnigeria.com/" class="style2">EnviroNews Nigeria</a></td>
+    <td><a href="http://watchdogreporters.net/" class="style2">Watchdog Reporters</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.frontiersnews.com/" class="style2">Frontiers News</a> </td>
+    <td><a href="http://www.worldstagegroup.com/" class="style2">WorldStage News Online</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.greenbreporters.com/" class="style2">Greenbarge Reporters</a></td>
+    <td><a href="http://www.africanewscircle.com/" class="style2">African News Circle</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.metrowatchonline.com/" class="style2">MetroWatch</a></td>
+    <td><a href="http://channelkoos.com/" class="style2">ChannelKoos</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.newsexpressngr.com/" class="style2">News Express Nigeria</a></td>
+    <td><a href="http://dailyreviewonline.com.ng/" class="style2">Daily Review</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.premiumtimesng.com/" class="style2">Premium Times</a></td>
+    <td><a href="http://www.freedomonline.com.ng/" class="style2">Freedom Online</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://newsdiaryonline.com/" class="style2">News Diary Online</a></td>
+    <td><a href="http://globalpatriotnews.com/" class="style2">Global Patriot</a></td>
+  </tr>
+  <tr>
+    <td><span class="style2"><a href="http://www.itrealms.com.ng/">ITRealms</a></span></td>
+    <td><span class="style2"><a href="http://theeagleonline.com.ng/">The Eagle Online</a></span></td>
+  </tr>
+  <tr>
+    <td><span class="style2"><a href="http://newmail-ng.com/">New Mail</a></span></td>
+    <td><span class="style2"><a href="http://www.urhobotoday.com/">UrhoboToday</a></span></td>
+  </tr>
+  <tr>
+    <td><span class="style2"><a href="http://nigeriapoliticsonline.com/">Nigeria Politics Online</a></span></td>
+    <td><span class="style2"><a href="http://www.younewsng.com/">YouNewsNG</a></span></td>
+  </tr>
+  <tr>
+    <td><span class="style2"><a href="http://www.quicknews-africa.net/">QuickNews Africa</a></span></td>
+    <td><span class="style2"><a href="http://www.persecondnews.com/">Per Second News</a></span></td>
+  </tr>
+  <tr>
+    <td><span class="style2"><a href="http://www.sundiatapost.com/">Sundiata Post</a> </span></td>
+    <td><a href="http://www.promptnewsonline.com/" class="style2">Prompt News Online </a></td>
+  </tr>
+</table>
+</body>
+</html>
+</div>
+		</div><style>
+.rpwe-block ul{list-style:none!important;margin-left:0!important;padding-left:0!important;}.rpwe-block li{border-bottom:1px solid #eee;margin-bottom:10px;padding-bottom:10px;list-style-type: none;}.rpwe-block a{display:inline!important;text-decoration:none;}.rpwe-block h3{background:none!important;clear:none;margin-bottom:0!important;margin-top:0!important;font-weight:400;font-size:12px!important;line-height:1.5em;}.rpwe-thumb{border:1px solid #EEE!important;box-shadow:none!important;margin:2px 10px 2px 0;padding:3px!important;}.rpwe-summary{font-size:12px;}.rpwe-time{color:#bbb;font-size:11px;}.rpwe-comment{color:#bbb;font-size:11px;padding-left:5px;}.rpwe-alignleft{display:inline;float:left;}.rpwe-alignright{display:inline;float:right;}.rpwe-aligncenter{display:block;margin-left: auto;margin-right: auto;}.rpwe-clearfix:before,.rpwe-clearfix:after{content:"";display:table !important;}.rpwe-clearfix:after{clear:both;}.rpwe-clearfix{zoom:1;}
+</style>
+	<div class="widget-12 last widget"><h3>Man And Woman Affairs</h3><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://www.frontiersnews.com/3-common-fruits-that-help-you-last-long-in-bed/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://www.frontiersnews.com/wp-content/uploads/2016/11/sliced-avocado-45x45.jpg" alt="3 Common Fruits That Help You Last Long In Bed"></a><h3 class="rpwe-title"><a href="http://www.frontiersnews.com/3-common-fruits-that-help-you-last-long-in-bed/" title="Permalink to 3 Common Fruits That Help You Last Long In Bed" rel="bookmark">3 Common Fruits That Help You Last Long In Bed</a></h3><time class="rpwe-time published" datetime="2016-11-03T15:34:23+00:00">November 3, 2016</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://www.frontiersnews.com/is-it-healthy-to-have-sex-during-menstruation/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://www.frontiersnews.com/wp-content/uploads/2016/10/menses-time-45x45.jpg" alt="Is it Healthy to Have Sex During Menstruation?"></a><h3 class="rpwe-title"><a href="http://www.frontiersnews.com/is-it-healthy-to-have-sex-during-menstruation/" title="Permalink to Is it Healthy to Have Sex During Menstruation?" rel="bookmark">Is it Healthy to Have Sex During Menstruation?</a></h3><time class="rpwe-time published" datetime="2016-10-28T05:13:44+00:00">October 28, 2016</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="http://www.frontiersnews.com/3-lifestyle-habits-that-can-boost-your-sex-drive/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="http://www.frontiersnews.com/wp-content/uploads/2014/10/libido_sex_art1-45x45.jpg" alt="3 Lifestyle Habits That Can Boost Your Sex Drive"></a><h3 class="rpwe-title"><a href="http://www.frontiersnews.com/3-lifestyle-habits-that-can-boost-your-sex-drive/" title="Permalink to 3 Lifestyle Habits That Can Boost Your Sex Drive" rel="bookmark">3 Lifestyle Habits That Can Boost Your Sex Drive</a></h3><time class="rpwe-time published" datetime="2016-10-26T20:44:17+00:00">October 26, 2016</time></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></div>			<!-- END #sidebar -->
+	</aside>
+				</div>
+				
+			<!-- END .wrapper -->
+			</div>
+			
+		<!-- BEGIN .content -->
+		</section>
+
+
+							<!-- BEGIN .footer -->
+			<footer class="footer">
+					
+				<!-- BEGIN .footer-widgets -->
+				<div class="footer-widgets">
+					<!-- BEGIN .wrapper -->
+					<div class="wrapper">
+						<div class="widget-1 first widget">			<div class="textwidget"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<table width="600" border="0">
+<tr>
+    <td colspan="2"><strong>MEDIA PARTNERS</strong> </td>
+  </tr>
+  <tr>
+    <td height="30"><a href="http://biztellers.com/"></a></td>
+    <td><a href="http://www.thecitizenng.com/"></a></td>
+  </tr>
+  <tr>
+    <td height="31"><a href="http://www.promptnewsonline.com/">Prompt News Online </a></td>
+    <td><a href="http://www.africanexaminer.com/">African Examiner </a></td>
+  </tr>
+  <tr>
+    <td height="32"><a href="http://www.huhuonline.com/">Huhu Online </a></td>
+    <td><a href="http://pointblanknews.com/">Pointblank News </a></td>
+  </tr>
+  <tr>
+    <td height="32"><a href="http://www.theeagleonline.com.ng/">Eagle Online </a></td>
+    <td><a href="http://thewillnigeria.com/">The Will Nigeria </a></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.persecondnews.com/">Per Second News </a></td>
+    <td><a href="http://watchdogreporters.net/">Watchdog Reporters</a></td>
+  </tr>
+</table>
+</body>
+</html>
+</div>
+		</div>						<div class="clear-float"></div>
+					</div>				
+				<!-- END .footer-widgets -->
+				</div>
+				
+				<!-- BEGIN .wrapper -->
+				<div class="wrapper">
+										<p>© 2016 Copyright <b>Frontiers Newspapers</b>. All Rights reserved.</p>
+				<!-- END .wrapper -->
+				</div>
+				
+			<!-- END .footer -->
+			</footer>
+			
+		<!-- END .boxed -->
+		</div>
+
+		<div class="lightbox">
+			<div class="lightcontent-loading">
+				<a href="#" onclick="javascript:lightboxclose();" class="light-close"><i class="fa fa-times"></i>Close Window</a>
+				<div class="loading-box">
+					<h3>Loading, Please Wait!</h3>
+					<span>This may take a second or two.</span>
+					<span class="loading-image"><img src="http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/images/loading.gif" title="" alt="" /></span>
+				</div>
+			</div>
+			<div class="lightcontent"></div>
+		</div>
+
+		<script type="text/javascript">
+			jQuery(".ot-slider").owlCarousel({
+				items : 1,
+								autoplay : true,
+				nav : true,
+				lazyload : false,
+				dots : false,
+				margin : 15
+			});
+		</script>
+
+
+
+
+	    <script>jQuery(document).ready(function(a){a("a.nturl").on("click",function(){function l(){doGoogleLanguageTranslator(default_lang+"|"+default_lang)}function n(){doGoogleLanguageTranslator(default_lang+"|"+lang_prefix)}default_lang="en",lang_prefix=a(this).attr("class").split(" ")[2],lang_prefix==default_lang?l():n()}),a("a.flag").on("click",function(){function l(){doGoogleLanguageTranslator(default_lang+"|"+default_lang)}function n(){doGoogleLanguageTranslator(default_lang+"|"+lang_prefix)}default_lang="en",lang_prefix=a(this).attr("class").split(" ")[2],a(".tool-container").hide(),lang_prefix==default_lang?l():n()}),0==a("body > #google_language_translator").length&&a("#glt-footer").html("<div id='google_language_translator'></div>")});</script>
+
+    <div id="glt-translate-trigger"><span class="notranslate">Translate &raquo;</span></div><div id="glt-toolbar"></div><div id='glt-footer'></div><script type='text/javascript'>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false}, 'google_language_translator');}</script><script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit'></script>
+<!-- start WPPA+ Footer data -->
+	<div id="wppa-overlay-bg" style="text-align:center; display:none; position:fixed; top:0; left:0; z-index:100090; width:100%; height:2048px; background-color:black;" onclick="wppaOvlOnclick(event)" >
+		<div id="wppa-ovl-legenda-1" onmouseover="jQuery(this).css('visibility','visible');" onmouseout="jQuery(this).css('visibility','hidden');" style="position:absolute; left:0; top:0; background-color:black;color:#a7a7a7; visibility:visible;" >
+			Press f for fullscreen.
+		</div>
+		<img id="wppa-fulls-btn" src="http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus/images/fulls.png" style="height:32px;z-index:100091;position:fixed;top:0;right:0;" onclick="wppaOvlFull()" ontouchstart="wppaOvlFull()" onmouseover="jQuery(this).fadeTo(600,1);" onmouseout="jQuery(this).fadeTo(600,0);" >
+	</div>
+	<div id="wppa-overlay-ic" style="position:fixed; top:0; padding-top:10px; z-index:100095; opacity:1; box-shadow:none;" >
+	</div>
+	<img id="wppa-overlay-sp" alt="spinner" style="position:fixed; top:200px; left:200px; z-index:100100; opacity:1; visibility:hidden; box-shadow:none;" src="http://www.frontiersnews.com/wp-content/plugins/wp-photo-album-plus/images/loading.gif" />
+	<script type="text/javascript">jQuery("#wppa-overlay-bg").css({height:window.innerHeight});
+		wppaOvlTxtHeight = "auto";
+		wppaOvlCloseTxt = "CLOSE";
+		wppaOvlOpacity = 0.8;
+		wppaOvlOnclickType = "none";
+		wppaOvlTheme = "black";
+		wppaOvlAnimSpeed = 300;
+		wppaOvlSlideSpeed = 5000;
+		wppaVer4WindowWidth = 800;
+		wppaVer4WindowHeight = 600;
+		wppaOvlShowCounter = true;
+		
+		wppaOvlFontSize = "10";
+		
+		wppaOvlFontWeight = "bold"
+		wppaOvlLineHeight = "12"
+		wppaOvlFullLegenda = "Keys: f = next mode; escape = exit; p = previous, n = next, s = start/stop, d = dismiss this notice.";
+		wppaOvlFullLegendaSingle = "Keys: f = next mode; escape = exit; d = dismiss this notice.";
+		wppaOvlVideoStart = true;
+		wppaOvlAudioStart = true;
+		wppaOvlShowLegenda = true;
+		wppaOvlShowStartStop = true;
+	</script>
+	<input type="hidden" id="wppa-nonce" name="wppa-nonce" value="4819859adf" />
+	<script type="text/javascript">
+	</script>
+<!-- end WPPA+ Footer data -->
+
+<!-- Do user upload -->
+<!-- Done user upload --><!--[if lte IE 9]><script src="http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/ie-fix.js".js"></script><![endif]--><script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/anti-spam/js/anti-spam-3.5.js'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/admin/jquery.c00kie.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/jquery.floating_popup.1.3.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/modernizr.custom.50878.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/iscroll.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/dat-menu.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/theme-scripts.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/lightbox.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/jquery.event.move.js?ver=1.3.1'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/jquery.event.swipe.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/isotope.pkgd.min.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/jquery.infinitescroll.min.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/imagesloaded.pkgd.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-includes/js/comment-reply.min.js?ver=4.4.7'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/ot_gallery.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/themes/gadgetine-theme/js/gadgetine.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-content/plugins/easy-twitter-feed-widget/lib/js/widget-easy-twitter-feed-widget.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.frontiersnews.com/wp-includes/js/wp-embed.min.js?ver=4.4.7'></script>
+		<!-- Facebook Comments for WPPA+ -->
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+		<!-- END body -->
+	</body>
+<!-- END html -->
+</html>
