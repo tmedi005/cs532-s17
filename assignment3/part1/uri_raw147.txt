@@ -1,0 +1,2397 @@
+<!doctype html >
+
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"> <!--<![endif]-->
+
+<head>
+
+<meta name="apple-itunes-app" content="app-id=601935043">
+
+<meta name="prism.channel" content="fnc" /> 
+<meta name="prism.section" content="radio" /> 
+<meta name="prism.subsection1" content="" /> 
+<meta name="prism.subsection2" content="" /> 
+<meta name="prism.subsection3" content="" /> 
+<meta name="prism.subsection4" content="" />
+
+
+<script type="text/javascript" src="http://radio.foxnews.com/wp-content/js/getElementsByClassName.polyfill.js">
+</script>
+
+
+<script type="text/javascript" src="http://radio.foxnews.com/wp-content/js/media.match.js">
+</script>
+
+
+<!-- google plus -->
+  <script type="text/javascript">
+  (function() {
+    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+    po.src = "https://apis.google.com/js/plusone.js?publisherid=116209999506021768668";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="http://radio.foxnews.com/xmlrpc.php" />
+
+    <meta property="og:image" content="http://radio.foxnews.com/wp-content/uploads/2017/02/AP17053717047467.jpg" /><link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="FOX News Radio &raquo; Feed" href="http://radio.foxnews.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FOX News Radio &raquo; Comments Feed" href="http://radio.foxnews.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/radio.foxnews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=e9e99e3ce015be8ca938a632a653f146"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='admin-bar-style-css'  href='http://radio.foxnews.com/wp-content/plugins/wp-analytify-pro/css/admin_bar_styles.css?ver=1.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://radio.foxnews.com/wp-content/themes/Newspaper/style.css?ver=e9e99e3ce015be8ca938a632a653f146' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-opensans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=e9e99e3ce015be8ca938a632a653f146' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-pt-sans-css'  href='http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic&#038;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic&#038;ver=e9e99e3ce015be8ca938a632a653f146' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald%3A400%2C300%2C700&#038;subset=latin%2Clatin-ext&#038;ver=e9e99e3ce015be8ca938a632a653f146' type='text/css' media='all' />
+<link rel='stylesheet' id='google-roboto-cond-css'  href='http://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=e9e99e3ce015be8ca938a632a653f146' type='text/css' media='all' />
+<link rel='stylesheet' id='google-vollkorn-css'  href='http://fonts.googleapis.com/css?family=Vollkorn%3A400italic%2C700italic%2C400%2C700&#038;ver=e9e99e3ce015be8ca938a632a653f146' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-style-css'  href='http://fonts.googleapis.com/css?family=Ubuntu%3A400%2C700&#038;ver=e9e99e3ce015be8ca938a632a653f146' type='text/css' media='all' />
+<link rel='stylesheet' id='td-bootstrap-css'  href='http://radio.foxnews.com/wp-content/themes/Newspaper/includes/wp_booster/external/bootstrap/td-bootstrap.css?ver=4.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='http://radio.foxnews.com/wp-content/themes/Newspaper-child/style.css?ver=4.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='http://radio.foxnews.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=e9e99e3ce015be8ca938a632a653f146' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-icomoon-css'  href='http://radio.foxnews.com/wp-content/uploads/smile_fonts/icomoon/icomoon.css?ver=e9e99e3ce015be8ca938a632a653f146' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-GooglePlay-css'  href='http://radio.foxnews.com/wp-content/uploads/smile_fonts/GooglePlay/GooglePlay.css?ver=e9e99e3ce015be8ca938a632a653f146' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://radio.foxnews.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://radio.foxnews.com/wp-content/themes/Newspaper-child/js/popup.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='http://radio.foxnews.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://radio.foxnews.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://radio.foxnews.com/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="http://radio.foxnews.com/2017/02/22/patriots-bill-belichick-could-possibly-testify-in-aaron-hernandez-trial/" />
+<link rel='shortlink' href='http://bit.ly/2kNROX1' />
+<link rel="alternate" type="application/json+oembed" href="http://radio.foxnews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fradio.foxnews.com%2F2017%2F02%2F22%2Fpatriots-bill-belichick-could-possibly-testify-in-aaron-hernandez-trial%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://radio.foxnews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fradio.foxnews.com%2F2017%2F02%2F22%2Fpatriots-bill-belichick-could-possibly-testify-in-aaron-hernandez-trial%2F&#038;format=xml" />
+<script type="text/javascript" src="http://radio.foxnews.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.6"></script>
+<script type="text/javascript">AudioPlayer.setup("http://radio.foxnews.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.6", {width:"290",animation:"no",encode:"no",initialvolume:"70",remaining:"yes",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"990000",text:"333333",leftbg:"990000",lefticon:"ffffff",volslider:"e3b6b6",voltrack:"ffffff",rightbg:"990000",rightbghover:"662323",righticon:"ffffff",righticonhover:"FFFFFF",track:"FFFFFF",loader:"dbbc42",border:"CCCCCC",tracker:"eddfdf",skip:"ffffff",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+<!-- Start of DualFeeds (1.11) plugin additions -->
+<link rel="alternate" type="application/rss+xml" title="FOX News Radio - Summary Feed" href="http://radio.foxnews.com/feed/?dualfeed=2" />
+<link rel="alternate" type="application/rss+xml" title="FOX News Radio -  Comments Feed" href="http://radio.foxnews.com/comments/feed/" />
+<!-- End of DualFeeds plugin additions -->
+    	<style type="text/css">
+			div.fb-post{
+				width:100% !important;
+				max-width:100% !important;
+				min-width:100% !important;
+				display:block !important;
+			}
+			div.fb-post *{
+				width:100% !important;
+				max-width:100% !important;
+				min-width:100% !important;
+				display:block !important;
+			}
+		</style>
+        	<style type="text/css">
+			div.fb-page{
+				width:100% !important;
+				max-width:100% !important;
+				min-width:100% !important;
+				display:block !important;
+			}
+			div.fb-page *{
+				width:100% !important;
+				max-width:100% !important;
+				min-width:100% !important;
+				display:block !important;
+			}
+		</style>
+        	<style type="text/css">
+			div.fb-video{
+				width:100% !important;
+				max-width:100% !important;
+				min-width:100% !important;
+				display:block !important;
+			}
+			div.fb-video *{
+				width:100% !important;
+				max-width:100% !important;
+				min-width:100% !important;
+				display:block !important;
+			}
+		</style>
+        	<style type="text/css">
+			div.fb-comments{
+				width:100% !important;
+				max-width:100% !important;
+				min-width:100% !important;
+				display:block !important;
+			}
+			div.fb-comments *{
+				width:100% !important;
+				max-width:100% !important;
+				min-width:100% !important;
+				display:block !important;
+			}
+		</style>
+    	
+<style type="text/css" media="screen">
+	#rotator {
+		position: relative;
+		width: 260px;
+		height: 260px;
+		margin: 0; padding: 0;
+		overflow: hidden;
+	}
+</style>
+	
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://radio.foxnews.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+<!-- Style compiled by theme -->
+
+<style>
+    
+.block-title a,
+    .block-title span,
+    .td-tags a:hover,
+    .td-scroll-up-visible,
+    .td-scroll-up,
+    .sf-menu ul .current-menu-item > a,
+    .sf-menu ul a:hover,
+    .sf-menu ul .sfHover > a,
+    .sf-menu ul .td-menu-item > a:hover,
+    .td-rating-bar-wrap div,
+    .iosSlider .slide-meta-cat,
+    .sf-menu ul .current-menu-ancestor > a,
+    .sf-menu ul .current-category-ancestor > a,
+    .td-404-sub-sub-title a,
+    .widget_tag_cloud .tagcloud a:hover,
+    .td-mobile-close a,
+    ul.td-category a,
+    .td_social .td_social_type .td_social_button a,
+    .dropcap,
+    .td-forum-category-title .td-forum-category-name,
+    .td_display_err,
+    .td_block_mega_menu .td-ajax-next-page:hover,
+    .td_block_mega_menu .td_ajax-prev-page:hover,
+    .post-via span,
+    .td_wrapper_video_playlist
+    .td_video_controls_playlist_wrapper
+    {
+        background-color: #000000;
+    }
+
+
+    .block-title,
+    .sf-menu li a:hover,
+    .sf-menu .sfHover a,
+    .sf-menu .current-menu-ancestor a,
+    .sf-menu .current-category-ancestor a,
+    .header-search-wrap
+    .dropdown-menu,
+    .sf-menu > .current-menu-item > a,
+    .ui-tabs-nav,
+    .woocommerce .product .woocommerce-tabs ul.tabs,
+    .td-forum-list-head,
+    .td-login-panel-title
+    {
+        border-color: #000000;
+    }
+
+    .widget_price_filter .ui-slider-handle,
+    .td_wrapper_video_playlist .td_video_currently_playing:after
+    {
+        border-color: #000000 !important;
+    }
+
+    .author-box-wrap .td-author-name a,
+    blockquote p,
+    .page-nav a:hover,
+    .widget_pages .current_page_item a,
+    .widget_calendar td a,
+    .widget_categories .current-cat > a,
+    .widget_pages .current_page_parent > a,
+    .td_pull_quote p,
+    .page-nav-post a:hover span,
+    .td-forum-last-comment-content .td-forum-last-author,
+    .td-topics-title-details a,
+    .td-posted-in a
+    {
+        color: #000000;
+    }
+
+    .woocommerce .button,
+    .woocommerce .form-submit #submit,
+    .widget_price_filter .ui-slider-handle,
+    .jetpack_subscription_widget input[type="submit"],
+    .pp_woocommerce .pp_close,
+    .pp_woocommerce .pp_expand,
+    .pp_woocommerce .pp_contract,
+    .pp_woocommerce .pp_arrow_previous,
+    .pp_woocommerce .pp_arrow_next,
+    .pp_woocommerce
+    .pp_next:before,
+    .pp_woocommerce .pp_previous:before,
+    #bbpress-forums .button
+    {
+        background: #000000 !important;
+    }
+
+    .woocommerce .woocommerce-message,
+    .woocommerce .woocommerce-info,
+    .bbp-template-notice,
+    .td-reply-list-header
+    {
+        border-color: #000000 !important;
+    }
+
+
+    .woocommerce .woocommerce-message:before,
+    .woocommerce .woocommerce-info:before,
+    .td-login-button
+    {
+        background-color: #000000 !important;
+    }
+
+
+    .buddypress #buddypress div.dir-search input[type="submit"],
+    .buddypress #buddypress .message-search input[type="submit"],
+    .buddypress #buddypress .item-list-tabs ul li.selected a,
+    .buddypress #buddypress .generic-button a,
+    .buddypress #buddypress .submit input[type="submit"],
+    .buddypress #buddypress .ac-reply-content input[type="submit"],
+    .buddypress #buddypress .standard-form input[type="submit"],
+    .buddypress #buddypress .standard-form .button-nav .current a,
+    .buddypress #buddypress .standard-form .button,
+    .buddypress #buddypress input[type="submit"],
+    .buddypress #buddypress a.accept,
+    .buddypress #buddypress #activate-page .standard-form input[type="submit"],
+    .buddypress #buddypress .standard-form #group-create-body input[type="button"],
+    .post-password-required input[type="submit"]
+    {
+        background: #000000 !important;
+    }
+
+    .buddypress #buddypress .groups .item-meta,
+    .bbp-forum-title:hover,
+    .td_login_tab_focus,
+    .block-mega-child-cats a.cur-sub-cat
+    {
+        color: #000000 !important;
+    }
+
+    .page-nav .current,
+    .page-nav-post span
+    {
+        background-color: #000000;
+        border-color: #000000;
+    }
+
+
+    .wpb_btn-inverse,
+    .ui-tabs-nav .ui-tabs-active a,
+    .post .wpb_btn-danger,
+    .form-submit input,
+    .wpcf7-submit,
+    .wpb_default,
+    .woocommerce .product .woocommerce-tabs ul.tabs li.active,
+    .woocommerce.widget_product_search input[type="submit"],
+    .more-link-wrap,
+    .td_read_more {
+        background-color: #000000 !important;
+    }
+
+
+    .header-search-wrap .dropdown-menu:before {
+        border-color: transparent transparent #000000;
+    }
+
+
+    .td-mobile-content .current-menu-item > a,
+    .td-mobile-content a:hover
+    {
+        color: #000000 !important;
+    }
+
+
+    .category .entry-content,
+    .tag .entry-content,
+    .td_quote_box
+    {
+        border-color: #000000;
+    }
+
+    .td-timeline-block-title {
+        background-color: #000000 !important;
+    }
+
+    .td-timeline-wrapper-links {
+       border-color: #000000 !important;
+    }
+
+    .td-timline-h1-link  span {
+        background-color: #000000 !important;
+    }
+
+    .td-page-title .td-search-query {
+         color: #000000;
+    }
+
+     
+    .td-sbig-title-wrap .td-sbig-title,
+    .td-slide-item-sec .td-sbig-title-wrap,
+    .td-big-grid-title .td-sbig-title-wrap
+    {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+
+
+    
+    ::-moz-selection {
+        background: #323232;
+        color: #fff;
+    }
+
+    ::selection {
+        background: #323232;
+        color: #fff;
+    }
+
+
+
+    
+    .td-full-layout .td-menu-background {
+        background: #3f3f3f !important;
+    }
+
+    .td-boxed-layout .td-menu-background .td-menu-wrap {
+        background: #3f3f3f !important;
+    }
+
+
+    
+    .header-logo-wrap .td-logo-text,
+    .header-logo-wrap .td-tagline-text
+    {
+        color: #000000 !important;
+    }
+
+
+
+    
+    .td-logo-rec-wrap, .td-full-logo {
+        background-color: transparent !important;
+    }
+
+
+    
+    .td-full-layout .td-header-menu-wrap {
+        background-color: #444444 !important;
+    }
+
+    .td-boxed-layout .td-header-menu-wrap .container {
+        background-color: #444444 !important;
+    }
+
+	
+	
+	a, .widget_recent_comments .recentcomments .url {
+		color: #bc2b2b;
+    }
+    .cur-sub-cat {
+      color:#bc2b2b !important;
+    }
+    .blog-stack .sf-menu .current-menu-item a,
+    .blog-stack .sf-menu .current-menu-parent .current-menu-item a,
+    .blog-stack .sf-menu .current-menu-parent > a,
+    .blog-stack .sf-menu > li:hover > a,
+    .blog-stack .sf-menu ul li:hover > a,
+    .blog-stack .td-post-text-content .more-link-wrap:hover a,
+    .blog-stack .sf-menu ul .td_mega_menu_sub_cats a.cur-sub-cat,
+    .blog-stack .sf-menu ul .td_mega_menu_sub_cats a.cur-sub-cat:hover,
+    .blog-stack .td-mega-menu .block-mega-child-cats a:hover,
+    .blog-stack .td_mod_mega_menu:hover .item-details a,
+    .blog-stack .sf-menu .current-menu-ancestor > a,
+    .blog-stack .sf-menu .current-category-ancestor > a
+    {
+        color:#bc2b2b;
+    }
+
+
+    .blog-stack .sf-menu > .current-menu-ancestor > a,
+    .blog-stack .sf-menu > .current-category-ancestor > a
+    {
+        color:#bc2b2b !important;
+    }
+
+    .blog-stack .sf-menu ul li {
+        background-color: #bc2b2b;
+    }
+
+    .blog-stack .td-post-text-content .more-link-wrap a:hover {
+        outline-color: #bc2b2b;
+    }
+
+	
+	
+	a:hover,
+	.widget_recent_comments .recentcomments .url:hover
+	{
+		color: #bc2b2b;
+    }
+
+
+    
+    .td-full-layout .td-footer-wrap,
+    .td-boxed-layout .td-footer-wrap .span12
+    {
+         background: #494949 url('http://radio.foxnews.com/wp-content/themes/Newspaper/images/footer/top-shadow.png') repeat-x top;
+    }
+
+
+    
+    .td-full-layout .td-sub-footer-wrap,
+    .td-boxed-layout .td-sub-footer-wrap .container
+    {
+        background-color: #3f3f3f;
+    }
+
+
+    
+    .td-footer-wrap,
+    .td-footer-wrap a,
+    .td-footer-wrap .td_top_authors .td-authors-name a
+    {
+        color: #000000;
+    }
+
+    .td-footer-wrap .entry-title a {
+        color: #000000 !important;
+    }
+
+    .td_top_authors .td_mod_wrap:hover  {
+        background-color: transparent !important;
+    }
+
+
+    
+    .td-sub-footer-copy, .td-sub-footer-wrap a {
+        color: #ffffff !important;
+    }
+    .td-sub-footer-menu li a:before {
+        background-color: rgba(255, 255, 255, 0.3);
+    }
+
+
+    
+    .top-header-menu li a:before {
+        background-color: rgba(255, 255, 255, 0.3);
+    }
+
+
+    
+    .td-menu-header .td-sp,
+    .sf-sub-indicator{
+        background-image: url('http://radio.foxnews.com/wp-content/themes/Newspaper/images/header/elements-menu.png');
+    }
+
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 2),
+    only screen and (-moz-min-device-pixel-ratio: 2),
+    only screen and (min-device-pixel-ratio: 2) {
+        .td-menu-header .td-sp, .sf-sub-indicator{
+            background-image: url('http://radio.foxnews.com/wp-content/themes/Newspaper/images/header/elements-menu@2x.png');
+        }
+    }
+
+
+
+
+
+
+
+    
+    .post header h1, .post header h1 a {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    body .td-post-text-content {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .post .td-post-text-content h4 {
+        font-family:Ubuntu;
+	color:#000000;
+	
+    }
+
+    
+    .page-template-default h1.td-page-title span,
+    .page-template-page-pagebuilder-title-php h1.td-page-title span{
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h1 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h2 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h3 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h4 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h5 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content h6 {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content blockquote.td_quote_left p,
+    .page-template-default .td-page-text-content blockquote.td_quote_right p,
+    .page-template-default .td-page-text-content blockquote:not(.td-quote-classic):not(.td_quote_box):not(.td_pull_quote) p {
+        font-family:Ubuntu;
+	
+    }
+
+
+    
+    .page-template-default .td-page-text-content blockquote.td-quote-classic p {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .page-template-default .td-page-text-content .td-quote-author p {
+        font-family:Ubuntu;
+	
+    }
+
+
+
+
+
+
+
+
+    
+    .td-header-menu-wrap li a, .td-header-menu-wrap .td_data_time {
+        font-family:Ubuntu;
+	color:#ffffff;
+	
+    }
+
+    
+    .sf-menu > .td-menu-item > a {
+        font-family:Ubuntu;
+	color:#ffffff;
+	
+    }
+
+    
+    .td_mod_mega_menu .item-details a {
+        font-family:Ubuntu;
+	color:#ffffff;
+	
+    }
+
+    
+    .sf-menu ul .td-menu-item a, .td_mega_menu_sub_cats .block-mega-child-cats a{
+        font-family:Ubuntu;
+	color:#000000;
+	
+    }
+
+
+    
+    .td_block_wrap .block-title a, .block-title span, .block-title label {
+        font-family:Ubuntu;
+	color:#ffffff;
+	
+    }
+
+    
+    .td_mod2 .entry-title a, .td_mod5 .entry-title a, .td_mod6 .entry-title a, .td_mod_search .entry-title a {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .td_mod3 .entry-title a, .td_mod4 .entry-title a, .td_mod_mega_menu .item-details a {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    body .td-post-text-excerpt {
+        font-family:Ubuntu;
+	
+    }
+
+    
+    .ui-tabs-nav a, .ui-tabs-nav .ui-tabs-active a {
+        font-family:Ubuntu;
+	
+    }
+body {
+background-color:#f4f4f4;
+                    }
+</style>
+
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+var td_blocks = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function td_block() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_cur_cat = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+    this.is_ajax_running = false;
+    this.header_color = '';
+    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+}
+
+    
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+var td_ajax_url="http://radio.foxnews.com/wp-admin/admin-ajax.php";
+var td_get_template_directory_uri="http://radio.foxnews.com/wp-content/themes/Newspaper";
+var tds_snap_menu="smart_snap_mobile";
+var tds_header_style="";
+var tds_mobile_swipe="";
+var td_search_url="http://radio.foxnews.com/search/";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="show";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top="0";
+var tds_theme_color_site_wide="#000000";
+</script>
+
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.7 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="FOX News Radio"/>
+  <meta property="og:title" content="Patriots&#039; Bill Belichick Could Possibly Testify in Aaron Hernandez Trial"/>
+  <meta property="og:url" content="http://radio.foxnews.com/2017/02/22/patriots-bill-belichick-could-possibly-testify-in-aaron-hernandez-trial/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="The New England Patriots&#039; head coach may testify in the double-murder trial of a former player.
+
+FOX&#039;s Gurnal Scott with the story:
+
+
+
+Bill Belichick, who earlier this month won his fifth Super Bowl with New England, could possibly take the stand for the defense team of Aaron Hernandez.
+
+Her"/>
+  <meta property="og:image" content="http://radio.foxnews.com/wp-content/uploads/2017/02/AP17053717047467.jpg"/>
+  <meta property="article:published_time" content="2017-02-22T19:08:18+00:00"/>
+  <meta property="article:modified_time" content="2017-02-22T19:08:18+00:00" />
+  <meta property="og:updated_time" content="2017-02-22T19:08:18+00:00" />
+  <meta property="article:section" content="News"/>
+  <meta property="article:section" content="Sports"/>
+  <meta property="fb:app_id" content="108927045863499"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="Patriots&#039; Bill Belichick Could Possibly Testify in Aaron Hernandez Trial"/>
+  <meta itemprop="description" content="The New England Patriots&#039; head coach may testify in the double-murder trial of a former player.
+
+FOX&#039;s Gurnal Scott with the story:
+
+
+
+Bill Belichick, who earlier this month won his fifth Super Bowl with New England, could possibly take the stand for the defense team of Aaron Hernandez.
+
+Her"/>
+  <meta itemprop="image" content="http://radio.foxnews.com/wp-content/uploads/2017/02/AP17053717047467.jpg"/>
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Patriots&#039; Bill Belichick Could Possibly Testify in Aaron Hernandez Trial"/>
+  <meta name="twitter:url" content="http://radio.foxnews.com/2017/02/22/patriots-bill-belichick-could-possibly-testify-in-aaron-hernandez-trial/"/>
+  <meta name="twitter:image" content="http://radio.foxnews.com/wp-content/uploads/2017/02/AP17053717047467.jpg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+  <meta name="description" content="The New England Patriots&#039; head coach may testify in the double-murder trial of a former player.
+
+FOX&#039;s Gurnal Scott with the story:
+
+
+
+Bill Belichick, who earlier this month won his fifth Super Bowl with New England, could possibly take the stand for the defense team of Aaron Hernandez.
+
+Her"/>
+ <!-- Misc. tags -->
+<!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.7 -->
+
+
+<script type="text/javascript" src="http://radio.foxnews.com/wp-content/js/getElementsByClassName.polyfill.js">
+</script>
+
+
+<script type="text/javascript" src="http://radio.foxnews.com/wp-content/js/media.match.js">
+</script>
+
+
+<script type="text/javascript" src="http://radio.foxnews.com/sched/sched/output/js_schedule"></script>
+
+
+<!-- Script to unhide (make visible) the Audio player Div.  Not seen in source unless on the Account page -->
+<!-- end unhide code -->
+
+
+<!-- TITLE and GOOGLE related code -->
+
+<!-- google analytics-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-193616-4', 'auto');
+  ga('set', 'contentGroup1', 'Thomas Byrne');
+ ga('set', 'contentGroup2', 'Post: News');
+ ga('send', 'pageview');
+</script>
+<!-- end google analytics -->
+
+<title>Patriots&#8217; Bill Belichick Could Possibly Testify in Aaron Hernandez Trial | News</title>
+
+	<!-- END TITLE CODE -->
+
+<script src="http://global.fncstatic.com/static/v/all/js/network-tabs.rs.js"></script>
+
+<script src="http://global.fncstatic.com/static/isa/core.js"></script>
+
+<script>
+(function($){
+    $.ad.pre();
+    $(window).load(function(){ $.ad.init(); });
+}(jQuery));
+</script>
+
+
+</head>
+
+
+<body class="post-template-default single single-post postid-121453 single-format-standard td-boxed-layout patriots-bill-belichick-could-possibly-testify-in-aaron-hernandez-trial wpb-js-composer js-comp-ver-5.0.1 vc_responsive">
+
+
+
+
+         <!-- breaking news -->
+			               <!-- /end breaking -->
+
+
+			    <!-- anchored coverage -->
+			                              
+		   
+		   
+          <!-- promo bar -->
+			    			            <div class="promobar container" style="color:white !important; background-color: #2B57E2; padding:16px 0px; font-weight: bold; font-size: 2em;"><a href="http://radio.foxnews.com/2017/02/22/ill-tell-you-what-the-disconnect-between-party-platforms-voters/" rel="bookmark" style="color: white !important; line-height: 1em; display: block; padding: 0px 15px; font-weight: bold;" title="Permanent Link to I&#8217;ll Tell You What&#8230;The Disconnect Between Party Platforms &#038; Voters">I&#8217;ll Tell You What&#8230;The Disconnect Between Party Platforms &#038; Voters</a></div>        
+			                <!-- /end breaking -->
+
+
+<div id="outer-wrap">
+    <div id="td-mobile-nav" class="td-transition-content-and-menu">
+    <!-- mobile menu close -->
+    <div class="td-mobile-close">
+        <a href="#">CLOSE</a>
+        <div class="td-nav-triangle"></div>
+    </div>
+
+    <div class="td-mobile-content">
+        <div class="menu-top-nav-container"><ul id="menu-top-nav" class=""><li id="menu-item-40222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first td-no-down-arrow menu-item-40222"><a href="http://radio.foxnews.com"><span class="menu_icon td-sp td-sp-ico-home"></span><span class="menu_hidden">Home</span></a></li>
+<li id="menu-item-40234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40234"><a href="/fox-news-talk/">FOX News Talk Shows</a>
+<ul class="sub-menu">
+	<li id="menu-item-0" class="menu-item-0"><a href="http://radio.foxnews.com/category/talk/alan-colmes-talk-radio/">Alan Colmes</a></li>
+	<li class="menu-item-0"><a href="http://radio.foxnews.com/category/talk/john-gibson-talk-radio/">John Gibson</a></li>
+	<li class="menu-item-0"><a href="http://radio.foxnews.com/category/talk/kilmeade-and-friends/">Kilmeade and Friends</a></li>
+	<li class="menu-item-0"><a href="http://radio.foxnews.com/category/talk/tom-sullivan-talk-radio/">Tom Sullivan</a></li>
+</ul>
+</li>
+<li id="menu-item-40224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-40224"><a href="/podcast">Podcasts</a>
+<ul class="sub-menu">
+	<li id="menu-item-40241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40241"><a href="/account">Premium Podcast Account Access</a></li>
+	<li id="menu-item-47281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47281"><a href="/podcast/#talk">FOX News Talk Radio Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-47254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47254"><a href="http://radio.foxnews.com/podcast/fox-news-talk-podcast/">FOX News Talk All-In-One Podcast</a></li>
+		<li id="menu-item-47256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47256"><a href="http://radio.foxnews.com/podcast/kilmeade-and-friends/">Kilmeade and Friends Show</a></li>
+		<li id="menu-item-47255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47255"><a href="http://radio.foxnews.com/podcast/john-gibson-show/">John Gibson Show</a></li>
+		<li id="menu-item-47269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47269"><a href="http://radio.foxnews.com/podcast/tom-sullivan-show/">Tom Sullivan Show</a></li>
+		<li id="menu-item-47265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47265"><a href="http://radio.foxnews.com/podcast/the-alan-colmes-show/">The Alan Colmes Show</a></li>
+	</ul>
+</li>
+	<li id="menu-item-47279" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47279"><a href="/podcast/#channel">FOX News Channel Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-47273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47273"><a href="http://radio.foxnews.com/podcast/megacast-podcast/">MEGAcast All-In-One Podcast</a></li>
+		<li id="menu-item-47274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47274"><a href="http://radio.foxnews.com/podcast/quadcast/">QUADcast 4-In-One Podcast</a></li>
+		<li id="menu-item-47272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47272"><a href="http://radio.foxnews.com/podcast/fox-friends-tv-show/">FOX &#038; Friends</a></li>
+		<li id="menu-item-55373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55373"><a href="http://radio.foxnews.com/podcast/outnumbered-tv-podcast/">Outnumbered</a></li>
+		<li id="menu-item-47271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47271"><a href="http://radio.foxnews.com/podcast/shepard-smith-reporting/">Shepard Smith Reporting</a></li>
+		<li id="menu-item-47270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47270"><a href="http://radio.foxnews.com/podcast/your-world-w-neil-cavuto-premium-podcast/">Your World with Neil Cavuto</a></li>
+		<li id="menu-item-47266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47266"><a href="http://radio.foxnews.com/podcast/the-5-podcast/">The Five</a></li>
+		<li id="menu-item-47263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47263"><a href="http://radio.foxnews.com/podcast/special-report-w-bret-baier/">Special Report with Bret Baier</a></li>
+		<li id="menu-item-47259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47259"><a href="http://radio.foxnews.com/podcast/on-the-record-tv-show/">On The Record</a></li>
+		<li id="menu-item-47258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47258"><a href="http://radio.foxnews.com/podcast/oreilly-factor-premium-podcast/">The O&#8217;Reilly Factor</a></li>
+		<li id="menu-item-47268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47268"><a href="http://radio.foxnews.com/podcast/the-kelly-file-premium-podcast/">The Kelly File</a></li>
+		<li id="menu-item-47261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47261"><a href="http://radio.foxnews.com/podcast/sean-hannity-tv-show/">Hannity</a></li>
+		<li id="menu-item-47260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47260"><a href="http://radio.foxnews.com/podcast/red-eye-tv-show/">Red Eye</a></li>
+		<li id="menu-item-47253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47253"><a href="http://radio.foxnews.com/mediabuzz-with-howard-kurtz-premium-podcast/">#mediabuzz</a></li>
+	</ul>
+</li>
+	<li id="menu-item-47280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47280"><a href="/podcast/#fbn">FOX Business Network Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-47275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47275"><a href="http://radio.foxnews.com/podcast/cavuto-fbn-premium-podcast/">Cavuto</a></li>
+		<li id="menu-item-47264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47264"><a href="http://radio.foxnews.com/podcast/stossel-premium-podcast/">Stossel</a></li>
+		<li id="menu-item-47257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47257"><a href="http://radio.foxnews.com/podcast/lou-dobbs-tonight-tv-podcast/">Lou Dobbs Tonight</a></li>
+		<li id="menu-item-60200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60200"><a href="http://radio.foxnews.com/podcast/kennedy-podcast/">Kennedy</a></li>
+	</ul>
+</li>
+	<li id="menu-item-51446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-51446"><a href="http://radio.foxnews.com/podcast#free">Free Podcasts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-51447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51447"><a href="http://radio.foxnews.com/podcast#freetalk">Free FOX News Talk Podcasts</a></li>
+		<li id="menu-item-51448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51448"><a href="http://radio.foxnews.com/podcast#free">Free FOX News Radio Podcasts</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-40300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40300"><a href="http://radio.foxnews.com/station-finder/">Station Finder</a></li>
+<li id="menu-item-40430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40430"><a href="http://radio.foxnews.com/listen/">Apps &#038; More</a></li>
+</ul></div>    </div>
+</div>    <div id="inner-wrap" class="td-transition-content-and-menu">
+
+<!-- graphic logo and ad -->
+<div class="td-header-bg">
+    <div class="container td-logo-rec-wrap">
+        <div class="row">
+            <div class="span4 header-logo-wrap" role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization">
+                                       
+
+
+<script type="text/javascript">
+    	
+	function handleOrientationChange(mql) {			
+		if (mql.matches) {
+			// Media query does match
+document.getElementsByClassName('span4')[0].innerHTML = ("<div style='width: 400px; display: table;'><a href=\"http://radio.foxnews.com\"><img src='http://radio.foxnews.com/wp-content/uploads/2013/01/foxnewsradiologo-150x150.png' align='left' border='0' style='margin-right: 10px; width: 100px; height: 100px;'></a><br><span style='font-weight: bold; font-size: 100%'>ON NOW: "+ writeShowName().toUpperCase()+"</span><br><a href=\"javascript:void(0)\" onclick=\"window.open(\'http://radio.foxnews.com/player-files/radio.html?1192016\',\'radioWin\',\'width=1085,height=485\')\" style=\"color:red;\"><span style='font-weight: bold; font-size: 120%'>&gt;&gt; Listen Live</strong></a></span></div>");
+        } else {
+            // Media query does not match anymore
+document.getElementsByClassName('span4')[0].innerHTML = ("<div style='width: 100%;'><a href=\"http://radio.foxnews.com\"><img src='http://radio.foxnews.com/wp-content/uploads/2013/01/foxnewsradiologo-150x150.png' border='0' style='display: block; float: left; margin: auto; padding-right: 8px; width: 90px; height: 90px;'></a><br><span style='display: block; font-weight: bold; font-size: 110%;'>ON NOW:<br> "+ writeShowName().toUpperCase()+"</span><br style='clear: both;'><a href=\"javascript:void(0)\" onclick=\"window.open(\'http://radio.foxnews.com/player-files/radio.html?1192016\',\'radioWin\',\'width=1085,height=485\')\" style=\"color:red;\"><span style='display: block; text-align: center; font-weight: bold; font-size: 200%'>&gt;&gt; Listen Live</strong></a></span></div>");
+        }
+	}
+       var mql = window.matchMedia( "(min-width: 1025px)" );
+        mql.addListener(handleOrientationChange);
+        handleOrientationChange(mql);  
+	   
+</script>
+
+                        <meta itemprop="name" content="FOX News Radio">
+                                   </div>
+            <div class="span8 td-header-style-1">
+                
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-header">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1200 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 1019  && td_screen_width < 1200 ) {
+                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+            </div>
+        </div>
+    </div>
+</div><!-- header menu -->
+
+<div class="td-menu-placeholder">
+
+    <div class="td-menu-background">
+        <div class="container td-menu-wrap">
+
+
+
+            <div class="row-fluid td-menu-header">
+
+                <div class="span11">
+                                            <div class="mobile-logo-wrap">
+                                                                    <a itemprop="url" href="http://radio.foxnews.com"><img width="300"  src="http://radio.foxnews.com/wp-content/uploads/2015/03/FOX-News-Radio-Logo-Transparent-Bkgnd.gif" alt="FOX News Radio Logo"/></a>
+                                        <meta itemprop="name" content="FOX News Radio">
+                                                            </div>
+                    
+
+                    <div id="td-top-mobile-toggle">
+                        <ul class="sf-menu">
+                            <li>
+                                <a href="#">
+                                    <span class="menu_icon td-sp td-sp-ico-menu"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div id="td-top-menu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+
+                            <div class="menu-top-nav-container"><ul id="menu-top-nav-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first td-no-down-arrow td-menu-item td-normal-menu menu-item-40222"><a href="http://radio.foxnews.com"><span class="menu_icon td-sp td-sp-ico-home"></span><span class="menu_hidden">Home</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-mega-menu menu-item-40234"><a href="/fox-news-talk/">FOX News Talk Shows</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-mega-grid"><script>var block_td_uid_1_58ae8e2016c75 = new td_block();
+block_td_uid_1_58ae8e2016c75.id = "td_uid_1_58ae8e2016c75";
+block_td_uid_1_58ae8e2016c75.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"8","show_child_cat":"19"}';
+block_td_uid_1_58ae8e2016c75.td_cur_cat = "8";
+block_td_uid_1_58ae8e2016c75.td_column_number = "1";
+block_td_uid_1_58ae8e2016c75.block_type = "td_mega_menu";
+block_td_uid_1_58ae8e2016c75.post_count = "4";
+block_td_uid_1_58ae8e2016c75.found_posts = "16804";
+block_td_uid_1_58ae8e2016c75.max_num_pages = "4201";
+block_td_uid_1_58ae8e2016c75.header_color = "";
+block_td_uid_1_58ae8e2016c75.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_1_58ae8e2016c75);
+</script><div class="td_block_wrap td_block_mega_menu"><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><div><a class="cur-sub-cat ajax-sub-cat-mega sub-cat-td_uid_1_58ae8e2016c75" id="sub-cat-td_uid_1_58ae8e2016c75-8" data-cat_id="8"
+                        data-td_block_id="td_uid_1_58ae8e2016c75" href="http://radio.foxnews.com/category/talk/">All</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_1_58ae8e2016c75" id="sub-cat-td_uid_1_58ae8e2016c75-103" data-cat_id="103" data-td_block_id="td_uid_1_58ae8e2016c75" href="http://radio.foxnews.com/category/talk/alan-colmes-talk-radio/">Alan Colmes</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_1_58ae8e2016c75" id="sub-cat-td_uid_1_58ae8e2016c75-104" data-cat_id="104" data-td_block_id="td_uid_1_58ae8e2016c75" href="http://radio.foxnews.com/category/talk/john-gibson-talk-radio/">John Gibson</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_1_58ae8e2016c75" id="sub-cat-td_uid_1_58ae8e2016c75-101" data-cat_id="101" data-td_block_id="td_uid_1_58ae8e2016c75" href="http://radio.foxnews.com/category/talk/kilmeade-and-friends/">Kilmeade and Friends</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_1_58ae8e2016c75" id="sub-cat-td_uid_1_58ae8e2016c75-102" data-cat_id="102" data-td_block_id="td_uid_1_58ae8e2016c75" href="http://radio.foxnews.com/category/talk/tom-sullivan-talk-radio/">Tom Sullivan</a></div></div></div><div id=td_uid_1_58ae8e2016c75 class="td_block_inner animated fadeInDown">
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/who-is-operating-on-you-doctor-gets-life-sentence-for-botching-surgery-paralyzing-woman/" rel="bookmark" title="Who Is Operating On You?: Doctor Gets Life Sentence For Botching Surgery,  Paralyzing Woman"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2017/02/BADDOC-198x143.jpg" alt="" title="Who Is Operating On You?: Doctor Gets Life Sentence For Botching Surgery,  Paralyzing Woman"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/who-is-operating-on-you-doctor-gets-life-sentence-for-botching-surgery-paralyzing-woman/" rel="bookmark" title="Who Is Operating On You?: Doctor Gets Life Sentence For Botching Surgery,  Paralyzing Woman">Who Is Operating On You?: Doctor Gets Life Sentence For Botching Surgery,  Paralyzing Woman</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/obamas-war-on-trump-marches-on/" rel="bookmark" title="OBAMA&#8217;S WAR ON TRUMP MARCHES ON"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2017/01/a86dee2189a54cbc9bbeff837a19b27e-198x143.jpg" alt="" title="OBAMA&#8217;S WAR ON TRUMP MARCHES ON"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/obamas-war-on-trump-marches-on/" rel="bookmark" title="OBAMA&#8217;S WAR ON TRUMP MARCHES ON">OBAMA&#8217;S WAR ON TRUMP MARCHES ON</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/senator-ron-johnson-the-price-of-implementing-president-trumps-new-executive-order-on-immigration-is-much-more-cost-effective-than-the-cost-of-allowing-illegals-to-stay-in-america/" rel="bookmark" title="Senator Ron Johnson: The Price Of Implementing President Trump’s New Executive Order On Immigration Is Much More Cost Effective Than The Cost Of Allowing Illegals To Stay In America"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2017/02/immigration-ICE-198x143.jpg" alt="" title="Senator Ron Johnson: The Price Of Implementing President Trump’s New Executive Order On Immigration Is Much More Cost Effective Than The Cost Of Allowing Illegals To Stay In America"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/senator-ron-johnson-the-price-of-implementing-president-trumps-new-executive-order-on-immigration-is-much-more-cost-effective-than-the-cost-of-allowing-illegals-to-stay-in-america/" rel="bookmark" title="Senator Ron Johnson: The Price Of Implementing President Trump’s New Executive Order On Immigration Is Much More Cost Effective Than The Cost Of Allowing Illegals To Stay In America">Senator Ron Johnson: The Price Of Implementing President Trump’s New Executive Order On Immigration Is Much More Cost Effective Than The Cost Of Allowing Illegals To Stay In America</a></h4>            </div>
+        </div>
+        
+        <div class="td_mod_mega_menu">
+            <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/dhs-issues-sweeping-immigration-memos-alan-colmes-2-22/" rel="bookmark" title="DHS Issues Sweeping Immigration Memos &#8211; Alan Colmes 2.22"><img width="198" height="143" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2017/02/1028351_1_0219-ice_standard-198x143.jpg" alt="" title="DHS Issues Sweeping Immigration Memos &#8211; Alan Colmes 2.22"/></a></div>            <div class="item-details">
+                <h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/dhs-issues-sweeping-immigration-memos-alan-colmes-2-22/" rel="bookmark" title="DHS Issues Sweeping Immigration Memos &#8211; Alan Colmes 2.22">DHS Issues Sweeping Immigration Memos &#8211; Alan Colmes 2.22</a></h4>            </div>
+        </div>
+        </div><div class="td-next-prev-wrap"><a href="#" class="td_ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_58ae8e2016c75" data-td_block_id="td_uid_1_58ae8e2016c75"></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_1_58ae8e2016c75" data-td_block_id="td_uid_1_58ae8e2016c75"></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-40224"><a href="/podcast">Podcasts</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-40241"><a href="/account">Premium Podcast Account Access</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-47281"><a href="/podcast/#talk">FOX News Talk Radio Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47254"><a href="http://radio.foxnews.com/podcast/fox-news-talk-podcast/">FOX News Talk All-In-One Podcast</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47256"><a href="http://radio.foxnews.com/podcast/kilmeade-and-friends/">Kilmeade and Friends Show</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47255"><a href="http://radio.foxnews.com/podcast/john-gibson-show/">John Gibson Show</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47269"><a href="http://radio.foxnews.com/podcast/tom-sullivan-show/">Tom Sullivan Show</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47265"><a href="http://radio.foxnews.com/podcast/the-alan-colmes-show/">The Alan Colmes Show</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-47279"><a href="/podcast/#channel">FOX News Channel Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47273"><a href="http://radio.foxnews.com/podcast/megacast-podcast/">MEGAcast All-In-One Podcast</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47274"><a href="http://radio.foxnews.com/podcast/quadcast/">QUADcast 4-In-One Podcast</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47272"><a href="http://radio.foxnews.com/podcast/fox-friends-tv-show/">FOX &#038; Friends</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-55373"><a href="http://radio.foxnews.com/podcast/outnumbered-tv-podcast/">Outnumbered</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47271"><a href="http://radio.foxnews.com/podcast/shepard-smith-reporting/">Shepard Smith Reporting</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47270"><a href="http://radio.foxnews.com/podcast/your-world-w-neil-cavuto-premium-podcast/">Your World with Neil Cavuto</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47266"><a href="http://radio.foxnews.com/podcast/the-5-podcast/">The Five</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47263"><a href="http://radio.foxnews.com/podcast/special-report-w-bret-baier/">Special Report with Bret Baier</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47259"><a href="http://radio.foxnews.com/podcast/on-the-record-tv-show/">On The Record</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47258"><a href="http://radio.foxnews.com/podcast/oreilly-factor-premium-podcast/">The O&#8217;Reilly Factor</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47268"><a href="http://radio.foxnews.com/podcast/the-kelly-file-premium-podcast/">The Kelly File</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47261"><a href="http://radio.foxnews.com/podcast/sean-hannity-tv-show/">Hannity</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47260"><a href="http://radio.foxnews.com/podcast/red-eye-tv-show/">Red Eye</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47253"><a href="http://radio.foxnews.com/mediabuzz-with-howard-kurtz-premium-podcast/">#mediabuzz</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-47280"><a href="/podcast/#fbn">FOX Business Network Premium Podcasts</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47275"><a href="http://radio.foxnews.com/podcast/cavuto-fbn-premium-podcast/">Cavuto</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47264"><a href="http://radio.foxnews.com/podcast/stossel-premium-podcast/">Stossel</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-47257"><a href="http://radio.foxnews.com/podcast/lou-dobbs-tonight-tv-podcast/">Lou Dobbs Tonight</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-60200"><a href="http://radio.foxnews.com/podcast/kennedy-podcast/">Kennedy</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-51446"><a href="http://radio.foxnews.com/podcast#free">Free Podcasts</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-51447"><a href="http://radio.foxnews.com/podcast#freetalk">Free FOX News Talk Podcasts</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-51448"><a href="http://radio.foxnews.com/podcast#free">Free FOX News Radio Podcasts</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-40300"><a href="http://radio.foxnews.com/station-finder/">Station Finder</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-40430"><a href="http://radio.foxnews.com/listen/">Apps &#038; More</a></li>
+</ul></div>                    </div>
+
+
+
+                </div>
+
+                <div class="span1" id="td-top-search">
+                    <!-- Search -->
+                    <div class="header-search-wrap">
+                        <div class="dropdown header-search">
+                            <a id="search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><span class="td-sp td-sp-ico-search"></span></a>
+                            <div class="dropdown-menu" aria-labelledby="search-button">
+                                <form role="search" method="get" class="td-search-form" action="http://radio.foxnews.com/">
+                                    <div class="td-head-form-search-wrap">
+                                        <input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+                                    </div>
+                                </form>
+                                <div id="td-aj-search"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div> <!-- /.row-fluid -->
+        </div> <!-- /.td-menu-wrap -->
+    </div> <!-- /.td-menu-background -->
+</div> <!-- /.td-menu-placeholder -->
+        <div class="container td-page-wrap">
+            <div class="row">
+                <div class="span12">
+                    <div class="td-grid-wrap">
+                        <div class="container-fluid">
+                            <div class="row-fluid ">
+                        <div class="span8 column_container td-post-content" role="main" itemprop="mainContentOfPage">
+                    <div class="entry-crumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="http://radio.foxnews.com"><span itemprop="title">Home</span></a></span> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="View all posts in News" class="entry-crumb" itemprop="url" href="http://radio.foxnews.com/category/news/"><span itemprop="title">News</span></a></span></div>
+        <article id="post-121453" class="post-121453 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-sports-news tag-aaron-hernandez tag-bill-belichick tag-josh-mcdaniels tag-new-england-patriots tag-tom-brady" itemscope itemtype="http://schema.org/Article">
+
+        <header>
+
+            <h1 itemprop="name" class="entry-title">Patriots&#8217; Bill Belichick Could Possibly Testify in Aaron Hernandez Trial</h1>
+            <div class="meta-info">
+                <ul class="td-category"><li class="entry-category"><a  href="http://radio.foxnews.com/category/news/sports-news/">Sports</a></li></ul>                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2017-02-22T19:08:18+00:00" >Feb 22, 2017</time><meta itemprop="interactionCount" content="UserComments:0"/>                <div class="entry-comments-views"></div>            </div>
+        </header>
+
+
+        
+
+        <div class="td-post-featured-image"><figure><a href="http://radio.foxnews.com/wp-content/uploads/2017/02/AP17053717047467.jpg" data-caption="(AP Photo/Michael Dwyer, File)"><img width="700" height="487" itemprop="image" class="entry-thumb td-modal-image" src="http://radio.foxnews.com/wp-content/uploads/2017/02/AP17053717047467-700x487.jpg" alt="" title="Aaron Hernandez, Bill Belichick"/></a><figcaption class="wp-caption-text">(AP Photo/Michael Dwyer, File)</figcaption></figure></div>
+        <div class="td-post-text-content">
+            <p><!-- AddThis Sharing Buttons above --></p>
+<div class='at-above-post addthis_default_style addthis_toolbox at-wordpress-hide' data-title='Patriots&#8217; Bill Belichick Could Possibly Testify in Aaron Hernandez Trial' data-url='http://radio.foxnews.com/2017/02/22/patriots-bill-belichick-could-possibly-testify-in-aaron-hernandez-trial/'></div>
+<p>The New England Patriots&#8217; head coach may testify in the double-murder trial of a former player.</p>
+<p><strong>FOX&#8217;s Gurnal Scott with the story:</strong></p>
+<div class="smart-track-player-container  stp-color-1e73be-1e73be" data-url="http://dts.podtrac.com/redirect.mp3/ak.podcast.foxnewsradio.com/news/dotcom/BELICHICK_022217.mp3" data-background_color="#1e73be" data-image="http://radio.foxnews.com/wp-content/uploads/2015/05/FOX-News-Radio-80x80.jpg" data-download="false" data-color="1e73be" data-title="Patriots&#8217; Bill Belichick Could Possibly Testify in Aaron Hernandez Trial" data-artist="FOX News Radio" data-paid="true"  data-social="true"  data-social_twitter="true"  data-social_facebook="true"  data-social_gplus="true" data-speedcontrol="true" data-uid="1DoJBWkt" data-download_id="efb0c8fcadf6d1e43ba3e719a92e9f2e" ></div><div class="audioplayer_container"><style> .audioplayer_container {display:none;} </style></div>
+<p><em>Bill Belichick, who earlier this month won his fifth Super Bowl with New England, could possibly take the stand for the defense team of Aaron Hernandez.</em></p>
+<p><em>Hernandez, a former Patriots&#8217; tight end is charged in the drive-by shooting deaths of two men in 2012. In addition to Belichick, New England&#8217;s offensive coordinator Josh McDaniels could also testify. The process of selecting a jury is already underway with March 1 set as the date to begin trial.</em></p>
+<p><em> Hernandez is already serving a prison sentence for the 2013 of a man dating his fiance&#8217;s sister.</em></p>
+<p><em>Gurnal Scott, FOX News.</em></p>
+<h6>Follow Gurnal Scott on Twitter: <a href="http://www.twitter.com/GurnalScott" target="_blank">@GurnalScott</a></h6>
+<p class="audioplayer_container"><span style="display:block;padding:5px;border:1px solid #dddddd;background:#f8f8f8" id="audioplayer_1">Audio clip: <audio src="http://dts.podtrac.com/redirect.mp3/ak.podcast.foxnewsradio.com/news/dotcom/BELICHICK_022217.mp3" controls="controls"> <a href="http://dts.podtrac.com/redirect.mp3/ak.podcast.foxnewsradio.com/news/dotcom/BELICHICK_022217.mp3">Listen to audio clip.</a></audio></span></p>
+<p><script type="text/javascript">AudioPlayer.embed("audioplayer_1", {soundFile:"http%3A%2F%2Fdts.podtrac.com%2Fredirect.mp3%2Fak.podcast.foxnewsradio.com%2Fnews%2Fdotcom%2FBELICHICK_022217.mp3"});</script><!-- AddThis Sharing Buttons below --></p>
+<div class='at-below-post addthis_default_style addthis_toolbox at-wordpress-hide' data-title='Patriots&#8217; Bill Belichick Could Possibly Testify in Aaron Hernandez Trial' data-url='http://radio.foxnews.com/2017/02/22/patriots-bill-belichick-could-possibly-testify-in-aaron-hernandez-trial/'></div>
+<p><!-- AddThis Recommended Content below --> </p>
+<div class='at-below-post-recommended addthis_default_style addthis_toolbox at-wordpress-hide'></div>
+        </div>
+
+
+        <div class="clearfix"></div>
+
+        <footer>
+                                                
+            <div class="td-social-sharing">
+                </div>                                    <div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="http://radio.foxnews.com/author/">Thomas Byrne</a></span></div>
+
+            <meta itemprop="author" content = "Thomas Byrne">        </footer>
+
+    </article> <!-- /.post -->
+
+    <div class="art-img-text-down similar-articles"><h4 class="block-title"><span>You May Be Interested In...</span></h4>
+
+	<div class="wpb_row row-fluid">
+
+	<div class="span6">
+
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/trump-administration-lifts-transgender-guidelines/" rel="bookmark" title="Trump Administration Lifts Transgender Guidelines"><img width="326" height="159" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2017/02/AP17046190325720-326x159.jpg" alt="" title="Trump Administration Lifts Transgender Guidelines"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/trump-administration-lifts-transgender-guidelines/" rel="bookmark" title="Trump Administration Lifts Transgender Guidelines">Trump Administration Lifts Transgender Guidelines</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2017-02-22T19:22:30+00:00" >Feb 22, 2017</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Thomas Byrne">        </div>
+
+        
+	</div> <!-- ./span6 -->
+
+	<div class="span6">
+
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/nasa-scientists-discovered-7-new-earth-like-planets/" rel="bookmark" title="NASA: Scientists Discovered 7 New Earth-like Planets"><img width="326" height="159" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2017/02/newplanets660_20170222_161024-326x159.jpg" alt="" title="NASA: Scientists Discovered 7 New Earth-like Planets"/><img width="40" class="video-play-icon-big td-retina" src="http://radio.foxnews.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/nasa-scientists-discovered-7-new-earth-like-planets/" rel="bookmark" title="NASA: Scientists Discovered 7 New Earth-like Planets">NASA: Scientists Discovered 7 New Earth-like Planets</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2017-02-22T16:52:03+00:00" >Feb 22, 2017</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Thomas Byrne">        </div>
+
+        
+	</div> <!-- ./span6 --></div><!--./row-fluid-->
+
+	<div class="wpb_row row-fluid">
+
+	<div class="span6">
+
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/my-friend-cayla-doll-banned-in-germany-not-espionage-device-company-says/" rel="bookmark" title="My Friend Cayla: Doll Banned in Germany not &#8216;Espionage Device,&#8217; Company says"><img width="326" height="159" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2017/02/1487614606170-326x159.jpg" alt="" title="My Friend Cayla: Doll Banned in Germany not &#8216;Espionage Device,&#8217; Company says"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/my-friend-cayla-doll-banned-in-germany-not-espionage-device-company-says/" rel="bookmark" title="My Friend Cayla: Doll Banned in Germany not &#8216;Espionage Device,&#8217; Company says">My Friend Cayla: Doll Banned in Germany not &#8216;Espionage Device,&#8217; Company says</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2017-02-22T15:42:39+00:00" >Feb 22, 2017</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Thomas Byrne">        </div>
+
+        
+	</div> <!-- ./span6 -->
+
+	<div class="span6">
+
+        <div class="td_mod6 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/roger-waters-reportedly-considering-performance-of-the-wall-by-u-s-mexico-border-wall/" rel="bookmark" title="Roger Waters&#8217; Reportedly Considering Performance of &#8220;The Wall&#8221; by U.S.-Mexico Border Wall"><img width="326" height="159" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2016/05/0582f3e9c1a0455d9ffaeeb3d45318d7-326x159.jpg" alt="" title="Roger Waters&#8217; Reportedly Considering Performance of &#8220;The Wall&#8221; by U.S.-Mexico Border Wall"/></a></div>        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/roger-waters-reportedly-considering-performance-of-the-wall-by-u-s-mexico-border-wall/" rel="bookmark" title="Roger Waters&#8217; Reportedly Considering Performance of &#8220;The Wall&#8221; by U.S.-Mexico Border Wall">Roger Waters&#8217; Reportedly Considering Performance of &#8220;The Wall&#8221; by U.S.-Mexico Border Wall</a></h3>
+        <div class="meta-info">
+                        <time  itemprop="dateCreated" class="entry-date updated" datetime="2017-02-22T14:22:57+00:00" >Feb 22, 2017</time><meta itemprop="interactionCount" content="UserComments:0"/>            <div class="entry-comments-views"></div>        </div>
+
+
+        <meta itemprop="author" content = "Thomas Byrne">        </div>
+
+        
+	</div> <!-- ./span6 --></div><!--./row-fluid--></div>
+                </div>
+                <div class="span4 column_container td-post-sidebar" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+                    
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-sidebar">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1200 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 1019  && td_screen_width < 1200 ) {
+                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237151758727671" data-ad-slot="5330805054"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+<script>var block_td_uid_3_58ae8e208131d = new td_block();
+block_td_uid_3_58ae8e208131d.id = "td_uid_3_58ae8e208131d";
+block_td_uid_3_58ae8e208131d.atts = '{"category_id":"","category_ids":"","tag_slug":"","sort":"","autors_id":"","hide_title":"hide_title","installed_post_types":"","limit":"3","offset":"5","header_color":"#","header_text_color":"#","custom_title":"","custom_url":"","title_style":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","ajax_pagination_infinite_stop":""}';
+block_td_uid_3_58ae8e208131d.td_cur_cat = "";
+block_td_uid_3_58ae8e208131d.td_column_number = "1";
+block_td_uid_3_58ae8e208131d.block_type = "7";
+block_td_uid_3_58ae8e208131d.post_count = "3";
+block_td_uid_3_58ae8e208131d.found_posts = "36405";
+block_td_uid_3_58ae8e208131d.max_num_pages = "12135";
+block_td_uid_3_58ae8e208131d.header_color = "#";
+block_td_uid_3_58ae8e208131d.ajax_pagination_infinite_stop = "";
+td_blocks.push(block_td_uid_3_58ae8e208131d);
+</script><div class="td_block_wrap td_block7"><style>.ui-sctd_uid_3_58ae8e208131d .cur-sub-cat { color:# !important}</style><div id=td_uid_3_58ae8e208131d class="td_block_inner">
+        <div class="td_mod2 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+            <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/who-is-operating-on-you-doctor-gets-life-sentence-for-botching-surgery-paralyzing-woman/" rel="bookmark" title="Who Is Operating On You?: Doctor Gets Life Sentence For Botching Surgery,  Paralyzing Woman"><img width="326" height="235" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2017/02/BADDOC-326x235.jpg" alt="" title="Who Is Operating On You?: Doctor Gets Life Sentence For Botching Surgery,  Paralyzing Woman"/></a></div>
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/who-is-operating-on-you-doctor-gets-life-sentence-for-botching-surgery-paralyzing-woman/" rel="bookmark" title="Who Is Operating On You?: Doctor Gets Life Sentence For Botching Surgery,  Paralyzing Woman">Who Is Operating On You?: Doctor Gets Life Sentence For Botching Surgery,  Paralyzing Woman</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2017-02-22T17:38:16+00:00" >Feb 22, 2017</time><meta itemprop="interactionCount" content="UserComments:0"/>                <div class="entry-comments-views"></div>            </div>
+
+            <div class="td-post-text-excerpt">
+                            </div>
+
+            <meta itemprop="author" content = "Tom Sullivan Show">
+        </div>
+
+        
+        <div class="td_mod2 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+            <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/nasa-scientists-discovered-7-new-earth-like-planets/" rel="bookmark" title="NASA: Scientists Discovered 7 New Earth-like Planets"><img width="326" height="235" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2017/02/newplanets660_20170222_161024-326x235.jpg" alt="" title="NASA: Scientists Discovered 7 New Earth-like Planets"/><img width="40" class="video-play-icon-big td-retina" src="http://radio.foxnews.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"/></a></div>
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/nasa-scientists-discovered-7-new-earth-like-planets/" rel="bookmark" title="NASA: Scientists Discovered 7 New Earth-like Planets">NASA: Scientists Discovered 7 New Earth-like Planets</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2017-02-22T16:52:03+00:00" >Feb 22, 2017</time><meta itemprop="interactionCount" content="UserComments:0"/>                <div class="entry-comments-views"></div>            </div>
+
+            <div class="td-post-text-excerpt">
+                            </div>
+
+            <meta itemprop="author" content = "Thomas Byrne">
+        </div>
+
+        
+        <div class="td_mod2 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+            <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/no-rules/" rel="bookmark" title="No Rules"><img width="326" height="235" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2017/02/Rock-Concert-326x235.jpg" alt="" title="No Rules"/></a></div>
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/no-rules/" rel="bookmark" title="No Rules">No Rules</a></h3>
+            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2017-02-22T16:06:01+00:00" >Feb 22, 2017</time><meta itemprop="interactionCount" content="UserComments:0"/>                <div class="entry-comments-views"></div>            </div>
+
+            <div class="td-post-text-excerpt">
+                            </div>
+
+            <meta itemprop="author" content = "FOX News Radio">
+        </div>
+
+        </div></div> <!-- ./block1 -->                </div>
+            
+                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+<div class="td-sub-footer-wrap">
+    <div class="container ">
+        <div class="row">
+            <div class="span12">
+                <div class="td-grid-wrap">
+                    <div class="container-fluid">
+                        <div class="row-fluid ">
+                            <div class="span4 td-sub-footer-copy">
+                                &copy; 2016 FOX News Radio                            </div>
+                            <div class="span8 td-sub-footer-menu">
+
+                                <div class="menu-bottom-menu-container"><ul id="menu-bottom-menu" class=""><li id="menu-item-113874" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-menu-item td-normal-menu menu-item-113874"><a href="http://www.foxnews.com/about/privacy-policy/">New Privacy Policy</a></li>
+<li id="menu-item-113875" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-113875"><a href="http://www.foxnews.com/about/terms-of-use">New Terms of Use</a></li>
+<li id="menu-item-113876" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-113876"><a href="http://www.foxnews.com/about/terms-new/">(What&#8217;s New)</a></li>
+</ul></div>                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+<!--/#inner-wrap-->
+</div>
+<!--/#outer-wrap-->
+
+<div class="td-sp td-scroll-up"></div>
+
+		<div id="fb-root"></div>
+		<script type="text/javascript">
+			(function(d, s, id) {
+  				var js, fjs = d.getElementsByTagName(s)[0];
+  				if (d.getElementById(id)) return;
+  					js = d.createElement(s); js.id = id;
+  					js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.2";
+  					fjs.parentNode.insertBefore(js, fjs);
+				}
+			(document, 'script', 'facebook-jssdk'));
+    	</script>
+    		<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.3";
+				fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>
+    		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    		<div id="fb-root"></div>
+	
+			<script>
+			(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.3";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+			</script>
+                    <div class="td-more-articles-box">
+                    <span class="td-sp td-sp-close-more-articles-box td-close-more-articles-box"></span>
+                    <span class="td-more-articles-box-title">MORE STORIES</span>
+                    <div class="td-content-more-articles-box">
+
+                    
+        <div class="td_mod3 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+        <div class="thumb-wrap"><a href="http://radio.foxnews.com/2017/02/22/young-and-beardless-w-john-luke-robertson/" rel="bookmark" title="&#8220;Young and Beardless&#8221; w/ John Luke Robertson"><img width="100" height="65" itemprop="image" class="entry-thumb" src="http://radio.foxnews.com/wp-content/uploads/2016/05/john-luke-robertson-100x65.jpg" alt="" title="&#8220;Young and Beardless&#8221; w/ John Luke Robertson"/></a></div>        <div class="item-details">
+            <h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://radio.foxnews.com/2017/02/22/young-and-beardless-w-john-luke-robertson/" rel="bookmark" title="&#8220;Young and Beardless&#8221; w/ John Luke Robertson">&#8220;Young and Beardless&#8221; w/ John Luke Robertson</a></h3>            <div class="meta-info">
+                                <time  itemprop="dateCreated" class="entry-date updated" datetime="2017-02-22T20:00:08+00:00" >Feb 22, 2017</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+        </div>
+        <meta itemprop="author" content = "Rabon">        </div>
+
+                            </div>
+                </div>
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2014
+        Version: 4.6.2 (rara)
+        Deploy mode: deploy
+        
+        uid: 58ae8e20a071e
+    -->
+
+    
+            <style type="text/css" media="screen">
+                .td-sub-footer-menu li {
+  display: inline-block;
+  /* position: relative; */
+  zoom: 1;
+}
+
+/*---------------------------------Custom Code for Podcast Pages--------------------- */
+
+.podcastpage {
+	display: block;
+	width: 100%;
+}
+
+.podcastpage img {
+	border: none;
+}
+
+/*Clear floats on paragraphs*/
+p.clear {
+	clear: both;
+}
+
+.listreset {
+	margin: 0 0 10px !important;
+	padding: 0 !important;
+	list-style-type: none !important;
+	text-decoration: none !important;
+}
+
+.colorblack {
+	color: #000;
+}
+
+.colorblack a a:visited {
+	color: #000;
+}
+
+#helpmenu {
+	text-align: center;
+}
+
+#helpmenu ul {
+	list-style: none;
+}
+
+#helpmenu ul li {
+	display: inline-block;
+}
+
+.clearleft {
+	clear: left;
+}
+
+.bottompadding {
+	padding-bottom: 20px;
+}
+
+.divfloatwidth {
+	float: left;
+	width: 200px;
+}
+
+.lineheightshrink {
+	line-height: 30%;
+}
+
+.fontbold {
+	font-weight: bold;
+}
+
+.podcastulstyle {
+	list-style: none !important;
+	line-height: 4 em !important;
+	padding: 0 !important; 
+        margin: 0 auto !important;
+	}
+
+.podcastulstyle li  {
+line-height: 3em !important;
+}
+
+.podcastlistyle {
+	margin-left: 0 !important;
+	font-weight: bold;
+	float: left;
+	width: 200px;
+	font: 700 16px/24px "Open Sans Condensed", tahoma, sans-serif;
+}
+
+.podcastlistyle a:link {
+	color: black;
+}
+
+.podcastlistyle a:visited {
+	color: black;
+}
+
+.podcastlistyle a:hover {
+	color: red;
+}
+
+.podcastlistyle a:active {
+	color: orange;
+}
+
+.imgbordernone {
+	border: none;
+}
+
+#individual {
+	font-weight: bold;
+}
+
+.imgspace {
+	float: left;
+	line-height: 100%;
+}
+
+.imgspace img {
+	margin: 0 5px;
+}
+
+.bottommargin {
+	margin-bottom: 20px;
+}
+
+.leftfloat {
+	float: left;
+}
+
+.leftpad {
+	padding-left: 90px;
+}
+
+.podcast-box {
+	border: 1px solid #A8A8A8;
+}
+
+.podfiles {
+	list-style-type: none;
+}
+
+/* Clears float without adding a BR line break space */
+.clearfloat {
+	clear: both;
+	height: 0;
+	font-size: 1px;
+	line-height: 0;
+}
+
+/* .categorypodcastpositioning Positions podcast image and text padding on FNTalk category pages */
+.categorypodcastpositioning {
+	padding-right: 10px !important;
+	float: left;
+}
+
+/* .categorypodcasttext Positions and styles text for podcasts blurbs on FNTalk category pages */
+.categorypodcasttext {
+	color: red;
+	font-weight: bold;
+	padding-top: .3em;
+}
+
+.clearboth {
+	clear: both;
+}
+
+.relatedposts {
+	width: 620px;
+	margin: 0 0 20px;
+	float: left;
+	font-size: 12px;
+}
+
+.relatedposts h3 {
+	font-size: 20px;
+	margin: 0 0 5px;
+}
+
+.relatedthumb {
+	margin: 0 1px;
+	float: left;
+}
+
+.relatedthumb img {
+	margin: 0 0 3px;
+	padding: 0;
+}
+
+.relatedthumb a {
+	color: #333;
+	text-decoration: none;
+	display: block;
+	padding: 4px;
+	width: 150px;
+}
+
+.relatedthumb a:hover {
+	background-color: #ddd;
+	color: #000;
+}
+
+/*------------------------------------End of Podcast Custom Code-------------------------*/
+
+.block-title,
+    .sf-menu li a:hover,
+    .sf-menu .sfHover a,
+    .sf-menu .current-menu-ancestor a,
+    .sf-menu .current-category-ancestor a,
+    .header-search-wrap
+    .dropdown-menu,
+    .sf-menu > .current-menu-item > a,
+    .ui-tabs-nav,
+    .woocommerce .product .woocommerce-tabs ul.tabs,
+    .td-forum-list-head,
+    .td-login-panel-title
+    {
+        border-color: #000000;
+    }
+
+/*.block-title a {
+        border-radius: 0px 20px 20px 0px;
+     }*/
+
+.td_mod_mega_menu .item-details a {
+        font-family:Ubuntu;
+	color:#000000 !important;
+	
+    }
+
+.subscribe-link {
+  font-size:20px !important;
+  color:white !important;
+  text-decoration:none !important;
+}
+
+.itunes-subscribe-box {
+background-color:#ff3030;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+.google-play-subscribe-box  {
+background-color:#ff5722;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+.twitter-subscribe-box {
+background-color:#37b4f2;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+
+.RSS-subscribe-box {
+background-color:#f2ad37;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+.tunein-subscribe-box {
+font-family: 'pt sans', sans-serif;
+background-color:#36B4A7;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+.stitcher-subscribe-box {
+font-family: 'pt sans', sans-serif;
+background-color:black;
+color:white;
+width: auto;
+margin: 0px auto 10px;
+padding: 10px 0px;
+font-weight: bold;
+max-width: 417px;
+text-align: center;
+}
+
+.td-grid-wrap  {
+       padding-top: 32px;
+}
+
+#rotator  {
+      width: 300px;       
+      margin: 0 auto; 
+}
+
+.entry-crumbs  {
+      top: -20px;
+      color: black;
+   }
+
+.entry-crumbs a  {
+      color: black;
+}
+
+.entry-crumbs a:hover  {
+      color: black !important;
+}
+
+.header-logo-wrap  {
+      margin-bottom: 20px !important;
+}
+
+
+.main-headline {
+font-family: ubuntu, 'PT Sans', sans-serif;
+font-weight: bold;
+}
+
+/* Make videos and iframes responsive */
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.columnpadding  {
+    padding: 20px;
+}
+
+
+.columnwhitebackground a  {
+
+background-color: white !important;
+}
+
+#rotator   {
+    
+    z-index: 1;
+    width: 300px;
+    height: 300px;
+    margin-top: -8px;
+    }
+     
+
+
+  .premiumrotate  {
+background-color:  #4c4c4c;
+width: 300px;
+margin: 0 auto;
+text-align: center;
+font-family: "pt sans", sans-serif;
+font-size: 120%;
+    }
+
+.premiumrotate a  {
+color: white;
+}
+
+.textmiddle  {
+   vertical-align: middle;
+}
+
+.tabber-image  {
+    display: none;
+}
+
+@media only screen and (max-width :1025px), only screen and (max-device-width :1025px) {
+   .tabber-image {
+    display: block;
+}
+}
+
+
+
+/* Hide Author On Posts */
+.td-block-author {
+display: none;
+}
+
+.aio-icon-header h3.aio-icon-title {
+font-size: 28px;
+}
+
+.afmw-header  {
+text-align: center; 
+color: white;
+ font-weight: bold;
+ line-height: 2em;
+font-size: 180%
+}
+
+.podcastheadertext  {
+text-align: center;
+ color: white;
+ font-weight: bold;
+ font-size: 2.5em;
+ line-height: 2em;
+}
+
+.podcastheadertextlong  {
+text-align: center;
+ color: white;
+ font-weight: bold;
+ font-size: 180%;
+ line-height: 2em;
+}
+
+.podcastdescriptiontext  {
+color: #ffffff;
+ line-height: 2em;
+ font-weight: bold;
+ font-size: 120%;
+padding-left: 16px;
+opacity: 0.94;
+}
+
+.podcastrow img  {
+background-size: contain !important;
+}
+
+.podcastrowsmall  {
+margin: 0 auto;
+display: none;
+}
+
+
+/*@media only screen and (min-width: 1100px) {
+.afmw-header  {
+font-size: 180%;
+}
+}
+*/
+
+/*@media only screen and (min-width: 1026px) {
+.itunes-subscribe-box,
+.tunein-subscribe-box,
+.stitcher-subscribe-box,
+.google-play-subscribe-box,
+.RSS-subscribe-box {
+padding: 20px 0px 0px 35%;
+}
+}
+*/
+
+/*Media Query to hide rows under screen size specified */
+@media only screen and (max-width: 1023px) {
+.podcastrow  {
+display: none;
+}
+}
+
+/*Media Query to hide columns under screen size specified */
+@media only screen and (max-width: 767px) {
+.podcastcolumn  {
+display: none;
+}
+}
+
+@media only screen and (max-width: 1023px) {
+.podcastsmallsubscriptions  {
+display: block;
+}
+}
+
+@media only screen and (min-width: 1024px) {
+.podcastsmallsubscriptions  {
+display: none;
+}
+}
+
+@media only screen and (max-width: 1023px) {
+.podcastrowsmall  {
+display: block;
+}
+.podcastrowsmall img  {
+display:block;
+margin: auto;
+}
+}
+
+.infoboxfloat  {
+padding-top: 20px;
+padding-left: 30%;
+}
+
+/* Remove Edit Overlay on Pictures */
+.thumb-wrap:hover .td-admin-edit {
+ display:none;
+}
+
+@media only screen and (max-width: 1023px) {
+.onnowpic  {
+display: none;
+}
+}
+
+.onnowpic img  {
+width: 70px;
+height: 70px;
+}
+
+.onnowlarge  {
+font-weight:bold;
+font-size: 120%;
+}
+
+@media only screen and (max-width: 1023px) {
+.onnowlarge  {
+font-size: 200%;
+}
+}
+
+/* Center Mobile Logo on Menu  Bar */
+.mobile-logo-wrap img  {
+margin-top: -5.5px;
+}
+
+
+/* Hide small FNR Mobile Logo on menu bar - not needed */
+.mobile-logo-wrap  {
+    display: none;
+}
+
+@media only screen and (max-width :1025px), only screen and (max-device-width :1023px) {
+.span8.td-header-style-1  {
+float: right
+}
+}
+
+
+.block-title  {
+padding-bottom: 4px;
+margin-bottom: 4px;
+border-bottom: 2px solid #black;
+}
+
+
+
+
+
+/* Hide Page Titles On All Pages */
+
+.td-page-title {
+display: none !important;
+}
+
+.td_mod_mega_menu .item-details a {
+        font-family:Ubuntu;
+	color:#000000 !important;
+	
+    }
+
+
+
+.podcastbar  {
+margin: 0 auto 10px;
+max-width: 417px;
+}
+
+
+.breakingnews {
+    background-color: #FF0000;
+   /* padding:35px 0px;*/
+    padding: 16px 0px;
+    font-weight: bold;
+    font-size: 2em;
+   /* box-shadow: 10px 0px 0px #FF0000, -10px 0px 0px #FF0000;*/
+}
+
+.breakingnews a,.breakingnews a:visited,.breakingnews a:active {
+    display:block;    
+    padding: 0px 15px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 1em;
+    }
+
+
+.anchored {
+    color: #fff;
+    background-color: #FF8533;
+    font-size: 2em;
+    /*padding:35px 0px;*/
+    padding:16px 0px;
+    font-weight: bold;
+    /*box-shadow: 10px 0px 0px #FF8533, -10px 0px 0px #FF8533; */
+}
+
+
+.anchored a,.anchored a:visited,.anchored a:active {
+    display:block;    
+    padding: 0px 15px;
+    color: #fff;
+    text-decoration: underline;
+    line-height: 1em;
+    }
+
+
+.promobar {
+    background-color: #2B57E2;
+    /*padding:35px 0px;*/
+    padding: 16px 0px;
+    font-weight: bold;
+    font-size: 2em;
+    /*box-shadow: 10px 0px 0px #2B57E2, -10px 0px 0px #2B57E2;*/  
+    
+}
+
+.promobar a,.promobar a:visited,.promobar a:active {
+    color: #fff;
+    display:block;    
+    padding-left: 50px;
+    text-decoration: none;
+    line-height: 1em;
+    }
+
+.podcastbar  {
+margin-bottom: 10px;
+}
+
+.entry-category  {
+display:  none;
+}
+.td-category-page-sub-ind  {
+display: none;
+}
+
+
+/*Hides Row For Testing Purposes*/
+.hiderow  {
+display: none !important;
+}
+
+@media only screen and (max-width :1025px), only screen and (max-device-width :1025px) {
+   #network {
+    display: none;
+}
+}
+
+/*remove title from More Articles box making it smaller*/
+
+.td-more-articles-box-title  {
+display: none;
+}
+
+/*Add some styling to Megacast list of shows columns on its podcast page*/
+
+.megacast  {
+padding-left: 10%; 
+width: 200px; 
+float: left;  
+font-weight: bold;
+}
+
+/*Make a parent div width 100*/
+.fullwidthdiv  {
+width: 100%;
+}
+
+/*Move Grab The Podcast Text To the Right and size font*/
+
+.buttontextpadding span:nth-child(3) {
+margin-left: 35px;
+font-size: 90%
+}
+
+/* Wrap URLs - so they are fully visible on smartphones */
+
+a {
+	word-wrap: break-word;
+}
+
+.ubtn-text  {
+      
+font-size: 1.5em;
+
+}
+
+/*Moves podcast player countdown timer UP so it doesn't cover part of title*/
+
+.spp-duration  {
+margin-top: -11px !important;
+}
+
+.urlbox  {
+color:black;
+background-color:#FEFFE9;
+border-style:solid;
+border:1px; 
+overflow-wrap: break-word;
+word-wrap: break-word;
+}
+
+/*Moves the Smart Podcast Audio Player Duration Clock Up A Few Pixels*/
+body.spp .smart-track-player .spp-duration  {
+top: 18px;
+}
+
+/*Change Smart Podcast Player Text To White*/
+.spp-artist-and-title  {
+color: white !Important;
+}
+
+
+/*readjust call-to-action widget bottom margin previously set by default to 35px*/
+.ultimate-call-to-action.ult-adjust-bottom-margin  {
+margin-bottom: 0px !important;
+}
+
+/*move Willie Robertson podcast page large image to the left*/
+.movewilliepic  {
+margin-left: 25px;
+}
+
+/*removes arbitrary margin-left that was skewing large Willie Robertson image to the right*/
+.span12.wpb_column.column_container  {
+margin-left: 0px;
+}
+
+/*Adds some bottom padding to AddThis Share Buttons on posts*/
+.addthis-animated  {
+padding-bottom: 20px;
+}
+
+
+/*CSS to color podcast subscription option boxes on podcast landing pages*/
+.googleplaybox  {
+background-color: #ff5722;
+width: 250px;
+margin-bottom: 14.5px !important;
+}
+
+.itunesbox  {
+background-color: #ff3030;
+width: 250px;
+margin-bottom: 14.5px !important;
+}
+
+.tuneinbox  {
+background-color: #36b4a7;
+width: 250px;
+margin-bottom: 14.5px !important;
+}
+
+.stitcherbox  {
+background-color: #000000;
+width: 250px;
+margin-bottom: 14.5px !important;
+}
+
+.rssbox  {
+background-color: #f2ad37;
+width: 250px;
+}
+
+
+.left-icon .aio-icon-left  {
+padding: 5px 0px 0px 30px;
+}
+
+.left-icon .aio-ibd-block  {
+padding-top: 5px;
+}
+
+.left-icon .aio-icon-left .aio-icon {
+margin-right: 25px !important;
+}
+
+/*centers podcast subscription links on mobile podcast landing pages*/
+.podcastsmallsubscriptions div  {
+margin: 0 auto;
+}
+
+/*Limits FOX Family Network Bar to 1170px max*/
+#network  {
+margin: 0 auto;
+max-width: 1170px;
+}
+
+/*Aligns the Talk Show buckets inline with other content*/
+.vc_custom_1430490310963  {
+margin-left: 0px !important;
+margin-right: 0px !important;
+}
+
+/*centers highlight box content*/
+.highlightbox  {
+text-align: center;
+}
+
+/*Collapses Podcast Buckets into single column*/
+@media screen and (max-width: 1018px)  {
+.collapsecolumn  { 
+width: 85% !important;
+float: none !important;
+margin: 0 auto !Important;
+}
+}
+
+
+
+
+/*Removes left padding from first podcast bucket column in mobile*/
+@media screen and (max-width: 1017px)  {
+.vc_custom_1463502092214  {
+padding-left: 0px !important;
+}
+}
+
+/*5-Minute Player Column on foxnewsradio.com home page */
+.newscastplayermargin  {
+   margin-left: 0px !important;
+   margin-right: -60px !important;
+}
+
+/*Remove bottom padding on hidden TD Social Sharing section*/
+.td-social-sharing  (
+margin-bottom: 0px !important;
+}
+
+.post {
+  position: relative;
+  padding-bottom: 0px;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+}
+                </style><script type="text/javascript">/* MediaMatch v.2.0.2 - Testing css media queries in Javascript. Authors & copyright (c) 2013: WebLinc, David Knight. */
+
+window.matchMedia||(window.matchMedia=function(c){var a=c.document,w=a.documentElement,l=[],t=0,x="",h={},G=/\s*(only|not)?\s*(screen|print|[a-z\-]+)\s*(and)?\s*/i,H=/^\s*\(\s*(-[a-z]+-)?(min-|max-)?([a-z\-]+)\s*(:?\s*([0-9]+(\.[0-9]+)?|portrait|landscape)(px|em|dppx|dpcm|rem|%|in|cm|mm|ex|pt|pc|\/([0-9]+(\.[0-9]+)?))?)?\s*\)\s*$/,y=0,A=function(b){var z=-1!==b.indexOf(",")&&b.split(",")||[b],e=z.length-1,j=e,g=null,d=null,c="",a=0,l=!1,m="",f="",g=null,d=0,f=null,k="",p="",q="",n="",r="",k=!1;if(""===
+b)return!0;do{g=z[j-e];l=!1;if(d=g.match(G))c=d[0],a=d.index;if(!d||-1===g.substring(0,a).indexOf("(")&&(a||!d[3]&&c!==d.input))k=!1;else{f=g;l="not"===d[1];a||(m=d[2],f=g.substring(c.length));k=m===x||"all"===m||""===m;g=-1!==f.indexOf(" and ")&&f.split(" and ")||[f];d=g.length-1;if(k&&0<=d&&""!==f){do{f=g[d].match(H);if(!f||!h[f[3]]){k=!1;break}k=f[2];n=p=f[5];q=f[7];r=h[f[3]];q&&(n="px"===q?Number(p):"em"===q||"rem"===q?16*p:f[8]?(p/f[8]).toFixed(2):"dppx"===q?96*p:"dpcm"===q?0.3937*p:Number(p));
+k="min-"===k&&n?r>=n:"max-"===k&&n?r<=n:n?r===n:!!r;if(!k)break}while(d--)}if(k)break}}while(e--);return l?!k:k},B=function(){var b=c.innerWidth||w.clientWidth,a=c.innerHeight||w.clientHeight,e=c.screen.width,j=c.screen.height,g=c.screen.colorDepth,d=c.devicePixelRatio;h.width=b;h.height=a;h["aspect-ratio"]=(b/a).toFixed(2);h["device-width"]=e;h["device-height"]=j;h["device-aspect-ratio"]=(e/j).toFixed(2);h.color=g;h["color-index"]=Math.pow(2,g);h.orientation=a>=b?"portrait":"landscape";h.resolution=
+d&&96*d||c.screen.deviceXDPI||96;h["device-pixel-ratio"]=d||1},C=function(){clearTimeout(y);y=setTimeout(function(){var b=null,a=t-1,e=a,j=!1;if(0<=a){B();do if(b=l[e-a])if((j=A(b.mql.media))&&!b.mql.matches||!j&&b.mql.matches)if(b.mql.matches=j,b.listeners)for(var j=0,g=b.listeners.length;j<g;j++)b.listeners[j]&&b.listeners[j].call(c,b.mql);while(a--)}},10)},D=a.getElementsByTagName("head")[0],a=a.createElement("style"),E=null,u="screen print speech projection handheld tv braille embossed tty".split(" "),
+m=0,I=u.length,s="#mediamatchjs { position: relative; z-index: 0; }",v="",F=c.addEventListener||(v="on")&&c.attachEvent;a.type="text/css";a.id="mediamatchjs";D.appendChild(a);for(E=c.getComputedStyle&&c.getComputedStyle(a)||a.currentStyle;m<I;m++)s+="@media "+u[m]+" { #mediamatchjs { position: relative; z-index: "+m+" } }";a.styleSheet?a.styleSheet.cssText=s:a.textContent=s;x=u[1*E.zIndex||0];D.removeChild(a);B();F(v+"resize",C);F(v+"orientationchange",C);return function(a){var c=t,e={matches:!1,
+media:a,addListener:function(a){l[c].listeners||(l[c].listeners=[]);a&&l[c].listeners.push(a)},removeListener:function(a){var b=l[c],d=0,e=0;if(b)for(e=b.listeners.length;d<e;d++)b.listeners[d]===a&&b.listeners.splice(d,1)}};if(""===a)return e.matches=!0,e;e.matches=A(a);t=l.push({mql:e,listeners:null});return e}}(window));</script><script data-cfasync="false" type="text/javascript"></script>
+                <!-- AddThis Settings Begin -->
+                <script data-cfasync="false" type="text/javascript">
+                    var addthis_product = "wpp-5.3.4";
+                    var wp_product_version = "wpp-5.3.4";
+                    var wp_blog_version = "4.7.2";
+                    var addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"5.3.4","anonymous_profile_id":"wp-f8f5b460d4719b83c3eb7696ff2d9f4e","plugin_mode":"AddThis","select_prefs":{"addthis_per_post_enabled":true,"addthis_above_enabled":true,"addthis_below_enabled":false,"addthis_sidebar_enabled":false,"addthis_mobile_toolbar_enabled":false,"addthis_above_showon_home":false,"addthis_below_showon_home":false,"addthis_above_showon_pages":false,"addthis_below_showon_pages":false,"addthis_above_showon_categories":false,"addthis_below_showon_categories":false,"addthis_above_showon_archives":false,"addthis_below_showon_archives":false,"addthis_above_showon_posts":true,"addthis_above_showon_excerpts":true,"addthis_below_showon_posts":true,"addthis_below_showon_excerpts":true,"addthis_sidebar_showon_home":true,"addthis_sidebar_showon_posts":true,"addthis_sidebar_showon_pages":true,"addthis_sidebar_showon_archives":true,"addthis_sidebar_showon_categories":true,"addthis_mobile_toolbar_showon_home":true,"addthis_mobile_toolbar_showon_posts":true,"addthis_mobile_toolbar_showon_pages":true,"addthis_mobile_toolbar_showon_archives":true,"addthis_mobile_toolbar_showon_categories":true,"sharing_enabled_on_post_via_metabox":true},"page_info":{"template":"posts","post_type":""}};
+                    if (typeof(addthis_config) == "undefined") {
+                        var addthis_config = {"data_track_clickback":true,"ui_atversion":300};
+                    }
+                    if (typeof(addthis_share) == "undefined") {
+                        var addthis_share = {"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{}}};
+                    }
+                    if (typeof(addthis_layers) == "undefined") {
+                        var addthis_layers = {};
+                    }
+                </script>
+                <script
+                    data-cfasync="false"
+                    type="text/javascript"
+                    src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50522b44276d15f2 "
+                    async="async"
+                >
+                </script>
+                <script data-cfasync="false" type="text/javascript">
+                    (function() {
+                        var at_interval = setInterval(function () {
+                            if(window.addthis) {
+                                clearInterval(at_interval);
+                                addthis.layers(addthis_layers);
+                            }
+                        },1000)
+                    }());
+                </script>
+                <style>
+	/* Smart Podcast Player custom styles for color 1e73be */
+
+
+
+.smart-podcast-player.spp-color-1e73be .spp-player-layout .spp-main-region .spp-main-view .spp-controls .spp-play-pause-circle svg,
+.smart-track-player.stp-color-1e73be-1e73be .spp-track-layer-1 .spp-playback-controls .spp-play-pause svg {
+	fill: #1e73be ;
+}
+
+.smart-podcast-player.spp-color-1e73be .spp-player-layout .spp-playlist-region .spp-track-list .spp-track-row .spp-eq-svg,
+.smart-podcast-player.spp-color-1e73be .spp-player-layout .spp-playlist-region .spp-track-list .spp-track-row .spp-play-svg {
+	fill: #1e73be ;
+}
+
+.smart-podcast-player.spp-color-1e73be .spp-player-layout .spp-main-region .spp-main-view .spp-progress-bar .spp-progress-played,
+.smart-podcast-player.spp-color-1e73be .spp-player-layout .spp-main-region .spp-main-view .spp-progress-bar .spp-seek-time,
+.smart-track-player.stp-color-1e73be-1e73be .spp-track-layer-2 .spp-progress-bar .spp-progress-played,
+.smart-track-player.stp-color-1e73be-1e73be .spp-track-layer-2 .spp-progress-bar .spp-seek-time {
+	background-color: #1e73be ;
+}
+
+.smart-podcast-player.spp-color-1e73be .spp-player-layout .spp-main-region .spp-main-view .spp-progress-bar .spp-time-elapsed ,
+.smart-podcast-player.spp-color-1e73be .spp-player-layout .spp-main-region .spp-main-view .spp-progress-bar .spp-time-remaining ,
+.smart-podcast-player.spp-color-1e73be .spp-player-layout .spp-main-region .spp-main-view .spp-progress-bar .spp-seek-time,
+.smart-track-player.stp-color-1e73be-1e73be .spp-track-layer-2 .spp-progress-bar .spp-time-elapsed,
+.smart-track-player.stp-color-1e73be-1e73be .spp-track-layer-2 .spp-progress-bar .spp-time-remaining,
+.smart-track-player.stp-color-1e73be-1e73be .spp-track-layer-2 .spp-progress-bar .spp-seek-time {
+	color: #FFF ;
+}
+
+.smart-podcast-player.spp-color-1e73be .spp-show-notes a,
+.smart-podcast-player.spp-color-1e73be .spp-truncated-show-notes a {
+	color: #60b86c ;
+}
+</style>
+
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	$("#rotator").cycle({ 
+	    fx: 'fade',
+	    timeout: 6000,
+	    speed: 1000,
+	    pause: 1,
+	    fit: 1
+	});
+});
+</script>
+
+<link rel='stylesheet' id='addthis_output-css'  href='http://radio.foxnews.com/wp-content/plugins/addthis/css/output.css?ver=e9e99e3ce015be8ca938a632a653f146' type='text/css' media='all' />
+<link rel='stylesheet' id='askpat-player-plugin-styles-css'  href='http://radio.foxnews.com/wp-content/plugins/smart-podcast-player/assets/css/style.css?ver=2.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='askpat-player-plugin-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400italic%2C600italic%2C700italic%2C400%2C600%2C700&#038;ver=2.1.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201708'></script>
+<script type='text/javascript' src='http://radio.foxnews.com/wp-content/themes/Newspaper/js/td_external.js?ver=4.6.2'></script>
+<script type='text/javascript' src='http://radio.foxnews.com/wp-content/themes/Newspaper/js/full_compact/site.js?ver=4.6.2'></script>
+<script type='text/javascript' src='http://radio.foxnews.com/wp-content/plugins/wp-cycle/jquery.cycle.all.min.js?ver=2.9999.5'></script>
+<script type='text/javascript' src='http://radio.foxnews.com/wp-includes/js/wp-embed.min.js?ver=e9e99e3ce015be8ca938a632a653f146'></script>
+<script type='text/javascript' src='http://radio.foxnews.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var AP_Player = {"homeUrl":"http:\/\/radio.foxnews.com","baseUrl":"http:\/\/radio.foxnews.com\/wp-content\/plugins\/smart-podcast-player\/assets\/js\/","ajaxurl":"http:\/\/radio.foxnews.com\/wp-admin\/admin-ajax.php","soundcloudConsumerKey":"b38b3f6ee1cdb01e911c4d393c1f2f6e","version":"2.1.8","importantStr":"","licensed":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://radio.foxnews.com/wp-content/plugins/smart-podcast-player/assets/js/main.min.js?ver=2.1.8'></script>
+<script type='text/javascript' src='http://radio.foxnews.com/wp-includes/js/comment-reply.min.js?ver=e9e99e3ce015be8ca938a632a653f146'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+</script>
+
+<!--wp_footer--></body>
+</html>

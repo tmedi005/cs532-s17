@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>1st Custom Writing Service - Get the Results and Recognition You Deserve!</title>
+  <link rel="stylesheet" type="text/css" href="styles.css" />
+  <link href="favicon.ico" type="image/x-icon" rel="icon" />
+  <link href="favicon.ico" type="image/x-icon" rel="shortcut icon" />
+  <link href="http://fonts.googleapis.com/css?family=Playfair+Display|Lora|Ubuntu|Lobster|Open+Sans|Roboto&subset=latin,cyrillic" rel="stylesheet" type="text/css" />
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&amp;subset=latin,cyrillic" />
+  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT Sans&amp;subset=latin,cyrillic" />
+</head>
+<body class="bg4">
+
+<div id="page">
+<div id="wrap">
+
+<div id="subs_form">
+<h1>1st Custom Writing Service</h1>
+<h2>Get the Results and Recognition You Deserve!</h2>
+
+<p>Calculate Your Price Now<br />
++ GET A SPECIAL 10% DISCOUNT!</p>
+
+<script type="text/javascript">
+var partner_id = 4937;
+var sub_id = "1st-custom-writing-service.club/";
+var form_action = "http://1st-custom-writing-service.club/order";
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//www.edu-profit.com/orderformph-new.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+})();
+</script>
+<div id="orderformph-new"></div>
+
+</div>
+
+</div>
+</div>
+
+<div id="footer">
+  <p>Copyright &copy; 2017 1st-custom-writing-service.club</p>
+  <p><a href="/policy" target="_blank">Revision Policy</a> | <a href="/map" target="_blank">Site Map</a> | <a href="/support" target="_blank">Ask a Question</a></p>
+</div>
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter41013099 = new Ya.Metrika({ id:41013099, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/41013099" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</body>
+</html>

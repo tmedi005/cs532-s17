@@ -1,0 +1,980 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta name="msvalidate.01" content="066B5B85928051E8DD433C78D150E764" />
+        <meta name="description" content="The Best and Funniest Vine Videos on the Internet and New Vines added every minute!">
+            <meta name="keywords" content="best vines, funny vines, vine compilation, comedy, vine search, search vine, twitter videos, videos for twitter, vine online viewer">
+
+        <meta name="title" content="Best Vines for BENROETHLISBERGER Compilation - November 3, 2016 Thursday">
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta property="og:title" content="Best Vines for BENROETHLISBERGER Compilation - November 3, 2016 Thursday" />
+        <meta property="og:description" content='' />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://www.best-vine-videos.com/Best-Vines-For-BENROETHLISBERGER-Compilation---November-3,-2016-Thursday-5103705.html" />
+        <meta property="og:image" content="http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg" />
+        <meta property="og:site_name" content="http://www.best-vine-videos.com" />
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@">
+        <meta name="twitter:url" content="http://www.best-vine-videos.com/Best-Vines-For-BENROETHLISBERGER-Compilation---November-3,-2016-Thursday-5103705.html">
+        <meta name="twitter:title" content="Best Vines for BENROETHLISBERGER Compilation - November 3, 2016 Thursday">
+        <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg">
+        <meta property="fb:app_id" content="?" />
+        <meta name="verify-v1" content="?" />
+        <meta itemprop="url" content="http://www.best-vine-videos.com/Best-Vines-For-BENROETHLISBERGER-Compilation---November-3,-2016-Thursday-5103705.html" />
+                <meta name="author" content="">
+                   <meta name="msvalidate.01" content="066B5B85928051E8DD433C78D150E764" />
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1">
+        <meta charset="UTF-8">
+                        <title>Best Vines For BENROETHLISBERGER Compilation - November 3, 2016 Thursday | Best-Vine-Videos.com</title>
+        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans"/>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+
+        <!-- jQuery library -->
+        <script src="https://code.jquery.com/jquery-1.12.3.min.js" integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ=" crossorigin="anonymous"></script>
+        <!-- CSS file -->
+        <link rel="stylesheet" href="/EasyAutocomplete-1.3.3/easy-autocomplete.css">
+
+        <!-- Additional CSS Themes file - not required-->
+        <link rel="stylesheet" href="/EasyAutocomplete-1.3.3/easy-autocomplete.themes.css">
+        <!-- Using jQuery with a CDN -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/easy-autocomplete/1.3.3/jquery.easy-autocomplete.js"></script>
+
+        <!-- Latest compiled JavaScript -->
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <script type="text/javascript">var switchTo5x = true;</script>
+        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+        <script type="text/javascript">stLight.options({
+                publisher: "90c8bac6-e4ce-4116-bf9a-ffda9fd17833",
+                doNotHash: false,
+                doNotCopy: false,
+                hashAddressBar: false
+            });</script>
+        <script type="text/javascript" src="/js/main.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
+        <link rel="stylesheet" type="text/css" href="/css/colors.css">
+    </head>
+    <body>
+    <div class="top" style="border-bottom:1px solid #0072BB;">
+        <div class="box">
+
+            <a href="/">                <div class="logo-box">
+                    <div class="rainbow-fav-container" style="background: #0072BB;"><i
+                            class="fa fa-vine fa-fw rainbow-fav"></i></div><div class="logo-title">Best-Vine-Videos</div></a></div>
+
+        <div class="search-box">
+            <form id="search-form" class="form-inline" role="form" method="get" action="/Search/">
+                <div class="input-group">
+                    <input type="text" id="search-links" class="form-control search-form" style="border: #00308F;" name="q" placeholder="Search"
+                        >
+                    <!--DO NOT NEED TRAILING SLASH "/" As HTML5 FORMS SLASHES ARE NO LONGER REQUIRED--> <span
+                        class="input-group-btn"><button type="submit" class="btn btn-primary search-btn"
+                                                        data-target="#search-form" style="background: #0072BB; border: #00308F; height: 33.8px;"><i class="fa fa-search">
+                        <!--FONT AWESOME font @ "http://fortawesome.github.io/Font-Awesome/" --></i>
+                </button></span>
+                </div>
+                <script>
+
+                    $(document).ready(function() {
+
+                        var options = {
+
+                            url: function(phrase) {
+                                if (phrase !== "") {
+                                    return "/searchJson.php?q=" + phrase;
+                                }
+                            },
+
+                            getValue: "text",
+
+                            requestDelay: 300,
+
+                            theme: "square",
+
+                            template: {
+                                type: "links",
+                                fields: {
+                                    link: "website-link"
+                                }
+                            },
+                            list: {
+                                maxNumberOfElements: 10
+
+                            }
+
+
+                        };
+
+                        $("#search-links").easyAutocomplete(options);
+                    });
+
+                </script>
+        </div>
+
+
+
+        </form>
+
+                    </div>
+        <div class="box">
+
+            <div class="center"><script>
+function openWin(url) {
+myWindow = window.open(url, "myWindow");
+}</script><a href="http://www.knowyoursmiley.com" onClick="openWin('http://www.meseed.com/Visit.php?visit=5');return false" target="_blank">( ᐛ )♡</a><a href="http://www.knowyoursmiley.com" onClick="openWin('http://www.meseed.com/Visit.php?visit=5');return false" target="_blank"> try: KnowYourSmiley.com emojis and emoticons</a></div>        </div>
+    </div>
+    <div class="bottom">
+
+
+    <div class="box">
+
+        <h1><span itemprop="name">Best Vines for <a href="/Search/?order=newest&q=benroethlisberger" style="color: #0072BB; text-transform: uppercase;">benroethlisberger</a> Compilation - November 3, 2016 Thursday</span></h1></div>
+        <div class="box-ad-cpu">
+
+
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Flexible Mobile -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-6547315753979149"
+                 data-ad-slot="6090980310"
+                 data-ad-format="auto"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script></div>
+            <div class="box">
+        <div class="content">
+            <div id="player"></div>
+<script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key="9gfDZez0QVEpRrU7FRW/EpJeIH+CND0DFNEMUw==";</script>
+<div id="myElement"></div>
+
+<script type="text/javascript">
+jwplayer("myElement").setup({
+playlist: [
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/C069639F651290110328159514624_130336f2dfe.3.2.mp4',
+  title: 'Extending plays since 04  Double Tap for Big Ben Im so PUMPED for Christmas ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'iKhbUDjb0F0'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/B9B406DB551194853248147275776_30456f0ab43.2.1.3849862978801472660.mp4',
+  title: 'steelers Top 10 number 5 BenRoethlisberger Hes is defiantly good at the half way point like follow revine',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OLUViFwueVX'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/EAC3FF647F1183258635925643264_36f2edfca49.1.5.17453402597666972763.mp4',
+  title: 'Congrats to BenRoethlisberger on this NFl Record Please like revine and comment what you think of this and all my videos Thanks ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'O2jBPHjhmhO'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/BD950EEEF71280764711662739456_1448332232186ac52a62.7440.mp4',
+  title: 'Big Ben                                                                          Thanks for the people who have stuck around  oneyear',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'izXuAZb6jgV'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/58548639DD1237930457258205184_13ca1f38e2d.3.2.mp4',
+  title: 'steelers v texans gamehappy birthday tyler jesslyn',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'eXq7pJYxj71'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/A4966E790E1241690005714923520_18f40c80e05.3.2.mp4',
+  title: 'steelers v panthers gametomorrow is FINALLY footballjesslyn ok',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'ewXb23uFzww'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/63895CA8201185447376530685952_32dd728d674.1.5.12227098988000049420.mp4',
+  title: 'like follow revine If this song is just the best  and if you like the video  BenRoethlisberger UptownFunk',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'O0LEVYOZHVp'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/68DB7A32711227293699948908544_375513a4189.4.1.10766682944237200687.mp4',
+  title: 'Bringing some of my older Post back steelers BenRoethlisberger steelerssarebeast steelerviner revine like',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'eJTze2vajw1'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/AE591441B81183913328255827968_1e9072c6142.3.2.mp4',
+  title: 'HAPPY BDAY TO THIS GUY TOMORROW  ya hes made mistakes but hes one of the best qbs in the league',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'O0utXgHzlx1'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/5CA143F7CD1224915977461170176_3e225d6d794.4.1.13692099277633098105.mp4',
+  title: 'steelers steelerviner LeVeonBell TroyPolamalu AntonioBrown BenRoethlisberger  thanks for 5k followers',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'e5qgXuXOdA2'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/A97A9D3C131198523606032863232_39556b93e75.2.1.818666777547077108.mp4',
+  title: 'I Guess This Means Bye seattleseahawks steelers TroyPolamalu steelerviner steelerscountry bengals BenRoethlisberger funny epic Troy',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'euBiVAd0DwM'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/8F817EDCEE1233674260950708224_3eb36103290.4.2.5026448137955749452.mp4',
+  title: 'This gets 2000 loops In 1 day i will follow everyone that likes or revinessteelers   BenRoethlisberger IFollowBack',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'erpzWKx1r6E'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/9EDB55DDE31189480018582147072_3260ee05fe2.2.0.12567107445063051311.mp4',
+  title: 'BenRoethlisberger dont worry fans We have him for another 5 years Help me get 5k followers by like follow revine',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OVrqFUFJJZJ'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/A75E17D6F51120616702879600640_255681d79c5.5.1.7907417800655414059.mp4',
+  title: 'Ben being Ben BenRoethlisberger AntonioBrown Touchdown Steelers Steelernation steelersfootball steelersnation  NFLHighlights',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OzKZbiLavXm'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/2A8110EEB81136945153509363712_SW_WEBM_1414043052827a8861d4bf8.mp4',
+  title: 'Such a wonderful trick play by my Pittsburgh Steelers steelers  BenRoethlisberger AntonioBrown lancemoore16 myteam',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OhAngz5z636'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/BDEDE9ABE71197540706785394688_391046a6356.2.1.10684534945090760645.mp4',
+  title: 'We finally hit it 100000 loops So here is the history of Steelers in 7 seconds BenRoethlisberger TroyPolamalu steelers nfl funny',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'eB1PQzYKOnA'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/ADA2B7A5F51184326866736431104_323aecf02c7.1.5.18216231709106753063.mp4',
+  title: 'HappyBirthday to the Best QB in the NFL  BenRoethlisberger 7 Big Ben steelers HeWereGo  blackandyellow',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'O0OmtX2wzj7'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/EFEA98BFAD1198450586866139136_3e33d5e58c8.2.1.11600088371578523595.mp4',
+  title: 'Thanks Heath For This Play steelerscountry steelers steelerviner nfl epic funny BenRoethlisberger HeathMiller Ravens',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'eBLmZ9FO3Xt'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/9E64CA38B31158596792339038208_340e3b43579.1.4.1831099105507279704.mp4',
+  title: 'Roethlisbeger throws while hit to Brownsteelers Touchdown AntonioBrown BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OX6VxBgJLXD'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/4D2DCCD5B81297330972878172160_1b641074a41.3.2.mp4',
+  title: 'Free Forever  Steelersposting this on steelers territory later ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'ihTXm3PHK9a'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/53D70073701197398245194993664_354a7faf0b0.2.1.5345000072144578666.mp4',
+  title: 'Late night edit funny nfl steelers Ravens epic AntonioBrown BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'eBe6n219YHq'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/6F19C7CE671136944456076300288_SW_WEBM_1414042889717135103f43f.mp4',
+  title: 'I love my Pittsburgh Steelers steelers BenRoethlisberger LeVeonBell mnf',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OhA1KgwUmAw'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/D54A276DD81372408176808718336_166d4769635.4.7.mp4',
+  title: 'Little Talks  ib   bad quality srry',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: '5AxjaPvAA55'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/38F189A4961334108059387285504_5c16eea62fa.13.0.1152188987632878838.mp4',
+  title: 'win or lose this is my team Im proud of them always song ride out by kid ink or at least I think its by kid ink',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'iFMmQ2m0Lq5'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/14B6761B761248120756647481344_387b6591376.4.6.14871631816150187280.mp4',
+  title: 'Audio Credit To DopeEdits TB to Santonio Holmes Catch in the Super Bowl Changed my Name to Steelers Clutch TheZone',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'ejrPOXzLiU9'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/A797F1AF301066408085792460800_2f72f0ec9d2.0.1.13866344401704274848.mp4',
+  title: 'Steelerfansbelike Pittsburgh steelers steelernation stillers zacandmirimakeaporno funny fan BenRoethlisberger sethrogen comedy',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'M5EVnh9Jpu5'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/258665842E1125689514132701184_2e07f6d159f.5.1.16357988127147680022.mp4',
+  title: 'Antonio brown aint got nothing on me steelerspittsburghlegarretteBlount roethlisberger BenRoethlisberger AntonioBrown',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'O7MUW2Hl2EU'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/4306E8C9D61347704658625454080_5f943dfa107.19.0.760E195C-D0B0-4E65-972A-5F93A8E03661.mp4',
+  title: 'Big Ben TheZone BenRoethlisberger bigben steelers Steelernation',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i9DOtFZeHh0'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/7D698963021402065360118820864_179fbd238d3.4.7.mp4',
+  title: 'Dangerous  Ben Roethlisbergerwe all rooting for you landrytotal remake of my fav Moxslay',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: '5dBu0D1JUpP'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/D6C3464E541180958693521870848_1ec86e085e4.4.7.mp4',
+  title: 'Antonio Brown Edit sorry I havent posted in a while but comment who I should do next I need more videos',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OQqQZP1bvbT'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/83036DE1421138522629565837312_SW_WEBM_1414419156749c1c7349702.mp4',
+  title: 'Best TD of yesterdays game BenRoethlisberger setting records yesterday steelers   AntonioBrown cueupu',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OMm9gV17MUr'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/E6A6FBF4F21285824325870092288_4ee8c5e61b6.4.1.12000676792935966038.mp4',
+  title: 'BenRoethlisberger pittsburghsteelers pittsburgh HeinzField',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i7DMj0DZ2hl'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/711725BBBA1196519039334264832_34c3e6f0392.2.1.12089660658646042282.mp4',
+  title: 'Hope everyone is having a good day nfl cardinals steelers easter BenRoethlisberger edit funny epic',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OlxuhgXJY2Q'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/27AA5A5E481126035307947560960_2006c689fbc.5.1.7019583100047012897.mp4',
+  title: 'TouchDownVine de AntonioBrown y BenRoethlisberger STEELERS NFL',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'O7gmBKjEnar'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/346D98DCA71155657125855690752_3472fb89400.1.3.13526500619152800651.mp4',
+  title: 'blackandyellow pittsburghsteelers BenRoethlisberger martavisbryant 94yardtouchdown',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'O6T69T2zYnd'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/2EB048CBAC1248527215399440384_3e9e06daa7c.4.6.16885833152746454494.mp4',
+  title: 'TerrellSuggs with the cheapshot pittsburgh baltimore Ravens steelers BenRoethlisberger why',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'ejtljmwzWhY'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/97A12680CB1270226773682409472_4a522bf6a8f.2.0.1320970979334566472.mp4',
+  title: 'This catch and run tho steelers BenRoethlisberger MartavisBryant Steelernation nashgrier camerondallas jerrypurpdrank huddle',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'eYuY9gDwI1Q'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/803CE11C541268024114741194752_40c71983322.2.0.9751195695127069839.mp4',
+  title: 'The most underrated Receiver in the nfl steelers Steelernation BenRoethlisberger bryant NFLEDITS',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'e9TIWQPUUwz'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/0AB4936FB91136182486729457664_2da53a7f3a5.5.1.14606345050221860601.mp4',
+  title: 'steelers football BestSportsPlays Highlights antoniobrown BenRoethlisberger sports texans sportshighlights',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'ObF6a6AqigK'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/C615FC68151010737396578467840_1383952731876f7a8f958fc.mp4_Z6wo8BrLKbaMWli9gTDauGK6y4etTOs.JOWSmvzW9R.p7oLV2WyI8cwypvOeT9th.mp4',
+  title: 'talking sports with my uncle dean benroethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'hITxBDOQFQi'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/B299B986DA1211559798479753216_384b1ffeacd.3.1.7056062549616648888.mp4',
+  title: 'Steelernation AntonioBrown TroyPolamalu BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'eABppYPV3EK'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/2F8BFBFB051257505804375203840_4e3349685b5.0.2.10690601919708600489.mp4',
+  title: 'Antonio Brown Beast steelers Steelernation steelersnation AntonioBrown BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'ePbm507wdqH'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/20FBC73F041215556587872313344_SW_WEBM_1432785485396dc5ab93323.mp4',
+  title: 'TrapSports  AntonioBrown  BenRoethlisberger LeVeonBell  Steelernation',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'ebr9uv9pJ7B'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/35DB2609701304505163024842752_49c8292b016.5.1.11589702760269616140.mp4',
+  title: 'idfc if they lost the playoffs',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'i5W1Kz92mmY'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/D1BB3C85DC1140882274926432256_SW_WEBM_14149817340882fb24f50ef.mp4',
+  title: 'Let the gifs begin BenRoethlisberger pittsburgsteelers steelers',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OOpEV9atwEV'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/219BA96F141275542665848885248_4e3780a330f.2.1.15917071412749754947.mp4',
+  title: 'Video game moves by Martavis Bryant for the touchdown steelers Steelernation MartavisBryant BenRoethlisberger falloutboy',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'elO9dHhV7jr'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/B223EF0CA41158513640216154112_34a607a7778.1.4.7917061377030490291.mp4',
+  title: 'pittsburgh steelersnation steelers nfl leveonbell AntonioBrown BenRoethlisberger blackandyellow pride football followforfollow',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OXvnjA1zVXD'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/8B2FD3694C991630387896049664_18adbbf7e2f.3.2_Wcbt.7JCVI2DWwkn9AzTDK5H4MDEbyTKoaMbeuiYkJV5keDxK3W9fSySJ5oOWJnQ.mp4',
+  title: '420 stonernation steelersnation BenRoethlisberger 7',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'hn3xj0xzDaw'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/A29087ECD21161206248533049344_3ebb2b7a6b9.1.4.17208128520789163512.mp4',
+  title: 'Who dey AFC North champs who dey whodey steelers steelersnation AntonioBrown mvp BenRoethlisberger pittsburgh AFCNORTH herewego',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OwWvlAel2eL'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/BFBB50EC061143316935816245248_32dbcdfa388.0.1.108026054868668520.mp4',
+  title: 'Iv never seen a football player do this so calmNFL nfl  BenRoethlisberger steelers',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Oi7mz0rii9H'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/F6D0CBB3791260759730448736256_SW_WEBM_144356266905855747003bc.mp4',
+  title: 'The killer bs are back together butSorry Steelers fans but I need to do it Hopefully He will be fine',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'eQbavBMMQgD'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/830620B45C1298470752663871488_4cd55924961.5.1.10212107963629738143.mp4',
+  title: 'Big Ben Ladies and Gentlemen Steelernation pittsburghsteelers  BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'iMJ2a1blU3Z'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/7F322428D21148401752006193152_32b3e135470.0.1.7973661073827319960.mp4',
+  title: 'billcosby jellopudding TheCosbyShow CosbyShow pills BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'O1bmFdiMbhq'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/37C723BDB91085376004568096768_230490c9678.0.3.10133630898700233127.mp4?versionId=TXz92pJBHw.cQFOYs0LrvCymn2NMaQW5',
+  title: 'He just did a Cleveland Brownin the toilet gosteelers',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'MpXIKXUXi35'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/39A15573C71012779365173743616_1f3c2a5825c.4.3.10225311763935254431_W2ymjYZttCy6aX6tX_YeR0kd2uZCwYybg60f5gV_E.IPQ10jlrMC7uBR9L1UkZ3E.mp4',
+  title: 'BenRoethlisberger AtWorkBoard chilluminati freechadbetris',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'hT3K91AWWnH'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/38D1A3E29A1187478961073070080_3b5d254f156.1.5.5778455470779666488.mp4',
+  title: 'pittsburghsteelers BenRoethlisberger newshirt',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'O9qllQ2MXXe'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/DBCAC85CFF1257511213198639104_4f4072facc7.0.2.17844044211638224047.mp4',
+  title: 'Ben Roethlisberger  to Darrius HeywardBey for the TD steelers BenRoethlisberger RedMusicOnline',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'ePbeMTpwYji'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/AE0A3D07DC1142604556056862720_32731fcf805.0.1.1836807160051412073.mp4',
+  title: 'BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OeItezzvIPW'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/CDE6D59CCB1161578126204436480_355d6f90464.1.4.16671765974295158453.mp4',
+  title: 'dracula twerkteam worldstarhiphop twerkaholic BenRoethlisberger potato capedcrusader',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OweDDr2zHu5'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/0A5231F4201182138739561025536_3c09c92c567.1.5.9238341470727581933.mp4',
+  title: 'jameiswinston compared to BenRoethlisberger Combine Draft',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OQ3e3OVvEYH'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/92341124BD1297817978313826304_47a99a7d6d2.2.0.2336697992894308067.mp4',
+  title: 'Bengals fans throwing debris at injured BenRoethlisberger as hes carted off during nflwildcard',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'ihlAimTUptl'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/0E082D54601142672947979436032_34bd6eb0ffa.0.1.3528994023505818130.mp4',
+  title: 'Vine by james mical',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OetPKMWPlHn'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/6E83FF81131282888900356272128_4056b911f56.4.0.17759660654253878381.mp4',
+  title: 'BenRoethlisberger SleeplessInSeattle He Is Not PhilSimms smh  Steelers',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'iaQ30LeXxw6'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/68FCF26AD51227465676760457216_270d7467ad1.5.1.14401056595749325776.mp4',
+  title: 'Ruthlesss helmet Part I football BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'eJxbQmWPIUF'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/8615A0D758966883923860819968_1f690207955.3_FQ2pQ8qwKlA011DXR3QFnbWzMRvfEkSW76azmdiWPR75zYIQBqAmomAY94IQGTaw.mp4',
+  title: 'My roethlisberger steelers authentic jersey BenRoethlisberger steelers',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'h7PmUj55bO7'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/119A39CF0D1253922386739650560_43b6b7704c5.0.2.15219478144338555197.mp4',
+  title: 'Patriots or Steelers Nfl football NEvsPIT ThursdayNightFootball NFLKickoff TomBrady DeflateGate BenRoethlisberger revine',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'eFuePetTLuQ'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/5075371FEF1153574958581297152_385d65a9b54.1.1.16843587281565074354.mp4',
+  title: 'ALSIceBucketChallenge Gratatata worldstarhiphop twerkaholic BenRoethlisberger potato capedcrusader',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Or1QIXgpJJI'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/DF3784C0621144767388252827648_344068af4c6.0.1.5267472350821204744.mp4',
+  title: 'capedcrusader BenRoethlisberger twerkaholic worldstarhiphop Gratatata ALSIceBucketChallenge',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OilxqOQ2ZJY'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/072082F9811037002747347886080_1d0a24057d9.4.7.17652610041138634358_k7C.vpammv5.Ac_eV7_dE3XkuGmTv29Zy3CzwEBNLYNLXTGqVR.UzJIGdtV_v8XW.mp4',
+  title: 'BenRoethlisberger football drunk',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'hl2WMB9FrQI'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/F803BBD3DF1190942718051381248_3fa700bedb0.2.0.9083786518357310491.mp4',
+  title: 'Gratatata twerkteam worldstarhiphop BenRoethlisberger capedcrusader tigershirtarmy bigcat Santino Jaber',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OY5bMgqp6KO'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/7427C109541201766435702583296_3bf957b135a.2.1.3189450669643751440.mp4',
+  title: 'The Pittsburg Steelers have won the Super Bowl Ben what are you gonna do next nfl steelers BenRoethlisberger funny',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'ezlYZLPrOhK'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/21A0AF8FBF1104282642699927552_20fed6a8170.1.2.13480777411899853311.mp4',
+  title: 'Big Ben strikes again BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'M0ZwV9wELVt'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/B4C1E3DE8B1165503466966294528_328ff2cbb3a.1.5.3669854496653082830.mp4',
+  title: 'capedcrusader potato BenRoethlisberger twerkaholic worldstarhiphop twerkteam dracula',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OpFUrt6MhdE'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B3DEA7B3281163278070275538944_3ba2486921b.1.5.7704750870254534120.mp4',
+  title: 'Baby Berger  92 TV football steelers BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Od5xi5vFvUY'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/CE688DA2CD1153577692067938304_3ae5c9aac5c.1.1.7394884584882079418.mp4',
+  title: 'capedcrusader potato BenRoethlisberger twerkaholic worldstarhiphop twerkteam dracula',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Or19pI0Q5Lu'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/v/videos/A29C161C-E9B2-4FFC-95C7-990CEFE4EFFA-2311-0000015452DC4A65_1.1.mp4',
+  title: 'BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'b3ijDU1Fbaz'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/F6E86691161163364421562138624_3f810dd1027.1.5.7968974121624674435.mp4',
+  title: 'Roethlisberger does it for the Vine BenRoethlisberger Steelernation doitforthevine',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Odn1wIdAX32'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/0E454F42DA1171054836855324672_320c1982994.1.5.1895047028289561197.mp4',
+  title: 'dracula twerkteam worldstarhiphop twerkaholic BenRoethlisberger potato capedcrusader stonecoldEBT',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OTZxUrn0Tt9'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/61C433F2-624B-4BB8-9BFD-17FBD41A6E7E-3058-000003EC3A116618_1.0.7.mp4',
+  title: 'BenRoethlisberger GTAIV',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'bQBwtFPVWvU'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/6EABFE71841140923019309752320_SW_WEBM_141499145232976dcec5f82.mp4',
+  title: 'Ben Roethlisberger 6th touchdown pass against the Ravens BenRoethlisberger steelers Touchdown',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OOj7BUZqZxl'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/30DBA5C8B81144761100626235392_3ec84c5eb71.0.1.6593614564473861024.mp4',
+  title: 'Vine by james mical',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OilpWWxFJOW'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/8B1E29D5621141565900047388672_3fbc373f65e.0.1.17493584923094152361.mp4',
+  title: 'ALSIceBucketChallenge worldstarhiphop Gratatata BenRoethlisberger Whypeoplecheat dogs pets nfl electionday',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Oeuv9DLpnqq'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/6F09973BCF1153677340937699328_SW_WEBM_141803232286162ba23adf5.mp4',
+  title: 'huckitchuckitfootball BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'Orr9pPzXEYm'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/DAAF553F391299891731449643008_SW_WEBM_1452892544252cfe9dcb7da.mp4',
+  title: 'YEAH STEELERSBenRoethlisberger AntonioBrown',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'iOhpnX5dBIj'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/734A95E4C11387285576411172864_5f6c3f4f172.35.0.746F94E0-0B95-4040-B2FF-D1F5F543367D.mp4',
+  title: 'Touchdown Brown steelers AntonioBrown BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: '5JYeveWEd0H'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/A1D3FB67-6617-49AE-847F-51E069352C3A-456-00000035A83E8589_12e27be67b4.1.2.mp4',
+  title: 'BenRoethlisberger truckin over darrellerevis for da touchdown dis stuff was cole lms',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'hu7phEUFe5n'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/D068E300A31139060152700755968_32fe4d0a184.0.1.16895846504029419632.mp4',
+  title: 'Become dracula Whypeoplecheat potato BenRoethlisberger Gratatata worldstarhiphop ALSIceBucketChallenge',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OMgzinwilT9'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/7E7D4C7D6C1140883409481109504_372c035de27.0.1.5937929565395052912.mp4',
+  title: 'steelers steelersnation football BenRoethlisberger benroethlisbergerinjured ravens highlights sportshighlights',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OOpYX05Db5p'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/B19B5B55AE1298526035289239552_45d64b83c74.5.1.16616203753314428784.mp4',
+  title: 'Ben Roethlisberger Cincinnati Bengals BenRoethlisberger pittsburghsteelers cincinnatibengals',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'iMn6qnFbjj3'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/288B20C9EC1037004024740044800_10e2a0d16ce.4.7.2228805152418855745_DVRf_d_ppqv0S26ytVFIUJ8sPx.sWdGTjTrLt0uiF7TRKZJeWHf8Z1gzgjrML6wO.mp4',
+  title: 'stellers BenRoethlisberger cousin',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'hl27njJiJxq'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/6A53E4BAD81300666705542270976_4302687e801.5.1.11589062919918546911.mp4',
+  title: 'BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'iOF9DExxAjg'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/0E049A6BC41142702797721124864_324ad14a3a0.0.1.13967408263128046568.mp4',
+  title: 'dracula potato ALSIceBucketChallenge worldstarhiphop Gratatata BenRoethlisberger Whypeoplecheat',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'OeFIm2dnaVz'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/0305F613351260020936795684864_30f68ceab36.2.1.7893825564549914069.mp4',
+  title: 'Bad need Big Ben is injured BenRoethlisberger',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Best-Vines-For-BENROETHLISBERGER-Compilation-November-3-2016-Thursday-Image.jpg",
+  mediaid: 'exP0aXxedil'
+}],
+width: "100%",
+          aspectratio: "1:1",
+      autostart: true,
+});
+
+</script>
+
+        </div>
+    </div>
+    <div class="box-ad-cpu">
+
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Flexible Mobile -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-6547315753979149"
+         data-ad-slot="6090980310"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script></div>
+
+    <div class="box">
+                <div class="list-group">
+
+                        <a class="list-group-item" href="/Email/?title=Best+Vines+for+BENROETHLISBERGER+Compilation+-+November+3%2C+2016+Thursday&url=Best-Vines-For-BENROETHLISBERGER-Compilation---November-3,-2016-Thursday-5103705.html"><i
+                    class="fa fa-envelope-o fa-fw"></i>&nbsp; Email "Best Vines for BENROETHLISBERGER Compilation" to Friends</a>
+
+
+            <a class="list-group-item" href="javascript:void(0);" id="alerts-button"><i
+                    class="fa fa-mail-forward fa-fw"></i>&nbsp;
+                Receive Emails for Future benroethlisberger Vines</a>
+
+            <div id="alerts-div">
+                <form action="/joinNewsletter.php" method="get"><h3>Email: <input type="text" name="email" value=""><input type="hidden" name="keyword" value="benroethlisberger"><input type="hidden" name="join" value="1"><input type="submit" class="hand" value="Join Subscription for &quot;benroethlisberger&quot;" title="Receive an Email for New benroethlisberger Posts"></form></h3>            </div>
+
+            <a class="list-group-item" href="javascript:void(0);" id="link-button"><i class="fa fa-chain fa-fw"></i>&nbsp;
+                Link to "Best Vines for BENROETHLISBERGER Compilation"</a>
+
+            <div id="link-div">
+                <h3>Share: <input onClick="this.select();" value="http://www.best-vine-videos.com/Best-Vines-For-BENROETHLISBERGER-Compilation---November-3,-2016-Thursday-5103705.html" style="width: 100%;"/></h3>            </div>
+            </a>
+            <a class="list-group-item" href="javascript:void(0);" id="socialmedia-button"><i
+                    class="fa fa-thumbs-o-up fa-fw"></i>&nbsp; Share on Facebook, Twitter, and more</a>
+
+            <div id="socialmedia-div">
+                
+        <div class="social">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=253077174717798&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="fb-like" data-href="http://www.best-vine-videos.com/Best-Vines-For-BENROETHLISBERGER-Compilation---November-3,-2016-Thursday-5103705.html/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div></div><div class="list-results">
+
+<span class='st_facebook_vcount' displayText='Facebook'></span>
+<span class='st_twitter_vcount' displayText='Tweet'></span>
+<span class='st_linkedin_vcount' displayText='LinkedIn'></span>
+<span class='st_pinterest_vcount' displayText='Pinterest'></span>
+</div>            </div>
+        </div>
+    </div>
+    <div class="box-ad-cpu">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Large Rectangle -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:336px;height:280px"
+             data-ad-client="ca-pub-6547315753979149"
+             data-ad-slot="5481525515"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+<div class="box"><h1>Hashtags in Compilation</h1>
+<div class="content"><a href="/Search/?order=newest&q=STEELERS" class="color-0">STEELERS</a> <a href="/Search/?order=newest&q=BENROETHLISBERGER" class="color-1">BENROETHLISBERGER</a> <a href="/Search/?order=newest&q=LIKE" class="color-2">LIKE</a> <a href="/Search/?order=newest&q=FOLLOW" class="color-3">FOLLOW</a> <a href="/Search/?order=newest&q=REVINE" class="color-4">REVINE</a> <a href="/Search/?order=newest&q=ONEYEAR" class="color-5">ONEYEAR</a> <a href="/Search/?order=newest&q=UPTOWNFUNK" class="color-6">UPTOWNFUNK</a> <a href="/Search/?order=newest&q=STEELERSSAREBEAST" class="color-7">STEELERSSAREBEAST</a> <a href="/Search/?order=newest&q=STEELERVINER" class="color-8">STEELERVINER</a> <a href="/Search/?order=newest&q=LEVEONBELL" class="color-9">LEVEONBELL</a> <a href="/Search/?order=newest&q=TROYPOLAMALU" class="color-10">TROYPOLAMALU</a> <a href="/Search/?order=newest&q=ANTONIOBROWN" class="color-11">ANTONIOBROWN</a> <a href="/Search/?order=newest&q=SEATTLESEAHAWKS" class="color-12">SEATTLESEAHAWKS</a> <a href="/Search/?order=newest&q=STEELERSCOUNTRY" class="color-13">STEELERSCOUNTRY</a> <a href="/Search/?order=newest&q=BENGALS" class="color-14">BENGALS</a> <a href="/Search/?order=newest&q=FUNNY" class="color-15">FUNNY</a> <a href="/Search/?order=newest&q=EPIC" class="color-16">EPIC</a> <a href="/Search/?order=newest&q=IFOLLOWBACK" class="color-17">IFOLLOWBACK</a> <a href="/Search/?order=newest&q=TOUCHDOWN" class="color-18">TOUCHDOWN</a> <a href="/Search/?order=newest&q=STEELERNATION" class="color-19">STEELERNATION</a> <a href="/Search/?order=newest&q=STEELERSFOOTBALL" class="color-20">STEELERSFOOTBALL</a> <a href="/Search/?order=newest&q=STEELERSNATION" class="color-21">STEELERSNATION</a> <a href="/Search/?order=newest&q=NFLHIGHLIGHTS" class="color-22">NFLHIGHLIGHTS</a> <a href="/Search/?order=newest&q=LANCEMOORE16" class="color-23">LANCEMOORE16</a> <a href="/Search/?order=newest&q=MYTEAM" class="color-24">MYTEAM</a> <a href="/Search/?order=newest&q=HAPPYBIRTHDAY" class="color-25">HAPPYBIRTHDAY</a> <a href="/Search/?order=newest&q=HEWEREGO" class="color-26">HEWEREGO</a> <a href="/Search/?order=newest&q=BLACKANDYELLOW" class="color-27">BLACKANDYELLOW</a> <a href="/Search/?order=newest&q=HEATHMILLER" class="color-28">HEATHMILLER</a> <a href="/Search/?order=newest&q=RAVENS" class="color-29">RAVENS</a> <a href="/Search/?order=newest&q=THEZONE" class="color-30">THEZONE</a> <a href="/Search/?order=newest&q=STEELERFANSBELIKE" class="color-31">STEELERFANSBELIKE</a> <a href="/Search/?order=newest&q=PITTSBURGH" class="color-32">PITTSBURGH</a> <a href="/Search/?order=newest&q=STILLERS" class="color-33">STILLERS</a> <a href="/Search/?order=newest&q=SETHROGEN" class="color-34">SETHROGEN</a> <a href="/Search/?order=newest&q=COMEDY" class="color-35">COMEDY</a> <a href="/Search/?order=newest&q=LEGARRETTEBLOUNT" class="color-36">LEGARRETTEBLOUNT</a> <a href="/Search/?order=newest&q=ROETHLISBERGER" class="color-37">ROETHLISBERGER</a> <a href="/Search/?order=newest&q=BIGBEN" class="color-38">BIGBEN</a> <a href="/Search/?order=newest&q=CUEUPU" class="color-39">CUEUPU</a> <a href="/Search/?order=newest&q=PITTSBURGHSTEELERS" class="color-40">PITTSBURGHSTEELERS</a> <a href="/Search/?order=newest&q=HEINZFIELD" class="color-41">HEINZFIELD</a> <a href="/Search/?order=newest&q=CARDINALS" class="color-42">CARDINALS</a> <a href="/Search/?order=newest&q=EASTER" class="color-43">EASTER</a> <a href="/Search/?order=newest&q=EDIT" class="color-44">EDIT</a> <a href="/Search/?order=newest&q=TOUCHDOWNVINE" class="color-45">TOUCHDOWNVINE</a> <a href="/Search/?order=newest&q=MARTAVISBRYANT" class="color-46">MARTAVISBRYANT</a> <a href="/Search/?order=newest&q=94YARDTOUCHDOWN" class="color-47">94YARDTOUCHDOWN</a> <a href="/Search/?order=newest&q=TERRELLSUGGS" class="color-48">TERRELLSUGGS</a> <a href="/Search/?order=newest&q=CHEAPSHOT" class="color-49">CHEAPSHOT</a> <a href="/Search/?order=newest&q=BALTIMORE" class="color-50">BALTIMORE</a> <a href="/Search/?order=newest&q=NASHGRIER" class="color-51">NASHGRIER</a> <a href="/Search/?order=newest&q=CAMERONDALLAS" class="color-52">CAMERONDALLAS</a> <a href="/Search/?order=newest&q=JERRYPURPDRANK" class="color-53">JERRYPURPDRANK</a> <a href="/Search/?order=newest&q=HUDDLE" class="color-54">HUDDLE</a> <a href="/Search/?order=newest&q=BRYANT" class="color-55">BRYANT</a> <a href="/Search/?order=newest&q=NFLEDITS" class="color-56">NFLEDITS</a> <a href="/Search/?order=newest&q=FOOTBALL" class="color-57">FOOTBALL</a> <a href="/Search/?order=newest&q=BESTSPORTSPLAYS" class="color-58">BESTSPORTSPLAYS</a> <a href="/Search/?order=newest&q=HIGHLIGHTS" class="color-59">HIGHLIGHTS</a> <a href="/Search/?order=newest&q=SPORTS" class="color-60">SPORTS</a> <a href="/Search/?order=newest&q=TEXANS" class="color-61">TEXANS</a> <a href="/Search/?order=newest&q=SPORTSHIGHLIGHTS" class="color-62">SPORTSHIGHLIGHTS</a> <a href="/Search/?order=newest&q=TRAPSPORTS" class="color-63">TRAPSPORTS</a> <a href="/Search/?order=newest&q=PITTSBURGSTEELERS" class="color-64">PITTSBURGSTEELERS</a> <a href="/Search/?order=newest&q=FALLOUTBOY" class="color-65">FALLOUTBOY</a> <a href="/Search/?order=newest&q=PRIDE" class="color-66">PRIDE</a> <a href="/Search/?order=newest&q=FOLLOWFORFOLLOW" class="color-67">FOLLOWFORFOLLOW</a> <a href="/Search/?order=newest&q=STONERNATION" class="color-68">STONERNATION</a> <a href="/Search/?order=newest&q=WHODEY" class="color-69">WHODEY</a> <a href="/Search/?order=newest&q=AFCNORTH" class="color-70">AFCNORTH</a> <a href="/Search/?order=newest&q=HEREWEGO" class="color-71">HEREWEGO</a> <a href="/Search/?order=newest&q=BILLCOSBY" class="color-72">BILLCOSBY</a> <a href="/Search/?order=newest&q=JELLOPUDDING" class="color-73">JELLOPUDDING</a> <a href="/Search/?order=newest&q=THECOSBYSHOW" class="color-74">THECOSBYSHOW</a> <a href="/Search/?order=newest&q=COSBYSHOW" class="color-75">COSBYSHOW</a> <a href="/Search/?order=newest&q=PILLS" class="color-76">PILLS</a> <a href="/Search/?order=newest&q=GOSTEELERS" class="color-77">GOSTEELERS</a> <a href="/Search/?order=newest&q=ATWORKBOARD" class="color-78">ATWORKBOARD</a> <a href="/Search/?order=newest&q=CHILLUMINATI" class="color-79">CHILLUMINATI</a> <a href="/Search/?order=newest&q=FREECHADBETRIS" class="color-80">FREECHADBETRIS</a> <a href="/Search/?order=newest&q=NEWSHIRT" class="color-81">NEWSHIRT</a> <a href="/Search/?order=newest&q=REDMUSICONLINE" class="color-82">REDMUSICONLINE</a> <a href="/Search/?order=newest&q=DRACULA" class="color-83">DRACULA</a> <a href="/Search/?order=newest&q=TWERKTEAM" class="color-84">TWERKTEAM</a> <a href="/Search/?order=newest&q=WORLDSTARHIPHOP" class="color-85">WORLDSTARHIPHOP</a> <a href="/Search/?order=newest&q=TWERKAHOLIC" class="color-86">TWERKAHOLIC</a> <a href="/Search/?order=newest&q=POTATO" class="color-87">POTATO</a> <a href="/Search/?order=newest&q=CAPEDCRUSADER" class="color-88">CAPEDCRUSADER</a> <a href="/Search/?order=newest&q=JAMEISWINSTON" class="color-89">JAMEISWINSTON</a> <a href="/Search/?order=newest&q=COMBINE" class="color-90">COMBINE</a> <a href="/Search/?order=newest&q=DRAFT" class="color-91">DRAFT</a> <a href="/Search/?order=newest&q=NFLWILDCARD" class="color-92">NFLWILDCARD</a> <a href="/Search/?order=newest&q=SLEEPLESSINSEATTLE" class="color-93">SLEEPLESSINSEATTLE</a> <a href="/Search/?order=newest&q=PHILSIMMS" class="color-94">PHILSIMMS</a> <a href="/Search/?order=newest&q=PATRIOTS" class="color-95">PATRIOTS</a> <a href="/Search/?order=newest&q=NEVSPIT" class="color-96">NEVSPIT</a> <a href="/Search/?order=newest&q=NFLKICKOFF" class="color-97">NFLKICKOFF</a> <a href="/Search/?order=newest&q=TOMBRADY" class="color-98">TOMBRADY</a> <a href="/Search/?order=newest&q=DEFLATEGATE" class="color-99">DEFLATEGATE</a> <a href="/Search/?order=newest&q=GRATATATA" class="color-100">GRATATATA</a> <a href="/Search/?order=newest&q=DRUNK" class="color-101">DRUNK</a> <a href="/Search/?order=newest&q=TIGERSHIRTARMY" class="color-102">TIGERSHIRTARMY</a> <a href="/Search/?order=newest&q=BIGCAT" class="color-103">BIGCAT</a> <a href="/Search/?order=newest&q=DOITFORTHEVINE" class="color-104">DOITFORTHEVINE</a> <a href="/Search/?order=newest&q=STONECOLDEBT" class="color-105">STONECOLDEBT</a> <a href="/Search/?order=newest&q=GTAIV" class="color-106">GTAIV</a> <a href="/Search/?order=newest&q=WHYPEOPLECHEAT" class="color-107">WHYPEOPLECHEAT</a> <a href="/Search/?order=newest&q=DOGS" class="color-108">DOGS</a> <a href="/Search/?order=newest&q=PETS" class="color-109">PETS</a> <a href="/Search/?order=newest&q=ELECTIONDAY" class="color-110">ELECTIONDAY</a> <a href="/Search/?order=newest&q=DARRELLEREVIS" class="color-111">DARRELLEREVIS</a> <a href="/Search/?order=newest&q=CINCINNATIBENGALS" class="color-112">CINCINNATIBENGALS</a> <a href="/Search/?order=newest&q=STELLERS" class="color-113">STELLERS</a> <a href="/Search/?order=newest&q=COUSIN" class="color-114">COUSIN</a> </div></div>    <div class="box"><h1>Vines Seen in Compilation</h1>
+    
+        <div class="list-group">
+
+<a class="list-group-item" href="Vines/Extending-Plays-Since-04'-Double-Tap-For-Big-Ben-I'm-So-PUMPED-For-Christmas-Twitter-Brody-Padula-IKhbUDjb0F0.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#1</b> Extending plays since 04' 💪 
+
+Double Tap for Big Ben. 
+
+I'm so PUMPED for Christmas! 🎄 </a><a class="list-group-item" href="Vines/Steelers-Top-10-Number-5-BenRoethlisberger-Hes-Is-Defiantly-Good-At-The-Half-Way-Point-Like-Follow-Revine-Twitter-Average-Joe-OLUViFwueVX.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#2</b> <span class="color-1">#steelers</span> Top 10 number 5 #BenRoethlisberger. Hes is defiantly good at the half way point. <span class="color-3">#like</span> <span class="color-4">#follow</span> <span class="color-5">#revine</span> </a><a class="list-group-item" href="Vines/Congrats-To-BenRoethlisberger-On-This-NFl-Record-Please-Like-Revine-And-Comment-What-You-Think-Of-This-And-All-My-Videos-Thanks-Twitter-Mad-Dog-Ella-O2jBPHjhmhO.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#3</b> Congrats to <span class="color-6">#BenRoethlisberger</span> on this NFl Record. Please like, revine and comment what you think of this and all my videos. Thanks. 👍 </a><a class="list-group-item" href="Vines/Big-Ben-------------------------------------Thanks-For-The-People-Who-Have-Stuck-Around-Oneyear-Twitter-Nick-Petrosky-IzXuAZb6jgV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#4</b> Big Ben ⚜                                                                         Thanks for the people who have stuck around 🙏🏽 <span class="color-7">#oneyear</span> </a><a class="list-group-item" href="Vines/Steelers-V-Texans-Gamehappy-Birthday-Tyler-Jesslyn-Twitter-Niko-Hroncich-EXq7pJYxj71.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#5</b> steelers v texans game
+happy birthday tyler!! 🎉
+-jesslyn </a><a class="list-group-item" href="Vines/Steelers-V-Panthers-Gametomorrow-Is-FINALLY-Footballjesslyn-Ok-Twitter-Seahawks-Nation-EwXb23uFzww.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#6</b> steelers v panthers game
+tomorrow is FINALLY football
+-jesslyn ok </a><a class="list-group-item" href="Vines/Like-Follow-Revine-If-This-Song-Is-Just-The-Best-And-If-You-Like-The-Video-BenRoethlisberger-UptownFunk-Twitter-Kyle-Raney-O0LEVYOZHVp.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#7</b> <span class="color-8">#like</span> <span class="color-9">#follow</span> <span class="color-10">#revine</span> If this song is just the best 👍 and if you like the video. 😄 <span class="color-11">#BenRoethlisberger</span> <span class="color-12">#UptownFunk</span> </a><a class="list-group-item" href="Vines/Bringing-Some-Of-My-Older-Post-Back-Steelers-BenRoethlisberger-Steelerssarebeast-Steelerviner-Revine-Like-Twitter-Alex-Thompson-EJTze2vajw1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#8</b> Bringing some of my older Post back <span class="color-13">#steelers</span> <span class="color-14">#BenRoethlisberger</span> <span class="color-15">#steelerssarebeast</span> <span class="color-16">#steelerviner</span> <span class="color-17">#revine</span> <span class="color-18">#like</span> </a><a class="list-group-item" href="Vines/HAPPY-BDAY-TO-THIS-GUY-TOMORROW-Ya-He's-Made-Mistakes-But-He's-One-Of-The-Best-Qb's-In-The-League-Twitter-U03c1u03b1u0442-O0utXgHzlx1.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#9</b> HAPPY BDAY TO THIS GUY TOMORROW !! ya he's made mistakes, but he's one of the best qb's in the league! </a><a class="list-group-item" href="Vines/Steelers-Steelerviner-LeVeonBell-TroyPolamalu-AntonioBrown-BenRoethlisberger-Thanks-For-5k-Followers-Twitter-Str8Pittsburgh-E5qgXuXOdA2.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#10</b> <span class="color-19">#steelers</span> <span class="color-20">#steelerviner</span> <span class="color-21">#LeVeonBell</span> <span class="color-22">#TroyPolamalu</span> <span class="color-23">#AntonioBrown</span> <span class="color-24">#BenRoethlisberger</span>  thanks for 5k followers. </a><a class="list-group-item" href="Vines/I-Guess-This-Means-Bye-Seattleseahawks-Steelers-TroyPolamalu-Steelerviner-Steelerscountry-Bengals-BenRoethlisberger-Funny-Epic-Troy-Twitter-Chase-McMahan-EuBiVAd0DwM.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#11</b> I Guess This Means Bye <span class="color-25">#seattleseahawks</span> <span class="color-26">#steelers</span> <span class="color-27">#TroyPolamalu</span> <span class="color-28">#steelerviner</span> <span class="color-29">#steelerscountry</span> <span class="color-30">#bengals</span> <span class="color-31">#BenRoethlisberger</span> <span class="color-32">#funny</span> <span class="color-33">#epic</span> Troy </a><a class="list-group-item" href="Vines/This-Gets-2000-Loops-In-1-Day-I-Will-Follow-Everyone-That-Likes-Or-Revinessteelers--BenRoethlisberger-IFollowBack-Twitter-Str8Pittsburgh-ErpzWKx1r6E.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#12</b> This gets 2000 loops In 1 day i will follow everyone that likes or revines<span class="color-34">#steelers</span>   <span class="color-35">#BenRoethlisberger</span> <span class="color-36">#IFollowBack</span> </a><a class="list-group-item" href="Vines/BenRoethlisberger-Dont-Worry-Fans-We-Have-Him-For-Another-5-Years-Help-Me-Get-5k-Followers-By-Like-Follow-Revine-Twitter-BadAngels-OVrqFUFJJZJ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#13</b> <span class="color-37">#BenRoethlisberger</span> dont worry fans. We have him for another 5 years. Help me get 5k followers by 👍<span class="color-38">#like</span> <span class="color-39">#follow</span> <span class="color-40">#revine</span> </a><a class="list-group-item" href="Vines/Ben-Being-Ben-BenRoethlisberger-AntonioBrown-Touchdown-Steelers-Steelernation-Steelersfootball-Steelersnation-NFLHighlights-OzKZbiLavXm.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#14</b> Ben being Ben! <span class="color-41">#BenRoethlisberger</span> <span class="color-42">#AntonioBrown</span> <span class="color-43">#Touchdown</span> <span class="color-44">#Steelers</span> <span class="color-45">#Steelernation</span> <span class="color-46">#steelersfootball</span> <span class="color-47">#steelersnation</span>  <span class="color-48">#NFLHighlights</span> </a><a class="list-group-item" href="Vines/Such-A-Wonderful-Trick-Play-By-My-Pittsburgh-Steelers-Steelers-BenRoethlisberger-AntonioBrown-Lancemoore16-Myteam-Twitter-Christian-Courie-OhAngz5z636.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#15</b> Such a wonderful trick play by my Pittsburgh Steelers <span class="color-49">#steelers</span>  <span class="color-50">#BenRoethlisberger</span> <span class="color-51">#AntonioBrown</span> <span class="color-52">#lancemoore16</span> <span class="color-53">#myteam</span> </a><a class="list-group-item" href="Vines/We-Finally-Hit-It-100000-Loops-So-Here-Is-The-History-Of-Steelers-In-7-Seconds-BenRoethlisberger-TroyPolamalu-Steelers-Nfl-Funny-Twitter-Aidan-Barg-EB1PQzYKOnA.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#16</b> We finally hit it, 100,000 loops. So here is the history of Steelers in 7 seconds <span class="color-54">#BenRoethlisberger</span> <span class="color-55">#TroyPolamalu</span> <span class="color-56">#steelers</span> <span class="color-57">#nfl</span> <span class="color-58">#funny</span> </a><a class="list-group-item" href="Vines/HappyBirthday-To-The-Best-QB-In-The-NFL-BenRoethlisberger-7-Big-Ben-Steelers-HeWereGo-Blackandyellow-Twitter-Chance-Smith-O0OmtX2wzj7.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#17</b> <span class="color-59">#HappyBirthday</span> to the Best <span class="color-60">#QB</span> in the <span class="color-61">#NFL</span> !!! <span class="color-62">#BenRoethlisberger</span> <span class="color-63">#7</span> Big Ben!🎊🎁🎉🎊🎉🎁 #steelers!! #HeWereGo!! 💪🏈! <span class="color-66">#blackandyellow</span> </a><a class="list-group-item" href="Vines/Thanks-Heath-For-This-Play-Steelerscountry-Steelers-Steelerviner-Nfl-Epic-Funny-BenRoethlisberger-HeathMiller-Ravens-Twitter-Steelers-Country-EBLmZ9FO3Xt.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#18</b> Thanks Heath For This Play <span class="color-67">#steelerscountry</span> <span class="color-68">#steelers</span> <span class="color-69">#steelerviner</span> <span class="color-70">#nfl</span> <span class="color-71">#epic</span> <span class="color-72">#funny</span> <span class="color-73">#BenRoethlisberger</span> <span class="color-74">#HeathMiller</span> <span class="color-75">#Ravens</span> </a><a class="list-group-item" href="Vines/Roethlisbeger-Throws-While-Hit-To-Brownsteelers-Touchdown-AntonioBrown-BenRoethlisberger-Twitter-Jose-Manuel-Abreu-OX6VxBgJLXD.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#19</b> Roethlisbeger throws while hit to Brown!🏈<span class="color-76">#steelers</span> <span class="color-77">#Touchdown</span> <span class="color-78">#AntonioBrown</span> <span class="color-79">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/Free-Forever-Steelersposting-This-On-Steelers-Territory-Later-Twitter-Bryans-Editsu2122-IhTXm3PHK9a.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#20</b> Free Forever || Steelers
+posting this on steelers territory later 😁 </a><a class="list-group-item" href="Vines/Late-Night-Edit-Funny-Nfl-Steelers-Ravens-Epic-AntonioBrown-BenRoethlisberger-Twitter-Antonio-Farnsworth-EBe6n219YHq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#21</b> Late night edit <span class="color-80">#funny</span> <span class="color-81">#nfl</span> <span class="color-82">#steelers</span> <span class="color-83">#Ravens</span> <span class="color-84">#epic</span> <span class="color-85">#AntonioBrown</span> <span class="color-86">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/I-Love-My-Pittsburgh-Steelers-Steelers-BenRoethlisberger-LeVeonBell-Mnf-Twitter-Jesslyn's-Edits-OhA1KgwUmAw.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#22</b> I love my Pittsburgh Steelers <span class="color-87">#steelers</span> <span class="color-88">#BenRoethlisberger</span> <span class="color-89">#LeVeonBell</span> <span class="color-90">#mnf</span> </a><a class="list-group-item" href="Vines/Little-Talks-Ib--Bad-Quality-Srry-Twitter-Jesslyn-Ok-5AxjaPvAA55.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#23</b> Little Talks || 🆎
+ib: ?? + bad quality srry </a><a class="list-group-item" href="Vines/Win-Or-Lose-This-Is-My-Team-I'm-Proud-Of-Them-Always-Song-Ride-Out-By-Kid-Ink-Or-At-Least-I-Think-It's-By-Kid-Ink-Twitter-AnonymousVFX-IFMmQ2m0Lq5.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#24</b> win or lose this is my team I'm proud of them always. song ride out by kid ink (or at least I think it's by kid ink) </a><a class="list-group-item" href="Vines/Audio-Credit-To-DopeEdits-TB-To-Santonio-Holmes-Catch-In-The-Super-Bowl-Changed-My-Name-To-Steelers-Clutch-TheZone-Twitter-Steelers-Clutch-EjrPOXzLiU9.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#25</b> (Audio Credit To DopeEdits) <span class="color-91">#TB</span> to Santonio Holmes Catch in the Super Bowl! Changed my Name to Steelers Clutch! <span class="color-92">#TheZone</span> </a><a class="list-group-item" href="Vines/Steelerfansbelike-Pittsburgh-Steelers-Steelernation-Stillers-Zacandmirimakeaporno-Funny-Fan-BenRoethlisberger-Sethrogen-Comedy-Twitter-Shallowking-M5EVnh9Jpu5.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#26</b> <span class="color-93">#Steelerfansbelike</span> <span class="color-94">#Pittsburgh</span> <span class="color-95">#steelers</span> <span class="color-96">#steelernation</span> <span class="color-97">#stillers</span> <span class="color-98">#zacandmirimakeaporno</span> <span class="color-99">#funny</span> <span class="color-100">#fan</span> <span class="color-101">#BenRoethlisberger</span> <span class="color-102">#sethrogen</span> <span class="color-103">#comedy</span> </a><a class="list-group-item" href="Vines/Antonio-Brown-Ain't-Got-Nothing-On-Me-SteelerspittsburghlegarretteBlount-Roethlisberger-BenRoethlisberger-AntonioBrown-O7MUW2Hl2EU.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#27</b> Antonio brown ain't got nothing on me. #steelers#pittsburgh<span class="color-106">#legarretteBlount</span> <span class="color-107">#roethlisberger</span> <span class="color-108">#BenRoethlisberger</span> <span class="color-109">#AntonioBrown</span> </a><a class="list-group-item" href="Vines/Big-Ben-TheZone-BenRoethlisberger-Bigben-Steelers-Steelernation-Twitter-Retained-I9DOtFZeHh0.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#28</b> Big Ben🎗 <span class="color-110">#TheZone</span> <span class="color-111">#BenRoethlisberger</span> <span class="color-112">#bigben</span> <span class="color-113">#steelers</span> <span class="color-114">#Steelernation</span> </a><a class="list-group-item" href="Vines/Dangerous-Ben-Roethlisbergerwe-All-Rooting-For-You-Landrytotal-Remake-Of-My-Fav-Moxslay-Twitter-Jesslyn-Ok-5dBu0D1JUpP.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#29</b> Dangerous || Ben Roethlisberger
+we all rooting for you, landry.
+total remake of my fav Moxslay </a><a class="list-group-item" href="Vines/Antonio-Brown-Edit-Sorry-I-Haven't-Posted-In-A-While-But-Comment-Who-I-Should-Do-Next-I-Need-More-Videos-Twitter-Micah-Orrin-OQqQZP1bvbT.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#30</b> Antonio Brown Edit🔥👌 sorry I haven't posted in a while but comment who I should do next! I need more videos! </a><a class="list-group-item" href="Vines/Best-TD-Of-Yesterday's-Game-BenRoethlisberger-Setting-Records-Yesterday-Steelers--AntonioBrown-Cueupu-OMm9gV17MUr.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#31</b> Best TD of yesterday's game. <span class="color-115">#BenRoethlisberger</span> setting records yesterday. <span class="color-116">#steelers</span>   <span class="color-117">#AntonioBrown</span> <span class="color-118">#cueupu</span> </a><a class="list-group-item" href="Vines/BenRoethlisberger-Pittsburghsteelers-Pittsburgh-HeinzField-Twitter-Futbol-Legendary-I7DMj0DZ2hl.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#32</b> <span class="color-119">#BenRoethlisberger</span> <span class="color-120">#pittsburghsteelers</span> <span class="color-121">#pittsburgh</span> <span class="color-122">#HeinzField</span> </a><a class="list-group-item" href="Vines/Hope-Everyone-Is-Having-A-Good-Day-Nfl-Cardinals-Steelers-Easter-BenRoethlisberger-Edit-Funny-Epic-Twitter-Brayden-OlxuhgXJY2Q.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#33</b> Hope everyone is having a good day!!! <span class="color-123">#nfl</span> <span class="color-124">#cardinals</span> <span class="color-125">#steelers</span> <span class="color-126">#easter</span> <span class="color-127">#BenRoethlisberger</span> <span class="color-128">#edit</span> <span class="color-129">#funny</span> <span class="color-130">#epic</span> </a><a class="list-group-item" href="Vines/TouchDownVine-De-AntonioBrown-Y-BenRoethlisberger-STEELERS-NFL-Twitter-Zach-Byrne-O7gmBKjEnar.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#34</b> <span class="color-131">#TouchDownVine</span> de <span class="color-132">#AntonioBrown</span> y <span class="color-133">#BenRoethlisberger</span> <span class="color-134">#STEELERS</span> <span class="color-135">#NFL</span> </a><a class="list-group-item" href="Vines/Blackandyellow-Pittsburghsteelers-BenRoethlisberger-Martavisbryant-94yardtouchdown-Twitter-Just-Anotha-AsianSteelerGirl-O6T69T2zYnd.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#35</b> <span class="color-136">#blackandyellow</span> <span class="color-137">#pittsburghsteelers</span> <span class="color-138">#BenRoethlisberger</span> <span class="color-139">#martavisbryant</span> <span class="color-140">#94yardtouchdown</span> </a><a class="list-group-item" href="Vines/TerrellSuggs-With-The-Cheapshot-Pittsburgh-Baltimore-Ravens-Steelers-BenRoethlisberger-Why-Twitter-GoldenSports-EjtljmwzWhY.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#36</b> <span class="color-141">#TerrellSuggs</span> with the <span class="color-142">#cheapshot</span> <span class="color-143">#pittsburgh</span> <span class="color-144">#baltimore</span> <span class="color-145">#Ravens</span> <span class="color-146">#steelers</span> <span class="color-147">#BenRoethlisberger</span> <span class="color-148">#why</span> </a><a class="list-group-item" href="Vines/This-Catch-And-Run-Tho-Steelers-BenRoethlisberger-MartavisBryant-Steelernation-Nashgrier-Camerondallas-Jerrypurpdrank-Huddle-Twitter-U2022Overtime-01ku2022-EYuY9gDwI1Q.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#37</b> This catch and run tho <span class="color-149">#steelers</span> <span class="color-150">#BenRoethlisberger</span> <span class="color-151">#MartavisBryant</span> <span class="color-152">#Steelernation</span> <span class="color-153">#nashgrier</span> <span class="color-154">#camerondallas</span> <span class="color-155">#jerrypurpdrank</span> <span class="color-156">#huddle</span> </a><a class="list-group-item" href="Vines/The-Most-Underrated-Receiver-In-The-Nfl-Steelers-Steelernation-BenRoethlisberger-Bryant-NFLEDITS-Twitter-U2022Overtime-01ku2022-E9TIWQPUUwz.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#38</b> The most underrated. Receiver in the nfl <span class="color-157">#steelers</span> <span class="color-158">#Steelernation</span> <span class="color-159">#BenRoethlisberger</span> <span class="color-160">#bryant</span> <span class="color-161">#NFLEDITS</span> </a><a class="list-group-item" href="Vines/Steelers-Football-BestSportsPlays-Highlights-Antoniobrown-BenRoethlisberger-Sports-Texans-Sportshighlights-ObF6a6AqigK.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#39</b> <span class="color-162">#steelers</span> <span class="color-163">#football</span> <span class="color-164">#BestSportsPlays</span> <span class="color-165">#Highlights</span> <span class="color-166">#antoniobrown</span> <span class="color-167">#BenRoethlisberger</span> <span class="color-168">#sports</span> <span class="color-169">#texans</span> <span class="color-170">#sportshighlights</span> </a><a class="list-group-item" href="Vines/Talking-Sports-With-My-Uncle-Dean-Benroethlisberger-Twitter-Matt-HITxBDOQFQi.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#40</b> talking sports with my uncle dean. <span class="color-171">#benroethlisberger</span> </a><a class="list-group-item" href="Vines/Steelernation-AntonioBrown-TroyPolamalu-BenRoethlisberger-Twitter-EL1TE-SPORTS-EABppYPV3EK.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#41</b> <span class="color-172">#Steelernation</span> <span class="color-173">#AntonioBrown</span> <span class="color-174">#TroyPolamalu</span> <span class="color-175">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/Antonio-Brown-Beast-Steelers-Steelernation-Steelersnation-AntonioBrown-BenRoethlisberger-Twitter-Michael-Galuppo-EPbm507wdqH.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#42</b> Antonio Brown= Beast! <span class="color-176">#steelers</span> <span class="color-177">#Steelernation</span> <span class="color-178">#steelersnation</span> <span class="color-179">#AntonioBrown</span> <span class="color-180">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/TrapSports-AntonioBrown-BenRoethlisberger-LeVeonBell-Steelernation-Twitter-Steel-Trapsu2122-Ebr9uv9pJ7B.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#43</b> <span class="color-181">#TrapSports</span>  <span class="color-182">#AntonioBrown</span>  <span class="color-183">#BenRoethlisberger</span> <span class="color-184">#LeVeonBell</span>  <span class="color-185">#Steelernation</span> </a><a class="list-group-item" href="Vines/Idfc-If-They-Lost-The-Playoffs-Twitter-Geer-I5W1Kz92mmY.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#44</b> idfc if they lost the playoffs </a><a class="list-group-item" href="Vines/Let-The-Gifs-Begin-BenRoethlisberger-Pittsburgsteelers-Steelers-Twitter-JGP-OOpEV9atwEV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#45</b> Let the gifs begin! <span class="color-186">#BenRoethlisberger</span> <span class="color-187">#pittsburgsteelers</span> <span class="color-188">#steelers</span> </a><a class="list-group-item" href="Vines/Video-Game-Moves-By-Martavis-Bryant-For-The-Touchdown-Steelers-Steelernation-MartavisBryant-BenRoethlisberger-Falloutboy-Twitter-Michael-Galuppo-ElO9dHhV7jr.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#46</b> "Video game moves" by Martavis Bryant for the touchdown! <span class="color-189">#steelers</span> <span class="color-190">#Steelernation</span> <span class="color-191">#MartavisBryant</span> <span class="color-192">#BenRoethlisberger</span> <span class="color-193">#falloutboy</span> </a><a class="list-group-item" href="Vines/Pittsburgh-Steelersnation-Steelers-Nfl-Leveonbell-AntonioBrown-BenRoethlisberger-Blackandyellow-Pride-Football-Followforfollow-Twitter-Tyler-Vance-Comedian-OXvnjA1zVXD.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#47</b> <span class="color-194">#pittsburgh</span> <span class="color-195">#steelersnation</span> <span class="color-196">#steelers</span> <span class="color-197">#nfl</span> <span class="color-198">#leveonbell</span> <span class="color-199">#AntonioBrown</span> <span class="color-200">#BenRoethlisberger</span> <span class="color-201">#blackandyellow</span> <span class="color-202">#pride</span> <span class="color-203">#football</span> <span class="color-204">#followforfollow</span> </a><a class="list-group-item" href="Vines/420-Stonernation-Steelersnation-BenRoethlisberger-7-Twitter-FatandPaid-Hn3xj0xzDaw.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#48</b> <span class="color-205">#420</span> <span class="color-206">#stonernation</span> <span class="color-207">#steelersnation</span> <span class="color-208">#BenRoethlisberger</span> <span class="color-209">#7</span> </a><a class="list-group-item" href="Vines/Who-Dey-AFC-North-Champs-Who-Dey-Whodey-Steelers-Steelersnation-AntonioBrown-Mvp-BenRoethlisberger-Pittsburgh-AFCNORTH-Herewego-Twitter-Jesslyn-Ok-OwWvlAel2eL.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#49</b> Who dey? AFC North champs who dey!! <span class="color-210">#whodey</span> <span class="color-211">#steelers</span> <span class="color-212">#steelersnation</span> <span class="color-213">#AntonioBrown</span> <span class="color-214">#mvp</span> <span class="color-215">#BenRoethlisberger</span> <span class="color-216">#pittsburgh</span> <span class="color-217">#AFCNORTH</span> <span class="color-218">#herewego</span> </a><a class="list-group-item" href="Vines/Iv-Never-Seen-A-Football-Player-Do-This-So-CalmNFL-Nfl-BenRoethlisberger-Steelers-Twitter-STELLA-AARSVOL-Oi7mz0rii9H.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#50</b> Iv never seen a football player do this so calm..NFL <span class="color-219">#nfl</span>  <span class="color-220">#BenRoethlisberger</span> <span class="color-221">#steelers</span> </a><a class="list-group-item" href="Vines/The-Killer-B's-Are-Back-Together-ButSorry-Steelers-Fans-But-I-Need-To-Do-It-Hopefully-He-Will-Be-Fine-Twitter-RoyPolar28-EQbavBMMQgD.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#51</b> The killer b's are back together but..😂Sorry Steelers fans but I need to do it Hopefully He will be fine </a><a class="list-group-item" href="Vines/Big-Ben-Ladies-And-Gentlemen-Steelernation-Pittsburghsteelers-BenRoethlisberger-Twitter-Vine-Beats-IMJ2a1blU3Z.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#52</b> Big Ben🏈💯 Ladies and Gentlemen <span class="color-222">#Steelernation</span> <span class="color-223">#pittsburghsteelers</span>  <span class="color-224">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/Billcosby-Jellopudding-TheCosbyShow-CosbyShow-Pills-BenRoethlisberger-Twitter-LYDIA-ABADI-O1bmFdiMbhq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#53</b> <span class="color-225">#billcosby</span> <span class="color-226">#jellopudding</span> <span class="color-227">#TheCosbyShow</span> <span class="color-228">#CosbyShow</span> <span class="color-229">#pills</span> <span class="color-230">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/He-Just-Did-A-Cleveland-Brownin-The-Toilet-Gosteelers-Twitter-Melanie-Muirhead-MpXIKXUXi35.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#54</b> He just did a Cleveland Brown....in the toilet! <span class="color-231">#gosteelers</span> </a><a class="list-group-item" href="Vines/BenRoethlisberger-AtWorkBoard-Chilluminati-Freechadbetris-Twitter-Vincent00Fresh-HT3K91AWWnH.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#55</b> <span class="color-232">#BenRoethlisberger</span> <span class="color-233">#AtWorkBoard</span> <span class="color-234">#chilluminati</span> <span class="color-235">#freechadbetris</span> </a><a class="list-group-item" href="Vines/Pittsburghsteelers-BenRoethlisberger-Newshirt-Twitter-Billypiper-O9qllQ2MXXe.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#56</b> <span class="color-236">#pittsburghsteelers</span> <span class="color-237">#BenRoethlisberger</span> <span class="color-238">#newshirt</span> </a><a class="list-group-item" href="Vines/Ben-Roethlisberger-To-Darrius-HeywardBey-For-The-TD-Steelers-BenRoethlisberger-RedMusicOnline-Twitter-Michael-Galuppo-EPbeMTpwYji.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#57</b> Ben Roethlisberger  to Darrius Heyward-Bey for the TD! <span class="color-239">#steelers</span> <span class="color-240">#BenRoethlisberger</span> <span class="color-241">#RedMusicOnline</span> </a><a class="list-group-item" href="Vines/BenRoethlisberger-Twitter-THE-ELITE-D-OeItezzvIPW.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#58</b> <span class="color-242">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/Dracula-Twerkteam-Worldstarhiphop-Twerkaholic-BenRoethlisberger-Potato-Capedcrusader-Twitter-Chandler-Mical-OweDDr2zHu5.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#59</b> <span class="color-243">#dracula</span> <span class="color-244">#twerkteam</span> <span class="color-245">#worldstarhiphop</span> <span class="color-246">#twerkaholic</span> <span class="color-247">#BenRoethlisberger</span> <span class="color-248">#potato</span> <span class="color-249">#capedcrusader</span> </a><a class="list-group-item" href="Vines/Jameiswinston-Compared-To-BenRoethlisberger-Combine-Draft-Twitter-Liam-Kahn-OQ3e3OVvEYH.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#60</b> <span class="color-250">#jameiswinston</span> compared to #BenRoethlisberger. <span class="color-252">#Combine</span> <span class="color-253">#Draft</span> </a><a class="list-group-item" href="Vines/Bengals-Fans-Throwing-Debris-At-Injured-BenRoethlisberger-As-He's-Carted-Off-During-Nflwildcard-Twitter-Angela-Vargo-IhlAimTUptl.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#61</b> <span class="color-254">#Bengals</span> fans throwing debris at injured <span class="color-255">#BenRoethlisberger</span> as he's carted off during <span class="color-256">#nflwildcard</span> </a><a class="list-group-item" href="Vines/Vine-By-James-Mical-Twitter-Emily-Miller-OetPKMWPlHn.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#62</b> Vine by james mical </a><a class="list-group-item" href="Vines/BenRoethlisberger-SleeplessInSeattle-He-Is-Not-PhilSimms-Smh-Steelers-Twitter-Damian-Vanore-IaQ30LeXxw6.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#63</b> <span class="color-257">#BenRoethlisberger</span> <span class="color-258">#SleeplessInSeattle</span> He Is Not <span class="color-259">#PhilSimms</span> <span class="color-260">#smh</span> 😂 <span class="color-261">#Steelers</span> </a><a class="list-group-item" href="Vines/Ruthless's-Helmet-Part-I-Football-BenRoethlisberger-Twitter-Mouseguy6-Brad-Jensen-EJxbQmWPIUF.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#64</b> Ruthless🍔's helmet: Part I <span class="color-262">#football</span> <span class="color-263">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/My-Roethlisberger-Steelers-Authentic-Jersey-BenRoethlisberger-Steelers-Twitter-Samantha-Marie-H7PmUj55bO7.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#65</b> My roethlisberger steelers authentic jersey <span class="color-264">#BenRoethlisberger</span> <span class="color-265">#steelers</span> </a><a class="list-group-item" href="Vines/Patriots-Or-Steelers-Nfl-Football-NEvsPIT-ThursdayNightFootball-NFLKickoff-TomBrady-DeflateGate-BenRoethlisberger-Revine-Twitter-Koastal-Kings-Records-EFuePetTLuQ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#66</b> <span class="color-266">#Patriots</span> or #Steelers? <span class="color-268">#Nfl</span> <span class="color-269">#football</span> <span class="color-270">#NEvsPIT</span> <span class="color-271">#ThursdayNightFootball</span> <span class="color-272">#NFLKickoff</span> <span class="color-273">#TomBrady</span> <span class="color-274">#DeflateGate</span> <span class="color-275">#BenRoethlisberger</span> <span class="color-276">#revine</span> </a><a class="list-group-item" href="Vines/ALSIceBucketChallenge-Gratatata-Worldstarhiphop-Twerkaholic-BenRoethlisberger-Potato-Capedcrusader-Twitter-Chandler-Mical-Or1QIXgpJJI.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#67</b> <span class="color-277">#ALSIceBucketChallenge</span> <span class="color-278">#Gratatata</span> <span class="color-279">#worldstarhiphop</span> <span class="color-280">#twerkaholic</span> <span class="color-281">#BenRoethlisberger</span> <span class="color-282">#potato</span> <span class="color-283">#capedcrusader</span> </a><a class="list-group-item" href="Vines/Capedcrusader-BenRoethlisberger-Twerkaholic-Worldstarhiphop-Gratatata-ALSIceBucketChallenge-Twitter-Seth-JE-Ray-OilxqOQ2ZJY.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#68</b> <span class="color-284">#capedcrusader</span> <span class="color-285">#BenRoethlisberger</span> <span class="color-286">#twerkaholic</span> <span class="color-287">#worldstarhiphop</span> <span class="color-288">#Gratatata</span> <span class="color-289">#ALSIceBucketChallenge</span> </a><a class="list-group-item" href="Vines/BenRoethlisberger-Football-Drunk-Twitter-Daniel-Diaz-Hl2WMB9FrQI.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#69</b> <span class="color-290">#BenRoethlisberger</span> <span class="color-291">#football</span> <span class="color-292">#drunk</span> </a><a class="list-group-item" href="Vines/Gratatata-Twerkteam-Worldstarhiphop-BenRoethlisberger-Capedcrusader-Tigershirtarmy-Bigcat-Santino-Jaber-Twitter-James-Mical-OY5bMgqp6KO.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#70</b> <span class="color-293">#Gratatata</span> <span class="color-294">#twerkteam</span> <span class="color-295">#worldstarhiphop</span> <span class="color-296">#BenRoethlisberger</span> <span class="color-297">#capedcrusader</span> <span class="color-298">#tigershirtarmy</span> <span class="color-299">#bigcat</span> Santino Jaber </a><a class="list-group-item" href="Vines/The-Pittsburg-Steelers-Have-Won-The-Super-Bowl-Ben-What-Are-You-Gonna-Do-Next-Nfl-Steelers-BenRoethlisberger-Funny-Twitter-Shep-Pt2-EzlYZLPrOhK.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#71</b> The Pittsburg Steelers have won the Super Bowl... Ben what are you gonna do next <span class="color-300">#nfl</span> <span class="color-301">#steelers</span> <span class="color-302">#BenRoethlisberger</span> <span class="color-303">#funny</span> </a><a class="list-group-item" href="Vines/Big-Ben-Strikes-Again-BenRoethlisberger-Twitter-Terry-Swift-M0ZwV9wELVt.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#72</b> Big Ben strikes again <span class="color-304">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/Capedcrusader-Potato-BenRoethlisberger-Twerkaholic-Worldstarhiphop-Twerkteam-Dracula-Twitter-James-Mical-OpFUrt6MhdE.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#73</b> <span class="color-305">#capedcrusader</span> <span class="color-306">#potato</span> <span class="color-307">#BenRoethlisberger</span> <span class="color-308">#twerkaholic</span> <span class="color-309">#worldstarhiphop</span> <span class="color-310">#twerkteam</span> <span class="color-311">#dracula</span> </a><a class="list-group-item" href="Vines/Baby-Berger-92-TV-Football-Steelers-BenRoethlisberger-Twitter-Peyton-Od5xi5vFvUY.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#74</b> Baby Berger & 92" TV <span class="color-312">#football</span> <span class="color-313">#steelers</span> <span class="color-314">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/Capedcrusader-Potato-BenRoethlisberger-Twerkaholic-Worldstarhiphop-Twerkteam-Dracula-Twitter-Chandler-Mical-Or19pI0Q5Lu.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#75</b> <span class="color-315">#capedcrusader</span> <span class="color-316">#potato</span> <span class="color-317">#BenRoethlisberger</span> <span class="color-318">#twerkaholic</span> <span class="color-319">#worldstarhiphop</span> <span class="color-320">#twerkteam</span> <span class="color-321">#dracula</span> </a><a class="list-group-item" href="Vines/BenRoethlisberger-Twitter-King-B3ijDU1Fbaz.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#76</b> <span class="color-322">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/Roethlisberger-Does-It-For-The-Vine-BenRoethlisberger-Steelernation-Doitforthevine-Twitter-Luckypug-Odn1wIdAX32.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#77</b> Roethlisberger does it for the Vine <span class="color-323">#BenRoethlisberger</span> <span class="color-324">#Steelernation</span> <span class="color-325">#doitforthevine</span> </a><a class="list-group-item" href="Vines/Dracula-Twerkteam-Worldstarhiphop-Twerkaholic-BenRoethlisberger-Potato-Capedcrusader-StonecoldEBT-Twitter-James-Mical-OTZxUrn0Tt9.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#78</b> <span class="color-326">#dracula</span> <span class="color-327">#twerkteam</span> <span class="color-328">#worldstarhiphop</span> <span class="color-329">#twerkaholic</span> <span class="color-330">#BenRoethlisberger</span> <span class="color-331">#potato</span> <span class="color-332">#capedcrusader</span> <span class="color-333">#stonecoldEBT</span> </a><a class="list-group-item" href="Vines/BenRoethlisberger-GTAIV-Twitter-Connor-BQBwtFPVWvU.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#79</b> <span class="color-334">#BenRoethlisberger</span> <span class="color-335">#GTAIV</span> </a><a class="list-group-item" href="Vines/Ben-Roethlisberger-6th-Touchdown-Pass-Against-The-Ravens-BenRoethlisberger-Steelers-Touchdown-Twitter-Scott-Whalen-OOj7BUZqZxl.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#80</b> Ben Roethlisberger 6th touchdown pass against the Ravens <span class="color-336">#BenRoethlisberger</span> <span class="color-337">#steelers</span> <span class="color-338">#Touchdown</span> </a><a class="list-group-item" href="Vines/Vine-By-James-Mical-Twitter-Seth-JE-Ray-OilpWWxFJOW.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#81</b> Vine by james mical </a><a class="list-group-item" href="Vines/ALSIceBucketChallenge-Worldstarhiphop-Gratatata-BenRoethlisberger-Whypeoplecheat-Dogs-Pets-Nfl-Electionday-Twitter-James-Mical-Oeuv9DLpnqq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#82</b> <span class="color-339">#ALSIceBucketChallenge</span> <span class="color-340">#worldstarhiphop</span> <span class="color-341">#Gratatata</span> <span class="color-342">#BenRoethlisberger</span> <span class="color-343">#Whypeoplecheat</span> <span class="color-344">#dogs</span> <span class="color-345">#pets</span> <span class="color-346">#nfl</span> <span class="color-347">#electionday</span> </a><a class="list-group-item" href="Vines/Huckitchuckitfootball-BenRoethlisberger-Twitter-Kurtis-Miller-Orr9pPzXEYm.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#83</b> <span class="color-348">#huckitchuckitfootball</span> <span class="color-349">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/YEAH-STEELERSBenRoethlisberger-AntonioBrown-Twitter-GabeTheHunter-IOhpnX5dBIj.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#84</b> YEAH STEELERS<span class="color-350">#BenRoethlisberger</span> <span class="color-351">#AntonioBrown</span> </a><a class="list-group-item" href="Vines/Touchdown-Brown-Steelers-AntonioBrown-BenRoethlisberger-Twitter-Michael-Galuppo-5JYeveWEd0H.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#85</b> Touchdown Brown!!! <span class="color-352">#steelers</span> <span class="color-353">#AntonioBrown</span> <span class="color-354">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/BenRoethlisberger-Truckin-Over-Darrellerevis-For-Da-Touchdown-Dis-Stuff-Was-Cole-Lms-Twitter-Gamechanger-Hu7phEUFe5n.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#86</b> <span class="color-355">#BenRoethlisberger</span> truckin over <span class="color-356">#darrellerevis</span> for da touchdown dis stuff was cole <span class="color-357">#lms</span> </a><a class="list-group-item" href="Vines/Become-Dracula-Whypeoplecheat-Potato-BenRoethlisberger-Gratatata-Worldstarhiphop-ALSIceBucketChallenge-OMgzinwilT9.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#87</b> Become <span class="color-358">#dracula</span> <span class="color-359">#Whypeoplecheat</span> <span class="color-360">#potato</span> <span class="color-361">#BenRoethlisberger</span> <span class="color-362">#Gratatata</span> <span class="color-363">#worldstarhiphop</span> <span class="color-364">#ALSIceBucketChallenge</span> </a><a class="list-group-item" href="Vines/Steelers-Steelersnation-Football-BenRoethlisberger-Benroethlisbergerinjured-Ravens-Highlights-Sportshighlights-OOpYX05Db5p.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#88</b> <span class="color-365">#steelers</span> <span class="color-366">#steelersnation</span> <span class="color-367">#football</span> <span class="color-368">#BenRoethlisberger</span> <span class="color-369">#benroethlisbergerinjured</span> <span class="color-370">#ravens</span> <span class="color-371">#highlights</span> <span class="color-372">#sportshighlights</span> </a><a class="list-group-item" href="Vines/Ben-Roethlisberger-Cincinnati-Bengals-BenRoethlisberger-Pittsburghsteelers-Cincinnatibengals-Twitter-Dominic-IMn6qnFbjj3.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#89</b> Ben Roethlisberger. Cincinnati Bengals <span class="color-373">#BenRoethlisberger</span> <span class="color-374">#pittsburghsteelers</span> <span class="color-375">#cincinnatibengals</span> </a><a class="list-group-item" href="Vines/Stellers-BenRoethlisberger-Cousin-Twitter-Carlos-Padilla-Hl27njJiJxq.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#90</b> <span class="color-376">#stellers</span> <span class="color-377">#BenRoethlisberger</span> <span class="color-378">#cousin</span> </a><a class="list-group-item" href="Vines/BenRoethlisberger-Twitter-Dean-Parisi-IOF9DExxAjg.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#91</b> <span class="color-379">#BenRoethlisberger</span> </a><a class="list-group-item" href="Vines/Dracula-Potato-ALSIceBucketChallenge-Worldstarhiphop-Gratatata-BenRoethlisberger-Whypeoplecheat-Twitter-James-Mical-OeFIm2dnaVz.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#92</b> <span class="color-380">#dracula</span> <span class="color-381">#potato</span> <span class="color-382">#ALSIceBucketChallenge</span> <span class="color-383">#worldstarhiphop</span> <span class="color-384">#Gratatata</span> <span class="color-385">#BenRoethlisberger</span> <span class="color-386">#Whypeoplecheat</span> </a><a class="list-group-item" href="Vines/Bad-Need-Big-Ben-Is-Injured-BenRoethlisberger-Twitter-Garrettburke-ExP0aXxedil.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#93</b> Bad need Big Ben is injured <span class="color-387">#BenRoethlisberger</span> </a><div class="box"><h1>More benroethlisberger Vine Compilations</h1>        <div class="list-group">
+<a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---October-25,-2016-Tuesday-5091225.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-0">BENROETHLISBERGER</span> Compilation - October 25, 2016 Tuesday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---April-7,-2016-Thursday-4915554.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-1">BENROETHLISBERGER</span> Compilation - April 7, 2016 Thursday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-20,-2015-Sunday-4869372.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-2">BENROETHLISBERGER</span> Compilation - December 20, 2015 Sunday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-18,-2015-Friday-4853501.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-3">BENROETHLISBERGER</span> Compilation - December 18, 2015 Friday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-12,-2015-Saturday-4791357.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-4">BENROETHLISBERGER</span> Compilation - December 12, 2015 Saturday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-11,-2015-Friday-4779656.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-5">BENROETHLISBERGER</span> Compilation - December 11, 2015 Friday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-10,-2015-Thursday-4769340.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-6">BENROETHLISBERGER</span> Compilation - December 10, 2015 Thursday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-9,-2015-Wednesday-4757268.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-7">BENROETHLISBERGER</span> Compilation - December 9, 2015 Wednesday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-8,-2015-Tuesday-4745400.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-8">BENROETHLISBERGER</span> Compilation - December 8, 2015 Tuesday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-7,-2015-Monday-4732419.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-9">BENROETHLISBERGER</span> Compilation - December 7, 2015 Monday </a></div><h1>Related Vine Compilations</h1>
+<div class="box"><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---October-25,-2016-Tuesday-5091225.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-10">BENROETHLISBERGER</span> Compilation - October 25, 2016 Tuesday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---April-7,-2016-Thursday-4915554.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-11">BENROETHLISBERGER</span> Compilation - April 7, 2016 Thursday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-20,-2015-Sunday-4869372.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-12">BENROETHLISBERGER</span> Compilation - December 20, 2015 Sunday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-18,-2015-Friday-4853501.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-13">BENROETHLISBERGER</span> Compilation - December 18, 2015 Friday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-12,-2015-Saturday-4791357.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-14">BENROETHLISBERGER</span> Compilation - December 12, 2015 Saturday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-11,-2015-Friday-4779656.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-15">BENROETHLISBERGER</span> Compilation - December 11, 2015 Friday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-10,-2015-Thursday-4769340.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-16">BENROETHLISBERGER</span> Compilation - December 10, 2015 Thursday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-9,-2015-Wednesday-4757268.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-17">BENROETHLISBERGER</span> Compilation - December 9, 2015 Wednesday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-8,-2015-Tuesday-4745400.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-18">BENROETHLISBERGER</span> Compilation - December 8, 2015 Tuesday </a><a class="list-group-item" href="/Best-Vines-For-BENROETHLISBERGER-Compilation---December-7,-2015-Monday-4732419.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-19">BENROETHLISBERGER</span> Compilation - December 7, 2015 Monday </a><a class="list-group-item" href="/BEST-SPORTS-PLAYS-BestSportsPlays-Best-Vines-Compilation-And-Favorite-Revines---December-7,-2015-Monday-4732418.html"><i
+                    class="fa fa-play-circle fa-fw"></i> <span class="color-20">BEST SPORTS PLAYS (/BESTSPORTSPLAYS)</span> Best Vines Compilation and Favorite Revines - December 7, 2015 Monday </a><a class="list-group-item" href="/Best-Vines-For-MANNY-PACQUIAO-Compilation---December-7,-2015-Monday-4732417.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-21">MANNY PACQUIAO</span> Compilation - December 7, 2015 Monday </a><a class="list-group-item" href="/TXE-REPPIN-Pradabitch-Best-Vines-Compilation-And-Favorite-Revines---December-7,-2015-Monday-4732416.html"><i
+                    class="fa fa-play-circle fa-fw"></i> <span class="color-22">TXE REPPIN (/PRADA.BITCH)</span> Best Vines Compilation and Favorite Revines - December 7, 2015 Monday </a><a class="list-group-item" href="/Best-Vines-For-AMITABHBACHCHAN-Compilation---December-7,-2015-Monday-4732415.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-23">AMITABHBACHCHAN</span> Compilation - December 7, 2015 Monday </a><a class="list-group-item" href="/QUEENWZRDD-Queenwzrdd-Best-Vines-Compilation-And-Favorite-Revines---December-7,-2015-Monday-4732414.html"><i
+                    class="fa fa-play-circle fa-fw"></i> <span class="color-24">QUEENWZRDD (/QUEEN_WZRDD)</span> Best Vines Compilation and Favorite Revines - December 7, 2015 Monday </a><a class="list-group-item" href="/Best-Vines-For-MICHAEL-BUBLE-Compilation---December-7,-2015-Monday-4732413.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-25">MICHAEL BUBLE</span> Compilation - December 7, 2015 Monday </a></div></div></div><div class="box">
+    <div class="list-group">
+        <a class="list-group-item" href="http://www.amazon.com/?_encoding=UTF8&tag=vinewebsite-20" target="_blank"><i
+                class="fa fa-amazon fa-fw"></i>&nbsp;
+            Please consider supporting this site by Clicking Here and Bookmarking whenever you search and shop Amazon. It costs you nothing but it supports us and gives us credit and we appreciate it greatly.
+        </a>
+    </div>
+</div>
+<div class="box-cpu-ad">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Flexible Mobile -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-6547315753979149"
+         data-ad-slot="6090980310"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-mH5HUHve3C46d"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-mH5HUHve3C46d.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+</body>
+</html>

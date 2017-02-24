@@ -1,0 +1,7826 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+	
+		
+	
+	
+	
+		
+	
+
+
+<html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs uix_javascriptNeedsInit LoggedOut Sidebar  Responsive pageIsLtr   not_hasTabLinks  hasSearch   is-sidebarOpen hasRightSidebar is-setWidth navStyle_3 pageStyle_0 hasFlexbox" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	
+		<base href="https://www.beeradvocate.com/community/" />
+		<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "https://www.beeradvocate.com/community/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script>
+	
+
+	<title>2017 Superbowl Squares Pool | Community | BeerAdvocate</title>
+
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=7&amp;dir=LTR&amp;d=1487557539" />
+
+	<link rel="stylesheet" href="css.php?css=bb_code,likes_summary,login_bar,message,message_user_info,moderator_bar,notices,panel_scroller,thread_view,uix_extendedFooter&amp;style=7&amp;dir=LTR&amp;d=1487557539" />
+
+
+	<link rel="stylesheet" href="css.php?css=uix,uix_style&amp;style=7&amp;dir=LTR&amp;d=1487557539" />
+
+	<style>
+	/*** UIX -- PER USER STYLES ***/
+
+	
+
+	
+
+
+	
+
+</style>
+
+	<link rel="stylesheet" href="css.php?css=EXTRA&amp;style=7&amp;dir=LTR&amp;d=1487557539" />
+
+	
+
+	<style>
+/* Node Styling */
+
+</style>
+
+	
+
+	
+
+	<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-1066712-1', 'beeradvocate.com', {'cookieDomain': 'www.beeradvocate.com'});
+	ga('send', 'pageview');
+
+</script>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="styles/uix/uix/css/font-awesome.min.css" rel="stylesheet">
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,700,600' rel='stylesheet' type='text/css'>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+	<script>if (!window.jQuery) { document.write('<scr'+'ipt type="text/javascript" src="js/jquery/jquery-1.11.0.min.js"><\/scr'+'ipt>'); }</script>
+
+
+
+<script src="js/xenforo/xenforo.js?_v=c462ceb3"></script>
+
+
+
+
+<!--[if lt IE 9]>
+	
+		 
+        	<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+	        
+	        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+	        
+	        <script src="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+	
+
+<![endif]-->
+
+
+
+<script>
+	uix = {
+		elm: {},
+		fn:{},
+		init: function(){
+			if (uix.betaMode) {
+				console.group('uix.%cinit()', 'color:#3498DB');
+			}
+			for(var x=0;x<uix.events.init.length;x++){
+				uix.events.init[x]()
+		  	}
+		  	console.groupEnd('uix.%cinit()','color:#3498DB')
+		},
+	  	events: {init:[]},
+	  	on: function(event, fn){
+	  		if(event=='init'){
+	  			uix.events.init.push(fn)
+	  		}
+	  	},
+
+		betaMode				: parseInt('0'),
+		jsPathUsed				: 'uix_style',
+		jsGlobal				: parseInt('0'),
+
+
+	  	version					: '1.5.8.1_custom',
+	  	jsHeadVersion				: '1.5.12.0',
+	  	addonVersion				: '1010173',
+	  	jsCacheBust				: '1',
+	  	contentTemplate				: 'thread_view',
+
+		javascriptInitHide			: parseInt('1'),
+		globalPadding 				: parseInt('16px'),
+		sidebarWidth				: parseInt('300px'),
+		mainContainerMargin  	        	: '316px',
+		maxResponsiveWideWidth   		: parseInt('850px'),
+		maxResponsiveMediumWidth 		: parseInt('610px'),
+		maxResponsiveNarrowWidth 		: parseInt('480px'),
+		sidebarMaxResponsiveWidth		: parseInt('850px'),
+		
+			responsiveMessageBreakpoint		: parseInt('610px'),
+		
+		sidebarMaxResponsiveWidthStr		: '850px',
+
+		
+			offCanvasRightTriggerWidth	: parseInt('850px'),
+		
+
+		
+			offCanvasLeftTriggerWidth	: parseInt('850px'),
+		
+
+		
+			
+				offCanvasNavTriggerWidth	: parseInt('850px'),
+			
+		
+		
+			
+				offCanvasVisitorTriggerWidth	: parseInt('850px'),
+			
+		
+
+		offcanvasTriggerAnimationDuration	: parseInt('300ms'),
+
+
+
+
+		dropdownMenuAnimationSpeed		: parseInt('0ms'),
+		inlineAlertBalloons			: (parseInt('1') && !parseInt('1')) || parseInt('1'),
+
+		jumpToFixedDelayHide			: parseInt('1'),
+
+		stickyNavigationMinWidth 		: parseInt('0'),
+		stickyNavigationMinHeight		: parseInt('600'),
+		stickyNavigationMaxWidth 		: parseInt('0'),
+		stickyNavigationMaxHeight		: parseInt('0'),
+		stickyNavigationPortraitMinWidth 	: parseInt('320'),
+		stickyNavigationPortraitMinHeight	: parseInt('500'),
+		stickyNavigationPortraitMaxWidth 	: parseInt('0'),
+		stickyNavigationPortraitMaxHeight	: parseInt('0'),
+		stickySidebar 				: 1,
+		
+			sidebarInnerFloat		: "right",
+		
+		RTL					: 0,
+		stickyItems 				: {},
+		stickyGlobalMinimumPosition		: parseInt('200px'),
+		stickyGlobalScrollUp			: parseInt('0'),
+		stickyDisableIOSThirdParty		: parseInt('1'),
+		preventAlwaysSticky			: parseInt('0'),
+
+		searchMinimalSize			: parseInt('610px'),
+
+		searchPosition				: parseInt('3'),
+
+		nodeStyle				: parseInt('1'),
+		pageStyle				: parseInt('0'),
+
+		enableBorderCheck			: parseInt('1'),
+		enableULManager				: parseInt('1'),
+
+		threadSlidingAvatar			: parseInt('0'),
+		threadSlidingExtra			: parseInt('0'),
+		threadSlidingHover			: parseInt('0'),
+		threadSlidingStaffShow			: parseInt('1'),
+		threadSlidingGlobalEnable		: parseInt('1'),
+
+		signatureHidingEnabled			: parseInt('0'),
+		signatureHidingEnabledAddon		: parseInt('1'),
+		signatureMaxHeight			: parseInt('100px'),
+		signatureHoverEnabled			: parseInt('0'),
+
+		enableStickyFooter 			: parseInt('1'),
+		stickyFooterBottomOffset 		: parseInt('16px') * 2,
+
+		
+			sidebarStickyBottomOffset	: parseInt(0),
+		
+
+	  	
+			offCanvasSidebar			: 1,
+
+			
+				offCanvasSidebarVisitorTabs		: 1,
+			
+
+		
+
+		offcanvasLeftStatic			: 1 && parseInt('0') && parseInt('1'),
+		offcanvasRightStatic			: 0 && parseInt('0') && parseInt('1'),
+		offcanvasLeftStaticBreakpoint		: parseInt('1300px'),
+		offcanvasRightStaticBreakpoint		: parseInt('1300px'),
+
+		reinsertWelcomeBlock			: parseInt('0'),
+
+		sidebarCookieExpire			: '',
+		canCollapseSidebar			: '',
+
+		cookiePrefix				: 'xf_',
+		sidebarLocation 			: parseInt('0'),
+
+		collapsibleSidebar			: parseInt('1'),
+		collapsedNodesDefault			: '',
+		nodeGridCollapseEnabled			: parseInt('1'),			
+		widthToggleUpper			: '100%',
+		widthToggleLower			: '1170px',
+		
+			toggleWidthEnabled		: parseInt('0'),
+		
+		toggleWidthBreakpoint			: parseInt('1202'),
+		collapsibleNodes			: parseInt('1'),
+		collapsibleSticky			: parseInt('0'),
+		ajaxWidthToggleLink			: 'uix/toggle-width',
+		ajaxStickyThreadToggleLink		: 'uix/toggle-sticky-threads',
+		ajaxStickyThreadExpandLink		: 'uix/expand-sticky-threads',
+		ajaxStickyThreadCollapseLink		: 'uix/collapse-sticky-threads',
+		ajaxSidebarToggleLink			: 'uix/toggle-sidebar',
+
+		stickySidebarDelayInit			: parseInt('1'),
+		stickySidebarLegacy			: parseInt('0'),
+		stickySidebarDisableIOS			: parseInt('1'),
+
+		user					: {
+								'themeName'		: 'BeerAdvocate',
+								'-themeParents'		: '7,6,4,0',
+								'-themeModified'	: '1487557539',
+								'-themeSelectable'	: '1',
+								languageName		: 'English (US)',
+								stickyEnableUserbar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								stickyEnableNav		: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								stickyEnableSidebar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
+								widthToggleState	: (parseInt('0') == parseInt('0')) ? parseInt('0') : parseInt('0'),
+								stickyThreadsState	: (parseInt('') == parseInt('')) ? (parseInt('') > 0) : 0,
+								
+									sidebarState	: 0,
+								
+								
+									collapseUserInfo : 1,
+								
+								
+									signatureHiding : 1,
+								
+								isAdmin			: parseInt('0"')
+							}
+	};
+
+	if(uix.stickyNavigationMaxWidth == 0){uix.stickyNavigationMaxWidth = 999999}
+	if(uix.stickyNavigationMaxHeight == 0){uix.stickyNavigationMaxHeight = 999999}
+	if(uix.stickyNavigationPortraitMaxWidth == 0){uix.stickyNavigationPortraitMaxWidth = 999999}
+	if(uix.stickyNavigationPortraitMaxHeight == 0){uix.stickyNavigationPortraitMaxHeight = 999999}
+
+	
+		uix.stickyItems['#navigation'] = {normalHeight:parseInt('40'), stickyHeight:parseInt('40')}
+
+		var subElement = null;
+		
+			uix.stickyItems['#navigation'].options = {scrollSticky: uix.stickyGlobalScrollUp }
+		
+
+	
+
+	
+	$(document).ready(function() {
+		if ( $('#userBar').length ) {
+			uix.stickyItems['#userBar']= {normalHeight:parseInt('40'), stickyHeight:parseInt('40')}
+
+			uix.stickyItems['#userBar'].options = {scrollSticky: uix.stickyGlobalScrollUp }
+		}
+	});
+	
+
+	$(document).ready(function(){
+
+	//put jquery code here
+
+
+});
+
+	uix.debug = function() {
+		result = "\n\n############============   Begin Copying Here   ============############\n\n";
+		result += "Error: the functions file was not found.";
+		result += "\n\n############============   End Copying Here   ============############\n\n";
+
+		uix.fixJsVisibility();
+
+		console.log(result);
+	}
+
+</script>
+
+<script src="js/audentio/uix_style/functions.min.js?_v=c462ceb3_1.5.8.1_custom_1"></script>
+
+<script>
+	uix.adminJsError = function(errMsg) {
+		console.error(errMsg);
+
+		
+	}
+
+	uix.fixJsVisibility = function() {
+		var userBar = $('.hasJs #userBar');
+		var nodeList = $('.hasJs #forums, .hasJs .category_view .nodeList, .hasJs .watch_forums .nodeList');
+		var panels = $('.js-uix_panels')
+		if (userBar.length) userBar.css('display', 'block');
+		if (nodeList.length) nodeList.css('visibility', 'visible');
+		if (panels.length) $('.js-uix_panels').removeClass('needsInit');
+		$('html').removeClass('uix_javascriptNeedsInit');
+	}
+
+	uix.catchJsError = function(err) {
+		console.log("\n\n############============   Begin Copying Here   ============############\n\n")
+		var errMsg = "Uh Oh!  It looks like there's an error in your page's javascript.  There will likely be significant issues with the use of the forum until this is corrected.  If you are unable to resolve this and believe it is due to a bug in your Audentio Design theme, contact Audentio support and include a copy of the text between the designated areas from your javascript console.  This is the error: \n\n" + err ;
+		uix.fixJsVisibility();
+		uix.adminJsError(errMsg);
+		console.log("\n\n");
+		console.log(err);
+		console.log("\n\n");
+		try {
+			uix.debug(true);
+		} catch (err) {
+			console.log("Unable to include uix.debug();");
+		}
+
+		console.log("\n\n############============   End Copying Here   ============############\n\n");
+	}
+
+	$(document).ready(function(){
+		if (typeof(audentio) === 'undefined' || typeof(uix.jsVersion) === 'undefined') {
+			var errMsg = 'Uh Oh!  It looks like the javascript for your theme was not found in /js/audentio/uix_style/.\n\n';
+			if (uix.jsGlobal) {
+				errMsg += 'Your forum is set to use the same javascript directory for all your themes.  Consider disabling this or modifying the directory.  Options are located under Options > [UI.X] General.\n\n'
+			} else {
+				errMsg += 'Your theme has set the location of its javascript directory.  You may need to modify the javascript directory location style property located under [UI.X] Global Settings > Javascript Path.\n\n'
+			}
+			errMsg += 'If your files are in the directory specified, ensure that your file permissions allow them to be read.  There will likely be significant issues with the use of the forum until this is corrected.  If you are unable to resolve this, contact Audentio support.  This error has also been logged to the javascript console.';
+
+			uix.fixJsVisibility();
+
+			uix.adminJsError(errMsg);
+		} else if (uix.jsHeadVersion.split('_')[0] != uix.jsVersion.split('_')[0]) {
+			var errMsg = 'Uh Oh! It looks like the version of your javascript functions file does not match the version of your page_container_js_head template.  \n\nYour javascript functions file is version "' + uix.jsVersion + '". \nYour page_container_js_head is version "' + uix.jsHeadVersion + '".  \n\nIf your functions file version number is higher, ensure that you have merged all templates (especially page_container_js_head).  If your page_container_js_head version number is higher, ensure that you have correctly uploaded the latest version of the javascript functions file and that you have cleared anything that could cache an old version of the javascript (CDN / Cloudflare / etc.). \n\nThis issue could cause parts of your forum to not display or function correctly.  If this does not resolve the issue contact Audentio support.  This error has also been logged to the javascript console.';
+			
+			uix.fixJsVisibility();
+			
+			uix.adminJsError(errMsg);
+		}
+	});
+</script>
+
+<script>
+	try {
+		uix.dateHelper.phrase = {
+			now: 'now',
+			second: 's',
+			minute: 'm',
+			hour: 'h',
+			day: 'd',
+			week: 'w',
+			year: 'y',
+			century: 'c',
+			ago: '{time} ago',
+			future: 'in {time}'
+		}
+
+
+		uix.sticky.stickyMinDist = parseInt('50');
+
+		$(document).ready(function(){
+			try {
+				
+				
+					audentio.pagination.enabled = true;
+					
+						audentio.grid.parentEle = 'navigation';
+					
+					audentio.pagination.outOfPhrase = '<span id="audentio_postPaginationCurrent" class="uix_postPagination_x"></span> / <span id="audentio_postPaginationTotal" class="uix_postPagination_y"></span>';
+					audentio.pagination.enterIndexPhrase = 'Enter Index';
+					audentio.pagination.offset = parseInt('0px');
+				
+
+				uix.initFunc();
+			} catch (err) {
+				uix.catchJsError(err);
+			}
+		});
+	} catch (err) {
+		uix.catchJsError(err);
+	}
+</script>
+
+
+
+	<link href="https://www.beeradvocate.com/favicon.ico" rel="icon" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="https://cdn.beeradvocate.com/im/beeradvocate-logo-ref.png" />
+	<link rel="alternate" type="application/rss+xml" title="RSS feed for Community | BeerAdvocate" href="forums/-/index.rss" />
+	
+	<link rel="next" href="threads/2017-superbowl-squares-pool.479898/page-2" />
+	<link rel="canonical" href="https://www.beeradvocate.com/community/threads/2017-superbowl-squares-pool.479898/" />
+	<meta name="description" content="Superbowl 2017 Squares
+
+RULES and REQUIREMENTS
+
+
+First things first, you must have positive trade feedback or participated in previous large format..." />	<meta name="robots" content="index,follow" />
+	<meta name="copyright" content="Copyright &copy; BeerAdvocate&reg;. All rights reserved." />
+
+	<meta property="og:site_name" content="BeerAdvocate" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="2017 Superbowl Squares Pool" />
+	<meta property="og:url" content="https://www.beeradvocate.com/community/threads/2017-superbowl-squares-pool.479898/" />
+	<meta property="og:image" content="https://cdn.beeradvocate.com/im/beeradvocate-logo-ref.png" />
+	<meta property="og:image" content="https://cdn.beeradvocate.com/data/avatars/m/823/823480.jpg?1435464139" />
+	
+
+	<meta property="fb:app_id" content="604347192984215" />
+	<meta property="fb:admins" content="1015011395,606485263" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@BeerAdvocate" />
+	<meta name="twitter:title" content="2017 Superbowl Squares Pool" />
+	
+	<meta name="twitter:description" content="Superbowl 2017 Squares
+
+RULES and REQUIREMENTS
+
+
+First things first, you must have positive trade feedback or participated in previous large format BIFs.
+
+
+There are a total of 100 squares. Each..." />
+	<meta property="og:description" content="Superbowl 2017 Squares
+
+RULES and REQUIREMENTS
+
+
+First things first, you must have positive trade feedback or participated in previous large format BIFs.
+
+
+There are a total of 100 squares. Each..." />
+	
+	<meta name="twitter:image" content="https://cdn.beeradvocate.com/im/beeradvocate-logo-ref.png" />
+	<meta name="twitter:creator" content="@BeerAdvocate" />
+
+
+
+
+	
+		<meta name="theme-color" content="rgb(0, 0, 0)">
+		<meta name="msapplication-TileColor" content="rgb(0, 0, 0)">
+	
+
+</head>
+
+<body class="node26 node81 SelectQuotable">
+
+	
+
+	
+		
+
+<div id="loginBar">
+	<div class="pageContent">
+		<span class="helper"></span>
+	</div>
+	<div class="pageWidth">
+
+		
+
+	</div>
+</div>
+	
+
+	
+		
+		<div class="js-uix_panels uix_panels ">
+			
+				
+
+<aside class="js-sidePanelWrapper sidePanelWrapper  sidePanelWrapper--left">
+	<a href="#" class="js-panelMask uix_panelMask"></a>
+	
+		<div class="sidePanel sidePanel--nav">
+			<nav>
+<ul class="sidePanel__navTabs">
+	<!-- home -->
+	
+
+
+	<!-- extra tabs: home -->
+	
+	
+		
+			<li class="navTab Home ">
+			<a href="/" class="navLink">Home</a>
+			<a href="/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+			<div class="tabLinks">
+				<ul class="secondaryContent blockLinksList">
+	<li><a href="/about/">About Us</a></li>
+	<li><a href="/members/">Our Community</a></li>
+	<li><a href="/advertise/">Advertise</a></li>
+	<li><a href="/contact/">Contact Us</a></li>
+	<li><a href="/community/forums/help.32/">Help</a></li>
+	<li><a href="/respect-beer/">Respect Beer&reg;</a></li>
+</ul>
+			</div>
+		</li>
+		
+	
+		
+			<li class="navTab Magazine ">
+			<a href="/mag/" class="navLink">Magazine</a>
+			<a href="/mag/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+			<div class="tabLinks">
+				<ul class="secondaryContent blockLinksList">
+	<li><a href="/mag/category/magazine/culture/">Culture</a></li>
+	<li><a href="/mag/category/magazine/food-drink/">Food &amp; Drink</a></li>
+	<li><a href="/mag/category/magazine/news/">News</a></li>
+	<li><a href="/mag/category/magazine/opinion/">Opinion</a></li>
+	<li><a href="/mag/category/magazine/people-places/">People &amp; Places</a></li>
+	<li><a href="/mag/category/magazine/science-technology/">Science &amp; Technology</a></li>
+	<li><a href="/mag/category/magazine/travel/">Travel</a></li>
+	<hr style="height:1px;border-width:0;margin:5px;color:#999;background-color:#999;" />
+	<li><a href="/advertise/">Advertise</a></li>
+	<li><a href="/mag/archive/">Archive</a></li>
+	<li><a href="/community/threads/faq-beeradvocate-magazine.234551/">FAQ</a></li>
+	<li><a href="https://store.beeradvocate.com/products/subscribe-beeradvocate-magazine">Subscribe (Print)</a></li>
+	<li><a href="https://store.beeradvocate.com/collections/beeradvocate-magazine/issues">Back Issues (Print)</a></li>
+	<hr style="height:1px;border-width:0;margin:5px;color:#999;background-color:#999;" />
+	<li><a href="/mag-help/manage/">Your Print Subscription</a></li>
+	<li><a href="https://store.beeradvocate.com/products/renew-beeradvocate-magazine">Renew (Print)</a></li>
+</ul>
+			</div>
+		</li>
+		
+	
+	
+
+
+	<!-- forums -->
+	
+		<li class="navTab forums selected">
+			<a href="https://www.beeradvocate.com/community/" class="navLink">Forums</a>
+			<a href="https://www.beeradvocate.com/community/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+			<div class="tabLinks">
+				<ul class="blockLinksList">
+				
+					
+					<li><a href="search/?type=post">Search Forums</a></li>
+					
+					<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+				
+				</ul>
+			</div>
+		</li>
+	
+
+
+	<!-- extra tabs: middle -->
+	
+	
+		
+			<li class="navTab Beers ">
+			<a href="/beer/" class="navLink">Beers</a>
+			<a href="/beer/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+			<div class="tabLinks">
+				<ul class="secondaryContent blockLinksList">
+	<li><a href="/user/beers/">Your Beers</a></li>
+	<li><a href="/forms/add-beer/">Add a Beer</a></li>
+	<li><a href="/beer/">Recent Reviews</a></li>
+	<li><a href="/lists/top/">Top Beers</a></li>
+	<li><a href="/beer/style/">Beer Styles</a></li>
+	<li><a href="/beer/101/">Beer 101</a></li>
+</ul>
+			</div>
+		</li>
+		
+	
+		
+			<li class="navTab Places ">
+			<a href="/place/" class="navLink">Places</a>
+			<a href="/place/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+			<div class="tabLinks">
+				<ul class="secondaryContent blockLinksList">
+	<li><a href="/user/places/">Your Places</a></li>
+	<li><a href="/forms/add-place/">Add a Place</a></li>
+	<li><a href="/place/reviews/">Recent Reviews</a></li>
+	<li><a href="/place/directory/">Directory</a></li>
+	<li><a href="/place/nearby/">Nearby</a></li>
+</ul>
+			</div>
+		</li>
+		
+	
+		
+			<li class="navTab Events ">
+			<a href="/events/calendar/" class="navLink">Events</a>
+			<a href="/events/calendar/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+			<div class="tabLinks">
+				<ul class="secondaryContent blockLinksList">
+	<li><a href="/user/events/">Your Events</a></li>
+	<li><a href="/forms/add-event/">Add an Event</a></li>
+	<hr style="height:1px;border-width:0;margin:5px;color:#999;background-color:#999;" />
+	<li><a href="/events/">BeerAdvocate Events</a></li>
+	<li><a href="/extreme/">Extreme Beer Fest&reg;: Boston</a></li>
+	<li><a href="/community/threads/extreme-beer-fest-cometh-to-los-angeles-in-2017.457996/">Extreme Beer Fest&reg;: Los Angeles</a></li>
+	<li><a href="/micro/">Microbrew Invitational</a></li>
+	<li><a href="/wood/">Beer Meets Wood</a></li>
+</ul>
+			</div>
+		</li>
+		
+	
+		
+			<li class="navTab Trading ">
+			<a href="/trading/" class="navLink">Trading</a>
+			<a href="/trading/" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+			<div class="tabLinks">
+				<ul class="secondaryContent blockLinksList">
+	<li><a href="/user/trades/">Your Trades</a></li>
+	<li><a href="/community/#beer-trading.81">Forums</a></li>
+	<li><a href="/community/forums/help.32/?prefix_id=69">Help</a></li>
+</ul>
+			</div>
+		</li>
+		
+	
+		
+			<li class="navTab Subscribe ">
+			<a href="https://store.beeradvocate.com/products/subscribe-beeradvocate-magazine" class="navLink">Subscribe</a>
+			<a href="https://store.beeradvocate.com/products/subscribe-beeradvocate-magazine" class="SplitCtrl"><i class="uix_icon js-offcanvasIcon uix_icon-expandDropdown"></i></a>
+			<div class="tabLinks">
+				<ul class="secondaryContent blockLinksList">
+	<li><a href="https://store.beeradvocate.com/products/subscribe-beeradvocate-magazine">Subscribe (Print)</a></li>
+	<li><a href="/mag-help/trial/" target="_blank">Free Trial (Print)</a></li>
+	<hr style="height:1px;border-width:0;margin:5px;color:#999;background-color:#999;" />
+	<li><a href="https://play.google.com/store/newsstand/details?id=CAowsZVm" target="_blank">Google Play (Android)</a></li>
+	<li><a href="https://www.magzter.com/US/BeerAdvocate/BeerAdvocate-magazine/Culture/" target="_blank">Magzter (iOS)</a></li>
+</ul>
+			</div>
+		</li>
+		
+	
+	
+
+
+
+	<!-- extra tabs: end -->
+	
+	
+		
+			<li class="navTab Store ">
+				<a href="https://store.beeradvocate.com" class="navLink">Store</a>
+			</li>
+		
+	
+	
+
+</ul>
+</nav>
+		</div>
+	
+</aside>
+			
+			
+				
+
+<aside class="js-sidePanelWrapper sidePanelWrapper  sidePanelWrapper--right">
+	<a href="#" class="js-panelMask uix_panelMask"></a>
+	
+		
+			<div class="sidePanel sidePanel--login">
+				<form action="login/login" method="post" class="xenForm--uixLoginForm xenForm">
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_login">Your name or email address:</label></dt>
+		<dd><input type="text" name="login" value="" id="ctrl_pageLogin_login" class="textCtrl uix_fixIOSClickInput" tabindex="21" /></dd>
+	</dl>
+
+	<dl class="ctrlUnit fullWidth">
+		<dt><label for="ctrl_pageLogin_password">Password:</label></dt>
+		<dd>
+			<input type="password" name="password" class="textCtrl uix_fixIOSClickInput" id="ctrl_pageLogin_password" tabindex="22" />
+			<div><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="26">Forgot your password?</a></div>
+		</dd>
+	</dl>
+
+	
+
+	<dl class="ctrlUnit submitUnit">
+		<dd>
+			<input type="submit" class="button primary" value="Log in" data-loginPhrase="Log in" data-signupPhrase="Sign up" tabindex="24" />
+			<label class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_pageLogin_remember" tabindex="23" /> Stay logged in</label>
+		</dd>
+	</dl>
+
+	
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="_xfToken" value="" />
+	<input type="hidden" name="redirect" value="/community/threads/2017-superbowl-squares-pool.479898/" />
+	
+
+</form>
+			</div>
+		
+	
+</aside>
+			
+
+			<div class="mainPanelWrapper">
+				<a href="#" class="js-panelMask uix_panelMask"></a>
+
+	
+
+	
+
+<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
+
+<div id="uix_wrapper">
+<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+<header>
+	
+
+
+<div id="header">
+	
+
+	
+
+	
+		<div id="logoBlock" class="header__blockItem ">
+
+	
+	<div class="pageWidth">
+	
+
+		<div class="pageContent">
+
+		
+
+		
+		<div id="logo"><a href="https://www.beeradvocate.com">
+			<span></span>
+			<img src="https://cdn.beeradvocate.com/im/beeradvocate-nav-logo.png" alt="Community | BeerAdvocate" />
+			<div class="uix_slogan">Respect Beer.</div>
+		</a></div>
+		
+
+		
+			
+		
+
+		<span class="helper"></span>
+		</div>
+	</div>
+</div>
+	
+
+	
+
+<div id="navigation" class="header__blockItem  stickyTop">
+	<div class="sticky_wrapper">
+		<div class="uix_navigationWrapper">
+		
+		<div class="pageWidth">
+		
+			<div class="pageContent">
+				<nav>
+					<div class="navTabs">
+						
+							<ul class="publicTabs navLeft">
+							
+							<li id="logo_small">
+								<a href="https://www.beeradvocate.com">
+								
+									<img src="https://cdn.beeradvocate.com/im/beeradvocate-nav-brandmark.png">
+								
+								</a>
+							</li>
+							
+							
+
+
+
+
+
+	
+
+	
+		
+	
+
+
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="navTab  navTab--panelTrigger navTab--navPanelTrigger PopupClosed">
+		<a class="navLink js-leftPanelTrigger" href="#">
+			<i class="uix_icon uix_icon-menu"></i><span class="trigger__phrase">Menu</span>
+		</a>
+	</li>
+
+
+							<!-- home -->
+							
+
+
+								<!-- extra tabs: home -->
+								
+								
+									
+										<li class="navTab Home  Popup PopupControl PopupClosed">
+										<a href="/" class="navLink NoPopupGadget" rel="Menu">Home</a>
+										<a href="/" class="SplitCtrl" rel="Menu"></a>
+
+										<div class="Menu JsOnly tabMenu HomeTabLinks">
+											
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="/about/">About Us</a></li>
+	<li><a href="/members/">Our Community</a></li>
+	<li><a href="/advertise/">Advertise</a></li>
+	<li><a href="/contact/">Contact Us</a></li>
+	<li><a href="/community/forums/help.32/">Help</a></li>
+	<li><a href="/respect-beer/">Respect Beer&reg;</a></li>
+</ul>
+												
+											
+										</div>
+									</li>
+									
+								
+									
+										<li class="navTab Magazine  Popup PopupControl PopupClosed">
+										<a href="/mag/" class="navLink NoPopupGadget" rel="Menu">Magazine</a>
+										<a href="/mag/" class="SplitCtrl" rel="Menu"></a>
+
+										<div class="Menu JsOnly tabMenu MagazineTabLinks">
+											
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="/mag/category/magazine/culture/">Culture</a></li>
+	<li><a href="/mag/category/magazine/food-drink/">Food &amp; Drink</a></li>
+	<li><a href="/mag/category/magazine/news/">News</a></li>
+	<li><a href="/mag/category/magazine/opinion/">Opinion</a></li>
+	<li><a href="/mag/category/magazine/people-places/">People &amp; Places</a></li>
+	<li><a href="/mag/category/magazine/science-technology/">Science &amp; Technology</a></li>
+	<li><a href="/mag/category/magazine/travel/">Travel</a></li>
+	<hr style="height:1px;border-width:0;margin:5px;color:#999;background-color:#999;" />
+	<li><a href="/advertise/">Advertise</a></li>
+	<li><a href="/mag/archive/">Archive</a></li>
+	<li><a href="/community/threads/faq-beeradvocate-magazine.234551/">FAQ</a></li>
+	<li><a href="https://store.beeradvocate.com/products/subscribe-beeradvocate-magazine">Subscribe (Print)</a></li>
+	<li><a href="https://store.beeradvocate.com/collections/beeradvocate-magazine/issues">Back Issues (Print)</a></li>
+	<hr style="height:1px;border-width:0;margin:5px;color:#999;background-color:#999;" />
+	<li><a href="/mag-help/manage/">Your Print Subscription</a></li>
+	<li><a href="https://store.beeradvocate.com/products/renew-beeradvocate-magazine">Renew (Print)</a></li>
+</ul>
+												
+											
+										</div>
+									</li>
+									
+								
+								
+
+
+								<!-- forums -->
+								
+									<li class="navTab forums selected Popup PopupControl PopupClosed">
+
+										<a href="https://www.beeradvocate.com/community/" class="navLink NoPopupGadget" rel="Menu">Forums</a>
+										<a href="https://www.beeradvocate.com/community/" class="SplitCtrl" rel="Menu"></a>
+
+										<div class="Menu JsOnly tabMenu forumsTabLinks">
+											
+												<ul class="secondaryContent blockLinksList">
+												
+													
+													<li><a href="search/?type=post">Search Forums</a></li>
+													
+													<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+													<li><a href="/members/">Members</a></li>
+												
+												</ul>
+												
+											
+										</div>
+									</li>
+								
+
+
+								<!-- extra tabs: middle -->
+								
+								
+									
+										<li class="navTab Beers  Popup PopupControl PopupClosed">
+
+										<a href="/beer/" class="navLink NoPopupGadget" rel="Menu">Beers</a>
+										<a href="/beer/" class="SplitCtrl" rel="Menu"></a>
+
+										<div class="Menu JsOnly tabMenu BeersTabLinks">
+											
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="/user/beers/">Your Beers</a></li>
+	<li><a href="/forms/add-beer/">Add a Beer</a></li>
+	<li><a href="/beer/">Recent Reviews</a></li>
+	<li><a href="/lists/top/">Top Beers</a></li>
+	<li><a href="/beer/style/">Beer Styles</a></li>
+	<li><a href="/beer/101/">Beer 101</a></li>
+</ul>
+												
+											
+										</div>
+									</li>
+									
+								
+									
+										<li class="navTab Places  Popup PopupControl PopupClosed">
+
+										<a href="/place/" class="navLink NoPopupGadget" rel="Menu">Places</a>
+										<a href="/place/" class="SplitCtrl" rel="Menu"></a>
+
+										<div class="Menu JsOnly tabMenu PlacesTabLinks">
+											
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="/user/places/">Your Places</a></li>
+	<li><a href="/forms/add-place/">Add a Place</a></li>
+	<li><a href="/place/reviews/">Recent Reviews</a></li>
+	<li><a href="/place/directory/">Directory</a></li>
+	<li><a href="/place/nearby/">Nearby</a></li>
+</ul>
+												
+											
+										</div>
+									</li>
+									
+								
+									
+										<li class="navTab Events  Popup PopupControl PopupClosed">
+
+										<a href="/events/calendar/" class="navLink NoPopupGadget" rel="Menu">Events</a>
+										<a href="/events/calendar/" class="SplitCtrl" rel="Menu"></a>
+
+										<div class="Menu JsOnly tabMenu EventsTabLinks">
+											
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="/user/events/">Your Events</a></li>
+	<li><a href="/forms/add-event/">Add an Event</a></li>
+	<hr style="height:1px;border-width:0;margin:5px;color:#999;background-color:#999;" />
+	<li><a href="/events/">BeerAdvocate Events</a></li>
+	<li><a href="/extreme/">Extreme Beer Fest&reg;: Boston</a></li>
+	<li><a href="/community/threads/extreme-beer-fest-cometh-to-los-angeles-in-2017.457996/">Extreme Beer Fest&reg;: Los Angeles</a></li>
+	<li><a href="/micro/">Microbrew Invitational</a></li>
+	<li><a href="/wood/">Beer Meets Wood</a></li>
+</ul>
+												
+											
+										</div>
+									</li>
+									
+								
+									
+										<li class="navTab Trading  Popup PopupControl PopupClosed">
+
+										<a href="/trading/" class="navLink NoPopupGadget" rel="Menu">Trading</a>
+										<a href="/trading/" class="SplitCtrl" rel="Menu"></a>
+
+										<div class="Menu JsOnly tabMenu TradingTabLinks">
+											
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="/user/trades/">Your Trades</a></li>
+	<li><a href="/community/#beer-trading.81">Forums</a></li>
+	<li><a href="/community/forums/help.32/?prefix_id=69">Help</a></li>
+</ul>
+												
+											
+										</div>
+									</li>
+									
+								
+									
+										<li class="navTab Subscribe  Popup PopupControl PopupClosed">
+
+										<a href="https://store.beeradvocate.com/products/subscribe-beeradvocate-magazine" class="navLink NoPopupGadget" rel="Menu">Subscribe</a>
+										<a href="https://store.beeradvocate.com/products/subscribe-beeradvocate-magazine" class="SplitCtrl" rel="Menu"></a>
+
+										<div class="Menu JsOnly tabMenu SubscribeTabLinks">
+											
+												<ul class="secondaryContent blockLinksList">
+	<li><a href="https://store.beeradvocate.com/products/subscribe-beeradvocate-magazine">Subscribe (Print)</a></li>
+	<li><a href="/mag-help/trial/" target="_blank">Free Trial (Print)</a></li>
+	<hr style="height:1px;border-width:0;margin:5px;color:#999;background-color:#999;" />
+	<li><a href="https://play.google.com/store/newsstand/details?id=CAowsZVm" target="_blank">Google Play (Android)</a></li>
+	<li><a href="https://www.magzter.com/US/BeerAdvocate/BeerAdvocate-magazine/Culture/" target="_blank">Magzter (iOS)</a></li>
+</ul>
+												
+											
+										</div>
+									</li>
+									
+								
+								
+
+								<!-- extra tabs: end -->
+								
+								
+									
+										<li class="navTab Store PopupClosed">
+											<a href="https://store.beeradvocate.com" class="navLink NoPopupGadget" rel="Menu">Store</a>
+											
+										</li>
+									
+								
+								
+								<!-- responsive popup -->
+								<li class="navTab navigationHiddenTabs navTab--justIcon Popup PopupControl PopupClosed" style="display:none">
+
+									<a rel="Menu" class="navLink NoPopupGadget uix_dropdownDesktopMenu"><i class="uix_icon uix_icon-navOverflow"></i><span class="uix_hide menuIcon">Menu</span></a>
+									<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
+								</li>
+
+								
+
+								
+
+							</ul>
+
+
+							
+
+
+								<ul class="navRight visitorTabs">
+								
+									
+										<li class="navTab audentio_postPagination" id="audentio_postPagination"></li>
+									
+									
+									
+									
+									
+									
+									
+								
+								</ul>
+							
+							
+
+
+						
+					</div>
+				<span class="helper"></span>
+				</nav>
+			</div>
+		</div>
+		</div>
+	</div>
+</div>
+
+	
+
+
+
+<div id="userBar" class="header__blockItem stickyTop withSearch">
+
+
+	<div class="sticky_wrapper">
+
+	
+	<div class="pageWidth">
+	
+
+		<div class="pageContent">
+
+			<div class="navTabs">
+
+			
+
+				
+
+					
+
+					
+
+
+						<ul class="navRight visitorTabs">
+
+						
+
+							
+
+							
+								
+							
+
+							
+								
+
+	<li class="navTab login PopupClosed">
+		
+			<a href="login/" class="navLink uix_dropdownDesktopMenu OverlayTrigger" data-cacheOverlay="false">
+				<i class="uix_icon uix_icon-signIn"></i> 
+				<strong class="loginText">Log in</strong>
+			</a>
+		
+
+		
+
+	</li>
+
+	
+	<li class="navTab register PopupClosed">
+		<a href="register/" class="navLink">
+			<i class="uix_icon uix_icon-register"></i> 
+			<strong>Sign up</strong>
+		</a>
+	</li>
+	
+
+
+							
+
+							
+
+							
+								
+
+		<li class="navTab uix_searchTab">
+
+			
+
+<div id="searchBar" class="hasSearchButton">
+	
+	<i id="QuickSearchPlaceholder" class="uix_icon uix_icon-search" title="Search"></i>
+	
+
+
+	<fieldset id="QuickSearch">
+	
+		<form action="search/search" method="post" class="formPopup">
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<i class="uix_icon uix_icon-search" onclick='$("#QuickSearch form").submit()'></i>
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Search..." results="0" title="Enter your search and hit enter" id="QuickSearchQuery" />
+				<!-- end block: primaryControls -->
+			</div>
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Search titles only</label></li>
+						</ul></dd>
+					</dl>
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Posted by Member:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Separate names with a comma.</p>
+						</dd>
+					</dl>
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Newer Than:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+					
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+								
+									<li><label title="Search only 2017 Superbowl Squares Pool"><input type="checkbox" name="type[post][thread_id]" value="479898"
+	id="search_bar_thread" class="AutoChecker"
+	data-uncheck="#search_bar_title_only, #search_bar_nodes" /> Search this thread only</label></li>
+								
+									<li><label title="Search only Beer It Forward"><input type="checkbox" name="nodes[]" value="26"
+	id="search_bar_nodes" class="Disabler AutoChecker" checked="checked"
+	data-uncheck="#search_bar_thread" /> Search this forum only</label>
+	<ul id="search_bar_nodes_Disabler">
+		<li><label><input type="checkbox" name="type[post][group_discussion]" value="1"
+			id="search_bar_group_discussion" class="AutoChecker"
+			data-uncheck="#search_bar_thread" /> Display results as threads</label></li>
+	</ul></li>
+								
+						</ul></dd>
+					</dl>
+					
+				</div>
+				<!-- end block: secondaryControls -->
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Search" class="button primary Tooltip" title="Find Now" />
+						<a href="search/" class="button moreOptions Tooltip" title="Advanced Search">More...</a>
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Useful Searches" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>Useful Searches</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="find-new/posts?recent=1" rel="nofollow">Recent Posts</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+					</dd>
+				</dl>
+			</div>
+			<input type="hidden" name="_xfToken" value="" />
+		</form>
+	
+	</fieldset>
+	
+
+</div>
+		</li>
+
+
+							
+
+							
+
+
+
+
+
+	
+
+	
+		
+	
+
+
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+							
+
+						
+
+						</ul>
+
+					
+
+
+					
+						
+
+	
+
+	<div id="uix_searchMinimal">
+	
+	
+
+		<form action="search/search" method="post">
+			<i id="uix_searchMinimalClose" class="uix_icon uix_icon-close"  title="Close"></i>
+			<i id="uix_searchMinimalOptions" class="uix_icon uix_icon-cog" title="Options"></i>
+			<div id="uix_searchMinimalInput" >
+				<input type="search" name="keywords" value="" placeholder="Search..." results="0" />
+			</div>
+			<input type="hidden" name="_xfToken" value="" />
+		</form>
+
+		
+
+	</div>
+
+
+
+
+
+					
+
+
+				
+
+			</div>
+
+			<span class="helper"></span>
+		</div>
+	</div>
+	</div>
+</div>
+
+
+<script>if (typeof(uix) !== "undefined" && typeof(uix.templates) !== "undefined") uix.templates.userBar();</script>
+
+
+
+</div>
+
+	
+	
+</header>
+
+<div id="content" class="thread_view">
+	
+	<div class="pageWidth">
+		<div class="pageContent">
+	
+			<!-- main content area -->
+
+			
+
+			
+	<div class="section funbox">
+	<div class="funboxWrapper">
+	
+		
+			
+				
+
+				
+
+
+
+<script type="text/javascript">
+    var OX_ads = OX_ads || [];
+    if($(window).width() >= 728)
+    {
+        document.write('<div id="8782_leaderboard" style="width:728px;height:90px;margin:0;padding:0"><noscript><iframe id="d4eb9053b1" name="d4eb9053b1" src="//beeradvocate-d.openx.net/w/1.0/afr?auid=8782&cb=14878354340" frameborder="0" scrolling="no" width="728" height="90"><a href="//beeradvocate-d.openx.net/w/1.0/rc?cs=d4eb9053b1&cb=14878354340" ><img src="//beeradvocate-d.openx.net/w/1.0/ai?auid=8782&cs=d4eb9053b1&cb=14878354340" border="0" alt=""></a></iframe></noscript></div>');
+        OX_ads.push({
+          slot_id: "8782_leaderboard",
+          auid: "8782"
+        });
+    }
+    else
+    {
+        document.write('<div id="538514513_leaderboard" style="width:320px;height:100px;margin:0;padding:0"><noscript><iframe id="fe66416cca" name="fe66416cca" src="//beeradvocate-d.openx.net/w/1.0/afr?auid=538514513&cb=14878354340" frameborder="0" scrolling="no" width="320" height="100"><a href="//beeradvocate-d.openx.net/w/1.0/rc?cs=fe66416cca&cb=14878354340" ><img src="//beeradvocate-d.openx.net/w/1.0/ai?auid=538514513&cs=fe66416cca&cb=14878354340" border="0" alt=""></a></iframe></noscript></div>')
+        OX_ads.push({
+           slot_id: "538514513_leaderboard",
+           auid: "538514513"
+        });
+    }
+</script>
+
+			
+		
+	
+	</div>
+	</div>
+
+
+			
+			
+			<div class="breadBoxTop  ">
+				
+				
+
+<nav>
+
+	
+
+	
+		
+			
+				
+			
+		
+			
+				
+			
+		
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-26" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><i class="uix_icon uix_icon-sitemap"></i><!--Jump to...--></a>
+
+		<div class="boardTitle"><strong>Community | BeerAdvocate</strong></div>
+
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="/" class="crumb" rel="up" itemprop="url"><span itemprop="title"><i class="uix_icon uix_icon-home" title="Home"></i><span class="uix_breadcrumb__home__title">Home</span></span></a>
+					<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+				</span>
+			
+
+			
+				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="https://www.beeradvocate.com/community/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Forums</span></a>
+					<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+				</span>
+			
+
+			
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="https://www.beeradvocate.com/community/#beer-trading.81" class="crumb" rel="up" itemprop="url"><span itemprop="title">Beer Trading</span></a>
+						<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+					</span>
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="https://www.beeradvocate.com/community/forums/beer-it-forward.26/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Beer It Forward</span></a>
+						<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav>
+				
+			</div>
+			
+			
+
+			
+
+			
+
+			
+
+			
+
+
+	
+	
+	
+	
+	
+
+	
+
+
+	
+
+			
+				<div class="uix_contentFix">
+					<div class="mainContainer">
+
+			
+					<div class="mainContent">
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+						
+
+
+
+
+
+<div class="PanelScroller Notices" data-vertical="0" data-speed="400" data-interval="4000">
+	<div class="scrollContainer">
+		<div class="PanelContainer">
+			<ol class="Panels">
+				
+					<li class="panel Notice DismissParent notice_12 " data-notice="12">
+	
+	<div class="baseHtml noticeContent">Looking to trade some beers? Check out <a href="https://www.beeradvocate.com/community/threads/how-to-get-started-with-beer-trading.353318/"><b>How to Get Started with Beer Trading</b></a>.</div>
+	
+	
+</li>
+				
+			</ol>
+		</div>
+	</div>
+	
+	
+</div>
+
+
+
+
+
+						
+						
+
+						
+
+						
+						
+							
+								<!-- h1 title, description -->
+								<div class="titleBar">
+									
+									<h1>2017 Superbowl Squares Pool</h1>
+
+									<p id="pageDescription" class="muted ">
+	Discussion in '<a href="forums/beer-it-forward.26/">Beer It Forward</a>' started by <a href="members/xicoorsyix.823480/" class="username" dir="auto">xICooRsYIx</a>, <a href="threads/2017-superbowl-squares-pool.479898/"><span class="DateTime" title="Jan 4, 2017 at 1:52 AM">Jan 4, 2017</span></a>.
+</p>
+								</div>
+							
+						
+						
+
+						
+
+						<!-- main template -->
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+<div class="pageNavLinkGroup">
+	<div class="linkGroup SelectionCountContainer">
+		
+		
+	</div>
+
+	
+
+
+<div class="PageNav"
+	data-page="1"
+	data-range="2"
+	data-start="2"
+	data-end="3"
+	data-last="4"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="threads/2017-superbowl-squares-pool.479898/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">Page 1 of 4</span>
+	
+	<nav>
+		
+		
+		<a href="threads/2017-superbowl-squares-pool.479898/" class="currentPage " rel="start">1</a>
+		
+		
+		
+		
+			<a href="threads/2017-superbowl-squares-pool.479898/page-2" class="">2</a>
+		
+			<a href="threads/2017-superbowl-squares-pool.479898/page-3" class="">3</a>
+		
+		
+		
+		
+		<a href="threads/2017-superbowl-squares-pool.479898/page-4" class="">4</a>
+		
+		
+			<a href="threads/2017-superbowl-squares-pool.479898/page-2" class="text">Next &gt;</a>
+			
+		
+	</nav>	
+	
+	
+</div>
+
+</div>
+
+
+
+
+
+<form action="inline-mod/post/switch" method="post"
+	class="InlineModForm section"
+	data-cookieName="posts"
+	data-controls="#InlineModControls"
+	data-imodOptions="#ModerationSelect option">
+
+	<ol class="messageList" id="messageList">
+		
+			
+				
+
+
+<li id="post-5200980" class="sectionMain message     uix_threadAuthor uix_discussionAuthor" data-author="xICooRsYIx">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/xicoorsyix.823480/" class="avatar Av823480m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/823/823480.jpg?1435464139" width="96" height="96" alt="xICooRsYIx" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/xicoorsyix.823480/" class="username" dir="auto" itemprop="name">xICooRsYIx</a>
+				<em class="userTitle" itemprop="title">Defender (645)</em>
+				<em class="userTitle">Jul 11, 2014</em>
+				<em class="userTitle">Massachusetts</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						<b><span style="text-decoration: underline">Superbowl 2017 Squares</span></b><br />
+<br />
+RULES and REQUIREMENTS<br />
+<br />
+<ul>
+<li>First things first, you must have positive trade feedback or participated in previous large format BIFs.<br />
+<br />
+</li>
+<li>There are a total of 100 squares. Each member is allowed to pick either 1 or 2 squares.<br />
+<br />
+</li>
+<li>Each square cost <b>44oz of beer rated 85+</b>. So if you pick 2, you are agreeing to ship 88oz.<br />
+<i>**you will not be required to ship 2 separate boxes if you pick 2 squares**</i></li>
+<li>Winners will be awarded after each quarter. 4th quarter score takes the 4th spot. Overtime is not relevant.<br />
+<br />
+</li>
+<li>Each winner will receive 24 (44oz) boxes of beer! Winners do not ship.<br />
+<br />
+</li>
+<li>Numbers will be randomly generated after the squares are full. AFC being the columns, NFC being the rows. The numbers will be in <b>no specific order</b>.<br />
+<br />
+</li>
+<li>If you have the upper left most block, you DO NOT necessarily have 0 and 0.</li>
+</ul><ul>
+<li>Your digits will be randomly selected after all blocks have been purchased</li>
+</ul><ul>
+<li>This is the traditional pool that you&#039;re probably used to.</li>
+</ul><ul>
+<li>The digit for each team is determined by the last (right most) digit in their <b><i>total score</i></b>.</li>
+</ul><ul>
+<li><b>For example</b>, if the score is AFC champs - 17 NFC champs - 13 at then end of the 3rd quarter then, the winning block is AFC - 7 and NFC - 3 for the 3rd quarter digits.</li>
+</ul><br />
+**Members interested in joining must send me a PM including**<br />
+Email Address (where your footballpot invitation will be sent)<br />
+Name<br />
+Adress<br />
+Phone Number<br />
+<br />
+Once I have received this info, I will send you an invite to the group through <a href="http://www.footballpot.com/" target="_blank" class="externalLink" rel="nofollow">www.footballpot.com</a> where you can proceed to pick your squares. It will prompt you to register, but it is all free. I will get these emails out as soon as possible, and will response to your BM&#039;s as soon as they are sent.<br />
+<br />
+After registration, you are required to pick your own square(s). So make sure you lock them in to guarantee your spots!<br />
+<br />
+Please also message me if your username for the website differs from your BA username. So I can make note of who is who!<br />
+<br />
+Thanks for joining, and feel free to post any further questions!
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5200980/permalink">#1</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/xicoorsyix.823480/" class="username author" dir="auto">xICooRsYIx</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 4, 2017 at 1:52 AM">Jan 4, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5200980"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5201563" class="sectionMain message     " data-author="RuckIt">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/ruckit.215728/" class="avatar Av215728m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/215/215728.jpg?1441978413" width="96" height="96" alt="RuckIt" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/ruckit.215728/" class="username" dir="auto" itemprop="name">RuckIt</a>
+				<em class="userTitle" itemprop="title">Aspirant (237)</em>
+				<em class="userTitle">Apr 29, 2008</em>
+				<em class="userTitle">Massachusetts</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						In.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5201563" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5201563/permalink">#2</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/ruckit.215728/" class="username author" dir="auto">RuckIt</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5201563" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 4, 2017 at 1:43 PM">Jan 4, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5201563"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5201582" class="sectionMain message     " data-author="TheOneTC">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/theonetc.750216/" class="avatar Av750216m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/750/750216.jpg?1443388547" width="96" height="96" alt="TheOneTC" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/theonetc.750216/" class="username" dir="auto" itemprop="name">TheOneTC</a>
+				<em class="userTitle" itemprop="title">Disciple (308)</em>
+				<em class="userTitle">Aug 23, 2013</em>
+				<em class="userTitle">Massachusetts</em>
+			</div>
+			<em class="userBanner Print_Subscriber wrapped" itemprop="title"><span class="before"></span><strong>Subscriber</strong><span class="after"></span></em>
+<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						I&#039;m in for one
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5201582" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5201582/permalink">#3</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/theonetc.750216/" class="username author" dir="auto">TheOneTC</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5201582" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 4, 2017 at 2:10 PM">Jan 4, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5201582"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5201611" class="sectionMain message     " data-author="zekeman17">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/zekeman17.427655/" class="avatar Av427655m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/427/427655.jpg?1436925391" width="96" height="96" alt="zekeman17" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/zekeman17.427655/" class="username" dir="auto" itemprop="name">zekeman17</a>
+				<em class="userTitle" itemprop="title">Defender (670)</em>
+				<em class="userTitle">Feb 14, 2010</em>
+				<em class="userTitle">Pennsylvania</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Always fun---in
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5201611" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5201611/permalink">#4</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/zekeman17.427655/" class="username author" dir="auto">zekeman17</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5201611" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 4, 2017 at 2:29 PM">Jan 4, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5201611"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5201628" class="sectionMain message     " data-author="JNForsyth">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/jnforsyth.711271/" class="avatar Av711271m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/711/711271.jpg?1441042761" width="96" height="96" alt="JNForsyth" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/jnforsyth.711271/" class="username" dir="auto" itemprop="name">JNForsyth</a>
+				<em class="userTitle" itemprop="title">Crusader (704)</em>
+				<em class="userTitle">Jan 3, 2013</em>
+				<em class="userTitle">Pennsylvania</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						In, message incoming.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5201628" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5201628/permalink">#5</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/jnforsyth.711271/" class="username author" dir="auto">JNForsyth</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5201628" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 4, 2017 at 2:44 PM">Jan 4, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5201628"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5201633" class="sectionMain message     " data-author="mhksuccess">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/mhksuccess.683903/" class="avatar Av683903m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/683/683903.jpg?1470452725" width="96" height="96" alt="mhksuccess" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/mhksuccess.683903/" class="username" dir="auto" itemprop="name">mhksuccess</a>
+				<em class="userTitle" itemprop="title">Zealot (562)</em>
+				<em class="userTitle">Jul 7, 2012</em>
+				<em class="userTitle">California</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						I am in for 2 squares <br />
+PM coming
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5201633" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5201633/permalink">#6</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/mhksuccess.683903/" class="username author" dir="auto">mhksuccess</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5201633" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 4, 2017 at 2:47 PM">Jan 4, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5201633"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5201891" class="sectionMain message     " data-author="Elkevjoe">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/elkevjoe.920260/" class="avatar Av920260m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/920/920260.jpg?1427594656" width="96" height="96" alt="Elkevjoe" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/elkevjoe.920260/" class="username" dir="auto" itemprop="name">Elkevjoe</a>
+				<em class="userTitle" itemprop="title">Initiate (150)</em>
+				<em class="userTitle">Jan 4, 2015</em>
+				<em class="userTitle">Ohio</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Count me in for 2!
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5201891" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5201891/permalink">#7</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/elkevjoe.920260/" class="username author" dir="auto">Elkevjoe</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5201891" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 4, 2017 at 5:02 PM">Jan 4, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5201891"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5202143" class="sectionMain message     " data-author="valrxman">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/valrxman.474968/" class="avatar Av474968m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/474/474968.jpg?1478794298" width="96" height="96" alt="valrxman" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/valrxman.474968/" class="username" dir="auto" itemprop="name">valrxman</a>
+				<em class="userTitle" itemprop="title">Aspirant (283)</em>
+				<em class="userTitle">Jun 30, 2010</em>
+				<em class="userTitle">Florida</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Let&#039;s Dance.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5202143" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5202143/permalink">#8</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/valrxman.474968/" class="username author" dir="auto">valrxman</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5202143" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 4, 2017 at 6:45 PM">Jan 4, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5202143"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5202204" class="sectionMain message     " data-author="CraftGlass">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/craftglass.1081472/" class="avatar Av1081472m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/1081/1081472.jpg?1457628472" width="96" height="96" alt="CraftGlass" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/craftglass.1081472/" class="username" dir="auto" itemprop="name">CraftGlass</a>
+				<em class="userTitle" itemprop="title">Initiate (31)</em>
+				<em class="userTitle">Dec 15, 2015</em>
+				<em class="userTitle">Oregon</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						in
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5202204" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5202204/permalink">#9</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/craftglass.1081472/" class="username author" dir="auto">CraftGlass</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5202204" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 4, 2017 at 7:14 PM">Jan 4, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5202204"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5202351" class="sectionMain message     " data-author="JoeyIce3">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/joeyice3.1030048/" class="avatar Av1030048m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/1030/1030048.jpg?1450132939" width="96" height="96" alt="JoeyIce3" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/joeyice3.1030048/" class="username" dir="auto" itemprop="name">JoeyIce3</a>
+				<em class="userTitle" itemprop="title">Initiate (135)</em>
+				<em class="userTitle">Aug 17, 2015</em>
+				<em class="userTitle">Texas</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Yes please
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5202351" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5202351/permalink">#10</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/joeyice3.1030048/" class="username author" dir="auto">JoeyIce3</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5202351" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 4, 2017 at 8:14 PM">Jan 4, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5202351"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5205595" class="sectionMain message     " data-author="Dave_Treat">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/dave_treat.682052/" class="avatar Av682052m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/682/682052.jpg?1454962046" width="96" height="96" alt="Dave_Treat" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/dave_treat.682052/" class="username" dir="auto" itemprop="name">Dave_Treat</a>
+				<em class="userTitle" itemprop="title">Meyvn (1,147)</em>
+				<em class="userTitle">Jun 23, 2012</em>
+				<em class="userTitle">Virginia</em>
+			</div>
+			<em class="userBanner Print_Subscriber wrapped" itemprop="title"><span class="before"></span><strong>Subscriber</strong><span class="after"></span></em>
+<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						duh!
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5205595" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5205595/permalink">#11</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/dave_treat.682052/" class="username author" dir="auto">Dave_Treat</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5205595" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 6, 2017 at 3:31 AM">Jan 6, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5205595"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5205605" class="sectionMain message     " data-author="UcDru">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/ucdru.748793/" class="avatar Av748793m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/748/748793.jpg?1441215945" width="96" height="96" alt="UcDru" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/ucdru.748793/" class="username" dir="auto" itemprop="name">UcDru</a>
+				<em class="userTitle" itemprop="title">Zealot (577)</em>
+				<em class="userTitle">Aug 15, 2013</em>
+				<em class="userTitle">Ohio</em>
+			</div>
+			<em class="userBanner Print_Subscriber wrapped" itemprop="title"><span class="before"></span><strong>Subscriber</strong><span class="after"></span></em>
+<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						In go Pats!
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5205605" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5205605/permalink">#12</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/ucdru.748793/" class="username author" dir="auto">UcDru</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5205605" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 6, 2017 at 3:36 AM">Jan 6, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5205605">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/jhavs.975431/" class="username" dir="auto">jhavs</a> likes this.
+		</span>
+	</div>
+</div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5205635" class="sectionMain message     uix_threadAuthor uix_discussionAuthor" data-author="xICooRsYIx">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/xicoorsyix.823480/" class="avatar Av823480m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/823/823480.jpg?1435464139" width="96" height="96" alt="xICooRsYIx" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/xicoorsyix.823480/" class="username" dir="auto" itemprop="name">xICooRsYIx</a>
+				<em class="userTitle" itemprop="title">Defender (645)</em>
+				<em class="userTitle">Jul 11, 2014</em>
+				<em class="userTitle">Massachusetts</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Everyone that has PMed me has received an invitation to the pool. One member was not getting the email containing the invitation. So if you have sent me a PM but have yet to get an invitation email please PM me again so I make sure you can get your squares!<br />
+<br />
+Thanks to everyone who has joined thus far.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5205635" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5205635/permalink">#13</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/xicoorsyix.823480/" class="username author" dir="auto">xICooRsYIx</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5205635" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 6, 2017 at 3:54 AM">Jan 6, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5205635"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5205704" class="sectionMain message     " data-author="mbmiche">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/mbmiche.843284/" class="avatar Av843284m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/843/843284.jpg?1451585978" width="96" height="96" alt="mbmiche" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/mbmiche.843284/" class="username" dir="auto" itemprop="name">mbmiche</a>
+				<em class="userTitle" itemprop="title">Disciple (362)</em>
+				<em class="userTitle">Aug 10, 2014</em>
+				<em class="userTitle">Illinois</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						In!  PM coming.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5205704" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5205704/permalink">#14</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/mbmiche.843284/" class="username author" dir="auto">mbmiche</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5205704" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 6, 2017 at 4:37 AM">Jan 6, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5205704"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5205720" class="sectionMain message     " data-author="sdhomebrewer">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/sdhomebrewer.349163/" class="avatar Av349163m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/349/349163.jpg?1330098430" width="96" height="96" alt="sdhomebrewer" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/sdhomebrewer.349163/" class="username" dir="auto" itemprop="name">sdhomebrewer</a>
+				<em class="userTitle" itemprop="title">Initiate (160)</em>
+				<em class="userTitle">Jul 14, 2009</em>
+				<em class="userTitle">California</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						In again.  PM sent
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5205720" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5205720/permalink">#15</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/sdhomebrewer.349163/" class="username author" dir="auto">sdhomebrewer</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5205720" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 6, 2017 at 4:47 AM">Jan 6, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5205720"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5205814" class="sectionMain message     " data-author="jpatag66">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/jpatag66.938455/" class="avatar Av938455m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/938/938455.jpg?1425453623" width="96" height="96" alt="jpatag66" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/jpatag66.938455/" class="username" dir="auto" itemprop="name">jpatag66</a>
+				<em class="userTitle" itemprop="title">Initiate (99)</em>
+				<em class="userTitle">Feb 3, 2015</em>
+				<em class="userTitle">California</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Love a little action on the Super Bowl
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5205814" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5205814/permalink">#16</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/jpatag66.938455/" class="username author" dir="auto">jpatag66</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5205814" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 6, 2017 at 6:32 AM">Jan 6, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5205814"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5205951" class="sectionMain message     " data-author="NJB145">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/njb145.733091/" class="avatar Av733091m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/733/733091.jpg?1441224777" width="96" height="96" alt="NJB145" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/njb145.733091/" class="username" dir="auto" itemprop="name">NJB145</a>
+				<em class="userTitle" itemprop="title">Zealot (506)</em>
+				<em class="userTitle">May 18, 2013</em>
+				<em class="userTitle">Michigan</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						In as well!
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5205951" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5205951/permalink">#17</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/njb145.733091/" class="username author" dir="auto">NJB145</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5205951" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 6, 2017 at 1:46 PM">Jan 6, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5205951"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5206873" class="sectionMain message     " data-author="mosiTatupu">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/mositatupu.1138085/" class="avatar Av1138085m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/1138/1138085.jpg?1468959386" width="96" height="96" alt="mosiTatupu" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/mositatupu.1138085/" class="username" dir="auto" itemprop="name">mosiTatupu</a>
+				<em class="userTitle" itemprop="title">Initiate (51)</em>
+				<em class="userTitle">Apr 26, 2016</em>
+				<em class="userTitle">North Carolina</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						In like Matt Flynn! (ok bad choice)
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5206873" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5206873/permalink">#18</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/mositatupu.1138085/" class="username author" dir="auto">mosiTatupu</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5206873" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 6, 2017 at 8:26 PM">Jan 6, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5206873"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5207091" class="sectionMain message     " data-author="Gregf51">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/gregf51.804682/" class="avatar Av804682m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/804/804682.jpg?1440719151" width="96" height="96" alt="Gregf51" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/gregf51.804682/" class="username" dir="auto" itemprop="name">Gregf51</a>
+				<em class="userTitle" itemprop="title">Devotee (453)</em>
+				<em class="userTitle">Jun 12, 2014</em>
+				<em class="userTitle">Ohio</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						I&#039;m in.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5207091" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5207091/permalink">#19</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/gregf51.804682/" class="username author" dir="auto">Gregf51</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5207091" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 6, 2017 at 9:58 PM">Jan 6, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5207091"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5209456" class="sectionMain message     uix_threadAuthor uix_discussionAuthor" data-author="xICooRsYIx">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/xicoorsyix.823480/" class="avatar Av823480m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/823/823480.jpg?1435464139" width="96" height="96" alt="xICooRsYIx" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/xicoorsyix.823480/" class="username" dir="auto" itemprop="name">xICooRsYIx</a>
+				<em class="userTitle" itemprop="title">Defender (645)</em>
+				<em class="userTitle">Jul 11, 2014</em>
+				<em class="userTitle">Massachusetts</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Have not gotten any new messages yet today. Sent out invites to everyone that messages me yesterday. Please let me know of you did not receive the email.<br />
+<br />
+Also for those that have never used footballpot make sure after you select your squares you click &quot;lock&quot; as just picking them and leaving will not save.<br />
+<br />
+Cheers fellas and enjoy whatever this thing they called wildcard weekend is..
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5209456" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5209456/permalink">#20</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/xicoorsyix.823480/" class="username author" dir="auto">xICooRsYIx</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5209456" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 7, 2017 at 10:26 PM">Jan 7, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5209456"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5209469" class="sectionMain message     " data-author="valrxman">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/valrxman.474968/" class="avatar Av474968m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/474/474968.jpg?1478794298" width="96" height="96" alt="valrxman" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/valrxman.474968/" class="username" dir="auto" itemprop="name">valrxman</a>
+				<em class="userTitle" itemprop="title">Aspirant (283)</em>
+				<em class="userTitle">Jun 30, 2010</em>
+				<em class="userTitle">Florida</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Locked and loaded
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5209469" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5209469/permalink">#21</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/valrxman.474968/" class="username author" dir="auto">valrxman</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5209469" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 7, 2017 at 10:30 PM">Jan 7, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5209469"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5209532" class="sectionMain message     " data-author="jpatag66">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/jpatag66.938455/" class="avatar Av938455m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/938/938455.jpg?1425453623" width="96" height="96" alt="jpatag66" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/jpatag66.938455/" class="username" dir="auto" itemprop="name">jpatag66</a>
+				<em class="userTitle" itemprop="title">Initiate (99)</em>
+				<em class="userTitle">Feb 3, 2015</em>
+				<em class="userTitle">California</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						<div class="bbCodeBlock bbCodeQuote" data-author="xICooRsYIx">
+	<aside>
+		
+			<div class="attribution type">xICooRsYIx said:
+				
+					<a href="goto/post?id=5209456#post-5209456" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Have not gotten any new messages yet today. Sent out invites to everyone that messages me yesterday. Please let me know of you did not receive the email.<br />
+<br />
+Also for those that have never used footballpot make sure after you select your squares you click &quot;lock&quot; as just picking them and leaving will not save.<br />
+<br />
+Cheers fellas and enjoy whatever this thing they called wildcard weekend is..</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>I haven&#039;t seen the invitation. Would you resend?
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5209532" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5209532/permalink">#22</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/jpatag66.938455/" class="username author" dir="auto">jpatag66</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5209532" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 7, 2017 at 11:03 PM">Jan 7, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5209532"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5209609" class="sectionMain message     uix_threadAuthor uix_discussionAuthor" data-author="xICooRsYIx">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/xicoorsyix.823480/" class="avatar Av823480m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/823/823480.jpg?1435464139" width="96" height="96" alt="xICooRsYIx" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/xicoorsyix.823480/" class="username" dir="auto" itemprop="name">xICooRsYIx</a>
+				<em class="userTitle" itemprop="title">Defender (645)</em>
+				<em class="userTitle">Jul 11, 2014</em>
+				<em class="userTitle">Massachusetts</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						<div class="bbCodeBlock bbCodeQuote" data-author="jpatag66">
+	<aside>
+		
+			<div class="attribution type">jpatag66 said:
+				
+					<a href="goto/post?id=5209532#post-5209532" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">I haven&#039;t seen the invitation. Would you resend?</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Will send you out another within the hour. Just about to head out and shovel a little bit.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5209609" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5209609/permalink">#23</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/xicoorsyix.823480/" class="username author" dir="auto">xICooRsYIx</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5209609" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 7, 2017 at 11:39 PM">Jan 7, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5209609"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5209878" class="sectionMain message     " data-author="LakerLeith">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/lakerleith.748062/" class="avatar Av748062m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/748/748062.jpg?1447381488" width="96" height="96" alt="LakerLeith" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/lakerleith.748062/" class="username" dir="auto" itemprop="name">LakerLeith</a>
+				<em class="userTitle" itemprop="title">Zealot (534)</em>
+				<em class="userTitle">Aug 11, 2013</em>
+				<em class="userTitle">California</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						I&#039;d like to participate if there is still any room, <a href="https://www.beeradvocate.com/community/members/823480/" class="username" data-user="823480, @xICooRsYIx">@xICooRsYIx</a>
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5209878" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5209878/permalink">#24</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/lakerleith.748062/" class="username author" dir="auto">LakerLeith</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5209878" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 8, 2017 at 1:23 AM">Jan 8, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5209878"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5210538" class="sectionMain message     " data-author="Joenap419">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/joenap419.1079902/" class="avatar Av1079902m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/1079/1079902.jpg?1476373786" width="96" height="96" alt="Joenap419" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/joenap419.1079902/" class="username" dir="auto" itemprop="name">Joenap419</a>
+				<em class="userTitle" itemprop="title">Initiate (156)</em>
+				<em class="userTitle">Dec 11, 2015</em>
+				<em class="userTitle">Rhode Island</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						I&#039;m in if room.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5210538" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5210538/permalink">#25</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/joenap419.1079902/" class="username author" dir="auto">Joenap419</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5210538" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 8, 2017 at 12:37 PM">Jan 8, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5210538"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5210564" class="sectionMain message     " data-author="vtcraft">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/vtcraft.726513/" class="avatar Av726513m" data-avatarhtml="true"><img src="styles/uix/xenforo/avatars/avatar_male_m.png" width="96" height="96" alt="vtcraft" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/vtcraft.726513/" class="username" dir="auto" itemprop="name">vtcraft</a>
+				<em class="userTitle" itemprop="title">Initiate (198)</em>
+				<em class="userTitle">Apr 1, 2013</em>
+				<em class="userTitle">Vermont</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						I&#039;m in for 2
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5210564" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5210564/permalink">#26</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/vtcraft.726513/" class="username author" dir="auto">vtcraft</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5210564" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 8, 2017 at 1:33 PM">Jan 8, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5210564"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5210579" class="sectionMain message     " data-author="RayOhioFelton">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/rayohiofelton.600426/" class="avatar Av600426m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/600/600426.jpg?1426714998" width="96" height="96" alt="RayOhioFelton" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/rayohiofelton.600426/" class="username" dir="auto" itemprop="name">RayOhioFelton</a>
+				<em class="userTitle" itemprop="title">Devotee (416)</em>
+				<em class="userTitle">May 24, 2011</em>
+				<em class="userTitle">Ohio</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						If for 2 spots! Go Steelers<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie12" alt="o_O" title="Er... what?    o_O" />
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5210579" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5210579/permalink">#27</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/rayohiofelton.600426/" class="username author" dir="auto">RayOhioFelton</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5210579" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 8, 2017 at 2:01 PM">Jan 8, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5210579"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5211206" class="sectionMain message     " data-author="JoeyIce3">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/joeyice3.1030048/" class="avatar Av1030048m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/1030/1030048.jpg?1450132939" width="96" height="96" alt="JoeyIce3" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/joeyice3.1030048/" class="username" dir="auto" itemprop="name">JoeyIce3</a>
+				<em class="userTitle" itemprop="title">Initiate (135)</em>
+				<em class="userTitle">Aug 17, 2015</em>
+				<em class="userTitle">Texas</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						<div class="bbCodeBlock bbCodeQuote" data-author="RayOhioFelton">
+	<aside>
+		
+			<div class="attribution type">RayOhioFelton said:
+				
+					<a href="goto/post?id=5210579#post-5210579" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">If for 2 spots! Go Steelers<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie12" alt="o_O" title="Er... what?    o_O" /></div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Steelers fan from Ohio??<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie9" alt=":eek:" title="Eek!    :eek:" />
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5211206" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5211206/permalink">#28</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/joeyice3.1030048/" class="username author" dir="auto">JoeyIce3</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5211206" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 8, 2017 at 7:58 PM">Jan 8, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5211206"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5211252" class="sectionMain message     " data-author="RayOhioFelton">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/rayohiofelton.600426/" class="avatar Av600426m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/600/600426.jpg?1426714998" width="96" height="96" alt="RayOhioFelton" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/rayohiofelton.600426/" class="username" dir="auto" itemprop="name">RayOhioFelton</a>
+				<em class="userTitle" itemprop="title">Devotee (416)</em>
+				<em class="userTitle">May 24, 2011</em>
+				<em class="userTitle">Ohio</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						<div class="bbCodeBlock bbCodeQuote" data-author="JoeyIce3">
+	<aside>
+		
+			<div class="attribution type">JoeyIce3 said:
+				
+					<a href="goto/post?id=5211206#post-5211206" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Steelers fan from Ohio??<img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie9" alt=":eek:" title="Eek!    :eek:" /></div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>It&#039;s an inside joke. Die hard Browns fan here.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5211252" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5211252/permalink">#29</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/rayohiofelton.600426/" class="username author" dir="auto">RayOhioFelton</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5211252" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 8, 2017 at 8:17 PM">Jan 8, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5211252">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/zekeman17.427655/" class="username" dir="auto">zekeman17</a> likes this.
+		</span>
+	</div>
+</div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5211938" class="sectionMain message     " data-author="RayOhioFelton">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/rayohiofelton.600426/" class="avatar Av600426m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/600/600426.jpg?1426714998" width="96" height="96" alt="RayOhioFelton" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/rayohiofelton.600426/" class="username" dir="auto" itemprop="name">RayOhioFelton</a>
+				<em class="userTitle" itemprop="title">Devotee (416)</em>
+				<em class="userTitle">May 24, 2011</em>
+				<em class="userTitle">Ohio</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Picked spots close to <a href="https://www.beeradvocate.com/community/members/741025/" class="username" data-user="741025, @whyteboy003">@whyteboy003</a> and <a href="https://www.beeradvocate.com/community/members/920260/" class="username" data-user="920260, @Elkevjoe">@Elkevjoe</a> so even if I lose at least I&#039;ll be close to good people!!!
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5211938" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5211938/permalink">#30</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/rayohiofelton.600426/" class="username author" dir="auto">RayOhioFelton</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5211938" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 9, 2017 at 2:08 AM">Jan 9, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5211938">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/whyteboy003.741025/" class="username" dir="auto">whyteboy003</a> and <a href="members/elkevjoe.920260/" class="username" dir="auto">Elkevjoe</a> like this.
+		</span>
+	</div>
+</div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5212069" class="sectionMain message     uix_threadAuthor uix_discussionAuthor" data-author="xICooRsYIx">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/xicoorsyix.823480/" class="avatar Av823480m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/823/823480.jpg?1435464139" width="96" height="96" alt="xICooRsYIx" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/xicoorsyix.823480/" class="username" dir="auto" itemprop="name">xICooRsYIx</a>
+				<em class="userTitle" itemprop="title">Defender (645)</em>
+				<em class="userTitle">Jul 11, 2014</em>
+				<em class="userTitle">Massachusetts</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Here is the list of users that have signed up thus far.<br />
+<br />
+Player       Squares locked<br />
+core42    2<br />
+Elkevjoe    2<br />
+GoBronco    2<br />
+Gregf51    2<br />
+Jaszucs    1<br />
+Jdotswiz    1<br />
+JForsyth    2<br />
+Joenap41    2<br />
+JoeyIce3    2<br />
+jpatag66    2<br />
+ksrising    1<br />
+mbmiche    2<br />
+Mcooly1    1<br />
+mhksucce    2<br />
+NJB145    2<br />
+Rayohio    2<br />
+sczar04    1<br />
+sdhmbrew    2<br />
+SS503    2<br />
+Sweny916    2<br />
+TheOneTC    1<br />
+UcDru    2<br />
+valrxman    2<br />
+whyteboy    2<br />
+zekeman    1<br />
+<br />
+Who is &quot;SS503&quot;? Do not recognize that name on BA.<br />
+<br />
+There are a few members that have not picked squares yet. <a href="https://www.beeradvocate.com/community/members/215728/" class="username" data-user="215728, @RuckIt">@RuckIt</a> , <a href="https://www.beeradvocate.com/community/members/147518/" class="username" data-user="147518, @mcb4538">@mcb4538</a> , <a href="https://www.beeradvocate.com/community/members/1081472/" class="username" data-user="1081472, @CraftGlass">@CraftGlass</a>, and <a href="https://www.beeradvocate.com/community/members/726513/" class="username" data-user="726513, @vtcraft">@vtcraft</a>. No rush, but just want to make sure everyone got their invite.<br />
+<br />
+Thanks everyone.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5212069" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5212069/permalink">#31</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/xicoorsyix.823480/" class="username author" dir="auto">xICooRsYIx</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5212069" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 9, 2017 at 3:38 AM">Jan 9, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5212069">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/jpatag66.938455/" class="username" dir="auto">jpatag66</a>, <a href="members/mbmiche.843284/" class="username" dir="auto">mbmiche</a> and <a href="members/elkevjoe.920260/" class="username" dir="auto">Elkevjoe</a> like this.
+		</span>
+	</div>
+</div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5212277" class="sectionMain message     " data-author="Joenap419">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/joenap419.1079902/" class="avatar Av1079902m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/1079/1079902.jpg?1476373786" width="96" height="96" alt="Joenap419" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/joenap419.1079902/" class="username" dir="auto" itemprop="name">Joenap419</a>
+				<em class="userTitle" itemprop="title">Initiate (156)</em>
+				<em class="userTitle">Dec 11, 2015</em>
+				<em class="userTitle">Rhode Island</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						<div class="bbCodeBlock bbCodeQuote" data-author="xICooRsYIx">
+	<aside>
+		
+			<div class="attribution type">xICooRsYIx said:
+				
+					<a href="goto/post?id=5212069#post-5212069" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Here is the list of users that have signed up thus far.<br />
+<br />
+Player       Squares locked<br />
+core42    2<br />
+Elkevjoe    2<br />
+GoBronco    2<br />
+Gregf51    2<br />
+Jaszucs    1<br />
+Jdotswiz    1<br />
+JForsyth    2<br />
+Joenap41    2<br />
+JoeyIce3    2<br />
+jpatag66    2<br />
+ksrising    1<br />
+mbmiche    2<br />
+Mcooly1    1<br />
+mhksucce    2<br />
+NJB145    2<br />
+Rayohio    2<br />
+sczar04    1<br />
+sdhmbrew    2<br />
+SS503    2<br />
+Sweny916    2<br />
+TheOneTC    1<br />
+UcDru    2<br />
+valrxman    2<br />
+whyteboy    2<br />
+zekeman    1<br />
+<br />
+Who is &quot;SS503&quot;? Do not recognize that name on BA.<br />
+<br />
+There are a few members that have not picked squares yet. <a href="https://www.beeradvocate.com/community/members/215728/" class="username" data-user="215728, @RuckIt">@RuckIt</a> , <a href="https://www.beeradvocate.com/community/members/147518/" class="username" data-user="147518, @mcb4538">@mcb4538</a> , <a href="https://www.beeradvocate.com/community/members/1081472/" class="username" data-user="1081472, @CraftGlass">@CraftGlass</a>, and <a href="https://www.beeradvocate.com/community/members/726513/" class="username" data-user="726513, @vtcraft">@vtcraft</a>. No rush, but just want to make sure everyone got their invite.<br />
+<br />
+Thanks everyone.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div> just want to confirm its joenap419 not joenap41. Thanks
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5212277" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5212277/permalink">#32</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/joenap419.1079902/" class="username author" dir="auto">Joenap419</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5212277" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 9, 2017 at 9:52 AM">Jan 9, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5212277"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5212291" class="sectionMain message     uix_threadAuthor uix_discussionAuthor" data-author="xICooRsYIx">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/xicoorsyix.823480/" class="avatar Av823480m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/823/823480.jpg?1435464139" width="96" height="96" alt="xICooRsYIx" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/xicoorsyix.823480/" class="username" dir="auto" itemprop="name">xICooRsYIx</a>
+				<em class="userTitle" itemprop="title">Defender (645)</em>
+				<em class="userTitle">Jul 11, 2014</em>
+				<em class="userTitle">Massachusetts</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						<div class="bbCodeBlock bbCodeQuote" data-author="Joenap419">
+	<aside>
+		
+			<div class="attribution type">Joenap419 said:
+				
+					<a href="goto/post?id=5212277#post-5212277" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">just want to confirm its joenap419 not joenap41. Thanks</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>I think footballpot has a maximum of 8 characters for your username. So if you typed out joenap419, it can only fit joenap41.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5212291" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5212291/permalink">#33</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/xicoorsyix.823480/" class="username author" dir="auto">xICooRsYIx</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5212291" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 9, 2017 at 12:05 PM">Jan 9, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5212291"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5212323" class="sectionMain message     " data-author="Joenap419">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/joenap419.1079902/" class="avatar Av1079902m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/1079/1079902.jpg?1476373786" width="96" height="96" alt="Joenap419" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/joenap419.1079902/" class="username" dir="auto" itemprop="name">Joenap419</a>
+				<em class="userTitle" itemprop="title">Initiate (156)</em>
+				<em class="userTitle">Dec 11, 2015</em>
+				<em class="userTitle">Rhode Island</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Ok. Makes sense
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5212323" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5212323/permalink">#34</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/joenap419.1079902/" class="username author" dir="auto">Joenap419</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5212323" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 9, 2017 at 1:21 PM">Jan 9, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5212323"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5212352" class="sectionMain message     " data-author="rspauldi">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/rspauldi.795807/" class="avatar Av795807m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/795/795807.jpg?1452264753" width="96" height="96" alt="rspauldi" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/rspauldi.795807/" class="username" dir="auto" itemprop="name">rspauldi</a>
+				<em class="userTitle" itemprop="title">Zealot (527)</em>
+				<em class="userTitle">Apr 21, 2014</em>
+				<em class="userTitle">Texas</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Put me down for 2 squares
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5212352" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5212352/permalink">#35</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/rspauldi.795807/" class="username author" dir="auto">rspauldi</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5212352" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 9, 2017 at 1:52 PM">Jan 9, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5212352"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5212497" class="sectionMain message     " data-author="RuckIt">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/ruckit.215728/" class="avatar Av215728m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/215/215728.jpg?1441978413" width="96" height="96" alt="RuckIt" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/ruckit.215728/" class="username" dir="auto" itemprop="name">RuckIt</a>
+				<em class="userTitle" itemprop="title">Aspirant (237)</em>
+				<em class="userTitle">Apr 29, 2008</em>
+				<em class="userTitle">Massachusetts</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						Just locked mine in.  <br />
+<br />
+I didn&#039;t read the instructions clearly the first time, picked two squares and then closed the window.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5212497" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5212497/permalink">#36</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/ruckit.215728/" class="username author" dir="auto">RuckIt</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5212497" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 9, 2017 at 4:00 PM">Jan 9, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5212497"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5213220" class="sectionMain message     " data-author="jschott75">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/jschott75.677311/" class="avatar Av677311m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/677/677311.jpg?1368828217" width="96" height="96" alt="jschott75" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/jschott75.677311/" class="username" dir="auto" itemprop="name">jschott75</a>
+				<em class="userTitle" itemprop="title">Defender (632)</em>
+				<em class="userTitle">May 19, 2012</em>
+				<em class="userTitle">Illinois</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						In for 2. PM on its way.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5213220" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5213220/permalink">#37</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/jschott75.677311/" class="username author" dir="auto">jschott75</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5213220" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 9, 2017 at 10:03 PM">Jan 9, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5213220"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5213852" class="sectionMain message     " data-author="mcb4538">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/mcb4538.147518/" class="avatar Av147518m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/147/147518.jpg?1482986834" width="96" height="96" alt="mcb4538" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/mcb4538.147518/" class="username" dir="auto" itemprop="name">mcb4538</a>
+				<em class="userTitle" itemprop="title">Initiate (102)</em>
+				<em class="userTitle">Jul 12, 2007</em>
+				<em class="userTitle">New Jersey</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						<div class="bbCodeBlock bbCodeQuote" data-author="xICooRsYIx">
+	<aside>
+		
+			<div class="attribution type">xICooRsYIx said:
+				
+					<a href="goto/post?id=5212069#post-5212069" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Here is the list of users that have signed up thus far.<br />
+<br />
+Player       Squares locked<br />
+core42    2<br />
+Elkevjoe    2<br />
+GoBronco    2<br />
+Gregf51    2<br />
+Jaszucs    1<br />
+Jdotswiz    1<br />
+JForsyth    2<br />
+Joenap41    2<br />
+JoeyIce3    2<br />
+jpatag66    2<br />
+ksrising    1<br />
+mbmiche    2<br />
+Mcooly1    1<br />
+mhksucce    2<br />
+NJB145    2<br />
+Rayohio    2<br />
+sczar04    1<br />
+sdhmbrew    2<br />
+SS503    2<br />
+Sweny916    2<br />
+TheOneTC    1<br />
+UcDru    2<br />
+valrxman    2<br />
+whyteboy    2<br />
+zekeman    1<br />
+<br />
+Who is &quot;SS503&quot;? Do not recognize that name on BA.<br />
+<br />
+There are a few members that have not picked squares yet. <a href="https://www.beeradvocate.com/community/members/215728/" class="username" data-user="215728, @RuckIt">@RuckIt</a> , <a href="https://www.beeradvocate.com/community/members/147518/" class="username" data-user="147518, @mcb4538">@mcb4538</a> , <a href="https://www.beeradvocate.com/community/members/1081472/" class="username" data-user="1081472, @CraftGlass">@CraftGlass</a>, and <a href="https://www.beeradvocate.com/community/members/726513/" class="username" data-user="726513, @vtcraft">@vtcraft</a>. No rush, but just want to make sure everyone got their invite.<br />
+<br />
+Thanks everyone.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>Thanks for the reminder. Locked in my two spots. Cheers!
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5213852" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5213852/permalink">#38</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/mcb4538.147518/" class="username author" dir="auto">mcb4538</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5213852" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 10, 2017 at 2:29 AM">Jan 10, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5213852"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5213936" class="sectionMain message     uix_threadAuthor uix_discussionAuthor" data-author="xICooRsYIx">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/xicoorsyix.823480/" class="avatar Av823480m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/823/823480.jpg?1435464139" width="96" height="96" alt="xICooRsYIx" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/xicoorsyix.823480/" class="username" dir="auto" itemprop="name">xICooRsYIx</a>
+				<em class="userTitle" itemprop="title">Defender (645)</em>
+				<em class="userTitle">Jul 11, 2014</em>
+				<em class="userTitle">Massachusetts</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						So through process of elimination I am going to assume &quot;SS503&quot; is <a href="https://www.beeradvocate.com/community/members/1081472/" class="username" data-user="1081472, @CraftGlass">@CraftGlass</a>. Could you please just confirm so someone who does not belong in there doesnt end up winning 24 boxes of beer <img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie7" alt=":p" title="Stick Out Tongue    :p" />.<br />
+<br />
+Also we have officially broken the halfway point. Not sure if we will spark enough interest for 2 pools like we did in previous years.
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5213936" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5213936/permalink">#39</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/xicoorsyix.823480/" class="username author" dir="auto">xICooRsYIx</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5213936" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 10, 2017 at 3:12 AM">Jan 10, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5213936">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="members/lakerleith.748062/" class="username" dir="auto">LakerLeith</a> likes this.
+		</span>
+	</div>
+</div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+			
+				
+
+
+<li id="post-5213992" class="sectionMain message     " data-author="alwaysplayin">
+
+	<div class="uix_message ">
+
+		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">
+
+<div class="messageUserBlock  is-expanded ">
+
+	
+		<div class="avatarHolder is-expanded">
+			<div class="uix_avatarHolderInner">
+			<span class="helper"></span>
+			<a href="members/alwaysplayin.661805/" class="avatar Av661805m" data-avatarhtml="true"><img src="https://cdn.beeradvocate.com/data/avatars/m/661/661805.jpg?1436242916" width="96" height="96" alt="alwaysplayin" /></a>
+
+			
+			<!-- slot: message_user_info_avatar -->
+			</div>
+		</div>
+	
+
+	
+		<h3 class="userText">
+			<div class="uix_userTextInner">
+
+				
+
+				<a href="members/alwaysplayin.661805/" class="username" dir="auto" itemprop="name">alwaysplayin</a>
+				<em class="userTitle" itemprop="title">Disciple (328)</em>
+				<em class="userTitle">Feb 27, 2012</em>
+				<em class="userTitle">California</em>
+			</div>
+			<em class="userBanner Verified_Trader wrapped" itemprop="title"><span class="before"></span><strong>Beer Trader</strong><span class="after"></span></em>
+
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+		<div class="messageInfo primaryContent">
+			
+
+			
+			<div class="messageContent">
+				<article>
+					<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+						
+						
+						In for 2 squares!  Thanks!<br />
+<br />
+EDIT:  BM sent
+						<div class="messageTextEndMarker">&nbsp;</div>
+					</blockquote>
+				</article>
+
+				
+			</div>
+			
+
+			
+
+			<div class="messageDetails">
+
+				
+
+		
+
+		<a href="threads/2017-superbowl-squares-pool.479898/#post-5213992" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/5213992/permalink">#40</a>
+
+		<span class="item muted">
+			<span class="authorEnd"><a href="members/alwaysplayin.661805/" class="username author" dir="auto">alwaysplayin</a>,</span>
+			<a href="threads/2017-superbowl-squares-pool.479898/#post-5213992" title="Permalink" class="datePermalink">
+			
+				<span class="DateTime" title="Jan 10, 2017 at 3:49 AM">Jan 10, 2017</span>
+			
+			</a>
+		</span>
+
+	
+
+				
+
+			</div>
+			
+
+
+			
+
+		 
+
+	
+
+			<div id="likes-post-5213992"></div>
+		</div>
+
+	</div> 
+
+	
+
+	
+	
+</li>
+			
+		
+		
+	</ol>
+
+	
+
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+
+	<div class="pageNavLinkGroup">
+			
+				<div class="linkGroup">
+					
+						
+							<a href="login/" class="concealed element OverlayTrigger">(You must log in or sign up to post here.)</a>
+						
+					
+				</div>
+			
+			<div class="linkGroup" style="display: none"><a href="javascript:" class="muted JsOnly DisplayIgnoredContent Tooltip" title="Show hidden content by ">Show Ignored Content</a></div>
+
+			
+
+
+<div class="PageNav"
+	data-page="1"
+	data-range="2"
+	data-start="2"
+	data-end="3"
+	data-last="4"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="threads/2017-superbowl-squares-pool.479898/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">Page 1 of 4</span>
+	
+	<nav>
+		
+		
+		<a href="threads/2017-superbowl-squares-pool.479898/" class="currentPage " rel="start">1</a>
+		
+		
+		
+		
+			<a href="threads/2017-superbowl-squares-pool.479898/page-2" class="">2</a>
+		
+			<a href="threads/2017-superbowl-squares-pool.479898/page-3" class="">3</a>
+		
+		
+		
+		
+		<a href="threads/2017-superbowl-squares-pool.479898/page-4" class="">4</a>
+		
+		
+			<a href="threads/2017-superbowl-squares-pool.479898/page-2" class="text">Next &gt;</a>
+			
+		
+	</nav>	
+	
+	
+</div>
+
+	</div>
+
+<script>(function(){function g(a){a=a.getBoundingClientRect();var b=innerHeight+100;return-50<a.top&&a.top<b||-50<a.bottom&&a.bottom<b}function h(){d=!0}function k(){for(var a=document.getElementsByTagName("iframe"),b=a.length,d=-1;++d<b;){var c=a[d];c.hasAttribute("data-lazy")||!c.hasAttribute("data-s9e-mediaembed")&&!c.parentNode.parentNode.hasAttribute("data-s9e-mediaembed")||g(c)||(e.push(c),c.contentWindow.location.replace("data:text/html,"),c.setAttribute("data-lazy",""))}}var e=[],f=!0,d=!1;k();e.length&&(3<e.length&&setInterval(k,6E4),addEventListener("scroll",h),addEventListener("resize",h),setInterval(function(){if(d)d=!1,f=!0;else if(f){f=!1;for(var a=e.length;0<=--a;){var b=e[a];g(b)&&(b.contentWindow.location.replace(b.src),b.removeAttribute("data-lazy"),e.splice(a,1))}}},100))})();</script>
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+						
+
+						
+							<!-- login form, to be moved to the upper drop-down -->
+							
+
+
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm " id="login" style="display:none">
+
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Your name or email address:</label></dt>
+			<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Do you already have an account?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+						No, create an account now.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+						Yes, my password is:</label></li>
+					<li id="ctrl_registered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+						<div class="lostPassword"><a href="lost-password/" class="OverlayTrigger OverlayCloser" tabindex="106">Forgot your password?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginPhrase="Log in" data-signupPhrase="Sign up" />
+				<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Stay logged in</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input type="hidden" name="cookie_check" value="1" />
+	<input type="hidden" name="redirect" value="/community/threads/2017-superbowl-squares-pool.479898/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+						
+					</div>
+			
+
+					</div>
+
+					<!-- sidebar -->
+					<aside class="uix_mainSidebar">
+						<div class="inner_wrapper">
+							<div class="sidebar">
+								
+								
+								
+
+
+
+
+
+
+								
+
+	<div class="section funbox">
+	<div class=" funboxWrapper">
+	
+
+		
+			
+				
+
+
+
+				
+
+
+
+<div id="537108848_sidebar1" style="width:300px;height:250px;margin:0;padding:0">
+  <noscript><iframe id="c498d2865e" name="c498d2865e" src="//beeradvocate-d.openx.net/w/1.0/afr?auid=537108848&cb=14878354340" frameborder="0" scrolling="no" width="300" height="250"><a href="//beeradvocate-d.openx.net/w/1.0/rc?cs=c498d2865e&cb=14878354340" ><img src="//beeradvocate-d.openx.net/w/1.0/ai?auid=537108848&cs=c498d2865e&cb=14878354340" border="0" alt=""></a></iframe></noscript>
+</div>
+<script type="text/javascript">
+  var OX_ads = OX_ads || [];
+  OX_ads.push({
+     slot_id: "537108848_sidebar1",
+     auid: "537108848"
+  });
+</script>
+
+			
+		
+
+	
+	</div>
+	</div>
+
+
+								
+
+
+								
+								
+							</div>
+						</div>
+					</aside>
+				</div>
+			
+
+			
+			
+				<div class="breadBoxBottom">
+
+<nav>
+
+	
+
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-26" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><i class="uix_icon uix_icon-sitemap"></i><!--Jump to...--></a>
+
+		<div class="boardTitle"><strong>Community | BeerAdvocate</strong></div>
+
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb">
+					<a href="/" class="crumb"><span><i class="uix_icon uix_icon-home" title="Home"></i><span class="uix_breadcrumb__home__title">Home</span></span></a>
+					<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+				</span>
+			
+
+			
+				<span class="crust selectedTabCrumb">
+					<a href="https://www.beeradvocate.com/community/" class="crumb"><span>Forums</span></a>
+					<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+				</span>
+			
+
+			
+				
+					<span class="crust">
+						<a href="https://www.beeradvocate.com/community/#beer-trading.81" class="crumb"><span>Beer Trading</span></a>
+						<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+					</span>
+				
+					<span class="crust">
+						<a href="https://www.beeradvocate.com/community/forums/beer-it-forward.26/" class="crumb"><span>Beer It Forward</span></a>
+						<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav></div>
+			
+			
+
+			
+
+			</div>
+	
+		</div>
+	</div>
+	
+
+</div>
+
+<footer>
+	
+
+
+
+
+
+
+
+
+
+
+<div class="footer">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+
+				
+				
+				
+				
+				
+				<ul class="footerLinks">
+					
+						<li><a href="https://www.beeradvocate.com" class="homeLink">Home</a></li>
+						
+							<li><a href="https://www.beeradvocate.com/contact/" >Contact Us</a></li>
+						
+						<li><a href="forums/help.32/">Help</a></li>
+					
+					
+						<li><a href="https://www.beeradvocate.com/community/threads/terms-of-service.101118/">Terms and Rules</a></li>
+						<li><a href="https://www.beeradvocate.com/community/threads/privacy-policy.393415/">Privacy Policy</a></li>
+					
+					<li class="topLink"><a href="/community/threads/2017-superbowl-squares-pool.479898/#XenForo"><i class="uix_icon uix_icon-jumpToTop"></i> <span class="uix_hide">Top</span></a></li>
+				</ul>
+				
+
+			
+			<span class="helper"></span>
+
+			
+		</div>
+	</div>
+</div>
+
+<div id="uix_stickyFooterSpacer"></div>
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+<div class="bigFooter">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+
+			
+
+
+			<ul class="bigFooterRow bigFooterRow--mainRow bigFooterRow--has3Columns">
+				<li class="bigFooterCol bigFooterCol--col1">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								<i class="uix_icon fa fa-caret-square-o-right"></i>
+								About Us
+							</h3>
+
+							Your go-to website for beer (since 1996), publishers of BeerAdvocate magazine (since 2006) and hosts of world-class beer events (since 2003). Respect Beer.
+						
+
+					</div>
+				</li>
+				
+				<li class="bigFooterCol bigFooterCol--col3">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								<i class="uix_icon fa fa-beer"></i>
+								BeerAdvocate Microbrew Invitational
+							</h3>
+
+							Join us June 2-3, 2017 in Boston, Mass. for beer, cider, mead, kombucha and sake from over 70 small producers.
+<br><br>
+<a class="callToAction" href="https://www.beeradvocate.com/micro/"><span>Learn More</span></a>
+						
+
+					</div>
+				</li>
+				<li class="bigFooterCol bigFooterCol--col4">
+					<div class="section">
+
+						
+							<h3 class="bigFooterHeader">
+								<i class="uix_icon fa fa-book"></i>
+								Subscribe to BeerAdvocate Magazine
+							</h3>
+
+							No fake news here. Get real beer content delivered to your doorstep every month.
+<br><br>
+<a class="callToAction" href="https://store.beeradvocate.com/products/subscribe-beeradvocate-magazine" target="_blank"><span>Subscribe</span></a>
+						
+
+					</div>
+				</li>
+			</ul>
+
+			
+
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="footerLegal">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			
+				<ul class="uix_socialMediaLinks">
+	<li class="uix_socialLink uix_socialLink--facebook"><a href="https://www.facebook.com/beeradvocate/" target="_blank"><i class="uix_icon uix_icon-facebook"></i></a></li>
+
+        <li class="uix_socialLink uix_socialLink--twitter"><a href="https://twitter.com/BeerAdvocate" target="_blank"><i class="uix_icon uix_icon-twitter"></i></a></li>
+
+        <li class="uix_socialLink uix_socialLink--youtube"><a href="https://www.youtube.com/c/beeradvocate" target="_blank"><i class="uix_icon uix_icon-youtube"></i></a></li>
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        <li class="uix_socialLink uix_socialLink--instagram"><a href="https://www.instagram.com/beeradvocate/" target="_blank"><i class="uix_icon uix_icon-instagram"></i></a></li>
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+	
+	
+	    <li class="uix_socialLink uix_socialLink--contact"><a href="https://www.beeradvocate.com/contact/" ><i class="uix_icon uix_icon-email"></i></a></li>
+	
+	
+
+        
+
+
+
+<!--ADD LIST ITEMS HERE -->
+
+
+
+        
+</ul>
+			
+			<div id="copyright">
+				Copyright &copy; 1996-2017 BeerAdvocate&reg;. All rights reserved. Respect Beer&reg;.
+				
+				
+			</div>
+			
+			<span class="helper"></span>
+			
+		</div>
+	</div>
+</div>
+
+
+
+	<div id="uix_jumpToFixed">
+		
+			<a href="#content" title="Top" data-position="top"><i class="uix_icon uix_icon-jumpToTop"></i></a>
+		
+		
+			<a href="#content" title="Bottom" data-position="bottom"><i class="uix_icon uix_icon-jumpToBottom"></i></a>
+		
+	</div>
+
+</footer>
+
+<script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	{
+		now: 1487835434,
+		today: 1487808000,
+		todayDow: 4
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "0.5",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 100,
+		closeSpeed: 50,
+		mask:
+		{
+			color: "rgb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 100,
+			closeSpeed: 50
+		}
+	},
+	_ignoredUsers: [],
+	_loadedScripts: {"thread_view":true,"message":true,"bb_code":true,"message_user_info":true,"likes_summary":true,"login_bar":true,"moderator_bar":true,"notices":true,"panel_scroller":true,"uix_extendedFooter":true},
+	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "c462ceb3",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	cancel: "Cancel",
+
+	a_moment_ago:    "A moment ago",
+	one_minute_ago:  "1 minute ago",
+	x_minutes_ago:   "%minutes% minutes ago",
+	today_at_x:      "Today at %time%",
+	yesterday_at_x:  "Yesterday at %time%",
+	day_x_at_time_y: "%day% at %time%",
+
+	day0: "Sunday",
+	day1: "Monday",
+	day2: "Tuesday",
+	day3: "Wednesday",
+	day4: "Thursday",
+	day5: "Friday",
+	day6: "Saturday",
+
+	_months: "January,February,March,April,May,June,July,August,September,October,November,December",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "The following error occurred",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Logging in",
+	click_image_show_full_size_version: "Click this image to show the full-size version.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "";
+XenForo.Facebook.forceInit = false;
+
+
+</script>
+
+
+
+
+
+
+
+</div> 
+
+<div class="uix_wrapperFix" style="height: 1px; margin-top: -1px;"></div>
+
+
+		</div> 
+	</div> 
+
+	
+
+
+<script>
+
+</script>
+
+<script type="text/javascript" src="//beeradvocate-d.openx.net/w/1.0/jstag"></script>
+
+
+<div class="breadcrumbMeta">
+	
+
+<nav>
+
+	
+
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=node-26" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><i class="uix_icon uix_icon-sitemap"></i><!--Jump to...--></a>
+
+		<div class="boardTitle"><strong>Community | BeerAdvocate</strong></div>
+
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb">
+					<a href="/" class="crumb"><span><i class="uix_icon uix_icon-home" title="Home"></i><span class="uix_breadcrumb__home__title">Home</span></span></a>
+					<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+				</span>
+			
+
+			
+				<span class="crust selectedTabCrumb">
+					<a href="https://www.beeradvocate.com/community/" class="crumb"><span>Forums</span></a>
+					<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+				</span>
+			
+
+			
+				
+					<span class="crust">
+						<a href="https://www.beeradvocate.com/community/#beer-trading.81" class="crumb"><span>Beer Trading</span></a>
+						<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+					</span>
+				
+					<span class="crust">
+						<a href="https://www.beeradvocate.com/community/forums/beer-it-forward.26/" class="crumb"><span>Beer It Forward</span></a>
+						<span class="arrow"><i class="uix_icon uix_icon-breadcrumbSeparator"></i></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav>
+</div>
+
+<!-- UI.X Version: 1.5.8.1_custom //-->
+
+</body>
+</html>

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Yellfy</title>
+  <link rel="stylesheet" media="all" href="/assets/application.self-f62bd6265bcbfc0ae6ad3a09e78dd598ff91cb15672be9560190eb22a714dc22.css?body=1" />
+  <link rel="stylesheet" media="screen" href="/assets/jquery-te-1.4.0.self-ffb6e1340c445f01948b785b9cc0c1d666a6e2823ac4b347c4aba6158d5d65d9.css?body=1" />
+  <script src="/assets/jquery.self-aedf0b4f9535e7b1d01d6a9ad81e6ecdb5b9a82acf17f3798645b7dbca2d86a1.js?body=1"></script>
+<script src="/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1"></script>
+<script src="/assets/jquery-ui.self-ef9b962e869a815adb51e633eb7d5cc5ddb8bdad94e97ad2461759d77273e9fa.js?body=1"></script>
+<script src="/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1"></script>
+<script src="/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1"></script>
+<script src="/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1"></script>
+<script src="/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1"></script>
+<script src="/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1"></script>
+<script src="/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1"></script>
+<script src="/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1"></script>
+<script src="/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1"></script>
+<script src="/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1"></script>
+<script src="/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1"></script>
+<script src="/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1"></script>
+<script src="/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1"></script>
+<script src="/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1"></script>
+<script src="/assets/dataTables/jquery.dataTables.self-4d23011a562d086329b292e5f9ffa7747a9ae137403b08756073351fe8399582.js?body=1"></script>
+<script src="/assets/dataTables.bootstrap.self-0fa38221fb11c7681ca90037281aaa186cbec4cc160ee61b14ad032545837315.js?body=1"></script>
+<script src="/assets/dataTables.tableTools.self-3e2ba4d770c2417244fcff0ec83d3d2e1dc0e632c7389ae2ef9cea1573e443b4.js?body=1"></script>
+<script src="/assets/global.self-a167b4c5d692351c4951562cb6a5c5ede19e4ff4a485938b594c60cb20cbe3e7.js?body=1"></script>
+<script src="/assets/moment.self-76ed5f26170ae03324e5b7c44266e3ee36e754e77d581a2314ceceb9768c7ddf.js?body=1"></script>
+<script src="/assets/bootstrap-datetimepicker.self-d3480d588679c65a5d31571849e2b9353bb3380425a66d3bbd2b41a4f9cfdeef.js?body=1"></script>
+<script src="/assets/bootstrap-multiselect.self-bceb4173e950acc5c0dac8138e8d9dc01684317f37e98592cd0556d414076929.js?body=1"></script>
+<script src="/assets/jquery-te-1.4.0.min.self-485aea310e5543a422cec1c6592c924f6a52ed4ca28e47445d910c5066a707ec.js?body=1"></script>
+<script src="/assets/jquery.cookie.self-d4c3360747d31dc6135772c4fe986b23a618256796d9c8b03e7c4ae1becae36d.js?body=1"></script>
+<script src="/assets/ckeditor/init.self-2f3e80b764bc18c9362e6f3326e1f32d4a8bdceff67345a3453a93b111626ff3.js?body=1"></script>
+<script src="/assets/ckeditor/ckeditor.self-d1ad3c7f24d395fa8e9f19285ee95fc8c21f86a3017680b2eb7e3dd8b07b9d07.js?body=1"></script>
+<script src="/assets/application.self-fa6fa668594d3140ab2f65fdbc577b9b46f7edfd749b0138429c5d5b77c7f155.js?body=1"></script>
+<script src="/assets/bootbox.self-b5ca8f60fcb153e16cbf9b1576f9f12d827b26af705a98b8b7065bb59d2e6d8f.js?body=1"></script>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="KeyzRR+76KBY44MB/fygHPH1ZHFWhKI7uuaMhew2wkNL2n9+WqEXGfK63By2WsF+HXIaVf8Kr2jInb2mlmimWw==" />
+</head>
+<body>
+<nav class="navbar navbar-default navbar-static-top text_color">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-8">
+      </button>
+      <a class="navbar-brand text_color" href="/">YELLFY</a>
+    </div>
+  </div>
+</nav>
+<style type="text/css">
+  .navbar-default {
+  background-color: #337ab7;
+  border-color: #e7e7e7;
+}
+.dropdown.active {
+  background-color: : #1569C7;
+}
+
+.navbar-default .navbar-nav > li > a{
+  color: #ffffff;
+ }
+.navbar-brand.text_color{
+  color: #ffffff;
+}
+</style>
+<script type="text/javascript">
+  $(function () {
+    setNavigation();
+  });
+
+  function setNavigation() {
+      var path = window.location.pathname;
+      path = path.replace(/\/$/, "");
+      path = decodeURIComponent(path);
+
+      $(".nav a").each(function () {
+          var href = $(this).attr('href');
+          if (path.substring(0, href.length) === href) {
+              $(this).closest('li').addClass('active');
+          }
+      });
+  }
+</script>
+<div id="notification" class="" style="margin-bottom: 50px;margin-top: -20px;">
+</div>
+<script type="text/javascript">
+  window.onload = function() {
+      var uagent = navigator.userAgent.toLowerCase();
+      if (uagent.search("iphone") > -1){
+          window.location = "Yellfy://Blog~58ac989bca6c7d41293c9b9b";
+          setTimeout(function () { window.location = "https://itunes.apple.com/us/app/yellfy/id971987537?ls=1&mt=8"; }, 3000);
+      }
+      else{
+          window.location = "http://yellfy.com";
+        }
+    }   
+</script>
+</body>
+</html>

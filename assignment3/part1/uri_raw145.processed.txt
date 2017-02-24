@@ -1,0 +1,209 @@
+
+      [1]buy a domain name
+      [2]LiveZilla Live Chat Software
+      [3]Please Login  OR  [4]Create a FREE account
+      find a domain__ [.com_] Submit
+
+   dns monitor reseller
+        *
+        * [5]Home
+        *
+        * [6]Account
+             + [7]Overview
+             + [8]Create Account
+             + [9]Primary Profile
+             + [10]Login/Out
+        *
+        * [11]Domains
+             + [12]Overview
+             + [13]Register A Domain
+             + [14]Expired Domains
+             + [15]Backorder Domains
+             + [16]Transfer A Domain
+             + [17]My Domains
+             + [18]My Transfers
+             + [19]Security
+             + [20]Push Domain
+             + [21]Whois Lookup
+             +
+        *
+        * [22]Products
+             + [23]Overview
+             + [24]My DNSCop
+             + [25]DNS Cop Info
+        *
+        * [26]Resellers
+             + [27]API
+                  o [28]Documentation
+                  o [29]Download
+        *
+        * [30]Billing
+             + [31]List Transactions
+             + [32]Search Transactions
+             + [33]Add Funds
+        *
+        * [34]About
+             + [35]About Us
+             + [36]Privacy Policy
+             + [37]Terms of Use
+             + [38]Contact Us
+        *
+        * [39]        sales@1isi.com
+
+
+
+
+
+
+
+
+
+    Become a domain name reseller, register domains or monitor your site.
+
+
+                                Domain Names
+                  [40]Register    [41]Transfer    [42]Renew
+
+
+   Search for a domain, register your own family name and lock in a domain
+   name that your family will be able to use for a personal, private or
+   public site.
+   Transfer your domain or bulk transfer multiple and manage them at one
+   location.
+   Renew your domains that are in your account. Simple cart checkout
+   process.
+
+                             Internet Services
+                              [43]DNS Cop
+
+
+    Add extra services to your domain name to maximize its potential and
+    value.
+    DNS Cop - Monitor your web site and be notified if your dns route
+    changes.
+
+
+                                 Resellers
+                              [44]Information
+
+
+   Create a partnership that will last. Sell hosting, domain names,
+   security products and more with a domain name reseller account. Use our
+   website, API or white Label web site to meet your customer and business
+   needs. We do the work, you reap the rewards.
+
+
+
+
+                                 Account Login
+                                   Username:
+                             ____________________
+                                   Password:
+                             ____________________
+                                    Submit
+
+                   Note: this form posts to a secure ssl page.
+                 If you would rather have THIS page ssl secured
+                                [45]reload it now
+                        Search for a domain name above
+
+                            Become a Reseller Today
+        Choose one of our [46]reseller plans that best fits your goals.
+
+
+
+
+
+
+
+   Support:
+
+   [47]Knowledge Portal
+
+   [48]New Support Ticket
+
+   Services:
+
+   [49]Domains
+
+   About:
+
+   [50]Terms of Use
+
+   [51]Contact
+   ICANN accredited domain registrar
+
+   secure dns   hosting
+
+   monitor      privacy
+
+                 © 2006-2016 1isi.com All Rights Reserved.
+
+
+
+
+   IFRAME:
+   [52]//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook
+   .com%2Fpages%2F1isi%2F359429857527038%3Fref%3Dhl&width&layout=standard&
+   action=like&show_faces=true&share=true&height=80
+
+   [53]Follow sellmhi on Twitter      [54][badge64.jpg]
+   [55]Monitor.us - Free website, server & network monitoring tool
+
+References
+
+   1. file:///home/tmedina/cs432/assignment3/part1/cgi-bin/Dgate.cgi?page=cart
+   2. javascript:void(window.open('http://livezilla.1isi.com/chat.php?acid=edb8b','','width=590,height=760,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))
+   3. https://www.1isi.com/
+   4. https://www.1isi.com/cgi-bin/Dgate.cgi?page=newaccountpage
+   5. https://www.1isi.com/cgi-bin/Dgate.cgi?htmlpage=overview.htm
+   6. file:///home/tmedina/cs432/assignment3/part1/uri_raw145.txt
+   7. https://www.1isi.com/cgi-bin/Dgate.cgi?page=overview_account
+   8. https://www.1isi.com/cgi-bin/Dgate.cgi?page=newaccountpage
+   9. https://www.1isi.com/cgi-bin/Dgate.cgi?page=updateaccountpage
+  10. https://www.1isi.com/cgi-bin/Dgate.cgi?page=loginout
+  11. file:///home/tmedina/cs432/assignment3/part1/uri_raw145.txt
+  12. https://www.1isi.com/cgi-bin/Dgate.cgi?htmlpage=overview_domains.htm
+  13. https://www.1isi.com/cgi-bin/Dgate.cgi?page=domains
+  14. https://www.1isi.com/cgi-bin/Dgate.cgi?page=getdeleteddomainspage
+  15. https://www.1isi.com/cgi-bin/Dgate.cgi?htmlpage=backorderdomainsaddlistpage.htm
+  16. https://www.1isi.com/cgi-bin/Dgate.cgi?page=transferinitiate&transfertype=3
+  17. https://www.1isi.com/cgi-bin/Dgate.cgi?page=mydomains
+  18. https://www.1isi.com/cgi-bin/Dgate.cgi?page=mytransfers
+  19. https://www.1isi.com/cgi-bin/Dgate.cgi?htmlpage=securityinfo.htm
+  20. https://www.1isi.com/cgi-bin/Dgate.cgi?page=pushdomainpage
+  21. https://www.1isi.com/cgi-bin/Dgate.cgi?htmlpage=whois.htm
+  22. file:///home/tmedina/cs432/assignment3/part1/uri_raw145.txt
+  23. file:///home/tmedina/cs432/assignment3/part1/uri_raw145.txt?htmlpage=overview_products.htm
+  24. https://www.1isi.com/cgi-bin/Dgate.cgi?page=dnscop_get_items
+  25. https://www.1isi.com/cgi-bin/Dgate.cgi?page=dnscopinfo
+  26. file:///home/tmedina/cs432/assignment3/part1/uri_raw145.txt
+  27. file:///home/tmedina/cs432/assignment3/part1/uri_raw145.txt
+  28. https://www.1isi.com/1isi-API-Commands.htm
+  29. https://www.1isi.com/1isi-API-Commands.doc
+  30. file:///home/tmedina/cs432/assignment3/part1/uri_raw145.txt
+  31. https://www.1isi.com/cgi-bin/Dgate.cgi?page=mytransactions
+  32. https://www.1isi.com/cgi-bin/Dgate.cgi?htmlpage=searchtransactions.htm
+  33. https://www.1isi.com/cgi-bin/Dgate.cgi?page=addpaypalfunds&htmlpage=addfunds.htm
+  34. file:///home/tmedina/cs432/assignment3/part1/uri_raw145.txt
+  35. https://www.1isi.com/cgi-bin/Dgate.cgi?htmlpage=aboutus.htm
+  36. https://www.1isi.com/cgi-bin/Dgate.cgi?htmlpage=privacy.htm
+  37. https://www.1isi.com/cgi-bin/Dgate.cgi?htmlpage=terms.htm
+  38. https://www.1isi.com/cgi-bin/Dgate.cgi?htmlpage=contact.htm
+  39. file:///home/tmedina/cs432/assignment3/part1/uri_raw145.txt
+  40. file:///home/tmedina/cs432/assignment3/part1/cgi-bin/Dgate.cgi?page=domains
+  41. file:///home/tmedina/cs432/assignment3/part1/cgi-bin/Dgate.cgi?page=transferinitiate&transfertype=3
+  42. file:///home/tmedina/cs432/assignment3/part1/cgi-bin/Dgate.cgi?page=mydomains
+  43. file:///home/tmedina/cs432/assignment3/part1/cgi-bin/Dgate.cgi?htmlpage=dnscopinfo.htm
+  44. file:///home/tmedina/cs432/assignment3/part1/cgi-bin/Dgate.cgi?htmlpage=overview_resellers.htm
+  45. https://www.1isi.com/
+  46. https://www.1isi.com/cgi-bin/Dgate.cgi?htmlpage=overview_resellers.htm
+  47. file:///home/tmedina/cs432/assignment3/part1/uri_raw145.txt
+  48. file:///home/tmedina/cs432/assignment3/part1/cgi-bin/Dgate.cgi?page=helpdeskViewPage
+  49. file:///home/tmedina/cs432/assignment3/part1/cgi-bin/Dgate.cgi?htmlpage=overview_domains.htm
+  50. file:///home/tmedina/cs432/assignment3/part1/cgi-bin/Dgate.cgi?htmlpage=terms.htm
+  51. file:///home/tmedina/cs432/assignment3/part1/cgi-bin/Dgate.cgi?htmlpage=contact.htm
+  52. file://www.facebook.com/plugins/like.php?href=https://www.facebook.com/pages/1isi/359429857527038?ref=hl&width&layout=standard&action=like&show_faces=true&share=true&height=80
+  53. file://twitter.com/1isiMarketing
+  54. file://www.salespider.com/p-12561874/ted-gray?rel=salespiderbadgeprofile
+  55. http://www.monitor.us/free-monitoring-features/server-monitoring

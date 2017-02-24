@@ -1,0 +1,1411 @@
+ 
+     
+    
+<!DOCTYPE HTML>
+ <html xmlns="http://www.w3.org/1999/xhtml"> 
+     
+<head>
+<meta charset="utf-8"> 
+<title>Robert Kraft: Patriots success will continue to bring out 'haters' : Related Articles | OOYUZ </title>
+            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href="static/Themes/css/forall.css" rel="stylesheet">
+  <link href="static/Themes/css/newpublisherpage.css" rel="stylesheet">
+<!-- <link href="static/Themes/css/forall.css" rel="stylesheet"> -->
+
+     <link rel="shortcut icon ooyuz" href="static/Themes/image/favicon.ico" > 
+
+    <link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+   <link href='http://fonts.googleapis.com/css?family=Coda|Quattrocento+Sans' rel='stylesheet' type='text/css'>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    
+
+  <script src="static/Themes/js/modernizr.js"></script>
+
+      <script src="static/Themes/js/d3.min.js"></script>
+    <style>
+    
+    .adsf{
+    display:block;
+    float:left;
+    max-width:430px;
+
+    }
+    </style>
+
+    <script>
+$(document).ready(function() {
+    $(".searchtopbutton").click(function () {
+        $(".topbar").slideToggle('slow');
+    
+        if( $(this).text() =='Close'){
+   
+           $(this).text('Search');
+         } else {
+           $(this).text('Close');        
+        }
+    });
+    
+    $(":button").click(function() {
+         
+          var buttvalue = $(this).val();
+      
+          $("#myform").attr("action", buttvalue);
+          });
+})
+
+</script>
+
+      <script>
+function validateForm() {
+
+    var x = document.forms["myform"]["term"].value;
+    if (x == null || x == ""|| x.length<3) {
+  
+        $('.emm').css("display" ,"block" );
+        return false;
+       
+    }
+}
+     </script>
+ 
+
+</head>
+<body>
+ 
+    <div id="wrapper">
+        
+<div class="searchtop">
+            
+    <div class="logo"><a href="http://www.ooyuz.com">OOYUZ</a><span style="font-size:9px;">beta</span></div>        
+               
+     <div class="tagline">News Search & Analytics</div>  
+
+   <!-- <div class="searchbutt"><button class="searchtopbutton">Close</button> </div> -->       
+
+   <div class="searchbutt"> US Edition</div>      
+
+
+          </div>   
+ <div class="topbar">
+<form id="myform" name="myform" action="" method="get" style="text-align:center;" onsubmit="return validateForm();">
+<input type="text" class= "textar" name="term" size="50" style="margin:auto;" value="" column="80">
+<div class="emm" > Minimum 3 characters required!!</div>
+     
+
+             <button type="submit" value="/newsanalysis">Search</button> 
+                        
+     </form></div>
+        
+  
+
+    <div class="container">
+
+
+
+ <div class="content">
+
+   <div class="articlewrap">
+ <div class="titleurl"><h1>Robert Kraft: Patriots success will continue to bring out 'haters'</h1></div>
+<div class="datesite">Wed Feb 22 04:03:27 EST 2017 | Fox Sports   </div>
+ 
+
+   <div class="urlimg"> 
+   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487772966738.jpg" />
+
+   </div>
+
+
+   <div class="advert" >
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuz responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="4422284115"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+ <span style="color:#aaa;font-size:12px;">Advertisement</span>
+        
+       </div>
+
+    <div class="urlcontent">
+    
+ 
+
+New England Patriots owner Robert Kraft had a message for those who think his team wins championships because of various scandals over the years. “Envy and jealousy are incurable diseases. The haters still hate. And I understand it, and we’ll do our best to keep them in that position,” Kraft said during a profile on HBO's Real Sports that aired Tuesday night. The Patriots were busted for Spygate in 2007 after videotaping the New York Jets' defensive coaches signals during a game and last year's ..
+    </br>
+  
+       <div class="advert12">
+
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuzresponsive urlpage vertical -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="4235860510"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<p><span style="color:#aaa;font-size:12px;">Advertisement</span></p>
+            </div>
+
+<div class="readarticle"><a target="_blank" href='http://www.foxsports.com/nfl/story/new-england-patriots-robert-kraft-haters-022217?cmpid=feed:-sports-CQ-RSS-Feed' rel="nofollow"> Read Article </a>  </div>
+</br>
+ <div class="urltags">
+
+ 
+
+<a href="http://www.ooyuz.com/newsarticles?term=real sports" target="_blank" >  real sports </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=envy" target="_blank" >  envy </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=spygate" target="_blank" >  spygate </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=robert kraft" target="_blank" >  robert kraft </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=dad" target="_blank" >  dad </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=new york" target="_blank" >  new york </a>
+
+
+
+
+<a href="http://www.ooyuz.com/newsarticles?term=nfl commissioner roger goodell" target="_blank" >  nfl commissioner roger goodell </a>
+
+
+
+
+
+</div>
+      
+      </div>
+        
+        
+<!--  
+<div class="popularitywrap">
+      <div class="sharing">Popularity on Social media</div>
+
+<div class="urlsocialcount">
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/facebook.png">
+</div>
+<div class="facebookcc innersocialcount">NA</div>
+</div>
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/twitter.png">
+</div>
+<div class="twittercc innersocialcount">NA</div>
+</div>
+<div class="urlallsocial">
+<div class="simagecount">
+<img src="static/Themes/image/linkedin.png">
+</div>
+<div class="linkedincc innersocialcount">NA</div>
+</div>
+<div class="f"></div>
+</div>
+          </div>  -->
+   
+          
+        
+        </div>      
+<div class="sidebarurl">
+
+
+    <div class="keywordrelated">Related Keywords</div>
+<div class="relatedkeyword">
+
+ 
+
+<a href="/newsanalysis?term=tom brady" target="_blank" >  tom brady </a>
+
+
+
+<a href="/newsanalysis?term=new england" target="_blank" >  new england </a>
+
+
+
+<a href="/newsanalysis?term=robert kraft" target="_blank" >  robert kraft </a>
+
+
+
+<a href="/newsanalysis?term=hbo" target="_blank" >  hbo </a>
+
+
+
+<a href="/newsanalysis?term=real sports" target="_blank" >  real sports </a>
+
+
+
+<a href="/newsanalysis?term=tuesday" target="_blank" >  tuesday </a>
+
+
+
+<a href="/newsanalysis?term=houston" target="_blank" >  houston </a>
+
+
+
+<a href="/newsanalysis?term=new york" target="_blank" >  new york </a>
+
+
+
+<a href="/newsanalysis?term=envy" target="_blank" >  envy </a>
+
+
+
+<a href="/newsanalysis?term=march" target="_blank" >  march </a>
+
+
+
+<a href="/newsanalysis?term=alabama" target="_blank" >  alabama </a>
+
+
+
+<a href="/newsanalysis?term=september" target="_blank" >  september </a>
+
+
+
+<a href="/newsanalysis?term=texas" target="_blank" >  texas </a>
+
+
+
+<a href="/newsanalysis?term=rd" target="_blank" >  rd </a>
+
+
+
+<a href="/newsanalysis?term=green bay" target="_blank" >  green bay </a>
+
+
+
+<a href="/newsanalysis?term=school" target="_blank" >  school </a>
+
+
+
+<a href="/newsanalysis?term=needs" target="_blank" >  needs </a>
+
+
+
+<a href="/newsanalysis?term=ht." target="_blank" >  ht. </a>
+
+
+
+<a href="/newsanalysis?term=list" target="_blank" >  list </a>
+
+
+
+<a href="/newsanalysis?term=nfldraftscout.com" target="_blank" >  nfldraftscout.com </a>
+
+
+
+<a href="/newsanalysis?term=xchange" target="_blank" >  xchange </a>
+
+
+
+<a href="/newsanalysis?term=wt." target="_blank" >  wt. </a>
+
+
+
+<a href="/newsanalysis?term=deflategate" target="_blank" >  deflategate </a>
+
+
+
+<a href="/newsanalysis?term=age" target="_blank" >  age </a>
+
+
+
+<a href="/newsanalysis?term=bill belichick" target="_blank" >  bill belichick </a>
+
+
+
+<a href="/newsanalysis?term=april" target="_blank" >  april </a>
+
+
+
+<a href="/newsanalysis?term=afc east" target="_blank" >  afc east </a>
+
+
+
+<a href="/newsanalysis?term=top" target="_blank" >  top </a>
+
+
+
+<a href="/newsanalysis?term=proj" target="_blank" >  proj </a>
+
+
+
+<a href="/newsanalysis?term=rating" target="_blank" >  rating </a>
+
+
+
+<a href="/newsanalysis?term=player" target="_blank" >  player </a>
+
+
+
+<a href="/newsanalysis?term=ufa" target="_blank" >  ufa </a>
+
+
+
+<a href="/newsanalysis?term=pats" target="_blank" >  pats </a>
+
+
+
+<a href="/newsanalysis?term=qb" target="_blank" >  qb </a>
+
+
+
+<a href="/newsanalysis?term=super bowl li" target="_blank" >  super bowl li </a>
+
+
+
+ 
+</div> 
+  <div class="advett1" style="max-width:100%;text-align:center;">
+
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ooyuz responsive horizonal -->
+<ins class="adsbygoogle"
+     style="display:block;"
+     data-ad-client="ca-pub-4158679375855775"
+     data-ad-slot="2319722110"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  
+       <span style="color:#aaa;font-size:12px;">Advertisement</span>  
+</div>
+        </div>
+   
+		<div class="fullcoverage">
+       
+		</div>
+
+  <div class="urlarticlecluster">
+
+
+ 
+    
+        <div class="urlarticleparent" id="14963652" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/21/1487719231438.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14963652">‘Envy and Jealousy Are Incurable Diseases’: Patriots Owner Robert Kraft Rips ‘Haters’ After Super Bowl Win</a>  <div class="sourcename">-Mediaite </div>
+				</div>
+				<div class="urlarticlechild">
+Despite being the owner of a team which has won five Super Bowls over the past two decades, New England Patriots Robert Kraft still acknowledges his team’s “haters.” In a taped int..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14963652"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14970315" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487783423895.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14970315">Robert Kraft wants you to know that ‘envy and jealousy are incurable diseases’</a>  <div class="sourcename">-SB Nation </div>
+				</div>
+				<div class="urlarticlechild">
+The Patriots are the greatest team in professional sports that keeps insisting they’re the plucky underdog despite winning over and over and over again. This kind of observation ma..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14970315"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14970395" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487783639814.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14970395">Robert Kraft to Patriots' critics: 'The haters still hate'</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+Robert Kraft is one of the best owners in all of sports. He’s also one of the most outspoken. The New England Patriots owner never holds back when it comes to speaking his opinion,..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14970395"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14968641" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487772966738.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14968641">Robert Kraft: Patriots success will continue to bring out 'haters'</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+New England Patriots owner Robert Kraft had a message for those who think his team wins championships because of various scandals over the years. “Envy and jealousy are incurable d..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14968641"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14973268" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487796739389.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14973268">Robert Kraft tells HBO’s ‘Real Sports’ that the rest of the NFL is just jealous</a>  <div class="sourcename">-SportsGrid </div>
+				</div>
+				<div class="urlarticlechild">
+HBO’s&nbsp;Real Sports will air their profile on New England Patriots owner Robert Kraft on Tuesday night, and it features Kraft delivering what may be the franchise’s&nbsp;definin..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14973268"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14968128" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487764214998.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14968128">Robert Kraft: Patriots success will continue to bring out 'haters'</a>  <div class="sourcename">-Sports Illustrated </div>
+				</div>
+				<div class="urlarticlechild">
+New England Patriots owner Robert Kraft had a message for those who think his team wins championships because of various scandals over the years. “Envy and jealousy are incurable d..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14968128"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14970981" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487785686747.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14970981">Tom Brady shares hilarious 'suspect board' for missing Super Bowl jersey</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+Tom Brady has kept pretty quiet about his missing Super Bowl jersey, simply saying it’s disappointing and that he hopes it turns up one day. There are no leads on the $500,000 jers..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14970981"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14972200" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487789539457.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14972200">Owner Robert Kraft rips Patriots haters as jealous</a>  <div class="sourcename">-Sporting News </div>
+				</div>
+				<div class="urlarticlechild">
+Patriots haters are still stunned that the team they love to hate not only won Super Bowl 51, but did it by pulling off one of the greatest comebacks in sports history. Team owner ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14972200"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14961114" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/21/1487703587533.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14961114">Police report values Tom Brady's missing Super Bowl jersey at $500K</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+The New England Patriots are more than two weeks removed from their fifth Super Bowl title, but one situation has yet to be resolved: Tom Brady’s jersey, which went missing in the ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14961114"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14972735" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487795171137.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14972735">Tom Brady creates 'suspect board' to find missing Super Bowl jersey</a>  <div class="sourcename">-Sporting News </div>
+				</div>
+				<div class="urlarticlechild">
+Tom Brady's Super Bowl jersey is still MIA. As the investigation for the jersey valued at half a million dollars continues, the Patriots quarterback decided to get in on the action..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14972735"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14956013" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/21/1487656522028.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14956013">The Real Johnny Foxborough Is Pretty Great, Too</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+The morning of the AFC Championship Game, a reader sent The MMQB an email about a story we’d published a few days earlier, “The Tale of Tom Brady and Johnny Foxborough.” The piece ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14956013"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14973273" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487796749896.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14973273">Tom Brady's first words to Patriots owner Robert Kraft in 2000 were so accurate | GiveMeSport</a>  <div class="sourcename">-GiveMeSport </div>
+				</div>
+				<div class="urlarticlechild">
+The New England Patriots have become one of the most dominant sports franchises in the world, and a large part of that is thanks to quarterback Tom Brady. The story behind Brady an..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14973273"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14959392" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/21/1487698061723.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14959392">Tom Brady's still-missing jersey worth $500K, Houston cops say</a>  <div class="sourcename">-Sporting News </div>
+				</div>
+				<div class="urlarticlechild">
+Tom Brady's Super Bowl jersey is still missing in what could be a $500,000&nbsp;heist. The No. 12 jersey, presumed stolen since it went missing from his locker at NRG Stadium in Ho..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14959392"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14944260" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/19/1487516165417.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14944260">Patriots rookie Cyrus Jones on Super Bowl LI: 'It was hell for me'</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+The New England Patriots couldn’t have asked their season to go any better. Despite being without Tom Brady for four games, they still went on to win it all with the No. 1 scoring ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14944260"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14977881" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/23/1487828208311.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14977881">'I'll Always Be the Guy Taken Right Before Tom Brady'</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+CHICAGO — Matt Bowen spent the second day of the 2000 NFL draft at his childhood home in Glen Ellyn, a Chicago suburb. The long, drawn-out wait of a late-round pick is a common tal..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14977881"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14974335" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487799878732.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14974335">Tom Brady draws up hilarious suspect board for missing Super Bowl jersey</a>  <div class="sourcename">-Sporting News </div>
+				</div>
+				<div class="urlarticlechild">
+Tom Brady's Super Bowl jersey has still not been recovered. To aid in the search, the Patriots quarterback has narrowed down the jersey thief to several suspects, including his dog..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14974335"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14970747" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487785028915.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14970747">2017 NFL Draft: New York Jets Pre-Combine 7-Round Mock Draft</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+After falling&nbsp;backwards last season following a solid year, can the New York Jets get back on track in the 2017 NFL Draft? They come close in this&nbsp;7-round mock draft. Aft..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14970747"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14977878" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/23/1487828201327.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14977878">‘I’ll Always Be the Guy Taken Right Before Tom Brady’</a>  <div class="sourcename">-Sports Illustrated </div>
+				</div>
+				<div class="urlarticlechild">
+CHICAGO — Matt Bowen spent the second day of the 2000 NFL draft at his childhood home in Glen Ellyn, a Chicago suburb. The long, drawn-out wait of a late-round pick is a common tal..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14977878"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14976196" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487810646741.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14976196">Tom Brady Built A Suspect Board To Find His Missing Super Bowl Jersey</a>  <div class="sourcename">-UPROXX </div>
+				</div>
+				<div class="urlarticlechild">
+Tom Brady’s stolen Super Bowl jersey is still out there, somewhere. Despite the Texas Rangers being on the case and the jersey being recently valued at $500,000, no evidence has tu..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14976196"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14942287" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/18/1487473289661.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14942287">Peter King: Tom Brady Breaks Down Super Bowl 51</a>  <div class="sourcename">-Sports Illustrated </div>
+				</div>
+				<div class="urlarticlechild">
+This week's episode of The MMQB Podcast with Peter King is a little bit different. This is the first part of my conversation with Tom Brady, recorded Sunday at Brady's "cabin" in M..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14942287"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14956233" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/21/1487664783907.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14956233">New England Patriots' free ageny, draft shopping list</a>  <div class="sourcename">-UPI </div>
+				</div>
+				<div class="urlarticlechild">
+As they wade through free agency and prepare to evaluate draft prospects at the Indianapolis Scouting Combine (March 1-6), the New England Patriots must decide which players to kee..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14956233"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14956234" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/21/1487664785162.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14956234">New York Jets' free agency, draft shopping list</a>  <div class="sourcename">-UPI </div>
+				</div>
+				<div class="urlarticlechild">
+As the New York Jets wade through free agency and prepare to evaluate draft prospects at the Indianapolis Combine (March 1-6), they must decide which players to keep as they seek t..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14956234"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14959548" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/21/1487698669165.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14959548">Houston Police Release Report on Brady's Stolen Jersey</a>  <div class="sourcename">-NECN </div>
+				</div>
+				<div class="urlarticlechild">
+After the New England Patriots won Super Bowl LI, a video from right after the game shows Tom Brady in a locker room asking where his jersey was. In the video from Yahoo News, he s..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14959548"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14977200" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487819423283.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14977200">New England Patriots: One player to jail, coaches could testify in murder trial</a>  <div class="sourcename">-UPI </div>
+				</div>
+				<div class="urlarticlechild">
+Feb. 22 (UPI) -- It's an abnormal offseason for the New England Patriots when one player is headed to jail and coaches might testify in a double-murder trial. Bill Belichick and Jo..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14977200"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14952357" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/20/1487621751695.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14952357">Cowherd: Why Jimmy Garoppolo is more valuable than the No. 1 pick to the Patriots</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+The New England Patriots have a valuable trade asset in 23-year-old backup quarterback Jimmy Garoppolo, and with Tom Brady confident that he still has several years left in his car..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14952357"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14968292" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487765054372.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14968292">Atlanta Falcons: Top free agency, NFL draft needs for 2017</a>  <div class="sourcename">-UPI </div>
+				</div>
+				<div class="urlarticlechild">
+As they wade through free agency and prepare to evaluate draft prospects at the Indianapolis Scouting Combine (March 1-6), the Atlanta Falcons must decide which players to keep as ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14968292"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14959188" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/21/1487697282028.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14959188">New England Patriots: Top free agency, NFL draft needs for 2017</a>  <div class="sourcename">-UPI </div>
+				</div>
+				<div class="urlarticlechild">
+As they wade through free agency and prepare to evaluate draft prospects at the Indianapolis Scouting Combine (March 1-6), the New England Patriots must decide which players to kee..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14959188"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14962437" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/21/1487711040167.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14962437">Guess How Much Tom Brady Is Saying His Missing Super Bowl Jersey Is Worth!</a>  <div class="sourcename">-Perez Hilton </div>
+				</div>
+				<div class="urlarticlechild">
+Have U seen Tom Brady's missing jersey??? If so, you may wanna cash that in real quick! LOLz! According to TMZ, the investigation for the Patriots QB's Super Bowl jersey is still o..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14962437"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14973888" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/22/1487798480647.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14973888">Tom Brady has a suspect board for his missing Super Bowl jersey</a>  <div class="sourcename">-Sports Illustrated </div>
+				</div>
+				<div class="urlarticlechild">
+Tom Brady is taking the case of his missing Super Bowl jersey into his own hands.&nbsp; The Patriots quarterback Instagrammed a suspect board including a diverse group of potential..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14973888"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14959187" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/21/1487697280768.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14959187">New York Jets: Top free agency, NFL draft needs for 2017</a>  <div class="sourcename">-UPI </div>
+				</div>
+				<div class="urlarticlechild">
+As the New York Jets wade through free agency and prepare to evaluate draft prospects at the Indianapolis Combine (March 1-6), they must decide which players to keep as they seek t..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14959187"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14945519" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/19/1487535036321.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14945519">Why the Jets need to get rid of Darrelle Revis as soon as possible</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+For months, questions have been asked about Darrelle Revis’ future in New York. The former All-Pro was once considered the best cornerback in all of football, earning himself the n..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14945519"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14949590" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/20/1487600264093.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14949590">The 2017 All-NFL free-agent team</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+NFL free agency begins in just a few weeks as all 32 teams are gearing up to make valuable additions (and subtractions) to their respective rosters. Hundreds of players will hit th..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14949590"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14937183" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/18/1487397363119.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14937183">Top Draft Prospects New York Jets Must Watch At NFL Scouting Combine</a>  <div class="sourcename">-Forbes </div>
+				</div>
+				<div class="urlarticlechild">
+Continuing my series of top draft prospects to watch&nbsp;I'm going to shift my focus from the Midwest to the East Coast. New York City, to be exact. After a 5-11 season, the New Y..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14937183"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14947639" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/20/1487567940950.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14947639">UH linebacker graduates to Patriots and Super Bowl</a>  <div class="sourcename">-ABC-13 </div>
+				</div>
+				<div class="urlarticlechild">
+It has been an incredible year for Patriots rookie, Elandon Roberts. The former University of Houston linebacker just won the Super Bowl right here in Houston. "Honestly I woke up ..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14947639"> More </a> </div>
+
+	    </div>
+	       
+    
+        <div class="urlarticleparent" id="14964912" >
+
+
+
+<div class="relimg">   
+<img src="http://www.ooyuz.com/images/2017/1/21/1487723792983.jpg" />
+</div>
+   
+
+
+                <div class="urlarticletitle">
+
+			
+						
+		<a href="/geturl?aid=14964912">Value of Brady's missing Super Bowl jersey listed as $500K</a>  <div class="sourcename">-Fox Sports </div>
+				</div>
+				<div class="urlarticlechild">
+BOSTON (AP) The value of Tom Brady’s missing Super Bowl jersey is listed as $500,000 on a Houston Police Department report. The New England Patriots quarterback is listed as the co..
+				</div> 
+					<div class="fullcovlink"><a href="/geturl?aid=14964912"> More </a> </div>
+
+	    </div>
+	       
+</div>
+
+
+
+ </div> <!--content -->
+
+
+<script type="text/javascript">
+function CommaSeperatedCount(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+  
+ $(document).ready(function () {
+
+
+    var loadurl = "http://www.foxsports.com/nfl/story/new-england-patriots-robert-kraft-haters-022217?cmpid=feed:-sports-CQ-RSS-Feed" ;
+
+
+  $.getJSON('http://cdn.api.twitter.com/1/urls/count.json?url=' + loadurl  + '&callback=?', function (twitdata) {
+    }).done(function(twitdata){
+        if(typeof(twitdata.count) != "undefined")
+        {
+          twitcount = CommaSeperatedCount(twitdata.count);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+ 
+          $(".twittercc").html(twitcount);
+           // this.find(".twittercc").html(twitcount);
+         }else{
+//                     this.find(".twittercc").html("0");
+          $(".twittercc").html("0");
+         }
+
+    });
+
+         $.getJSON( 'http://www.linkedin.com/countserv/count/share?url=' + loadurl + '&callback=?', function( linkdindata ) {
+      }).done(function(linkdindata){
+ if(typeof(linkdindata.count) != "undefined")
+        {
+          linkedincount = CommaSeperatedCount(linkdindata.count);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+ 
+           $(".linkedincc").html(linkedincount);
+         }else{
+           $(".linkedincc").html("0");
+
+         }
+    });
+
+
+  $.getJSON('http://graph.facebook.com/?id=' + loadurl, function (fbdata) {
+    }).done(function(fbdata){
+         if(typeof(fbdata.shares) != "undefined")
+        {
+          fbcount = CommaSeperatedCount(fbdata.shares);
+          //$('#total-shares').attr('data-facebookShares', fbdata.shares)
+           $(".facebookcc").html(fbcount);
+         }else{
+
+  $(".facebookcc").html("0");
+         }
+
+    });
+
+ 
+});
+
+</script>
+
+ </div>
+    
+
+
+<footer>
+<div class="foot">  
+ <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+           $(document).ready(function() {
+    $(function() {
+        $(".textar").autocomplete({
+            source: function(request, response) {
+                $.ajax({
+                    url: "suggester",
+                    type: "POST",
+                    data: { term: request.term },
+
+                    dataType: "json",
+
+                    success: function(data) {
+                        response(data);
+                    }
+               });              
+            }   
+        });
+    });
+});
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55076069-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+     Ooyuz :
+<a href="privacy-policy">Privacy Policy </a> 
+<a href="terms-and-conditions">Terms & Conditions</a>
+<a href="static/Themes/jsps/about-ooyuz.html">About</a>
+<a href="static/Themes/jsps/contact2.html">Contact</a>
+
+
+
+
+</div>
+<!--
+<div class="foot">
+    Learn More :
+<a href="http://tech.ooyuz.com/articles-by-publisher/">Publisher Analysis</a> 
+<a href="http://tech.ooyuz.com/timeline-analysis-for-an-article/">Timeline Analysis</a>
+<a href="http://tech.ooyuz.com/social-media-analysis-of-news-articles/">Social Media Analysis</a>
+<a href="http://tech.ooyuz.com/effective-news-reading-with-ooyuz-clustering-algorithm/">Cluster Analysis</a>
+
+</div>
+   --> 
+<div class="foot">
+    Copyright @ ooyuz.com 
+
+</div>
+
+</footer>
+       
+       <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+
+<script type="text/javascript">
+           $(document).ready(function() {
+    $(function() {
+        $(".textar").autocomplete({
+            source: function(request, response) {
+                $.ajax({
+                    url: "suggester",
+                    type: "POST",
+                    data: { term: request.term },
+
+                    dataType: "json",
+
+                    success: function(data) {
+                        response(data);
+                    }
+               });              
+            }   
+        });
+    });
+});
+
+</script> 
+       </div>
+</body>
+</html>
