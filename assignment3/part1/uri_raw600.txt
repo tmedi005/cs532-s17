@@ -1,0 +1,1525 @@
+<!DOCTYPE html>
+<!--[if IE 8]>    <html class="ie8" lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- IE compatibility with latest jquery -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+
+	<title>Services | Alternative Medicine Practitioners | Ozone/Oxygen Therapy | Liposomal Products | KinesiologyAlternative Medicine Practitioners | Ozone/Oxygen Therapy | Liposomal Products | Kinesiology</title>
+	<link rel="pingback" href="http://www.ahctherapies.com/xmlrpc.php" />
+	<link rel="shortcut icon" href="" />
+			<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Aladin|Englebert">
+		
+	<!-- call the options and set it to global variable-->
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.ahctherapies.com/services/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Services | Alternative Medicine Practitioners | Ozone/Oxygen Therapy | Liposomal Products | Kinesiology" />
+<meta property="og:description" content="All our services are performed with the most care and accuracy.  We have gone through extensive training and we are aptly qualified to provide you with the best possible treatment outcome. Listed below are the many therapies that we offer and a small amount of information about the therapy.   If you would like more detailed &hellip;" />
+<meta property="og:url" content="http://www.ahctherapies.com/services/" />
+<meta property="og:site_name" content="Alternative Medicine Practitioners | Ozone/Oxygen Therapy | Liposomal Products | Kinesiology" />
+<meta property="og:image" content="http://www.ahctherapies.com/wp-content/uploads/2014/10/b12-injections-150x150.png" />
+<meta property="og:image" content="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_133497002_XS-300x200.jpg" />
+<meta property="og:image" content="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_61804763_S-300x200.jpg" />
+<meta property="og:image" content="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_130967934_S-300x200.jpg" />
+<meta property="og:image" content="http://www.ahctherapies.com/wp-content/uploads/2014/09/Candida-Yeast-Culture175-150x150.jpg" />
+<meta property="og:image" content="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_18193012_XS-300x199.jpg" />
+<meta property="og:image" content="http://www.ahctherapies.com/wp-content/uploads/2014/10/Oxygen-Ozone-Sauna-220x300.png" />
+<meta property="og:image" content="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_68822999_S-300x145.jpg" />
+<meta property="og:image" content="http://www.ahctherapies.com/wp-content/uploads/2014/10/skin-protecting-body-from-bacteria-300x184.png" />
+<meta property="og:image" content="http://www.ahctherapies.com/wp-content/uploads/2014/10/cardiocoach_001-300x187.png" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Alternative Medicine Practitioners | Ozone/Oxygen Therapy | Liposomal Products | Kinesiology &raquo; Feed" href="http://www.ahctherapies.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Alternative Medicine Practitioners | Ozone/Oxygen Therapy | Liposomal Products | Kinesiology &raquo; Comments Feed" href="http://www.ahctherapies.com/comments/feed/" />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.ahctherapies.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.3.5&#038;ver=4.0.1' type='text/css' media='all' />
+<style type='text/css'>
+.tp-caption.medium_grey {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:20px;
+line-height:20px;
+font-family:Arial;
+padding:2px 4px;
+margin:0px;
+border-width:0px;
+border-style:none;
+background-color:#888;
+white-space:nowrap;
+}
+
+.tp-caption.small_text {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:14px;
+line-height:20px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.medium_text {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:20px;
+line-height:20px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.large_text {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:40px;
+line-height:40px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.very_large_text {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:60px;
+line-height:60px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+letter-spacing:-2px;
+}
+
+.tp-caption.very_big_white {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:800;
+font-size:60px;
+line-height:60px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 4px;
+padding-top:1px;
+background-color:#000;
+}
+
+.tp-caption.very_big_black {
+position:absolute;
+color:#000;
+text-shadow:none;
+font-weight:700;
+font-size:60px;
+line-height:60px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 4px;
+padding-top:1px;
+background-color:#fff;
+}
+
+.tp-caption.modern_medium_fat {
+position:absolute;
+color:#000;
+text-shadow:none;
+font-weight:800;
+font-size:24px;
+line-height:20px;
+font-family:"Open Sans", sans-serif;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.modern_medium_fat_white {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:800;
+font-size:24px;
+line-height:20px;
+font-family:"Open Sans", sans-serif;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.modern_medium_light {
+position:absolute;
+color:#000;
+text-shadow:none;
+font-weight:300;
+font-size:24px;
+line-height:20px;
+font-family:"Open Sans", sans-serif;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.modern_big_bluebg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:800;
+font-size:30px;
+line-height:36px;
+font-family:"Open Sans", sans-serif;
+padding:3px 10px;
+margin:0px;
+border-width:0px;
+border-style:none;
+background-color:#4e5b6c;
+letter-spacing:0;
+}
+
+.tp-caption.modern_big_redbg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:300;
+font-size:30px;
+line-height:36px;
+font-family:"Open Sans", sans-serif;
+padding:3px 10px;
+padding-top:1px;
+margin:0px;
+border-width:0px;
+border-style:none;
+background-color:#de543e;
+letter-spacing:0;
+}
+
+.tp-caption.modern_small_text_dark {
+position:absolute;
+color:#555;
+text-shadow:none;
+font-size:14px;
+line-height:22px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.boxshadow {
+-moz-box-shadow:0px 0px 20px rgba(0, 0, 0, 0.5);
+-webkit-box-shadow:0px 0px 20px rgba(0, 0, 0, 0.5);
+box-shadow:0px 0px 20px rgba(0, 0, 0, 0.5);
+}
+
+.tp-caption.black {
+color:#000;
+text-shadow:none;
+}
+
+.tp-caption.noshadow {
+text-shadow:none;
+}
+
+.tp-caption.thinheadline_dark {
+position:absolute;
+color:rgba(0,0,0,0.85);
+text-shadow:none;
+font-weight:300;
+font-size:30px;
+line-height:30px;
+font-family:"Open Sans";
+background-color:transparent;
+}
+
+.tp-caption.thintext_dark {
+position:absolute;
+color:rgba(0,0,0,0.85);
+text-shadow:none;
+font-weight:300;
+font-size:16px;
+line-height:26px;
+font-family:"Open Sans";
+background-color:transparent;
+}
+
+.tp-caption.largeblackbg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:300;
+font-size:50px;
+line-height:70px;
+font-family:"Open Sans";
+background-color:#000;
+padding:0px 20px;
+-webkit-border-radius:0px;
+-moz-border-radius:0px;
+border-radius:0px;
+}
+
+.tp-caption.largepinkbg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:300;
+font-size:50px;
+line-height:70px;
+font-family:"Open Sans";
+background-color:#db4360;
+padding:0px 20px;
+-webkit-border-radius:0px;
+-moz-border-radius:0px;
+border-radius:0px;
+}
+
+.tp-caption.largewhitebg {
+position:absolute;
+color:#000;
+text-shadow:none;
+font-weight:300;
+font-size:50px;
+line-height:70px;
+font-family:"Open Sans";
+background-color:#fff;
+padding:0px 20px;
+-webkit-border-radius:0px;
+-moz-border-radius:0px;
+border-radius:0px;
+}
+
+.tp-caption.largegreenbg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:300;
+font-size:50px;
+line-height:70px;
+font-family:"Open Sans";
+background-color:#67ae73;
+padding:0px 20px;
+-webkit-border-radius:0px;
+-moz-border-radius:0px;
+border-radius:0px;
+}
+
+.tp-caption.excerpt {
+font-size:36px;
+line-height:36px;
+font-weight:700;
+font-family:Arial;
+color:#ffffff;
+text-decoration:none;
+background-color:rgba(0, 0, 0, 1);
+text-shadow:none;
+margin:0px;
+letter-spacing:-1.5px;
+padding:1px 4px 0px 4px;
+width:150px;
+white-space:normal !important;
+height:auto;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
+.tp-caption.large_bold_grey {
+font-size:60px;
+line-height:60px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(102, 102, 102);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+margin:0px;
+padding:1px 4px 0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_thin_grey {
+font-size:34px;
+line-height:30px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(102, 102, 102);
+text-decoration:none;
+background-color:transparent;
+padding:1px 4px 0px;
+text-shadow:none;
+margin:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.small_thin_grey {
+font-size:18px;
+line-height:26px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(117, 117, 117);
+text-decoration:none;
+background-color:transparent;
+padding:1px 4px 0px;
+text-shadow:none;
+margin:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.lightgrey_divider {
+text-decoration:none;
+background-color:rgba(235, 235, 235, 1);
+width:370px;
+height:3px;
+background-position:initial initial;
+background-repeat:initial initial;
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
+.tp-caption.large_bold_darkblue {
+font-size:58px;
+line-height:60px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(52, 73, 94);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_darkblue {
+font-size:20px;
+line-height:20px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(52, 73, 94);
+padding:10px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bold_red {
+font-size:24px;
+line-height:30px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(227, 58, 12);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_light_red {
+font-size:21px;
+line-height:26px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(227, 58, 12);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_red {
+font-size:20px;
+line-height:20px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(227, 58, 12);
+padding:10px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bold_orange {
+font-size:24px;
+line-height:30px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(243, 156, 18);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_orange {
+font-size:20px;
+line-height:20px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(243, 156, 18);
+padding:10px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.grassfloor {
+text-decoration:none;
+background-color:rgba(160, 179, 151, 1);
+width:4000px;
+height:150px;
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
+.tp-caption.large_bold_white {
+font-size:58px;
+line-height:60px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_light_white {
+font-size:30px;
+line-height:36px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.mediumlarge_light_white {
+font-size:34px;
+line-height:40px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.mediumlarge_light_white_center {
+font-size:34px;
+line-height:40px;
+font-weight:300;
+font-family:"Open Sans";
+color:#ffffff;
+text-decoration:none;
+background-color:transparent;
+padding:0px 0px 0px 0px;
+text-align:center;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_asbestos {
+font-size:20px;
+line-height:20px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(127, 140, 141);
+padding:10px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_light_black {
+font-size:30px;
+line-height:36px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.large_bold_black {
+font-size:58px;
+line-height:60px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.mediumlarge_light_darkblue {
+font-size:34px;
+line-height:40px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(52, 73, 94);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.small_light_white {
+font-size:17px;
+line-height:28px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.roundedimage {
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
+.tp-caption.large_bg_black {
+font-size:40px;
+line-height:40px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(0, 0, 0);
+padding:10px 20px 15px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.mediumwhitebg {
+font-size:30px;
+line-height:30px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:rgb(255, 255, 255);
+padding:5px 15px 10px;
+text-shadow:none;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+
+.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+</style>
+<link rel='stylesheet' id='bootstrap-css-css'  href='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/css/bootstrap.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='icomoon-css-css'  href='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/fonts/icomoon/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='parallax-css-css'  href='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/inc/parallax/css/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css-css'  href='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/css/prettyPhoto.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='blueimp-gallery-css-css'  href='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/inc/bootstrap-gallery/css/blueimp-gallery.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-gallery-css-css'  href='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/inc/bootstrap-gallery/css/bootstrap-image-gallery.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-css'  href='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/css/awp_animate.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='awp-icon-font-css'  href='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/fonts/icomoon/style.css?ver=4.0.1' type='text/css' media='all' />
+<!-- This site uses the Yoast Google Analytics plugin v5.2.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-56103364-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Yoast Google Analytics -->
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/plugins/a10-imaio/js/jsfiles.php?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/plugins/a10-imaio/js/jquery_colorbox-min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.3.5&#038;ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.5&#038;ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/js/jquery.prettyPhoto.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/inc/quicksand/js/jquery.quicksand.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/inc/quicksand/js/script.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/js/jquery.viewport.mini.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/js/awp_animate.js?ver=1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ahctherapies.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ahctherapies.com/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://www.ahctherapies.com/?p=29' />
+    <script type="text/javascript" >
+    function fanbuzzIcAddName(fields_fname,fields_lname,fields_email,listid,specialid,clientid,formid,reallistid,doubleopt,redirect,errorredirect, vidNum, vidPageId)
+        {
+            var data = 
+            {
+                    action: 'fanbuzzIcAddName',
+                    fields_fname : fields_fname,
+                    fields_lname: fields_lname,
+                    fields_email : fields_email,
+                    listid: listid,
+                    specialid: specialid,
+                    clientid: clientid,
+                    formid: formid,
+                    reallistid: reallistid,
+                    doubleopt: doubleopt,
+                    redirect: redirect,
+                    errorredirect: errorredirect
+            };
+            jQuery.post('/wp-admin/admin-ajax.php', data, function(){svphidehtml(vidNum, vidPageId);});
+        }
+    function fanbuzzCcAddName(email,llr,m,p)
+        {
+            var data = 
+            {
+                    action: 'fanbuzzCcAddName',
+                    email : email,
+                    llr: llr,
+                    m : m,
+                    p: p
+            };
+            jQuery.post('/wp-admin/admin-ajax.php', data, function(){svphidehtml(vidNum, vidPageId);});
+        }
+        
+    function fanbuzzGrAddName(name, email, webform_id, vidNum, vidPageId, thankyouurl, embed)
+        {
+//            alert("name="+name+"\nemail="+email+"\nwebform_id="+webform_id);
+            var data = 
+            {
+                    action : 'fanbuzzGrAddName',
+                    name : name,
+                    email: email,
+                    webform_id : webform_id
+            };
+            
+           if (thankyouurl != '')
+           {
+               jQuery.post('/wp-admin/admin-ajax.php', data, function(){svphidehtml(vidNum, vidPageId, '', embed); window.location.replace(thankyouurl);});
+           }
+           else
+           {
+               jQuery.post('/wp-admin/admin-ajax.php', data, function(){svphidehtml(vidNum, vidPageId, '', embed);});
+           }
+           //jQuery.post('https://app.getresponse.com/add_contact_webform.html?u=Lix', data, function(){svphidehtml(vidNum, vidPageId, '', embed);});
+           //jQuery.post('https://app.getresponse.com/add_subscriber.html', data, function(){svphidehtml(vidNum, vidPageId, '', embed);});
+        }
+        
+        
+    function fanbuzzGrGtwAddName(fname, lname, email, webinar_id, webform_id, vidNum, vidPageId, thankyouurl, embed)
+        {
+//            alert("name="+name+"\nemail="+email+"\nwebform_id="+webform_id);
+            var data = 
+            {
+                    action : 'fanbuzzGrGtwAddName',
+                    name : fname,
+                    email: email,
+                    webform_id : webform_id,
+                    firstName : fname,
+                    lastName: lname,
+                    webinar_id : webinar_id
+            };
+           
+           if (thankyouurl != '')
+           {
+               jQuery.post('/wp-admin/admin-ajax.php', data, function(){svphidehtml(vidNum, vidPageId, '', embed); window.location.replace(thankyouurl);});
+           }
+           else
+           {
+               jQuery.post('/wp-admin/admin-ajax.php', data, function(){svphidehtml(vidNum, vidPageId, '', embed);});
+           }
+        }
+        
+        
+    function fanbuzzGtwAddName(fname, lname, email, webinar_id, vidNum, vidPageId, thankyouurl, embed)
+        {
+//            alert("name="+name+"\nemail="+email+"\nwebform_id="+webform_id);
+            var data = 
+            {
+                    action : 'fanbuzzGtwAddName',
+                    firstName : fname,
+                    lastName: lname,
+                    email : email,
+                    webinar_id : webinar_id
+            };
+           jQuery.post('/wp-admin/admin-ajax.php', data);
+        }
+        
+    </script>
+    <link rel="stylesheet" href="//www.ahctherapies.com/wp-content/plugins/a10-imaio/styles/globalStyles220000.css" type="text/css" media="all" /><link rel="stylesheet" href="//www.ahctherapies.com/wp-content/plugins/a10-imaio/js/styles/colorbox.css" type="text/css" media="all" /><script type="text/javascript">
+              function ScName()
+              {
+                  return "sendhttpwwwahctherapiescomservices";
+              }
+              function LcName()
+              {
+                  return "likehttpwwwahctherapiescomservices";
+              }
+              function GcName()
+              {
+                  return "gplushttpwwwahctherapiescomservices";
+              }
+function VrName(vidNum) 
+            {
+                var vidNo = 1;
+                if (typeof vidNum != undefined && vidNum != null) { vidNo = vidNum; }
+                switch (vidNo)
+                {case 1 : return "videorevealhttpwwwahctherapiescomservices1"; break;case 2 : return "videorevealhttpwwwahctherapiescomservices2"; break;case 3 : return "videorevealhttpwwwahctherapiescomservices3"; break;case 4 : return "videorevealhttpwwwahctherapiescomservices4"; break;case 5 : return "videorevealhttpwwwahctherapiescomservices5"; break;case 6 : return "videorevealhttpwwwahctherapiescomservices6"; break;case 7 : return "videorevealhttpwwwahctherapiescomservices7"; break;case 8 : return "videorevealhttpwwwahctherapiescomservices8"; break;case 9 : return "videorevealhttpwwwahctherapiescomservices9"; break;case 10 : return "videorevealhttpwwwahctherapiescomservices10"; break;}
+            }function CcName()
+              {
+                  return "comhttpwwwahctherapiescomservices";
+              }</script>			<div id="fb-root"></div>
+			<script type="text/javascript">(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+		<style type="text/css">
+/* header color style */
+header#main-header { 
+background: #8224e3; /* Old browsers */
+background: -moz-linear-gradient(top,  #8224e3 0%, #ffffff 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8224e3), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #8224e3 0%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #8224e3 0%,#ffffff 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #8224e3 0%,#ffffff 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #8224e3 0%,#ffffff 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8224e3', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+
+/* theme gradient color style */
+.woahbar,.show-notify{background:#057d9c;}
+
+#main-nav{border-top:4px solid #8224e3;
+	background: #0581a2; /* Old browsers */
+	background: -moz-linear-gradient(top,  #0581a2 0%, #057391 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0581a2), color-stop(100%,#057391)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #0581a2 0%,#057391 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #0581a2 0%,#057391 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #0581a2 0%,#057391 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #0581a2 0%,#057391 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0581a2', endColorstr='#057391',GradientType=0 ); /* IE6-9 */
+}
+#main-nav .dropdown-menu{background: #057391;}
+
+/* #main-nav ul.nav li>a:hover,#main-nav ul.nav li.active>a,#main-nav .nav .open>a,#main-nav .nav .open>a:hover,#main-nav .nav .open>a:focus,#main-nav .dropdown-menu>.active>a,#main-nav .dropdown-menu>.active>a:hover,#main-nav .dropdown-menu>.active>a:focus */
+
+/* menu active */
+#main-nav ul.nav li.active>a, #main-nav .nav .open>a, #main-nav .nav .open>a:focus, #main-nav .dropdown-menu>.active>a, #main-nav .dropdown-menu>.active>a:focus{
+background: #8224e3; /* Old browsers */
+background: -moz-linear-gradient(top,  #8224e3 0%,  100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8224e3), color-stop(100%,)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #8224e3 0%, 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #8224e3 0%, 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #8224e3 0%, 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #8224e3 0%, 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8224e3', endColorstr='',GradientType=0 ); /* IE6-9 */
+}
+
+/* menu hover */
+#main-nav ul.nav li>a:hover,#main-nav .nav .open>a:hover,#main-nav .dropdown-menu>.active>a:hover{
+background: #8224e3; /* Old browsers */
+background: -moz-linear-gradient(top,  #8224e3 0%,  100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8224e3), color-stop(100%,)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #8224e3 0%, 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #8224e3 0%, 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #8224e3 0%, 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #8224e3 0%, 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8224e3', endColorstr='',GradientType=0 ); /* IE6-9 */
+}
+
+#main-nav ul.dropdown-menu li>a:hover{background:;}
+#main-nav ul.nav li a {color:;}
+
+#mobile #mobile-menu li a{background:#8224e3;}
+
+.mobile-call-button{background:#8224e3;border-color:#8224e3;}
+
+.main-slider,.alt-slider{
+background: #06a2cb; /* Old browsers */
+background: -moz-linear-gradient(top,  #06a2cb 0%, #057d9c 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#057d9c), color-stop(100%,#06a2cb)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #06a2cb 0%,#057d9c 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #06a2cb 0%,#057d9c 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #06a2cb 0%,#057d9c 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #06a2cb 0%,#057d9c 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#06a2cb', endColorstr='#057d9c',GradientType=0 ); /* IE6-9 */
+}
+
+/* pricing table gradient color */
+#awp-pricing-table .title-row{
+	background-color: #057d9c;
+	background-image: -ms-linear-gradient(top, #057d9c, #06a2cb);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#057d9c), to(#06a2cb));
+	background-image: -webkit-linear-gradient(top, #057d9c, #06a2cb);
+	background-image: -o-linear-gradient(top, #057d9c, #06a2cb);
+	background-image: linear-gradient(top, #057d9c, #06a2cb);
+	background-image: -moz-linear-gradient(top, #057d9c, #06a2cb);
+}
+#awp-pricing-table .title-row h3{border-color:#057d9c;}
+#awp-pricing-table .title-row .price{border-color:#06a2cb;}
+.awp-optinform-target{
+	background:#057d9c;
+}
+.awp-optinform-target input[type="submit"]{
+	background:#bebebe;
+}
+
+/* back to top button */
+#back-top a:hover{background:#057d9c;opacity:1;}
+</style>
+
+
+
+	<style>
+		#wrapper {
+		-moz-box-shadow:    inset 0 0 1px #000;
+		-webkit-box-shadow: inset 0 0 1px #000;
+		box-shadow:         inset 0 0 1px #000;
+		}
+	</style>
+
+	<style>
+		#wrapper { margin-top: 20px; margin-bottom: 20px; }
+		}
+	</style>
+	<style>
+		#wrapper { 
+		  -webkit-border-radius:  11px;
+		  -moz-border-radius:     11px;
+		  border-radius:          11px;
+		}
+		footer,#footer-bar {
+		  -webkit-border-radius:  0 0 8px 8px;
+		  -moz-border-radius:     0 0 8px 8px;
+		  border-radius:          0 0 8px 8px;
+		}
+	</style>
+
+			<style>
+			#main-header,#awp-header-top {
+			  -webkit-border-radius:  8px 8px 0 0;
+			  -moz-border-radius:     8px 8px 0 0;
+			  border-radius:          8px 8px 0 0;
+			}
+		</style>
+		<style>
+		body{background:#222222;}
+	</style>
+	<style>
+		body { 
+		background-repeat: no-repeat;
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='', sizingMethod='scale');
+		-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='', sizingMethod='scale')";
+		}
+	</style>
+	<style>
+		header#main-header { 
+		background-repeat: no-repeat;
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='', sizingMethod='scale');
+		-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='', sizingMethod='scale')";
+		}
+	</style>
+<style>
+	
+	body {
+	font-size: 14px; 
+	font-family: helvetica; 
+	color: #333333; 
+	}
+	.content-toprated th{background:#057d9c;}
+
+	.entry h1, h1 a, h1 a:hover { 
+	font-size: 30px; 
+	font-family: Oswald; 
+	font-family: ; 
+	font-weight: normal; 
+	color
+	: #333333; 
+	}
+
+	.page_title .breadcrumb, .page_title .breadcrumb a, .page_title .title_content div {
+	color: #333333; 
+	}
+
+	.entry h2, .entry h2 a { 
+	font-size: 28px; 
+	font-family: Oswald; 
+	font-family: ; 
+	font-weight: normal; 
+	color: #333333; 
+	}
+
+	.entry h3, .entry h3 a{ 
+	font-size: 24px; 
+	font-family: Oswald; 
+	font-family: ; 
+	font-weight: normal; 
+	color: #333333; 
+	}
+
+	.entry h4, .entry h4 a{ 
+	font-size: 18px; 
+	font-family: Oswald; 
+	font-family: ; 
+	font-weight: normal; 
+	color: #333333; 
+	}
+
+	.entry h5, .entry h5 a{ 
+	font-size: 16px; 
+	font-family: Oswald; 
+	font-family: ; 
+	font-weight: normal; 
+	color: #333333; 
+	}
+
+	.entry h6, .entry h6 a{ 
+	font-size: 12px; 
+	font-family: Oswald; 
+	font-family: ; 
+	font-weight: normal; 
+	color: #333333; 
+	}
+
+	.awp-post-title a { 
+	font-size: 22px; 
+	font-family: Oswald; 
+	font-family: ; 
+	color: #0088cc; 
+	}
+
+	.awp-post-title a:hover { 
+	color: #0088cc; 
+	}
+
+	.random-post-ul a,.toprated a{color: #0088cc;}
+	.random-post-ul a:hover,.toprated a:hover{color: #0088cc;}
+
+	.entry a {
+	color: ;
+	}
+
+	.entry a {
+	text-decoration: normal;
+	}
+
+	.entry a:hover {
+	text-decoration: normal;
+	}
+
+	.entry p{font-size: 14px; 
+	font-family: helvetica;
+	color: ;
+	}
+
+	.carousel-indicators .active{background-color:#057d9c}
+
+	/* post button - read more visit link */
+	a.read-more{background:#057d9c;border-color:#06a2cb;color:#fefefe}
+	a.read-more:hover{background:#06a2cb; border-color:#057d9c;}
+	a.visit-site{background:#057d9c;border-color:#06a2cb;color:#fefefe}
+	a.visit-site:hover{background:#06a2cb}
+	/* ul.menu li a:hover{background:#057d9c;} */
+	.post-header{background:#06a2cb;}
+
+</style>
+
+
+	<!--[if lt IE 9]>
+	<script src="http://www.ahctherapies.com/wp-content/themes/newElegantBiz/js/html5shiv.js"></script>
+	<script src="http://www.ahctherapies.com/wp-content/themes/newElegantBiz/js/respond.min.js"></script>
+	<![endif]-->
+	</head>
+<body class="page page-id-29 page-template page-template-template-portfolio-php">
+	<div class="visible-desktop">
+			</div>
+
+		<div id="wrapper" class="">
+				<header id="main-header" class="site-header">
+				<div class="container">
+
+						<div id="logo" class="col-md-6">
+									<a class="logo" href="http://www.ahctherapies.com" title="Alternative Medicine Practitioners | Ozone/Oxygen Therapy | Liposomal Products | Kinesiology -  "><img  width="300px" height="302px" src="http://www.ahctherapies.com/wp-content/uploads/2017/01/micronutrient-infusion-services-logo.png" alt="" class="img-responsive"></a>
+								</div>
+						<div id ="profile" class="col-md-6">
+							<div class="phone">
+								<span class ="">Call Us</span><span class="ph-number"><a href="tel:505-821-9609">&nbsp505-821-9609</a></span>							</div>
+							<div class="clearfix"></div>
+							<div class="social-profile">
+								
+			<a href="https://www.facebook.com/pages/Alternative-Health-Concepts-AHC-LLC/170482892964269" class="icon-facebook awp-icon-1x awp-icon-type-round"></a>
+			
+			<a href="https://twitter.com/microInfusions" class="icon-twitter awp-icon-1x awp-icon-type-round"></a>
+			
+			<a href="#" class="icon-feed2 awp-icon-1x awp-icon-type-round"></a>
+			
+			<a href="https://www.youtube.com/channel/UCf081rKYNVes_smPIn8Ut5A" class="icon-iconmonstr-youtube-icon awp-icon-1x awp-icon-type-round"></a>
+										</div>
+						</div>
+					
+					<div class="clearfix"></div>
+				</div>
+			</header>
+			
+			<!-- main navigation -->
+			<nav id="main-nav"class="navbar navbar-default">
+				<div class="container">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+					</div>
+					<div class="collapse navbar-collapse">
+						<div class="col-md-9">
+								<ul class="nav navbar-nav"><li id="menu-item-170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-170"><a title="Home" href="http://www.ahctherapies.com/">Home</a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-109 dropdown"><a title="About Us" href="http://www.ahctherapies.com/about-us/" data-toggle="dropdown" class="dropdown-toggle disabled">About Us<span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a title="Choosing your Integrative Healthcare Provider" href="http://www.ahctherapies.com/choosing-integrative-healthcare-provider/">Choosing your Integrative Healthcare Provider</a></li>
+</ul>
+</li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-104 dropdown"><a title="Live Blood Analysis" href="http://www.ahctherapies.com/live-blood-analysis/" data-toggle="dropdown" class="dropdown-toggle disabled">Live Blood Analysis<span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a title="Great Health and the Blood Stream                                                       " href="http://www.ahctherapies.com/live-blood-analysis/great-health-blood-stream/">Great Health and the Blood Stream</a></li>
+	<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a title="Immune Boost through Mineralization " href="http://www.ahctherapies.com/liposomal-products/immune-boost-mineralization/">Immune Boost through Mineralization</a></li>
+</ul>
+</li>
+<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-29 current_page_item menu-item-has-children menu-item-110 dropdown active"><a title="Services" href="http://www.ahctherapies.com/services/" data-toggle="dropdown" class="dropdown-toggle disabled">Services<span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399"><a title="Jump Start Program" href="http://www.ahctherapies.com/jump-start-program/">Jump Start Program</a></li>
+	<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a title="Esthetic Services" href="http://www.ahctherapies.com/esthetic-services/">Esthetic Services</a></li>
+	<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-108 dropdown"><a title="Candida Therapy" href="http://www.ahctherapies.com/candida-therapy/">Candida Therapy</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a title="New Info on Candida " href="http://www.ahctherapies.com/candida-therapy/new-info-candida/">New Info on Candida</a></li>
+		<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a title="Why do you still have Candida?      " href="http://www.ahctherapies.com/candida-therapy/still-candida/">Why do you still have Candida?</a></li>
+		<li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a title="Is Candida Related to Multiple Chemical Sensitivities?" href="http://www.ahctherapies.com/candida-therapy/candida-related-multiple-chemical-sensitivities/">Is Candida Related to Multiple Chemical Sensitivities?</a></li>
+		<li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a title="Fungal Mutations in Response to Herbal Supplements" href="http://www.ahctherapies.com/candida-therapy/fungal-mutations-response-herbal-supplements/">Fungal Mutations in Response to Herbal Supplements</a></li>
+		<li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a title="How do Fungi Colonize in the Body?" href="http://www.ahctherapies.com/candida-therapy/fungi-colonize-body/">How do Fungi Colonize in the Body?</a></li>
+	</ul>
+</li>
+	<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-105 dropdown"><a title="Oxygen-Ozone Therapy" href="http://www.ahctherapies.com/oxygen-ozone-therapy/">Oxygen-Ozone Therapy</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a title="Oxygen-Ozone Sauna" href="http://www.ahctherapies.com/oxygen-ozone-therapy/oxygen-ozone-sauna/">Oxygen-Ozone Sauna</a></li>
+		<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a title=" Oxygen-Ozone Treatment - Burns, Wounds, &amp; Bites" href="http://www.ahctherapies.com/oxygen-ozone-therapy/oxygen-ozone-treatment-burns-wounds-bites/">Oxygen-Ozone Treatment &#8211; Burns, Wounds, &#038; Bites</a></li>
+	</ul>
+</li>
+	<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-106 dropdown"><a title="IV Therapy" href="http://www.ahctherapies.com/iv-therapy/">IV Therapy</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a title="Treatment Protocols" href="http://www.ahctherapies.com/treatment-protocols/">Treatment Protocols</a></li>
+		<li id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-309"><a title="IV PhosphatidylCholine" href="http://www.ahctherapies.com/iv-phosphatidylcholine/">IV PhosphatidylCholine</a></li>
+		<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217"><a title="IV Glutathione" href="http://www.ahctherapies.com/iv-therapy/iv-glutathione/">IV Glutathione</a></li>
+		<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218"><a title="DMSO Therapy" href="http://www.ahctherapies.com/iv-therapy/dmso-therapy/">DMSO Therapy</a></li>
+		<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220"><a title="IV Alpha Lipoic Acid" href="http://www.ahctherapies.com/iv-therapy/iv-alpha-lipoic-acid/">IV Alpha Lipoic Acid</a></li>
+	</ul>
+</li>
+	<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a title="Hormone Replacement Therapy (HRT)" href="http://www.ahctherapies.com/hormone-therapy/">Hormone Replacement Therapy (HRT)</a></li>
+</ul>
+</li>
+<li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-335 dropdown"><a title="Supplements" href="http://www.ahctherapies.com/supplements/" data-toggle="dropdown" class="dropdown-toggle disabled">Supplements<span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a title="DMG – Di-Methyl-Glycine" href="http://www.ahctherapies.com/dmg-di-methyl-glycine/">DMG – Di-Methyl-Glycine</a></li>
+	<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a title="Liposomal Products" href="http://www.ahctherapies.com/liposomal-products/">Liposomal Products</a></li>
+	<li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a title="Liposomal Solutions, how can they benefit you?" href="http://www.ahctherapies.com/liposomal-products/liposomal-solutions-can-benefit/">Liposomal Solutions, how can they benefit you?</a></li>
+	<li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a title="Frequencies and Liposomal Products " href="http://www.ahctherapies.com/liposomal-products/frequencies-liposomal-products/">Frequencies and Liposomal Products</a></li>
+	<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a title="TA-65" href="http://www.ahctherapies.com/ta-65/">TA-65</a></li>
+</ul>
+</li>
+<li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-224 dropdown"><a title="Resting Metabolic Rate (RMR) - Weight Loss" href="http://www.ahctherapies.com/cardiocoach/" data-toggle="dropdown" class="dropdown-toggle disabled">Resting Metabolic Rate (RMR) &#8211; Weight Loss<span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219"><a title="Lipotropic B-12-B-Complex Injections" href="http://www.ahctherapies.com/iv-therapy/lipotropic-b-12-b-complex-injections/">Lipotropic B-12-B-Complex Injections</a></li>
+	<li id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a title="Food Allergy Testing" href="http://www.ahctherapies.com/kinesiology/testing-allergies-kinesiology/">Food Allergy Testing</a></li>
+</ul>
+</li>
+<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a title="Blog" href="http://www.ahctherapies.com/blog/">Blog</a></li>
+<li id="menu-item-388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388"><a title="Online Store" href="http://www.ahctherapies.com/online-store/">Online Store</a></li>
+</ul>						</div>
+						<div class="search col-md-3 hidden-sm hidden-xs">
+							<!-- elegantbiz form -->
+<form method="get" id="searchform" action="">
+	<div class="input-append">
+		<input type="text" value="" placeholder="Search..." name="s" id="s" />
+		<button type="submit" class="btn search show_search"><i class="icon-search black"></i></button>
+	</div>
+</form>
+<div class="clearfix"></div>
+
+<!-- bootstrap form -->
+<!-- <form class="navbar-form navbar-left" role="search">
+	<div class="form-group">
+		<input type="text" class="form-control" placeholder="Search">
+	</div>
+	<button type="submit" class="btn btn-default">Submit</button>
+</form> -->
+
+						</div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</nav>
+			<div class="clearfix"></div>
+					
+        <!-- Display the title of page -->
+        		<header class="post-header">
+			<div class="container">
+									<div class="col-md-8">
+						
+						<h1 class="">
+							<a href="http://www.ahctherapies.com/services/" rel="bookmark">
+								Services							</a>
+						</h1>
+						<span></span>
+
+											</div>
+					<div class="col-md-4">
+						<div class="breadcrumbs pull-right "> <a class="home" href="http://www.ahctherapies.com">Home</a> <span class="divider">/</span> <span class="current">Services</span></div>					</div>
+							</div>
+		</header>
+				<div class="clearfix"></div>
+		<div id="content">
+			<div class="container">
+			
+									<div class="col-md-8">						
+					<article id="post-29" class="post-29 page type-page status-publish hentry" >
+												<div class="entry">
+							<p style="text-align: center;"><a href="http://www.ahctherapies.com/wp-content/uploads/2014/10/b12-injections.png"><img class="aligncenter wp-image-208 size-thumbnail" src="http://www.ahctherapies.com/wp-content/uploads/2014/10/b12-injections-150x150.png" alt="b12-injections" width="150" height="150" /></a>All our services are performed with the most care and accuracy.  We have gone through extensive training and we are aptly qualified to provide you with the best possible treatment outcome.</p>
+<p style="text-align: center;">Listed below are the many therapies that we offer and a small amount of information about the therapy.   If you would like more detailed information on the therapy please go to the ARTICLES page and find the article related to the therapy.</p>
+<p> <a href="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_133497002_XS.jpg"><img class="aligncenter wp-image-288 size-medium" src="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_133497002_XS-300x200.jpg" alt="Doctor giving injection to patient" width="300" height="200" /></a></p>
+<p><strong>B-12, B-Complex Lipotropic Injections for Weight Loss</strong> &#8211; these injections stimulate the metabolism, increase energy production and give you a strong advantage in reaching your fitness goals. Injections typically are done once per week for 5-10 weeks, exercise is recommended during the course of injections to speed up the results. Package prices are available call for details.</p>
+<p><iframe width="600" height="338" src="https://www.youtube.com/embed/3WqzNr2siSs?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p><strong>MicroNutrient IV Therapy</strong> – High dose vitamin C (15-100g), Alpha Lipoic Acid (ALA), Myers Cocktail, EDTA Chelation, Hydrogen Peroxide, Phosphatidylcholine, Anti-Migraine IV, Sodium Bicarbonate, Macular Degeneration IV, Glutathione, Pre/Post Operative Nutrient IV  and so many more!!</p>
+<p><a href="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_61804763_S.jpg"><img class="aligncenter wp-image-285 size-medium" src="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_61804763_S-300x200.jpg" alt="3 syringes and ampoules" width="300" height="200" /></a></p>
+<p><strong>PRP Injections &amp; Prolozone Therapy</strong> – Wendee Burnett CFNP performs the prolozone injections and can help relieve chronic pain in the muscles, joints or nerves. Prolozone injections are a combination of B-12/Folic Acid, Dextrose, Saline, Sodium Bicarbonate, various homeopathics and Oxygen/Ozone gas. Very powerful and effective.</p>
+<p><iframe width="600" height="338" src="https://www.youtube.com/embed/LI3xD53teks?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p><strong>Esthetic Services</strong> &#8211; PRP Microneedling for smoothing of the skin and anti-wrinkle therapy.  RF Facials to tighten the skin. Ultrasonic and Laser Lipo (non-invasive) for fat reduction and skin tightening.  Hydration IV  Therapy in combination of any of these therapies makes them far more effective.  We also offer skin peels and Enzyme facial peels.  For those of you who want to fly in to ABQ for a 3 day beauty retreat we have special packages just for you! Get pampered <strong>3 full days</strong> in a row and afterward you not only <strong>feel amazing</strong>, you&#8217;ll <strong>look amazing</strong>!</p>
+<p><a href="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_130967934_S.jpg"><img class="aligncenter wp-image-287 size-medium" src="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_130967934_S-300x200.jpg" alt="Syringe, saline, and injections doses" width="300" height="200" /></a></p>
+<p><strong>Urine, Hair &amp; Saliva Analysis</strong> &#8211; Find out if you have Heavy Metal Toxicity, Parasites, Bacterial/Viral/Fungal/mold infections, Chemical and Inhalant testing and so much more. The Kit includes all supplies needed (saliva and urine collection containers/bag), cost also includes analysis results.</p>
+<p>Analysis results are reviewed by our team of Professional Homotoxicologists, Herbalists and our Nutritionist to determine what is happening in your body and what you need to do to fix the problem areas. Stop wondering about how toxic you are and find out why you have aches and pains, perhaps even find what could cause a serious symptoms. *this test is for educational purposes only, not diagnosis or treatment of any illness or disease.  Call us directly to order your kit <strong>(505) 821-9609</strong></p>
+<div id="attachment_45" style="width: 160px" class="wp-caption aligncenter"><a href="http://www.ahctherapies.com/wp-content/uploads/2014/09/Candida-Yeast-Culture175.jpg"><img class="wp-image-45 size-thumbnail" src="http://www.ahctherapies.com/wp-content/uploads/2014/09/Candida-Yeast-Culture175-150x150.jpg" alt="Candida Yeast Culture" width="150" height="150" /></a><p class="wp-caption-text">Candida Yeast Culture</p></div>
+<p><strong>Anti-Candida Therapy</strong> – Dr. Tulio Simoncini MD (www.cancerfungus.com) discovered that sodium bicarbonate kills candida and when the candida is dead, the body can focus on more important health problems like cancer. We traveled to Italy to learn directly from Dr Simoncini so we can carry out this therapy with more expertise than anyone else in this country! This therapy trumps all other anti-candida therapies. We get all the people who have done everything else and we are the ones who finally help them kill the fungus that’s been plaguing them for so long. We have even seen clients who have gone to other clinics to supposedly get this treatment done and come to us afterwards because it was done incorrectly. Don’t waste your time, come to the best! <strong>Anti-Candida programs are typically 3 weeks long.</strong></p>
+<p><strong>Kinesiology</strong> – testing to provide information on your body’s nutritional needs, heavy metal toxicity, allergens, viruses, bacteria, fungi, mold and parasites. Not only can Kinesiology be used to determine a problem in the body, but also a solution.</p>
+<p><strong>Food &amp; Allergen Screening (No Needles)</strong> – Fruits, vegetables, grains, meats/poultry, multiple types of fish and seasonal pollens as well, over 250 substances tested.</p>
+<p><strong>Energy Integrations</strong> – Integrate all parts of your being (body, mind, soul, spirit, ether/energy) together to strengthen your focus on attaining your goal.  Integrations focus all of who you are as a person toward the goal you’re attempting to accomplish, whether that’s health related or if its financial, marital, or sports related, integrations take you to the next level in your development as a person.</p>
+<p><a href="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_18193012_XS.jpg"><img class="aligncenter wp-image-270 size-medium" src="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_18193012_XS-300x199.jpg" alt="Microscope" width="300" height="199" /></a></p>
+<p>&nbsp;</p>
+<p><strong>Live Blood Analysis</strong> – Digestive function, organ toxicity and free radical damage can all be seen in live blood when looked at under a microscope.  Bacteria (Lyme’s and related co-infections) and parasites (blood/lymph/liver flukes) can also be seen and treatment progress can be monitored. Your blood should show changes if your health is improving!</p>
+<p><a href="http://www.ahctherapies.com/wp-content/uploads/2014/10/Oxygen-Ozone-Sauna.png"><img class="aligncenter wp-image-213 size-medium" src="http://www.ahctherapies.com/wp-content/uploads/2014/10/Oxygen-Ozone-Sauna-220x300.png" alt="Oxygen-Ozone-Sauna" width="220" height="300" /></a></p>
+<p><strong>Oxygen/Ozone Therapy</strong> – Internal administration of Oxygen/Ozone gas to strengthen (and regulate) the immune system, decrease bacteria/virus/fungi/mold presence in the body, increase energy levels and metabolism, plus so much more.  This is one of the best therapies we could ever offer!</p>
+<p><strong>Ozone Sauna</strong> – Very relaxing and incredibly therapeutic steam sauna filled with pure Oxygen/Ozone.  One of the best things about this style of sauna is that your head is not inside the steam, so your face feels nice and cool and you don’t breathe hot moist air.  Burn up to 600 calories during this relaxing metabolic booster and rejuvenate all your muscles while stimulating detoxification.</p>
+<p>&nbsp;</p>
+<p><a href="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_68822999_S.jpg"><img class="aligncenter wp-image-286 size-medium" src="http://www.ahctherapies.com/wp-content/uploads/2014/09/Fotolia_68822999_S-300x145.jpg" alt="scientist doctor hand holds virtual molecular structure in the l" width="300" height="145" /></a></p>
+<p><strong>Oral Liposomal Therapy</strong> – Christopher Hall has produced a new form of equipment which can take any of our IV therapies and turn them into a liposomal solution that can be taken by mouth (No Needles!) and deliver the same nutrients to your cells but in a more effective manner.</p>
+<p><strong>Electrostim/Micro-Currant Therapy</strong> – Chronic and acute pain relief through gentle electrical stimulation of the muscles, using ultrasonic frequencies.  Cellulite decreasing frequencies through electrical impulses are sent to target areas where fat deposits have settled and are hard to burn with traditional exercise.</p>
+<p><a href="http://www.ahctherapies.com/wp-content/uploads/2014/10/skin-protecting-body-from-bacteria.png"><img class="aligncenter wp-image-202 size-medium" src="http://www.ahctherapies.com/wp-content/uploads/2014/10/skin-protecting-body-from-bacteria-300x184.png" alt="skin-protecting-body-from-bacteria" width="300" height="184" /></a></p>
+<p><strong>Hypnosis/Meditation</strong> – Using brain wave frequencies we can bring your life into balance with guided meditation and hypnosis.  Get through the blocks and sabotage that keep you from reaching the stars.  Christopher has worked with multiple professional athletes to help them become world champions and in some cases multiple world title holders.  He has also helped people to overcome negative thought around cancer, fears, phobias and even addictions.</p>
+<p><strong>Metabolic Testing</strong> – This very sophisticated test takes only 10 minutes to complete.  What we do is measure the amount of oxygen you inhale verses the amount of CO2 you exhale, along with your heart rate.  This gives us your metabolic rate, meaning how many calories you burn every day.  It also provides detailed information on the amount of Carbs and Fat you burn every day, so we can build a custom meal plan and exercise plan for you to meet your goals. No more wondering if you have a slow metabolism because you can’t lose weight, get tested and get healthy!!!</p>
+<p><strong>VO2/CO2 Max Testing</strong> – Ready to take your workouts to the next level? Get tested with our VO2/CO2 Max testing, so we can help you to understand how to get the most out of your training and excel beyond what you ever thought possible.  If you’re already a regular exerciser, you might as well get detailed information on what exactly your body’s doing during the workout so you can perform better and make the most of the time you spend training.</p>
+<p><a href="http://www.ahctherapies.com/wp-content/uploads/2014/10/cardiocoach_001.png"><img class="aligncenter wp-image-189 size-medium" src="http://www.ahctherapies.com/wp-content/uploads/2014/10/cardiocoach_001-300x187.png" alt="cardiocoach_001" width="300" height="187" /></a></p>
+<p><iframe width="600" height="338" src="https://www.youtube.com/embed/DLvvxSqpwBo?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+						</div>
+												<!-- asd -->
+					</article>
+
+																									<div class="clearfix"></div>
+										<div class="clearfix"></div> <!-- to prevent pagination filling the gaps of unclosed columns -->
+					<div id="posts_navigation">
+											</div>
+					
+
+				</div> <!-- end col-md -->
+				<div class="col-md-4">
+	<div id="ibt_google_maps-2" class="sidebar-box widget widget_ibt_google_maps"><h3>Find Us</h3>		<div class="well"><iframe class="google_maps_iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.8303305405893!2d-106.597163!3d35.160851999999984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8722745b2eddd21f%3A0xb028121eca50e1d7!2sAlternative+Health+Concepts!5e0!3m2!1sen!2sus!4v1413069041459&amp;output=embed" ></iframe></div>
+		</div><div id="awp_contactinfo-2" class="sidebar-box widget widget_awp_contactinfo"><h3>Contact Us</h3>		<div class="contactinfo">
+						<div class="contact-item">
+				<i class="icon-phone small"></i>
+				<a href="tel:505-821-9609">505-821-9609				</a>
+			</div>
+			
+						<div class="contact-item">
+				<a href="mailto:NatalieAHC@yahoo.com">
+					<i class="icon-envelope"></i>&nbsp;NatalieAHC@yahoo.com				</a>
+			</div>
+			
+						<div class="contact-item">
+				<i class="icon-location2"></i>&nbsp;4120A Ellison St NE, Albuquerque, NM 87109			</div>
+						
+					</div>
+		<div class="social-profile">
+			
+			<a href="https://www.facebook.com/pages/Alternative-Health-Concepts-AHC-LLC/170482892964269" class="icon-facebook awp-icon-1x awp-icon-type-round"></a>
+			
+			<a href="https://twitter.com/microInfusions" class="icon-twitter awp-icon-1x awp-icon-type-round"></a>
+			
+			<a href="#" class="icon-feed2 awp-icon-1x awp-icon-type-round"></a>
+			
+			<a href="https://www.youtube.com/channel/UCf081rKYNVes_smPIn8Ut5A" class="icon-iconmonstr-youtube-icon awp-icon-1x awp-icon-type-round"></a>
+					</div>
+		</div><div id="text-4" class="sidebar-box widget widget_text"><h3>                              Best Alternative Wellness Practice</h3>			<div class="textwidget"><img src="http://ahctherapies.com/wp-includes/images/best-in-albuquerque-award.jpg" alt="Best Alternative Wellness Practice"></div>
+		</div><div id="text-3" class="sidebar-box widget widget_text"><h3>We Love Feedback!</h3>			<div class="textwidget"><a href="http://bit.ly/ReviewAHC" target="_blank">Please Tell Us About Your Visit</a></div>
+		</div></div>			</div> <!-- end container -->
+		</div> <!-- end content -->
+
+		<footer>
+						<div id="bottom-bar">
+				<div class="container">
+					<div class="bottombar_columns"><h3>Testimonial</h3>	
+		<div id="myCarousel_testi" class="carousel slide">
+
+			<div class="carousel-nav pull-right">
+				<a class="" href="#myCarousel_testi" data-slide="prev"><span class="icon-arrow-left5"></span></a>
+				<a class="" href="#myCarousel_testi" data-slide="next"><span class="icon-arrow-right5"></span></a>
+			</div>
+
+			<ul class="carousel-inner">
+				<li class="item"><div class="testimonial"><i class="icon-quotes-left">&nbsp</i><span class="quotes">&nbspI had been taking antibiotics for an infection.  As always when on antibiotics, I got a yeast infection. The Ozone treatment took care of the yeast infection right away. I also used to get migraine headaches 2 or 3 per week since I started my ozone treatments they haven’t returned.  </span>
+					<br /><div class="clearfix"></div>
+					<span class="pull-right"><strong>H.E. Rio Rancho, NM</strong></span><div class="clearfix"></div></div></li><li class="item"><div class="testimonial"><i class="icon-quotes-left">&nbsp</i><span class="quotes">&nbsp“Ozone therapy helped to clear up my 4-year-old daughter's cyst on her neck in just a few weeks, and it's helped with my stretch marks that are four years old! They appear much lighter after only one treatment and my skin tone was firmer. I look forward to continuing our family's ozone treatments. I’m a 22-year-old mother of two.” </span>
+					<br /><div class="clearfix"></div>
+					<span class="pull-right"><strong>D.P. Albuquerque, NM</strong></span><div class="clearfix"></div></div></li><li class="item"><div class="testimonial"><i class="icon-quotes-left">&nbsp</i><span class="quotes">&nbsp“I have had great experiences with ozone treatments. For myself, after my first ozone treatment, I had a huge energy boost and felt really great. My husband, had a head cold & felt very awful but couldn’t get in for a treatment. I took him a glass of ozone water, which cleared up his head cold within the hour. He felt great & continued to feel great the following days after. I also use the ozone lip balm, and my lips feel much softer. I recommend ozone for every sickness or illness that you may have.”   </span>
+					<br /><div class="clearfix"></div>
+					<span class="pull-right"><strong>L.M.B. Albuquerque, NM </strong></span><div class="clearfix"></div></div></li><li class="item"><div class="testimonial"><i class="icon-quotes-left">&nbsp</i><span class="quotes">&nbsp“My daughter is 28 years old and has a very progressive form of Multiple Sclerosis.  She has had it for 4 years and we have noticed improvements during the ozone treatments over the last month.  She has more strength in her voice, the shaking in her muscles has calmed down, the numbness in her legs has gone away and they are getting stronger.  We are going to stick with the treatments because we can see the difference.”  </span>
+					<br /><div class="clearfix"></div>
+					<span class="pull-right"><strong>L.L.  Albuquerque, NM</strong></span><div class="clearfix"></div></div></li><li class="item"><div class="testimonial"><i class="icon-quotes-left">&nbsp</i><span class="quotes">&nbsp“Over a year and a half ago I began seeing Natalie at Alternative Health Concepts. During that time, I have been immensely impressed with the treatments and all of the various modalities they offer. I have seen my health steadily increase over time. Chris and Natalie are constantly striving to ensure that they have the most recent equipment and a variety of treatment options to ensure optimal health. In recent months, they have incorporated the ozone therapy, which I have been very excited about. It has helped me tremendously with skin, digestive, and menstrual problems. It has been great for my kids, too! The treatments are always done in a professional and comfortable manner. I highly recommend Alternative Health Concepts for ANY person who wants to work on prevention as well as those dealing with illness.”</span>
+					<br /><div class="clearfix"></div>
+					<span class="pull-right"><strong> J.C. Albuquerque, NM</strong></span><div class="clearfix"></div></div></li>			</ul>
+
+					</div>
+		<div class="clearfix"></div></div><div class="bottombar_columns"><h3>Recent Comments</h3><ul class='recent_comments'>	        <li>
+	        	<div class="pull-left comments-thumb">
+		          <a class="mytooltip" href="http://www.ahctherapies.com/liposomal-products/immune-boost-mineralization/#comment-57" title="Anthony"><img alt='' src='http://1.gravatar.com/avatar/f31ea0acbac6c6ed67c519a3045ac4b5?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		          </a>
+	        	</div>
+				<div>
+					<a href="http://www.ahctherapies.com/liposomal-products/immune-boost-mineralization/#comment-57" title="Anthony">
+					Since going Primal last summer, my vegan buddy and I have some very explicit differences of opinion....
+				</div>
+	       <div class="clearfix"></div>
+	      </li>
+	      	        <li>
+	        	<div class="pull-left comments-thumb">
+		          <a class="mytooltip" href="http://www.ahctherapies.com/liposomal-products/liposomal-solutions-can-benefit/#comment-56" title="David"><img alt='' src='http://1.gravatar.com/avatar/f31ea0acbac6c6ed67c519a3045ac4b5?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		          </a>
+	        	</div>
+				<div>
+					<a href="http://www.ahctherapies.com/liposomal-products/liposomal-solutions-can-benefit/#comment-56" title="David">
+					I read about the effectiveness of grape seed extract encapsulated in liposomes to inhibit the format...
+				</div>
+	       <div class="clearfix"></div>
+	      </li>
+	      	        <li>
+	        	<div class="pull-left comments-thumb">
+		          <a class="mytooltip" href="http://www.ahctherapies.com/liposomal-products/#comment-55" title="Juan"><img alt='' src='http://1.gravatar.com/avatar/f31ea0acbac6c6ed67c519a3045ac4b5?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		          </a>
+	        	</div>
+				<div>
+					<a href="http://www.ahctherapies.com/liposomal-products/#comment-55" title="Juan">
+					I've read how they have investigated the encapsulation mechanism of enzymes into liposomes. The exis...
+				</div>
+	       <div class="clearfix"></div>
+	      </li>
+	      	        <li>
+	        	<div class="pull-left comments-thumb">
+		          <a class="mytooltip" href="http://www.ahctherapies.com/kinesiology/testing-allergies-kinesiology/#comment-54" title="Richard"><img alt='' src='http://1.gravatar.com/avatar/f31ea0acbac6c6ed67c519a3045ac4b5?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		          </a>
+	        	</div>
+				<div>
+					<a href="http://www.ahctherapies.com/kinesiology/testing-allergies-kinesiology/#comment-54" title="Richard">
+					My trip to the applied kinesiologist inspired a rage inside that surprised me. I felt furious, and I...
+				</div>
+	       <div class="clearfix"></div>
+	      </li>
+	      	        <li>
+	        	<div class="pull-left comments-thumb">
+		          <a class="mytooltip" href="http://www.ahctherapies.com/cardiocoach/#comment-53" title="Francis"><img alt='' src='http://1.gravatar.com/avatar/f31ea0acbac6c6ed67c519a3045ac4b5?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		          </a>
+	        	</div>
+				<div>
+					<a href="http://www.ahctherapies.com/cardiocoach/#comment-53" title="Francis">
+					I assume this machine is used to also measure the fitness levels of persons.  I saw a TV ad which sh...
+				</div>
+	       <div class="clearfix"></div>
+	      </li>
+	      </ul></div><div class="bottombar_columns"><h3>News &amp; Events</h3>			<div class="textwidget"><img src="http://www.ahctherapies.com/wp-includes/images/alternative-health-news300.jpg" alt="Alternative Health Concepts News">
+&nbsp;
+&nbsp;
+&nbsp;
+<!-- BEGIN: Constant Contact Email List Form Button --><div align="center"><a href="http://visitor.r20.constantcontact.com/d.jsp?llr=cgq5luqab&amp;p=oi&amp;m=1117375119554&amp;sit=nttgjeyib&amp;f=6157dcbc-e25a-4a13-9777-67517897bbb2" class="button" style="border: 1px solid rgb(91, 91, 91); color: rgb(116, 115, 50); display: inline-block; padding: 8px 10px; text-shadow: none; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px; background-color: rgb(222, 203, 169);">Sign Up To Stay In Touch!</a><!-- BEGIN: Health News You Can Trust! --><div id="ctct_button_footer" align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:20px;color:#999999;margin-top: 10px;">Health News You Can Trust!</div></div></div>
+		</div>				</div>
+			</div>
+									<div id="footer-bar" class="visible-md visible-lg">
+				<div class="container">
+					<div class="copyright pull-left">
+												Alternative Health Concepts, AHC LLC Copyright © 2014  Design <a href=					</div>
+					<div class="footer-nav pull-right">
+						<ul class="footernav"><li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="http://www.ahctherapies.com/terms/">Terms</a></li>
+<li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a href="http://www.ahctherapies.com/privacy/">Privacy</a></li>
+<li id="menu-item-247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-247"><a href="http://www.ahctherapies.com/blog/">Blog</a></li>
+</ul>					</div>
+				</div>
+			</div>
+		</footer> <!-- end footer -->
+	</div> <!-- end wrapper -->
+	<div class="to-top">
+		<p id="back-top"><a href="#top" title="Back to Top" class="icon-arrow-up5"></a></p>
+	</div>
+	<!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
+<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls" data-use-bootstrap-modal="false">
+    <!-- The container for the modal slides -->
+    <div class="slides"></div>
+    <!-- Controls for the borderless lightbox -->
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+    <!-- The modal dialog, which will be used to wrap the lightbox content -->
+    <div class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title"></h4>
+                </div>
+                <div class="modal-body next"></div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default pull-left prev">
+                        <i class="glyphicon glyphicon-chevron-left"></i>
+                        Previous
+                    </button>
+                    <button type="button" class="btn btn-primary next">
+                        Next
+                        <i class="glyphicon glyphicon-chevron-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>			<script>
+				(function($) {
+					$('.bottombar_columns').addClass('col-md-4');
+				})(jQuery);
+			</script>
+				
+		<script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
+		<!-- gplus -->
+		<script type="text/javascript">
+		  (function() {
+		    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		    po.src = 'https://apis.google.com/js/plusone.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })();
+		</script><script type='text/javascript' src='http://www.ahctherapies.com/wp-includes/js/jquery/ui/jquery.ui.effect.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-includes/js/jquery/ui/jquery.ui.effect-bounce.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/js/bootstrap.min.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/inc/parallax/js/jquery.cslider.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/inc/parallax/js/modernizr.custom.28468.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/js/contact-form.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/js/hoverIntent.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/inc/countdown/jquery.jcountdown.min.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/inc/bootstrap-gallery/js/jquery.blueimp-gallery.min.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/inc/bootstrap-gallery/js/bootstrap-image-gallery.min.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/js/PrettyPhotoSettings.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/themes/newElegantBiz/js/awp_jquery.js?ver=1'></script>
+<script type='text/javascript' src='http://www.ahctherapies.com/wp-content/plugins/a10-imaio/util/js/common.js?ver=4.0.1'></script>
+	
+</body> <!-- end mobile detection -->

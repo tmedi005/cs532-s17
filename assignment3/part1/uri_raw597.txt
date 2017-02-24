@@ -1,0 +1,1221 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Shizuoka Prefecture - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Shizuoka_Prefecture","wgTitle":"Shizuoka Prefecture","wgCurRevisionId":766312494,"wgRevisionId":766312494,"wgArticleId":180999,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Japanese-language text","Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from July 2010","Articles to be expanded from October 2015","All articles to be expanded","Articles using small message boxes","Commons category with local link same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with ISNI identifiers","Pages using ISBN magic links","Shizuoka Prefecture","Chūbu region","Prefectures of Japan"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Shizuoka_Prefecture","wgRelevantArticleId":180999,"wgRequestId":"WKuKpgpAAD0AABzXaGEAAABK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":34.916666666667,"lon":138.31666666667},"wgWikibaseItemId":"Q131320","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.12"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Map_of_Japan_with_highlight_on_22_Shizuoka_prefecture.svg/1200px-Map_of_Japan_with_highlight_on_22_Shizuoka_prefecture.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Shizuoka_Prefecture"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Shizuoka_Prefecture"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Shizuoka_Prefecture rootpage-Shizuoka_Prefecture skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Shizuoka Prefecture</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span style="position:relative; bottom:0.2em;">Shizuoka Prefecture</span></span><br />
+<span class="nickname"><span style="position: relative; top: 0.1em;"><span style="font-weight:normal;"><span lang="ja"><span lang="ja">静岡県</span></span></span></span></span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category"><a href="/wiki/Prefectures_of_Japan" title="Prefectures of Japan">Prefecture</a></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center">Japanese&#160;transcription(s)</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Japanese_language" title="Japanese language">Japanese</a></th>
+<td><span lang="ja">静岡県</span></td>
+</tr>
+<tr class="mergedbottomrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Romanization_of_Japanese" title="Romanization of Japanese">Rōmaji</a></th>
+<td>Shizuoka-ken</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flag_of_Shizuoka_Prefecture.svg" class="image" title="Flag of Shizuoka Prefecture"><img alt="Flag of Shizuoka Prefecture" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Shizuoka_Prefecture.svg/100px-Flag_of_Shizuoka_Prefecture.svg.png" width="100" height="67" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Shizuoka_Prefecture.svg/150px-Flag_of_Shizuoka_Prefecture.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Shizuoka_Prefecture.svg/200px-Flag_of_Shizuoka_Prefecture.svg.png 2x" data-file-width="1200" data-file-height="800" /></a><br />
+<small><b>Flag</b></small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Emblem_of_Shizuoka_prefecture.png" class="image" title="Official logo of Shizuoka Prefecture"><img alt="Official logo of Shizuoka Prefecture" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Emblem_of_Shizuoka_prefecture.png/100px-Emblem_of_Shizuoka_prefecture.png" width="100" height="66" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Emblem_of_Shizuoka_prefecture.png/150px-Emblem_of_Shizuoka_prefecture.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Emblem_of_Shizuoka_prefecture.png/200px-Emblem_of_Shizuoka_prefecture.png 2x" data-file-width="2054" data-file-height="1346" /></a><br />
+<small><b>Symbol of Shizuoka Prefecture</b></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Map_of_Japan_with_highlight_on_22_Shizuoka_prefecture.svg" class="image" title="Location of Shizuoka Prefecture"><img alt="Location of Shizuoka Prefecture" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Map_of_Japan_with_highlight_on_22_Shizuoka_prefecture.svg/250px-Map_of_Japan_with_highlight_on_22_Shizuoka_prefecture.svg.png" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Map_of_Japan_with_highlight_on_22_Shizuoka_prefecture.svg/375px-Map_of_Japan_with_highlight_on_22_Shizuoka_prefecture.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Map_of_Japan_with_highlight_on_22_Shizuoka_prefecture.svg/500px-Map_of_Japan_with_highlight_on_22_Shizuoka_prefecture.svg.png 2x" data-file-width="1024" data-file-height="1024" /></a></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Shizuoka_Prefecture&amp;params=34_55_N_138_19_E_region:JP-22_type:city(3774471)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">34°55′N</span> <span class="longitude">138°19′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">34.917°N 138.317°E</span><span style="display:none">﻿ / <span class="geo">34.917; 138.317</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Shizuoka_Prefecture&amp;params=34_55_N_138_19_E_region:JP-22_type:city(3774471)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">34°55′N</span> <span class="longitude">138°19′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">34.917°N 138.317°E</span><span style="display:none">﻿ / <span class="geo">34.917; 138.317</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Japan" title="Japan">Japan</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_regions_of_Japan" title="List of regions of Japan">Region</a></th>
+<td><a href="/wiki/Ch%C5%ABbu_region" title="Chūbu region">Chūbu</a> (<a href="/wiki/T%C5%8Dkai_region" title="Tōkai region">Tōkai</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_islands_of_Japan" title="List of islands of Japan">Island</a></th>
+<td><a href="/wiki/Honshu" title="Honshu">Honshu</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_capitals_in_Japan" title="List of capitals in Japan">Capital</a></th>
+<td><a href="/wiki/Shizuoka,_Shizuoka" title="Shizuoka, Shizuoka">Shizuoka</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/List_of_prefectural_governors_in_Japan" title="List of prefectural governors in Japan">Governor</a></th>
+<td><a href="/wiki/Heita_Kawakatsu" title="Heita Kawakatsu">Heita Kawakatsu</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>7,779.63&#160;km<sup>2</sup> (3,003.73&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Area rank</th>
+<td><a href="/wiki/List_of_Japanese_prefectures_by_area" title="List of Japanese prefectures by area">13th</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(July 1, 2010)</span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>3,774,471</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Rank</th>
+<td><a href="/wiki/List_of_Japanese_prefectures_by_population" title="List of Japanese prefectures by population">10th</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>485.17/km<sup>2</sup> (1,256.6/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td class="nickname">JP-22</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Districts_of_Japan" title="Districts of Japan">Districts</a></th>
+<td>5</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Municipalities_of_Japan" title="Municipalities of Japan">Municipalities</a></th>
+<td>35</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Flower</th>
+<td><a href="/wiki/Azalea" title="Azalea">Azalea</a> (<i>Rhododenron</i>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Tree</th>
+<td><a href="/wiki/Sweet_osmanthus" class="mw-redirect" title="Sweet osmanthus">Sweet osmanthus</a> (<i>Osmanthus fragrans</i> var. <i>aurantiacus</i>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Bird</th>
+<td><a href="/wiki/Japanese_paradise_flycatcher" title="Japanese paradise flycatcher">Japanese paradise flycatcher</a> (<i>Terpsiphone atrocaudata</i>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.pref.shizuoka.jp/a_foreign/english">www<wbr />.pref<wbr />.shizuoka<wbr />.jp<wbr />/a<wbr />_foreign<wbr />/english</a></span></td>
+</tr>
+</table>
+<p><b>Shizuoka Prefecture</b> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">静岡県</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Shizuoka-ken</i><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span> is a <a href="/wiki/Prefectures_of_Japan" title="Prefectures of Japan">prefecture</a> of <a href="/wiki/Japan" title="Japan">Japan</a> located in the <a href="/wiki/Ch%C5%ABbu_region" title="Chūbu region">Chūbu region</a> of <a href="/wiki/Honshu" title="Honshu">Honshu</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The capital is the city of <a href="/wiki/Shizuoka,_Shizuoka" title="Shizuoka, Shizuoka">Shizuoka</a>, while <a href="/wiki/Hamamatsu" title="Hamamatsu">Hamamatsu</a> is the largest city by population.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mt_fuji_with_a_duck.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mt_fuji_with_a_duck.JPG/220px-Mt_fuji_with_a_duck.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mt_fuji_with_a_duck.JPG/330px-Mt_fuji_with_a_duck.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mt_fuji_with_a_duck.JPG/440px-Mt_fuji_with_a_duck.JPG 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mt_fuji_with_a_duck.JPG" class="internal" title="Enlarge"></a></div>
+View of Mt. Fuji from Fujinomiya</div>
+</div>
+</div>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Tokai_earthquakes"><span class="tocnumber">2.1</span> <span class="toctext">Tokai earthquakes</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Cities"><span class="tocnumber">2.2</span> <span class="toctext">Cities</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Towns"><span class="tocnumber">2.3</span> <span class="toctext">Towns</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Mergers"><span class="tocnumber">2.4</span> <span class="toctext">Mergers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Climate"><span class="tocnumber">3</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Transportation"><span class="tocnumber">4</span> <span class="toctext">Transportation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Rail"><span class="tocnumber">4.1</span> <span class="toctext">Rail</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Roads"><span class="tocnumber">4.2</span> <span class="toctext">Roads</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Expressways"><span class="tocnumber">4.2.1</span> <span class="toctext">Expressways</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Toll_roads"><span class="tocnumber">4.2.2</span> <span class="toctext">Toll roads</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#National_highways"><span class="tocnumber">4.2.3</span> <span class="toctext">National highways</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Airports"><span class="tocnumber">4.3</span> <span class="toctext">Airports</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Ports"><span class="tocnumber">4.4</span> <span class="toctext">Ports</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Education"><span class="tocnumber">5</span> <span class="toctext">Education</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Universities"><span class="tocnumber">5.1</span> <span class="toctext">Universities</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Senior_high_schools"><span class="tocnumber">5.2</span> <span class="toctext">Senior high schools</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Sports"><span class="tocnumber">6</span> <span class="toctext">Sports</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Basketball"><span class="tocnumber">6.1</span> <span class="toctext">Basketball</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Motorsport"><span class="tocnumber">6.2</span> <span class="toctext">Motorsport</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Rugby"><span class="tocnumber">6.3</span> <span class="toctext">Rugby</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Football"><span class="tocnumber">6.4</span> <span class="toctext">Football</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Volleyball"><span class="tocnumber">6.5</span> <span class="toctext">Volleyball</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Tourism"><span class="tocnumber">7</span> <span class="toctext">Tourism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Museums"><span class="tocnumber">7.1</span> <span class="toctext">Museums</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Festivals_and_events"><span class="tocnumber">7.2</span> <span class="toctext">Festivals and events</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Historic_Sites_of_Shizuoka_Prefecture" class="mw-redirect" title="Historic Sites of Shizuoka Prefecture">Historic Sites of Shizuoka Prefecture</a></div>
+<p>Shizuoka Prefecture was formed from the former <a href="/wiki/T%C5%8Dt%C5%8Dmi_Province" title="Tōtōmi Province">Tōtōmi</a>, <a href="/wiki/Suruga_Province" title="Suruga Province">Suruga</a> and <a href="/wiki/Izu_Province" title="Izu Province">Izu</a> provinces.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>The area was the home of the first Tokugawa Shogun.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2010)">citation needed</span></a></i>]</sup> <a href="/wiki/Tokugawa_Ieyasu" title="Tokugawa Ieyasu">Tokugawa Ieyasu</a> held the region until he conquered the lands of the <a href="/wiki/H%C5%8Dj%C5%8D_clan" title="Hōjō clan">Hōjō clan</a> in the <a href="/wiki/Kant%C5%8D_region" title="Kantō region">Kantō region</a> and placed land under the stewardship of <a href="/wiki/Oda_Nobunaga" title="Oda Nobunaga">Oda Nobunaga</a>. After becoming <a href="/wiki/Shogun" title="Shogun">shogun</a>, Tokugawa took the land back for his family and put the area around modern-day Shizuoka city under the direct supervision of the shogunate. With the creation of <a href="/wiki/Shizuoka_han" class="mw-redirect" title="Shizuoka han">Shizuoka han</a> in 1868, it once again became the residence of the Tokugawa family.</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=2" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Map_of_Shizuoka_Prefecture_Ja.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Map_of_Shizuoka_Prefecture_Ja.svg/220px-Map_of_Shizuoka_Prefecture_Ja.svg.png" width="220" height="172" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Map_of_Shizuoka_Prefecture_Ja.svg/330px-Map_of_Shizuoka_Prefecture_Ja.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Map_of_Shizuoka_Prefecture_Ja.svg/440px-Map_of_Shizuoka_Prefecture_Ja.svg.png 2x" data-file-width="571" data-file-height="446" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Map_of_Shizuoka_Prefecture_Ja.svg" class="internal" title="Enlarge"></a></div>
+Map of Shizuoka Prefecture</div>
+</div>
+</div>
+<p>Shizuoka Prefecture is an elongated region following the coast of the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> at the <a href="/wiki/Suruga_Bay" title="Suruga Bay">Suruga Bay</a>. In the west, the prefecture extends deep into the <a href="/wiki/Japan_Alps" class="mw-redirect" title="Japan Alps">Japan Alps</a>. In the east, it becomes a narrower coast bounded in the north by <a href="/wiki/Mount_Fuji" title="Mount Fuji">Mount Fuji</a>, until it comes to the <a href="/wiki/Izu_Peninsula" title="Izu Peninsula">Izu Peninsula</a>, a popular resort area pointing south into the Pacific.</p>
+<p>As of 1 April 2012, 11% of the total land area of the prefecture was designated as <a href="/wiki/List_of_national_parks_of_Japan#History" title="List of national parks of Japan">Natural Parks</a>, namely the <a href="/wiki/Fuji-Hakone-Izu_National_Park" title="Fuji-Hakone-Izu National Park">Fuji-Hakone-Izu</a> and <a href="/wiki/Minami_Alps_National_Park" title="Minami Alps National Park">Minami Alps</a> National Parks; <a href="/wiki/Tenry%C5%AB-Okumikawa_Quasi-National_Park" title="Tenryū-Okumikawa Quasi-National Park">Tenryū-Okumikawa Quasi-National Park</a>; and four Prefectural Natural Parks.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Tokai_earthquakes">Tokai earthquakes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=3" title="Edit section: Tokai earthquakes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/T%C5%8Dkai_earthquakes" title="Tōkai earthquakes">Tōkai earthquakes</a></div>
+<p>Throughout history, a disastrous earthquake called the Tokai earthquake has hit Shizuoka every 100 to 150 years. On Tuesday, March 15, 2011, Shizuoka Prefecture was hit with a magnitude 6.2 earthquake approximately 42&#160;km (26&#160;mi) NNE of <a href="/wiki/Shizuoka,_Shizuoka" title="Shizuoka, Shizuoka">Shizuoka City</a>.</p>
+<h3><span class="mw-headline" id="Cities">Cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=4" title="Edit section: Cities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Shizuoka_20120929_a.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Shizuoka_20120929_a.jpg/220px-Shizuoka_20120929_a.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Shizuoka_20120929_a.jpg/330px-Shizuoka_20120929_a.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Shizuoka_20120929_a.jpg/440px-Shizuoka_20120929_a.jpg 2x" data-file-width="2048" data-file-height="1360" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Shizuoka_20120929_a.jpg" class="internal" title="Enlarge"></a></div>
+Shizuoka City</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hamamatsu_15.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hamamatsu_15.JPG/220px-Hamamatsu_15.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hamamatsu_15.JPG/330px-Hamamatsu_15.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hamamatsu_15.JPG/440px-Hamamatsu_15.JPG 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hamamatsu_15.JPG" class="internal" title="Enlarge"></a></div>
+Hamamatsu</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Numazu_and_Mount_Fuji.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Numazu_and_Mount_Fuji.jpg/220px-Numazu_and_Mount_Fuji.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Numazu_and_Mount_Fuji.jpg/330px-Numazu_and_Mount_Fuji.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Numazu_and_Mount_Fuji.jpg/440px-Numazu_and_Mount_Fuji.jpg 2x" data-file-width="5184" data-file-height="3456" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Numazu_and_Mount_Fuji.jpg" class="internal" title="Enlarge"></a></div>
+Numazu and <a href="/wiki/Mount_Fuji" title="Mount Fuji">Mount Fuji</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fujinomiya_20120909.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fujinomiya_20120909.jpg/220px-Fujinomiya_20120909.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fujinomiya_20120909.jpg/330px-Fujinomiya_20120909.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fujinomiya_20120909.jpg/440px-Fujinomiya_20120909.jpg 2x" data-file-width="1920" data-file-height="1280" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fujinomiya_20120909.jpg" class="internal" title="Enlarge"></a></div>
+Fujinomiya</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Atami_view_from_ocean.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Atami_view_from_ocean.jpg/220px-Atami_view_from_ocean.jpg" width="220" height="118" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Atami_view_from_ocean.jpg/330px-Atami_view_from_ocean.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Atami_view_from_ocean.jpg/440px-Atami_view_from_ocean.jpg 2x" data-file-width="1019" data-file-height="547" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Atami_view_from_ocean.jpg" class="internal" title="Enlarge"></a></div>
+Atami</div>
+</div>
+</div>
+<p>Twenty-three cities are located in Shizuoka:</p>
+<div>
+<table class="multicol" role="presentation" style="&quot;border-collapse:">
+<tr>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Atami,_Shizuoka" title="Atami, Shizuoka">Atami</a></li>
+<li><a href="/wiki/Fuji,_Shizuoka" title="Fuji, Shizuoka">Fuji</a></li>
+<li><a href="/wiki/Fujieda,_Shizuoka" title="Fujieda, Shizuoka">Fujieda</a></li>
+<li><a href="/wiki/Fujinomiya,_Shizuoka" title="Fujinomiya, Shizuoka">Fujinomiya</a></li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Fukuroi,_Shizuoka" title="Fukuroi, Shizuoka">Fukuroi</a></li>
+<li><a href="/wiki/Gotemba,_Shizuoka" title="Gotemba, Shizuoka">Gotemba</a></li>
+<li><a href="/wiki/Hamamatsu,_Shizuoka" class="mw-redirect" title="Hamamatsu, Shizuoka">Hamamatsu</a></li>
+<li><a href="/wiki/It%C5%8D,_Shizuoka" title="Itō, Shizuoka">Itō</a></li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Iwata,_Shizuoka" title="Iwata, Shizuoka">Iwata</a></li>
+<li><a href="/wiki/Izu,_Shizuoka" title="Izu, Shizuoka">Izu</a></li>
+<li><a href="/wiki/Izunokuni,_Shizuoka" class="mw-redirect" title="Izunokuni, Shizuoka">Izunokuni</a></li>
+<li><a href="/wiki/Kakegawa,_Shizuoka" title="Kakegawa, Shizuoka">Kakegawa</a></li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Kikugawa,_Shizuoka" class="mw-redirect" title="Kikugawa, Shizuoka">Kikugawa</a></li>
+<li><a href="/wiki/Kosai,_Shizuoka" title="Kosai, Shizuoka">Kosai</a></li>
+<li><a href="/wiki/Makinohara,_Shizuoka" class="mw-redirect" title="Makinohara, Shizuoka">Makinohara</a></li>
+<li><a href="/wiki/Mishima,_Shizuoka" title="Mishima, Shizuoka">Mishima</a></li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Numazu,_Shizuoka" title="Numazu, Shizuoka">Numazu</a></li>
+<li><a href="/wiki/Omaezaki,_Shizuoka" class="mw-redirect" title="Omaezaki, Shizuoka">Omaezaki</a></li>
+<li><a href="/wiki/Shimada,_Shizuoka" title="Shimada, Shizuoka">Shimada</a></li>
+<li><a href="/wiki/Shimoda,_Shizuoka" title="Shimoda, Shizuoka">Shimoda</a></li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Shizuoka,_Shizuoka" title="Shizuoka, Shizuoka">Shizuoka</a> (capital)</li>
+<li><a href="/wiki/Susono,_Shizuoka" title="Susono, Shizuoka">Susono</a></li>
+<li><a href="/wiki/Yaizu,_Shizuoka" title="Yaizu, Shizuoka">Yaizu</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<h3><span class="mw-headline" id="Towns">Towns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=5" title="Edit section: Towns">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These are the towns in each <a href="/wiki/Districts_of_Japan" title="Districts of Japan">district</a>:</p>
+<div>
+<table class="multicol" role="presentation" style="&quot;border-collapse:">
+<tr>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Haibara_District,_Shizuoka" title="Haibara District, Shizuoka">Haibara District</a>
+<ul>
+<li><a href="/wiki/Kawanehon,_Shizuoka" class="mw-redirect" title="Kawanehon, Shizuoka">Kawanehon</a></li>
+<li><a href="/wiki/Yoshida,_Shizuoka" title="Yoshida, Shizuoka">Yoshida</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Kamo_District,_Shizuoka" title="Kamo District, Shizuoka">Kamo District</a>
+<ul>
+<li><a href="/wiki/Higashiizu,_Shizuoka" class="mw-redirect" title="Higashiizu, Shizuoka">Higashiizu</a></li>
+<li><a href="/wiki/Kawazu,_Shizuoka" title="Kawazu, Shizuoka">Kawazu</a></li>
+<li><a href="/wiki/Matsuzaki,_Shizuoka" title="Matsuzaki, Shizuoka">Matsuzaki</a></li>
+<li><a href="/wiki/Minamiizu,_Shizuoka" class="mw-redirect" title="Minamiizu, Shizuoka">Minamiizu</a></li>
+<li><a href="/wiki/Nishiizu,_Shizuoka" class="mw-redirect" title="Nishiizu, Shizuoka">Nishiizu</a></li>
+</ul>
+</li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Sh%C5%ABchi_District,_Shizuoka" title="Shūchi District, Shizuoka">Shūchi District</a>
+<ul>
+<li><a href="/wiki/Mori,_Shizuoka" title="Mori, Shizuoka">Mori</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sunt%C5%8D_District,_Shizuoka" title="Suntō District, Shizuoka">Suntō District</a>
+<ul>
+<li><a href="/wiki/Nagaizumi,_Shizuoka" class="mw-redirect" title="Nagaizumi, Shizuoka">Nagaizumi</a></li>
+<li><a href="/wiki/Oyama,_Shizuoka" title="Oyama, Shizuoka">Oyama</a></li>
+<li><a href="/wiki/Shimizu,_Shizuoka" title="Shimizu, Shizuoka">Shimizu</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tagata_District,_Shizuoka" title="Tagata District, Shizuoka">Tagata District</a>
+<ul>
+<li><a href="/wiki/Kannami,_Shizuoka" class="mw-redirect" title="Kannami, Shizuoka">Kannami</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<h3><span class="mw-headline" id="Mergers">Mergers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=6" title="Edit section: Mergers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/List_of_mergers_in_Shizuoka_Prefecture" title="List of mergers in Shizuoka Prefecture">List of mergers in Shizuoka Prefecture</a></div>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=7" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=8" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Rail">Rail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=9" title="Edit section: Rail">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/JR_East" class="mw-redirect" title="JR East">JR East</a>
+<ul>
+<li><a href="/wiki/Tokaido_Line" class="mw-redirect" title="Tokaido Line">Tokaido Line</a> (<a href="/wiki/Atami" class="mw-redirect" title="Atami">Atami</a> - <a href="/wiki/Odawara" title="Odawara">Odawara</a>)</li>
+<li><a href="/wiki/Ito_Line" class="mw-redirect" title="Ito Line">Ito Line</a></li>
+</ul>
+</li>
+<li><a href="/wiki/JR_Central" class="mw-redirect" title="JR Central">JR Central</a>
+<ul>
+<li><a href="/wiki/Tokaido_Shinkansen" class="mw-redirect" title="Tokaido Shinkansen">Tokaido Shinkansen</a></li>
+<li><a href="/wiki/Tokaido_Line" class="mw-redirect" title="Tokaido Line">Tokaido Line</a> (Atami - <a href="/wiki/Toyohashi" title="Toyohashi">Toyohashi</a>)</li>
+<li><a href="/wiki/Gotenba_Line" class="mw-redirect" title="Gotenba Line">Gotenba Line</a></li>
+<li><a href="/wiki/Minobu_Line" title="Minobu Line">Minobu Line</a></li>
+<li><a href="/wiki/Iida_Line" title="Iida Line">Iida Line</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Izu_Kyuko_Line" class="mw-redirect" title="Izu Kyuko Line">Izukyu</a></li>
+<li><a href="/wiki/Izuhakone_Railway" title="Izuhakone Railway">Izuhakone Railway</a>
+<ul>
+<li><a href="/wiki/Daiyuzan_Line" class="mw-redirect" title="Daiyuzan Line">Daiyuzan Line</a></li>
+<li><a href="/wiki/Sunzu_Line" class="mw-redirect" title="Sunzu Line">Sunzu Line</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gakunan_Railway_Line" title="Gakunan Railway Line">Gakunan Railway</a></li>
+<li><a href="/wiki/Shizuoka_Railway" title="Shizuoka Railway">Shizuoka Railway</a></li>
+<li><a href="/wiki/Oigawa_Railway" class="mw-redirect" title="Oigawa Railway">Oigawa Railway</a></li>
+<li><a href="/wiki/Enshu_Railway_Line" class="mw-redirect" title="Enshu Railway Line">Enshu Railway</a></li>
+<li><a href="/wiki/Tenryu_Hamanako_Railroad" class="mw-redirect" title="Tenryu Hamanako Railroad">Tenryu Hamanako Railroad</a></li>
+</ul>
+<h3><span class="mw-headline" id="Roads">Roads</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=10" title="Edit section: Roads">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Expressways">Expressways</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=11" title="Edit section: Expressways">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Tomei_Expressway" class="mw-redirect" title="Tomei Expressway">Tomei Expressway</a></li>
+</ul>
+<h4><span class="mw-headline" id="Toll_roads">Toll roads</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=12" title="Edit section: Toll roads">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>Shizuoka East-West Road</li>
+<li>Shizuoka South-North Road</li>
+<li>West Fuji Road (not a toll road anymore as of 2012)</li>
+<li>Fujinomiya Road</li>
+</ul>
+<h4><span class="mw-headline" id="National_highways">National highways</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=13" title="Edit section: National highways">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Japan_National_Route_1" title="Japan National Route 1">National Route 1</a></li>
+<li><a href="/wiki/Japan_National_Route_42" title="Japan National Route 42">National Route 42</a></li>
+<li><a href="/wiki/Japan_National_Route_52" title="Japan National Route 52">National Route 52</a></li>
+<li><a href="/wiki/Japan_National_Route_135" title="Japan National Route 135">National Route 135</a></li>
+<li><a href="/wiki/Japan_National_Route_136" title="Japan National Route 136">National Route 136</a></li>
+<li><a href="/wiki/Japan_National_Route_138" title="Japan National Route 138">National Route 138</a></li>
+<li><a href="/wiki/Japan_National_Route_139" title="Japan National Route 139">National Route 139</a></li>
+<li><a href="/wiki/Japan_National_Route_149" title="Japan National Route 149">National Route 149</a></li>
+<li><a href="/wiki/Japan_National_Route_150" title="Japan National Route 150">National Route 150</a></li>
+<li><a href="/wiki/Japan_National_Route_151" title="Japan National Route 151">National Route 151</a></li>
+<li><a href="/wiki/Japan_National_Route_152" title="Japan National Route 152">National Route 152</a></li>
+<li><a href="/wiki/Japan_National_Route_246" title="Japan National Route 246">National Route 246</a></li>
+<li><a href="/wiki/Japan_National_Route_257" title="Japan National Route 257">National Route 257</a></li>
+<li><a href="/wiki/Japan_National_Route_301" title="Japan National Route 301">National Route 301</a></li>
+<li><a href="/wiki/Japan_National_Route_302" title="Japan National Route 302">National Route 302</a></li>
+<li><a href="/wiki/Japan_National_Route_362" title="Japan National Route 362">National Route 362</a></li>
+<li><a href="/wiki/Japan_National_Route_414" title="Japan National Route 414">National Route 414</a></li>
+<li><a href="/wiki/Japan_National_Route_469" title="Japan National Route 469">National Route 469</a></li>
+<li><a href="/wiki/Japan_National_Route_473" title="Japan National Route 473">National Route 473</a></li>
+<li><a href="/wiki/Japan_National_Route_474" title="Japan National Route 474">National Route 474</a></li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Airports">Airports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=14" title="Edit section: Airports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Shizuoka_Airport_aircraft_in_front_of_control_tower.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Shizuoka_Airport_aircraft_in_front_of_control_tower.jpg/220px-Shizuoka_Airport_aircraft_in_front_of_control_tower.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Shizuoka_Airport_aircraft_in_front_of_control_tower.jpg/330px-Shizuoka_Airport_aircraft_in_front_of_control_tower.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Shizuoka_Airport_aircraft_in_front_of_control_tower.jpg/440px-Shizuoka_Airport_aircraft_in_front_of_control_tower.jpg 2x" data-file-width="2356" data-file-height="1767" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Shizuoka_Airport_aircraft_in_front_of_control_tower.jpg" class="internal" title="Enlarge"></a></div>
+Shizuoka Airport</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Shizuoka_Airport" title="Shizuoka Airport">Shizuoka Airport</a></li>
+</ul>
+<h3><span class="mw-headline" id="Ports">Ports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=15" title="Edit section: Ports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Shimizu Port</li>
+<li>Atami Port and Shimoda Port - Mainly ferry route to Izu Island</li>
+<li>Numazu Port</li>
+</ul>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=16" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Universities">Universities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=17" title="Edit section: Universities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Mishima
+<ul>
+<li><a href="/wiki/Juntendo_University" title="Juntendo University">Juntendo University</a> - Mishima Campus</li>
+<li><a href="/wiki/Nihon_University" title="Nihon University">Nihon University</a> - Mishima Campus</li>
+<li>The Graduate University for Advanced Studies - Mishima Campus</li>
+</ul>
+</li>
+<li>Numazu
+<ul>
+<li><a href="/wiki/Tokai_University" title="Tokai University">Tokai University</a> - Numazu Campus</li>
+</ul>
+</li>
+<li>Fuji
+<ul>
+<li><a href="/wiki/Fuji_Tokoha_University" title="Fuji Tokoha University">Fuji Tokoha University</a></li>
+</ul>
+</li>
+<li>Shizuoka
+<ul>
+<li><a href="/wiki/University_of_Shizuoka" title="University of Shizuoka">University of Shizuoka</a></li>
+<li><a href="/wiki/Shizuoka_University" title="Shizuoka University">Shizuoka University</a></li>
+<li><a href="/wiki/Shizuoka_Eiwa_Gakuin_University" title="Shizuoka Eiwa Gakuin University">Shizuoka Eiwa Gakuin University</a></li>
+<li>Tokai University - Shimizu Campus</li>
+<li><a href="/wiki/Tokoha_Gakuen_University" title="Tokoha Gakuen University">Tokoha Gakuen University</a></li>
+</ul>
+</li>
+<li>Yaizu
+<ul>
+<li><a href="/wiki/Shizuoka_University_of_Welfare" title="Shizuoka University of Welfare">Shizuoka University of Welfare</a></li>
+</ul>
+</li>
+<li>Fukuroi
+<ul>
+<li><a href="/wiki/Shizuoka_Institute_of_Science_and_Technology" title="Shizuoka Institute of Science and Technology">Shizuoka Institute of Science and Technology</a></li>
+</ul>
+</li>
+<li>Kakegawa
+<ul>
+<li>Tokyo Women's Medical - Kakegawa Campus</li>
+</ul>
+</li>
+<li>Iwata
+<ul>
+<li><a href="/wiki/Shizuoka_Sangyo_University" title="Shizuoka Sangyo University">Shizuoka Sangyo University</a></li>
+</ul>
+</li>
+<li>Hamamatsu
+<ul>
+<li><a href="/wiki/Hamamatsu_University" title="Hamamatsu University">Hamamatsu University</a></li>
+<li><a href="/wiki/Hamamatsu_Gakuin_University" title="Hamamatsu Gakuin University">Hamamatsu Gakuin University</a></li>
+<li><a href="/wiki/Hamamatsu_University_School_of_Medicine" title="Hamamatsu University School of Medicine">Hamamatsu University School of Medicine</a></li>
+<li><a href="/wiki/Shizuoka_University" title="Shizuoka University">Shizuoka University</a> - Hamamatsu Campus</li>
+<li><a href="/wiki/Shizuoka_University_of_Art_and_Culture" title="Shizuoka University of Art and Culture">Shizuoka University of Art and Culture</a></li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Senior_high_schools">Senior high schools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=18" title="Edit section: Senior high schools">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text"><span class="mbox-text-span"><b>This section needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(October 2015)</i></small></span></td>
+</tr>
+</table>
+<ul>
+<li>Numazu Commercial High School</li>
+<li><a href="/wiki/Shizuoka_Prefectural_Susono_High_School" title="Shizuoka Prefectural Susono High School">Shizuoka Prefectural Susono High School</a></li>
+<li>Shizuoka Prefectural High School</li>
+</ul>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=19" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The sports teams listed below are based in Shizuoka.</p>
+<h3><span class="mw-headline" id="Basketball">Basketball</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=20" title="Edit section: Basketball">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/SAN-EN_NeoPhoenix" title="SAN-EN NeoPhoenix">SAN-EN NeoPhoenix</a></li>
+</ul>
+<h3><span class="mw-headline" id="Motorsport">Motorsport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=21" title="Edit section: Motorsport">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Fuji_International_Speedway" class="mw-redirect" title="Fuji International Speedway">Fuji International Speedway</a></li>
+</ul>
+<h3><span class="mw-headline" id="Rugby">Rugby</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=22" title="Edit section: Rugby">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Yamaha_Jubilo" class="mw-redirect" title="Yamaha Jubilo">Yamaha Jubilo</a> (<a href="/wiki/Iwata,_Shizuoka" title="Iwata, Shizuoka">Iwata</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="Football">Football</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=23" title="Edit section: Football">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Shimizu_S-Pulse" title="Shimizu S-Pulse">Shimizu S-Pulse</a> (<a href="/wiki/Shimizu-ku,_Shizuoka" title="Shimizu-ku, Shizuoka">Shimizu</a>, <a href="/wiki/Shizuoka,_Shizuoka" title="Shizuoka, Shizuoka">Shizuoka</a>)</li>
+<li><a href="/wiki/J%C3%BAbilo_Iwata" title="Júbilo Iwata">Júbilo Iwata</a> (<a href="/wiki/Iwata,_Shizuoka" title="Iwata, Shizuoka">Iwata</a>)
+<ul>
+<li>Matches between the above two teams, both currently in the top flight of the <a href="/wiki/J._League" class="mw-redirect" title="J. League">J. League</a>, are known as the <a href="/wiki/Shizuoka_Derby" class="mw-redirect" title="Shizuoka Derby">Shizuoka Derby</a>.</li>
+</ul>
+</li>
+<li><a href="/wiki/Honda_F.C." class="mw-redirect" title="Honda F.C.">Honda F.C.</a> (<a href="/wiki/Hamamatsu,_Shizuoka" class="mw-redirect" title="Hamamatsu, Shizuoka">Hamamatsu</a>)</li>
+<li><a href="/wiki/Fujieda_MyFC" class="mw-redirect" title="Fujieda MyFC">Fujieda MyFC</a> (<a href="/wiki/Fujieda,_Shizuoka" title="Fujieda, Shizuoka">Fujieda</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="Volleyball">Volleyball</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=24" title="Edit section: Volleyball">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Toray_Arrows_(men%27s_volleyball_team)" title="Toray Arrows (men's volleyball team)">Toray Arrows (men's volleyball team)</a> (<a href="/wiki/Mishima,_Shizuoka" title="Mishima, Shizuoka">Mishima city</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="Tourism">Tourism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=25" title="Edit section: Tourism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Tourism_in_Japan" title="Tourism in Japan">Tourism in Japan</a></div>
+<h3><span class="mw-headline" id="Museums">Museums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=26" title="Edit section: Museums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Shizuoka_Prefectural_Museum_of_Art" title="Shizuoka Prefectural Museum of Art">Shizuoka Prefectural Museum of Art</a></li>
+<li><a href="/wiki/Museum_of_Natural_and_Environmental_History,_Shizuoka" title="Museum of Natural and Environmental History, Shizuoka">Museum of Natural and Environmental History, Shizuoka</a></li>
+</ul>
+<h3><span class="mw-headline" id="Festivals_and_events">Festivals and events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=27" title="Edit section: Festivals and events">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hamamatsu_festival_3.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hamamatsu_festival_3.JPG/220px-Hamamatsu_festival_3.JPG" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hamamatsu_festival_3.JPG/330px-Hamamatsu_festival_3.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hamamatsu_festival_3.JPG/440px-Hamamatsu_festival_3.JPG 2x" data-file-width="2448" data-file-height="3264" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hamamatsu_festival_3.JPG" class="internal" title="Enlarge"></a></div>
+A kite festival in Hamamatsu, May 2013</div>
+</div>
+</div>
+<ul>
+<li>Shimoda Black Ship Festival, held in May</li>
+<li>Shimizu Port Festival, held on August 5 to 7</li>
+<li>Shizuoka Festival, held in April</li>
+<li>Daidogei World Cup in central <a href="/wiki/Shizuoka_City" class="mw-redirect" title="Shizuoka City">Shizuoka City</a>, held in November</li>
+<li>Enshu Daimyo Festival in <a href="/wiki/Iwata,_Shizuoka" title="Iwata, Shizuoka">Iwata</a>, held in April</li>
+<li><a href="/wiki/Numazu" class="mw-redirect" title="Numazu">Numazu</a> Festival, held in July</li>
+<li><a href="/wiki/Mishima,_Shizuoka" title="Mishima, Shizuoka">Mishima</a> Festival, held in August</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=28" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Nussbaum, Louis-Frédéric. (2005). "Shizuoka-ken" in <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=p2QnPijAEmEC&amp;pg=PA876">Japan Encyclopedia<i>, p. 876</i></a></i>, p. 876, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a>; "Chūbu" in <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=p2QnPijAEmEC&amp;pg=PA126">p. 126</a></i>, p. 126, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Nussbaum, "Shizuoka" at <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=p2QnPijAEmEC&amp;pg=PA876">p. 876</a></i>, p. 876, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Nussbaum, "Provinces and prefectures" at <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=p2QnPijAEmEC&amp;pg=PA780">p. 780</a></i>, p. 780, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a>.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.env.go.jp/en/nature/nps/park/doc/files/np_6.pdf">"General overview of area figures for Natural Parks by prefecture"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Ministry_of_the_Environment_(Japan)" title="Ministry of the Environment (Japan)">Ministry of the Environment</a>. 1 April 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShizuoka+Prefecture&amp;rft.btitle=General+overview+of+area+figures+for+Natural+Parks+by+prefecture&amp;rft.date=2012-04-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.env.go.jp%2Fen%2Fnature%2Fnps%2Fpark%2Fdoc%2Ffiles%2Fnp_6.pdf&amp;rft.pub=Ministry+of+the+Environment&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=29" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Nussbaum, Louis-Frédéric and Käthe Roth. (2005). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=p2QnPijAEmEC&amp;client=firefox-a"><i>Japan encyclopedia.</i></a> Cambridge: <a href="/wiki/Harvard_University_Press" title="Harvard University Press">Harvard University Press</a>. <a href="/wiki/Special:BookSources/9780674017535" class="internal mw-magiclink-isbn">ISBN 978-0-674-01753-5</a>; <a rel="nofollow" class="external text" href="http://www.worldcat.org/oclc/58053128?referer=di&amp;ht=edition">OCLC 58053128</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit&amp;section=30" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Shizuoka_prefecture" class="extiw" title="commons:Category:Shizuoka prefecture">Shizuoka prefecture</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.pref.shizuoka.jp/a_foreign/english/">Official Shizuoka Prefecture website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.shizuoka-guide.com/english/index.html">Official Shizuoka Guide</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="20x20px_Shizuoka_Prefecture" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Shizuoka" title="Template:Shizuoka"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Shizuoka" title="Template talk:Shizuoka"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Shizuoka&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="20x20px_Shizuoka_Prefecture" style="font-size:114%"><a href="/wiki/File:Shadow_picture_of_Shizuoka_prefecture.png" class="image"><img alt="Shadow picture of Shizuoka prefecture.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Shadow_picture_of_Shizuoka_prefecture.png/20px-Shadow_picture_of_Shizuoka_prefecture.png" width="20" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Shadow_picture_of_Shizuoka_prefecture.png/30px-Shadow_picture_of_Shizuoka_prefecture.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Shadow_picture_of_Shizuoka_prefecture.png/40px-Shadow_picture_of_Shizuoka_prefecture.png 2x" data-file-width="510" data-file-height="388" /></a> <strong class="selflink">Shizuoka Prefecture</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><a href="/wiki/Shizuoka,_Shizuoka" title="Shizuoka, Shizuoka">Shizuoka</a> <small>(<a href="/wiki/List_of_prefectural_capitals_in_Japan" class="mw-redirect" title="List of prefectural capitals in Japan">capital</a>)</small></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Wards_of_Japan" title="Wards of Japan">Wards</a> of <a href="/wiki/Shizuoka,_Shizuoka" title="Shizuoka, Shizuoka">Shizuoka</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aoi_Ward" class="mw-redirect" title="Aoi Ward">Aoi</a></li>
+<li><a href="/wiki/Shimizu_Ward" class="mw-redirect" title="Shimizu Ward">Shimizu</a></li>
+<li><a href="/wiki/Suruga_Ward" class="mw-redirect" title="Suruga Ward">Suruga</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="17" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Flag_of_Shizuoka_Prefecture.svg" class="image" title="Flag of Shizuoka Prefecture"><img alt="Flag of Shizuoka Prefecture" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Shizuoka_Prefecture.svg/60px-Flag_of_Shizuoka_Prefecture.svg.png" width="60" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Shizuoka_Prefecture.svg/90px-Flag_of_Shizuoka_Prefecture.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Shizuoka_Prefecture.svg/120px-Flag_of_Shizuoka_Prefecture.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Wards of <a href="/wiki/Hamamatsu" title="Hamamatsu">Hamamatsu</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Naka_Ward_(Hamamatsu)" class="mw-redirect" title="Naka Ward (Hamamatsu)">Naka</a></li>
+<li><a href="/wiki/Higashi_Ward_(Hamamatsu)" class="mw-redirect" title="Higashi Ward (Hamamatsu)">Higashi</a></li>
+<li><a href="/wiki/Nishi_Ward_(Hamamatsu)" class="mw-redirect" title="Nishi Ward (Hamamatsu)">Nishi</a></li>
+<li><a href="/wiki/Kita_Ward_(Hamamatsu)" class="mw-redirect" title="Kita Ward (Hamamatsu)">Kita</a></li>
+<li><a href="/wiki/Minami_Ward_(Hamamatsu)" class="mw-redirect" title="Minami Ward (Hamamatsu)">Minami</a></li>
+<li><a href="/wiki/Hamakita_Ward" title="Hamakita Ward">Hamakita</a></li>
+<li><a href="/wiki/Tenry%C5%AB_Ward" title="Tenryū Ward">Tenryū</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Special_cities_of_Japan" title="Special cities of Japan">Special cities</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fuji,_Shizuoka" title="Fuji, Shizuoka">Fuji</a></li>
+<li><a href="/wiki/Numazu,_Shizuoka" title="Numazu, Shizuoka">Numazu</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other cities</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atami,_Shizuoka" title="Atami, Shizuoka">Atami</a></li>
+<li><a href="/wiki/Mishima,_Shizuoka" title="Mishima, Shizuoka">Mishima</a></li>
+<li><a href="/wiki/Fujinomiya,_Shizuoka" title="Fujinomiya, Shizuoka">Fujinomiya</a></li>
+<li><a href="/wiki/It%C5%8D,_Shizuoka" title="Itō, Shizuoka">Itō</a></li>
+<li><a href="/wiki/Shimada,_Shizuoka" title="Shimada, Shizuoka">Shimada</a></li>
+<li><a href="/wiki/Iwata,_Shizuoka" title="Iwata, Shizuoka">Iwata</a></li>
+<li><a href="/wiki/Yaizu,_Shizuoka" title="Yaizu, Shizuoka">Yaizu</a></li>
+<li><a href="/wiki/Kakegawa,_Shizuoka" title="Kakegawa, Shizuoka">Kakegawa</a></li>
+<li><a href="/wiki/Fujieda,_Shizuoka" title="Fujieda, Shizuoka">Fujieda</a></li>
+<li><a href="/wiki/Gotemba,_Shizuoka" title="Gotemba, Shizuoka">Gotemba</a></li>
+<li><a href="/wiki/Fukuroi,_Shizuoka" title="Fukuroi, Shizuoka">Fukuroi</a></li>
+<li><a href="/wiki/Shimoda,_Shizuoka" title="Shimoda, Shizuoka">Shimoda</a></li>
+<li><a href="/wiki/Susono,_Shizuoka" title="Susono, Shizuoka">Susono</a></li>
+<li><a href="/wiki/Kosai,_Shizuoka" title="Kosai, Shizuoka">Kosai</a></li>
+<li><a href="/wiki/Izu,_Shizuoka" title="Izu, Shizuoka">Izu</a></li>
+<li><a href="/wiki/Omaezaki,_Shizuoka" class="mw-redirect" title="Omaezaki, Shizuoka">Omaezaki</a></li>
+<li><a href="/wiki/Kikugawa,_Shizuoka" class="mw-redirect" title="Kikugawa, Shizuoka">Kikugawa</a></li>
+<li><a href="/wiki/Izunokuni,_Shizuoka" class="mw-redirect" title="Izunokuni, Shizuoka">Izunokuni</a></li>
+<li><a href="/wiki/Makinohara,_Shizuoka" class="mw-redirect" title="Makinohara, Shizuoka">Makinohara</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Kamo_District,_Shizuoka" title="Kamo District, Shizuoka">Kamo District</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Higashiizu,_Shizuoka" class="mw-redirect" title="Higashiizu, Shizuoka">Higashiizu</a></li>
+<li><a href="/wiki/Kawazu,_Shizuoka" title="Kawazu, Shizuoka">Kawazu</a></li>
+<li><a href="/wiki/Minamiizu,_Shizuoka" class="mw-redirect" title="Minamiizu, Shizuoka">Minamiizu</a></li>
+<li><a href="/wiki/Matsuzaki,_Shizuoka" title="Matsuzaki, Shizuoka">Matsuzaki</a></li>
+<li><a href="/wiki/Nishiizu,_Shizuoka" class="mw-redirect" title="Nishiizu, Shizuoka">Nishiizu</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Tagata_District,_Shizuoka" title="Tagata District, Shizuoka">Tagata District</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kannami,_Shizuoka" class="mw-redirect" title="Kannami, Shizuoka">Kannami</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sunt%C5%8D_District,_Shizuoka" title="Suntō District, Shizuoka">Suntō District</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Shimizu,_Shizuoka" title="Shimizu, Shizuoka">Shimizu</a></li>
+<li><a href="/wiki/Nagaizumi,_Shizuoka" class="mw-redirect" title="Nagaizumi, Shizuoka">Nagaizumi</a></li>
+<li><a href="/wiki/Oyama,_Shizuoka" title="Oyama, Shizuoka">Oyama</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Haibara_District,_Shizuoka" title="Haibara District, Shizuoka">Haibara District</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Yoshida,_Shizuoka" title="Yoshida, Shizuoka">Yoshida</a></li>
+<li><a href="/wiki/Kawanehon,_Shizuoka" class="mw-redirect" title="Kawanehon, Shizuoka">Kawanehon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sh%C5%ABchi_District,_Shizuoka" title="Shūchi District, Shizuoka">Shūchi District</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mori,_Shizuoka" title="Mori, Shizuoka">Mori</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><a href="/wiki/List_of_mergers_in_Shizuoka_Prefecture" title="List of mergers in Shizuoka Prefecture">List of mergers in Shizuoka Prefecture</a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px.7Cborder_.7Calt.3DJapan.7Clink.3DJapan_Regions_and_administrative_divisions_of_Japan" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Regions_and_administrative_divisions_of_Japan" title="Template:Regions and administrative divisions of Japan"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Regions_and_administrative_divisions_of_Japan" title="Template talk:Regions and administrative divisions of Japan"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Regions_and_administrative_divisions_of_Japan&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23x15px.7Cborder_.7Calt.3DJapan.7Clink.3DJapan_Regions_and_administrative_divisions_of_Japan" style="font-size:114%"><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/List_of_regions_of_Japan" title="List of regions of Japan">Regions</a> and <a href="/wiki/Government_of_Japan" title="Government of Japan">administrative divisions</a> of <a href="/wiki/Japan" title="Japan">Japan</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_regions_of_Japan" title="List of regions of Japan">Regions</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hokkaido" title="Hokkaido">Hokkaido</a></li>
+<li><a href="/wiki/T%C5%8Dhoku_region" title="Tōhoku region">Tōhoku</a></li>
+<li><a href="/wiki/Kant%C5%8D_region" title="Kantō region">Kantō</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Nanp%C5%8D_Islands" title="Nanpō Islands">Nanpō Islands</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Ch%C5%ABbu_region" title="Chūbu region">Chūbu</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Hokuriku_region" title="Hokuriku region">Hokuriku</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/K%C5%8Dshin%27etsu_region" title="Kōshin'etsu region">Kōshin'etsu</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Shin%27etsu_region" title="Shin'etsu region">Shin'etsu</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/T%C5%8Dkai_region" title="Tōkai region">Tōkai</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Kansai_region" title="Kansai region">Kansai</a></li>
+<li><a href="/wiki/Ch%C5%ABgoku_region" title="Chūgoku region">Chūgoku</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/San%27in_region" title="San'in region">San'in</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/San%27y%C5%8D_region" title="San'yō region">San'yō</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Shikoku" title="Shikoku">Shikoku</a></li>
+<li><a href="/wiki/Kyushu" title="Kyushu">Kyushu</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Northern_Kyushu" title="Northern Kyushu">Northern</a></span></li>
+<li><span style="font-size:90%;"><a href="/w/index.php?title=Southern_Kyushu&amp;action=edit&amp;redlink=1" class="new" title="Southern Kyushu (page does not exist)">Southern</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Okinawa_Prefecture" title="Okinawa Prefecture">Okinawa</a></span></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Regions_and_Prefectures_of_Japan_2.png" class="image"><img alt="Regions and Prefectures of Japan 2.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Regions_and_Prefectures_of_Japan_2.png/160px-Regions_and_Prefectures_of_Japan_2.png" width="160" height="212" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Regions_and_Prefectures_of_Japan_2.png/240px-Regions_and_Prefectures_of_Japan_2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Regions_and_Prefectures_of_Japan_2.png/320px-Regions_and_Prefectures_of_Japan_2.png 2x" data-file-width="570" data-file-height="755" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">47 <a href="/wiki/Prefectures_of_Japan" title="Prefectures of Japan">Prefectures</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;;background:#FF8585">
+<div style="padding:0em 0.75em;"><a href="/wiki/Hokkaido" title="Hokkaido">Hokkaido</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hokkaido" title="Hokkaido">Hokkaido</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;;background:#FFFB91">
+<div style="padding:0em 0.75em;"><a href="/wiki/T%C5%8Dhoku_region" title="Tōhoku region">Tōhoku</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aomori_Prefecture" title="Aomori Prefecture">Aomori</a></li>
+<li><a href="/wiki/Iwate_Prefecture" title="Iwate Prefecture">Iwate</a></li>
+<li><a href="/wiki/Miyagi_Prefecture" title="Miyagi Prefecture">Miyagi</a></li>
+<li><a href="/wiki/Akita_Prefecture" title="Akita Prefecture">Akita</a></li>
+<li><a href="/wiki/Yamagata_Prefecture" title="Yamagata Prefecture">Yamagata</a></li>
+<li><a href="/wiki/Fukushima_Prefecture" title="Fukushima Prefecture">Fukushima</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;;background:#79FF76">
+<div style="padding:0em 0.75em;"><a href="/wiki/Kant%C5%8D_region" title="Kantō region">Kantō</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ibaraki_Prefecture" title="Ibaraki Prefecture">Ibaraki</a></li>
+<li><a href="/wiki/Tochigi_Prefecture" title="Tochigi Prefecture">Tochigi</a></li>
+<li><a href="/wiki/Gunma_Prefecture" title="Gunma Prefecture">Gunma</a></li>
+<li><a href="/wiki/Saitama_Prefecture" title="Saitama Prefecture">Saitama</a></li>
+<li><a href="/wiki/Chiba_Prefecture" title="Chiba Prefecture">Chiba</a></li>
+<li><a href="/wiki/Tokyo" title="Tokyo">Tokyo</a></li>
+<li><a href="/wiki/Kanagawa_Prefecture" title="Kanagawa Prefecture">Kanagawa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;;background:#8BFFE8">
+<div style="padding:0em 0.75em;"><a href="/wiki/Ch%C5%ABbu_region" title="Chūbu region">Chūbu</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Niigata_Prefecture" title="Niigata Prefecture">Niigata</a></li>
+<li><a href="/wiki/Toyama_Prefecture" title="Toyama Prefecture">Toyama</a></li>
+<li><a href="/wiki/Ishikawa_Prefecture" title="Ishikawa Prefecture">Ishikawa</a></li>
+<li><a href="/wiki/Fukui_Prefecture" title="Fukui Prefecture">Fukui</a></li>
+<li><a href="/wiki/Yamanashi_Prefecture" title="Yamanashi Prefecture">Yamanashi</a></li>
+<li><a href="/wiki/Nagano_Prefecture" title="Nagano Prefecture">Nagano</a></li>
+<li><a href="/wiki/Gifu_Prefecture" title="Gifu Prefecture">Gifu</a></li>
+<li><strong class="selflink">Shizuoka</strong></li>
+<li><a href="/wiki/Aichi_Prefecture" title="Aichi Prefecture">Aichi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;;background:#7272FF">
+<div style="padding:0em 0.75em;"><a href="/wiki/Kansai_region" title="Kansai region">Kansai</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mie_Prefecture" title="Mie Prefecture">Mie</a></li>
+<li><a href="/wiki/Shiga_Prefecture" title="Shiga Prefecture">Shiga</a></li>
+<li><a href="/wiki/Kyoto_Prefecture" title="Kyoto Prefecture">Kyoto</a></li>
+<li><a href="/wiki/Osaka_Prefecture" title="Osaka Prefecture">Osaka</a></li>
+<li><a href="/wiki/Hy%C5%8Dgo_Prefecture" title="Hyōgo Prefecture">Hyōgo</a></li>
+<li><a href="/wiki/Nara_Prefecture" title="Nara Prefecture">Nara</a></li>
+<li><a href="/wiki/Wakayama_Prefecture" title="Wakayama Prefecture">Wakayama</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;;background:#FF9148">
+<div style="padding:0em 0.75em;"><a href="/wiki/Ch%C5%ABgoku_region" title="Chūgoku region">Chūgoku</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tottori_Prefecture" title="Tottori Prefecture">Tottori</a></li>
+<li><a href="/wiki/Shimane_Prefecture" title="Shimane Prefecture">Shimane</a></li>
+<li><a href="/wiki/Okayama_Prefecture" title="Okayama Prefecture">Okayama</a></li>
+<li><a href="/wiki/Hiroshima_Prefecture" title="Hiroshima Prefecture">Hiroshima</a></li>
+<li><a href="/wiki/Yamaguchi_Prefecture" title="Yamaguchi Prefecture">Yamaguchi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;;background:#D16EFF">
+<div style="padding:0em 0.75em;"><a href="/wiki/Shikoku" title="Shikoku">Shikoku</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tokushima_Prefecture" title="Tokushima Prefecture">Tokushima</a></li>
+<li><a href="/wiki/Kagawa_Prefecture" title="Kagawa Prefecture">Kagawa</a></li>
+<li><a href="/wiki/Ehime_Prefecture" title="Ehime Prefecture">Ehime</a></li>
+<li><a href="/wiki/K%C5%8Dchi_Prefecture" title="Kōchi Prefecture">Kōchi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;;background:#C5C5C5">
+<div style="padding:0em 0.75em;"><a href="/wiki/Kyushu" title="Kyushu">Kyushu</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fukuoka_Prefecture" title="Fukuoka Prefecture">Fukuoka</a></li>
+<li><a href="/wiki/Saga_Prefecture" title="Saga Prefecture">Saga</a></li>
+<li><a href="/wiki/Nagasaki_Prefecture" title="Nagasaki Prefecture">Nagasaki</a></li>
+<li><a href="/wiki/Kumamoto_Prefecture" title="Kumamoto Prefecture">Kumamoto</a></li>
+<li><a href="/wiki/%C5%8Cita_Prefecture" title="Ōita Prefecture">Ōita</a></li>
+<li><a href="/wiki/Miyazaki_Prefecture" title="Miyazaki Prefecture">Miyazaki</a></li>
+<li><a href="/wiki/Kagoshima_Prefecture" title="Kagoshima Prefecture">Kagoshima</a></li>
+<li><a href="/wiki/Okinawa_Prefecture" title="Okinawa Prefecture">Okinawa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/145422128">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/145422128">145422128</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000403889562">0000 0004 0388 9562</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00256546">00256546</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20170221003239
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.412 seconds
+Real time usage: 0.510 seconds
+Preprocessor visited node count: 4687/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 114852/2097152 bytes
+Template argument size: 17642/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 8/500
+Lua time usage: 0.160/10.000 seconds
+Lua memory usage: 5.48 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  421.327      1 -total
+ 57.90%  243.939      1 Template:Infobox_Prefecture_Japan
+ 57.10%  240.566      1 Template:Infobox_settlement
+ 53.77%  226.567      3 Template:Infobox
+  9.25%   38.956      2 Template:Lang
+  8.50%   35.824      1 Template:Coord
+  8.20%   34.557      1 Template:Reflist
+  7.34%   30.912      1 Template:Convert
+  7.28%   30.684      3 Template:Navbox
+  6.37%   26.819      1 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:180999-0!*!0!!en!4!* and timestamp 20170221003239 and revision id 766312494
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Shizuoka_Prefecture&amp;oldid=766312494">https://en.wikipedia.org/w/index.php?title=Shizuoka_Prefecture&amp;oldid=766312494</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Shizuoka_Prefecture" title="Category:Shizuoka Prefecture">Shizuoka Prefecture</a></li><li><a href="/wiki/Category:Ch%C5%ABbu_region" title="Category:Chūbu region">Chūbu region</a></li><li><a href="/wiki/Category:Prefectures_of_Japan" title="Category:Prefectures of Japan">Prefectures of Japan</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Articles containing Japanese-language text</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2010" title="Category:Articles with unsourced statements from July 2010">Articles with unsourced statements from July 2010</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_October_2015" title="Category:Articles to be expanded from October 2015">Articles to be expanded from October 2015</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Shizuoka+Prefecture" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shizuoka+Prefecture" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Shizuoka_Prefecture"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Shizuoka_Prefecture"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Shizuoka_Prefecture" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Shizuoka_Prefecture" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Shizuoka_Prefecture" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Shizuoka_Prefecture&amp;oldid=766312494" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Shizuoka_Prefecture&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q131320" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Shizuoka_Prefecture&amp;id=766312494" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Shizuoka+Prefecture">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Shizuoka+Prefecture&amp;returnto=Shizuoka+Prefecture&amp;oldid=766312494&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Shizuoka_Prefecture&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Shizuoka_prefecture" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Shizuoka_(prefecture)" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Prefektur_Shizuoka" title="Prefektur Shizuoka – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Shizuoka_Prefektuur" title="Shizuoka Prefektuur – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B4%D9%8A%D8%B2%D9%88%D8%A4%D9%83%D8%A7_(%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9)" title="شيزوؤكا (محافظة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C5%9Eizuoka_(prefektura)" title="Şizuoka (prefektura) – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A7%81%E0%A6%93%E0%A6%95%E0%A6%BE_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A6%BF%E0%A6%95_%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2" title="শিযুওকা প্রশাসনিক অঞ্চল – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Sizuoka-ko%C4%81n" title="Sizuoka-koān – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B4%D0%B7%D1%83%D0%BE%D0%BA%D0%B0" title="Шидзуока – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Prefectura_de_Shizuoka" title="Prefectura de Shizuoka – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Prefektura_%C5%A0izuoka" title="Prefektura Šizuoka – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Shizuoka_(talaith)" title="Shizuoka (talaith) – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Pr%C3%A4fektur_Shizuoka" title="Präfektur Shizuoka – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Shizuoka_prefektuur" title="Shizuoka prefektuur – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Prefectura_de_Shizuoka" title="Prefectura de Shizuoka – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Gubernio_%C5%9Cizuoka" title="Gubernio Ŝizuoka – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Shizuoka_(prefetura)" title="Shizuoka (prefetura) – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D8%B4%DB%8C%D8%B2%D9%88%D8%A6%D9%88%DA%A9%D8%A7" title="استان شیزوئوکا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Pr%C3%A9fecture_de_Shizuoka" title="Préfecture de Shizuoka – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Maoracht_Shizuoka" title="Maoracht Shizuoka – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Prefectura_de_Shizuoka" title="Prefectura de Shizuoka – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4_%ED%98%84" title="시즈오카 현 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Shizuoka,_prefektura" title="Shizuoka, prefektura – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Prepektura_ti_Shizuoka" title="Prepektura ti Shizuoka – Iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Prefektur_Shizuoka" title="Prefektur Shizuoka – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Shizuoka-umd%C3%A6mi" title="Shizuoka-umdæmi – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Prefettura_di_Shizuoka" title="Prefettura di Shizuoka – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%96%D7%95%D7%90%D7%95%D7%A7%D7%94_(%D7%9E%D7%97%D7%95%D7%96)" title="שיזואוקה (מחוז) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Pr%C3%A9f%C3%A8ktur_Shizuoka" title="Préfèktur Shizuoka – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Mkoa_wa_Shizuoka" title="Mkoa wa Shizuoka – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Sidzuokas_prefekt%C5%ABra" title="Sidzuokas prefektūra – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/%C5%A0idzuokos_prefekt%C5%ABra" title="Šidzuokos prefektūra – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Sizuoka_prefekt%C3%BAra" title="Sizuoka prefektúra – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B7%D1%83%D0%BE%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Шизуока (префектура) – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%9D%E0%A5%81%E0%A4%93%E0%A4%95%E0%A4%BE_(%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%97)" title="शिझुओका (प्रभाग) – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wilayah_Shizuoka" title="Wilayah Shizuoka – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Shizuoka-g%C3%A2ing" title="Shizuoka-gâing – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Shizuoka_(prefectuur)" title="Shizuoka (prefectuur) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E7%9C%8C" title="静岡県 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Shizuoka_(prefektur)" title="Shizuoka (prefektur) – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nov"><a href="https://nov.wikipedia.org/wiki/Shizuoka_Prefekture" title="Shizuoka Prefekture – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%B6%D9%84%D8%B9_%D8%B4%DB%8C%D8%B2%D9%88%DA%A9%D8%A7" title="ضلع شیزوکا – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Prefektura_Shizuoka" title="Prefektura Shizuoka – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Shizuoka" title="Shizuoka – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Prefectura_Shizuoka" title="Prefectura Shizuoka – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B4%D0%B7%D1%83%D0%BE%D0%BA%D0%B0_(%D0%BF%D1%80%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Сидзуока (префектура) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Shizuoka_prefektuvra" title="Shizuoka prefektuvra – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Sámegiella</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Shizuoka_Prefectur" title="Shizuoka Prefectur – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Shizuoka_Prefecture" title="Shizuoka Prefecture – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/%C5%A0izuoka_(prefekt%C3%BAra)" title="Šizuoka (prefektúra) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Prefektura_%C5%A0izuoka" title="Prefektura Šizuoka – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B2%D9%88%D8%A6%DB%86%DA%A9%D8%A7_(%D9%BE%D8%A7%D8%B1%DB%8E%D8%B2%DA%AF%D8%A7)" title="شیزوئۆکا (پارێزگا) – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A8%D0%B8%D0%B7%D1%83%D0%BE%D0%BA%D0%B0" title="Префектура Шизуока – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Prefektura_Shizuoka" title="Prefektura Shizuoka – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Pr%C3%A9f%C3%A9ktur_Shizuoka" title="Préféktur Shizuoka – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Shizuokan_prefektuuri" title="Shizuokan prefektuuri – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Shizuoka_prefektur" title="Shizuoka prefektur – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Prepektura_ng_Shizuoka" title="Prepektura ng Shizuoka – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%8A%E0%B8%B4%E0%B8%8B%E0%B8%B8%E0%B9%82%E0%B8%AD%E0%B8%B0%E0%B8%81%E0%B8%B0" title="จังหวัดชิซุโอะกะ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%D0%B8_%D0%A8%D0%B8%D0%B7%D1%83%D0%BE%D0%BA%D0%B0" title="Префектураи Шизуока – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Shizuoka_(prefekt%C3%B6rl%C3%BCk)" title="Shizuoka (prefektörlük) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A1%D1%96%D0%B4%D0%B7%D1%83%D0%BE%D0%BA%D0%B0" title="Префектура Сідзуока – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B2%D9%88%DA%A9%D8%A7_%D9%BE%D8%B1%DB%8C%D9%81%DB%8C%DA%A9%DA%86%D8%B1" title="شیزوکا پریفیکچر – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Shizuoka" title="Shizuoka – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E9%9D%9C%E5%B2%A1%E7%B8%A3" title="靜岡縣 – Classical Chinese" lang="zh-classical" hreflang="zh-classical" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Shizuoka_(prefektura)" title="Shizuoka (prefektura) – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E9%9D%99%E5%86%88%E5%8E%BF" title="静冈县 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E9%9D%9C%E5%B2%A1%E7%B8%A3" title="靜岡縣 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9D%9C%E5%B2%A1%E7%B8%A3" title="靜岡縣 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q131320#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 February 2017, at 13:48.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Shizuoka_Prefecture&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.412","walltime":"0.510","ppvisitednodes":{"value":4687,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":114852,"limit":2097152},"templateargumentsize":{"value":17642,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  421.327      1 -total"," 57.90%  243.939      1 Template:Infobox_Prefecture_Japan"," 57.10%  240.566      1 Template:Infobox_settlement"," 53.77%  226.567      3 Template:Infobox","  9.25%   38.956      2 Template:Lang","  8.50%   35.824      1 Template:Coord","  8.20%   34.557      1 Template:Reflist","  7.34%   30.912      1 Template:Convert","  7.28%   30.684      3 Template:Navbox","  6.37%   26.819      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"10.000"},"limitreport-memusage":{"value":5741855,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20170221003239","ttl":2592000,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":582,"wgHostname":"mw1266"});});</script>
+	</body>
+</html>

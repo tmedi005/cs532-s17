@@ -1,0 +1,740 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>www.VentureCinema.net &mdash; New Official Site - Now all DIGITAL auditoriums</title><meta name="description" content="New Official Site - Now all DIGITAL auditoriums" />
+		<meta name="robots" content="noodp,noydir" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" id="dynamik-viewport"/>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="www.VentureCinema.net &raquo; Feed" href="http://www.venturecinema.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="www.VentureCinema.net &raquo; Comments Feed" href="http://www.venturecinema.net/comments/feed/" />
+<link rel="canonical" href="http://www.venturecinema.net/" />
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"http:\/\/www.venturecinema.net\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related"}};
+  //]]>
+</script>
+<script type='text/javascript' data-cfasync='false'
+        src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js'
+        data-shr-siteid='5283a9af37ddb825dc69ad9c4db9fe0f' async='async' >
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='www.VentureCinema.net' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:site_id' content='5283a9af37ddb825dc69ad9c4db9fe0f' />
+<meta name='shareaholic:wp_version' content='7.5.0.1' />
+
+<!-- Shareaholic Content Tags End -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.venturecinema.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dynamik_minified_stylesheet-css'  href='//www.venturecinema.net/wp-content/uploads/dynamik-gen/theme/dynamik-min.css?ver=1486063910' type='text/css' media='all' />
+<link rel='stylesheet' id='advanced-responsive-video-embedder-css'  href='http://www.venturecinema.net/wp-content/plugins/advanced-responsive-video-embedder/public/arve-public.css?ver=8.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='affwp-forms-css'  href='http://www.venturecinema.net/wp-content/plugins/affiliate-wp/assets/css/forms.min.css?ver=2.0.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='essential-grid-plugin-settings-css'  href='http://www.venturecinema.net/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=2.1.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-raleway-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-droid-serif-css'  href='http://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.venturecinema.net/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.1.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='social-widget-css'  href='http://www.venturecinema.net/wp-content/plugins/social-media-widget/social_widget.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='it-exchange-public-css-css'  href='http://www.venturecinema.net/wp-content/plugins/ithemes-exchange/lib/assets/styles/exchange.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-funnlr-front-styles-css'  href='http://www.venturecinema.net/wp-content/plugins/wp-funnlr/includes/css/funnlr-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-funnlr-front-fancybox-style-css'  href='http://www.venturecinema.net/wp-content/plugins/wp-funnlr/includes/js/fancybox/jquery.fancybox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-funnlr-fancybox-trans-style-css'  href='http://www.venturecinema.net/wp-content/plugins/wp-funnlr/includes/js/fancybox/jquery.fancybox-transitions.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-bripp-front-styles-css'  href='http://www.venturecinema.net/wp-content/plugins/wp-memestack/includes/css/wpbripp-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-bripp-front-fancybox-style-css'  href='http://www.venturecinema.net/wp-content/plugins/wp-memestack/includes/js/fancybox/jquery.fancybox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-bripp-fancybox-trans-style-css'  href='http://www.venturecinema.net/wp-content/plugins/wp-memestack/includes/js/fancybox/jquery.fancybox-transitions.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamik_enqueued_google_fonts-css'  href='//fonts.googleapis.com/css?family=Oswald&#038;ver=2.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='it-exchange-customer-pricing-addon-public-css-css'  href='http://www.venturecinema.net/wp-content/plugins/exchange-addon-customer-pricing/lib/assets/styles/customer-pricing.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='it-exchange-membership-addon-public-css-css'  href='http://www.venturecinema.net/wp-content/plugins/exchange-addon-membership/lib/assets/styles/membership-dashboard.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rotatingtext_style-css'  href='http://www.venturecinema.net/wp-content/plugins/rotatingtext/css/rotatingtext.css?ver=4.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.venturecinema.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var affwp_scripts = {"ajaxurl":"http:\/\/www.venturecinema.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/affiliate-wp/assets/js/jquery.cookie.min.js?ver=1.4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var affwp_debug_vars = {"integrations":{"exchange":"iThemes Exchange"},"version":"2.0.1.1","currency":"USD"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/affiliate-wp/assets/js/tracking.min.js?ver=2.0.1.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/rotatingtext/js/rotatingtext.js?ver=4.7.2'></script>
+<link rel='https://api.w.org/' href='http://www.venturecinema.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.venturecinema.net/xmlrpc.php?rsd" />
+<link rel="stylesheet" type="text/css" href="http://www.venturecinema.net/wp-content/plugins/j-shortcodes/css/jay.css" />
+<script type="text/javascript" src="http://www.venturecinema.net/wp-content/plugins/j-shortcodes/js/jay.js"></script><link rel="stylesheet" type="text/css" href="http://www.venturecinema.net/wp-content/plugins/j-shortcodes/galleryview/css/jquery.galleryview-3.0.css" />
+<script type="text/javascript" src="http://www.venturecinema.net/wp-content/plugins/j-shortcodes/galleryview/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="http://www.venturecinema.net/wp-content/plugins/j-shortcodes/galleryview/js/jquery.timers-1.2.js"></script>
+<script type="text/javascript" src="http://www.venturecinema.net/wp-content/plugins/j-shortcodes/galleryview/js/jquery.galleryview-3.0.min.js"></script><link rel="stylesheet" type="text/css" href="http://www.venturecinema.net/wp-content/plugins/j-shortcodes/css/jquery/smoothness/jquery-ui-1.8.9.custom.css" /><link rel='https://github.com/WP-API/WP-API' href='http://www.venturecinema.net/wp-json' />
+		<script type="text/javascript">
+			var ajaxRevslider;
+			
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '47db6d2d6b';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://www.venturecinema.net/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+				<script type="text/javascript">
+		var AFFWP = AFFWP || {};
+		AFFWP.referral_var = 'ref';
+		AFFWP.expiration = 30;
+		AFFWP.debug = 0;
+
+		AFFWP.referral_credit_last = 0;
+		</script>
+			<style>
+				#affwp-affiliate-dashboard-sharing {
+					margin: 2em 0 4em 0;
+				}
+
+				.affwp-sharing .share {
+					display: inline-block;
+					vertical-align: top;
+					padding: 0 0.5em 0 0;
+				}
+			</style>
+			<script type="text/javascript">
+		var itExchangeAjaxCountryStatesAjaxURL = 'http://www.venturecinema.net/';
+	</script>
+	<link rel="next" href="http://www.venturecinema.net/page/2/" />
+<meta name="generator" content="Powered by Slider Revolution 5.3.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://www.venturecinema.net/wp-content/uploads/2016/01/cropped-WP360X-logo-512px-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.venturecinema.net/wp-content/uploads/2016/01/cropped-WP360X-logo-512px-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.venturecinema.net/wp-content/uploads/2016/01/cropped-WP360X-logo-512px-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.venturecinema.net/wp-content/uploads/2016/01/cropped-WP360X-logo-512px-270x270.png" />
+</head>
+<body class="home blog header-image header-full-width content-sidebar unknown-os ie11 ez-home-slider ez-home site-fluid override"><div id="wrap"><div id="header"><div class="wrap"><div id="title-area"><h1 id="title"><a href="http://www.venturecinema.net/">www.VentureCinema.net</a></h1><p id="description">New Official Site - Now all DIGITAL auditoriums</p></div></div></div><div id="nav"><div class="wrap"><ul id="menu-primary" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="http://venturecinema.net/">Home</a></li>
+<li id="menu-item-3384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3384"><a href="http://www.venturecinema.net/showtimes/">Showtimes</a></li>
+<li id="menu-item-7250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7250"><a href="http://www.venturecinema.net/calendar/">Holiday Calendar</a></li>
+<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="http://www.venturecinema.net/directions/">Directions</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="http://www.venturecinema.net/contact/">Contact</a></li>
+<li id="menu-item-6845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6845"><a target="_blank" href="https://docs.google.com/forms/d/1W-evdbca2W0oQuxCCBEcGtgwob29pO1utBEmAIqXCIk/edit?usp=sharing">JOB APPLICATION</a></li>
+</ul></div></div><div id="inner">	<div id="home-hook-wrap" class="clearfix">
+			<div id="ez-home-slider-container-wrap" class="clearfix">
+	
+		<div id="ez-home-slider-container" class="clearfix">
+
+			<div id="ez-home-slider" class="widget-area ez-widget-area ez-only">
+			
+				<div id="text-41" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><img src="http://www.venturecinema.net/wp-content/uploads/2013/07/WEB-HOME-PAGE-NEW-SEATS-BANNER-101416.png" alt="web-home-page-new-seats-banner-101416" width="1140" height="150" class="aligncenter size-full wp-image-7248" /></div>
+		</div></div>				
+			</div><!-- end #ez-home-slider -->
+		
+		</div><!-- end #ez-home-slider-container -->
+		
+	</div><!-- end #ez-home-slider-container-wrap -->
+	<div id="ez-home-container-wrap" class="clearfix">
+	
+				
+		<div id="ez-home-top-container" class="ez-home-container-area clearfix">
+
+			<div class="ez-home-wrap clearfix">
+			
+				<div id="ez-home-top-1" class="widget-area ez-widget-area ez-only">
+					<div id="text-65" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><p><center><img class="aligncenter wp-image-3836" src="http://www.venturecinema.net/wp-content/uploads/2014/10/credit_card_logos_16-300x44.png" alt="credit_card_logos_16" width="202" height="30" /></p>
+<h2>TICKET PRICES: $3 FOR REGULAR MOVIES, $5 FOR 3D MOVIES</h2>
+<p></center></p>
+</div>
+		</div></div><div id="ess-grid-widget-4" class="widget widget_ess_grid"><div class="widget-wrap"><style type="text/css">.entry-content .esg-grid ul li{margin-left:0}a.eg-henryharrison-element-1,a.eg-henryharrison-element-2{-webkit-transition:all .4s linear;   -moz-transition:all .4s linear;   -o-transition:all .4s linear;   -ms-transition:all .4s linear;   transition:all .4s linear}.eg-jimmy-carter-element-11 i:before{margin-left:0px; margin-right:0px}.eg-harding-element-17{letter-spacing:1px}.eg-harding-wrapper .esg-entry-media{overflow:hidden; box-sizing:border-box;   -webkit-box-sizing:border-box;   -moz-box-sizing:border-box;   padding:30px 30px 0px 30px}.eg-harding-wrapper .esg-entry-media img{overflow:hidden; border-radius:50%;   -webkit-border-radius:50%;   -moz-border-radius:50%}.eg-ulysses-s-grant-wrapper .esg-entry-media{overflow:hidden; box-sizing:border-box;   -webkit-box-sizing:border-box;   -moz-box-sizing:border-box;   padding:30px 30px 0px 30px}.eg-ulysses-s-grant-wrapper .esg-entry-media img{overflow:hidden; border-radius:50%;   -webkit-border-radius:50%;   -moz-border-radius:50%}.eg-richard-nixon-wrapper .esg-entry-media{overflow:hidden; box-sizing:border-box;   -webkit-box-sizing:border-box;   -moz-box-sizing:border-box;   padding:30px 30px 0px 30px}.eg-richard-nixon-wrapper .esg-entry-media img{overflow:hidden; border-radius:50%;   -webkit-border-radius:50%;   -moz-border-radius:50%}.eg-herbert-hoover-wrapper .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.eg-herbert-hoover-wrapper:hover .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.eg-lyndon-johnson-wrapper .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.eg-lyndon-johnson-wrapper:hover .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.esg-overlay.eg-ronald-reagan-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); background:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}.eg-georgebush-wrapper .esg-entry-cover{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); background:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}.eg-jefferson-wrapper{-webkit-border-radius:5px !important; -moz-border-radius:5px !important; border-radius:5px !important; -webkit-mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC) !important}.eg-monroe-element-1{text-shadow:0px 1px 3px rgba(0,0,0,0.1)}.eg-lyndon-johnson-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); background:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 )}.eg-wilbert-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); background:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); background:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 )}.eg-wilbert-wrapper .esg-entry-media img{-webkit-transition:0.4s ease-in-out;  -moz-transition:0.4s ease-in-out;  -o-transition:0.4s ease-in-out;  transition:0.4s ease-in-out;  filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.eg-wilbert-wrapper:hover .esg-entry-media img{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.eg-phillie-element-3:after{content:" ";width:0px;height:0px;border-style:solid;border-width:5px 5px 0 5px;border-color:#000 transparent transparent transparent;left:50%;margin-left:-5px; bottom:-5px; position:absolute}.eg-howardtaft-wrapper .esg-entry-media img,.eg-howardtaft-wrapper .esg-media-poster{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/></filter></svg>#grayscale");  -webkit-filter:grayscale(0%)}.eg-howardtaft-wrapper:hover .esg-entry-media img,.eg-howardtaft-wrapper:hover .esg-media-poster{filter:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");   filter:gray;   -webkit-filter:grayscale(100%)}.myportfolio-container .added_to_cart.wc-forward{font-family:"Open Sans"; font-size:13px; color:#fff; margin-top:10px}.esgbox-title.esgbox-title-outside-wrap{font-size:15px; font-weight:700; text-align:center}.esgbox-title.esgbox-title-inside-wrap{padding-bottom:10px; font-size:15px; font-weight:700; text-align:center}.esg-content.eg-twitterstream-element-33-a{display:inline-block}.eg-twitterstream-element-35{word-break:break-all}.esg-overlay.eg-twitterstream-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); background:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}.esg-content.eg-facebookstream-element-33-a{display:inline-block}.eg-facebookstream-element-0{word-break:break-all}.esg-overlay.eg-flickrstream-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); background:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); background:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}</style>
+<!-- CACHE CREATED FOR: 1 --><style type="text/css">.minimal-light .navigationbuttons,.minimal-light .esg-pagination,.minimal-light .esg-filters{text-align:center}.minimal-light .esg-filterbutton,.minimal-light .esg-navigationbutton,.minimal-light .esg-sortbutton,.minimal-light .esg-cartbutton a{color:#999; margin-right:5px; cursor:pointer; padding:0px 16px; border:1px solid #e5e5e5; line-height:38px; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; font-size:12px; font-weight:700; font-family:"Open Sans",sans-serif; display:inline-block; background:#fff; margin-bottom:5px}.minimal-light .esg-navigationbutton *{color:#999}.minimal-light .esg-navigationbutton{padding:0px 16px}.minimal-light .esg-pagination-button:last-child{margin-right:0}.minimal-light .esg-left,.minimal-light .esg-right{padding:0px 11px}.minimal-light .esg-sortbutton-wrapper,.minimal-light .esg-cartbutton-wrapper{display:inline-block}.minimal-light .esg-sortbutton-order,.minimal-light .esg-cartbutton-order{display:inline-block;  vertical-align:top;  border:1px solid #e5e5e5;  width:40px;  line-height:38px;  border-radius:0px 5px 5px 0px;  -moz-border-radius:0px 5px 5px 0px;  -webkit-border-radius:0px 5px 5px 0px;  font-size:12px;  font-weight:700;  color:#999;  cursor:pointer;  background:#fff}.minimal-light .esg-cartbutton{color:#333; cursor:default !important}.minimal-light .esg-cartbutton .esgicon-basket{color:#333;   font-size:15px;   line-height:15px;   margin-right:10px}.minimal-light .esg-cartbutton-wrapper{cursor:default !important}.minimal-light .esg-sortbutton,.minimal-light .esg-cartbutton{display:inline-block; position:relative; cursor:pointer; margin-right:0px; border-right:none; border-radius:5px 0px 0px 5px; -moz-border-radius:5px 0px 0px 5px; -webkit-border-radius:5px 0px 0px 5px}.minimal-light .esg-navigationbutton:hover,.minimal-light .esg-filterbutton:hover,.minimal-light .esg-sortbutton:hover,.minimal-light .esg-sortbutton-order:hover,.minimal-light .esg-cartbutton a:hover,.minimal-light .esg-filterbutton.selected{background-color:#fff;   border-color:#bbb;   color:#333;   box-shadow:0px 3px 5px 0px rgba(0,0,0,0.13)}.minimal-light .esg-navigationbutton:hover *{color:#333}.minimal-light .esg-sortbutton-order.tp-desc:hover{border-color:#bbb; color:#333; box-shadow:0px -3px 5px 0px rgba(0,0,0,0.13) !important}.minimal-light .esg-filter-checked{padding:1px 3px;  color:#cbcbcb;  background:#cbcbcb;  margin-left:7px;  font-size:9px;  font-weight:300;  line-height:9px;  vertical-align:middle}.minimal-light .esg-filterbutton.selected .esg-filter-checked,.minimal-light .esg-filterbutton:hover .esg-filter-checked{padding:1px 3px 1px 3px;  color:#fff;  background:#000;  margin-left:7px;  font-size:9px;  font-weight:300;  line-height:9px;  vertical-align:middle}.minimal-light .esg-filterbutton{color:#999 !important}.minimal-light .esg-selected-filterbutton{border:1px solid #E5E5E5;background:#fff; padding:10px 20px 10px 30px; color:#999; border-radius:4px;font-weight:700}.minimal-light .esg-selected-filterbutton .eg-icon-down-open{margin-left:5px;font-size:12px; line-height:20px; vertical-align:top; color:#999}.minimal-light .esg-filter-wrapper .esg-filterbutton span i{color:#fff !important}.minimal-light .esg-filter-wrapper .esg-filterbutton:hover span,.minimal-light .esg-filter-wrapper .esg-filterbutton.selected span{color:#000 !important}.minimal-light .esg-filter-wrapper .esg-filterbutton:hover span i,.minimal-light .esg-filter-wrapper .esg-filterbutton.selected span i{color:#fff !important}.minimal-light .esg-selected-filterbutton:hover .eg-icon-down-open,.minimal-light .esg-selected-filterbutton.hoveredfilter .eg-icon-down-open{color:rgba(0,0,0,1) !important}.minimal-light .esg-cartbutton:hover,.minimal-light .esg-selected-filterbutton:hover,.minimal-light .esg-selected-filterbutton.hoveredfilter{border-color:#bbb; color:#333; box-shadow:0px 3px 5px 0px rgba(0,0,0,0.13)}.minimal-light .esg-dropdown-wrapper{background:#fff; border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px; border:1px solid #bbb; box-shadow:0px 3px 5px 0px rgba(0,0,0,0.13)}.minimal-light .esg-dropdown-wrapper .esg-filterbutton{border:none !important;line-height:25px; white-space:nowrap; padding:0px 10px; font-weight:700; text-align:left; color:#999}.minimal-light .esg-dropdown-wrapper .esg-filterbutton:hover,.minimal-light .esg-dropdown-wrapper .esg-filterbutton.selected{background:transparent !important; color:#000 !important; box-shadow:none !important}.minimal-light .esg-dropdown-wrapper .esg-filter-checked{display:inline-block; margin-left:0px !important;margin-right:7px; margin-top:-2px !important; line-height:15px !important}.minimal-light .esg-dropdown-wrapper .esg-filter-checked span{vertical-align:middle; line-height:20px}</style>
+<style type="text/css">.eg-madison-element-0{font-size:16px; line-height:22px; color:#ffffff; font-weight:400; display:inline-block; float:none; clear:none; margin:0px 10px 0px 0px ; padding:19px 19px 19px 19px ; border-radius:60px 60px 60px 60px ; background-color:rgba(255,255,255,0.15); position:relative; z-index:2 !important; border-top-width:0px; border-right-width:0px; border-bottom-width:0px; border-left-width:0px; border-color:#ffffff; border-style:solid}.eg-madison-element-1{font-size:16px !important; line-height:22px !important; color:#ffffff !important; font-weight:400 !important; padding:19px 19px 19px 19px !important; border-radius:60px 60px 60px 60px !important; background-color:rgba(255,255,255,0.15) !important; z-index:2 !important; display:block; border-top-width:0px !important; border-right-width:0px !important; border-bottom-width:0px !important; border-left-width:0px !important; border-color:#ffffff !important; border-style:solid !important}.eg-madison-element-3{font-size:13px; line-height:20px; color:#ffffff; font-weight:700; display:inline-block; float:none; clear:both; margin:15px 0px 0px 0px ; padding:5px 10px 5px 10px ; border-radius:0px 0px 0px 0px ; background-color:rgba(255,255,255,0.15); position:relative; z-index:2 !important; text-transform:uppercase}.eg-madison-element-5{font-size:12px; line-height:20px; color:#ffffff; font-weight:400; display:inline-block; float:none; clear:both; margin:0px 0px 0px 0px ; padding:5px 10px 5px 10px ; border-radius:0px 0px 0px 0px ; background-color:rgba(255,255,255,0.15); position:relative; z-index:2 !important}</style>
+<style type="text/css">.eg-madison-element-0:hover{font-size:16px; line-height:22px; color:#ffffff; font-weight:400; border-radius:60px 60px 60px 60px ; background-color:rgba(0,0,0,0.25); border-top-width:0px; border-right-width:0px; border-bottom-width:0px; border-left-width:0px; border-color:#ffffff; border-style:solid}.eg-madison-element-1:hover{font-size:16px !important; line-height:22px !important; color:#ffffff !important; font-weight:400 !important; border-radius:60px 60px 60px 60px !important; background-color:rgba(0,0,0,0.25) !important; border-top-width:0px !important; border-right-width:0px !important; border-bottom-width:0px !important; border-left-width:0px !important; border-color:#ffffff !important; border-style:solid !important}</style>
+<style type="text/css">.eg-madison-element-1-a{display:inline-block !important; float:none !important; clear:none !important; margin:0px 0px 0px 0px !important; position:relative !important}</style>
+<style type="text/css">.eg-madison-container{background-color:rgba(88,92,103,1.00)}</style>
+<style type="text/css">.eg-madison-content{background-color:#ffffff; padding:0px 0px 0px 0px; border-width:0px 0px 0px 0px; border-radius:0px 0px 0px 0px; border-color:#000000; border-style:solid; text-align:left}</style>
+<style type="text/css">.esg-grid .mainul li.eg-madison-wrapper{background-color:#585c67; padding:0px 0px 0px 0px; border-width:2px 2px 2px 2px; border-radius:0px 0px 0px 0px; border-color:#000000; border-style:solid}</style>
+<style type="text/css">.esg-grid .mainul li.eg-madison-wrapper .esg-media-poster{background-size:cover; background-position:center center; background-repeat:no-repeat}</style>
+<!-- THE ESSENTIAL GRID 2.1.0.2 POST -->
+
+<article class="myportfolio-container minimal-light" id="10">
+
+    <div id="esg-grid-1-1" class="esg-grid" style="background-color: transparent;padding: 0px 0px 0px 0px ; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; display:none">
+<article class="esg-filters esg-singlefilters" style="margin-bottom: 0px; text-align: center; "><!-- THE FILTER BUTTONS --><div class="esg-filter-wrapper  esg-fgc-1" style="margin-left: 2.5px; margin-right: 2.5px;"><div class="esg-filterbutton selected esg-allfilter" data-filter="filterall" data-fid="-1"><span>Filter - All</span></div><div class="esg-filterbutton" data-fid="42" data-pid="7" data-filter="filter-pg"><span>PG</span><span class="esg-filter-checked"><i class="eg-icon-ok-1"></i></span></div><div class="esg-filterbutton" data-fid="8" data-pid="7" data-filter="filter-pg13"><span>PG13</span><span class="esg-filter-checked"><i class="eg-icon-ok-1"></i></span></div><div class="esg-filterbutton" data-fid="43" data-pid="7" data-filter="filter-r"><span>R</span><span class="esg-filter-checked"><i class="eg-icon-ok-1"></i></span></div><div class="eg-clearfix"></div></div></article><div class="esg-clear-no-height"></div><ul>
+<li id="eg-1-post-id-7813" class="filterall filter-action filter-adventure filter-pg13 filter-suspense filter-thriller eg-madison-wrapper eg-post-id-7813" data-date="1487805970">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="205321532" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/02/XXX-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7813 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7813 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7813" href="http://www.venturecinema.net/xxx-the-return-of-xander-cage-pg13/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7813 eg-madison-element-3 esg-slideup" data-delay="0.35">XXX: THE RETURN OF XANDER CAGE (PG13)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7813 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7810" class="filterall filter-action filter-adventure filter-r filter-suspense filter-thriller eg-madison-wrapper eg-post-id-7810" data-date="1487805863">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="205321394" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/02/SLEEPLESS-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7810 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7810 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7810" href="http://www.venturecinema.net/sleepless-r/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7810 eg-madison-element-3 esg-slideup" data-delay="0.35">SLEEPLESS (R)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7810 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7805" class="filterall filter-fantasy filter-pg filter-science-fiction eg-madison-wrapper eg-post-id-7805" data-date="1487805470">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="205321227" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/02/A-DOGS-PURPOSE-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7805 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7805 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7805" href="http://www.venturecinema.net/a-dogs-purpose-pg/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7805 eg-madison-element-3 esg-slideup" data-delay="0.35">A DOG'S PURPOSE (PG)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7805 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7772" class="filterall filter-action filter-adventure filter-fantasy filter-pg13 filter-science-fiction eg-madison-wrapper eg-post-id-7772" data-date="1487191189">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="204268049" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/02/ROGUE-ONE-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7772 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7772 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7772" href="http://www.venturecinema.net/rogue-one-a-star-wars-story-pg13/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7772 eg-madison-element-3 esg-slideup" data-delay="0.35">ROGUE ONE: A STAR WARS STORY (PG13)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7772 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7768" class="filterall filter-animation filter-comedy filter-pg eg-madison-wrapper eg-post-id-7768" data-date="1487191017">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="204265121" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/02/SING-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7768 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7768 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7768" href="http://www.venturecinema.net/sing-pg/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7768 eg-madison-element-3 esg-slideup" data-delay="0.35">SING (PG)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7768 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7764" class="filterall filter-action filter-adventure filter-horror filter-r eg-madison-wrapper eg-post-id-7764" data-date="1487190716">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="204266252" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/02/RESIDENT-EVIL-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7764 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7764 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7764" href="http://www.venturecinema.net/resident-evil-the-final-chapter-r/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7764 eg-madison-element-3 esg-slideup" data-delay="0.35">RESIDENT EVIL: THE FINAL CHAPTER (R)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7764 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7760" class="filterall filter-drama filter-r eg-madison-wrapper eg-post-id-7760" data-date="1487190506">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="204264176" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/02/SILENCE-LS-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7760 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7760 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7760" href="http://www.venturecinema.net/silence-r/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7760 eg-madison-element-3 esg-slideup" data-delay="0.35">SILENCE (R)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7760 eg-madison-element-5 esg-slidedown" data-delay="0.45">Last screening this Thursday, don’t miss out! For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7756" class="filterall filter-adventure filter-drama filter-r eg-madison-wrapper eg-post-id-7756" data-date="1487185699">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="204263377" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/02/GOLD-LS-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7756 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7756 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7756" href="http://www.venturecinema.net/gold-r/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7756 eg-madison-element-3 esg-slideup" data-delay="0.35">GOLD (R)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7756 eg-madison-element-5 esg-slidedown" data-delay="0.45">Last screening this Thursday, don’t miss out! For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7724" class="filterall filter-drama filter-r eg-madison-wrapper eg-post-id-7724" data-date="1486561243">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="203016997" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/02/PATRIOTS-DAY-LS-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7724 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7724 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7724" href="http://www.venturecinema.net/patriots-day-r/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7724 eg-madison-element-3 esg-slideup" data-delay="0.35">PATRIOTS DAY (R)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7724 eg-madison-element-5 esg-slidedown" data-delay="0.45">Last screening this Thursday, don’t miss out! For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7726" class="filterall filter-drama filter-pg13 eg-madison-wrapper eg-post-id-7726" data-date="1486561187">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="203019690" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/02/FENCES-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7726 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7726 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7726" href="http://www.venturecinema.net/fences-pg13/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7726 eg-madison-element-3 esg-slideup" data-delay="0.35">FENCES (PG13)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7726 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7727" class="filterall filter-action filter-adventure filter-animation filter-pg eg-madison-wrapper eg-post-id-7727" data-date="1486561142">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="203020077" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/02/MONSTER-TRUCKS-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7727 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7727 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7727" href="http://www.venturecinema.net/monster-trucks-pg/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7727 eg-madison-element-3 esg-slideup" data-delay="0.35">MONSTER TRUCKS (PG)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7727 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7686" class="filterall filter-action filter-adventure filter-animation filter-pg eg-madison-wrapper eg-post-id-7686" data-date="1485899863">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="201964828" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/01/MOANA-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7686 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7686 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7686" href="http://www.venturecinema.net/moana-pg/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7686 eg-madison-element-3 esg-slideup" data-delay="0.35">MOANA (PG)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7686 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7685" class="filterall filter-action filter-adventure filter-horror filter-r eg-madison-wrapper eg-post-id-7685" data-date="1485899829">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="201964556" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/01/UNDERWORLD-BLOOD-WARS-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7685 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7685 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7685" href="http://www.venturecinema.net/underworld-blood-wars-r/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7685 eg-madison-element-3 esg-slideup" data-delay="0.35">UNDERWORLD: BLOOD WARS (R)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7685 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7632" class="filterall filter-action filter-adventure filter-pg13 filter-romance eg-madison-wrapper eg-post-id-7632" data-date="1484779238">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="200107374" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2017/01/PASSENGERS-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7632 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7632 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7632" href="http://www.venturecinema.net/passengers-pg13/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7632 eg-madison-element-3 esg-slideup" data-delay="0.35">PASSENGERS (PG13)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7632 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-1-post-id-7532" class="filterall filter-action filter-adventure filter-animation filter-pg eg-madison-wrapper eg-post-id-7532" data-date="1482402823">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media esg-flipverticalout" data-delay="0"><div class="esg-media-video" data-vimeo="196663853" width="640" height="480" data-poster="http://www.venturecinema.net/wp-content/uploads/2016/12/TROLLS-WEB.png"></div></div>
+
+            <div class="esg-entry-cover esg-fade" data-delay="0">
+
+                <div class="esg-overlay esg-flipvertical eg-madison-container" data-delay="0"></div>
+
+				<div class="esg-center eg-post-7532 esg-click-to-play-video eg-madison-element-0 esg-zoomfront" data-delay="0.5"><i class="eg-icon-play"></i></div>
+				<div class="esg-center eg-post-7532 eg-madison-element-1-a esg-zoomfront" data-delay="0.35"><a class="eg-madison-element-1 eg-post-7532" href="http://www.venturecinema.net/trolls-pg/" target="_self"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-madison-element-6 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7532 eg-madison-element-3 esg-slideup" data-delay="0.35">TROLLS (PG)</div>
+              <div class="esg-center eg-madison-element-7 esg-none esg-clear" style="height: 5px; visibility: hidden;"></div>
+				<div class="esg-center eg-post-7532 eg-madison-element-5 esg-slidedown" data-delay="0.45">For showtimes info, visit the showtimes' page</div>
+           </div>
+   </div>
+
+</li>
+</ul>
+<article class="esg-filters esg-singlefilters" style="margin-top: 0px; text-align: center; "><div class="esg-pagination  esg-fgc-1" style="margin-left: 2.5px; margin-right: 2.5px;"></div></article><div class="esg-clear-no-height"></div>    </div>
+
+</article>
+<div class="clear"></div>
+</div></div>				</div><!-- end #ez-home-top-1 -->
+	
+			</div><!-- end .ez-home-wrap -->
+
+		</div><!-- end #ez-home-top-container -->
+		
+		<div id="ez-home-bottom-container" class="ez-home-container-area ez-home-bottom clearfix">
+
+			<div class="ez-home-wrap clearfix">
+			
+				<div id="ez-home-bottom-1" class="widget-area ez-widget-area one-third first">
+					<div id="text-68" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"></div>
+		</div></div>				</div><!-- end #ez-home-bottom-1 -->
+	
+				<div id="ez-home-bottom-2" class="widget-area ez-widget-area one-third">
+					<div id="text-80" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"></div>
+		</div></div>				</div><!-- end #ez-home-bottom-2 -->
+	
+				<div id="ez-home-bottom-3" class="widget-area ez-widget-area one-third">
+					<div id="text-81" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"></div>
+		</div></div>				</div><!-- end #ez-home-bottom-3 -->
+	
+			</div><!-- end .ez-home-wrap -->
+
+		</div><!-- end #ez-home-bottom-container -->
+		
+		<img src="http://www.venturecinema.net/wp-content/themes/dynamik-gen/images/content-filler.png" class="dynamik-content-filler-img" alt="">	
+	</div><!-- end #ez-home-container-wrap -->
+	</div><!-- end #home-hook-wrap -->
+	</div>	<div id="ez-fat-footer-container-wrap" class="clearfix">
+	
+		<div id="ez-fat-footer-container" class="clearfix">
+	
+			<div id="ez-fat-footer-1" class="widget-area ez-widget-area one-third first">
+				<div id="text-56" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"></div>
+		</div></div>			</div><!-- end #fat-footer-1 -->
+	
+			<div id="ez-fat-footer-2" class="widget-area ez-widget-area one-third">
+				<div id="text-57" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"></div>
+		</div></div>			</div><!-- end #fat-footer-2 -->
+	
+			<div id="ez-fat-footer-3" class="widget-area ez-widget-area one-third">
+				<div id="text-58" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"></div>
+		</div></div>			</div><!-- end #fat-footer-3 -->
+					
+		</div><!-- end #fat-footer-container -->
+		
+	</div><!-- end #fat-footer-container-wrap -->
+<div id="footer" class="footer"><div class="wrap"><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to top of page</a></p></div><div class="creds"><p>Copyright &#x000A9;&nbsp;2017 · Hosting by <a href="http://www.hostroadway.com">HostRoadway</a> · <a href="http://webmail.hostroadway.com/">Email Access</a> · <a href="http://amzn.to/2d9LOUt">Amazon (i@vc.n/Ri1)</a></p></div></div></div></div>			<script type="text/javascript">
+				(function (d, a) {
+					var h = d.getElementsByTagName("head")[0], p = d.location.protocol, s;
+					wl_ef_uid = a;
+					s = d.createElement("script");
+					s.type = "text/javascript";
+					s.charset = "utf-8";
+					s.async = true;
+					s.defer = true;
+					s.src = "//app.wishloop.com/js/ef_embed.min.js";
+					h.appendChild(s);
+				})(document, '5578');
+			</script>
+		<!-- begin visitor maps  -->
+<script type="text/javascript">
+//<![CDATA[
+function wo_map_console(url) {
+  window.open(url,"wo_map_console","height=650,width=800,toolbar=no,statusbar=no,scrollbars=yes").focus();
+}
+//]]>
+</script>
+<!-- end visitor maps -->
+			<script>
+				var affwpds_ajaxurl = "http://www.venturecinema.net/wp-admin/admin-ajax.php";
+				jQuery(document).ready(function ($) {
+				  	
+				  $( '#affwp-generate-ref-url' ).append( '<div id="affwp-affiliate-dashboard-sharing"></div>' );
+
+				   $( '#affwp-generate-ref-url' ).submit( function() {
+				    
+				      var url    = $('#affwp-referral-url').val();
+				      console.log( url );    
+				     
+				      var data   = {
+				          action: 'affiliate_share',
+				          url : url
+				      };
+
+				      $.ajax({
+				          type: "POST",
+				          data: data,
+				          dataType: "json",
+				          url: affwpds_ajaxurl,
+				          success: function (response) {
+
+				            if ( response.sharing ) {
+
+				               $( '#affwp-affiliate-dashboard-sharing' ).empty().append( response.sharing );
+
+                				// LinkedIn
+                				if ( typeof (IN) != 'undefined' ) {
+                				    IN.parse();
+                				} 
+                				else {
+                				   $.getScript("https://platform.linkedin.com/in.js");
+                				}
+
+								// Twitter
+								if ( typeof (twttr) != 'undefined' ) {
+									twttr.widgets.load();
+								} 
+								else {
+									$.getScript('http://platform.twitter.com/widgets.js');
+								}
+
+								// Facebook
+								if ( typeof (FB) != 'undefined' ) {
+									FB.init({ status: true, cookie: true, xfbml: true });
+								} 
+								else {
+									$.getScript("http://connect.facebook.net/en_US/all.js#xfbml=1", function () {
+										FB.init({ 
+											status: true, 
+											cookie: true, 
+											xfbml: true
+										});
+									});
+								}
+
+            				   // Google
+        				       if ( typeof (gapi) != 'undefined' ) {
+        				           $(".g-plusone").each(function () {
+        				           		gapi.plusone.render( $(this).get(0), { "size": "tall" } );
+        				           });
+        				       } else {
+        				           $.getScript('https://apis.google.com/js/plusone.js');
+        				       }
+
+				            }
+
+				          }
+				      }).fail(function (response) {
+				          console.log(response);
+				      }).done(function (response) {
+
+				      });
+
+				   });
+
+				});
+
+			</script>
+			<script type="text/javascript">
+var essapi_1;
+jQuery(document).ready(function() {
+	essapi_1 = jQuery("#esg-grid-1-1").tpessential({
+        gridID:1,
+        layout:"even",
+        forceFullWidth:"off",
+        lazyLoad:"off",
+        row:20,
+        loadMoreAjaxToken:"448a435abb",
+        loadMoreAjaxUrl:"http://www.venturecinema.net/wp-admin/admin-ajax.php",
+        loadMoreAjaxAction:"Essential_Grid_Front_request_ajax",
+        ajaxContentTarget:"ess-grid-ajax-container-",
+        ajaxScrollToOffset:"0",
+        ajaxCloseButton:"off",
+        ajaxContentSliding:"on",
+        ajaxScrollToOnLoad:"on",
+        ajaxNavButton:"off",
+        ajaxCloseType:"type1",
+        ajaxCloseInner:"false",
+        ajaxCloseStyle:"light",
+        ajaxClosePosition:"tr",
+        space:10,
+        pageAnimation:"fade",
+        paginationScrollToTop:"off",
+        spinner:"spinner0",
+        evenGridMasonrySkinPusher:"off",
+        lightBoxMode:"single",
+        animSpeed:1000,
+        delayBasic:1,
+        mainhoverdelay:1,
+        filterType:"single",
+        showDropFilter:"hover",
+        filterGroupClass:"esg-fgc-1",
+        googleFonts:['Open+Sans:300,400,600,700,800','Raleway:100,200,300,400,500,600,700,800,900','Droid+Serif:400,700'],
+        aspectratio:"16:9",
+        responsiveEntries: [
+						{ width:1400,amount:3,mmheight:0},
+						{ width:1170,amount:3,mmheight:0},
+						{ width:1024,amount:3,mmheight:0},
+						{ width:960,amount:3,mmheight:0},
+						{ width:778,amount:3,mmheight:0},
+						{ width:640,amount:3,mmheight:0},
+						{ width:480,amount:1,mmheight:0}
+						]
+	});
+
+});
+</script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/essential-grid/public/assets/js/lightbox.js?ver=2.1.0.2'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.tools.min.js?ver=2.1.0.2'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.5'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.4.2'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/themes/genesis/lib/js/menu/superfish.compat.min.js?ver=2.4.2'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/themes/dynamik-gen/lib/js/responsive.js?ver=2.0.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var it_exchange_customer_pricing_ajax_object = {"ajax_url":"http:\/\/www.venturecinema.net\/wp-admin\/admin-ajax.php","timer":"500"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/exchange-addon-customer-pricing/lib/assets/js/customer-pricing.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/ithemes-exchange/lib/assets/js/jquery.zoom.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/exchange-addon-membership/lib/assets/js/membership-dashboard.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/wp-funnlr/includes/js/fancybox/jquery.fancybox.js'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/wp-funnlr/includes/js/fancybox/jquery.fancybox-transitions.js'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/wp-funnlr/includes/js/funnlr-hello-bar.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.venturecinema.net/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.essential.min.js?ver=2.1.0.2'></script>
+</body></html>
+
+<!-- Dynamic page generated in 1.900 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-02-23 02:42:26 -->
+
+<!-- super cache -->

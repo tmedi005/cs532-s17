@@ -1,0 +1,950 @@
+   [p?c1=2&c2=6035223&cv=2.0&cj=1]
+
+   This site is optimized for Javascript enabled browsers. Please turn on
+   Javascript for a better browsing experience.
+     __________________________________________________________________
+
+   [1]SportSpyder
+   ____________________ Search
+
+   [2]Sign In | [3]Join SportSpyder
+     __________________________________________________________________
+
+     * [4]Home
+     * [5]MLB
+
+AL East
+          + [6]Baltimore Orioles
+          + [7]Boston Red Sox
+          + [8]New York Yankees
+          + [9]Tampa Bay Rays
+          + [10]Toronto Blue Jays
+
+AL Central
+          + [11]Chicago White Sox
+          + [12]Cleveland Indians
+          + [13]Detroit Tigers
+          + [14]Kansas City Royals
+          + [15]Minnesota Twins
+
+AL West
+          + [16]Houston Astros
+          + [17]Los Angeles Angels
+          + [18]Oakland A's
+          + [19]Seattle Mariners
+          + [20]Texas Rangers
+
+NL East
+          + [21]Atlanta Braves
+          + [22]Miami Marlins
+          + [23]New York Mets
+          + [24]Philadelphia Phillies
+          + [25]Washington Nationals
+
+NL Central
+          + [26]Chicago Cubs
+          + [27]Cincinnati Reds
+          + [28]Milwaukee Brewers
+          + [29]Pittsburgh Pirates
+          + [30]St. Louis Cardinals
+
+NL West
+          + [31]Arizona Diamondbacks
+          + [32]Colorado Rockies
+          + [33]Los Angeles Dodgers
+          + [34]San Diego Padres
+          + [35]San Francisco Giants
+       MLB: [36]Articles | [37]Tweets
+     * [38]NFL
+
+NFC East
+          + [39]Dallas Cowboys
+          + [40]New York Giants
+          + [41]Philadelphia Eagles
+          + [42]Washington Redskins
+
+NFC North
+          + [43]Chicago Bears
+          + [44]Detroit Lions
+          + [45]Green Bay Packers
+          + [46]Minnesota Vikings
+
+NFC South
+          + [47]Atlanta Falcons
+          + [48]Carolina Panthers
+          + [49]New Orleans Saints
+          + [50]Tampa Bay Buccaneers
+
+NFC West
+          + [51]Arizona Cardinals
+          + [52]Los Angeles Rams
+          + [53]San Francisco 49ers
+          + [54]Seattle Seahawks
+
+AFC East
+          + [55]Buffalo Bills
+          + [56]Miami Dolphins
+          + [57]New England Patriots
+          + [58]New York Jets
+
+AFC North
+          + [59]Baltimore Ravens
+          + [60]Cincinnati Bengals
+          + [61]Cleveland Browns
+          + [62]Pittsburgh Steelers
+
+AFC South
+          + [63]Houston Texans
+          + [64]Indianapolis Colts
+          + [65]Jacksonville Jaguars
+          + [66]Tennessee Titans
+
+AFC West
+          + [67]Denver Broncos
+          + [68]Kansas City Chiefs
+          + [69]Oakland Raiders
+          + [70]San Diego Chargers
+       NFL: [71]Articles | [72]Tweets
+     * [73]NBA
+
+Northwest
+          + [74]Denver Nuggets
+          + [75]Minnesota Timberwolves
+          + [76]Oklahoma City Thunder
+          + [77]Portland Trail Blazers
+          + [78]Utah Jazz
+
+Pacific
+          + [79]Golden State Warriors
+          + [80]Los Angeles Clippers
+          + [81]Los Angeles Lakers
+          + [82]Phoenix Suns
+          + [83]Sacramento Kings
+
+Southwest
+          + [84]Dallas Mavericks
+          + [85]Houston Rockets
+          + [86]Memphis Grizzlies
+          + [87]New Orleans Pelicans
+          + [88]San Antonio Spurs
+
+Central
+          + [89]Chicago Bulls
+          + [90]Cleveland Cavaliers
+          + [91]Detroit Pistons
+          + [92]Indiana Pacers
+          + [93]Milwaukee Bucks
+
+Atlantic
+          + [94]Boston Celtics
+          + [95]Brooklyn Nets
+          + [96]New York Knicks
+          + [97]Philadelphia 76ers
+          + [98]Toronto Raptors
+
+Southeast
+          + [99]Atlanta Hawks
+          + [100]Charlotte Hornets
+          + [101]Miami Heat
+          + [102]Orlando Magic
+          + [103]Washington Wizards
+       NBA: [104]Articles | [105]Tweets
+     * [106]NHL
+
+Atlantic
+          + [107]Boston Bruins
+          + [108]Buffalo Sabres
+          + [109]Detroit Red Wings
+          + [110]Florida Panthers
+          + [111]Montreal Canadiens
+          + [112]Ottawa Senators
+          + [113]Tampa Bay Lightning
+          + [114]Toronto Maple Leafs
+
+Metropolitan
+          + [115]Carolina Hurricanes
+          + [116]Columbus Blue Jackets
+          + [117]New Jersey Devils
+          + [118]New York Islanders
+          + [119]New York Rangers
+          + [120]Philadelphia Flyers
+          + [121]Pittsburgh Penguins
+          + [122]Washington Capitals
+
+Central
+          + [123]Chicago Blackhawks
+          + [124]Colorado Avalanche
+          + [125]Dallas Stars
+          + [126]Minnesota Wild
+          + [127]Nashville Predators
+          + [128]St. Louis Blues
+          + [129]Winnipeg Jets
+
+Pacific
+          + [130]Anaheim Ducks
+          + [131]Arizona Coyotes
+          + [132]Calgary Flames
+          + [133]Edmonton Oilers
+          + [134]Los Angeles Kings
+          + [135]San Jose Sharks
+          + [136]Vancouver Canucks
+       NHL: [137]Articles | [138]Tweets
+     * [139]NCAA Basketball
+
+ACC
+          + [140]Boston College
+          + [141]Clemson
+          + [142]Duke
+          + [143]Florida State
+          + [144]Georgia Tech
+          + [145]Louisville
+          + [146]Miami
+          + [147]N.C. State
+          + [148]North Carolina
+          + [149]Notre Dame
+          + [150]Pittsburgh
+          + [151]Syracuse
+          + [152]Virginia
+          + [153]Virginia Tech
+          + [154]Wake Forest
+
+SEC
+          + [155]Alabama
+          + [156]Arkansas
+          + [157]Auburn
+          + [158]Florida
+          + [159]Georgia
+          + [160]Kentucky
+          + [161]LSU
+          + [162]Mississippi State
+          + [163]Missouri
+          + [164]Ole Miss
+          + [165]South Carolina
+          + [166]Tennessee
+          + [167]Texas A&M
+          + [168]Vanderbilt
+
+Atlantic Ten
+          + [169]Dayton
+          + [170]Duquesne
+          + [171]Fordham
+          + [172]George Washington
+          + [173]La Salle
+          + [174]Massachusetts
+          + [175]Rhode Island
+          + [176]Richmond
+          + [177]Saint Joseph's
+          + [178]Saint Louis
+          + [179]St. Bonaventure
+
+Big Ten
+          + [180]Illinois
+          + [181]Indiana
+          + [182]Iowa
+          + [183]Maryland
+          + [184]Michigan
+          + [185]Michigan State
+          + [186]Minnesota
+          + [187]Nebraska
+          + [188]Northwestern
+          + [189]Ohio State
+          + [190]Penn State
+          + [191]Purdue
+          + [192]Rutgers
+          + [193]Wisconsin
+
+Pac-12
+          + [194]Arizona
+          + [195]Arizona State
+          + [196]California
+          + [197]Colorado
+          + [198]Oregon
+          + [199]Oregon State
+          + [200]Stanford
+          + [201]UCLA
+          + [202]USC
+          + [203]Utah
+          + [204]Washington
+          + [205]Washington State
+
+Big 12
+          + [206]Baylor
+          + [207]Iowa State
+          + [208]Kansas
+          + [209]Kansas State
+          + [210]Oklahoma
+          + [211]Oklahoma State
+          + [212]Texas
+          + [213]Texas Tech
+          + [214]West Virginia
+
+Big East
+          + [215]Butler
+          + [216]Georgetown
+          + [217]Marquette
+          + [218]Providence
+          + [219]Seton Hall
+          + [220]St. John's
+          + [221]Villanova
+          + [222]Xavier
+
+American Athletic
+          + [223]Cincinnati
+          + [224]Connecticut
+          + [225]Memphis
+          + [226]Temple
+
+Other
+          + [227]Albany
+          + [228]Brigham Young
+          + [229]Charlotte
+          + [230]Gonzaga
+          + [231]San Diego State
+          + [232]Siena
+       NCAA Basketball: [233]Articles | [234]Tweets
+     * [235]NCAA Football
+
+ACC
+          + [236]Boston College
+          + [237]Clemson
+          + [238]Duke
+          + [239]Florida State
+          + [240]Georgia Tech
+          + [241]Louisville
+          + [242]Miami
+          + [243]N.C. State
+          + [244]North Carolina
+          + [245]Pittsburgh
+          + [246]Syracuse
+          + [247]Virginia
+          + [248]Virginia Tech
+          + [249]Wake Forest
+
+SEC
+          + [250]Alabama
+          + [251]Arkansas
+          + [252]Auburn
+          + [253]Florida
+          + [254]Georgia
+          + [255]Kentucky
+          + [256]LSU
+          + [257]Mississippi State
+          + [258]Missouri
+          + [259]Ole Miss
+          + [260]South Carolina
+          + [261]Tennessee
+          + [262]Texas A&M
+          + [263]Vanderbilt
+
+Big Ten
+          + [264]Illinois
+          + [265]Indiana
+          + [266]Iowa
+          + [267]Maryland
+          + [268]Michigan
+          + [269]Michigan State
+          + [270]Minnesota
+          + [271]Nebraska
+          + [272]Northwestern
+          + [273]Ohio State
+          + [274]Penn State
+          + [275]Purdue
+          + [276]Rutgers
+          + [277]Wisconsin
+
+Pac-12
+          + [278]Arizona
+          + [279]Arizona State
+          + [280]California
+          + [281]Colorado
+          + [282]Oregon
+          + [283]Oregon State
+          + [284]Stanford
+          + [285]UCLA
+          + [286]USC
+          + [287]Utah
+          + [288]Washington
+          + [289]Washington State
+
+American Athletic
+          + [290]Cincinnati
+          + [291]Connecticut
+          + [292]Providence
+          + [293]South Florida
+          + [294]Temple
+
+Big 12
+          + [295]Baylor
+          + [296]Iowa State
+          + [297]Kansas
+          + [298]Kansas State
+          + [299]Oklahoma
+          + [300]Oklahoma State
+          + [301]TCU
+          + [302]Texas
+          + [303]Texas Tech
+          + [304]West Virginia
+
+Independents
+          + [305]Army
+          + [306]Navy
+          + [307]Notre Dame
+
+Other
+          + [308]Boise State
+          + [309]Brigham Young
+          + [310]Butler
+          + [311]San Diego State
+       NCAA Football: [312]Articles | [313]Tweets
+     * [314]MLS
+
+Eastern
+          + [315]Chicago Fire
+          + [316]Columbus Crew
+          + [317]DC United
+          + [318]Houston Dynamo
+          + [319]Montreal Impact
+          + [320]New England Revolution
+          + [321]New York City FC
+          + [322]New York Red Bulls
+          + [323]Orlando City SC
+          + [324]Philadelphia Union
+          + [325]Sporting Kansas City
+          + [326]Toronto FC
+
+Western
+          + [327]Colorado Rapids
+          + [328]FC Dallas
+          + [329]Los Angeles Galaxy
+          + [330]Portland Timbers
+          + [331]Real Salt Lake
+          + [332]San Jose Earthquakes
+          + [333]Seattle Sounders FC
+          + [334]Vancouver Whitecaps FC
+       MLS: [335]Articles | [336]Tweets
+     * [337]Premier League
+          + [338]AFC Bournemouth
+          + [339]Arsenal
+          + [340]Aston Villa
+          + [341]Blackburn Rovers
+          + [342]Bolton Wanderers
+          + [343]Chelsea
+          + [344]Crystal Palace
+          + [345]Everton
+          + [346]Fulham
+          + [347]Leicester City
+          + [348]Liverpool
+          + [349]Manchester City
+          + [350]Manchester United
+          + [351]Newcastle United
+          + [352]Norwich City
+          + [353]Queens Park Rangers
+          + [354]Reading
+          + [355]Southampton
+          + [356]Stoke City
+          + [357]Sunderland
+          + [358]Swansea City
+          + [359]Tottenham Hotspur
+          + [360]Watford
+          + [361]West Bromwich Albion
+          + [362]West Ham United
+          + [363]Wigan Athletic
+          + [364]Wolverhampton Wanderers
+       Premier League: [365]Articles | [366]Tweets
+
+     * [367]Following
+     * [368]Fantasy
+     __________________________________________________________________
+
+   [369]Nfl NFL Mike Lombardi Says He Doesn’t Believe Patriots ...
+     * [370]Articles
+     * [371]Tweets
+     * [372]Teams
+     * [373]Widgets
+
+     * IN
+     * [374]NFL News
+     * News Article
+
+   NESN
+   [375]Usatsi_9865657
+
+[376]Mike Lombardi Says He Doesn’t Believe Patriots Will Trade Jimmy
+Garoppolo
+
+   by: Doug Kyed — [377]NESN 4h
+   [378]Tweet
+     __________________________________________________________________
+
+   [379]Follow us on Twitter [380]Like us on Facebook [381]Read our Blog
+   [382]Send us Feedback
+   © 2005-2017 SportSpyder, LLC All rights reserved. [383]About |
+   [384]Contact Us | [385]Advertise | [386]Privacy
+
+   Partner of USA TODAY Sports Digital Properties.
+
+   Other marks, names, and titles are property of their respective owners.
+
+   SportSpyder is not affiliated with MLB, NFL, NBA, NHL, or NCAA in any
+   way.
+
+   Please Sign in
+   Close
+   [387]Don't have an account yet? Sign up →
+
+   Username ____________________
+   Password ____________________
+
+   [388]Forgot your password?
+
+   [389]Cancel (BUTTON) Sign in
+
+   Sign Up for a SportSpyder Account
+   Close
+   [390]Already have an account? Sign in →
+
+   Username*
+   ____________________
+   Your nickname on Sportspyder. At least 4 characters.
+   Password*
+   ____________________
+   Something hard to guess. At least 4 characters.
+   Email*
+   ______________________________ [ ]
+
+   [391]Cancel (BUTTON) Sign up
+
+   Upgrade to PRO
+   Close
+
+   This feature requires a SportSpyder PRO account.
+   [392]Cancel [393]Learn More
+
+   Ad Blocker Detected
+   Close
+
+   We notice you're running ad-blocking software. Please consider
+   supporting us by disabling ad blocking for SportSpyder, or sign up for
+   a free trial of our ad-free [394]SportSpyder Pro service.
+
+   - or -
+
+   Sign into your existing account.
+
+   Username ____________________
+   Password ____________________
+
+   [395]Forgot your password?
+
+   [396]Cancel (BUTTON) Sign in
+
+   Are you sure?
+   Close
+
+   Are you sure?
+
+   [397]Cancel (BUTTON) Confirm
+
+References
+
+   Visible links
+   1. file:///
+   2. file:///login
+   3. file:///users/new
+   4. file:///
+   5. file:///sports/mlb/teams
+   6. file:///mlb/baltimore-orioles/news
+   7. file:///mlb/boston-red-sox/news
+   8. file:///mlb/new-york-yankees/news
+   9. file:///mlb/tampa-bay-rays/news
+  10. file:///mlb/toronto-blue-jays/news
+  11. file:///mlb/chicago-white-sox/news
+  12. file:///mlb/cleveland-indians/news
+  13. file:///mlb/detroit-tigers/news
+  14. file:///mlb/kansas-city-royals/news
+  15. file:///mlb/minnesota-twins/news
+  16. file:///mlb/houston-astros/news
+  17. file:///mlb/los-angeles-angels/news
+  18. file:///mlb/oakland-athletics/news
+  19. file:///mlb/seattle-mariners/news
+  20. file:///mlb/texas-rangers/news
+  21. file:///mlb/atlanta-braves/news
+  22. file:///mlb/miami-marlins/news
+  23. file:///mlb/new-york-mets/news
+  24. file:///mlb/philadelphia-phillies/news
+  25. file:///mlb/washington-nationals/news
+  26. file:///mlb/chicago-cubs/news
+  27. file:///mlb/cincinnati-reds/news
+  28. file:///mlb/milwaukee-brewers/news
+  29. file:///mlb/pittsburgh-pirates/news
+  30. file:///mlb/st-louis-cardinals/news
+  31. file:///mlb/arizona-diamondbacks/news
+  32. file:///mlb/colorado-rockies/news
+  33. file:///mlb/los-angeles-dodgers/news
+  34. file:///mlb/san-diego-padres/news
+  35. file:///mlb/san-francisco-giants/news
+  36. file:///sports/mlb/news
+  37. file:///sports/mlb/tweets
+  38. file:///sports/nfl/teams
+  39. file:///nfl/dallas-cowboys/news
+  40. file:///nfl/new-york-giants/news
+  41. file:///nfl/philadelphia-eagles/news
+  42. file:///nfl/washington-redskins/news
+  43. file:///nfl/chicago-bears/news
+  44. file:///nfl/detroit-lions/news
+  45. file:///nfl/green-bay-packers/news
+  46. file:///nfl/minnesota-vikings/news
+  47. file:///nfl/atlanta-falcons/news
+  48. file:///nfl/carolina-panthers/news
+  49. file:///nfl/new-orleans-saints/news
+  50. file:///nfl/tampa-bay-buccaneers/news
+  51. file:///nfl/arizona-cardinals/news
+  52. file:///nfl/los-angeles-rams/news
+  53. file:///nfl/san-francisco-49ers/news
+  54. file:///nfl/seattle-seahawks/news
+  55. file:///nfl/buffalo-bills/news
+  56. file:///nfl/miami-dolphins/news
+  57. file:///nfl/new-england-patriots/news
+  58. file:///nfl/new-york-jets/news
+  59. file:///nfl/baltimore-ravens/news
+  60. file:///nfl/cincinnati-bengals/news
+  61. file:///nfl/cleveland-browns/news
+  62. file:///nfl/pittsburgh-steelers/news
+  63. file:///nfl/houston-texans/news
+  64. file:///nfl/indianapolis-colts/news
+  65. file:///nfl/jacksonville-jaguars/news
+  66. file:///nfl/tennessee-titans/news
+  67. file:///nfl/denver-broncos/news
+  68. file:///nfl/kansas-city-chiefs/news
+  69. file:///nfl/oakland-raiders/news
+  70. file:///nfl/san-diego-chargers/news
+  71. file:///sports/nfl/news
+  72. file:///sports/nfl/tweets
+  73. file:///sports/nba/teams
+  74. file:///nba/denver-nuggets/news
+  75. file:///nba/minnesota-timberwolves/news
+  76. file:///nba/oklahoma-city-thunder/news
+  77. file:///nba/portland-trail-blazers/news
+  78. file:///nba/utah-jazz/news
+  79. file:///nba/golden-state-warriors/news
+  80. file:///nba/los-angeles-clippers/news
+  81. file:///nba/los-angeles-lakers/news
+  82. file:///nba/phoenix-suns/news
+  83. file:///nba/sacramento-kings/news
+  84. file:///nba/dallas-mavericks/news
+  85. file:///nba/houston-rockets/news
+  86. file:///nba/memphis-grizzlies/news
+  87. file:///nba/new-orleans-pelicans/news
+  88. file:///nba/san-antonio-spurs/news
+  89. file:///nba/chicago-bulls/news
+  90. file:///nba/cleveland-cavaliers/news
+  91. file:///nba/detroit-pistons/news
+  92. file:///nba/indiana-pacers/news
+  93. file:///nba/milwaukee-bucks/news
+  94. file:///nba/boston-celtics/news
+  95. file:///nba/brooklyn-nets/news
+  96. file:///nba/new-york-knicks/news
+  97. file:///nba/philadelphia-76ers/news
+  98. file:///nba/toronto-raptors/news
+  99. file:///nba/atlanta-hawks/news
+ 100. file:///nba/charlotte-hornets/news
+ 101. file:///nba/miami-heat/news
+ 102. file:///nba/orlando-magic/news
+ 103. file:///nba/washington-wizards/news
+ 104. file:///sports/nba/news
+ 105. file:///sports/nba/tweets
+ 106. file:///sports/nhl/teams
+ 107. file:///nhl/boston-bruins/news
+ 108. file:///nhl/buffalo-sabres/news
+ 109. file:///nhl/detroit-red-wings/news
+ 110. file:///nhl/florida-panthers/news
+ 111. file:///nhl/montreal-canadiens/news
+ 112. file:///nhl/ottawa-senators/news
+ 113. file:///nhl/tampa-bay-lightning/news
+ 114. file:///nhl/toronto-maple-leafs/news
+ 115. file:///nhl/carolina-hurricanes/news
+ 116. file:///nhl/columbus-blue-jackets/news
+ 117. file:///nhl/new-jersey-devils/news
+ 118. file:///nhl/new-york-islanders/news
+ 119. file:///nhl/new-york-rangers/news
+ 120. file:///nhl/philadelphia-flyers/news
+ 121. file:///nhl/pittsburgh-penguins/news
+ 122. file:///nhl/washington-capitals/news
+ 123. file:///nhl/chicago-blackhawks/news
+ 124. file:///nhl/colorado-avalanche/news
+ 125. file:///nhl/dallas-stars/news
+ 126. file:///nhl/minnesota-wild/news
+ 127. file:///nhl/nashville-predators/news
+ 128. file:///nhl/st-louis-blues/news
+ 129. file:///nhl/winnipeg-jets/news
+ 130. file:///nhl/anaheim-ducks/news
+ 131. file:///nhl/arizona-coyotes/news
+ 132. file:///nhl/calgary-flames/news
+ 133. file:///nhl/edmonton-oilers/news
+ 134. file:///nhl/los-angeles-kings/news
+ 135. file:///nhl/san-jose-sharks/news
+ 136. file:///nhl/vancouver-canucks/news
+ 137. file:///sports/nhl/news
+ 138. file:///sports/nhl/tweets
+ 139. file:///sports/mcb/teams
+ 140. file:///mcb/boston-college-eagles-basketball/news
+ 141. file:///mcb/clemson-tigers-basketball/news
+ 142. file:///mcb/duke-blue-devils-basketball/news
+ 143. file:///mcb/florida-state-seminoles-basketball/news
+ 144. file:///mcb/georgia-tech-yellow-jackets-basketball/news
+ 145. file:///mcb/louisville-cardinals-basketball/news
+ 146. file:///mcb/miami-hurricanes-basketball/news
+ 147. file:///mcb/nc-state-wolfpack-basketball/news
+ 148. file:///mcb/north-carolina-tar-heels-basketball/news
+ 149. file:///mcb/notre-dame-fighting-irish-basketball/news
+ 150. file:///mcb/pittsburgh-panthers-basketball/news
+ 151. file:///mcb/syracuse-orangemen-basketball/news
+ 152. file:///mcb/virginia-cavaliers-basketball/news
+ 153. file:///mcb/virginia-tech-hokies-basketball/news
+ 154. file:///mcb/wake-forest-deacons-basketball/news
+ 155. file:///mcb/alabama-crimson-tide-basketball/news
+ 156. file:///mcb/arkansas-razorbacks-basketball/news
+ 157. file:///mcb/auburn-tigers-basketball/news
+ 158. file:///mcb/florida-gators-basketball/news
+ 159. file:///mcb/georgia-bulldogs-basketball/news
+ 160. file:///mcb/kentucky-wildcats-basketball/news
+ 161. file:///mcb/lsu-tigers-basketball/news
+ 162. file:///mcb/mississippi-state-bulldogs-basketball/news
+ 163. file:///mcb/missouri-tigers-basketball/news
+ 164. file:///mcb/mississippi-rebels-basketball/news
+ 165. file:///mcb/south-carolina-gamecocks-basketball/news
+ 166. file:///mcb/tennessee-volunteers-basketball/news
+ 167. file:///mcb/texas-am-aggies-basketball/news
+ 168. file:///mcb/vanderbilt-commodores-basketball/news
+ 169. file:///mcb/dayton-flyers-basketball/news
+ 170. file:///mcb/duquesne-dukes-basketball/news
+ 171. file:///mcb/fordham-rams-basketball/news
+ 172. file:///mcb/george-washington-colonials-basketball/news
+ 173. file:///mcb/la-salle-explorers-basketball/news
+ 174. file:///mcb/massachusetts-minutemen-basketball/news
+ 175. file:///mcb/rhode-island-rams-basketball/news
+ 176. file:///mcb/richmond-spiders-basketball/news
+ 177. file:///mcb/saint-josephs-hawks-basketball/news
+ 178. file:///mcb/saint-louis-billikens-basketball/news
+ 179. file:///mcb/st-bonaventure-bonnies-basketball/news
+ 180. file:///mcb/illinois-fighting-illini-basketball/news
+ 181. file:///mcb/indiana-hoosiers-basketball/news
+ 182. file:///mcb/iowa-hawkeyes-basketball/news
+ 183. file:///mcb/maryland-terrapins-basketball/news
+ 184. file:///mcb/michigan-wolverines-basketball/news
+ 185. file:///mcb/michigan-state-spartans-basketball/news
+ 186. file:///mcb/minnesota-golden-gophers-basketball/news
+ 187. file:///mcb/nebraska-cornhuskers-basketball/news
+ 188. file:///mcb/northwestern-wildcats-basketball/news
+ 189. file:///mcb/ohio-state-buckeyes-basketball/news
+ 190. file:///mcb/penn-state-nittany-lions-basketball/news
+ 191. file:///mcb/purdue-boilermakers-basketball/news
+ 192. file:///mcb/rutgers-scarlet-knights-basketball/news
+ 193. file:///mcb/wisconsin-badgers-basketball/news
+ 194. file:///mcb/arizona-wildcats-basketball/news
+ 195. file:///mcb/arizona-state-sun-devils-basketball/news
+ 196. file:///mcb/california-golden-bears-basketball/news
+ 197. file:///mcb/colorado-buffaloes-basketball/news
+ 198. file:///mcb/oregon-ducks-basketball/news
+ 199. file:///mcb/oregon-state-beavers-basketball/news
+ 200. file:///mcb/stanford-cardinal-basketball/news
+ 201. file:///mcb/ucla-bruins-basketball/news
+ 202. file:///mcb/usc-trojans-basketball/news
+ 203. file:///mcb/utah-utes-basketball/news
+ 204. file:///mcb/washington-huskies-basketball/news
+ 205. file:///mcb/washington-state-cougars-basketball/news
+ 206. file:///mcb/baylor-bears-basketball/news
+ 207. file:///mcb/iowa-state-cyclones-basketball/news
+ 208. file:///mcb/kansas-jayhawks-basketball/news
+ 209. file:///mcb/kansas-state-wildcats-basketball/news
+ 210. file:///mcb/oklahoma-sooners-basketball/news
+ 211. file:///mcb/oklahoma-state-cowboys-basketball/news
+ 212. file:///mcb/texas-longhorns-basketball/news
+ 213. file:///mcb/texas-tech-red-raiders-basketball/news
+ 214. file:///mcb/west-virginia-mountaineers-basketball/news
+ 215. file:///mcb/butler-bulldogs-basketball/news
+ 216. file:///mcb/georgetown-hoyas-basketball/news
+ 217. file:///mcb/marquette-golden-eagles-basketball/news
+ 218. file:///mcb/providence-friars-basketball/news
+ 219. file:///mcb/seton-hall-pirates-basketball/news
+ 220. file:///mcb/st-johns-red-storm-basketball/news
+ 221. file:///mcb/villanova-wildcats-basketball/news
+ 222. file:///mcb/xavier-musketeers-basketball/news
+ 223. file:///mcb/cincinnati-bearcats-basketball/news
+ 224. file:///mcb/connecticut-huskies-basketball/news
+ 225. file:///mcb/memphis-tigers-basketball/news
+ 226. file:///mcb/temple-owls-basketball/news
+ 227. file:///mcb/albany-great-danes-basketball/news
+ 228. file:///mcb/brigham-young-cougars-basketball/news
+ 229. file:///mcb/charlotte-49ers-basketball/news
+ 230. file:///mcb/gonzaga-bulldogs-basketball/news
+ 231. file:///mcb/san-diego-state-aztecs-basketball/news
+ 232. file:///mcb/siena-saints-basketball/news
+ 233. file:///sports/mcb/news
+ 234. file:///sports/mcb/tweets
+ 235. file:///sports/cf/teams
+ 236. file:///cf/boston-college-eagles-football/news
+ 237. file:///cf/clemson-tigers-football/news
+ 238. file:///cf/duke-blue-devils-football/news
+ 239. file:///cf/florida-state-seminoles-football/news
+ 240. file:///cf/georgia-tech-yellow-jackets-football/news
+ 241. file:///cf/louisville-cardinals-football/news
+ 242. file:///cf/miami-hurricanes-football/news
+ 243. file:///cf/nc-state-wolfpack-football/news
+ 244. file:///cf/north-carolina-tar-heels-football/news
+ 245. file:///cf/pittsburgh-panthers-football/news
+ 246. file:///cf/syracuse-orangemen-football/news
+ 247. file:///cf/virginia-cavaliers-football/news
+ 248. file:///cf/virginia-tech-hokies-football/news
+ 249. file:///cf/wake-forest-deacons-football/news
+ 250. file:///cf/alabama-crimson-tide-football/news
+ 251. file:///cf/arkansas-razorbacks-football/news
+ 252. file:///cf/auburn-tigers-football/news
+ 253. file:///cf/florida-gators-football/news
+ 254. file:///cf/georgia-bulldogs-football/news
+ 255. file:///cf/kentucky-wildcats-football/news
+ 256. file:///cf/lsu-tigers-football/news
+ 257. file:///cf/mississippi-state-bulldogs-football/news
+ 258. file:///cf/missouri-tigers-football/news
+ 259. file:///cf/mississippi-rebels-football/news
+ 260. file:///cf/south-carolina-gamecocks-football/news
+ 261. file:///cf/tennessee-volunteers-football/news
+ 262. file:///cf/texas-am-aggies-football/news
+ 263. file:///cf/vanderbilt-commodores-football/news
+ 264. file:///cf/illinois-fighting-illini-football/news
+ 265. file:///cf/indiana-hoosiers-football/news
+ 266. file:///cf/iowa-hawkeyes-football/news
+ 267. file:///cf/maryland-terrapins-football/news
+ 268. file:///cf/michigan-wolverines-football/news
+ 269. file:///cf/michigan-state-spartans-football/news
+ 270. file:///cf/minnesota-golden-gophers-football/news
+ 271. file:///cf/nebraska-cornhuskers-football/news
+ 272. file:///cf/northwestern-wildcats-football/news
+ 273. file:///cf/ohio-state-buckeyes-football/news
+ 274. file:///cf/penn-state-nittany-lions-football/news
+ 275. file:///cf/purdue-boilermakers-football/news
+ 276. file:///cf/rutgers-scarlet-knights-football/news
+ 277. file:///cf/wisconsin-badgers-football/news
+ 278. file:///cf/arizona-wildcats-football/news
+ 279. file:///cf/arizona-state-sun-devils-football/news
+ 280. file:///cf/california-golden-bears-football/news
+ 281. file:///cf/colorado-buffaloes-football/news
+ 282. file:///cf/oregon-ducks-football/news
+ 283. file:///cf/oregon-state-beavers-football/news
+ 284. file:///cf/stanford-cardinal-football/news
+ 285. file:///cf/ucla-bruins-football/news
+ 286. file:///cf/usc-trojans-football/news
+ 287. file:///cf/utah-utes-football/news
+ 288. file:///cf/washington-huskies-football/news
+ 289. file:///cf/washington-state-cougars-football/news
+ 290. file:///cf/cincinnati-bearcats-football/news
+ 291. file:///cf/connecticut-huskies-football/news
+ 292. file:///cf/providence-friars-football/news
+ 293. file:///cf/south-florida-bulls-football/news
+ 294. file:///cf/temple-owls-football/news
+ 295. file:///cf/baylor-bears-football/news
+ 296. file:///cf/iowa-state-cyclones-football/news
+ 297. file:///cf/kansas-jayhawks-football/news
+ 298. file:///cf/kansas-state-wildcats-football/news
+ 299. file:///cf/oklahoma-sooners-football/news
+ 300. file:///cf/oklahoma-state-cowboys-football/news
+ 301. file:///cf/tcu-horned-frogs-football/news
+ 302. file:///cf/texas-longhorns-football/news
+ 303. file:///cf/texas-tech-red-raiders-football/news
+ 304. file:///cf/west-virginia-mountaineers-football/news
+ 305. file:///cf/army-black-knights-football/news
+ 306. file:///cf/navy-midshipmen-football/news
+ 307. file:///cf/notre-dame-fighting-irish-football/news
+ 308. file:///cf/boise-state-broncos-football/news
+ 309. file:///cf/brigham-young-cougars-football/news
+ 310. file:///cf/butler-bulldogs-football/news
+ 311. file:///cf/san-diego-state-aztecs-football/news
+ 312. file:///sports/cf/news
+ 313. file:///sports/cf/tweets
+ 314. file:///sports/mls/teams
+ 315. file:///mls/chicago-fire/news
+ 316. file:///mls/columbus-crew/news
+ 317. file:///mls/dc-united/news
+ 318. file:///mls/houston-dynamo/news
+ 319. file:///mls/montreal-impact/news
+ 320. file:///mls/new-england-revolution/news
+ 321. file:///mls/nycfc/news
+ 322. file:///mls/new-york-red-bulls/news
+ 323. file:///mls/orlando-city-sc/news
+ 324. file:///mls/philadelphia-union/news
+ 325. file:///mls/sporting-kansas-city/news
+ 326. file:///mls/toronto-fc/news
+ 327. file:///mls/colorado-rapids/news
+ 328. file:///mls/fc-dallas/news
+ 329. file:///mls/los-angeles-galaxy/news
+ 330. file:///mls/portland-timbers/news
+ 331. file:///mls/real-salt-lake/news
+ 332. file:///mls/san-jose-earthquakes/news
+ 333. file:///mls/seattle-sounders-fc/news
+ 334. file:///mls/vancouver-whitecaps-fc/news
+ 335. file:///sports/mls/news
+ 336. file:///sports/mls/tweets
+ 337. file:///sports/premier-league/teams
+ 338. file:///premier-league/afc-bournemouth/news
+ 339. file:///premier-league/arsenal/news
+ 340. file:///premier-league/aston-villa/news
+ 341. file:///premier-league/blackburn-rovers/news
+ 342. file:///premier-league/bolton-wanderers/news
+ 343. file:///premier-league/chelsea/news
+ 344. file:///premier-league/crystal-palace/news
+ 345. file:///premier-league/everton/news
+ 346. file:///premier-league/fulham/news
+ 347. file:///premier-league/leicester-city/news
+ 348. file:///premier-league/liverpool/news
+ 349. file:///premier-league/manchester-city/news
+ 350. file:///premier-league/manchester-united/news
+ 351. file:///premier-league/newcastle-united/news
+ 352. file:///premier-league/norwich-city/news
+ 353. file:///premier-league/queens-park-rangers/news
+ 354. file:///premier-league/reading/news
+ 355. file:///premier-league/southampton/news
+ 356. file:///premier-league/stoke-city/news
+ 357. file:///premier-league/sunderland/news
+ 358. file:///premier-league/swansea-city/news
+ 359. file:///premier-league/tottenham-hotspur/news
+ 360. file:///premier-league/watford/news
+ 361. file:///premier-league/west-bromwich-albion/news
+ 362. file:///premier-league/west-ham-united/news
+ 363. file:///premier-league/wigan-athletic/news
+ 364. file:///premier-league/wolverhampton-wanderers/news
+ 365. file:///sports/premier-league/news
+ 366. file:///sports/premier-league/tweets
+ 367. file:///login
+ 368. file:///login
+ 369. file:///sports/nfl/news
+ 370. file:///sports/nfl/news
+ 371. file:///sports/nfl/tweets
+ 372. file:///sports/nfl/teams
+ 373. file:///sports/nfl/widgets
+ 374. file:///sports/nfl/news
+ 375. http://nesn.com/2017/02/mike-lombardi-says-he-doesnt-believe-patriots-will-trade-jimmy-garoppolo/
+ 376. http://nesn.com/2017/02/mike-lombardi-says-he-doesnt-believe-patriots-will-trade-jimmy-garoppolo/
+ 377. http://nesn.com/new-england-patriots/
+ 378. http://twitter.com/share
+ 379. http://twitter.com/sportspyder
+ 380. http://www.facebook.com/pages/SportSpyder/307383497547
+ 381. http://about.sportspyder.com/blog
+ 382. file:///contact
+ 383. file:///about
+ 384. file:///contact?topic_id=1
+ 385. file:///contact?topic_id=5
+ 386. file:///privacy
+ 387. file:///users/new
+ 388. file:///lost_passwords/new
+ 389. file:///home/tmedina/cs432/assignment3/part1/uri_raw589.txt
+ 390. file:///login
+ 391. file:///home/tmedina/cs432/assignment3/part1/uri_raw589.txt
+ 392. file:///home/tmedina/cs432/assignment3/part1/uri_raw589.txt
+ 393. file:///settings/pro_plan
+ 394. file:///users/new
+ 395. file:///lost_passwords/new
+ 396. file:///home/tmedina/cs432/assignment3/part1/uri_raw589.txt
+ 397. file:///home/tmedina/cs432/assignment3/part1/uri_raw589.txt
+
+   Hidden links:
+ 399. file://localhost/sources/15565/news

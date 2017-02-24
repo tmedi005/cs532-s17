@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<!--
+### Powered by the PhotoShelter Beam platform
+### http://photoshelter.com/beam
+### (c) 2013 PhotoShelter, Inc.
+-->
+<!--[if IE 9]> <html dir="ltr" lang="en-US" class="no-js lt-ie10 can-click"> <![endif]-->
+<!--[if !IE]> --> <html dir="ltr" lang="en-US" class="no-js can-click"> <!--<![endif]-->
+
+<head>
+<meta charset="utf-8">
+<link rel="dns-prefetch" href="//css.c.photoshelter.com/">
+<link rel="dns-prefetch" href="//js.c.photoshelter.com/">
+<link rel="dns-prefetch" href="//cdn.c.photoshelter.com/">
+<title>Juergen Roth</title>
+<meta name="description" content="" />
+<meta property="og:description" content="" />
+<meta property="og:title" content="Juergen Roth" />
+<meta property="og:type" content="website" />
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<style>
+
+.loading-c2, .loading-bar {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.loading-c2 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	text-align: center;
+}
+.loading-c2&:before {
+	content: '';
+	margin: 0 0 0 -4px;
+	height: 100%;
+	vertical-align: middle;
+	display: inline-block;
+}
+.bar-holder {
+	width: 80%;
+	margin: 0 auto;
+	max-width: 1100px;
+	vertical-align: middle;
+	position: relative;
+	display: inline-block;
+	height: 2px;
+}
+.loading-bar {
+	will-change: true;
+	width: 100%;
+	height: 100%;
+	background: rgba(64, 64, 64, 0.4);
+	-webkit-animation: loading 4s linear infinite;
+	-moz-animation: loading 4s linear infinite;
+	-o-animation: loading 4s linear infinite;
+	animation: loading 4s linear infinite;
+}
+@-webkit-keyframes loading {
+	0%   { transform: translate3d(-100%,0,0); }
+	100% { transform: translate3d(100%,0,0); }
+}
+@-moz-keyframes loading {
+	0%   { transform: translate3d(-100%,0,0); }
+	100% { transform: translate3d(100%,0,0); }
+}
+@-o-keyframes loading {
+	0%   { transform: translate3d(-100%,0,0); }
+	100% { transform: translate3d(100%,0,0); }
+}
+@keyframes loading {
+	0%   { transform: translate3d(-100%,0,0); }
+	100% { transform: translate3d(100%,0,0); }
+}
+
+</style>
+
+<link rel="stylesheet" type="text/css" href="http://css.c.photoshelter.com/css/cssCfg/scss=%252fasset%252fc2%252fapp%252fcss%252fbase.scss/label=juergenroth/theme=Theme2/ts=1487522072/rev=20170221">
+<link rel="stylesheet" type="text/css" href="http://css.c.photoshelter.com/css/cssCfg/scss=asset%252fc2%252ftheme%252fTheme2%252fcss%252fstyles.scss/label=juergenroth/theme=Theme2/ts=1487522072/rev=20170221">
+
+<!--[if lt IE 9]>
+<script type="text/javascript">
+
+(function(a,b){
+	var m, rl = "/gallery-list";
+	if (parseInt(a.appVersion.split('MSIE')[1]) < 9 ) {
+		//special case forward to user content page
+		m = /#!\/(p|contact|about)($|\/.+)/g.exec(b.href);
+		if (m) rl = m[0].slice('#!'.length);
+		b.replace(rl);
+	}
+})(navigator,location);
+
+</script>
+<![endif]-->
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript">
+
+if (typeof window.jQuery !== 'function') {
+	var src = 'js/jquery/jquery-1.8.2.min.js';
+	document.write('<script src="' + src + '">\x3C/script>');
+}
+
+</script>
+
+<script type="text/javascript" src="http://js.c.photoshelter.com/js/APP/20170221a/modernizr/modernizr-custom-2.8.3.js,polyfils/raf.js"></script>
+
+
+<script type="text/javascript" src="http://js.c.photoshelter.com/js/APP/20170221a/2.0/lib/O_O.js,lib/O_O.lib.Util.js,app/O_O.app.Visualizer.js"></script>
+
+
+	<script id='Content_main' type='text/template'>
+<div class='wContent'>
+	<%= content.content %>
+</div>
+</script>
+
+<script id='Content_editor' type='text/template'>
+	<p class="note">
+	Edit your text directly on the page.
+	<!-- Click the edit button below to toggle between editing and previewing.<br>-->
+	<br>
+	Don't forget to hit "Save" when you're done!
+	</p>
+	
+	<!-- <button class="togglePreview">Preview</button> -->
+</script>
+
+	<script id='ContactForm_editor' type='text/template'>
+<div>Send Button Text: <input name="sendText" type="text" value="<%= sendText %>" /></div>
+<div>Use Captcha: <select name="f_captcha"><option value="1">Yes</option><option value="0">No</option></select></div>
+</script>
+
+<script id='ContactForm_main' type='text/template'>
+<form>
+<div class="singles">
+	<div class="name">
+		<label>Name</label>
+		<input type="text" rel="Full Name" <% if (f_placeholder) { %> placeholder="Name" <% } %> value="" name="name" required>
+		<span class="status"> 
+			<span class="valid"><span class="indicator"></span></span>
+			<span class="invalid"><span class="indicator"></span>Please enter your name.</span>
+			<span class="indicator"></span>
+		</span>
+	</div>
+	<div class="email">
+		<label>Email</label>
+		<input type="email" rel="Email Address" <% if (f_placeholder) { %> placeholder="Email" <% } %>  value="" name="email" required>
+		<span class="status"> 
+			<span class="valid"><span class="indicator"></span></span>
+			<span class="invalid"><span class="indicator"></span>Please enter a valid email address.</span>
+			<span class="indicator"></span>
+		</span>
+	</div>
+	<div class="phone">
+		<label>Phone</label>
+		<input type="phone" rel="Phone Number" <% if (f_placeholder) { %> placeholder="Phone" <% } %>  value="" name="phone">
+		<!--span class="status"> 
+			<span class="valid"><span class="indicator"></span></span>
+			<span class="invalid"><span class="indicator"></span>Please enter a valid phone number.</span>
+			<span class="indicator"></span>
+		</span-->
+	</div>
+</div>
+	<div class="note">
+    	<label>Note</label>
+		<textarea name="msg" <% if (f_placeholder) { %> placeholder="Note" <% } %> required></textarea>
+		<span class="status"> 
+			<span class="valid"><span class="indicator"></span></span>
+			<span class="invalid"><span class="indicator"></span>Don&apos;t forget your message!</span>
+			<span class="indicator"></span>
+		</span>
+	</div>
+	<!-- Captcha -->
+    <div class="submit">
+		<label></label><button data-act="send" class="send"><%= sendText.substr(0,20) %></button>
+	</div>
+	<div>
+		<label></label><span class="sending">sending...</span>
+	</div>
+</form>
+<div class="sent">
+	Message sent!  Thanks for your interest.
+</div>
+</script>
+
+	<script id='GalleryNav_main' type='text/template'>
+	<ul class="<%= (typeof cfg.f_galleriesSize !== 'undefined') ? cfg.f_galleriesSize : '' %><%= (typeof cfg.rowCount !== 'undefined' && objA.length > cfg.rowCount) ? ' rows' : ' row' %>"></ul>
+</script>
+
+<script id='GalleryNav_item' type='text/template'>
+	<li>
+		<a href="<%= url %>" data-id="<%= id %>" title="<%- name %>">
+			<% if (key_src) { %>
+				<% if (imageType === 'bkg') { %>
+					<div class="img" style="background-image:url(<%= key_src %>);"></div>
+				<% } else { %>
+					<img src="<%= key_src %>" />
+				<% } %>
+			<% } else { %>
+			<%- name %>
+			<% } %>
+		</a>
+		<% if (id.charAt(0) === 'C') { %><ul class="clc"></ul><% } %>
+	</li>
+</script>
+
+	<script id='ThumbFocus_main' type='text/template'>
+    <div class="holder"></div>
+</script>
+
+<script id='ThumbFocus_images' type='text/template'>
+<div class="pagination">
+    <% if (Math.ceil(images.length/max) > 1) { %>
+    <button class="arrow left" data-type="prev">Previous</button>
+    <% } %>
+    <div class="count">
+        <em><%= page+1 %></em><%= Math.ceil(images.length/max) %>
+    </div>
+    <% if (Math.ceil(images.length/max) > 1) { %>
+    <button class="arrow right" data-type="next">Next</button>
+    <% } %>
+</div>
+<div class="holder <% if (config.f_innerScroll) { %>content <% } %>scrollable">
+<% if (config.f_layout === 'm') { %><div class="columns"><% } %>
+<% for (var i = start, l = (start + max > images.length)?images.length:start+max; i < l; i++) { 
+    var img = images[i];
+    %>
+    <a href="#" data-index="<%= i %>"<% if (!!renderGID) { %> data-gid="<%= img.g_id %>" data-id="<%= img.id %>"<% } %>>
+        <% if (config.f_layout === 'm') { %>
+            <div class="scaler" style="padding-bottom: <%= Math.round(img.screen_height_max / img.screen_width_max * 100) %>%" data-src="<%= img.src %>" <% if (!!renderGID) { %>data-gid="<%= img.g_id %>"<% } %>>
+            </div>
+        <% } else if (config.f_layout === 'j') { %>
+            <div class="scaler" data-width=<%= images[i].screen_width_max %> data-height=<%= images[i].screen_height_max %> data-src="<%= img.src %>" <% if (!!renderGID) { %>data-gid="<%= img.g_id %>"<% } %>>
+            </div>
+        <% } %>
+    </a>
+<% } %>
+<% if (config.f_layout === 'm') { %></div><% } %>
+</div>
+</script>
+
+<script id="ThumbFocus_img_m" type="text/template">
+<img src="<%= img.src %>" />
+</script>
+
+<script id="ThumbFocus_img_j" type="text/template">
+<img src="<%= img.src %>" width="<%= s[0] %>px" height="<%= s[1] %>px" />
+</script>
+
+<script id="ThumbFocus_blank" type="text/template">data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7</script>
+
+	<script id='ImageSearch_main' type='text/template'>
+	<div class='form'>
+		<span class="icon"></span>
+		<div class="search-field"><input type='text' class='input' placeholder='<%= placeholder %>'/></div>
+		<button class="clear">x</button>
+		<div class='spinner'>
+			<div class="loading-c2"><div class="loading-bar"></div></div>
+		</div>
+	</div>
+	<div class='results hidden'></div>
+</script>
+
+<script id='ImageSearch_allResults' type='text/template'>
+	<h3>Showing <% if (current < total) { %>first <% } %><%= current %> of <%= total %> results:</h3>
+	<div class="results-list"></div>
+	<a class="search-all" href='<%= link %>'>All Search Results</a>
+</script>
+
+<script id='ImageSearch_noResults' type='text/template'>
+	<h4>No results</h4>
+</script>
+
+	<script id='Nav_main' type='text/template'>
+<ul class='navTop'></ul>
+</script>
+
+<script id='Nav_links' type='text/template'>
+<% for (var i=0; i<links.length; i++) {
+	var link = links[i];
+
+	if (O_O.isset(link.children)) { %><li class="<%= link.className %>">
+		<span><%- link.name %></span>
+		<div>
+			<ul>
+				<%= tpl('links', {links: link.children}) %>
+			</ul>
+		</div></li><% } else { %><%= tpl('link', {text: link.name, url: link.url, className: link.className, target: link.target, dataId: link['data-id']}) %><% } %><% } %>
+</script>
+
+<script id='Nav_link' type='text/template'><li class='<%= className %>'><a href='<%= url %>' data-id='<%= dataId %>' <% if (O_O.isset(target)) { %>target="<%= target %>"<% } %>><%- text %></a></li></script>
+
+<script id='Nav_editor' type='text/template'>
+<h2>Visible Navigation Items</h2>
+<div class="add-nav-element">
+	<ul>
+		<li><button data-act="showCreateMenu" class="add">ADD TO NAVIGATION</button></li>
+		<li><button class="" data-act="addPage">Page</button></li>
+		<li><button class="" data-act="addLink">Link</button></li>
+		<li><button class="" data-act="addGroup">Menu</button></li>
+	</ul>
+</div>
+
+<ul class="objectList active"></ul>
+
+<p class="note clear">Click and drag to reorder your site&apos;s navigation.</p>
+
+<h2>Hidden Navigation Items</h2>
+<ul class="objectList inactive"></ul>
+</script>
+
+<script id='Nav_editLinks' type='text/template'>
+<%
+ var emptyMap = {
+	menu: 'Nothing in this menu yet! Drag items here to fill the menu.',
+	hidden: 'No hidden navigation items.',
+	visible: 'No navigation items.'
+};
+ for (var i=0; i<links.length; i++) {
+	var link = links[i];
+	%><%= tpl('linkEdit',link) %>
+<% } %>
+<li class="sortable-empty note"><%= emptyMap[type] %></li>
+</script>
+
+<script id='Nav_linkEdit' type='text/template'>
+	<li class="row draggable<% if (type == 'dynamic' || type == 'group') { %> noNest<% } %> <%= type %>" data-id="<%= id %>">
+		<span class="dragHandle"></span>
+		<button class="edit" data-act="editItem"></button>
+		<% if (type != 'fixed' && type != 'dynamic') { %><button class="del" data-act="delItem"></button><% } %>
+		<%- name %>
+		
+		<% if(O_O.isset(arguments[0].children)){ %>
+			<ul style='' class='links'>
+				<%= tpl('editLinks', {links: children, type: 'menu'}) %>
+			</ul>
+		<% } %>
+	</li>
+</script>
+
+	<!-- for gplus share -->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+<script id='SocialShare_main' type='text/template'>
+<ul class="share-options">
+	<li class="more">
+		<ul>
+			<li><a target="_blank" href="#" class="google_plusone_share" title="Google+"><span>Google+</span></a></li>
+		</ul>
+	</li>
+	<li><a target="_blank" href="#" class="facebook" title="Facebook">
+		<span>Facebook</span></a></li>
+	<li><a target="_blank" href="#" class="twitter" title="Twitter"><span>Twitter</span></a></li>
+	<li><a href="#" title="More" class="less-more">More</a></li>
+</ul>
+<a href="#" class="share" title="Share This">x</a>
+</script>
+
+<script id='SocialShare_editor' type='text/template'>
+Text: <input name="text" type="text" value="<%= text %>" />
+</script>
+
+	<script id='StaticImage_editor' type='text/template'>
+<div class="row"><label>Image URL:</label><input name="url" type="text" value="<%= url %>" /></div>
+</script>
+
+	<script id='VimeoPlayer_editor' type='text/template'>
+Video Url: <input name="video_url" type="text" value="<%= video_url %>" />
+</script>
+
+<script id='VimeoPlayer_main' type='text/template'>
+	<div class="modalVideo modal hide" tabindex="-1" role="dialog" aria-hidden="true">
+	</div>
+</script>
+
+<script id='VimeoPlayer_modalContent' type='text/template'>
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+		</div>
+		<div class="modal-body">
+			<div class="video">
+				<%= embed %>
+			</div>
+			<div class="info">
+				<h3><%= video.title %></h3>
+				<% if(video.description) { %>
+					<p><%= video.description %></p>
+				<% } %>
+			</div>
+			<div class="meta">
+				<span class="upload_date"><%= O_O.date.strFmt(video.upload_date, "%e %b %Y") %></span>
+				<div class="duration">
+					<%= Math.floor(video.duration / 60) %>:<% if(video.duration % 60<10) { %>0<% } %><%= video.duration % 60%>
+				</div>
+			</div>
+		</div>
+</script>
+
+	<script id='VimeoPlaylist_playlist' type='text/template'>
+<% if (videos.length) { %>
+	<ul>
+	<% for (var i=0; i<videos.length; i++) {
+		var video = videos[i];
+		 %><li data-idx="<%= i %>">
+				<div class="holder">
+					<div class="vimeo_thumb">
+						<img src="<%=  video.thumbnail_large %>">
+					</div>
+					<div class="info">
+						<h4><%= video.title %></h4>
+						<p><%= video.description %></p>
+					</div>
+					<div class="meta">
+						<span class="upload_date"><%= O_O.date.strFmt(video.upload_date, "%e %b %Y") %></span>
+						<div class="duration">
+							<%= Math.floor(video.duration / 60) %>:<% if(video.duration % 60<10) { %>0<% } %><%= video.duration % 60%>
+						</div>
+					</div>
+				</div>
+			</li><% } %>
+	</ul>
+<% } else { %>
+	(no videos)
+<% } %>
+</script>
+
+<script id='VimeoPlaylist_loading' type='text/template'>
+</script>
+
+<script id='VimeoPlaylist_error' type='text/template'>
+(<%= message %>)
+</script>
+	<script id='Logo_logoText' type='text/template'>
+	<a href="/index" class="text" title="<%- text %>"><%- text %></a>
+</script>
+
+<script id='Logo_logoImage' type='text/template'>
+	<a href="/index" title="<%- text %>" style="background-image:url(<%= src %>);height:<%= height %>px;width:<%= width %>px;" class="logo"><%- text %></a>
+</script>
+
+<script id='Logo_editor' type='text/template'>
+	<div class="row">
+		<label>Type:</label>
+		text <input name="type" type="radio" value="text" <%= (type == 'text') && 'checked' %>/> or image <input name="type" type="radio" value="image" <%= (type == 'image') && 'checked' %> />
+	</div>
+	<div class="textCfg">
+		<div class="row"><label>Text:</label><input name="text" type="text" value="<%= text %>" /></div>
+		<div class="row"><label>Color:</label><input name="color" type="color" value="<%= color %>" /></div>
+	</div>
+	<div class="imageCfg row">
+		<button class="edit" data-type="edit"></button>
+		<p class="key" style="display:inline">Image:</p>
+		<span class="objPreview" data-obj-type="GalleryImage" >
+			<input type="hidden"  data-type="GalleryImage" name="image" value="<%- image %>" />
+		</span>
+	</div>
+</script>
+
+	<script id='BlogReader_main' type='text/template'>
+<div class="controls"></div>
+<div class="main">
+<div class="loading-c2"><div class="loading-bar"></div></div>
+</div>
+<div class="controls"></div>
+</script>
+
+<script id='BlogReader_controls' type='text/template'>
+<% if (typeof curPage !== 'undefined') { %>
+	<% if (prevPage !== '') { %>
+		<a href='<%= O_O.lib.Util.makePath('blog', [prevPage]) %>' class='prev' title="Previous"><%= config.f_previous_text %></a>
+	<% } %>
+	<% if (nextPage !== '' && nextPage > curPage) { %>
+		<a href='<%= O_O.lib.Util.makePath('blog', [nextPage]) %>' class='next' title="Next"><%= config.f_next_text %></a>
+	<% } %>
+<% } %>
+</script>
+
+<script id='BlogReader_textpost' type='text/template'>
+<div class="textpost">
+	<h3><a href="<%= link %>" target="_blank"><%= title %></a></h3>
+	<% if (date) { %>
+		<p class="date"><%= date %></p>
+	<% } %>
+	<div class='body'><%= body %></div>
+</div>
+</script>
+
+<script id='BlogReader_photopost' type='text/template'>
+<div class="photopost">
+	<div class='body'>
+		<% for (var i = 0, ct = photos.length; i < ct; i++) {
+			var photo = photos[i]; %>
+			<img src="<%= photo.alt_sizes[0].url %>"/>
+		<% } %>
+	</div>
+	<%= caption %>
+	<% if (date) { %>
+		<p class="date"><%= date %></p>
+	<% } %>
+</div>
+</script>
+
+<script id='BlogReader_linkpost' type='text/template'>
+<div class="linkpost">
+	<a href="<%= linkUrl %>" target="_blank"><%= title %></a>
+	<div class='body'><%= desc %></p>
+</div>
+</script>
+
+<script id='BlogReader_quotepost' type='text/template'>
+<div class="linkpost">
+	<%= source %>
+	<div class='body'><%= text %></p>
+</div>
+</script>
+
+<script id='BlogReader_videopost' type='text/template'>
+	<div class="photopost videopost">
+		<div class='body'>
+			<%= video %>
+		</div>
+		<%= caption %>
+		<% if (date) { %>
+			<p class="date"><%= date %></p>
+		<% } %>
+	</div>
+</script>
+
+	<script id='Instagram_auth_link' type='text/template'>
+<div class="row" style="padding-top: 0; margin-top: 0;">
+	<p class="widgetTip"><em><%=msg%></em></p>
+	<button class='button-secondary auth-link' style="display: block;" onClick='javascript:window.open("<%=url%>", "Authorizing Instagram", "resizable,scrollbars,status,height=500,width=500")'>
+		Authorize with Instagram
+	</button>
+	<p class="widgetTip" style="padding:0;">You may need to disable any popup blockers.</p>
+</div>
+</script>
+
+<script id='Instagram_main' type='text/template'>
+<div class='main'>
+</div>
+</script>
+
+<script id='Instagram_auth_form' type='text/template'>
+	<div class="row" style="display:none">
+		<input type="hidden" name="token" value="<%= token %>" /><br/>
+	</div>
+	<div class="row typeCheckbox">
+		<input type="checkbox" value="displayLikes" <% if (cfg.displayLikes === 'true' || cfg.displayLikes === 't') { %>checked<% } %> name="displayLikes" id="displayLikes">
+		<label for="displayLikes">Like count</label>
+	</div>
+	<div class="row typeCheckbox">
+		<input type="checkbox" value="displayCaption" <% if (cfg.displayCaption === 'true' || cfg.displayCaption === 't') { %>checked<% } %> name="displayCaption" id="displayCaption">
+		<label for="displayCaption">Caption</label>
+	</div>
+	<div class="row" style="margin-bottom: 0; padding-bottom: 0;">
+		<p class='status' style="margin-bottom: 0; padding-bottom: 0;"></p>
+	</div>
+</script>
+
+<script id='Instagram_item' type='text/template'>
+<div class='item'>
+	<a href="<%=link%>" target="_blank">
+		<img src="<%=url%>" width="<%=width%>" height="<%=height%>"/>
+	</a>
+	<% if (likesCount !== '') { %>
+	<div class='likes-count'><%=likesCount%></div>
+	<% } %>
+	<% if (caption !== '') { %>
+	<p class='caption'><%=caption%></p>
+	<% } %>	
+</div>
+</script>
+
+<script id='Instagram_pagination' type='text/template'>
+<div class='pagination'>
+	<a class='next'>Load More</a>
+</div>
+</script>
+
+	<!-- for gplus share -->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+<script id='ShareUrl_main' type='text/template'>
+<% if (typeof f_innerScroll !== 'undefined' && f_innerScroll) { %>
+<div class="content">
+<%}%>
+<div class="su-holder">
+<div class="su-content">
+	<% if (typeof f_closeable !== 'undefined' && f_closeable) { %>
+		<button class="close">Close</button>
+	<% } %>
+	<h1>Share this <%= f_shareWhat %></h1>
+	<form>
+		<label>Link</label>
+		<input class="link" type=text value=""
+			id="copyURL" />
+		<button title="Copy Link" data-clipboard-target="copyURL">Copy Link</button>
+	</form>
+	<form>
+		<label>Email</label>
+		<input class="email" type=email placeholder="Enter an email address" id="emailURL"/>
+		<button title="Share Via Email" class="shareEmail">Share Via Email</button>
+	</form>
+	<% if (typeof f_embedable !== 'undefined' && f_embedable) { %>
+	<form>
+		<label>Embed</label>
+		<input class="embed" type=text value="<iframe src='http://www.thisurl.com' width='800' height='600' />"
+			id="copyEmbed" />
+		<button title="Copy Embed Code" data-clipboard-target="copyEmbed">Copy Embed Code</button>
+	</form>
+	<% } %>
+		<ul class='share-options'>
+			<li><a target="_blank" href="#" class="google_plusone_share" title="Google+"><span>Google+</span></a></li>
+			<li><a target="_blank" href="#" class="pinterest" title="Pinterest"><span>Pinterest</span></a></li>
+			<li><a target="_blank" href="#" class="facebook" title="Facebook"><span>Facebook</span></a></li>
+			<li><a target="_blank" href="#" class="twitter" title="Twitter"><span>Twitter</span></a></li>
+		</ul>
+</div>
+</div>
+<% if (typeof f_innerScroll !== 'undefined' && f_innerScroll) { %>
+</div>
+<%}%>
+
+</script>
+
+	<script id='ImageStage_main' type='text/template'>
+	<%= tpl('image', {config: config, img: current, stop: 'current'}) %>
+	<%= tpl('image', {config: config, img: previous, stop: 'previous'}) %>
+	<%= tpl('image', {config: config, img: next, stop: 'next'}) %>
+	<%= tpl('image', {config: config, stop: 'blank'}) %>
+	<div class="cover <%= config.size %>"></div>
+</script>
+
+
+<script id='ImageStage_image' type='text/template'>
+<div class='img <%= stop %> <%= config.transition %> <%= config.size %>' <% if (typeof img !== 'undefined') { %>style='background-image: url(<%= img %>);'<% } %>></div>
+</script>
+	<script id='MetaViewer_main' type='text/template'>
+<div class="<% if (config.f_innerScroll) { %>content <% } %> scrollable">
+    <% if (config.f_content !== 'caption') { %>
+    	<h1><%- data.name || data.headline || data.title || data.file_name %></h1>
+    <% } %>
+    <% if (config.f_content !== 'title' &&
+    	((typeof data.description !== 'undefined' && data.description) ||
+    	(typeof data.caption !== 'undefined' && data.caption))) { 
+    	var useInfo = (typeof data.caption === 'undefined') ? data.description : data.caption; %>
+	    <div <% if (useInfo && useInfo.length > config.f_colAfterChars) { %>lang="en" class="columns"<% } %>>
+	            <%- useInfo %>
+	    </div>
+    <% } %>
+</div>
+</script>
+
+	<script id='SlideShowControls_main' type='text/template'>
+	<% var buttons = 0;
+    	buttons += (config.f_play !== 'n' && countData.count > 1)?1:0;
+    	buttons += (config.f_social !== 'f')?1:0;
+    	buttons += (config.f_thumbs !== 'n' && countData.count > 1)?1:0;
+    	buttons += (config.f_meta !== 'n')?1:0;
+    	buttons += (config.buyMenu !== 'f')?1:0; %>
+	<div class="controls">
+	    <% if (countData.count > 1) { %>
+			<button class="backward">
+				<div class="icon" title="Previous Image"></div>
+			</button>
+			<button class="forward">
+				<div class="icon" title="Next Image"></div>
+			</button>
+		<% } %>
+	</div>
+	<% if (config.f_closeable === 't') { %>
+	<button class="close">Close</button>
+	<% } %>
+    <%= tpl('count', {config: config, countData: countData}) %>
+    <% if (config.f_galleryname === 't') { %>
+	    <h1 class="buttons-<%=buttons %>"><%- countData.galName || gallery.name %></h1>
+    <% } %>
+    <% if (config.f_play !== 'n' || config.f_social !== 'f' ||
+    	config.f_thumbs !== 'n' || config.f_meta !== 'n') { %>
+    <div class="buttons buttons-<%=buttons %>">
+	    <% if (config.f_thumbs !== 'n' && config.f_thumbs !== 'a' && (!!config.f_thumbs_force || countData.count > 1)) { %>
+	    <button class="thumbs<% if (config.f_thumbs !== 'f') { %> on<% } %>" title="Thumbnails">Thumbnails</button>
+		<% } %>
+		<% if (countData.count > 1) { %>
+			<%= tpl('play', {config: config}) %>
+		<% } %>
+	    <% if (config.f_fullscreen === 't') { %>
+	    <button class="fullscreen" title="Fullscreen">Fullscreen</button>
+		<% } %>
+   		<% if (config.f_meta !== 'n' && config.f_meta !== 'a') { %>
+	    <button class="info<% if (config.f_meta !== 'f') { %> on<% } %>" title="<%= (typeof config.metaText !== 'undefined') ? config.metaText : 'Caption' %>"><%= (typeof config.metaText !== 'undefined') ? config.metaText : 'Caption' %></button>
+		<% } %>
+   		<% if (config.f_archive !== 'f') { %>
+	    <button class="archive" title="<%= (typeof config.archiveText !== 'undefined') ? config.archiveText : 'More Info & Actions' %>"><span><%= (typeof config.archiveText !== 'undefined') ? config.archiveText : 'More Info & Actions' %></span></button>
+		<% } %>
+		<% if (config.f_social !== 'f') { %>
+	    <button class="social" title="Share">Share</button>
+		<% } %>
+	    <% if (config.buyMenu === 't') { %>
+	    <button class="buy" title="Buy">Buy</button>
+		<% } %>
+	</div>
+	<% } %>
+</script>
+
+<script id='SlideShowControls_play' type='text/template'>
+    <% if (config.f_play === 't') { %>
+    <button class="play pause" title="Pause">Pause</button>
+	<% } else if (config.f_play === 'f') { %>
+    <button class="play" title="Play">Play</button>
+    <% } %>
+</script>
+
+<script id='SlideShowControls_count' type='text/template'>
+<div class="count <%= config.f_count %><% if (countData.count === 1) { %> no-controls<% } %>">
+    <% if (config.f_count === 't') { %>
+		<% if (countData.current !== ' ') { %>
+		<%= countData.current %><span><%= countData.count %></span>
+		<% } else { %>
+			&nbsp;
+		<% } %>
+    <% } %>
+	<% if (countData.count > 1) { %>
+		<button class="backward" title="Previous Image">Previous</button>
+		<button class="forward" title="Next Image">Next</button>
+	<% } %>
+</div>
+</script>
+
+	<script id='BuyMenu_main' type='text/template'>
+<% if (typeof config.f_innerScroll !== 'undefined' && config.f_innerScroll) { %>
+<div class="content">
+<%}%>
+<div class="su-holder">
+<div class="su-content">
+	<% if (typeof config.f_closeable !== 'undefined' && config.f_closeable) { %>
+		<button class="close">Close</button>
+	<% } %>
+	<h1>Buy this <%= config.buyWhat %></h1>
+	<ul class="buy-options">
+	<% if (typeof pricing !== 'undefined' && pricing.length > 0) { %>
+		<% if(!!find('PR', pricing)) { %>
+	    <li><a href="#" class="pr" title="Print/product">Print/product</a></li>
+	    <% } %>
+		<% if(!!find('BND', pricing)) { %>
+	    <li><a href="#" class="bnd" title="Image package">Image package</a></li>
+	    <% } %>
+		<% if(!!find('PU', pricing)) { %>
+	    <li><a href="#" class="pu" title="Personal use download">Personal use download</a></li>
+	    <% } %>
+		<% if(!!find('RM', pricing)) { %>
+	    <li><a href="#" class="rm" title="Rights-managed license">Rights-managed license</a></li>
+	    <% } %>
+		<% if(!!find('RF', pricing)) { %>
+	    <li><a href="#" class="rf" title="Royalty-free license">Royalty-free license</a></li>
+	    <% } %>
+		<% if(cart > 0) { %>
+	    <li class="cart-link"><a href="/cart" class="cart" title="View your cart"><span>View your cart</span></a></li>
+	    <% } %>
+	<% } %>
+	</ul>
+</div>
+</div>
+<% if (typeof config.f_innerScroll !== 'undefined' && config.f_innerScroll) { %>
+</div>
+<%}%>
+</script>
+	<script id='SocialFollow_main' type='text/template'>
+<%
+if (f_edit && linkA.length === 0) {
+	%>
+<%= tpl('placeholder', {}) %>
+
+<% } else { %>
+
+<div class='follow-wrapper'>
+<ul class='follow-options'>
+<%
+var link;
+for (var i=0; i<linkA.length; i++) {
+	link = linkA[i];
+%>
+	<li>
+		<a target='_blank' class=<%= link.service %> href=<%= link.url %>></a>
+	</li>
+<% } %>
+</ul>
+</div>
+
+<% } %>
+</script>
+
+<script id='SocialFollow_placeholder' type='text/template'>
+<div class='follow-wrapper placeholder edit-widget-border'>
+<ul class='follow-options'>
+	<li><a class='twitter'></a></li>
+	<li><a class='facebook'></a></li>
+	<li><a class='instagram'></a></li>
+</ul>
+</div>
+</script>
+
+<script id='SocialFollow_editor' type='text/template'>
+	<p class='widgetTip'>
+		Enter your info in the text fields below, and we&#039;ll do the rest.
+		<a target="_blank" href="https://support.photoshelter.com/hc/en-us/articles/204837820">Learn more &#187;</a>
+	</p>
+
+	<ul class='objectList'></ul>
+
+	<div class='widgetTip'>
+		Click and drag to reorder your social follow buttons.
+	</div>
+</script>
+
+<script id='SocialFollow_editUsernames' type='text/template'>
+<%
+for (var i=0; i<socialDataA.length; i++) {
+	var socialItem = socialDataA[i];
+%><%= tpl('editUsername', socialItem) %>
+<% } %>
+</script>
+
+<script id='SocialFollow_editUsername' type='text/template'>
+	<li class='row draggable sortable external' data-service=<%= service %>>
+		<span class='dragHandle'></span>
+		<span><%= label %></span>
+		<input name=<%= service %> type='text' value='<%= username %>' placeholder='<%= placeholder %>' />
+	</li>
+</script>
+
+
+<script type="text/javascript">
+var C2_CFG = {"theme":"Theme2","themeCfg":"{\"name\":\"Theme2\",\"version\":\"1.2.0\",\"requires\":{\"models\":[\"Collection\",\"Content\",\"Gallery\",\"Image\",\"Generic\"],\"widgets\":[[\"Content\",\"1.0\"],[\"ContactForm\",\"1.0\"],[\"GalleryNav\",\"1.1.1\"],[\"ThumbFocus\",\"1.0\"],[\"ImageSearch\",\"1.0.1\"],[\"Nav\",\"1.1\"],[\"SocialShare\",\"1.0\"],[\"StaticImage\",\"1.0\"],[\"VimeoPlayer\",\"1.0\"],[\"VimeoPlaylist\",\"1.0\"],[\"Logo\",\"1.1\"],[\"BlogReader\",\"1.0\"],[\"Instagram\",\"1.0\"],[\"ShareUrl\",\"1.1\"],[\"ImageStage\",\"1.1.1\"],[\"MetaViewer\",\"1.0\"],[\"SlideShowControls\",\"1.1.1\"],[\"BuyMenu\",\"1.0\"],[\"SocialFollow\",\"1.0.0\"]]},\"resources\":{\"fonts\":{\"abril\":{\"family\":\"Abril Fatface\",\"alternate\":\"serif\",\"vendor_tag\":\"Abril+Fatface\"},\"arial\":{\"family\":\"Arial\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"\"},\"arvo\":{\"family\":\"Arvo\",\"alternate\":\"serif\",\"vendor_tag\":\"Arvo\"},\"badScript\":{\"family\":\"Bad Script\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"Bad+Script\"},\"berkshire\":{\"family\":\"Berkshire Swash\",\"alternate\":\"serif\",\"vendor_tag\":\"Berkshire+Swash\"},\"cabin\":{\"family\":\"Cabin\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"Cabin\"},\"domine\":{\"family\":\"Domine\",\"alternate\":\"serif\",\"vendor_tag\":\"Domine\"},\"droidSans\":{\"family\":\"Droid Sans\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"Droid+Sans\"},\"gentium\":{\"family\":\"Gentium Basic\",\"alternate\":\"serif\",\"vendor_tag\":\"Gentium+Basic\"},\"georgia\":{\"family\":\"Georgia\",\"alternate\":\"serif\",\"vendor_tag\":\"\"},\"helvetica\":{\"family\":\"Helvetica\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"\"},\"josefin\":{\"family\":\"Josefin Sans\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"Josefin+Sans: 600\"},\"kreon\":{\"family\":\"Kreon\",\"alternate\":\"serif\",\"vendor_tag\":\"Kreon\"},\"lato\":{\"family\":\"Lato\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"Lato\"},\"libre\":{\"family\":\"Libre Baskerville\",\"alternate\":\"serif\",\"vendor_tag\":\"Libre+Baskerville\"},\"merriweather\":{\"family\":\"Merriweather\",\"alternate\":\"serif\",\"vendor_tag\":\"Merriweather\"},\"open\":{\"family\":\"Open Sans\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"Open+Sans\"},\"oswald\":{\"family\":\"Oswald\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"Oswald\"},\"pacifico\":{\"family\":\"Pacifico\",\"alternate\":\"serif\",\"vendor_tag\":\"Pacifico\"},\"palatino\":{\"family\":\"Palatino\",\"alternate\":\"serif\",\"vendor_tag\":\"\"},\"playfair\":{\"family\":\"Playfair Display\",\"alternate\":\"serif\",\"vendor_tag\":\"Playfair+Display\"},\"ptSans\":{\"family\":\"PT Sans\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"PT+Sans\"},\"ptSansNarrow\":{\"family\":\"PT Sans Narrow\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"PT+Sans+Narrow\"},\"ptSerif\":{\"family\":\"PTSerif\",\"alternate\":\"serif\",\"vendor_tag\":\"PT+Serif\"},\"quicksand\":{\"family\":\"Quicksand\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"Quicksand\"},\"raleway\":{\"family\":\"Raleway\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"Raleway\"},\"sanchez\":{\"family\":\"Sanchez\",\"alternate\":\"serif\",\"vendor_tag\":\"Sanchez\"},\"timeNewRoman\":{\"family\":\"Times New Roman\",\"alternate\":\"serif\",\"vendor_tag\":\"\"},\"verdana\":{\"family\":\"Verdana\",\"alternate\":\"sans-serif\",\"vendor_tag\":\"\"}},\"color_set\":[{\"name\":\"Light: Bold\",\"values\":{\"colorBkg\":\"#f4f4f4\",\"colorFrg\":\"#ffffff\",\"colorBrand\":\"#db0000\",\"colorNav\":\"#7b7b7b\",\"colorBody\":\"#1d1d1d\",\"colorLink\":\"#db0000\"}},{\"name\":\"Light: Classic\",\"values\":{\"colorBkg\":\"#f6f6f6\",\"colorFrg\":\"#ffffff\",\"colorBrand\":\"#444444\",\"colorNav\":\"#8e8e8e\",\"colorBody\":\"#5f5f5f\",\"colorLink\":\"#6babd7\"}},{\"name\":\"Dark: Bold\",\"values\":{\"colorBkg\":\"#191919\",\"colorFrg\":\"#000000\",\"colorBrand\":\"#e80000\",\"colorNav\":\"#acacac\",\"colorBody\":\"#e3e3e3\",\"colorLink\":\"#e80000\"}},{\"name\":\"Dark: Classic\",\"values\":{\"colorBkg\":\"#191919\",\"colorFrg\":\"#000000\",\"colorBrand\":\"#e8e8e8\",\"colorNav\":\"#acacac\",\"colorBody\":\"#cacaca\",\"colorLink\":\"#839fd2\"}}],\"font_set\":[{\"name\":\"Classic 1\",\"values\":{\"font_1\":\"open\",\"font_2\":\"open\",\"font_3\":\"gentium\"}},{\"name\":\"Classic 2\",\"values\":{\"font_1\":\"quicksand\",\"font_2\":\"quicksand\",\"font_3\":\"ptSerif\"}},{\"name\":\"Classic 3\",\"values\":{\"font_1\":\"playfair\",\"font_2\":\"gentium\",\"font_3\":\"gentium\"}},{\"name\":\"Modern 1\",\"values\":{\"font_1\":\"open\",\"font_2\":\"open\",\"font_3\":\"open\"}},{\"name\":\"Modern 2\",\"values\":{\"font_1\":\"oswald\",\"font_2\":\"oswald\",\"font_3\":\"lato\"}},{\"name\":\"Modern 3\",\"values\":{\"font_1\":\"raleway\",\"font_2\":\"raleway\",\"font_3\":\"lato\"}},{\"name\":\"Funky 1\",\"values\":{\"font_1\":\"arvo\",\"font_2\":\"arvo\",\"font_3\":\"arvo\"}},{\"name\":\"Funky 2\",\"values\":{\"font_1\":\"pacifico\",\"font_2\":\"lato\",\"font_3\":\"lato\"}},{\"name\":\"Funky 3\",\"values\":{\"font_1\":\"badScript\",\"font_2\":\"badScript\",\"font_3\":\"ptSans\"}}]},\"start\":\"index\",\"colorBkg\":\"#f6f6f6\",\"colorFrg\":\"#ffffff\",\"colorBrand\":\"#3176a5\",\"colorNav\":\"#8e8e8e\",\"colorBody\":\"#5f5f5f\",\"colorLink\":\"#6babd7\",\"font_1\":\"open\",\"font_2\":\"oswald\",\"font_3\":\"open\",\"last_modified\":\"2017-02-19 16:34:32 GMT\",\"modes\":{\"global\":{\"user_hidden\":true,\"widgets\":[{\"widget\":\"Logo\",\"widgetName\":\"Logo\",\"widgetDesc\":\"Your site name, displayed using text or a logo image\",\"type\":\"text\",\"f_force_menu_button\":\"f\",\"text\":\"Welcome to Roth Galleries - a Collection of Boston Photography Images and New England Fine Art Photography\",\"image\":[],\"image_f_retina\":\"t\",\"image_orig_enable\":\"t\",\"image_width\":2040,\"image_height\":2040,\"image_file_exts\":[\"gif\",\"jpeg\",\"jpg\",\"png\"],\"image_f_wm_disable\":\"t\",\"image_f_sec_ignore\":\"t\",\"image_max_size\":2040,\"propOverload\":null},{\"widget\":\"Nav\",\"widgetName\":\"Navigation\",\"widgetDesc\":\"Links used to traverse your site\",\"f_archive_not_nested\":false,\"links\":[{\"name\":\"Home\",\"type\":\"fixed\",\"url_fragment\":\"index\",\"className\":\"portfolio\",\"f_hidden\":false,\"id\":\"-0\",\"act\":\"edit\"},{\"type\":\"external\",\"f_hidden\":false,\"name\":\"Galleries\",\"url\":\"http:\\\/\\\/www.rothgalleries.com\\\/archive\",\"url_fragment\":\"\",\"target\":\"_blank\",\"act\":\"edit\",\"id\":\"-1\"},{\"type\":\"group\",\"f_hidden\":false,\"name\":\"Products\",\"children\":[{\"type\":\"external\",\"f_hidden\":false,\"name\":\"Fine Art Prints\",\"url\":\"http:\\\/\\\/juergen-roth.pixels.com\",\"url_fragment\":\"\",\"target\":\"_blank\",\"act\":\"edit\",\"id\":\"-2-0\"},{\"type\":\"external\",\"f_hidden\":false,\"name\":\"Image Licensing\",\"url\":\"http:\\\/\\\/www.rothgalleries.com\\\/archive\",\"url_fragment\":\"\",\"target\":\"_blank\",\"act\":\"edit\",\"id\":\"-2-1\"},{\"type\":\"page\",\"url_fragment\":\"high-resolution-giga\",\"f_hidden\":false,\"name\":\"Gigapixel Images\",\"page_title\":\"High-Resolution Gigapan Images\",\"act\":\"edit\",\"id\":\"-2-2\"},{\"type\":\"external\",\"f_hidden\":false,\"name\":\"Books\",\"url\":\"http:\\\/\\\/juergenroth.photoshelter.com\\\/gallery\\\/E-Books\\\/G0000GBFyI8PXnsU\\\/\",\"url_fragment\":\"\",\"target\":\"_blank\",\"act\":\"edit\",\"id\":\"-2-3\"},{\"type\":\"external\",\"f_hidden\":false,\"name\":\"Photo Calendars\",\"url\":\"http:\\\/\\\/www.redbubble.com\\\/people\\\/juergenroth\\\/shop\\\/calendars\",\"url_fragment\":\"\",\"target\":\"_blank\",\"act\":\"add\",\"id\":\"-2-4\"},{\"type\":\"external\",\"f_hidden\":false,\"name\":\"Join e-mail List\",\"url\":\"http:\\\/\\\/juergen-roth.pixels.com\\\/subscribewebsiteemaillist.html\",\"url_fragment\":\"\",\"target\":\"_blank\",\"act\":\"add\",\"id\":\"-2-5\"}],\"act\":\"edit\",\"id\":\"-2\"},{\"type\":\"group\",\"f_hidden\":false,\"name\":\"About\",\"children\":[{\"name\":\"Bio\",\"type\":\"fixed\",\"url_fragment\":\"about\",\"className\":\"about\",\"f_hidden\":false,\"id\":\"-3-0\",\"act\":\"edit\"},{\"type\":\"page\",\"url_fragment\":\"events\",\"f_hidden\":false,\"name\":\"News\",\"page_title\":\"Latest News, Events & Publications\",\"act\":\"edit\",\"id\":\"-3-1\"},{\"type\":\"page\",\"url_fragment\":\"connect\",\"f_hidden\":false,\"name\":\"Copyright\",\"page_title\":\"\",\"act\":\"edit\",\"id\":\"-3-2\"},{\"type\":\"external\",\"f_hidden\":false,\"name\":\"Join my Newsletter\",\"url\":\"http:\\\/\\\/juergen-roth.pixels.com\\\/subscribewebsiteemaillist.html\",\"url_fragment\":\"\",\"target\":\"_blank\",\"act\":\"edit\",\"id\":\"-3-3\"}],\"act\":\"edit\",\"id\":\"-3\"},{\"name\":\"Contact\",\"type\":\"fixed\",\"url_fragment\":\"contact\",\"className\":\"contact\",\"f_hidden\":false,\"id\":\"-4\",\"act\":\"edit\"},{\"type\":\"fixed\",\"name\":\"Blog\",\"url_fragment\":\"blog\",\"cls\":\"blog\",\"f_hidden\":false,\"id\":\"-5\",\"act\":\"edit\"},{\"type\":\"fixed\",\"name\":\"Instagram\",\"url_fragment\":\"instagram\",\"cls\":\"instagram\",\"f_hidden\":false,\"id\":\"-6\",\"act\":\"edit\"},{\"name\":\"Archive\",\"type\":\"dynamic\",\"url_fragment\":\"archive\",\"className\":\"archive\",\"f_hidden\":true,\"id\":\"-7\",\"act\":\"edit\"},{\"type\":\"external\",\"f_hidden\":true,\"name\":\"Greeting Cards\",\"url\":\"http:\\\/\\\/juergen-roth.pixels.com\\\/collections\\\/all+photography+images\\\/greeting+cards\",\"url_fragment\":\"\",\"target\":\"_blank\",\"act\":\"edit\",\"id\":\"-8\"},{\"name\":\"Video\",\"type\":\"fixed\",\"url_fragment\":\"video\",\"className\":\"video\",\"f_hidden\":true,\"id\":\"-9\"}]},{\"widget\":\"ImageSearch\",\"placeholder\":\"Search\",\"widgetName\":\"Quick Search\",\"widgetDesc\":\"Searches all of your images marked as publicly searchable\",\"f_enable\":\"t\"},{\"widget\":\"SocialShare\",\"widgetName\":\"Post to Social Networks\",\"widgetDesc\":\"Links for easy social sharing of your content\",\"f_editable\":false,\"text\":null,\"style\":null},{\"widget\":\"SocialFollow\",\"widgetName\":\"Social Follow\",\"widgetDesc\":\"Generates social follow icons for your site\",\"twitter\":\"NatureFineArt\",\"facebook\":\"NatureFineArt\",\"instagram\":\"RothGalleries\",\"linkedin\":\"NaturePhotographs\",\"vimeo\":\"\",\"tumblr\":\"RothGalleries\",\"pinterest\":\"JuergenRoth\",\"googlePlus\":\"112928796157153543442\",\"fiveHPx\":\"RothGalleries\",\"services\":[\"twitter\",\"facebook\",\"instagram\",\"vimeo\",\"linkedin\",\"tumblr\",\"pinterest\",\"googlePlus\",\"fiveHPx\"]}]},\"index\":{\"definition\":\"Index_111\",\"modeName\":\"Portfolio\",\"title\":\"Boston photography images and New England fine art photography that captures the beauty, essence and spirit of its peaceful nature, soothing landscapes and seascapes, stunning city skylines, abandoned wildlife, picturesque harbors and charming towns throughout the six New England states of Massachusetts, New Hampshire, Maine, Vermont, Connecticut and Rhode Island.\",\"meta_description\":\"Juergen Roth is recognized as one of New Englands's premiere nature and city of Boston photographers. His award-winning photos at Roth Galleries provide an array of interior design decoration and wall art solutions for any New England home, office, business, corporate and the hospitality industry to name a few. Two thousand plus beautiful and decorative images from the six New England states of Massachusetts, New Hampshire, Maine, Vermont, Connecticut, Rhode Island, as well as metrowest and Boston are available for sale 24\\\/7 at his website. Fine art photography images are available on a variety of framed, matted or print only fine art prints on canvas, metal, acrylic, wood or standard photo paper. Most digital photography images are available for photography image licensing and are widely used in d\\u00e9cor projects by art consultants and interior designers and graphic designers and by publishers in various publications throughout the world. His Boston photography galleries feature beautiful city skyline views, historic landmarks, modern and old architecture, hidden neighborhood nature gems and urban scenes of Beantown neighborhoods that capture the pulse and spirit of the Hub. New England photo art galleries feature beautiful seascape, landscape, waterfall, river, fall foliage, wilderness, rural, macro, flower and abstract photographs that lighten up any room. Signed edition art prints are available for art lovers and artwork collectors upon request and inquiry.\",\"onboardingDone\":\"false\",\"widgets\":[],\"sets\":{\"gallerySingleImage\":[{\"widget\":\"ImageStage\",\"widgetName\":\"Image Display\",\"widgetDesc\":\"The frame and transitions used for a gallery's images\",\"size\":\"fit\",\"transition\":\"s\",\"duration\":\"4\",\"propOverload\":{\"size\":{\"inpEnable\":false}},\"delegate\":{\"State\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":2}],\"ImageMeta\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":1},{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":4}]}},{\"widget\":\"MetaViewer\",\"widgetName\":\"Image Metadata Display\",\"widgetDesc\":\"Image details (uses IPTC data)\",\"f_innerScroll\":true,\"f_colAfterChars\":400,\"f_content\":\"titleCaption\",\"propOverload\":{\"f_content\":{\"map\":{\"titleCaption\":\"Image name and caption\",\"title\":\"Image name only\",\"caption\":\"Image caption only\"}}},\"delegate\":{\"WhatMeta\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":0}]}},{\"widget\":\"SlideShowControls\",\"widgetName\":\"Image Viewer\",\"widgetDesc\":\"Presentation view of your images\",\"dataSource\":\"dynamic\",\"userLinks\":\"\",\"f_closeable\":\"t\",\"f_galleryname\":\"t\",\"f_count\":\"t\",\"f_thumbs\":\"a\",\"f_thumbs_force\":true,\"f_play\":\"f\",\"f_fullscreen\":\"t\",\"f_meta\":\"t\",\"metaText\":\"Info\",\"f_metaForceFalseMobile\":true,\"f_archive\":\"f\",\"archiveText\":\"More Info & Actions\",\"f_social\":\"t\",\"buyMenu\":\"t\",\"f_share_what\":\"image\",\"f_toggleChrome\":\"t\",\"propOverload\":{\"dataSource\":{\"map\":{\"dynamic\":\"dynamic\"},\"default\":\"dynamic\",\"inpEnable\":false},\"userLinks\":{\"inpEnable\":false},\"f_fullscreen\":{\"inpEnable\":true,\"default\":\"t\"},\"f_archive\":{\"inpEnable\":true},\"archiveText\":{\"inpEnable\":true},\"f_thumbs\":{\"inpEnable\":false},\"f_meta\":{\"map\":{\"t\":\"On by default\",\"f\":\"Off by default\"}}},\"delegate\":{\"JumpTo\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":0}],\"Gallery\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":0}],\"Images\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":0}],\"Page\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":0}],\"Play\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":0}],\"Meta\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":0},{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":1}],\"Share\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":3}],\"Buy\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":4}],\"Thumbs\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":6}]}},{\"widget\":\"ShareUrl\",\"widgetName\":\"Post to Social Networks\",\"widgetDesc\":\"Links for easy social sharing of your content\",\"f_editable\":false,\"f_innerScroll\":false,\"f_embedable\":false,\"f_closeable\":true,\"f_shareWhat\":\"image\"},{\"widget\":\"BuyMenu\",\"widgetName\":\"Buy\\\/License Menu\",\"widgetDesc\":\"Links for easy social sharing of your content\",\"f_editable\":false,\"f_innerScroll\":false,\"buyWhat\":\"image\",\"f_closeable\":true,\"delegate\":{\"Pricing\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":2}]}},{\"widget\":\"GalleryNav\",\"widgetName\":\"Featured Galleries\",\"widgetDesc\":\"Galleries displayed in your portfolio\",\"f_viewAll\":true,\"minDisplay\":2,\"fixed\":false,\"f_dynamicLoad\":false,\"f_galleriesSize\":\"medium\",\"dataSource\":\"user\",\"destinationMode\":\"index\",\"userLinks\":[{\"type\":\"Gallery\",\"id\":\"G0000xwJgMChQG_s\"},{\"type\":\"Gallery\",\"id\":\"G00003cWcZlgWzHI\"},{\"type\":\"Gallery\",\"id\":\"G0000MByDVlFTsSo\"},{\"type\":\"Gallery\",\"id\":\"G0000YgMZTmCQA_U\"},{\"type\":\"Gallery\",\"id\":\"G0000DCr8YHs9TZ4\"},{\"type\":\"Gallery\",\"id\":\"G0000OaVUpkvwGDo\"},{\"type\":\"Gallery\",\"id\":\"G0000DectqkOMEv4\"},{\"type\":\"Gallery\",\"id\":\"G0000uFrJYrQlk.M\"},{\"type\":\"Gallery\",\"id\":\"G00003x5g3b0HlYg\"},{\"type\":\"Gallery\",\"id\":\"G0000FYvoGU7kMJM\"},{\"type\":\"Gallery\",\"id\":\"G00004ZHSvhgR8T4\"},{\"type\":\"Gallery\",\"id\":\"G00000CoTKYfEh_A\"},{\"type\":\"Gallery\",\"id\":\"G0000WjgrhdYM2Kc\"},{\"type\":\"Gallery\",\"id\":\"G0000oakIcdzGpd8\"},{\"type\":\"Gallery\",\"id\":\"G0000BD2SoZN5pC8\"}],\"recent\":[\"\",\"\"],\"image\":false,\"imageType\":\"thumb\",\"f_count\":-1,\"rowCount\":3,\"propOverload\":{\"dataSource\":{\"map\":{\"recent\":\"Recently updated galleries\",\"user\":\"Specific galleries\"}},\"userLinks\":{\"inpEdit\":false,\"allowed\":[\"Gallery\"]},\"f_galleriesSize\":{\"inpEnable\":true},\"recent\":{\"inpEdit\":false}},\"delegate\":{\"Gallery\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":2}],\"Galleries\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":2}]}},{\"widget\":\"ThumbFocus\",\"widgetName\":\"Thumbnail Viewer\",\"pageCount\":-1,\"f_scrollbar\":true,\"f_editable\":false,\"f_innerScroll\":false,\"f_layout\":\"m\",\"scrollElm\":\"window\",\"columnA\":[3,5,7,7,7],\"delegate\":{\"JumpTo\":[{\"mode\":\"index\",\"set\":\"gallerySingleImage\",\"ordinal\":0}]}}]}},\"about\":{\"title\":\"About\",\"meta_description\":\"Greater Boston photographer specialized in fine photography art and high-quality fine art printing of photos that capture New England\\u2019s awe-inspiring landscapes and seascapes, colorful fall foliage, intimate macros of butterflies and insects, intimate wildlife and birds, stunning flower abstracts and portraits. Beautiful urban scenes of Boston are available on high quality wall art prints. Nearly all photographs at Roth Galleries are available for photography image licensing. Signed edition prints are available to the art lover and collector.\",\"widgets\":[{\"widget\":\"Content\",\"widgetName\":\"Content Area\",\"widgetDesc\":\"Text or custom content to display on this page\",\"contentTuple\":{\"type\":\"c2_page\",\"category\":\"about\",\"subcategory\":\"about\"},\"f_hash_tuple\":false,\"hashTupleBase\":{\"type\":\"c2_page\",\"category\":\"arbpage\",\"subcategory\":null},\"defaultContent\":{\"content\":\"<h2 class=\\\"title\\\">About Me<\\\/h2>Bio information to be entered here.\"}},{\"widget\":\"StaticImage\",\"widgetName\":\"Image\",\"widgetDesc\":\"An image to display on this page\",\"image\":[{\"type\":\"GalleryImage\",\"image_id\":\"I0000m.bncMCRPXI\",\"gallery_id\":\"G0000EyVrrCSC9Es\",\"collection_id\":\"\"}],\"image_width\":600,\"image_height\":400,\"image_f_wm_disable\":\"t\",\"image_f_sec_ignore\":\"t\",\"image_max_size\":null}]},\"contact\":{\"title\":\"Contact\",\"meta_description\":\"Juergen Roth Galleries provides amazing photos of Boston and an array of beautiful New England photos available on stunning fine art prints on canvas, acrylic, metal, wood or standard photo paper. Roth photography pictures may be framed, matted or purchased as prints only. All photo artwork is available for sale and photo image licensing with instant download for individual framing and printing. \",\"widgets\":[{\"widget\":\"Content\",\"widgetName\":\"Content Area\",\"widgetDesc\":\"Text or custom content to display on this page\",\"contentTuple\":{\"type\":\"c2_page\",\"category\":\"contact\",\"subcategory\":\"contact\"},\"f_hash_tuple\":false,\"hashTupleBase\":{\"type\":\"c2_page\",\"category\":\"arbpage\",\"subcategory\":null},\"defaultContent\":{\"content\":\"<h1 class=\\\"title\\\">Contact Info<\\\/h1><p>[contact info goes here]<\\\/p>\"}},{\"widget\":\"ContactForm\",\"widgetName\":\"Contact Form\",\"widgetDesc\":\"Form to allow visitors to send messages directly to you\",\"sendText\":\"Send\",\"f_captcha\":false,\"f_placeholder\":false}]},\"p\":{\"title\":\"Boston photo news and New England updates from Juergen Roth Galleries including award honors, latest picture image release, photo magazine publication, art gallery exhibitions and openings.\",\"meta_description\":\"New England news from Juergen Roth galleries photo events, photography book releases, art exhibitions, fine art gallery openings and art festivals including announcements of Cape Cod fine art gallery exhibits, photo events and other New England regional photography art shows. Latest photo awards achievements and release updates of Boston night and skyline photography, New England scenic landscape, amazing nature and peaceful seascape photographs, and wonderful flower image portraits and abstract floral art features in exhibitions, publications in magazines, books, calendars, corporate brochures and travel guides.\",\"modeName\":\"Custom Page\",\"user_hidden\":true,\"widgets\":[{\"widget\":\"Content\",\"widgetName\":\"Content Area\",\"widgetDesc\":\"Text or custom content to display on this page\",\"contentTuple\":null,\"f_hash_tuple\":true,\"hashTupleBase\":{\"type\":\"c2_page\",\"category\":\"arbpage\",\"subcategory\":null},\"defaultContent\":null}]},\"video\":{\"title\":\"Videos\",\"meta_description\":\"\",\"widgets\":[{\"widget\":\"VimeoPlayer\",\"widgetName\":\"Vimeo Player\",\"widgetDesc\":\"A Vimeo video player\",\"f_dialog\":true,\"style\":null},{\"widget\":\"VimeoPlaylist\",\"widgetName\":\"Vimeo Feed\",\"widgetDesc\":\"A list of videos from a Vimeo account\\\/album\",\"list_type\":\"vimeo_user\",\"vimeo_user\":\"\",\"vimeo_album\":\"\"},{\"widget\":\"Content\",\"widgetName\":\"Content Area\",\"widgetDesc\":\"Text or custom content to display on this page\",\"contentTuple\":{\"type\":\"c2_page\",\"category\":\"video\",\"subcategory\":\"intro\"},\"f_hash_tuple\":false,\"hashTupleBase\":{\"type\":\"c2_page\",\"category\":\"arbpage\",\"subcategory\":null},\"defaultContent\":{\"content\":\"<h2 class=\\\"title\\\">Videos<\\\/h2>A selection of videos.\"}}]},\"blog\":{\"modeName\":\"Blog\",\"definition\":\"Blog\",\"title\":\"Photography blog providing photo tips and story behind photography images: How to create better landscape, seascape, skyline, macro, nature and flower photography\",\"meta_description\":\"Boston photography, photos of Boston, New England seascape photography, New England landscape photography, Boston skyline photos, Boston night photography, Boston skyline photography, Boston landmarks photography, images, pictures, photos, photos of Boston landmarks, exploring New England, best New England photo locations, best photo locations in, Massachusetts, New England, Vermont, New Hampshire, Rhode Island, Maine, Connecticut, Boston, Boston, Worcester, Berkshires, Central Massachusetts, Cape Cod, White Mountains, Acadia National Park, \",\"widgets\":[{\"widget\":\"BlogReader\",\"widgetName\":\"Blog Feed\",\"widgetDesc\":\"Displays posts from an external blog\",\"type\":\"tumblr\",\"blogger_url\":\"\",\"blogger_limit\":\"1\",\"tumblr_url\":\"rothgalleries.tumblr.com\",\"tumblr_limit\":\"20\",\"wordpress_url\":\"\",\"wordpress_feedUrl\":\"\",\"f_previous_text\":\"Previous\",\"f_next_text\":\"Next\"},{\"widget\":\"Content\",\"widgetName\":\"Content Area\",\"widgetDesc\":\"Text or custom content to display on this page\",\"contentTuple\":{\"type\":\"c2_page\",\"category\":\"blog\",\"subcategory\":\"intro\"},\"f_hash_tuple\":false,\"hashTupleBase\":{\"type\":\"c2_page\",\"category\":\"arbpage\",\"subcategory\":null},\"defaultContent\":{\"content\":\"<h1>Blog<\\\/h1>\"}}]},\"instagram\":{\"definition\":\"Instagram\",\"modeName\":\"Instagram\",\"title\":\"Instagram\",\"meta_description\":\"Instagram, roth galleries, landscape photography, seascape photography, Boston photos, photos of boston, boston art photography, boston photography, boston skyline photography, boston night photography, boston skyline photos, boston skyline photos, boston landmarks, boston skyline views, boston landmark photography, photos of boston landmarks,\",\"widgets\":[{\"widget\":\"Instagram\",\"widgetName\":\"Instagram\",\"widgetDesc\":\"A feed of photos from an Instagram account\",\"token\":\"655743029.d02876d.040a1be19caf46b7869324a6213f096b\",\"displayLikes\":\"t\",\"displayCaption\":\"t\"},{\"widget\":\"Content\",\"widgetName\":\"Content Area\",\"widgetDesc\":\"Text or custom content to display on this page\",\"contentTuple\":{\"type\":\"c2_page\",\"category\":\"instagram\",\"subcategory\":\"intro\"},\"f_hash_tuple\":false,\"hashTupleBase\":{\"type\":\"c2_page\",\"category\":\"arbpage\",\"subcategory\":null},\"defaultContent\":{\"content\":\"<h1 class=\\\"title\\\">Instagram<\\\/h1>\"}}]}}}","customEnv":{"id":"U0000poK1unnZlSQ","name":"Juergen Roth","label":"juergenroth","theme":"Theme2","theme_name":"Shuffle","curhost":"www.RothGalleries.com","host":"www.rothgalleries.com","host_ps":"juergenroth.photoshelter.com","url":"http:\/\/www.rothgalleries.com","url_ps":"http:\/\/juergenroth.photoshelter.com","api_key":"PS631731c7","site_cfg":{"SC_ID":"SC000.vRePrzW3As","SC_ORG_ID":null,"SC_USER_ID":"U0000poK1unnZlSQ","SC_SITE_NAME":"Juergen Roth","SC_CNAME":"www.rothgalleries.com","SC_THEME":"Theme2","SC_THEME_C1":"Induro","SC_THEME_C2":"Theme2","SC_IMG_NO_MASK":"f","SC_GA_ID":"UA-7499684-6","SC_HTML_HEAD":"<meta name=\"google-site-verification\" \r\ncontent=\"tatxdBEBqOeK0Xt_KUV9FCbfyxyv1Zg4CigjKMK7raU\" \/>","SC_HTML_FOOTER":"","FID_O":"U0000poK1unnZlSQ","CUSTOM_VERSION":"2.0"},"ctd":{"CTD_PRC_PRF_TYPE":"PRD","CTD_F_CART":"t","CTD_F_LBX":"f","CTD_F_DOWNLOAD":"f","CTD_F_SOCIAL":"t","CTD_THM_FIT_CLC_GAL":"fill","CTD_THM_FIT_IMG":"fill","CTD_PPG_THM":"250","CTD_PPG_GAL":"","CTD_SITE_URL":"","CTD_BLOG_URL":"http:\/\/whereintheworldisjuergen.blogspot.com\/","CTD_TXT_FOOTER":"New England and Boston fine art photography - Canvas Prints - Acrylic Prints - Metal Prints - Photo Prints - Framed Prints - Matted Prints - Print Only - Photography Image Licensing","CTD_NAV_GAL":"t","CTD_NAV_SEARCH":"f","CTD_NAV_LBX":"f","CTD_NAV_CART":"t","CTD_NAV_CART_TRAY":"t","CTD_NAV_USR":"f","CTD_NAV_ABOUT":"t","CTD_NAV_CONTACT":"t","CTD_NAV_PAGE1":"t","CTD_NAV_PAGE2":"t","CTD_NAV_PORTFOLIO":"f","CTD_LBL_PAGE1":"Fine Art Prints","CTD_LBL_PAGE2":"Events & Social Media","D_ID":"D0000oC7fmvuBD8M","librisSSO":false},"site_name":"Juergen Roth","f_preview":false,"f_custom_basic":false,"referral_url":"http:\/\/www.photoshelter.com\/referral\/U0000poK1unnZlSQ\/user","isDevDomain":false,"server":{"web":"http:\/\/www.photoshelter.com","ul":"http:\/\/ul.photoshelter.com","img":"http:\/\/cdn.c.photoshelter.com","vid":"http:\/\/cdn.v.photoshelter.com","vid-mem":"http:\/\/v.photoshelter.com","js":"http:\/\/js.c.photoshelter.com","css":"http:\/\/css.c.photoshelter.com","sec":"https:\/\/www.RothGalleries.com"},"js_include_rev":"20170221a","f_owner":false}};
+var C2_OPT = {"f_edit":false,"f_debug":false};
+
+
+(function($) { // map ps$ to $ // TODO: remove once ps$ is deprecated
+	$(function() { // equivalent to $.ready()
+		O_O.mm.oNew(O_O.app.Visualizer, 'c2', C2_CFG, C2_OPT);
+	});
+}(ps$));
+
+</script>
+<meta name="google-site-verification" 
+content="tatxdBEBqOeK0Xt_KUV9FCbfyxyv1Zg4CigjKMK7raU" />
+</head>
+<body>
+
+<div id="c2" class="  nav-logo-prep"></div>
+
+<div id="fb-root"></div>
+<div class="loading-c2 site">
+ <div class="bar-holder">
+  <div class="loading-bar"></div>
+ </div>
+</div>
+
+<noscript>
+	<div class="message">It looks like JavaScript is disabled in your browser. Please enable JavaScript and reload this page.</div>
+</noscript>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+var PSGA = PSGA || {};
+PSGA.initGa = function(uaid, name) {
+    ga('create', uaid, 'auto', {'name': name});
+};
+PSGA.distributor = function(request, args) {
+    return function() {
+        var trackers = ga.getAll();
+        for (var i = 0, ct = trackers.length; i < ct; i++) {
+            var tracker = trackers[i];
+            if ((args[0] === 'pageview' ||
+                    args[0].hitType === 'pageview') ||
+                tracker.get('name') !== 'user') {
+                    tracker[request].apply(tracker, args);
+                }
+        }
+    }
+};
+PSGA.distributeToGaTrackers = function() {
+    var args = [].slice.call(arguments);
+        request = args.shift();
+    ga(PSGA.distributor(request, args));
+};
+var uaid = 'UA-3783380-24';
+var dimensions = {};
+PSGA.initGa(uaid, 'ps');
+uaid = 'UA-7499684-6';
+PSGA.initGa(uaid, 'user');
+uaid = 'UA-3783380-16';
+PSGA.initGa(uaid, 'c2');
+dimensions.dimension1 = 'U0000poK1unnZlSQ';
+dimensions.dimension2 = 'Visitor';
+dimensions.dimension3 = 'Theme2';
+if (Object.keys(dimensions).length) PSGA.distributeToGaTrackers('set',dimensions);
+</script>
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NT5Z57"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NT5Z57');</script>
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript" src="http://js.c.photoshelter.com/js/APP/20170221a/logFrame.js"></script>
+
+</body>
+</html>

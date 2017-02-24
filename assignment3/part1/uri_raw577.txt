@@ -1,0 +1,375 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Author" content="Ian Logue">
+<title>Official New England Patriots Player Twitter Accounts and Current 2016 Roster </title>
+<meta name="Description" content="The complete 2016 list of official New England Patriots Player Twitter Accounts and current roster.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no;">
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<link rel="stylesheet" href="/2015/new/template/stylesheet.css">
+<link rel="stylesheet" href="/2007/style1.css">
+<link rel="stylesheet" href="/2014/style1.css">
+<link rel="stylesheet" href="/2012/style1.css">
+<link rel="stylesheet" href="/2014/blogs/style1.css">
+<link rel="stylesheet" href="/new-england-patriots/roster/2015/roster.css">
+ 
+<link rel="stylesheet" href="/new-england-patriots/stats/includes/statsstyle.css">
+<link rel="stylesheet" href="/2015/new/latest-front/stylesheet.css"/>
+ 
+ 
+ 
+<link rel="stylesheet" href="/2015/new/latest/stylesheet.css">
+<link rel="stylesheet" href="/2015/new/story_block/stylesheet.css">
+<link rel="stylesheet" href="/2015/new/players/trending.css">
+<link rel="stylesheet" href="/2015/new/template/stylesheet.css">
+<link href='https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Oswald:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/new-england-patriots/roster/2016/roster.css">
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<script type='text/javascript'>
+googletag.pubads().enableSyncRendering();
+googletag.pubads().setTargeting("title", window.location.toString()); 
+</script>
+<style type="text/css">#tablist{padding:0px 0;margin-left:0;margin-bottom:0;margin-top:0.1em;font:bold 10px Verdana;}#tablist li{list-style:none;display:inline;margin:0;}#tablist li a{padding:3px 0.5em;margin-left:3px;border:1px solid #778;border-bottom:none;background:#960000;}#tablist li a:link,#tablist li a:visited{color:white;}#tablist li a.current{background:#960000;}#tabcontentcontainer{width:485px;padding:0px;border:0px solid black;}.tabcontent{display:none;}</style>
+<style type="text/css">#ajaxticker1{width:551px;height:20px;font-size:12px;font-family:Arial;line-height:14pt;font-weight:bold;vertical-align:middle;color:#FFFFFF;border:0px ridge black;padding:0px;}#ajaxticker2{width:551px;height:20px;font-size:12px;font-family:Arial;line-height:14pt;font-weight:bold;vertical-align:middle;color:#000064;border:0px ridge black;padding:0px;}#ajaxticker1 div{}.someclass{//class to apply to your scroller(s) if desired}</style>
+<script src="https://www.patsfans.com/includes/ajaxticker.js" type="text/javascript">
+
+/***********************************************
+* Ajax Ticker script (txt file source)- � Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+</script>
+<script type="text/javascript">
+<!-- Begin
+function checkrequired(which) {
+var pass=true;
+if (document.images) {
+for (i=0;i<which.length;i++) {
+var tempobj=which.elements[i];
+if (tempobj.name.substring(0,8)=="required") {
+if (((tempobj.type=="text"||tempobj.type=="textarea")&&
+tempobj.value=='')||(tempobj.type.toString().charAt(0)=="s"&&
+tempobj.selectedIndex==0)) {
+pass=false;
+break;
+         }
+      }
+   }
+}
+if (!pass) {
+shortFieldName=tempobj.name.substring(8,30).toUpperCase();
+alert("One of Your Fields isn't properly completed.");
+return false;
+}
+else
+return true;
+}
+//  End -->
+</script>
+<script type="text/javascript">
+function target_popup(form) {
+    window.open('', 'formpopup', 'width=450,height=550,resizeable');
+    form.target = 'formpopup';
+}
+</script>
+<script type="text/javascript">
+function clickclear(thisfield, defaulttext) {
+if (thisfield.value == defaulttext) {
+thisfield.value = "";
+}
+}
+
+function clickrecall(thisfield, defaulttext) {
+if (thisfield.value == "") {
+thisfield.value = defaulttext;
+}
+}
+</script>
+ 
+<script type="text/javascript">
+$(document).ready(function () {
+    $('.slideout-menu-toggle').on('click', function(event){
+    	event.preventDefault();
+    	// create menu variables
+    	var slideoutMenu = $('.slideout-menu');
+    	var slideoutMenuWidth = $('.slideout-menu').width();
+    	
+    	// toggle open class
+    	slideoutMenu.toggleClass("open");
+    	
+    	// slide menu
+    	if (slideoutMenu.hasClass("open")) {
+	    	slideoutMenu.animate({
+		    	left: "0px"
+	    	});	
+    	} else {
+	    	slideoutMenu.animate({
+		    	left: -slideoutMenuWidth
+	    	}, 250);	
+    	}
+    });
+});
+</script><script type="text/javascript">
+$(document).ready(function() {
+
+	var track_click = 0; //track user click on "load more" button, righ now it is 0 click
+	
+	var total_pages = 1421;
+	$('#results').load("http://www.patsfans.com/2015/blogs/fetch_pages.php", {'page':track_click}, function() {track_click++;}); //initial data to load
+
+	$(".load_more").click(function (e) { //user clicks on button
+	
+		$(this).hide(); //hide load more button on click
+		$('.animation_image').show(); //show loading image
+
+		if(track_click <= total_pages) //make sure user clicks are still less than total pages
+		{
+			//post page number and load returned data into result element
+			$.post('http://www.patsfans.com/2015/blogs/fetch_pages.php',{'page': track_click}, function(data) {
+			
+				$(".load_more").show(); //bring back load more button
+				
+				$("#results").append(data); //append data received from server
+				
+				//scroll page to button element
+				
+				//hide loading image
+				$('.animation_image').hide(); //hide loading image once data is received
+	
+				track_click++; //user click increment on load button
+			
+			}).fail(function(xhr, ajaxOptions, thrownError) { 
+				alert(thrownError); //alert any HTTP error
+				$(".load_more").show(); //bring back load more button
+				$('.animation_image').hide(); //hide loading image once data is received
+			});
+			
+			
+			if(track_click >= total_pages-1)
+			{
+				//reached end of the page yet? disable load button
+				$(".load_more").attr("disabled", "disabled");
+			}
+		 }
+		  
+		});
+});
+</script>
+<style MEDIA="screen" type="text/css">#title{font:italic bold 27px "Verdana";position:relative;top:0px;left:0px;}#text{position:relative;top:0px;left:0px;color:#960000;z-index:2;}#shadow{position:absolute;top:2px;left:1px;color:#777777;z-index:1;}#title2{font:bold 18px "Verdana";position:relative;top:0px;left:0px;}#text2{position:relative;top:0px;left:0px;color:#FFFFFF;z-index:2;}#shadow2{position:absolute;top:2px;left:1px;color:#960000;z-index:1;}</style>
+</head>
+<body>
+<div id="main_site_container">
+<div id="top_main_nav_bar"><div id="top_main_nav_bar_button"><a class="slideout-menu-toggle" href="#"><IMG SRC="http://www.patsfans.com/2015/images/button.png"/></a></div><div id="top_nav_logo_block"><div id="top_nav_logo_sm"><IMG SRC="http://www.patsfans.com/2015/images/15-PF-Logo-30px.png"/></div><div id="top_main_nav_bar_logo"><a href="http://www.patsfans.com/"><IMG SRC="http://www.patsfans.com/2015/images/15-PF-Logo.png" BORDER="0"/></a></div></div><div id="top_nav_bar_block"><a class="anton_news_nav_link" href="http://www.patsfans.com/new-england-patriots/news/">NEWS</a><a class="anton_forum_nav_link" href="http://www.patsfans.com/new-england-patriots/messageboard/">FORUM</a><a class="anton_videos_nav_link" href="http://www.patsfans.com/patriots/social/">SOCIAL</a><a class="anton_stats_nav_link" href="http://www.patsfans.com/new-england-patriots/schedule/2016/">SCHEDULE</a><a class="anton_podcast_nav_link" href="http://www.patsfans.com/patriots-podcasts/">PODCAST</a><a class="anton_patscap_nav_link" href="http://www.patscap.com" target="_blank">SALARY CAP</a></div></div>
+<div id="topgreystrip">
+<div id="pf_login_bar_right">
+<span class="itemCountText"><strong>FORUM:</strong> <a class="itemCountLink" href="http://www.patsfans.com/new-england-patriots/messageboard/login/"><strong>LOGIN</strong></a> <span class="itemCountText">|</span> <a class="itemCountLink" href="http://www.patsfans.com/new-england-patriots/messageboard/register/"><strong>REGISTER</strong></a></div>
+<div id="pf_login_bar_left"><script type="text/javascript"> var xmlfile="http://www.patsfans.com/includes/news-feed-front-updates.txt" //path to ticker txt file on your server.
+//ajax_ticker(xmlfile, divId, divClass, delay, optionalfadeornot)
+new ajax_ticker(xmlfile, "ajaxticker2", "someclass", [3500], "fade")
+</script></div>
+</div>
+<div id="top_ad_area"><script type="text/javascript">
+if ($(window).width() > 250 && $(window).width() < 480)  {
+		document.write('<div align="center"><!-- SMG_PatsFans/300x250_1a/sports/football/nfl.general --><div id="usmg_ad_nfl.general_football_sports_300x250_1a"><script type=\'text/javascript\'>googletag.defineSlot(\'/7103/SMG_PatsFans/300x250_1a/sports/football/nfl.general\',[300,250],\'usmg_ad_nfl.general_football_sports_300x250_1a\').addService(googletag.pubads());googletag.enableServices();googletag.display(\'usmg_ad_nfl.general_football_sports_300x250_1a\');</scr'+'ipt></div></div>');
+			} 		
+		else if ($(window).width() > 481 && $(window).width() < 749){
+            document.write('<div align="center"><!-- SMG_PatsFans/300x250_1a/sports/football/nfl.general --><div id="usmg_ad_nfl.general_football_sports_300x250_1a"><script type=\'text/javascript\'>googletag.defineSlot(\'/7103/SMG_PatsFans/300x250_1a/sports/football/nfl.general\',[300,250],\'usmg_ad_nfl.general_football_sports_300x250_1a\').addService(googletag.pubads());googletag.enableServices();googletag.display(\'usmg_ad_nfl.general_football_sports_300x250_1a\');</scr'+'ipt></div></div>');
+			}
+		else if ($(window).width() > 750 && $(window).width() < 995){
+            document.write('<div align="center"><div id="usmg_ad_nfl.general_football_sports_728x90_1a"><script type=\'text/javascript\'> googletag.defineSlot(\'/7103/SMG_PatsFans/728x90_1a/sports/football/nfl.general\',[728,90],\'usmg_ad_nfl.general_football_sports_728x90_1a\').addService(googletag.pubads()); googletag.enableServices(); googletag.display(\'usmg_ad_nfl.general_football_sports_728x90_1a\');</scr'+'ipt></div></div>');
+            }
+        else if ($(window).width() > 996) {
+			document.write('<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><!-- 970x250 Top Leaderboard --><ins class="adsbygoogle" style="display:inline-block;width:970px;height:250px" data-ad-client="ca-pub-0237222887104837" data-ad-slot="8646936088"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt>');
+		}
+</script></div>
+<div id="topbluestrip"><div id="topbluestriptext">PATRIOTS TWITTER:</div></div>
+<div id="pf_container">
+<div id="pf_body_right">
+<div id="top_sidebar_main_ad">
+<script type="text/jscript">
+if ($(window).width() > 960) {			
+			document.write('<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><!-- 300x250 Blog Sidebar --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0237222887104837" data-ad-slot="2054319682"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt>');
+			} 		
+</script></center></div>
+<p align="center">
+<style>table.herald{border-collapse:separate;border-spacing:1px;}table.herald{border-collapse:collapse;border-spacing:0;}table th td.herald{border:1px solid black;border-top:0;border-left:0;border-right:0;padding:1px;height:55px;text-align:left;border-collapse:collapse;border-spacing:0px;vertical-align:top;}</style>
+<center><IMG SRC="http://www.patsfans.com/new-england-patriots/news/images/Herald_300_Header.jpg" width="100%"></center>
+<table width=100% class="herald" bgcolor=#FFFFFF>
+<tr valign=top><td width=60><a href="http://l.patsfans.com/xamzuyp" rel="nofollow" target="_blank"><IMG SRC="http://www.patsfans.com/2015/new/link/thumbs/022317_hpgEK.jpg" width=50 border=0></a></td><td width=*><a class="dkbluebigb" href="http://l.patsfans.com/xamzuyp" rel="nofollow" target="_blank">McGovern: Aaron Hernandez eyes potential pot defense</a></td></tr><tr valign=top><td width=60><a href="http://l.patsfans.com/atr5zjt" rel="nofollow" target="_blank"><IMG SRC="http://www.patsfans.com/2015/new/link/thumbs/022217_sm6aC.jpg" width=50 border=0></a></td><td width=*><a class="dkbluebigb" href="http://l.patsfans.com/atr5zjt" rel="nofollow" target="_blank">Police report puts $500,000 price tag on Tom Brady’s missing Super Bowl LI jersey</a></td></tr><tr valign=top><td width=60><a href="http://l.patsfans.com/bwql0xg" rel="nofollow" target="_blank"><IMG SRC="http://www.patsfans.com/2015/new/link/thumbs/022117_k760W.jpg" width=50 border=0></a></td><td width=*><a class="dkbluebigb" href="http://l.patsfans.com/bwql0xg" rel="nofollow" target="_blank">Robert Kraft on Patriots detractors: 'We'll do our best to keep them in that position'</a></td></tr><tr valign=top><td width=60><a href="http://l.patsfans.com/gn7ptix" rel="nofollow" target="_blank"><IMG SRC="http://www.patsfans.com/2015/new/link/thumbs/022117_GoIss.jpg" width=50 border=0></a></td><td width=*><a class="dkbluebigb" href="http://l.patsfans.com/gn7ptix" rel="nofollow" target="_blank">Alabama hires Patriots assistant Brian Daboll to run offense</a></td></tr><tr valign=top><td width=60><a href="http://l.patsfans.com/3xiyvmt" rel="nofollow" target="_blank"><IMG SRC="http://www.patsfans.com/2015/new/link/thumbs/022117_vZkCI.jpg" width=50 border=0></a></td><td width=*><a class="dkbluebigb" href="http://l.patsfans.com/3xiyvmt" rel="nofollow" target="_blank">Jimmy Garoppolo trying to ignore trade speculation</a></td></tr>
+</table>
+<p align="center">
+<div id="sidebar_site_block">
+<div id="MainFrontContainer">
+<div id="MainImageSpacer"></div>
+<div id="MainImageFrontTop">Right Now At PatsFans.com:</div>
+<div id="MainImage"><IMG SRC="http://www.patsfans.com/images/us-presswire/450x275/Photo-Cyrus-Jones-xUxvo-450x275.jpg" WIDTH=100%></div>
+<div id="MainTitle">Mental Toughness</div>
+<div id="MainDesc">Cyrus Jones had a tough rookie season, and he's already hard at work getting ready to try and bounce back in 2017.</div>
+<div id="buttonnav">
+<ul>
+<li><a href="http://www.patsfans.com/patriots/blog/2017/02/20/hopefully-jones-can-follow-cannons-footsteps/">Jones Needs to Follow In Cannon's Footsteps</a></li><li><a href="http://www.patsfans.com/patriots/blog/2017/02/20/new-england-patriots-free-agent-profile-jabaal-sheard/">2017 Free Agent Profile: Jabaal Sheard</a></li></ul></div></div></div>
+<p align="center">
+<script type="text/jscript">
+if ($(window).width() > 960) {			
+			document.write('<!-- OnScroll - 379342 - 300x250(s) --><div id="OnScroll - 379342 - 300x250(s)"></div><!-- OnScroll tag: OnScroll - 379342 - 300x250(s) --><script src="//tags.us.onscroll.com/d6430dfd-e979-48be-abd6-e1abd12d31ed/tag.min.js" async defer></scr'+'ipt>');
+			} 		
+</script></center><p>
+<p align="center">
+<div id="sidebar_site_block">
+<table cellpadding=5 align=center width=300><tr><td colspan=3 bgcolor=#960000><span class="trendingtextb">Trending Patriots Players:</span></td></tr><tr valign=center bgcolor=#F5F5F5><td width=10><div id="rank">1</div></td><td width=50><IMG SRC="http://www.patsfans.com/images/us-presswire/150x150/Photo-Tom-Brady-vQoq0-250x250.jpg" width=50></td><td width=*><a href="http://www.patsfans.com/new-england-patriots/news/players/Tom-Brady/2/1/" class="dkredbig">Tom Brady</a><br><font class="blacktextb">51 Articles Today</font></td></tr><tr valign=center bgcolor=#F0F0F0><td width=10><div id="rank">2</div></td><td width=50><IMG SRC="http://www.patsfans.com/images/us-presswire/150x150/2016-Week-16-Jimmy-Garoppolo-YkXxy-250x250.jpg" width=50></td><td width=*><a href="http://www.patsfans.com/new-england-patriots/news/players/Jimmy-Garoppolo/37/1/" class="dkredbig">Jimmy Garoppolo</a><br><font class="blacktextb">38 Articles Today</font></td></tr><tr valign=center bgcolor=#F5F5F5><td width=10><div id="rank">3</div></td><td width=50><IMG SRC="http://www.patsfans.com/images/us-presswire/150x150/2016-Week-16-Martellus-Bennett-Fu0pD-250x250.jpg" width=50></td><td width=*><a href="http://www.patsfans.com/new-england-patriots/news/players/Martellus-Bennett/204/1/" class="dkredbig">Martellus Bennett</a><br><font class="blacktextb">31 Articles Today</font></td></tr><tr valign=center bgcolor=#F0F0F0><td width=10><div id="rank">4</div></td><td width=50><IMG SRC="http://www.patsfans.com/images/us-presswire/150x150/2016-Super-Bowl-Bill-Belichick-BWkZk-250x250.jpg" width=50></td><td width=*><a href="http://www.patsfans.com/new-england-patriots/news/players/Bill-Belichick/93/1/" class="dkredbig">Bill Belichick</a><br><font class="blacktextb">29 Articles Today</font></td></tr><tr valign=center bgcolor=#F5F5F5><td width=10><div id="rank">5</div></td><td width=50><IMG SRC="http://www.patsfans.com/images/us-presswire/150x150/2014-Super-Bowl-Brady-Shaking-Hands-Richard-Sherman-150x150.jpg" width=50></td><td width=*><a href="http://www.patsfans.com/new-england-patriots/news/players//43/1/" class="dkredbig"></a><br><font class="blacktextb">14 Articles Today</font></td></tr><tr valign=center bgcolor=#F0F0F0><td width=10><div id="rank">6</div></td><td width=50><IMG SRC="http://www.patsfans.com/images/us-presswire/150x150/2016-AFC-Divisional-Julian-Edelman-87kwN-250x250.jpg" width=50></td><td width=*><a href="http://www.patsfans.com/new-england-patriots/news/players/Julian-Edelman/30/1/" class="dkredbig">Julian Edelman</a><br><font class="blacktextb">14 Articles Today</font></td></tr><tr valign=center bgcolor=#F5F5F5><td width=10><div id="rank">7</div></td><td width=50><IMG SRC="http://www.patsfans.com/images/us-presswire/150x150/2013-Josh-McDaniels-150x150.jpg" width=50></td><td width=*><a href="http://www.patsfans.com/new-england-patriots/news/players/Josh-McDaniels/94/1/" class="dkredbig">Josh McDaniels</a><br><font class="blacktextb">13 Articles Today</font></td></tr><tr valign=center bgcolor=#F0F0F0><td width=10><div id="rank">8</div></td><td width=50><IMG SRC="http://www.patsfans.com/images/us-presswire/150x150/2016-AFC-Divisional-Devin-McCourty-qkNlG-250x250.jpg" width=50></td><td width=*><a href="http://www.patsfans.com/new-england-patriots/news/players/Devin-McCourty/62/1/" class="dkredbig">Devin McCourty</a><br><font class="blacktextb">12 Articles Today</font></td></tr></table></div>
+<p>
+</div>
+<div id="pf_body_left">
+<div id="font_header_top">2016 New England Patriots Roster<br>And Official Player Twitter Accounts:</div>
+<br><font size=-2><font face="Arial">*Note: All Twitter Accounts Listed are to the best of our knowledge based on data provided from various sources online. Only verified accounts can be confirmed as actual player accounts.</font></font>
+<p>
+<div id="section_strip">CURRENT PATRIOTS ROSTER:</div><div id="week_block"><div id="wk">#</div><div id="date">POS</div><div id="opponent">PLAYER NAME</div><div id="win">HT/WEIGHT</div><div id="score">TWITTER ACCOUNT</div></div><div id="week_block"><div id="wk">3</div><div id="date">K</div><div id="opponent">Stephen Gostkowski</div><div id="win">6'1" 215lbs</div><div id="score"></div></div><div id="week_block"><div id="wk">6</div><div id="date">P</div><div id="opponent">Ryan Allen</div><div id="win">6'2" 215lbs</div><div id="score"><a href="https://twitter.com/R_Allen86" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @R_Allen86</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">7</div><div id="date">QB</div><div id="opponent">Jacoby Brissett</div><div id="win">6'4" 231lbs</div><div id="score"><a href="https://twitter.com/jbrissett12" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @jbrissett12</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">10</div><div id="date">QB</div><div id="opponent">Jimmy Garoppolo</div><div id="win">6'2" 225lbs</div><div id="score"><a href="https://twitter.com/JimmyG_10" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @JimmyG_10</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">11</div><div id="date">WR</div><div id="opponent">Julian Edelman</div><div id="win">5'10" 198lbs</div><div id="score"><a href="https://twitter.com/Edelman11" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @Edelman11</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">12</div><div id="date">QB</div><div id="opponent">Tom Brady</div><div id="win">6'4" 225lbs</div><div id="score"></div></div><div id="week_block"><div id="wk">14</div><div id="date">WR</div><div id="opponent">Michael Floyd</div><div id="win">6'2'' 220lbs</div><div id="score"><a href="https://twitter.com/MichaelMFloyd" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @MichaelMFloyd</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">15</div><div id="date">WR</div><div id="opponent">Chris Hogan</div><div id="win">6'1" 215lbs</div><div id="score"><a href="https://twitter.com/chrishogan_15" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @chrishogan_15</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">18</div><div id="date">WR</div><div id="opponent">Matthew Slater</div><div id="win">6'0" 210lbs</div><div id="score"></div></div><div id="week_block"><div id="wk">19</div><div id="date">WR</div><div id="opponent">Malcolm Mitchell</div><div id="win">6'0" 198lbs</div><div id="score"><a href="https://twitter.com/money_mitch26" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @money_mitch26</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">21</div><div id="date">CB</div><div id="opponent">Malcolm Butler</div><div id="win">5'11" 190lbs</div><div id="score"><a href="https://twitter.com/Mac_BZ" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @Mac_BZ</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">22</div><div id="date">CB</div><div id="opponent">Justin Coleman</div><div id="win">5'11" 190lbs</div><div id="score"><a href="https://twitter.com/justincoleman27" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @justincoleman27</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">23</div><div id="date">S</div><div id="opponent">Patrick Chung</div><div id="win">5'11" 210lbs</div><div id="score"><a href="https://twitter.com/PatrickChung23" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @PatrickChung23</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">24</div><div id="date">CB</div><div id="opponent">Cyrus Jones</div><div id="win">5'10" 200lbs</div><div id="score"><a href="https://twitter.com/CyJones_" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @CyJones_</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">25</div><div id="date">CB</div><div id="opponent">Eric Rowe</div><div id="win">6'1" 205lbs</div><div id="score"><a href="https://twitter.com/ericrowe32" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @ericrowe32</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">26</div><div id="date">CB</div><div id="opponent">Logan Ryan</div><div id="win">5'11" 195lbs</div><div id="score"><a href="https://twitter.com/RealLoganRyan" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @RealLoganRyan</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">27</div><div id="date">RB</div><div id="opponent">D.J. Foster</div><div id="win">6'0" 195lbs</div><div id="score"><a href="https://twitter.com/astate_8" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @astate_8</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">28</div><div id="date">RB</div><div id="opponent">James White</div><div id="win">5'10" 205lbs</div><div id="score"><a href="https://twitter.com/SweetFeet_White" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @SweetFeet_White</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">29</div><div id="date">RB</div><div id="opponent">LeGarrette Blount</div><div id="win">6'0" 250lbs</div><div id="score"><a href="https://twitter.com/lg_blount" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @lg_blount</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">30</div><div id="date">S</div><div id="opponent">Duron Harmon</div><div id="win">6'1" 205lbs</div><div id="score"><a href="https://twitter.com/dharm32" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @dharm32</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">31</div><div id="date">DB</div><div id="opponent">Jonathan Jones</div><div id="win">5'10" 190lbs</div><div id="score"><a href="https://twitter.com/jonathan_jones2" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @jonathan_jones2</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">32</div><div id="date">DB</div><div id="opponent">Devin McCourty</div><div id="win">5'10" 195lbs</div><div id="score"><a href="https://twitter.com/McCourtyTwins" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @McCourtyTwins</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">33</div><div id="date">RB</div><div id="opponent">Dion Lewis</div><div id="win">5'8" 195lbs</div><div id="score"><a href="https://twitter.com/dionlewisrb" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @dionlewisrb</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">36</div><div id="date">S</div><div id="opponent">Brandon King</div><div id="win">6'2" 213lbs</div><div id="score"><a href="https://twitter.com/_king205" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @_king205</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">37</div><div id="date">DB</div><div id="opponent">Jordan Richards</div><div id="win">5'11" 210lbs</div><div id="score"></div></div><div id="week_block"><div id="wk">38</div><div id="date">RB</div><div id="opponent">Brandon Bolden</div><div id="win">5'11" 220lbs</div><div id="score"><a href="https://twitter.com/BB_HulkSmash" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @BB_HulkSmash</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">43</div><div id="date">S</div><div id="opponent">Nate Ebner</div><div id="win">6'0" 220lbs</div><div id="score"><a href="https://twitter.com/NateEbner" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @NateEbner</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">46</div><div id="date">RB</div><div id="opponent">James Develin</div><div id="win">6'3" 255lbs</div><div id="score"><a href="https://twitter.com/james_develin" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @james_develin</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">49</div><div id="date">LS</div><div id="opponent">Joe Cardona</div><div id="win">6'3" 236lbs</div><div id="score"><a href="https://twitter.com/joecardona93" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @joecardona93</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">50</div><div id="date">DE</div><div id="opponent">Rob Ninkovich</div><div id="win">6'2" 260lbs</div><div id="score"><a href="https://twitter.com/ninko50" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @ninko50</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">51</div><div id="date">LB</div><div id="opponent">Barkevious Mingo</div><div id="win">6'4" 240lbs</div><div id="score"><a href="https://twitter.com/keke_mingo" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @keke_mingo</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">52</div><div id="date">LB</div><div id="opponent">Elandon Roberts</div><div id="win">6'0" 235lbs</div><div id="score"><a href="https://twitter.com/roberts_44" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @roberts_44</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">53</div><div id="date">LB</div><div id="opponent">Kyle Van Noy</div><div id="win">6'3'' 252lbs</div><div id="score"><a href="https://twitter.com/@KVN_03" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @@KVN_03</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">54</div><div id="date">LB</div><div id="opponent">Dont'a Hightower</div><div id="win">6'3" 270lbs</div><div id="score"><a href="https://twitter.com/zeus30hightower" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @zeus30hightower</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">58</div><div id="date">LB</div><div id="opponent">Shea McClellin</div><div id="win">6'3" 250lbs</div><div id="score"></div></div><div id="week_block"><div id="wk">60</div><div id="date">C</div><div id="opponent">David Andrews</div><div id="win">6'3" 294lbs</div><div id="score"><a href="https://twitter.com/dandrews61" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @dandrews61</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">61</div><div id="date">T</div><div id="opponent">Marcus Cannon</div><div id="win">6'5" 335lbs</div><div id="score"></div></div><div id="week_block"><div id="wk">62</div><div id="date">OL</div><div id="opponent">Joe Thuney</div><div id="win">6'5" 295lbs</div><div id="score"><a href="https://twitter.com/josephthuney" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @josephthuney</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">68</div><div id="date">OL</div><div id="opponent">LaAdrian Waddle</div><div id="win">6'6" 315lbs</div><div id="score"><a href="https://twitter.com/laadrianwaddle" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @laadrianwaddle</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">69</div><div id="date">OL</div><div id="opponent">Shaq Mason</div><div id="win">6'1" 300lbs</div><div id="score"><a href="https://twitter.com/shaqdiesel_70" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @shaqdiesel_70</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">71</div><div id="date">T</div><div id="opponent">Cameron Fleming</div><div id="win">6'6" 320lbs</div><div id="score"><a href="https://twitter.com/cammyjfresh" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @cammyjfresh</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">75</div><div id="date">OL</div><div id="opponent">Ted Karras</div><div id="win">6'4" 305lbs</div><div id="score"><a href="https://twitter.com/_teddy_k" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @_teddy_k</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">77</div><div id="date">T</div><div id="opponent">Nate Solder</div><div id="win">6'8" 320lbs</div><div id="score"><a href="https://twitter.com/soldernate" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @soldernate</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">80</div><div id="date">WR</div><div id="opponent">Danny Amendola</div><div id="win">5'11" 195lbs</div><div id="score"><a href="https://twitter.com/DannyAmendola" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @DannyAmendola</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">82</div><div id="date">TE</div><div id="opponent">Matt Lengel</div><div id="win">6'7'' 266lbs</div><div id="score"><a href="https://twitter.com/@Colonel82" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @@Colonel82</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">88</div><div id="date">TE</div><div id="opponent">Martellus Bennett</div><div id="win">6'6" 275lbs</div><div id="score"><a href="https://twitter.com/MartysaurusRex" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @MartysaurusRex</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">90</div><div id="date">DT</div><div id="opponent">Malcom Brown</div><div id="win">6'2" 320lbs</div><div id="score"></div></div><div id="week_block"><div id="wk">92</div><div id="date">DE</div><div id="opponent">Geneo Grissom</div><div id="win">6'4" 252lbs</div><div id="score"><a href="https://twitter.com/geneo_g" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @geneo_g</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> - Not Verified</div></div><div id="week_block"><div id="wk">93</div><div id="date">DE</div><div id="opponent">Jabaal Sheard</div><div id="win">6'3" 264lbs</div><div id="score"><a href="https://twitter.com/jabaalsheard" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @jabaalsheard</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">95</div><div id="date">DL</div><div id="opponent">Chris Long</div><div id="win">6'3" 270lbs</div><div id="score"><a href="https://twitter.com/JOEL9ONE" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @JOEL9ONE</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">97</div><div id="date">DL</div><div id="opponent">Alan Branch</div><div id="win">6'6" 350lbs</div><div id="score"></div></div><div id="week_block"><div id="wk">98</div><div id="date">DL</div><div id="opponent">Trey Flowers</div><div id="win">6'2" 266lbs</div><div id="score"><a href="https://twitter.com/iii_flowers" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @iii_flowers</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">99</div><div id="date">DL</div><div id="opponent">Vincent Valentine</div><div id="win">6'3" 320lbs</div><div id="score"><a href="https://twitter.com/TheRealVRVJ" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @TheRealVRVJ</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="section_strip">CURRENT PATRIOTS PRACTICE SQUAD:</div><div id="week_block"><div id="wk">#</div><div id="date">POS</div><div id="opponent">PLAYER NAME</div><div id="win">HT/WEIGHT</div><div id="score">TWITTER ACCOUNT</div></div><div id="week_block"><div id="wk">16</div><div id="date">WR</div><div id="opponent">Devin Lucien</div><div id="win">6'2" 195lbs</div><div id="score"><a href="https://twitter.com/d_lucien15" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @d_lucien15</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">17</div><div id="date">WR</div><div id="opponent">DeAndrew White</div><div id="win">6'0" 192lbs</div><div id="score"><a href="https://twitter.com/deuce_dwhite" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @deuce_dwhite</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">35</div><div id="date">RB</div><div id="opponent">Tyler Gaffney</div><div id="win">6'0" 220lbs</div><div id="score"><a href="https://twitter.com/https://twitter.com/tygaffney" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @https://twitter.com/tygaffney</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> - Not Verified</div></div><div id="week_block"><div id="wk">44</div><div id="date">LB</div><div id="opponent">Trevor Bates</div><div id="win">6'2'' 247lbs</div><div id="score"><a href="https://twitter.com/9_tjb" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @9_tjb</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">47</div><div id="date">RB</div><div id="opponent">Glenn Gronkowski</div><div id="win">6'3'' 234lbs</div><div id="score"><a href="https://twitter.com/ggronko" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @ggronko</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">64</div><div id="date">OL</div><div id="opponent">Chris Barker</div><div id="win">6'2" 310lbs</div><div id="score"></div></div><div id="week_block"><div id="wk">65</div><div id="date">OL</div><div id="opponent">Jamil Douglas</div><div id="win">6'4'' 310lbs</div><div id="score"><a href="https://twitter.com/JamilDouglas75" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @JamilDouglas75</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">66</div><div id="date">OL</div><div id="opponent">Chase Farris</div><div id="win">6'4'' 295lbs</div><div id="score"><a href="https://twitter.com/ChaseFarris57" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @ChaseFarris57</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> - Not Verified</div></div><div id="week_block"><div id="wk">74</div><div id="date">DL</div><div id="opponent">Woodrow Hamilton</div><div id="win">6'0" 210lbs</div><div id="score"></div></div><div id="week_block"><div id="wk">96</div><div id="date">DT</div><div id="opponent">Darius Kilgo</div><div id="win">6'3'' 319lbs</div><div id="score"><a href="https://twitter.com/D_kilgo97" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @D_kilgo97</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="section_strip">INJURED/RESERVE/PUP:</div><div id="week_block"><div id="wk">#</div><div id="date">POS</div><div id="opponent">PLAYER NAME</div><div id="win">HT/WEIGHT</div><div id="score">TWITTER ACCOUNT</div></div><div id="week_block"><div id="wk">55</div><div id="date">LB</div><div id="opponent">Jonathan Freeny</div><div id="win">6'2" 254lbs</div><div id="score"><a href="https://twitter.com/jfreeny56" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @jfreeny56</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">63</div><div id="date">G</div><div id="opponent">Tre' Jackson</div><div id="win">6'4" 330lbs</div><div id="score"><a href="https://twitter.com/trejackson54" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @trejackson54</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">76</div><div id="date">T</div><div id="opponent">Sebastian Vollmer</div><div id="win">6'8" 320lbs</div><div id="score"><a href="https://twitter.com/SebVollmer" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @SebVollmer</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><div id="week_block"><div id="wk">83</div><div id="date">TE</div><div id="opponent">Greg Scruggs</div><div id="win">6'3'' 277lbs</div><div id="score"><a href="https://twitter.com/G_Scruggs" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @G_Scruggs</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> - Not Verified</div></div><div id="week_block"><div id="wk">87</div><div id="date">TE</div><div id="opponent">Rob Gronkowski</div><div id="win">6'6" 265lbs</div><div id="score"><a href="https://twitter.com/robgronkowski" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @robgronkowski</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></div><br/>
+ 
+<div id="lower_header_bar_divider"><div id="lateststrip"><div id="lateststriptext">THE LATEST FROM PATSFANS.COM:</div></div></div>
+<div id="results"></div>
+<div align="center">
+<p>
+<button class="load_more" id="load_more_button">LOAD MORE</button>
+<div class="animation_image" style="display:none;"><img src="http://www.patsfans.com/images/blogs/ajax-loader.gif"> Loading...</div>
+</div>
+<br/>
+</div>
+</div>
+<div id="pf_footer">
+<table border="0" width="100%" bordercolor="#000000" cellspacing="0" cellpadding="0" bgcolor="#000000">
+<tr>
+<td width="100%"><center><font style="font-family: verdana; color: #E1E1E1; vertical-align: center; font-size: 10px;"><p><b>PatsFans.com:&nbsp;
+<a href="http://www.patsfans.com/contact/" class="white">Contact Us</a> | <a class="white" href="http://www.patsfans.com/advertise/mediacenter/">Advertise With Us</a> | <a href="/privacy" class="white"> Privacy Policy</a> | <a href="http://www.patsfans.com/stories/" class="white">Story Index</a> <br><a class=white href="http://www.patsfans.com/new-england-patriots/roster/2016/">Patriots Player Official Twitter Accounts</a>  | <a class=white href="http://www.patsfans.com/new-england-patriots/news/">New England Patriots News</a>  
+<p align=center>
+</b>Site-specific editorial/photos
+&copyCopyright 2001-2017 PatsFans.com. This website is an unofficial and independently<br>operated source of news and information not affiliated with any school, team, or league.
+<p>PatsFans.com is a Partner of USA TODAY Sports Digital Properties.<p><script type="text/javascript" src="http://img.bnqt.com/lib/js/usmg_helper.js"></script>
+<noscript>
+<img src="http://img.bnqt.com/CMS/assets/brand/SMGDP/logos/USATSdp.png" alt="USA TODAY Sports Digital Properties"/>
+</noscript>
+</font>
+<p>&nbsp;
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5138013-6");
+pageTracker._trackPageview();
+</script>
+ 
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-e0JGzxQqL3a22"
+});
+</script>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-e0JGzxQqL3a22.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+ 
+</td></tr></table></center></div>
+<div class="slideout-menu">
+<h3>PatsFans.com Menu <a href="#" class="slideout-menu-toggle">×</a></h3>
+<ul>
+<li><a href="http://www.patsfans.com">Home</a></li>
+<li><a href="http://www.patsfans.com/new-england-patriots/news/">Patriots News</a></li>
+<li><a href="http://www.patsfans.com/new-england-patriots/messageboard/">Patriots Forum</a></li>
+<li><a href="http://www.patsfans.com/new-england-patriots/schedule/2016/">Patriots Schedule</a></li>
+ 
+<li><a href="http://www.patsfans.com/videos/">Patriots Videos</a></li>
+<li><a href="http://www.patsfans.com/salary-cap/">Patriots Salary Cap</a></li>
+<li><a href="http://www.patsfans.com/patriots-podcasts/">Patriots Podcast</a></li>
+</ul>
+</div></div>
+</body>
+</html>

@@ -1,0 +1,82 @@
+   [1]Celtics [2]Patriots [3]Red Sox [4]Bruins [5]Revolution [6]Golf
+   [7]Video [8]Podcast [9]Staff [10]Shop [11]Alerts [12]Contests MORE
+
+   [13]Clips | Highlights [14]Live [15]Shows [16]TV Listings [17]Channel
+   Finder [18]Comcast SportsNet [19]Golf Channel [20]Rotoworld
+   Search ____________________
+
+   [tr?id=901737133246109&ev=PageView&noscript=1]
+   [Video by Category____________]
+   [21]{{
+   videoEntry['nbcsports$'+videoEntry.nbcsports$primaryDisplayField] }}
+
+{{ videoEntry.nbcsports$titleSEO || videoEntry.title }}
+
+   {{ videoEntry.description }}
+     * [22]{{
+       videoEntry['nbcsports$'+videoEntry.nbcsports$secondaryDisplayField]
+       }}
+     * [23]{{ videoEntry.nbcsports$genreDisplay }}
+
+Up next: [24]{{
+videoEntry['nbcsports$'+videoEntry.nbcsports$primaryDisplayField] }}
+
+Related: [25]{{ videoEntry.nbcsports$genreDisplay }}
+
+Featured: {{ tray.trayTitle }} [26]{{ tray.trayTitle }}
+
+   FOLLOW US [27]Facebook [28]Twitter [29]Google Plus [30]Instagram
+   ©2017 SportsChannel New England LLC
+   [31]A Division of NBC Universal [32]Jobs [33]Privacy Policy [34]Term of
+   Service [35]Contact Us [36]Advertise [37]Live FAQ [38]Internships
+   [39]Press Releases [40]TV Listings [41]Ad Choices
+   GET NEWSLETTERS & ALERTS [42]SIGN UP
+
+References
+
+   Visible links
+   1. http://www.csnne.com/boston-celtics
+   2. http://www.csnne.com/new-england-patriots
+   3. http://www.csnne.com/boston-red-sox
+   4. http://www.csnne.com/boston-bruins
+   5. http://www.csnne.com/new-england-revolution
+   6. http://www.csnne.com/golf
+   7. http://www.csnne.com/video
+   8. http://www.csnne.com/podcast
+   9. http://www.csnne.com/content/csn-staff
+  10. http://shop.nbcsports.com/pages/CSN_NE/partnerid/13746
+  11. http://www.csnne.com/alerts
+  12. http://www.csnne.com/contests
+  13. http://www.csnne.com/video
+  14. http://www.csnne.com/live
+  15. http://www.csnne.com/shows
+  16. http://www.csnne.com/ontv
+  17. http://www.csnne.com/channel-finder
+  18. http://www.comcastsportsnet.com/
+  19. http://www.golfchannel.com/
+  20. http://www.rotoworld.com/
+  21. file:///home/tmedina/cs432/assignment3/part1/{{ vod_term_map[videoEntry.nbcsports$primaryDisplay][videoEntry['nbcsports$'+videoEntry.nbcsports$primaryDisplayField]] }}
+  22. file:///home/tmedina/cs432/assignment3/part1/{{ vod_term_map[videoEntry.nbcsports$secondaryDisplay][videoEntry['nbcsports$'+videoEntry.nbcsports$secondaryDisplayField]] }}
+  23. file:///home/tmedina/cs432/assignment3/part1/{{ vod_term_map.Genre[videoEntry.nbcsports$genreDisplay] }}
+  24. file:///home/tmedina/cs432/assignment3/part1/{{ vod_term_map[videoEntry.nbcsports$primaryDisplay][videoEntry['nbcsports$'+videoEntry.nbcsports$primaryDisplayField]] }}
+  25. file:///home/tmedina/cs432/assignment3/part1/{{ vod_term_map.Genre[videoEntry.nbcsports$genreDisplay] }}
+  26. file:///home/tmedina/cs432/assignment3/part1/{{ tray.trayLink }}
+  27. http://facebook.com/CSNNE
+  28. http://twitter.com/csnne
+  29. http://plus.google.com/+CSNNE
+  30. http://instagram.com/CSNNE
+  31. http://www.nbcuniversal.com/
+  32. http://www.nbcunicareers.com/
+  33. http://www.nbcuniversal.com/privacy
+  34. file:///node/9721
+  35. file:///node/14461
+  36. file:///node/19571
+  37. file:///node/9716
+  38. https://sjobs.brassring.com/TGWEbHost/jobdetails.aspx?partnerid=25354&siteid=5108&jobid=348731
+  39. file:///taxonomy/term/5871
+  40. file:///ontv
+  41. http://info.evidon.com/pub_info/267?v=1
+  42. http://email.comcastsportsnet.com/csn/prefne.do
+
+   Hidden links:
+  44. http://www.csnne.com/
