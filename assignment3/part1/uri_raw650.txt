@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html lang="en">
+<head itemscope>
+	<title>Top News, Latest headlines, Latest News, World News &amp; U.S News - UPI.com</title>
+	<meta name="description" content="UPI delivers the latest headlines from around the world: Top News, Entertainment, Health, Business, Science and Sports News - United Press International" />
+	<meta name="keywords" content="news around the world, todays top headlines, top news stories, current news articles, United Press International , current world news, breaking news stories, latest world news, world news highlights, current events, latest headlines, top news, entertainment news, health news, science news, sports news, business news, daily news, latest news, todays news, top news, recent news, UPI, UPI.com" />
+	<meta name="news_keywords" content="news around the world, todays top headlines, top news stories, current news articles, United Press International , current world news, breaking news stories, latest world news, world news highlights, current events, latest headlines, top news, entertainment news, health news, science news, sports news, business news, daily news, latest news, todays news, top news, recent news, UPI, UPI.com">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />	<meta itemprop="publisher" content="UPI.com" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+	<link href="//fonts.googleapis.com/css?family=Droid+Serif:400,400i,700i|Lato:400,700|Montserrat:400,700" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="http://www.upi.com/upi/dw/css/upi.v9.css?fp=1" />
+	<link rel="stylesheet" type="text/css" href="http://www.upi.com/upi/dw/css/upi.v9.media.css?fp=1" />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/upi/dw/js/jquery.ph_ss.v9.js"></script>
+	<script src="http://www.upi.com/upi/dw/js/f.v9.js?fp=1"></script>
+	<meta name="google-site-verification" content="yJ-Wc2yIGJWT4MrxQ3Al2HpsnFIKVXT9KgXHHkd1IvU" />
+	<meta name="google-site-verification" content="vnkcuJA1Q89cLmy4OZpuQKOf5Jf6ny_RVh7BpxZ11a0" />
+	<meta property="og:site_name" content="UPI"/> 
+	<meta property="fb:app_id" content="130795020312660"/>	
+	<meta property="fb:pages" content="101911273177707" />
+	<meta property="og:image" content="//www.upi.com/img/upi-fb.png"/>
+	<meta itemprop="image" content="//www.upi.com/img/upi-fb.png" />
+	<meta http-equiv="refresh" content="270;url=http://www.upi.com/">
+	<script>
+	function c_stat(u, p) {jQuery.post(u, 'ref='+encodeURIComponent(document.referrer)+'&'+p);}
+	jQuery.noConflict();
+	enl_cfg = {iframe: 1, x: 1150, y: jQuery(window).height()-50, resize: 1};
+	function upi_pt(u, t) {u = u.replace(window.location.protocol +'//' + window.location.hostname,'');ga('send', 'pageview', u);}
+	function upi_pt_c(u, t, c1, c2) {u = u.replace(window.location.protocol +'//' + window.location.hostname,'');ga('send', 'pageview', u);}
+	</script>
+	 
+<script type="application/ld+json">
+	{
+	"@context": "http://schema.org",
+	"@type": "WebPage",
+	"mainEntityOfPage":{
+	"@type":"WebPage",
+	"@id":"http://www.upi.com/"
+	},
+		"publisher": {"@type": "Organization","name": "UPI","logo": {"@type": "ImageObject","url": "http://www.upi.com/img/upi_logo_ndc.png","width": 68,"height": 39}},
+	"potentialAction": {"@type": "SearchAction","target": "http://www.upi.com/search?ss={search_term_string}","query-input": "required name=search_term_string"}
+		}
+</script>
+	
+	
+
+<script>var PREBID_TIMEOUT = 1200;var adUnits = [{code: 'div-ad-top', sizes: [[970,250],[970,90],[728,90]], bids: [{bidder: 'aol',params: {placement: '4410618',network: '9870.1'}}]},{code: 'div-ad-r', sizes: [[300,1050],[300,600] [300,250]], bids: [{bidder: 'aol',params: {placement: '4410619',network: '9870.1'}}]},{code: 'div-ad-r1', sizes: [[300, 600],[300, 250]], bids: [{bidder: 'aol',params: {placement: '4410620',network: '9870.1'}}]},{code: 'div-ad-rel_embed', sizes: [[300,250]], bids: [{bidder: 'aol',params: {placement: '4407415',network: '9870.1'}}]},{code: 'div-ad-btf', sizes: [[728,90]], bids: [{bidder: 'aol',params: {placement: '4407423',network: '9870.1'}}]}];var pbjs = pbjs || {};pbjs.que = pbjs.que || [];</script>
+<script type='text/javascript' src='//vlibs.advertising.com/prebid/adapters=openx,appnexus,rubicon,aol,indexExchange,sovrn,adform,sonobi,brealtime;/prebid-1.x.x.js' async></script>
+<script>
+var googletag = googletag || {};googletag.cmd = googletag.cmd || [];googletag.cmd.push(function() {googletag.pubads().disableInitialLoad();});pbjs.que.push(function() {pbjs.enableAnalytics({provider: 'aol',options: {}});pbjs.addAdUnits(adUnits);pbjs.requestBids({timeout: PREBID_TIMEOUT,bidsBackHandler: function() {googletag.cmd.push(function() {pbjs.que.push(function() {pbjs.setTargetingForGPTAsync();googletag.pubads().refresh();});});}});});
+</script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+	if(document.referrer) {
+		var rf =  document.referrer.match(/:\/\/(.[^/]+)/)[1];
+		if(rf) {googletag.pubads().setTargeting('Referral', rf);}
+	}
+	googletag.pubads().setTargeting('Section', 'home');
+gam_top = googletag.defineSlot('/1009753/UPI_728x90_ATF', [[970,250],[728, 90]], 'div-ad-top').addService(googletag.pubads());
+	googletag.defineSlot('/1009753/UPI_728x90_BTF', [728, 90], 'div-ad-btf').addService(googletag.pubads());
+	gam_right = googletag.defineSlot('/1009753/UPI_300x250_R', [[300, 250], [300, 1050]], 'div-ad-r').addService(googletag.pubads());
+	gam_right1 = googletag.defineSlot('/1009753/UPI_300x250_R1', [[300, 250], [160, 600]], 'div-ad-r1').addService(googletag.pubads());
+	googletag.defineSlot('/1009753/UPI_160x600_Flex', [[160, 600], [300, 250], [300, 600], [300, 1050]], 'div-ad-flex').addService(googletag.pubads()); 
+	googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+});
+
+
+
+
+</script>
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "15071286" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=15071286&cv=2.0&cj=1" />
+</noscript>
+	<link rel="shortcut icon" href="http://www.upi.com/favicon.ico" />
+	<link rel="alternate" type="application8/rss+xml" title="UPI.com - Latest Stories" href="http://rss.upi.com/news/news.rss" /> 
+ 
+</head>
+<body>
+		<header>
+			
+	
+	<div id="tc_nav">
+		<div style="max-width: 1195px; margin: 0 auto;">
+			<div class="m_nav_ico" style="padding: 15px 15px 0 0; float: right;" onclick="mn_init();"><span></span></div>
+			<a href="http://www.upi.com/?utm_source=fp&utm_campaign=nav&utm_medium=logo" class="main_logo"><img src="http://www.upi.com/upi/dw/img/upi_logo.svg" class="udc_logo"></a>
+	<script>
+	function upi_srch() {
+		var cont = jQuery('nav #s_dd');
+		if (cont.is(":visible")) {
+			cont.fadeOut(100, function() {jQuery('nav #top_nav .tl_nav.f').fadeIn(100);});
+		} else {
+			jQuery('nav #top_nav .tl_nav.f').fadeOut(100, function() {cont.fadeIn(100, function() {jQuery('.ss_af').focus();});});
+		}
+	}
+	</script>
+	
+	<nav>
+		<ul id="top_nav">
+			<li class="m" style="padding-top: 20px;">
+			<a href="http://www.upi.com/?utm_source=fp&utm_campaign=nav&utm_medium=logo_m"><img src="http://www.upi.com/upi/dw/img/logo_clr.png"></a>
+			<div class="m_nav_ico" style="float:right;margin-right:25px;" onclick="mn_init();"><span></span></div><div style="clear: both;"></div></li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Top_News/?utm_source=fp&utm_campaign=nav&utm_medium=tn" title="Top News">Top News</a>
+				<span class="expand ps" data-uid="tn"></span>
+				<ul class="sb_tns tn">
+					<li class="tn_s"><a href="http://www.upi.com/Top_News/US/?utm_source=fp&utm_campaign=nav&utm_medium=tn_us" title="U.S. News">U.S. News</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Top_News/World-News/?utm_source=fp&utm_campaign=nav&utm_medium=tn_wn" title="World News">World News</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Top_News/Voices/?utm_source=fp&utm_campaign=nav&utm_medium=tn_an" title="Voices">Voices</a></li>
+				</ul>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Entertainment_News/?utm_source=fp&utm_campaign=nav&utm_medium=en" title="Entertainment">Entertainment</a>
+				<span class="expand ps" data-uid="en"></span>
+				<ul class="sb_tns en">
+					<li class="tn_s"><a href="http://www.upi.com/Entertainment_News/Movies/?utm_source=fp&utm_campaign=nav&utm_medium=en_mo" title="Movies">Movies</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Entertainment_News/Music/?utm_source=fp&utm_campaign=nav&utm_medium=en_mu" title="Music">Music</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Entertainment_News/TV/?utm_source=fp&utm_campaign=nav&utm_medium=en_tv" title="TV">TV</a></li>
+				</ul>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Odd_News/?utm_source=fp&utm_campaign=nav&utm_medium=on" title="Odd News">Odd News</a>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Defense-News/?utm_source=fp&utm_campaign=nav&utm_medium=dfn" title="Defense">Defense</a>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Energy-News/?utm_source=fp&utm_campaign=nav&utm_medium=eng" title="Energy">Energy</a>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Sports_News/?utm_source=fp&utm_campaign=nav&utm_medium=spn" title="Sports">Sports</a>
+				<span class="expand ps" data-uid="spn"></span>
+				<ul class="sb_tns spn">
+					<li class="tn_s"><a href="http://www.upi.com/2016-fantasy-football/?utm_source=fp&utm_campaign=nav&utm_medium=ffb" title="Fantasy Football">Fantasy Football </a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/NFL/?utm_source=fp&utm_campaign=nav&utm_medium=nfl" title="NFL">NFL</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/NBA/?utm_source=fp&utm_campaign=nav&utm_medium=nba" title="NBA">NBA</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/MLB/?utm_source=fp&utm_campaign=nav&utm_medium=mlb" title="MLB">MLB</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/NHL/?utm_source=fp&utm_campaign=nav&utm_medium=nhl" title="NHL">NHL</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/Golf/?utm_source=fp&utm_campaign=nav&utm_medium=gf" title="Golf">Golf</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/Tennis/?utm_source=fp&utm_campaign=nav&utm_medium=te" title="Tennis">Tennis</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/College-Football/?utm_source=fp&utm_campaign=nav&utm_medium=fbc" title="College Football">College Football</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/Sports_News/College-Basketball/?utm_source=fp&utm_campaign=nav&utm_medium=bkc" title="College Basketball">College Basketball</a></li>
+				</ul>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Science_News/?utm_source=fp&utm_campaign=nav&utm_medium=scn" title="Science">Science</a>
+			</li>
+			<li class="tl_nav f fifo_oc"><a href="http://www.upi.com/Health_News/?utm_source=fp&utm_campaign=nav&utm_medium=hn" title="Health">Health</a>
+			</li>
+			<li class="tl_nav f"><a href="http://www.upi.com/News_Photos/?utm_source=fp&utm_campaign=nav&utm_medium=ph" title="Photos">Photos</a>
+				<span class="expand ps" data-uid="ph"></span>
+				<ul class="sb_tns ph">
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/latest/?utm_source=fp&utm_campaign=nav&utm_medium=la" title="Latest Photos">Latest Photos</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/2016-Olympics/?utm_source=fp&utm_campaign=nav&utm_medium=ol" title="2016 Olympics">2016 Olympics</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/News/?utm_source=fp&utm_campaign=nav&utm_medium=nw" title="News">News</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/Entertainment/?utm_source=fp&utm_campaign=nav&utm_medium=en" title="Entertainment">Entertainment</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/Sports/?utm_source=fp&utm_campaign=nav&utm_medium=sp" title="Sports">Sports</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/Features/?utm_source=fp&utm_campaign=nav&utm_medium=fe" title="Features">Features</a></li>
+					<li class="tn_s"><a href="http://www.upi.com/News_Photos/collections/Archives/?utm_source=fp&utm_campaign=nav&utm_medium=ar" title="Archives">Archives</a></li>
+				</ul>
+			</li>
+			<li class="tl_nav f"><a href="http://www.upi.com/Archives/?utm_source=fp&utm_campaign=nav&utm_medium=arc" title="Archive">Archive</a>
+				<span class="expand ps" data-uid="arc"></span>
+				<ul class="sb_tns arc">
+					<li class="tn_s"><a href="http://www.upi.com/Top_News/2017/02/22/UPI-Almanac-for-Wednesday-Feb-22-2017/4071487511673/?utm_source=fp&utm_campaign=nav&utm_medium=al" title="The Almanac">The Almanac</a></li>
+				</ul>
+			</li>
+						<li class="tl_nav m">
+				<a href="http://www.upi.com/search/?utm_source=fp&utm_campaign=nav&utm_medium=search_m" title="Search">Search</a>
+			</li>
+			<li class="tl_nav m soc">
+								<a href="https://facebook.com/unitedpress" target="_blank" title="Facebook"><img src="/upi/dw/img/clear.gif" class="rf_ico w f"  title="Facebook" alt="Facebook"></a>
+								<a href="https://twitter.com/upi" target="_blank" title="Twitter"><img src="/upi/dw/img/clear.gif" class="rf_ico w t"  title="Twitter" alt="Twitter"></a>
+								<a href="https://plus.google.com/+UpiNews/posts" target="_blank" title="Google+"><img src="/upi/dw/img/clear.gif" class="rf_ico w g"  title="Google+" alt="Google+"></a>
+								<a href="https://instagram.com/upi" target="_blank" title="Instagram"><img src="/upi/dw/img/clear.gif" class="rf_ico w is"  title="Instagram" alt="Instagram"></a>
+							</li>
+										
+			<li class="tl_nav f t_s_i nm">
+				<a href="#" class="ip" onclick="upi_srch(); return false;" title="search"><img src="http://www.upi.com/img/clear.gif" class="s_ico upi_spr"  title="search" alt="search"></a>
+			</li>
+					</ul>
+		<div id="s_dd">
+			<img src="http://www.upi.com/img/clear.gif" class="close upi_spr"  title="search" alt="search" onclick="upi_srch();">
+			<form method="get" action="/search" id="t_srch">
+				<img src="http://www.upi.com/img/clear.gif" class="s_ico upi_spr"  title="search" alt="search" style="position: absolute; left: 10px; top: 7px; ">
+				<input type="hidden" name="utm_source" value="fp">
+				<input type="hidden" name="utm_campaign" value="nav">
+				<input type="hidden" name="utm_medium" value="search">
+				<input type="submit" value="FIND" class="btn">
+				<input type="text" name="ss" value="" placeholder="Type in your Search Term" class="in no_style ss_af" id="upi_t_sb">
+			</form>
+			<script>jQuery(document).ready(function() {jQuery("#upi_t_sb").autocomplete({source: "/ac.io"}).on( "autocompleteselect", function( event, ui ) {} ).autocomplete("widget").addClass("stac");});</script>
+		</div>
+		<div style="clear: both;"></div>
+	</nav>
+	
+			
+			
+		
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+	</header>
+	<div id="pgt"></div>
+	<div id="tc_b" align="center">
+		<div class="ad_slot"><div align='center'><div id='div-ad-top' style='min-height: 90px'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-ad-top'); });</script></div></div>
+</div>	</div>
+
+	<div style="clear: both;"></div>
+	
+	
+	<div id="px_f">
+		<div id="px" class="home">
+		<div style="clear: both;"></div>
+	<div style="clear: both;"></div>
+		<div style="margin-top: 0px;" id="fp_cont">
+		<div id="c_breaking">
+			<div class="m_rl30">
+		
+
+	
+			</div>
+		</div>
+				<div id="c_topics">
+			<div class="m_rl30">
+			<div id="fp_tt">		<div id="content">
+			<div class="ic">
+			<ul>
+				<li class="btn">Trending</li>
+				<li class="hl"><a href="http://www.upi.com/Defense-News/2017/02/20/Second-Lockheed-Martin-T-50A-completes-first-flight/1551487617823/?utm_source=fp&utm_campaign=tt&utm_medium=1" title="Lockheed Martin">Lockheed Martin</a></li>
+				<li class="hl"><a href="http://www.upi.com/Sports_News/NFL/2017/02/21/Green-Bay-Packers-Top-free-agency-NFL-draft-needs-for-2017/7371487712850/?utm_source=fp&utm_campaign=tt&utm_medium=2" title="Green Bay Packers">Green Bay Packers</a></li>
+				<li class="hl"><a href="http://www.upi.com/Sports_News/NFL/2017/02/22/Cleveland-Browns-Top-free-agency-NFL-draft-needs-for-2017/2721487745539/?utm_source=fp&utm_campaign=tt&utm_medium=3" title="Cleveland Browns">Cleveland Browns</a></li>
+				<li class="hl"><a href="http://www.upi.com/Sports_News/Golf/2017/02/21/2017-Honda-Classic-10-picks-to-win/1081487712427/?utm_source=fp&utm_campaign=tt&utm_medium=4" title="Honda Classic">Honda Classic</a></li>
+				<li class="hl"><a href="http://www.upi.com/Top_News/World-News/2017/02/22/Iraqi-forces-moving-toward-Mosul-Airport-after-taking-strategic-hill/4451487761950/?utm_source=fp&utm_campaign=tt&utm_medium=5" title="Mosul">Mosul</a></li>
+				<li class="hl"><a href="http://www.upi.com/Sports_News/2017/02/22/Danica-Patrick-estimates-dozen-concussions-in-NASCAR-career/8441487787345/?utm_source=fp&utm_campaign=tt&utm_medium=6" title="Danica Patrick">Danica Patrick</a></li>
+				<li class="hl"><a href="http://www.upi.com/Top_News/World-News/2017/02/21/Bodyboarder-killed-in-Reunion-Island-shark-attack/4961487686860/?utm_source=fp&utm_campaign=tt&utm_medium=7" title="Shark attack">Shark attack</a></li>
+				<li class="hl"><a href="http://www.upi.com/Top_News/US/2017/02/21/Evacuation-ordered-as-levee-breaks-in-Northern-California/8021487684833/?utm_source=fp&utm_campaign=tt&utm_medium=8" title="Levee break">Levee break</a></li>
+			</ul>
+			<div style="clear: both;"></div>
+			</div>
+		</div>
+	
+	</div>
+				</div>
+		</div>
+				<div id="c_lead">
+			<div class="m_rl30">
+				<div id="fp_lead_st">
+			<div class="item blk_m">
+								<div class="ic">
+					<div class="ph_ol">
+						<a href="http://www.upi.com/Top_News/US/2017/02/22/Trump-administration-orders-US-schools-to-ignore-Obama-transgender-bathroom-efforts/2901487784987/?utm_source=fp&utm_campaign=ls&utm_medium=1" class="l" title="Trump admin nixes Obama transgender bathroom efforts">
+												<img src="http://cdnph.upi.com/related/3141487832434/1/v1.2/ad1d7d399ba7bf85722e43174d5b1bf2/upi/Trump-admin-nixes-Obama-transgender-bathroom-efforts.jpg" class="ph_hld" title="Trump admin nixes Obama transgender bathroom efforts" alt="Trump admin nixes Obama transgender bathroom efforts">
+						<div class="meta grad_bla">
+							<div class="hl">Trump admin nixes Obama transgender bathroom efforts</div>
+							<div class="ago">6 hours ago</div>
+						</div>
+												<div style="clear: both;"></div>
+					</div>
+					</a>
+				</div>
+							</div>
+				<div class="item blk_s blk_2">
+								<div class="ic">
+					<div class="ph_ol">
+						<a href="http://www.upi.com/Top_News/World-News/2017/02/23/Iraq-suicide-bomber-was-former-detainee-at-Guantanamo-Bay/7361487820620/?utm_source=fp&utm_campaign=ls&utm_medium=2" class="l" title="Iraq suicide bomber was former detainee at Guantanamo Bay">
+												<img src="http://cdnph.upi.com/related/3141487832434/2/v1.2/14878320335640/i/Iraq-suicide-bomber-was-former-detainee-at-Guantanamo-Bay.jpg" class="ph_hld" title="Iraq suicide bomber was former detainee at Guantanamo Bay" alt="Iraq suicide bomber was former detainee at Guantanamo Bay">
+						<div class="meta grad_bla">
+							<div class="hl">Iraq suicide bomber was former detainee at Guantanamo Bay</div>
+							<div class="ago">57 minutes ago</div>
+						</div>
+												<div style="clear: both;"></div>
+					</div>
+					</a>
+				</div>
+							</div>
+				<div class="item blk_s blk_3">
+								<div class="ic">
+					<div class="ph_ol">
+						<a href="http://www.upi.com/Science_News/2017/02/22/NASA-announces-discovery-of-3-Earth-sized-habitable-planets-around-single-star/5971487786662/?utm_source=fp&utm_campaign=ls&utm_medium=3" class="l" title="NASA: 3 Earth-size habitable planets around star discovered">
+												<img src="http://cdnph.upi.com/related/3141487832434/3/v1.2/14877889045725/i/NASA-3-Earth-size-habitable-planets-around-star-discovered.jpg" class="ph_hld" title="NASA: 3 Earth-size habitable planets around star discovered" alt="NASA: 3 Earth-size habitable planets around star discovered">
+						<div class="meta grad_bla">
+							<div class="hl">NASA: 3 Earth-size habitable planets around star discovered</div>
+							<div class="ago">12 hours ago</div>
+						</div>
+												<div style="clear: both;"></div>
+					</div>
+					</a>
+				</div>
+							</div>
+				<div class="item blk_s blk_4">
+								<div class="ic">
+					<div class="ph_ol">
+						<a href="http://www.upi.com/Top_News/US/2017/02/23/Powerball-ticket-winning-435-million-sold-in-Indiana/8791487821937/?utm_source=fp&utm_campaign=ls&utm_medium=4" class="l" title="Powerball ticket winning $435 million sold in Indiana">
+												<img src="http://cdnph.upi.com/related/3141487832434/4/v1.2/f891610994612725aa2b5d8d83e8f134/upi/Powerball-ticket-winning-435-million-sold-in-Indiana.jpg" class="ph_hld" title="Powerball ticket winning $435 million sold in Indiana" alt="Powerball ticket winning $435 million sold in Indiana">
+						<div class="meta grad_bla">
+							<div class="hl">Powerball ticket winning $435 million sold in Indiana</div>
+							<div class="ago">2 hours ago</div>
+						</div>
+												<div style="clear: both;"></div>
+					</div>
+					</a>
+				</div>
+							</div>
+				<div class="item blk_s blk_5">
+								<div class="ic">
+					<div class="ph_ol">
+						<a href="http://www.upi.com/Top_News/US/2017/02/22/Pence-visits-vandalized-cemetery-in-Missouri-condemns-anti-Semitism/2671487808784/?utm_source=fp&utm_campaign=ls&utm_medium=5" class="l" title="Pence visits vandalized cemetery, condemns anti-Semitic acts">
+												<img src="http://cdnph.upi.com/related/3141487832434/5/v1.2/4cfd45ac76c3a277b7cc88a8d4658e67/upi/Pence-visits-vandalized-cemetery-condemns-anti-Semitic-acts.jpg" class="ph_hld" title="Pence visits vandalized cemetery, condemns anti-Semitic acts" alt="Pence visits vandalized cemetery, condemns anti-Semitic acts">
+						<div class="meta grad_bla">
+							<div class="hl">Pence visits vandalized cemetery, condemns anti-Semitic acts</div>
+							<div class="ago">4 hours ago</div>
+						</div>
+												<div style="clear: both;"></div>
+					</div>
+					</a>
+				</div>
+							</div>
+					
+			<div style="clear: both;"></div>
+</div>
+
+	
+				</div>
+		</div>
+		<div id="c_main">
+			<div class="m_rl30">
+					<div id="fp_d_st">
+	</div>
+					
+	<div id="fp_tps">
+		<div class="hdr s40"><div class="t">Top Stories</div></div>
+		<div id="content">
+			<div class="ic">
+					<div class="c_abc">
+					<div class="cn3_1 cn2_1">
+					<div class="story bb">
+						<a href="http://www.upi.com/Top_News/US/2017/02/22/Federal-Reserve-voted-for-rate-hike-eyeing-possible-US-inflation-surge/6661487808621/?utm_source=fp&utm_campaign=ts&utm_medium=1" class="l" title="Federal Reserve voted for rate hike eyeing possible U.S. inflation surge">
+						<div class="sec_n">U.S. News</div>
+						<img src="http://cdnph.upi.com/ph/st/th/6661487808621/2017/upi/2469bb137e520cc834e2127b46a5d3ac/v1.5/Federal-Reserve-voted-for-rate-hike-eyeing-possible-US-inflation-surge.jpg?lg=1" class="ph" title="Federal Reserve voted for rate hike eyeing possible U.S. inflation surge" alt="Federal Reserve voted for rate hike eyeing possible U.S. inflation surge">						<div class="hl b">Federal Reserve voted for rate hike eyeing possible U.S. inflation surge</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story" style="overflow: hidden;">
+						<a href="http://www.upi.com/Top_News/US/2017/02/22/New-immigration-policy-hints-at-disconnect-between-US-Mexican-leaders/8941487799583/?utm_source=fp&utm_campaign=ts&utm_medium=2" class="l" title="New immigration policy hints at disconnect between U.S., Mexican leaders">
+						<div class="hl">New immigration policy hints at disconnect between U.S., Mexican leaders</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb" style="overflow: hidden;">
+						<a href="http://www.upi.com/Top_News/US/2017/02/22/Trump-meets-with-budget-advisers-at-White-House-No-more-wasted-money/7111487793885/?utm_source=fp&utm_campaign=ts&utm_medium=3" class="l" title="Trump meets with budget advisers at White House: 'No more wasted money'">
+						<div class="hl">Trump meets with budget advisers at White House: 'No more wasted money'</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						</div>
+				</div>
+				<div class=""></div>
+				<div class="c_abc">
+					<div class="cn3_2 cn2_2">
+					<div class="story bb">
+						<a href="http://www.upi.com/Top_News/World-News/2017/02/22/Venezuelan-vice-president-slams-drug-sanctions-in-full-page-NYT-ad/8881487782703/?utm_source=fp&utm_campaign=ts_pi&utm_medium=4" class="l" title="Venezuelan vice president slams drug sanctions in full-page NYT ad">
+						<div class="sec_n">World News</div>
+						<img src="http://cdnph.upi.com/ph/st/th/8881487782703/2017/upi_com/843077a9844459e06fb06a06ab0a3ed0/v1.5/Venezuelan-vice-president-slams-drug-sanctions-in-full-page-NYT-ad.jpg?lg=1" class="ph">						<div class="hl b">Venezuelan vice president slams drug sanctions in full-page NYT ad</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+										<div class="story bb" style="overflow: hidden;">
+						<a href="http://www.upi.com/Top_News/World-News/2017/02/22/South-Korea-resumes-loudspeaker-operations-after-Kim-Jong-Nam-assassination/1411487817556/?utm_source=fp&utm_campaign=ts&utm_medium=5" class="l" title="South Korea resumes loudspeaker operations after Kim Jong Nam assassination">
+						<div class="hl">South Korea resumes loudspeaker operations after Kim Jong Nam assassination</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story" style="overflow: hidden;">
+						<a href="http://www.upi.com/Top_News/World-News/2017/02/22/Israel-orders-demolition-of-Palestinian-village-in-West-Bank/1381487786546/?utm_source=fp&utm_campaign=ts&utm_medium=6" class="l" title="Israel orders demolition of Palestinian village in West Bank">
+						<div class="hl">Israel orders demolition of Palestinian village in West Bank</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						</div>
+				</div>
+				<div class="clr_2 "></div>
+				<div class="c_abc">
+					<div class="cn3_3 cn2_1">
+					<div class="story bb">
+						<a href="http://www.upi.com/Entertainment_News/2017/02/22/Nick-Cannon-announces-birth-of-third-child-a-son-named-Golden/8571487795771/?utm_source=fp&utm_campaign=ts&utm_medium=7" class="l" title="Nick Cannon announces birth of third child, a son named Golden">
+						<div class="sec_n">Entertainment News</div>
+						<img src="http://cdnph.upi.com/ph/st/th/8571487795771/2017/upi/b58fd4a9f67b206213920db6f361e2e0/v1.5/Nick-Cannon-announces-birth-of-third-child-a-son-named-Golden.jpg?lg=1" class="ph" title="Nick Cannon announces birth of third child, a son named Golden" alt="Nick Cannon announces birth of third child, a son named Golden">						<div class="hl b">Nick Cannon announces birth of third child, a son named Golden</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story" style="overflow: hidden;">
+						<a href="http://www.upi.com/Entertainment_News/Music/2017/02/22/Demi-Lovato-talks-about-dating-MMA-fighter-Guilherme-Vasconcelos/6161487791455/?utm_source=fp&utm_campaign=ts&utm_medium=8" class="l" title="Demi Lovato talks about dating MMA fighter Guilherme Vasconcelos">
+						<div class="hl">Demi Lovato talks about dating MMA fighter Guilherme Vasconcelos</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb" style="overflow: hidden;">
+						<a href="http://www.upi.com/Entertainment_News/Movies/2017/02/22/George-Clooney-pregnant-wife-Amal-to-avoid-dangerous-travel/8821487789662/?utm_source=fp&utm_campaign=ts&utm_medium=9" class="l" title="George Clooney, pregnant wife Amal to avoid dangerous travel">
+						<div class="hl">George Clooney, pregnant wife Amal to avoid dangerous travel</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						</div>
+				</div>
+				<div class="clr_3				"></div>
+				<div class="c_abc">
+					<div class="cn3_1 cn2_2">
+					<div class="story bb">
+						<a href="http://www.upi.com/Odd_News/2017/02/22/Rescue-horse-plays-piano-at-Australian-farm/7801487799331/?utm_source=fp&utm_campaign=ts&utm_medium=10" class="l" title="Rescue horse plays piano at Australian farm">
+						<div class="sec_n">Odd News</div>
+						<img src="http://cdnph.upi.com/ph/st/th/7801487799331/2017/i/14877994659046/v1.5/Rescue-horse-plays-piano-at-Australian-farm.jpg?lg=1" class="ph" title="Rescue horse plays piano at Australian farm" alt="Rescue horse plays piano at Australian farm">						<div class="hl b">Rescue horse plays piano at Australian farm</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story" style="overflow: hidden;">
+						<a href="http://www.upi.com/Odd_News/2017/02/22/Playful-dolphins-join-in-with-surfers-at-Australian-beach/5431487798248/?utm_source=fp&utm_campaign=ts&utm_medium=11" class="l" title="Playful dolphins join in with surfers at Australian beach">
+						<div class="hl">Playful dolphins join in with surfers at Australian beach</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb" style="overflow: hidden;">
+						<a href="http://www.upi.com/Odd_News/2017/02/22/Lion-blocks-road-to-get-attention-from-keeper-at-South-African-sanctuary/1501487796112/?utm_source=fp&utm_campaign=ts&utm_medium=12" class="l" title="Lion blocks road to get attention from keeper at South African sanctuary">
+						<div class="hl">Lion blocks road to get attention from keeper at South African sanctuary</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						</div>
+				</div>
+				<div class="clr_2 "></div>
+				<div class="c_abc">
+					<div class="cn3_2 cn2_1">
+					<div class="story bb">
+						<a href="http://www.upi.com/Health_News/2017/02/22/Study-Race-may-influence-risk-for-recurrent-stroke/3381487815716/?utm_source=fp&utm_campaign=ts&utm_medium=13" class="l" title="Study: Race may influence risk for recurrent stroke">
+						<div class="sec_n">Health News</div>
+						<img src="http://media.healthday.com/Images/icimages/minority_bloodpressure1162.jpg?resize=800:533" class="ph" title="Study: Race may influence risk for recurrent stroke" alt="Study: Race may influence risk for recurrent stroke">						<div class="hl b">Study: Race may influence risk for recurrent stroke</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story" style="overflow: hidden;">
+						<a href="http://www.upi.com/Health_News/2017/02/22/MRIs-may-be-safe-for-some-people-with-heart-devices-study-says/7851487815162/?utm_source=fp&utm_campaign=ts&utm_medium=14" class="l" title="MRIs may be safe for some people with heart devices, study says">
+						<div class="hl">MRIs may be safe for some people with heart devices, study says</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb" style="overflow: hidden;">
+						<a href="http://www.upi.com/Health_News/2017/02/22/For-stroke-survivors-exercise-is-good-for-the-brain-Review/4401487799852/?utm_source=fp&utm_campaign=ts&utm_medium=15" class="l" title="For stroke survivors, exercise is good for the brain: Review">
+						<div class="hl">For stroke survivors, exercise is good for the brain: Review</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						</div>
+				</div>
+				<div class=""></div>
+				<div class="c_abc">
+					<div class="cn3_3 cn2_2">
+					<div class="story bb">
+						<a href="http://www.upi.com/Science_News/2017/02/22/Astronomers-explain-unusual-dune-like-patterns-on-comet-67P/3341487799432/?utm_source=fp&utm_campaign=ts_pi&utm_medium=16" class="l" title="Astronomers explain unusual dune-like patterns on comet 67P">
+						<div class="sec_n">Science News</div>
+						<img src="http://cdnph.upi.com/ph/st/th/3341487799432/2017/i/14878017729615/v1.5/Astronomers-explain-unusual-dune-like-patterns-on-comet-67P.jpg?lg=1" class="ph">						<div class="hl b">Astronomers explain unusual dune-like patterns on comet 67P</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+										<div class="story bb" style="overflow: hidden;">
+						<a href="http://www.upi.com/Science_News/2017/02/22/A-computers-LED-light-can-smuggle-out-data-from-the-hard-drive/4711487797215/?utm_source=fp&utm_campaign=ts&utm_medium=17" class="l" title="A computer's LED light can smuggle out data from the hard drive">
+						<div class="hl">A computer's LED light can smuggle out data from the hard drive</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story" style="overflow: hidden;">
+						<a href="http://www.upi.com/Science_News/2017/02/22/Study-The-forest-is-getting-farther-away-especially-in-rural-America/9051487790923/?utm_source=fp&utm_campaign=ts&utm_medium=18" class="l" title="Study: The forest is getting farther away, especially in rural America">
+						<div class="hl">Study: The forest is getting farther away, especially in rural America</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						</div>
+				</div>
+				<div class="clr_2 clr_3				"></div>
+				<div class="c_abc">
+					<div class="cn3_1 cn2_1">
+					<div class="story bb">
+						<a href="http://www.upi.com/Defense-News/2017/02/22/Poland-opens-bidding-for-new-helicopter-buy/9021487797317/?utm_source=fp&utm_campaign=ts&utm_medium=19" class="l" title="Poland opens bidding for new helicopter buy">
+						<div class="sec_n">Defense News</div>
+						<img src="http://cdnph.upi.com/ph/st/th/9021487797317/2017/i/14877973768072/v1.5/Poland-opens-bidding-for-new-helicopter-buy.jpg?lg=1" class="ph" title="Poland opens bidding for new helicopter buy" alt="Poland opens bidding for new helicopter buy">						<div class="hl b">Poland opens bidding for new helicopter buy</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story" style="overflow: hidden;">
+						<a href="http://www.upi.com/Defense-News/2017/02/22/Atlas-Elektronik-contracted-for-ARCIMS-vehicles/3521487794543/?utm_source=fp&utm_campaign=ts&utm_medium=20" class="l" title="Atlas Elektronik contracted for ARCIMS vehicles">
+						<div class="hl">Atlas Elektronik contracted for ARCIMS vehicles</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb" style="overflow: hidden;">
+						<a href="http://www.upi.com/Defense-News/2017/02/22/Hungary-gets-more-flight-time-on-leased-Gripen-fighters/7041487789472/?utm_source=fp&utm_campaign=ts&utm_medium=21" class="l" title="Hungary gets more flight time on leased Gripen fighters">
+						<div class="hl">Hungary gets more flight time on leased Gripen fighters</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						</div>
+				</div>
+				<div class=""></div>
+				<div class="c_abc">
+					<div class="cn3_2 cn2_2">
+					<div class="story bb">
+						<a href="http://www.upi.com/Energy-News/2017/02/22/Oil-prices-move-lower-after-testing-new-water/6781487770576/?utm_source=fp&utm_campaign=ts&utm_medium=22" class="l" title="Oil prices move lower after testing new water">
+						<div class="sec_n">Energy News</div>
+						<img src="http://cdnph.upi.com/ph/st/th/6781487770576/2017/upi/b14c5fe929bab0db141c706edb232cfe/v1.5/Oil-prices-move-lower-after-testing-new-water.jpg?lg=1" class="ph" title="Oil prices move lower after testing new water" alt="Oil prices move lower after testing new water">						<div class="hl b">Oil prices move lower after testing new water</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story" style="overflow: hidden;">
+						<a href="http://www.upi.com/Energy-News/2017/02/22/Report-Rosneft-builds-Middle-East-portfolio-with-Kurdish-deal/5101487768830/?utm_source=fp&utm_campaign=ts&utm_medium=23" class="l" title="Report: Rosneft builds Middle East portfolio with Kurdish deal">
+						<div class="hl">Report: Rosneft builds Middle East portfolio with Kurdish deal</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb" style="overflow: hidden;">
+						<a href="http://www.upi.com/Energy-News/2017/02/22/US-renewables-a-job-engine-trade-groups-say/6281487766459/?utm_source=fp&utm_campaign=ts&utm_medium=24" class="l" title="U.S. renewables a job engine, trade groups say">
+						<div class="hl">U.S. renewables a job engine, trade groups say</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						</div>
+				</div>
+				<div class="clr_2 "></div>
+				<div class="c_abc">
+					<div class="cn3_3 cn2_1">
+					<div class="story bb">
+						<a href="http://www.upi.com/Sports_News/NFL/2017/02/23/Deshaun-Watson-wants-Dallas-Cowboys-to-draft-him-trade-Dak-Prescott/2711487825898/?utm_source=fp&utm_campaign=ts_pi&utm_medium=25" class="l" title="Deshaun Watson wants Dallas Cowboys to draft him, trade Dak Prescott">
+						<div class="sec_n">Sports News</div>
+						<img src="http://cdnph.upi.com/ph/st/th/2711487825898/2017/upi/562931e8ab4ed18c3ac70c1cd1a0f6e7/v1.5/Deshaun-Watson-wants-Dallas-Cowboys-to-draft-him-trade-Dak-Prescott.jpg?lg=1" class="ph">						<div class="hl b">Deshaun Watson wants Dallas Cowboys to draft him, trade Dak Prescott</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+										<div class="story bb" style="overflow: hidden;">
+						<a href="http://www.upi.com/Sports_News/College-Basketball/2017/02/23/No-8-UNC-tops-No-7-Louisville-increases-ACC-lead/5161487827997/?utm_source=fp&utm_campaign=ts&utm_medium=26" class="l" title="No. 8 UNC tops No. 7 Louisville, increases ACC lead">
+						<div class="hl">No. 8 UNC tops No. 7 Louisville, increases ACC lead</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story" style="overflow: hidden;">
+						<a href="http://www.upi.com/Sports_News/Tennis/2017/02/23/Americans-Jack-Sock-Steve-Johnson-advance-at-Delray-Beach/3921487827949/?utm_source=fp&utm_campaign=ts&utm_medium=27" class="l" title="Americans Jack Sock, Steve Johnson advance at Delray Beach">
+						<div class="hl">Americans Jack Sock, Steve Johnson advance at Delray Beach</div>
+						</a>
+						<div style="clear: both;"></div>
+					</div>
+						</div>
+				</div>
+				<div class="clr_3				"></div>
+				<div style="clear: both;"></div>
+			</div>
+			<div style="clear: both;"></div>
+		</div>
+		<div style="clear: both;"></div>
+	</div>
+						<div id="fp_photos">
+		<div class="i_p">
+			<div class="hdr s40"><div class="t g">Photos</div></div>
+			<div id="content">
+			<div style="clear: both;"></div>
+				<div id="fp_sS">
+					<div class="ph">
+						<div class="ph_n l pnn" data-nav="p"><img src="/upi/dw/img/ss_la.png"></div>
+						<div class="ph_n r pnn" data-nav="n"><img src="/upi/dw/img/ss_ra.png"></div>
+						<div class="pi"></div>
+						<div class="ph_c">
+							<div class="img" id="ph1"><img src="http://cdnph.upi.com/cvc/fp_ss/upi/10922/72b56ead6592011e1b711ecd42cb9fb9/President-Trump-visits-Smithsonian-Museum-of-African-American-History_1_1.jpg" class="w"></div>
+							<div style="clear: both;"></div>
+						</div>
+						<div class="caption grad_bla">
+							<a href="http://www.upi.com/Top_News/US/Photos/President-Trump-visits-Smithsonian-Museum-of-African-American-History/fp/10922/?utm_source=fp&utm_campaign=ph&utm_medium=1">
+							<div class="in">
+							President Trump visits Smithsonian Museum of African American History							</div></a>
+						</div>
+						<div style="clear: both;"></div>
+					</div>
+					<div style="clear: both;"></div>
+				</div>	
+				<div style="clear: both; margin-bottom: 15px;"></div>
+								<div class="more c_2">
+					<div class="ic">
+						<a href="http://www.upi.com/Top_News/US/Photos/Protesters-hold-I-Am-A-Muslim-Too-rally-in-New-York/fp/10920/?utm_source=fp&utm_campaign=ph&utm_medium=2" title="Protesters hold 'I Am A Muslim Too' rally in New York">
+												<img src="http://cdnph.upi.com/related/5341487602372/2/v1.2/da79608188956361c049f7b161853617/upi/Protesters-hold-I-Am-A-Muslim-Too-rally-in-New-York.jpg" class="ph" title="Protesters hold 'I Am A Muslim Too' rally in New York" alt="Protesters hold 'I Am A Muslim Too' rally in New York">
+												<div class="hl">Protesters hold 'I Am A Muslim Too' rally in New York</div>
+						</a>
+					</div>
+				</div>
+								<div class="more c_3">
+					<div class="ic">
+						<a href="http://www.upi.com/Top_News/US/Photos/Highlights-from-the-114th-American-International-Toy-Fair-in-New-York/fp/10921/?utm_source=fp&utm_campaign=ph&utm_medium=3" title="Highlights from the 114th American International Toy Fair in New York">
+												<img src="http://cdnph.upi.com/related/5341487602372/3/v1.2/49ce858bf9e71e23da46810d69da8c0d/upi/Highlights-from-the-114th-American-International-Toy-Fair-in-New-York.jpg" class="ph" title="Highlights from the 114th American International Toy Fair in New York" alt="Highlights from the 114th American International Toy Fair in New York">
+												<div class="hl">Highlights from the 114th American International Toy Fair in New York</div>
+						</a>
+					</div>
+				</div>
+								<div class="more c_4">
+					<div class="ic">
+						<a href="http://www.upi.com/Top_News/US/Photos/Thousands-protest-President-Trumps-immigration-policies-in-Los-Angeles/fp/10918/?utm_source=fp&utm_campaign=ph&utm_medium=4" title="Thousands protest President Trump's immigration policies in Los Angeles">
+												<img src="http://cdnph.upi.com/related/5341487602372/4/v1.2/931b734c19a8bb1a355157c5a28206e8/upi/Thousands-protest-President-Trumps-immigration-policies-in-Los-Angeles.jpg" class="ph" title="Thousands protest President Trump's immigration policies in Los Angeles" alt="Thousands protest President Trump's immigration policies in Los Angeles">
+												<div class="hl">Thousands protest President Trump's immigration policies in Los Angeles</div>
+						</a>
+					</div>
+				</div>
+								<div class="more c_5">
+					<div class="ic">
+						<a href="http://www.upi.com/Top_News/US/Photos/President-Donald-Trump-The-first-100-days-in-photos/fp/10859/?utm_source=fp&utm_campaign=ph&utm_medium=5" title="President Donald Trump: The first 100 days in photos">
+												<img src="http://cdnph.upi.com/related/5341487602372/5/v1.2/789f8beeee23dae00271d32e7a37af56/upi/President-Donald-Trump-The-first-100-days-in-photos.jpg" class="ph" title="President Donald Trump: The first 100 days in photos" alt="President Donald Trump: The first 100 days in photos">
+												<div class="hl">President Donald Trump: The first 100 days in photos</div>
+						</a>
+					</div>
+				</div>
+								<div style="clear: both;"></div>
+				<div class="div_nav">
+									<div class="vapc"><a href="http://www.upi.com/News_Photos/">View All Photo Collections</a></div>
+					<div style="clear: both;"></div>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			<div style="clear: both;"></div>
+		</div>
+		<script type="text/javascript">jQuery('#fp_photos #fp_sS').upiSS({"photos":{"1":{"c":"President Trump tours the Smithsonian Museum of African American History in Washington, D.C.","xy":[643,475],"p":"http:\/\/cdnph.upi.com\/cvc\/fp_ss\/upi\/10922\/72b56ead6592011e1b711ecd42cb9fb9\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_1_1.jpg"},"2":{"2":{"p":"http:\/\/cdnph.upi.com\/collection\/ph\/upi\/10922\/2b73051b83cc6ed8b6b20cd0a294c6ce\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_2_2.jpg","p2":"http:\/\/cdnph.upi.com\/cvc\/fp_ss\/upi\/10922\/2b73051b83cc6ed8b6b20cd0a294c6ce\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_2_2.jpg","xy_2":[680,475],"xy_o":[685,475],"id":"2b73051b83cc6ed8b6b20cd0a294c6ce","src":"upi","hl":null,"xy":[685,478],"lp":1},"c":"President Trump tours the Smithsonian Museum of African American History in Washington, D.C.","xy":[685,459],"p":"http:\/\/cdnph.upi.com\/cvc\/fp_ss\/upi\/10922\/ff8721f6bc4273b091c832794245638d\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_2_1.jpg"},"3":{"c":"President Trump tours the Smithsonian Museum of African American History in Washington, D.C.","xy":[658,475],"p":"http:\/\/cdnph.upi.com\/cvc\/fp_ss\/upi\/10922\/46606867a5f275b7d4c5cfd453e844fb\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_3_1.jpg"},"4":{"c":"President Trump tours the Smithsonian Museum of African American History in Washington, D.C.","xy":[628,475],"p":"http:\/\/cdnph.upi.com\/cvc\/fp_ss\/upi\/10922\/6cb28666225438838e2e5043cd904ab2\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_4_1.jpg"},"5":{"c":"President Trump tours the Smithsonian Museum of African American History in Washington, D.C.","xy":[626,475],"p":"http:\/\/cdnph.upi.com\/cvc\/fp_ss\/upi\/10922\/215769cc29928910b717209bef5cc580\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_5_1.jpg"},"6":{"c":"President Trump Visits African American Museum in Washington","xy":[679,475],"p":"http:\/\/cdnph.upi.com\/cvc\/fp_ss\/upi\/10922\/471d01fe17703a658bd7ef97f6cb9139\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_6_1.jpg"},"7":{"c":"President Trump Visits African American Museum in Washington","xy":[598,475],"p":"http:\/\/cdnph.upi.com\/cvc\/fp_ss\/upi\/10922\/a4ef55e59311c2b802ef5132321895b7\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_7_1.jpg"},"8":{"c":"President Trump tours the Smithsonian Museum of African American History in Washington, D.C.","xy":[612,475],"p":"http:\/\/cdnph.upi.com\/cvc\/fp_ss\/upi\/10922\/5a5b34eba2f902efb88fbe14ae25bd71\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_8_1.jpg"},"9":{"c":"President Trump tours the Smithsonian Museum of African American History in Washington, D.C.","xy":[685,435],"p":"http:\/\/cdnph.upi.com\/cvc\/fp_ss\/upi\/10922\/1d6dd00ceacb49915e79c0e64c2f3537\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_9_1.jpg"},"10":{"c":"President Trump tours the Smithsonian Museum of African American History in Washington, D.C.","xy":[328,475],"p":"http:\/\/cdnph.upi.com\/cvc\/fp_ss\/upi\/10922\/d298736184d56e8bb8d673b2ff03b3bb\/President-Trump-visits-Smithsonian-Museum-of-African-American-History_10_1.jpg"}},"t":10,"n":2,"pt":"http:\/\/www.upi.com\/Top_News\/US\/Photos\/President-Donald-Trump-The-first-100-days-in-photos\/fp\/10859\/?utm_source=fp&utm_campaign=ph_ss&utm_medium=","cclass":".caption .in","p":10,"re_xy_fr":"#fp_photos #fp_sS"});</script>
+
+		</div>
+							<div id="fp_l_hl">
+		<div class="hdr s40"><div class="t">Latest Headlines</div></div>
+				<div class="ic">
+					<div class="story bb">
+						<a href="http://www.upi.com/Sports_News/NFL/2017/02/22/Pittsburgh-Steelers-LeVeon-Bell-not-expected-to-need-offseason-surgery/2861487804384/?utm_source=fp&utm_campaign=lh&utm_medium=1" class="l" title="Pittsburgh Steelers: Le'Veon Bell not expected to need offseason surgery">
+								<img src="http://cdnph.upi.com/ph/st/th/2861487804384/2017/upi/02e74c1e6a91211df8543b68d332137a/v1.5/Pittsburgh-Steelers-LeVeon-Bell-not-expected-to-need-offseason-surgery.jpg" class="ph" title="Pittsburgh Steelers: Le'Veon Bell not expected to need offseason surgery" alt="Pittsburgh Steelers: Le'Veon Bell not expected to need offseason surgery">						<div class="ago">NFL // 8 hours ago</div>						<div class="hl">Pittsburgh Steelers: Le'Veon Bell not expected to need offseason surgery</div>
+						<div class="desc"> Pittsburgh Steelers running back Le'Veon Bell, who was forced out of the AFC Championship Game because of a groin injury, is not expected to need offseason surgery.</div>												</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb">
+						<a href="http://www.upi.com/Odd_News/2017/02/22/Irish-politician-wants-to-call-in-army-to-combat-aggressive-rhododendrons/9831487795318/?utm_source=fp&utm_campaign=lh&utm_medium=2" class="l" title="Irish politician wants to call in army to combat 'aggressive' rhododendrons">
+								<img src="http://cdnph.upi.com/ph/st/th/9831487795318/2017/i/14877965188382/v1.5/Irish-politician-wants-to-call-in-army-to-combat-aggressive-rhododendrons.jpg" class="ph" title="Irish politician wants to call in army to combat 'aggressive' rhododendrons" alt="Irish politician wants to call in army to combat 'aggressive' rhododendrons">						<div class="ago">Odd News // 10 hours ago</div>						<div class="hl">Irish politician wants to call in army to combat 'aggressive' rhododendrons</div>
+						<div class="desc">Feb. 22 (UPI) -- An Irish politician asked parliament to enlist the army's help in battling the spread of an "aggressive" variety of plant.</div>												</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb">
+						<a href="http://www.upi.com/Health_News/2017/02/22/Unhealthy-in-middle-age-dementia-in-old-age/8901487797606/?utm_source=fp&utm_campaign=lh&utm_medium=3" class="l" title="Unhealthy in middle age, dementia in old age?">
+								<img src="http://cdnph.upi.com/ph/st/th/8901487797606/2017/i/14877976861954/v1.5/Unhealthy-in-middle-age-dementia-in-old-age.jpg" class="ph" title="Unhealthy in middle age, dementia in old age?" alt="Unhealthy in middle age, dementia in old age?">						<div class="ago">Health News // 10 hours ago</div>						<div class="hl">Unhealthy in middle age, dementia in old age?</div>
+						<div class="desc"> Middle-aged men and women at risk for heart disease may also face a  higher chance of dementia later in life, a new study suggests.</div>												</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb">
+						<a href="http://www.upi.com/Sports_News/NBA/2017/02/22/DeMarcus-Cousins-ready-to-wreak-havoc-in-New-Orleans-Pelicans-reset/7551487795880/?utm_source=fp&utm_campaign=lh&utm_medium=4" class="l" title="DeMarcus Cousins ready to 'wreak havoc' in New Orleans Pelicans reset">
+								<img src="http://cdnph.upi.com/ph/st/th/7551487795880/2017/upi/c939b52509d7dc926a5cb4c4a949add0/v1.5/DeMarcus-Cousins-ready-to-wreak-havoc-in-New-Orleans-Pelicans-reset.jpg" class="ph" title="DeMarcus Cousins ready to 'wreak havoc' in New Orleans Pelicans reset" alt="DeMarcus Cousins ready to 'wreak havoc' in New Orleans Pelicans reset">						<div class="ago">NBA // 10 hours ago</div>						<div class="hl">DeMarcus Cousins ready to 'wreak havoc' in New Orleans Pelicans reset</div>
+						<div class="desc"> DeMarcus "Boogie" Cousins didn't ask to be traded, but he is embracing the opportunity for a fresh start with the New Orleans Pelicans, who introduced their new No. 0 at a press conference Wednesday.</div>												</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb">
+						<a href="http://www.upi.com/Odd_News/2017/02/22/Japanese-app-helps-workers-find-open-toilets-and-employers-track-bathroom-time/6141487794295/?utm_source=fp&utm_campaign=lh&utm_medium=5" class="l" title="Japanese app helps workers find open toilets -- and employers track bathroom time">
+								<img src="http://cdnph.upi.com/ph/st/th/6141487794295/2017/i/14877948248284/v1.5/Japanese-app-helps-workers-find-open-toilets-and-employers-track-bathroom-time.jpg" class="ph" title="Japanese app helps workers find open toilets -- and employers track bathroom time" alt="Japanese app helps workers find open toilets -- and employers track bathroom time">						<div class="ago">Odd News // 11 hours ago</div>						<div class="hl">Japanese app helps workers find open toilets -- and employers track bathroom time</div>
+						<div class="desc">Feb. 22 (UPI) -- A Japanese telecom firm announced the creation of an app to help workers find available bathroom stalls -- and to tell employers if they take too long in them.</div>												</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb">
+						<a href="http://www.upi.com/Odd_News/2017/02/22/French-artist-Abraham-Poincheval-to-live-in-a-boulder-for-one-week/2721487791476/?utm_source=fp&utm_campaign=lh&utm_medium=6" class="l" title="French artist Abraham Poincheval to live in a boulder for one week">
+								<img src="http://cdnph.upi.com/ph/st/th/2721487791476/2017/upi_com/c2c64eb95ee0130b18d85564611c8494/v1.5/French-artist-Abraham-Poincheval-to-live-in-a-boulder-for-one-week.jpg" class="ph" title="French artist Abraham Poincheval to live in a boulder for one week" alt="French artist Abraham Poincheval to live in a boulder for one week">						<div class="ago">Odd News // 11 hours ago</div>						<div class="hl">French artist Abraham Poincheval to live in a boulder for one week</div>
+						<div class="desc">Feb. 22 (UPI) -- French artist Abraham Poincheval plans to seal himself in a limestone boulder for one week to "find out what the world is."</div>												</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb">
+						<a href="http://www.upi.com/Health_News/2017/02/22/Off-label-antidepressants-common-but-wheres-the-evidence/4031487793949/?utm_source=fp&utm_campaign=lh&utm_medium=7" class="l" title="'Off-label' antidepressants common, but where's the evidence?">
+								<img src="http://cdnph.upi.com/ph/st/th/4031487793949/2017/i/14877940828210/v1.5/Off-label-antidepressants-common-but-wheres-the-evidence.jpg" class="ph" title="'Off-label' antidepressants common, but where's the evidence?" alt="'Off-label' antidepressants common, but where's the evidence?">						<div class="ago">Health News // 11 hours ago</div>						<div class="hl">'Off-label' antidepressants common, but where's the evidence?</div>
+						<div class="desc"> Doctors often prescribe antidepressants for conditions like migraine headaches, but researchers say such "off-label" usage occurs without scientific evidence.</div>												</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb">
+						<a href="http://www.upi.com/Odd_News/2017/02/22/Man-falls-40-feet-down-Denver-chimney-during-parkour-session/4711487790840/?utm_source=fp&utm_campaign=lh&utm_medium=8" class="l" title="Man falls 40 feet down Denver chimney during parkour session">
+								<img src="http://cdnph.upi.com/ph/st/th/4711487790840/2017/i/14877932448327/v1.5/Man-falls-40-feet-down-Denver-chimney-during-parkour-session.jpg" class="ph" title="Man falls 40 feet down Denver chimney during parkour session" alt="Man falls 40 feet down Denver chimney during parkour session">						<div class="ago">Odd News // 11 hours ago</div>						<div class="hl">Man falls 40 feet down Denver chimney during parkour session</div>
+						<div class="desc">Feb. 22 (UPI) -- A Colorado man is facing trespassing charges after he fell 40 feet down the chimney of a loft building while filming a parkour video on the roof.</div>												</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb">
+						<a href="http://www.upi.com/Top_News/US/2017/02/22/Emails-reveal-new-EPA-chief-Pruitt-worked-closely-with-oil-gas-firms/4971487790105/?utm_source=fp&utm_campaign=lh&utm_medium=9" class="l" title="Emails reveal new EPA chief Pruitt worked closely with oil, gas firms">
+								<img src="http://cdnph.upi.com/ph/st/th/4971487790105/2017/upi/c17f7af8432e84b1deb032b34ea0c1c4/v1.5/Emails-reveal-new-EPA-chief-Pruitt-worked-closely-with-oil-gas-firms.jpg" class="ph" title="Emails reveal new EPA chief Pruitt worked closely with oil, gas firms" alt="Emails reveal new EPA chief Pruitt worked closely with oil, gas firms">						<div class="ago">U.S. News // 11 hours ago</div>						<div class="hl">Emails reveal new EPA chief Pruitt worked closely with oil, gas firms</div>
+						<div class="desc">Feb. 22 (UPI) -- Emails show EPA Administrator Scott Pruitt worked closely with major oil and gas producers to roll back environmental regulations as Oklahoma attorney general.</div>												</a>
+						<div style="clear: both;"></div>
+					</div>
+						<div class="story bb">
+						<a href="http://www.upi.com/Top_News/World-News/2017/02/22/Japan-consumption-habits-harming-700-rare-endangered-species/9831487792392/?utm_source=fp&utm_campaign=lh&utm_medium=10" class="l" title="Japan consumption habits harming 700 rare, endangered species">
+								<img src="http://cdnph.upi.com/ph/st/th/9831487792392/2017/i/14877924755966/v1.5/Japan-consumption-habits-harming-700-rare-endangered-species.jpg" class="ph" title="Japan consumption habits harming 700 rare, endangered species" alt="Japan consumption habits harming 700 rare, endangered species">						<div class="ago">World News // 11 hours ago</div>						<div class="hl">Japan consumption habits harming 700 rare, endangered species</div>
+						<div class="desc">Feb. 22 (UPI) -- Japanese consumption habits are detrimental to more than 790 endangered and rare species of plants and animals, according to a university economist.</div>												</a>
+						<div style="clear: both;"></div>
+					</div>
+					</div>
+				<div style="clear: both;"></div>
+											<div id="latest_lm"></div>				<div id="lm_btn" onclick="latest_lm('9831487792392', this);">Load More</div>
+								<script>
+					function latest_lm(lid, t) {
+						jQuery.ajax({
+							type: 'POST', cache: false, 
+							url: '/upi/dw/m/r/latest_headlines',  
+							data: 'more='+lid, 
+							dataType: 'html', 
+							success: function(d) {
+								jQuery(t).remove();
+								jQuery('#latest_lm').append(d);
+							}
+						});
+					}
+				</script>
+		
+	</div>
+			</div>
+		</div>
+		
+		<div id="c_rc">
+			<div class="m_rl30">
+					<div id="fp_rc">
+		<div class="i_p">
+			<div class="ad_slot"><div id='div-ad-r' style='text-align: center;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-ad-r'); });</script></div>
+</div>			
+
+			
+	<div class="hdr s30"><div class="t">Most Popular</div></div>
+	<style type="text/css">
+	.t_desc { 		font-size: 14px;
+		color: #333333;
+		font-weight: 400;
+		line-height: 16px;
+	}
+	#rcmostpopular .ago { font-family: "Droid Serif"; font-size: 12px; font-style: italic; color: #d1d1d1; margin-top: 10px; }
+	</style>
+	
+			<a href="http://www.upi.com/Top_News/World-News/2017/02/22/Israel-orders-demolition-of-Palestinian-village-in-West-Bank/1381487786546/?utm_source=fp&utm_campaign=mp&utm_medium=1">
+			<div style="margin-bottom: 20px; border-bottom: 1px solid #cccccc; padding-bottom: 10px;;">
+				<div class="t_desc">Israel orders demolition of Palestinian village in West Bank</div>
+				<div class="rcmp ago">Top News // 11 hours ago</div>
+				<div style="clear: both;"></div>
+			</div>
+		</a>
+		<a href="http://www.upi.com/Odd_News/2017/02/22/Lion-blocks-road-to-get-attention-from-keeper-at-South-African-sanctuary/1501487796112/?utm_source=fp&utm_campaign=mp&utm_medium=2">
+			<div style="margin-bottom: 20px; border-bottom: 1px solid #cccccc; padding-bottom: 10px;;">
+				<div class="t_desc">Lion blocks road to get attention from keeper at South African sanctuary</div>
+				<div class="rcmp ago">Odd News // 10 hours ago</div>
+				<div style="clear: both;"></div>
+			</div>
+		</a>
+		<a href="http://www.upi.com/Science_News/2017/02/22/NASA-announces-discovery-of-3-Earth-sized-habitable-planets-around-single-star/5971487786662/?utm_source=fp&utm_campaign=mp&utm_medium=3">
+			<div style="margin-bottom: 20px; border-bottom: 1px solid #cccccc; padding-bottom: 10px;;">
+				<div class="t_desc">NASA announces discovery of 3 Earth-sized habitable planets around single star</div>
+				<div class="rcmp ago">Science News // 12 hours ago</div>
+				<div style="clear: both;"></div>
+			</div>
+		</a>
+		<a href="http://www.upi.com/Sports_News/2017/02/22/Danica-Patrick-estimates-dozen-concussions-in-NASCAR-career/8441487787345/?utm_source=fp&utm_campaign=mp&utm_medium=4">
+			<div style="margin-bottom: 20px; border-bottom: 1px solid #cccccc; padding-bottom: 10px;;">
+				<div class="t_desc">Danica Patrick estimates dozen concussions in NASCAR career</div>
+				<div class="rcmp ago">Sports News // 13 hours ago</div>
+				<div style="clear: both;"></div>
+			</div>
+		</a>
+		<a href="http://www.upi.com/Odd_News/2017/02/22/Irish-politician-wants-to-call-in-army-to-combat-aggressive-rhododendrons/9831487795318/?utm_source=fp&utm_campaign=mp&utm_medium=5">
+			<div style="margin-bottom: 20px; padding-bottom: 10px;;">
+				<div class="t_desc">Irish politician wants to call in army to combat 'aggressive' rhododendrons</div>
+				<div class="rcmp ago">Odd News // 10 hours ago</div>
+				<div style="clear: both;"></div>
+			</div>
+		</a>
+	<div style="clear: both;"></div>
+
+					<div class="hdr s30"><div class="t">Follow Us</div></div>
+
+	<span itemscope itemtype="http://schema.org/Organization">
+		<link itemprop="url" href="http://www.upi.com" />
+		<link itemprop="logo" href="http://www.upi.com/img/upi_logo_ndc.png" />
+				<a itemprop="sameAs" href="https://facebook.com/unitedpress" target="_blank" title="Facebook"><img src="/upi/dw/img/clear.gif" class="rf_ico b f"  title="Facebook" alt="Facebook"></a>
+				<a itemprop="sameAs" href="https://twitter.com/upi" target="_blank" title="Twitter"><img src="/upi/dw/img/clear.gif" class="rf_ico b t"  title="Twitter" alt="Twitter"></a>
+				<a itemprop="sameAs" href="https://plus.google.com/+UpiNews/posts" target="_blank" title="Google+"><img src="/upi/dw/img/clear.gif" class="rf_ico b g"  title="Google+" alt="Google+"></a>
+				<a itemprop="sameAs" href="https://instagram.com/upi" target="_blank" title="Instagram"><img src="/upi/dw/img/clear.gif" class="rf_ico b is"  title="Instagram" alt="Instagram"></a>
+				<a itemprop="sameAs" href="https://www.pinterest.com/upicom/" target="_blank" title="Pinterest"><img src="/upi/dw/img/clear.gif" class="rf_ico b p"  title="Pinterest" alt="Pinterest"></a>
+				<a itemprop="sameAs" href="https://www.linkedin.com/company/united-press-international" target="_blank" title="Linkedin"><img src="/upi/dw/img/clear.gif" class="rf_ico b in"  title="Linkedin" alt="Linkedin"></a>
+				<div style="clear: both;"></div>
+	</span>
+	<div style="clear: both; margin-bottom: 30px;"></div>
+							<div id="rc_emailer">
+		<div class="box">
+			<div class="i_p">
+				<span class="n">Sign Up!</span>
+				<span class="d">Top News and industry newsletters delivered to your inbox daily</span>
+				<div style="clear: both;"></div>
+				<form method="post" action="/accounts/register/?spt=fp">
+				<input type="hidden" name="from_rc" value="1">
+				<input type="email" name="email" placeholder="Email address" class="txt" required="1">
+				<input type="submit" value="Subscribe" class="btn">
+				</form>
+				<div style="clear: both;"></div>
+			</div>
+		</div>
+	</div>
+			
+				<style type="text/css">
+		#rc_onthisday img	{ width: 100%; margin-bottom: 15px; }
+		#rc_onthisday .d	{ font: 14px "lato"; width: 100%; margin-bottom: 15px; }
+		#rc_onthisday a	{ color: #050505; }
+		#rc_onthisday .rel a	{ font: 14px "Montserrat"; width: 100%; border-bottom: 1px solid #f6f6f6; display: block; padding: 15px 0;  }
+		#rc_onthisday .rel a.more	{ font: italic 12px "Droid Serif"; width: 100%; border: 0; color: #006699; text-align: right; }
+	</style>
+	<div id="">
+		<div class="i_p">
+			<div class="hdr s30"><div class="t">On This Day</div></div>
+		<div id="rc_onthisday">
+			<a href="http://www.upi.com/Top_News/2017/02/22/UPI-Almanac-for-Wednesday-Feb-22-2017/4071487511673/?utm_source=fp&utm_campaign=otd&utm_medium=1" title="UPI Almanac for Wednesday, Feb. 22, 2017"><img src="http://cdnph.upi.com/ph/st/th/4071487511673/2017/upi/665c7547bb33f902ca842e5dd1472ebc/v1.5/UPI-Almanac-for-Wednesday-Feb-22-2017.jpg?lg=3" title="UPI Almanac for Wednesday, Feb. 22, 2017" alt="UPI Almanac for Wednesday, Feb. 22, 2017">
+						<div class="d">On Feb. 22, 1987, Andy Warhol, the artist-celebrity whose pop art images of soup cans and superstars made him famous, died of a heart attack at age 58.</div></a>
+			
+			<div class="hdr s15"><div class="t">UPI Archives</div></div>
+			<div class="rel">
+							<a href="http://www.upi.com/Archives/1987/02/23/Artist-Andy-Warhol-dead-at-59/3209541054800/?utm_source=fp&utm_campaign=otda&utm_medium=1" title="Artist Andy Warhol dead at 58">Artist Andy Warhol dead at 58</a>
+							<a class="more" href="/Archives/?utm_source=fp&utm_campaign=otdav&utm_medium=1" title="View All Archives">View All Archives</a>
+			</div>
+		
+		</div>
+		
+		</div>		
+	</div>
+		
+		
+			
+			<div class="ad_slot"><div id='div-ad-flex'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-ad-flex'); });</script></div>
+</div>								<div class="hdr s30"><div class="t">Voices</div></div>
+
+		<div id="rc_st_op">
+			<div class="ic">
+			<a href="http://www.upi.com/Top_News/Voices/2017/02/22/One-womans-tale-of-being-radicalized-by-utopian-promises/2841487769772/?utm_source=fp&utm_campaign=rc_vo&utm_medium=1" class="l" title="One woman's tale of being radicalized by 'utopian' promises">
+							<img src="http://cdnph.upi.com/related/5361487775838/1/v1.2/14877716644396/i/One-womans-tale-of-being-radicalized-by-utopian-promises.jpg" class="ph_hld" title="One woman's tale of being radicalized by 'utopian' promises" alt="One woman's tale of being radicalized by 'utopian' promises" style="z-index: 10">
+									<div class="hl">One woman's tale of being radicalized by 'utopian' promises</div>
+			</a>
+							<span style="text-align: center; font-weight: bold; font-style: italic; padding: 8px; margin: 30px 0 8px 0; color: #ffffff; font-size: 15px; background: #d1d1d1; display: block; width: 40px;">Poll</span>
+				<div id="rc_poll"></div><script>pf('/upi_poll/', 'pollid=198', '#rc_poll');</script>
+						
+			</div>
+		</div>
+	
+	
+						<div id="rcst"></div>
+			<div id="rc_r1"><div class="ad_slot"><div id='div-ad-r1'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-ad-r1'); });</script></div>
+</div></div>
+						<style type="text/css">
+			.rcf	{ position: fixed; top: 100px; margin-left: 10px; z-index: 5; }
+			</style>
+
+			<script>
+			var adrfd = null;
+			var r1st = null;
+			function rc_ad() {
+				rcst = jQuery('#rcst').position();
+				rcft = jQuery('#p_footer').position();
+				if(wnd_st+jQuery('#rc_r1').height()+200 > rcft.top) {
+					jQuery('#rc_r1').removeClass('rcf');
+				} else if (
+				wnd_st > rcst.top-100
+				) {
+					if(!r1st) r1st = wnd_st;
+					jQuery('#rc_r1').addClass('rcf');
+					if(!adrfd && (r1st+1000) < wnd_st) {
+						googletag.pubads().refresh([gam_right1]);
+						adrfd = 1;
+					}
+				}else{
+					jQuery('#rc_r1').removeClass('rcf');
+				}
+			}
+			jQuery(document).ready(function() {
+				rc_ad();
+				jQuery(window).resize(function() {
+					rc_ad();
+				}).scroll(function() {
+				rc_ad();
+				});
+			});
+		</script>
+
+		</div>		
+	</div>		
+			
+						</div>
+		</div>
+
+		<div style="clear: both;"></div>
+	</div>
+
+	
+	</div>
+</div>
+
+
+			<div style="text-align: center; width: 730px; margin: 0 auto 50px auto;">
+			<div class="ad_slot"><div id='div-ad-btf' style='margin: 20px auto;' align='center'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-ad-btf'); });</script></div>
+</div>		</div>
+	
+	<div id="p_footer">
+		<div class="xy">
+			<div class="ip">
+				<div class="c_a">
+					<div class="hdr">Explore UPI</div>
+										<div class="exp_sec">
+						<ul>						<li><a href="http://www.upi.com/Top_News/?utm_source=fp&utm_campaign=ftr&utm_medium=tn" title="Top News">Top News</a>
+</li>
+												<li><a href="http://www.upi.com/Entertainment_News/?utm_source=fp&utm_campaign=ftr&utm_medium=en" title="Entertainment News">Entertainment News</a>
+</li>
+												<li><a href="http://www.upi.com/Odd_News/?utm_source=fp&utm_campaign=ftr&utm_medium=on" title="Odd News">Odd News</a>
+</li>
+												<li><a href="http://www.upi.com/Sports_News/?utm_source=fp&utm_campaign=ftr&utm_medium=spn" title="Sports News">Sports News</a>
+</li>
+												</ul>
+					</div>
+										<div class="exp_sec">
+						<ul>						<li><a href="http://www.upi.com/Science_News/?utm_source=fp&utm_campaign=ftr&utm_medium=scn" title="Science News">Science News</a>
+</li>
+												<li><a href="http://www.upi.com/Health_News/?utm_source=fp&utm_campaign=ftr&utm_medium=hn" title="Health News">Health News</a>
+</li>
+												<li><a href="http://www.upi.com/News_Photos/?utm_source=fp&utm_campaign=ftr&utm_medium=" title="News Photos">News Photos</a>
+</li>
+												<li><a href="http://www.upi.com/Top_News/World-News/?utm_source=fp&utm_campaign=ftr&utm_medium=tn_wn" title="World News">World News</a>
+</li>
+												<li><a href="http://www.upi.com/Top_News/US/?utm_source=fp&utm_campaign=ftr&utm_medium=tn_us" title="U.S. News">U.S. News</a>
+</li>
+												</ul>
+					</div>
+										<div class="exp_sec">
+						<ul>						<li><a href="http://www.upi.com/Energy-News/?utm_source=fp&utm_campaign=ftr&utm_medium=eng" title="Energy News">Energy News</a>
+</li>
+												<li><a href="http://www.upi.com/Defense-News/?utm_source=fp&utm_campaign=ftr&utm_medium=dfn" title="Defense News">Defense News</a>
+</li>
+												<li><a href="http://www.upi.com/Archives/?utm_source=fp&utm_campaign=ftr&utm_medium=" title="UPI Archives">UPI Archives</a>
+</li>
+												</ul>
+					</div>
+										<div style="clear: both;"></div>
+					<div style="margin: 30px 0; display: block;">
+												<a itemprop="sameAs" href="https://facebook.com/unitedpress" target="_blank" title="Facebook"><img src="/upi/dw/img/clear.gif" class="rf_ico w f"  title="Facebook" alt="Facebook"></a>
+												<a itemprop="sameAs" href="https://twitter.com/upi" target="_blank" title="Twitter"><img src="/upi/dw/img/clear.gif" class="rf_ico w t"  title="Twitter" alt="Twitter"></a>
+												<a itemprop="sameAs" href="https://plus.google.com/+UpiNews/posts" target="_blank" title="Google+"><img src="/upi/dw/img/clear.gif" class="rf_ico w g"  title="Google+" alt="Google+"></a>
+												<a itemprop="sameAs" href="https://instagram.com/upi" target="_blank" title="Instagram"><img src="/upi/dw/img/clear.gif" class="rf_ico w is"  title="Instagram" alt="Instagram"></a>
+												<a itemprop="sameAs" href="https://www.pinterest.com/upicom/" target="_blank" title="Pinterest"><img src="/upi/dw/img/clear.gif" class="rf_ico w p"  title="Pinterest" alt="Pinterest"></a>
+												<a itemprop="sameAs" href="https://www.linkedin.com/company/united-press-international" target="_blank" title="Linkedin"><img src="/upi/dw/img/clear.gif" class="rf_ico w in"  title="Linkedin" alt="Linkedin"></a>
+												<div style="clear: both;"></div>
+					</div>
+					<div style="clear: both;"></div>
+				</div>
+				<div class="c_b">
+					<div class="hdr">United Press International</div>
+					<div class="desc">
+						<p>United Press International is a leading provider of news, photos and information to millions of readers around the globe via UPI.com and its licensing services.
+						<p>With a history of reliable reporting dating back to 1907, today's UPI is a credible source for the most important stories of the day, continually updated  - a one-stop site for U.S. and world news, as well as entertainment, trends, science, health and stunning photography. UPI also provides insightful reports on key topics of geopolitical importance, including energy and security.
+					</div>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+		</div>
+		<div class="c_fa">
+			<div class="xy">
+				<div class="ip">
+					<form method="post" action="/accounts/register/?spt=fp" id="ftr_mailer">
+					<input type="hidden" name="from_rc" value="1">
+					<div class="ca">Stay up to Date</div>
+					<div class="cb"><input type="name" name="name" placeholder="Your name" class="txt" required="1"></div>
+					<div class="cc"><input type="email" name="email" placeholder="Email address" class="txt" required="1"></div>
+					<div class="cd"><input type="submit" value="Subscribe" class="btn"></div></form>
+					<div style="clear: both;"></div>
+				</div>
+			</div>
+		</div>
+		<div class="c_fb">
+			<div class="xy">
+				<div class="ip">
+					<a href="http://www.upi.com/"><img src="http://www.upi.com/upi/dw/img/logo_clr.png" class="logo"></a>
+					<ul>
+						<li><a href="http://www.upi.com/accounts/" target="_blank">Login</a></li>
+						<li><a href="http://about.upi.com/contact/" target="_blank">Contact</a></li>
+						<li><a href="http://about.upi.com/advertising/advertise-online" target="_blank">Advertise Online with UPI</a></li>
+						<li><a href="http://www.upi.com/feedback/news-tips" target="_blank">Submit News Tips</a></li>
+						<li><span class="u_link" style="color: #ffffff !important;" onclick="window.open('/feedback?u='+encodeURI(window.location)+'&x='+wnd_x+'&y='+wnd_y, '_blank', 'width=700,height=600,scrollbars=yes,resizable=yes');">Feedback</span></li>
+					</ul>
+					<div style="clear: both;"></div>
+				</div>
+			</div>
+		</div>
+		<div class="c_fc">
+			<div class="xy">
+				<div class="ip">
+					Copyright &copy; 2017 United Press International, Inc. All Rights Reserved.
+					<div style="float: right;"><a href="http://about.upi.com/terms" target="_blank">TERMS OF USE</a> | <a href="http://about.upi.com/privacy-policy" target="_blank">PRIVACY POLICY</a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript">(function () {var po = document.createElement('script');po.type = 'text/javascript';po.async = true;po.src = 'https://plus.google.com/js/client:plusone.js?onload=start';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po, s);})();</script>
+	<div id="fb-root"></div>
+	<script>window.fbAsyncInit = function() {FB.init({appId : '130795020312660',xfbml : true,version : 'v2.3'});};(function(d, s, id){var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) {return;}js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+	<script type="text/javascript">
+	    (function() {
+	        function async_load(script_url){
+	            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+	            var s = document.createElement('script'); s.src = protocol + script_url;
+	            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+	        }
+	        bm_website_code = 'A0E473E745A945B1';
+	        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+	        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+	    })();
+	</script>
+
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-1342607-1', 'auto');
+	ga('require', 'displayfeatures'); 
+	ga('send', 'pageview');	</script>	
+	
+	
+<script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    _sf_async_config.uid = 4027;
+    _sf_async_config.domain = 'www.upi.com';
+    _sf_async_config.useCanonical = true;
+        
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function() {
+                oldonload();
+                loadChartbeat();
+            };
+    })();
+</script>	
+	
+ 
+
+	</body>
+</html>

@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta name="msvalidate.01" content="066B5B85928051E8DD433C78D150E764" />
+        <meta name="description" content="The Best and Funniest Vine Videos on the Internet and New Vines added every minute!">
+            <meta name="keywords" content="best vines, funny vines, vine compilation, comedy, vine search, search vine, twitter videos, videos for twitter, vine online viewer">
+
+        <meta name="title" content="Trending Vines for MICROSOFT on Twitter Compilation - November 3, 2016 Thursday Night">
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta property="og:title" content="Trending Vines for MICROSOFT on Twitter Compilation - November 3, 2016 Thursday Night" />
+        <meta property="og:description" content='' />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://www.best-vine-videos.com/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-3,-2016-Thursday-Night-5104190.html" />
+        <meta property="og:image" content="http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg" />
+        <meta property="og:site_name" content="http://www.best-vine-videos.com" />
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@">
+        <meta name="twitter:url" content="http://www.best-vine-videos.com/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-3,-2016-Thursday-Night-5104190.html">
+        <meta name="twitter:title" content="Trending Vines for MICROSOFT on Twitter Compilation - November 3, 2016 Thursday Night">
+        <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg">
+        <meta property="fb:app_id" content="?" />
+        <meta name="verify-v1" content="?" />
+        <meta itemprop="url" content="http://www.best-vine-videos.com/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-3,-2016-Thursday-Night-5104190.html" />
+                <meta name="author" content="">
+                   <meta name="msvalidate.01" content="066B5B85928051E8DD433C78D150E764" />
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1">
+        <meta charset="UTF-8">
+                        <title>Trending Vines For MICROSOFT On Twitter Compilation - November 3, 2016 Thursday Night | Best-Vine-Videos.com</title>
+        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans"/>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+
+        <!-- jQuery library -->
+        <script src="https://code.jquery.com/jquery-1.12.3.min.js" integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ=" crossorigin="anonymous"></script>
+        <!-- CSS file -->
+        <link rel="stylesheet" href="/EasyAutocomplete-1.3.3/easy-autocomplete.css">
+
+        <!-- Additional CSS Themes file - not required-->
+        <link rel="stylesheet" href="/EasyAutocomplete-1.3.3/easy-autocomplete.themes.css">
+        <!-- Using jQuery with a CDN -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/easy-autocomplete/1.3.3/jquery.easy-autocomplete.js"></script>
+
+        <!-- Latest compiled JavaScript -->
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <script type="text/javascript">var switchTo5x = true;</script>
+        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+        <script type="text/javascript">stLight.options({
+                publisher: "90c8bac6-e4ce-4116-bf9a-ffda9fd17833",
+                doNotHash: false,
+                doNotCopy: false,
+                hashAddressBar: false
+            });</script>
+        <script type="text/javascript" src="/js/main.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
+        <link rel="stylesheet" type="text/css" href="/css/colors.css">
+    </head>
+    <body>
+    <div class="top" style="border-bottom:1px solid #008000;">
+        <div class="box">
+
+            <a href="/">                <div class="logo-box">
+                    <div class="rainbow-fav-container" style="background: #008000;"><i
+                            class="fa fa-vine fa-fw rainbow-fav"></i></div><div class="logo-title">Best-Vine-Videos</div></a></div>
+
+        <div class="search-box">
+            <form id="search-form" class="form-inline" role="form" method="get" action="/Search/">
+                <div class="input-group">
+                    <input type="text" id="search-links" class="form-control search-form" style="border: #D473D4;" name="q" placeholder="Search"
+                        >
+                    <!--DO NOT NEED TRAILING SLASH "/" As HTML5 FORMS SLASHES ARE NO LONGER REQUIRED--> <span
+                        class="input-group-btn"><button type="submit" class="btn btn-primary search-btn"
+                                                        data-target="#search-form" style="background: #008000; border: #D473D4; height: 33.8px;"><i class="fa fa-search">
+                        <!--FONT AWESOME font @ "http://fortawesome.github.io/Font-Awesome/" --></i>
+                </button></span>
+                </div>
+                <script>
+
+                    $(document).ready(function() {
+
+                        var options = {
+
+                            url: function(phrase) {
+                                if (phrase !== "") {
+                                    return "/searchJson.php?q=" + phrase;
+                                }
+                            },
+
+                            getValue: "text",
+
+                            requestDelay: 300,
+
+                            theme: "square",
+
+                            template: {
+                                type: "links",
+                                fields: {
+                                    link: "website-link"
+                                }
+                            },
+                            list: {
+                                maxNumberOfElements: 10
+
+                            }
+
+
+                        };
+
+                        $("#search-links").easyAutocomplete(options);
+                    });
+
+                </script>
+        </div>
+
+
+
+        </form>
+
+                    </div>
+        <div class="box">
+
+            <div class="center"><script>
+function openWin(url) {
+myWindow = window.open(url, "myWindow");
+}</script><a href="http://www.knowyourleak.com" onClick="openWin('http://www.knowyourleak.com');return false" target="_blank"> (｡･ω･｡)ﾉ♡ </a><a href="http://www.knowyourleak.com" onClick="openWin('http://www.knowyourleak.com');return false" target="_blank"> try: Knowyourleak.com daily news videos</a></div>        </div>
+    </div>
+    <div class="bottom">
+
+
+    <div class="box">
+
+        <h1><span itemprop="name">Trending Vines for <a href="/Search/?order=newest&q=MICROSOFT" style="color: #008000; text-transform: uppercase;">MICROSOFT</a> on Twitter Compilation - November 3, 2016 Thursday Night</span></h1></div>
+        <div class="box-ad-cpu">
+
+
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Flexible Mobile -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-6547315753979149"
+                 data-ad-slot="6090980310"
+                 data-ad-format="auto"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script></div>
+            <div class="box">
+        <div class="content">
+            <div id="player"></div>
+<script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key="9gfDZez0QVEpRrU7FRW/EpJeIH+CND0DFNEMUw==";</script>
+<div id="myElement"></div>
+
+<script type="text/javascript">
+jwplayer("myElement").setup({
+playlist: [
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/5E5EA9AA931208117637570772992_SW_WEBM_1431011899758b35fe28878.mp4',
+  title: 'Louis van Gaal rules As se baila vanGaal MUFC',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eZVu3mwEWqr'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/0F7651FE831394416515771936768_50bd4ef4e85.37.0.362F677E-784A-403F-9153-C313502E46B5.mp4',
+  title: 'Bill Belichick 1 Technology 0 patriots',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '56O9rndvxm6'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/AB3F45B4BC1405754493429227520_5e27382fdff.21.0.53AB937C-2F1E-44DB-BF20-E0B96BC6CCEF.mp4',
+  title: ' Microsoft Teams',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5DMzJezzODu'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/544E3F8EEF1276727725893484544_41620b0474f.3.0.7809525766705571859.mp4',
+  title: 'LMAO IDK',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'iBuH9ePB7Da'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/7B663B20CC1402198157806411776_HW_2_MP4_14772842856966b617321e2.mp4',
+  title: 'windowsxp  windows microsoft HillaryClinton',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5dWuTg6T1lH'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/56818CAA741342317230985498624_5c3d5ff626d.17.0.9450526532035992976.mp4',
+  title: 'Dam gravitational rifts screwing up my mad skills yo mxgp2',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'i2eKVEjmxle'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/96E3C97CA81405177632764669952_SW_WEBM_1477994863885c12b81356d.mp4',
+  title: 'Kushagra Vaid GM Azure cloud hardware infrastructure talks Microsoft Project Olympus opensource',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5pVtw5PmKKV'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/3EDA4E77291405170677493141504_SW_WEBM_1477993230439f959566e2b.mp4',
+  title: 'Were at DCDeurope for a day full of datacentres Microsoft up first soon london',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5pV62HaljFK'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/9C465181271404935959409471488_1a60b4993a8.3.4.mp4',
+  title: 'microsoft October 2016 event  full  windows 10  and more  oulu repeat again this video Nicelook ',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5pPnJ2LUaqL'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/45AEA5135C1404265425260503040_5479653c6e0.41.0.9C4C330E-A12D-4B1A-9403-452D6FD876CF.mp4',
+  title: 'microsoft',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5p5b0FahvOK'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/BD0E96DC291404066272056156160_561ea154a91.41.0.4A979705-9E2F-4310-9317-9D65F25C758E.mp4',
+  title: 'MicrosoftApple',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5pbhIq69gTZ'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos/2BBDB6A8F01111455630872702976_2068827fbe7.2.1.9348574530784890704.mp4?versionId=RN9ugMymJJjb2inEZL1YOh1ql3hAwqu_',
+  title: 'Microsoft',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'MYHnmrOi6Br'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos/9B2E7913001403594644637519872_5cf49b4aea5.41.0.6BA4474F-072B-4BAC-B4C7-CE2D0748E51B.mp4',
+  title: 'Microsoft Pics  vine',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5d3a1tldXMw'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/F0DF15B74B1389882447076175872_5b72374028a.35.1.5640D175-AF56-4AB8-9873-35706D573D13.mp4',
+  title: 'The Beach  A Car ForzaHorizon3 XboxOne VideoGames Cars Gamer Racing Xbox Microsoft',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5nXrw9F9LvU'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/400A4389451403490187027357696_1d5775fde9f.3.4.mp4',
+  title: 'Echa un vistazo a la nueva SurfaceStudio de Microsoft  httpivanrafaelblogblogspotmx201610microsoftpresentasurfacestudiohtml',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: '5dEVTmDHP5Q'
+},
+          {
+  file: 'https://v.cdn.vine.co/r/videos_h264high/72B1AC1B501270491736191520768_SW_WEBM_1445882910059a636ddfe38.mp4',
+  title: 'Fight vine laurelandhardy wwwlaurelandhardyroadshowcouk',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eYAVeDvpZKz'
+},
+          {
+  file: 'https://mtc.cdn.vine.co/r/videos_h264high/4792D1133A1197861371913064448_SW_WEBM_1428566626918bf201911c2.mp4',
+  title: 'How to edit your family tree using Evagene Natural Pedigree Drawing',
+  image: "http://www.best-vine-videos.com/video/images/5100000/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation-November-3-2016-Thursday-Night-Image.jpg",
+  mediaid: 'eBpnJP1QgPt'
+}],
+width: "100%",
+          aspectratio: "1:1",
+      autostart: true,
+});
+
+</script>
+
+        </div>
+    </div>
+    <div class="box-ad-cpu">
+
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Flexible Mobile -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-6547315753979149"
+         data-ad-slot="6090980310"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script></div>
+
+    <div class="box">
+                <div class="list-group">
+
+                        <a class="list-group-item" href="/Email/?title=Trending+Vines+for+MICROSOFT+on+Twitter+Compilation+-+November+3%2C+2016+Thursday+Night&url=Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-3,-2016-Thursday-Night-5104190.html"><i
+                    class="fa fa-envelope-o fa-fw"></i>&nbsp; Email "Trending Vines for MICROSOFT on Twitter Compilation" to Friends</a>
+
+
+            <a class="list-group-item" href="javascript:void(0);" id="alerts-button"><i
+                    class="fa fa-mail-forward fa-fw"></i>&nbsp;
+                Receive Emails for Future MICROSOFT Vines</a>
+
+            <div id="alerts-div">
+                <form action="/joinNewsletter.php" method="get"><h3>Email: <input type="text" name="email" value=""><input type="hidden" name="keyword" value="MICROSOFT"><input type="hidden" name="join" value="1"><input type="submit" class="hand" value="Join Subscription for &quot;MICROSOFT&quot;" title="Receive an Email for New MICROSOFT Posts"></form></h3>            </div>
+
+            <a class="list-group-item" href="javascript:void(0);" id="link-button"><i class="fa fa-chain fa-fw"></i>&nbsp;
+                Link to "Trending Vines for MICROSOFT on Twitter Compilation"</a>
+
+            <div id="link-div">
+                <h3>Share: <input onClick="this.select();" value="http://www.best-vine-videos.com/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-3,-2016-Thursday-Night-5104190.html" style="width: 100%;"/></h3>            </div>
+            </a>
+            <a class="list-group-item" href="javascript:void(0);" id="socialmedia-button"><i
+                    class="fa fa-thumbs-o-up fa-fw"></i>&nbsp; Share on Facebook, Twitter, and more</a>
+
+            <div id="socialmedia-div">
+                
+        <div class="social">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=253077174717798&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="fb-like" data-href="http://www.best-vine-videos.com/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-3,-2016-Thursday-Night-5104190.html/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div></div><div class="list-results">
+
+<span class='st_facebook_vcount' displayText='Facebook'></span>
+<span class='st_twitter_vcount' displayText='Tweet'></span>
+<span class='st_linkedin_vcount' displayText='LinkedIn'></span>
+<span class='st_pinterest_vcount' displayText='Pinterest'></span>
+</div>            </div>
+        </div>
+    </div>
+    <div class="box-ad-cpu">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Large Rectangle -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:336px;height:280px"
+             data-ad-client="ca-pub-6547315753979149"
+             data-ad-slot="5481525515"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+<div class="box"><h1>Hashtags in Compilation</h1>
+<div class="content"><a href="/Search/?order=newest&q=VANGAAL" class="color-0">VANGAAL</a> <a href="/Search/?order=newest&q=MUFC" class="color-1">MUFC</a> <a href="/Search/?order=newest&q=PATRIOTS" class="color-2">PATRIOTS</a> <a href="/Search/?order=newest&q=WINDOWSXP" class="color-3">WINDOWSXP</a> <a href="/Search/?order=newest&q=WINDOWS" class="color-4">WINDOWS</a> <a href="/Search/?order=newest&q=MICROSOFT" class="color-5">MICROSOFT</a> <a href="/Search/?order=newest&q=HILLARYCLINTON" class="color-6">HILLARYCLINTON</a> <a href="/Search/?order=newest&q=MXGP2" class="color-7">MXGP2</a> <a href="/Search/?order=newest&q=CLOUD" class="color-8">CLOUD</a> <a href="/Search/?order=newest&q=OPENSOURCE" class="color-9">OPENSOURCE</a> <a href="/Search/?order=newest&q=DCDEUROPE" class="color-10">DCDEUROPE</a> <a href="/Search/?order=newest&q=DATACENTRES" class="color-11">DATACENTRES</a> <a href="/Search/?order=newest&q=LONDON" class="color-12">LONDON</a> <a href="/Search/?order=newest&q=OULU" class="color-13">OULU</a> <a href="/Search/?order=newest&q=REPEAT" class="color-14">REPEAT</a> <a href="/Search/?order=newest&q=NICELOOK" class="color-15">NICELOOK</a> <a href="/Search/?order=newest&q=FORZAHORIZON3" class="color-16">FORZAHORIZON3</a> <a href="/Search/?order=newest&q=XBOXONE" class="color-17">XBOXONE</a> <a href="/Search/?order=newest&q=VIDEOGAMES" class="color-18">VIDEOGAMES</a> <a href="/Search/?order=newest&q=CARS" class="color-19">CARS</a> <a href="/Search/?order=newest&q=GAMER" class="color-20">GAMER</a> <a href="/Search/?order=newest&q=RACING" class="color-21">RACING</a> <a href="/Search/?order=newest&q=XBOX" class="color-22">XBOX</a> <a href="/Search/?order=newest&q=SURFACESTUDIO" class="color-23">SURFACESTUDIO</a> <a href="/Search/?order=newest&q=VINE" class="color-24">VINE</a> <a href="/Search/?order=newest&q=LAURELANDHARDY" class="color-25">LAURELANDHARDY</a> </div></div>    <div class="box"><h1>Vines Seen in Compilation</h1>
+    
+        <div class="list-group">
+
+<a class="list-group-item" href="Vines/Louis-Van-Gaal-Rules-Asi-Se-Baila-VanGaal-MUFC-Twitter-Bart-Tejada-EZVu3mwEWqr.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#1</b> Louis van Gaal rules! Así se baila <span class="color-1">#vanGaal</span> <span class="color-2">#MUFC</span> </a><a class="list-group-item" href="Vines/Bill-Belichick-1-Technology-0-Patriots-Twitter-Zack-Neiner-56O9rndvxm6.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#2</b> Bill Belichick 1 Technology 0 <span class="color-3">#patriots</span> </a><a class="list-group-item" href="Vines/Microsoft-Teams-Twitter-Tomoyashibata-5DMzJezzODu.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#3</b> 荒ぶる Microsoft Teams </a><a class="list-group-item" href="Vines/LMAO-IDK-Twitter-Horace-Johnson-IBuH9ePB7Da.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#4</b> LMAO IDK </a><a class="list-group-item" href="Vines/Windowsxp-Windows-Microsoft-HillaryClinton-Twitter-Tanner-5dWuTg6T1lH.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#5</b> <span class="color-4">#windowsxp</span>  <span class="color-5">#windows</span> <span class="color-6">#microsoft</span> <span class="color-7">#HillaryClinton</span> </a><a class="list-group-item" href="Vines/Dam-Gravitational-Rifts-Screwing-Up-My-Mad-Skills-Yo-Mxgp2-Twitter-Rileymusser-I2eKVEjmxle.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#6</b> Dam gravitational rifts screwing up my mad skills yo <span class="color-8">#mxgp2</span> </a><a class="list-group-item" href="Vines/Kushagra-Vaid-GM-Azure-Cloud-Hardware-Infrastructure-Talks-Microsoft-Project-Olympus-Opensource-Twitter-Jou00e3o-Marques-Lima-5pVtw5PmKKV.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#7</b> Kushagra Vaid, GM @Azure <span class="color-9">#cloud</span> hardware infrastructure talks @Microsoft Project Olympus. <span class="color-10">#opensource</span> </a><a class="list-group-item" href="Vines/We're-At-DCDeurope-For-A-Day-Full-Of-Datacentres-Microsoft-Up-First-Soon-London-Twitter-Jou00e3o-Marques-Lima-5pV62HaljFK.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#8</b> We're at <span class="color-11">#DCDeurope</span> for a day full of #datacentres. @Microsoft up first soon! <span class="color-13">#london</span> </a><a class="list-group-item" href="Vines/Microsoft-October-2016-Event-Full-Windows-10-And-More-Oulu-Repeat-Again-This-Video-Nicelook-Twitter-Pekko-Latvala-5pPnJ2LUaqL.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#9</b> <span class="color-14">#microsoft</span> October 2016 event 💖 full | windows 10 😎 and more. 😃😊✔😉😇❤ <span class="color-15">#oulu</span> <span class="color-16">#repeat</span> again this video. <span class="color-17">#Nicelook</span> 😎 </a><a class="list-group-item" href="Vines/Microsoft-Twitter-Ryan-Lever-5p5b0FahvOK.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#10</b> <span class="color-18">#microsoft</span> </a><a class="list-group-item" href="Vines/MicrosoftApple-Twitter-Andoh-RIKI-5pbhIq69gTZ.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#11</b> MicrosoftもAppleも、なんで粉砕したがるの？ </a><a class="list-group-item" href="Vines/Microsoft-Twitter-Soulja-Boy-MYHnmrOi6Br.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#12</b> Microsoft </a><a class="list-group-item" href="Vines/Microsoft-Pics-Vine-Twitter-Jigen1-5d3a1tldXMw.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#13</b> Microsoft Pics は勝手に画像を動画加工してくれるんだけど、何がしたいコレ？ <span class="color-19">#サヨナラvine</span> </a><a class="list-group-item" href="Vines/The-Beach-A-Car-ForzaHorizon3-XboxOne-VideoGames-Cars-Gamer-Racing-Xbox-Microsoft-Twitter-StarGayz-5nXrw9F9LvU.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#14</b> The Beach & A Car <span class="color-20">#ForzaHorizon3</span> <span class="color-21">#XboxOne</span> <span class="color-22">#VideoGames</span> <span class="color-23">#Cars</span> <span class="color-24">#Gamer</span> <span class="color-25">#Racing</span> <span class="color-26">#Xbox</span> <span class="color-27">#Microsoft</span> </a><a class="list-group-item" href="Vines/Echa-Un-Vistazo-A-La-Nueva-SurfaceStudio-De-Microsoft-Http-Ivanrafaelblogblogspotmx-2016-10-Microsoftpresentasurfacestudiohtml-Twitter-Rafael-Leyva-5dEVTmDHP5Q.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#15</b> Echa un vistazo a la nueva <span class="color-28">#SurfaceStudio</span> de <span class="color-29">#Microsoft</span> • http://ivanrafaelblog.blogspot.mx/2016/10/microsoft-presenta-surface-studio.html </a><a class="list-group-item" href="Vines/Fight-Vine-Laurelandhardy-Wwwlaurelandhardyroadshowcouk-Twitter-Laurel-And-Hardy-EYAVeDvpZKz.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#16</b> Fight <span class="color-30">#vine</span> <span class="color-31">#laurelandhardy</span> www.laurelandhardyroadshow.co.uk </a><a class="list-group-item" href="Vines/How-To-Edit-Your-Family-Tree-Using-Evagene-Natural-Pedigree-Drawing-Twitter-Evagene-EBpnJP1QgPt.html"><i
+                    class="fa fa-vine fa-fw"></i>&nbsp; <b>#17</b> How to edit your family tree using Evagene Natural Pedigree Drawing </a><div class="box"><h1>More MICROSOFT Vine Compilations</h1>        <div class="list-group">
+<a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-3,-2016-Thursday-5103503.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-0">MICROSOFT</span> on Twitter Compilation - November 3, 2016 Thursday </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-2,-2016-Wednesday-Night-5102819.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-1">MICROSOFT</span> on Twitter Compilation - November 2, 2016 Wednesday Night </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-2,-2016-Wednesday-5102120.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-2">MICROSOFT</span> on Twitter Compilation - November 2, 2016 Wednesday </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-1,-2016-Tuesday-Night-5101428.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-3">MICROSOFT</span> on Twitter Compilation - November 1, 2016 Tuesday Night </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-1,-2016-Tuesday-5100722.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-4">MICROSOFT</span> on Twitter Compilation - November 1, 2016 Tuesday </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---June-17,-2016-Friday-5003514.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-5">MICROSOFT</span> on Twitter Compilation - June 17, 2016 Friday </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---June-16,-2016-Thursday-Night-5002649.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-6">MICROSOFT</span> on Twitter Compilation - June 16, 2016 Thursday Night </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---June-16,-2016-Thursday-5001657.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-7">MICROSOFT</span> on Twitter Compilation - June 16, 2016 Thursday </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---June-15,-2016-Wednesday-Night-5000807.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-8">MICROSOFT</span> on Twitter Compilation - June 15, 2016 Wednesday Night </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---June-15,-2016-Wednesday-4999972.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-9">MICROSOFT</span> on Twitter Compilation - June 15, 2016 Wednesday </a></div><h1>Related Vine Compilations</h1>
+<div class="box"><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-3,-2016-Thursday-5103503.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-10">MICROSOFT</span> on Twitter Compilation - November 3, 2016 Thursday </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-2,-2016-Wednesday-Night-5102819.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-11">MICROSOFT</span> on Twitter Compilation - November 2, 2016 Wednesday Night </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-2,-2016-Wednesday-5102120.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-12">MICROSOFT</span> on Twitter Compilation - November 2, 2016 Wednesday </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-1,-2016-Tuesday-Night-5101428.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-13">MICROSOFT</span> on Twitter Compilation - November 1, 2016 Tuesday Night </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---November-1,-2016-Tuesday-5100722.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-14">MICROSOFT</span> on Twitter Compilation - November 1, 2016 Tuesday </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---June-17,-2016-Friday-5003514.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-15">MICROSOFT</span> on Twitter Compilation - June 17, 2016 Friday </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---June-16,-2016-Thursday-Night-5002649.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-16">MICROSOFT</span> on Twitter Compilation - June 16, 2016 Thursday Night </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---June-16,-2016-Thursday-5001657.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-17">MICROSOFT</span> on Twitter Compilation - June 16, 2016 Thursday </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---June-15,-2016-Wednesday-Night-5000807.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-18">MICROSOFT</span> on Twitter Compilation - June 15, 2016 Wednesday Night </a><a class="list-group-item" href="/Trending-Vines-For-MICROSOFT-On-Twitter-Compilation---June-15,-2016-Wednesday-4999972.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Trending Vines for <span class="color-19">MICROSOFT</span> on Twitter Compilation - June 15, 2016 Wednesday </a><a class="list-group-item" href="/Best-Vines-For-DOMINIQUE-Dominiquerazor-Compilation---June-15,-2016-Wednesday-4999971.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-20">DOMINIQUE (/DOMINIQUERAZOR)</span> Compilation - June 15, 2016 Wednesday </a><a class="list-group-item" href="/Best-Vines-For-MARTIN-ESSL-Messl-Compilation---June-15,-2016-Wednesday-4999970.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-21">MARTIN ESSL (/MESSL)</span> Compilation - June 15, 2016 Wednesday </a><a class="list-group-item" href="/DOMINIQUE-Dominiquerazor-Best-Vines-Compilation-And-Favorite-Revines---June-15,-2016-Wednesday-4999969.html"><i
+                    class="fa fa-play-circle fa-fw"></i> <span class="color-22">DOMINIQUE (/DOMINIQUERAZOR)</span> Best Vines Compilation and Favorite Revines - June 15, 2016 Wednesday </a><a class="list-group-item" href="/MARTIN-ESSL-Messl-Best-Vines-Compilation-And-Favorite-Revines---June-15,-2016-Wednesday-4999968.html"><i
+                    class="fa fa-play-circle fa-fw"></i> <span class="color-23">MARTIN ESSL (/MESSL)</span> Best Vines Compilation and Favorite Revines - June 15, 2016 Wednesday </a><a class="list-group-item" href="/Best-Vines-For-MIKELESSCOMEDY-Mikelesscomedy-Compilation---June-15,-2016-Wednesday-4999967.html"><i
+                    class="fa fa-play-circle fa-fw"></i> Best Vines for <span class="color-24">MIKELESSCOMEDY (/MIKELESS_COMEDY)</span> Compilation - June 15, 2016 Wednesday </a><a class="list-group-item" href="/MIKELESSCOMEDY-Mikelesscomedy-Best-Vines-Compilation-And-Favorite-Revines---June-15,-2016-Wednesday-4999966.html"><i
+                    class="fa fa-play-circle fa-fw"></i> <span class="color-25">MIKELESSCOMEDY (/MIKELESS_COMEDY)</span> Best Vines Compilation and Favorite Revines - June 15, 2016 Wednesday </a></div></div></div><div class="box">
+    <div class="list-group">
+        <a class="list-group-item" href="http://www.amazon.com/?_encoding=UTF8&tag=vinewebsite-20" target="_blank"><i
+                class="fa fa-amazon fa-fw"></i>&nbsp;
+            Please consider supporting this site by Clicking Here and Bookmarking whenever you search and shop Amazon. It costs you nothing but it supports us and gives us credit and we appreciate it greatly.
+        </a>
+    </div>
+</div>
+<div class="box-cpu-ad">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Flexible Mobile -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-6547315753979149"
+         data-ad-slot="6090980310"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-mH5HUHve3C46d"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-mH5HUHve3C46d.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+</body>
+</html>

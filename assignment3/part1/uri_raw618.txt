@@ -1,0 +1,2267 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<title>Зачем США вливают средства в Таджикистан - Русская планета</title>
+		<meta name="description" content="Соединенные Штаты начали активную политику по вытеснению России из Центральной Азии. Они вливают огромное количество средств в Таджикистан. Взамен финансирования Вашингтон может предложить военное сотрудничество в рамках размещения военных баз и других объектов на территории республики." />
+
+		<meta name="keywords" content="США, Таджикистан, АКН, военные базы, Рахмон Эмомали, Бертон Дэн, Военное присутствие" />
+		<meta property="fb:app_id" content="553046408049881" />
+		<meta property="fb:admins" content="100003033971758" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="США покупают войну в Таджикистане" />
+		<meta property="og:description" content="Белый дом активизировал политику по вытеснению Москвы из региона, вливая в республику миллионы долларов" />
+		<meta property="og:image" content="http://rusplt.ru/netcat_files/79/127/tadzhikistan_620.jpg" />
+		<meta property="og:url" content="http://rusplt.ru/world/ssha-pokupayut-voynu-v-tadjikistane-18323.html" />
+
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@rusplt" />
+		<meta name="twitter:title" content="США покупают войну в Таджикистане" />
+		<meta name="twitter:description" content="Белый дом активизировал политику по вытеснению Москвы из региона, вливая в республику миллионы долларов" />
+		<meta name="twitter:image" content="http://rusplt.ru/netcat_files/79/127/tadzhikistan_620.jpg" />
+		<meta name="twitter:url" content="http://rusplt.ru/world/ssha-pokupayut-voynu-v-tadjikistane-18323.html" />
+
+		<link href="http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic&subset=latin,cyrillic" rel="stylesheet" type="text/css" />
+
+		<link rel="alternate" href="/index/new.rss" title="Articles Feed" type="application/rss+xml" />
+		<link rel="alternate" href="/news/news.rss" title="News Feed" type="application/rss+xml" />
+
+		<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico" />
+		<link rel="icon" type="image/png" href="/favicon.png" />
+		<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png" />
+		
+		
+		<script>
+			var authServiceUid = 0;
+					var authServiceUrl = 'http://auth.checkindigo.ru/api';
+				</script>		
+
+		
+					<link rel="stylesheet" href="/css/main.min.css?839" type="text/css" />			
+		
+                <link href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">        		
+
+		
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-29338156-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Код для баннера Goodwin Media -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/26887429/30412669', [240, 400], 'div-gpt-ad-29412669').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>				<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin,cyrillic-ext,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
+
+				
+				
+					<script type="text/javascript" src="/js/main.js?839"></script>
+				<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+
+		<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter93428 = new Ya.Metrika({id:93428,
+                    webvisor:true,
+                    clickmap:true,
+                    accurateTrackBounce:true,type:1});
+            w.yaCounter15971758 = new Ya.Metrika({id:15971758,
+                    webvisor:true,
+                    clickmap:true,
+                    accurateTrackBounce:true,type:1});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/93428?cnt-class=1" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+	
+
+					<script src="/js/authService/simpleStorage.js"></script>
+			<script src="/js/authService/js.cookie.js"></script>
+			<script src="/js/authService/main.js?v=3"></script>
+				
+				
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+		
+	</head>
+
+	<body>
+                
+				<div  id="wrapper">
+
+			
+			<header id="header" class="mobile-closed sub">
+
+				<div class="mobile_header_bg"></div>
+				<div id="mobile_line">
+					<a class="menu_icon"></a>
+					<a class="new_mini_logo" data-goal="Header" title="Rusplt.ru" href="http://rusplt.ru"></a>
+											<a class="profile reachGoal input ClickNew" data-cn="LeftMenu" data-ct="Вход" data-goal="LeftMenu" href="#"><div class="enterIco"></div></a>
+										<a class="search reachGoal ClickNew" data-cn="Header" data-ct="Поиск" data-goal="Header" title="Поиск" href="http://rusplt.ru/search/?by_city=site1"></a>
+				</div>
+				
+				<div class="mob_open_list_holder">
+					<div class="mob_open_list mob_open_list_line" data-open-on-mobile="line">Главные рубрики</div>
+					<div id="line" class="line">
+						<div class="menu_line">
+							<div class="inner">
+								<a class="new_mini_logo" data-goal="Header" title="Rusplt.ru" href="http://rusplt.ru"></a>
+								<nav class="new">
+									<ul>
+										<li><a class="reachGoal logo_rusplt_a" data-goal="Header" href="http://rusplt.ru/"><i class="logo_rusplt icons"></i></a></li>
+																				<li><a class="item1 reachGoal ClickNew ClickCounter" data-cclabel="clickMenu_nws" data-ccaction="Menu" data-cn="Header" data-ct="HeaderNews" data-goal="Header" href="http://rusplt.ru/news/"><span class="headerIcons headerIcons_news"></span><span>Новости</span></a></li>
+										<li><a class="item3 reachGoal ClickNew ClickCounter" data-cclabel="clickMenu_pol" data-ccaction="Menu" data-cn="Header" data-ct="HeaderPolicy" data-goal="Header" href="http://rusplt.ru/policy/"><span class="headerIcons headerIcons_politics"></span><span>Политика</span></a></li>
+										<li><a class="item4 reachGoal ClickNew ClickCounter" data-cclabel="clickMenu_soc" data-ccaction="Menu" data-cn="Header" data-ct="HeaderSociety" data-goal="Header" href="http://rusplt.ru/society/"><span class="headerIcons headerIcons_society"></span><span>Общество</span></a></li>
+										<li><a class="item5 reachGoal ClickNew ClickCounter" data-cclabel="clickMenu_win" data-ccaction="Menu" data-cn="Header" data-ct="HeaderWins" data-goal="Header" href="http://rusplt.ru/wins/"><span class="headerIcons headerIcons_wins"></span><span>Русские победы</span></a></li>
+										<li class="hide-at-1000 "><a class="item5 reachGoal ClickNew ClickCounter" data-cclabel="clickMenu_wd" data-ccaction="Menu" data-cn="Header" data-ct="HeaderBlogs" data-goal="Header" href="http://rusplt.ru/our-blogs/"><span class="headerIcons headerIcons_blogs"></span><span>Наши блоги</span></a></li>
+										<li id="booksOpen"><a class="item3 reachGoal ClickNew ClickCounter" data-ct="HeaderBooks" data-cclabel="clickMenu_wd" data-ccaction="Menu" data-cn="Header" data-goal="Header"><span class="headerIcons headerIcons_Books"></span><span>Книги</span></a>
+											<a data-cn="HeaderBooks" href="//rusplt.ru/books/russkoe-otkrovenie-vyu-katasonova/" class="ClickNew header_underline_mobile_book">Русское откровение В.Ю. Катасонова</a><a data-cn="HeaderBooks" href="//rusplt.ru/books/currency-war/" class="ClickNew header_underline_mobile_book">Война валют</a>													<a data-cn="HeaderBooks" href="http://rusplt.ru/books/books-1_14.html" class="ClickNew header_underline_mobile_book">Русская доктрина</a>
+													<a data-cn="HeaderBooks" href="http://rusplt.ru/books/books-1_12.html" class="ClickNew header_underline_mobile_book">Книги Олега Платонова</a>
+													<a data-cn="HeaderBooks" href="http://rusplt.ru/books/books-1_13.html" class="ClickNew header_underline_mobile_book">Высокий Коммунитаризм как Русская идея</a>
+													<a data-cn="HeaderBooks" href="http://rusplt.ru/books/books-1_15.html" class="ClickNew header_underline_mobile_book">Распятая Россия</a>
+																						<div class="header_underline_books">
+												
+																<div class="book">
+																	<a href="//rusplt.ru/books/russkoe-otkrovenie-vyu-katasonova/">
+																		<h2>Русское откровение В.Ю. Катасонова</h2>
+																	</a>
+																	<a href="//rusplt.ru/books/russkoe-otkrovenie-vyu-katasonova/" class="book_image"><img alt="" src="/netcat_files/532/965/3f601b329e5161b103741d83c8598332"></a>
+																	<a href="//rusplt.ru/books/russkoe-otkrovenie-vyu-katasonova/" class="book_text">
+																		Валентин Катасонов широкой общественности больше известен как один из ведущих отечественных экономистов и глава Русского экономического общества им. С.Ф. Шарапова.
+																	</a>
+																	<div class="clearfix"></div>
+																	<div class="books_line"></div>
+																</div>
+															
+																<div class="book">
+																	<a href="//rusplt.ru/books/currency-war/">
+																		<h2>Война валют</h2>
+																	</a>
+																	<a href="//rusplt.ru/books/currency-war/" class="book_image"><img alt="" src="/netcat_files/513/927/ff1712fdbde8a39f21f5d92abf74b21c"></a>
+																	<a href="//rusplt.ru/books/currency-war/" class="book_text">
+																		Книга «Война валют» раскрывает секреты мирового богатства, разоблачает аферистские схемы в системе международных финансов, рассказывает о ранее неизвестных исторических фактах.
+																	</a>
+																	<div class="clearfix"></div>
+																	<div class="books_line"></div>
+																</div>
+																											<div class="book">
+													<a href="http://rusplt.ru/books/books-1_14.html">
+														<h2>Русская доктрина</h2>
+													</a>
+													<a href="http://rusplt.ru/books/books-1_14.html" class="book_image"><img alt="" src="http://rusplt.ru/netcat_files/511/922/h_097d4fece122d23653f0af82fae8c030"></a>
+													<a href="http://rusplt.ru/books/books-1_14.html" class="book_text">
+														Впервые книга увидела свет в 2005 году. За эти «Русская доктрина» пережила не одно издание, всякий раз не залёживаясь на полках книжных магазинов. 
+													</a>
+													<div class="clearfix"></div>
+													<div class="books_line"></div>
+												</div>
+												<div class="book">
+													<a href="http://rusplt.ru/books/books-1_12.html">
+														<h2>Книги Олега Платонова</h2>
+													</a>
+													<a href="http://rusplt.ru/books/books-1_12.html" class="book_image"><img alt="" src="http://rusplt.ru/netcat_files/511/922/h_fa0bc5023c3d400c4ff939948706298b"></a>
+													<a href="http://rusplt.ru/books/books-1_12.html" class="book_text">
+														Многие века сохранявшее строжайшую секретность, общество масонов в последние десятилетия, как кажется, «вышло из сумрака». Теперь члены «братства вольных каменщиков» зачастую не скрывают своей принадлежности к масонству, а порой и открыто его пропагандируют.
+													</a>
+													<div class="clearfix"></div>
+													<div class="books_line"></div>
+												</div>
+												<div class="book">
+													<a href="http://rusplt.ru/books/books-1_13.html">
+														<h2>Высокий Коммунитаризм как Русская идея</h2>
+													</a>
+													<a href="http://rusplt.ru/books/books-1_13.html" class="book_image"><img alt="" src="http://rusplt.ru/netcat_files/511/922/h_a866445076d204882ba0d1ec85bc7b0e"></a>
+													<a href="http://rusplt.ru/books/books-1_13.html" class="book_text">
+														Системный кризис, который с каждым годом обозначается все чётче, стал неизбежным следствием идеологии либерализма, исчерпавшей запас прочности. Коммунизм и фашизм, предложив когда-то собственную версию оптимального мироустройства, не сумели даже в отдельно взятых странах выстроить жизнеспособный «рай на земле» по своим лекалам.
+													</a>
+													<div class="clearfix"></div>
+													<div class="books_line"></div>
+												</div>
+												<div class="book">
+													<a href="http://rusplt.ru/books/books-1_15.html">
+														<h2>Распятая Россия</h2>
+													</a>
+													<a href="http://rusplt.ru/books/books-1_15.html" class="book_image"><img alt="" src="http://rusplt.ru/netcat_files/511/922/h_24338caa0922aa740b090330711acd55"></a>
+													<a href="http://rusplt.ru/books/books-1_15.html" class="book_text">
+														Всемирно признанный великий русский художник Илья Глазунов давно может позволить себе почивать на лаврах, оставаясь в рамках виртуозно освоенного им искусства живописи.
+													</a>
+													<div class="clearfix"></div>
+												</div>
+											</div>
+										</li>
+																				<li id="allRubricsLink"><a class="item3" href="#" id="header_underline_all"><span class="headerIcons headerIcons_Lines"></span><span>Другие рубрики</span></a></li>
+									</ul>
+									<div class="desktop-all-rubrics tablet-all-rubrics">
+										<div class="header_underline_all_rubrics device-move" data-mobileMoveTo="mobile-all-rubrics" data-tabletMoveTo="tablet-all-rubrics" data-desktopMoveTo="desktop-all-rubrics">
+											<a class="ClickNew" data-cn="ChessSchool" href="http://rusplt.ru/shkola-shahmat/">Школа шахмат</a>
+											<a class="ClickNew" data-cn="HeaderZaodno"  href="http://rusplt.ru/zaodno/">С нами заодно</a>
+											<a class="ClickNew" data-cn="HeaderZaodno"  href="http://rusplt.ru/geroi-nashego-vremeni/">Герои нашего времени</a>
+																						<a class="ClickNew" data-cn="HeaderOborona"  href="http://rusplt.ru/sub/defense/">Оборона</a>											<a class="ClickNew" data-cn="HeaderArchive" href="http://rusplt.ru/o/archive/">Популярное в Интернете</a>
+											<a class="ClickNew" data-cn="HeaderSport" href="http://rusplt.ru/sub/sport/">Спорт</a>										
+										</div>
+									</div>
+								</nav>
+
+																	<a class="profile reachGoal input ClickNew" data-cn="LeftMenu" data-ct="Вход" data-goal="LeftMenu" href="#"><div class="enterIco"></div></a>
+								
+								<a class="search reachGoal ClickNew" data-cn="Header" data-ct="Поиск" data-goal="Header" title="Поиск" href="#"></a>
+
+								<div class="searchBlock">
+									<form method="get" class="reachGoal" data-goal="Поиск (header)" action="http://rusplt.ru/search/">
+										<input type="hidden" name="by_city" value="site1">
+										<input name="q" id="search_query" autocomplete="off" type="text" placeholder="Искать статьи, новости" />
+										<a href="#" class="close" title="Закрыть"></a>
+										<button type="submit" value=""></button>
+										
+										<div class="header_search">
+											<div class="search_select_holder">
+												<span id="open_rubrics">Рубрики<b></b></span>
+												<div class="search_select">
+												
+													<input type="checkbox" name="category_rubrics[]" value="20" id="category_rubrics-1" />
+													<label class="search_check" for="category_rubrics-1">Новости</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="50" id="category_rubrics-2" />
+													<label class="search_check" for="category_rubrics-2">Оборона</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="54" id="category_rubrics-3" />
+													<label class="search_check" for="category_rubrics-3">История</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="51" id="category_rubrics-4" />
+													<label class="search_check" for="category_rubrics-4">Наука и технологии</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="80" id="category_rubrics-5" />
+													<label class="search_check" for="category_rubrics-5">Суд</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="81" id="category_rubrics-6" />
+													<label class="search_check" for="category_rubrics-6">Власть</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="82" id="category_rubrics-7" />
+													<label class="search_check" for="category_rubrics-7">Книги</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="215" id="category_rubrics-8" />
+													<label class="search_check" for="category_rubrics-8">Происшествия</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="85" id="category_rubrics-9" />
+													<label class="search_check" for="category_rubrics-9">Закон</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="396" id="category_rubrics-10" />
+													<label class="search_check" for="category_rubrics-10" style="line-height:24px;">Классики о современной России</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="86" id="category_rubrics-11" />
+													<label class="search_check" for="category_rubrics-11">Исследования</label>
+																										<input type="checkbox" name="category_rubrics[]" value="38" id="category_rubrics-13" />
+													<label class="search_check" for="category_rubrics-13">Репортаж</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="387" id="category_rubrics-14" />
+													<label class="search_check" for="category_rubrics-14">Культура</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="39" id="category_rubrics-15" />
+													<label class="search_check" for="category_rubrics-15">Интервью</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="92" id="category_rubrics-16" />
+													<label class="search_check" for="category_rubrics-16">Религия</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="89" id="category_rubrics-17" />
+													<label class="search_check" for="category_rubrics-17">Образование</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="155" id="category_rubrics-18" />
+													<label class="search_check" for="category_rubrics-18">Терроризм</label>
+											
+													<input type="checkbox" name="category_rubrics[]" value="245" id="category_rubrics-19" />
+													<label class="search_check" for="category_rubrics-19">Некролог</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="526" id="category_rubrics-20" />
+													<label class="search_check" for="category_rubrics-20">Архив популярного</label>
+													
+												</div>
+											</div>
+											
+											<div class="search_select_holder">
+												<span id="open_projects">Спецпроекты<b></b></span>
+												<div class="search_select">
+												
+													<input type="checkbox" name="category_rubrics[]" value="517" id="category_projects-1" />
+													<label class="search_check" for="category_projects-1">Русские победы</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="388" id="category_projects-2" />
+													<label class="search_check" for="category_projects-2">Сделано Русскими</label>
+																										<input type="checkbox" name="category_rubrics[]" value="507" id="category_projects-4" />
+													<label class="search_check" for="category_projects-4">Экологический контроль</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="514" id="category_projects-5" />
+													<label class="search_check" for="category_projects-5">Рубежи Русской планеты</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="505" id="category_projects-6" />
+													<label class="search_check" for="category_projects-6">Digest</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="535" id="category_projects-7" />
+													<label class="search_check" for="category_projects-7">С нами заодно</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="560" id="category_projects-8" />
+													<label class="search_check" for="category_projects-8">Русские игры</label>
+													
+													<input type="checkbox" name="category_rubrics[]" value="529" id="category_projects-9" />
+													<label class="search_check" for="category_projects-9">Наша вера</label>
+
+												</div>
+											</div>
+											<input type="submit" value="" class="search_select_btn" />
+											<input type="hidden" name="category" value="" class="category_hidden" />
+										</div>
+									</form>
+																
+									
+										
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="clear hide-at-1000"></div>
+
+
+				
+				<div class="desktop-search"></div>
+				<div class="sub_line hide-at-1000">
+					<div style="position:absolute; background: url('/images/rusplt2/shapka2.jpg') center 0 no-repeat; z-index:0; top: 0; width: 100%; height: 100%;"></div>					<div class="inner">
+
+						
+						<a class="logo upper reachGoal" data-goal="Header" title="Rusplt.ru" href="http://rusplt.ru"></a>
+						
+												
+
+											<a class="sub  reachGoal" data-goal="Header" title="В мире" href="/world/">
+														В мире						</a>
+											
+																	<a class="digest games right not_main ClickNew" href="http://rusplt.ru/russian-games/">Русские игры</a>
+										
+					
+												
+													<!--<a class="header_link rus_news" title="Русские новости" href="http://rusplt.ru/news/">Русские новости</a>-->
+														<a class="header_link big_country left not_main ClickNew" data-cn="HeaderBigCountry" title="Большая страна" href="#">Большая страна</a>
+											</div>
+				</div>
+
+							<div class="mob_open_list_holder noborder-500 header_underline_holder">
+					<div class="mob_open_list" data-open-on-mobile="header_underline" id="header_underline_opener">Спецпроекты</div>
+						<div class="header_underline">
+							<div class="inner">
+								<ul>
+									<li>
+										<a class="ClickNew" data-cn="HeaderRubeji" href="http://rusplt.ru/rubeji/" id="header_underline_10">
+											Рубежи РП
+										</a>
+									</li>
+									<li>										
+										<a class="ClickNew" data-cn="HeaderRusmade" href="http://rusplt.ru/umnaya-rossiya/?tab=1" id="header_underline_4">
+											Умная <span>Россия</span>
+										</a>
+									</li>
+									<li>
+										<a class="ClickNew" data-cn="HeaderWins" href="http://rusplt.ru/avto-moto/" id="header_underline_13">
+											Авто/мото
+										</a>
+									</li>
+									<li>
+										<a class="ClickNew" data-cn="HeaderPodari" href="http://rusplt.ru/rustravelclub/" id="header_underline_17">
+											<span>Клуб<br>выдающихся<br>достижений</span>
+										</a>
+									</li>
+									<li class="max_width110">
+										<a class="ClickNew" data-cn="HeaderBezopasnost" href="http://rusplt.ru/chas-bezopasnosti/" id="header_underline_9">
+											Безопасность
+										</a>
+									</li>
+									<li>
+										<a class="ClickNew" data-cn="HeaderChurch" href="http://rusplt.ru/church/" id="header_underline_12">
+											Наша <span>вера</span>
+										</a>
+									</li>
+																		<li>
+										<a class="ClickNew" data-cn="HeaderKanikuly" href="http://rusplt.ru/kanikuly-v-istoriyu/" id="header_underline_14">
+											Каникулы <span>в историю</span>
+										</a>
+									</li>									
+									<li>
+										<a class="ClickNew" data-cn="HeaderHealth" href="http://rusplt.ru/zdorove/" id="header_underline_16">
+											Здоровье
+										</a>
+									</li>									
+									<li class="big_country_holder">
+										<a class="ClickNew header_link big_country" data-cn="HeaderBigCountry">
+											Большая <span>страна</span>
+										</a>
+									</li>
+								</ul>								
+							</div>
+						</div>
+				</div>
+				
+				<div class="mob_open_list_holder other_rubrics">
+					<div class="mob_open_list" data-open-on-mobile="all-rubrics">Другие рубрики</div>
+					<div class="all-rubrics mobile-all-rubrics"></div>
+				</div>
+				
+				<div class="mob_open_list_holder big_country">
+					<div class="mob_open_list ClickNew header_link big_country" data-cn="HeaderBigCountry">Большая <span>страна</span></div>
+				</div>
+
+						
+				<div class="mobile_logo"></div>
+
+				<a id="goTop" class="sprite_before" href="#" title="Наверх"></a>
+			</header>
+			
+			<div class="mobile-search"></div>
+			<div class="tablet-search"></div>
+
+			<section id="content" class="bannersShift
+			                												">
+				                
+			<div class="grid--container">
+                        			<div class="grid--row">
+							<div class="bannerPlace12">
+					<ins><!-- Yandex.RTB R-A-190485-1 -->
+<div id="yandex_rtb_R-A-190485-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-190485-1",
+                renderTo: "yandex_rtb_R-A-190485-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+</ins>
+				</div>
+							
+			<div class="grid--4 grid-tablet--6">
+								
+				<!-- LEFT SIDE BANNER -->
+				<div class="b-bnr-place b-bnr-place__left">
+					<div class="b-bnr-place-inner b-bnr-place-inner__hd js-bannerRotator" data-id="19">
+						<ins><div class="bannerRotator">
+    <a href="http://rusplt.ru/wins/"><img src="/images/banners/banner_RW2.jpg"></a>
+</div>
+<div class="bannerRotator">
+    <a href="http://rusplt.ru/books/currency-war/"><img src="/images/banners/war.png"></a>
+</div>
+
+</ins>								
+					</div>
+				</div>
+				<!-- END LEFT SIDE BANNER -->
+
+				<!-- RIGHT SIDE BANNER /обновлено -->
+				<div class="b-bnr-place b-bnr-place__right">
+					<div class="b-bnr-place-inner">
+												<div class="js-bannerRotator" data-id="9">
+							<div class="bannerRotator">
+    <a target="_blank" href="https://vk.com/russianimp"><img src="/images/banners/facts.png"></a>
+</div>
+
+
+						</div><br><br><br>
+						<div>
+													</div><br><br><br>
+													<div class="js-bannerRotator" data-id="12">
+								<!--AdFox START-->
+<!--rusplt12-->
+<!--Площадка: rusplt.ru / * / *-->
+<!--Тип баннера: 240x400 правое поле 2 баннер сквозное-->
+<!--Расположение: <верх страницы>-->
+<!-- ________________________AdFox Asynchronous code START__________________________ --> 
+<script type="text/javascript"> 
+<!--
+if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295) + 1; }
+if (typeof(document.referrer) != 'undefined') {
+  if (typeof(afReferrer) == 'undefined') {
+    afReferrer = encodeURIComponent(document.referrer);
+  }
+} else {
+  afReferrer = '';
+}
+var addate = new Date();
+
+
+var dl = encodeURIComponent(document.location);
+var pr1 = Math.floor(Math.random() * 4294967295) + 1;
+
+document.write('<div id="AdFox_banner_'+pr1+'"></div>');
+document.write('<div style="visibility:hidden; position:absolute;"><iframe id="AdFox_iframe_'+pr1+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0></iframe></div>');
+
+AdFox_getCodeScript(1,pr1,'//ads.adfox.ru/202474/prepareCode?pp=g&amp;ps=bezd&amp;p2=fjff&amp;pct=a&amp;plp=a&amp;pli=a&amp;pop=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;dl='+dl+'&amp;pr1='+pr1);
+// -->
+</script> 
+<!-- _________________________AdFox Asynchronous code END___________________________ -->
+
+							</div><br><br><br>
+												<div class="js-bannerRotator" data-id="11">
+							<div class="bannerRotator">
+<a href="http://rusplt.ru/rustravelclub/" target="_blank"><img src="/netcat_files/userfiles4/kvdbanner2.gif"/></a>
+</div>
+
+
+						</div><br><br><br>
+						<div>
+							
+
+								
+						</div>
+					</div>
+				</div>				
+				<section class="mainCol ">
+				
+				
+											<div data-placeAfter="2" class="js-bannerReplace bannerPlace31">
+							<ins><!-- Yandex.RTB R-A-190485-5 -->
+<div id="yandex_rtb_R-A-190485-5"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-190485-5",
+                renderTo: "yandex_rtb_R-A-190485-5",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+</ins>
+						</div>
+												<div data-placeAfter="7" class="js-bannerReplace bannerPlace32">
+							<ins><!-- Yandex.RTB R-A-190485-6 -->
+<div id="yandex_rtb_R-A-190485-6"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-190485-6",
+                renderTo: "yandex_rtb_R-A-190485-6",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+</ins>
+						</div>
+											
+										
+
+
+		
+
+					<img style="position: absolute;left:0;right: 0;opacity: 0;" src="/code/statistic_rusplt.php?action=viewPost&RowID=18323&cache=148783576591463" />
+					<script type='text/javascript' src='/js/statistic.js'></script>
+					<script>
+											</script>
+
+
+					<div id="article" >
+
+						<div class="article-container disableBorder">
+
+							<div id="rusplt_article" class="article-body-container">
+
+								<div class="social-line">
+									<div class="details slim">
+										<span class="dot"></span><a href="http://rusplt.ru/authors/authors_826.html">Игорь Молотов</a>&nbsp;/&nbsp;<span class="date" data-timestamp="1439390400">12 августа 2015, 17:40</span>
+										<div class="rubrics">
+											<a href="/world/" title="В мире">В мире</a>, <a href="/sub/authority/" title="Власть">Власть</a>										</div>
+									</div>
+
+									
+			<div class="share_buttons" data-url="http://rusplt.ru/world/ssha-pokupayut-voynu-v-tadjikistane-18323.html" data-title="США покупают войну в Таджикистане" data-img="http://rusplt.ru/netcat_files/79/127/tadzhikistan_620.jpg" data-text="Белый дом активизировал политику по вытеснению Москвы из региона, вливая в республику миллионы долларов">
+			<a class="fb ClickNew" data-cn="PostPage" data-ct="TopFacebook" href="#" title=""><span class="cnt load"></span></a>
+			<a class="vk ClickNew" data-cn="PostPage" data-ct="TopVkontakte" href="#" title=""><span class="cnt load"></span></a>
+			<a class="tw ClickNew" data-cn="PostPage" data-ct="TopTwitter" href="#" title=""><span class="cnt load"></span></a>
+			<a class="ok ClickNew" data-cn="PostPage" data-ct="TopOdnoklassniki" href="#" title=""><span class="cnt load"></span></a>
+		</div>								</div>
+
+								<div class="title">США покупают войну в Таджикистане</div>
+
+																	<div class="main-image">
+										<img src="/netcat_files/79/127/620x407/tadzhikistan_620.jpg" width="620" height="407" alt="Благотворительные инициативы США в Таджикистане нацелены на более масштабное вовлечения Душанбе в проект Вашингтона. Фото: Амир Исаев, STR/ РИА Новости" title="Благотворительные инициативы США в Таджикистане нацелены на более масштабное вовлечения Душанбе в проект Вашингтона" />
+										<div class="authorPhoto"><p>Благотворительные инициативы США в Таджикистане нацелены на более масштабное вовлечения Душанбе в проект Вашингтона. Фото: Амир Исаев, STR/ РИА Новости</p></div>									</div>
+								
+								<h1 class="subtitle">Белый дом активизировал политику по вытеснению Москвы из региона, вливая в республику миллионы долларов</h1>
+
+								
+								<div class="body">
+								
+																														<div class="twitter_w" style="display:inline-block;margin:0px 20px 20px 20px;width:260px;vertical-align:top;float:right;">
+												<div class="fb-page" data-href="https://www.facebook.com/rusplt" data-tabs="timeline" data-width="280" data-height="400" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/rusplt"><a href="https://www.facebook.com/rusplt">Русская планета</a></blockquote></div></div>
+											</div>											
+																												
+																		<sjdiv id="SlickJumpNativeAds-cuiwwfouk"></sjdiv>
+									<script>
+										(function() {
+											function a() {
+												var proto =  ('https:' == document.location.protocol ? 'https' : 'http'); 
+												var a = document.getElementsByTagName("script")[0], sj = document.createElement("script");
+												sj.async = !0;
+												sj.type = 'text/javascript';
+												sj.src = proto + "://sjsmartcontent.org/static/plugin-site/js/sjplugin.js";
+												sj.setAttribute("site", "2n2prrl1hx31kzeo823");
+												a.parentNode.insertBefore(sj, a);
+											}
+											window.addEventListener ? window.addEventListener("DOMContentLoaded", a, !1) : window.attachEvent ? window.attachEvent("onDomReady", a) : window.onDomReady = a;
+										})();
+									</script>
+								
+																			
+								
+								
+									
+									<p>Вашингтон продолжает следовать курсом мягкого вытеснения РФ из Центральной Азии. 12 августа Соединенные Штаты передали Агентству по контролю за наркотиками (АКН) Таджикистана спецоборудование стоимостью свыше $1 млн. Об этом сообщило американское посольство в Душанбе. В июле силовики получили в подарок от США 87 автомобилей примерной стоимостью $5,7 млн.</p>
+
+<p>«Посольство США передало на безвозмездной основе 975 единиц тактического оборудования Агентству по контролю за наркотиками при президенте Республики Таджикистан, Главному управлению пограничных войск Государственного комитета национальной безопасности и Национальной гвардии. Переданное тактическое оборудование демонстрирует неизменную приверженность Соединенных Штатов борьбе с незаконным оборотом наркотиков» — говорится в сообщении диппредставительства.</p>
+
+<p>Как сообщает «Интерфакс», на США в 2014 году пришлось 56,5% всей поступившей в Таджикистан из-за рубежа международной помощи — $32,7 млн. Всего же за годы независимости республики США оказали ей помощь на сумму более одного миллиарда долларов.</p>
+
+<p>Взамен столь щедрых вливаний в экономику Белый дом может предложить военное сотрудничество в рамках размещения военных баз и других объектов на территории республики. На протяжении уже десяти лет некоторые американские политики весьма серьезно продвигают идею о необходимости замены российской военной базы в Таджикистане на американскую.</p>
+
+<p>Летом 2012 года в столице республики прошла встреча президента Эмомали Рахмона с американскими конгрессменами, которые льстили таджикистанскому руководителю и рассказывали о своих далеко идущих планах.</p>
+
+<p>«Нам нужны очень сильные стратегические партнеры, как Таджикистан. Вы имеете довольно протяженную границу с Афганистаном, и в случае закрытия базы "Манас" нам потребуется новый транзитный центр. Нам необходима база для проведения операций в случае возникновения продвижения боевиков в Афганистан», — заявил глава американской делегации Дэн Бертон.</p>
+
+<p>Согласно докладу «Американские стратегические цели в Таджикистане», подготовленному фондом «Евразия Центральной Азии», в первую очередь США важны собственные геополитические интересы, несмотря на многочисленные заявления о фокусе на региональную экономическую интеграцию, гражданское общество, местное управление, развитие и демократию. Хотя и эти вопросы тоже имеют место быть в случае несговорчивости Рахмона.</p>
+
+<p>«Цель США — это поддержание военного присутствия в как можно большем количестве стран вокруг Афганистана. На востоке, в Пакистане США поддерживают базы беспилотных самолетов и войска особого назначения в рамках сотрудничества с правительством страны. Но на севере, в Центральной Азии американское присутствие намного меньше. Но правительство США, скорее всего, будет увеличивать свое присутствие в регионе», — указано в докладе.</p>
+
+<p>По мнению аналитиков, в будущем американское присутствие в регионе будет только усиливаться. Причины: возрастающее влияние РФ на государства Центральной Азии (ЦА), нестабильная ситуация в Таджикистане и потенциальные военные кризисы в ЦА и на Ближнем Востоке.</p>
+
+<p>Политолог Козим Метенов поясняет, что американцы прекрасно отдают себе отчет в том, кто такой Рахмон на самом деле и насколько сильна его власть. Поэтому им нисколько не претит всячески обхаживать не только Рахмона, но и приближенную к нему таджикскую элиту, способную провести на пост президента нового и проамерикански настроенного лидера.</p>
+
+<p><img alt="Мишель Обама, Эмомали Рахмон  и Барак Обама (слева направо)" src="http://rusplt.ru/netcat_files/userfiles4/1_August_2015/tadzhikistan_vrez1_600.jpg" style="width: 600px; height: 400px;" /></p>
+
+<pre>Мишель Обама, Эмомали Рахмон и Барак Обама (слева направо). Источник: Official White House Photo by Lawrence Jackson</pre>
+
+<p>«Развитие таджикско-американских взаимоотношений носит точечный характер, направленный на решение стратегических задач. Фактически инициативы Соединенных Штатов нацелены на снижение влияния России в Таджикистане и в других республиках Центральной Азии, сдерживание развития таджикско-иранских отношений на фоне более масштабного вовлечения Душанбе в проект Вашингтона в Афганистане», — считает эксперт.</p>
+
+<p><strong>«Мы будем, как и раньше, поддерживать демократию»</strong></p>
+
+<p>Заместитель помощника государственного секретаря по Центральной Азии Бюро по делам Южной и Центральной Азии Госдепартамента США Дэниэл Розенблюм сказал, что для Вашингтона очень важен регион — «это означает очень многое для нас самих и для наших национальных интересов». По его словам, месторасположение стран, которые находятся на перекрестке между Азией и Европой и граничат с очень большими и важными государствами, с которыми Соединенные Штаты имеют  взаимоотношения, очень важно для США.</p>
+
+<p>«Мы будем, как и раньше, поддерживать независимость, суверенитет, а также территориальную целостность каждой центральноазиатской страны. Мы не претендуем на исключительность. Мы не требуем от стран Центральной Азии, что они должны взаимодействовать только с нами, только с Соединенными Штатами Америки», — двусмысленно заявил представитель Госдепа.</p>
+
+<p>Руководитель Уральского регионального информационно-аналитического центра РИСИ Дмитрий Попов сообщил: анализ бюджетных запросов Госдепартамента показывает, что в 2016 году основная часть средств, выделяемых в рамках американских программ общественно-политического толка, будет направляться на Кыргызстан и Таджикистан. Например, по статье «Экономическая поддержка» (Economic Support Fund), по которой в последние годы осуществляется финансирование местных институтов гражданского общества в регионе, в 2016 году на КР планируется выделить $41,5 млн, на Таджикистан — $22,9 млн. Дополнительно к ним пойдут выплаты по линии спецслужб США, частных американских фондов, союзных европейских структур, которые нередко превышают размеры поддержки от Госдепартамента.</p>
+
+<p>«Задача ограничения влияния России в Центральной Азии никогда не снималась с повестки дня американских внешнеполитических и специальных служб, действующих в этом регионе. Кыргызстан и Таджикистан более восприимчивы к внешнему воздействию и все сильнее вовлекаются Россией в интеграционные процессы. С этой целью Штатами запущены и реализуются масштабные программы подготовки интернет-активистов, разрабатывается специализированное программное и аппаратное обеспечение, создаются международные структуры и общественные объединения интернет-журналистов, блогеров», — заключил эксперт.</p>
+
+<p><strong>Деньги на войну</strong></p>
+
+<p>Щедрые финансовые вливания в регион вызывают определенную озабоченность, поскольку перенос ближневосточного конфликта в Центральную Азию не раз анонсировался ангажированными группировками боевиков, в том числе амирами «Исламского государства», которое уже успешно вошло в Афганистан, граничащий с Таджикистаном. И не просто граничащий: у Таджикистана самая протяженная из стран СНГ общая граница с Афганистаном — 1344 км.</p>
+
+<p>Возможной причиной обострения ситуации в Таджикистане может послужить и известие о смерти муллы Омара, случившейся ровно в то время, когда «Талибан» начал активное противостояние с арабскими наемниками из Леванта и Шама. Неизбежное ослабление «Талибана», связанное со смертью одиозного лидера, с разной степенью успеха противостоявшего натиску «Исламского государства» и сохранявшего относительный статус-кво в балансе между зонами влияния радикалов и правительственной армии, может привести к стремительной вооруженной эскалации, которая быстро перекинется на соседние республики.</p>
+
+<p><img alt="Возможным обострением ситуации в Таджикистане может послужить и известие о смерти Муллы Омара" src="http://rusplt.ru/netcat_files/userfiles4/1_August_2015/tadzhikistan_vrez2_600.jpg" style="width: 600px; height: 400px;" /></p>
+
+<pre>Возможным обострением ситуации в Таджикистане может послужить и известие о смерти Муллы Омара. Фото: Rahmat Gul/AP</pre>
+
+<p>Это подтверждают и в Госкомитете национальной безопасности Таджикистана (ГКНБ). По их информации, на афгано-таджикской границе отмечается скопление группировок боевиков численностью от 4,5 до 5 тысяч человек. По имеющимся данным, моджахеды развернулись на бадахшанском и кундузском направлениях. Вероятнее всего, вооруженные формирования входят в террористическую организацию «Исламское государство» и различные религиозные группировки, которые, так или иначе, работают на одного заказчика.</p>
+
+<p>О вероятных планах по втягиванию России в конфликт с «Исламским государством» известно давно. По мнению члена Общественной палаты РФ Георгия Федорова, главной  целью некоторых наших «заклятых партнеров» является дестабилизация РФ, в том числе через «поджигание» наших соседей. По словам политика, Таджикистан является одной из самых уязвимых точек в этом отношении, так что факт концентрации боевиков на границе с Афганистаном никого не удивляет.</p>
+
+<p>«Натовский контингент прочно увяз в Афганистане, а американцы, как известно, большие мастера в области специальных операций, так что уменьшение давления боевиков на своих военных путем переключения исламистов на иную цель полностью укладывается в их образ действий. К тому же невозможно не заметить, как часто происходит совпадение между возникновением радикальных экстремистских сил — "Аль-Каиды", ИГ — и интересами Соединенных Штатов. Так что сосредоточение исламистов из ИГ на афгансо-таджикской границе совсем неудивительно», — отметил Георгий Федоров.</p>
+
+<p>Принимая щедрые подарки от Вашингтона, Эмомали Рахмон рискует открыть ворота для троянских коней, с одной стороны, и погонщиков в тюрбанах — с другой. Оба варианты могут стать для Таджикистана фатальными. Ни для кого не секрет, что для большинства коррумпированных режимов Центральной Азии вопросы национальной безопасности никогда не были приоритетными, если речь шла о деньгах или получении иных льгот. Другое дело, что грядущие потрясения в центральноазиатских республиках напрямую создают угрозу России, ведь ей придется отдуваться за всю ОДКБ. В этой ситуации можно только разводить руками или предпринимать шаги по реальной интеграции республик в состав единого пространства. Но разводить руками как-то привычней.</p>									
+									
+									
+																		
+																		<a class="other-article ClickNew" data-cn="PostPage" data-ct="Далее в рубрике" href="http://rusplt.ru/world/strasti-po-shpitsbergenu-18309.html" title="Страсти по Шпицбергену">
+									
+										<img src="/netcat_files/79/127/78x52/shpizbergen_620.jpg" width="78" height="52" alt="Страсти по Шпицбергену">
+									
+									<span>Далее в рубрике</span>
+									<b>Страсти по Шпицбергену</b>Норвегия пытается ограничить доступ представителей России на архипелаг из-за санкций
+								 </a>										<a target="_blank" id="readInRubric" class="other-article ClickNew" data-cn="PostPage" data-ct="Читать в рубрике" href="http://rusplt.ru/society/moskva-proschaetsya-pyatietajkami-29273.html" title="Москва прощается с пятиэтажками">
+                                            <span>Читайте в рубрике «Власть»</span>
+                                            <b>Москва прощается с пятиэтажками</b>Чтобы избавиться от последствий градостроительных ошибок в будущем – нужно не совершать их в настоящем
+                                            
+												<img src="/netcat_files/52/104/78x52/RIAN_00127086.HR.ru.jpg" width="78" height="52" alt="Москва прощается с пятиэтажками">
+											
+                                         </a>									
+								
+								                                
+                                </div>
+
+								<div class="clear"></div>
+								
+									<div class="intuit_html5_banner">
+										<iframe src="/images/banners/intuit_html5/index.html"></iframe>
+									</div>
+								
+									<div class="social-line i2">
+										<a class="to-comments open_comments" href="#comments" title="Комментарии">Комментарии (14)</a>
+										<span class="js-intuitButtonContainer" data-type="article" data-id="18323"></span>
+																				<div class="pullRight">
+											
+			<div class="share_buttons" data-url="http://rusplt.ru/world/ssha-pokupayut-voynu-v-tadjikistane-18323.html" data-title="США покупают войну в Таджикистане" data-img="http://rusplt.ru/netcat_files/79/127/tadzhikistan_620.jpg" data-text="Белый дом активизировал политику по вытеснению Москвы из региона, вливая в республику миллионы долларов">
+			<a class="fb ClickNew" data-cn="PostPage" data-ct="BottomFacebook" href="#" title=""><span class="cnt load"></span></a>
+			<a class="vk ClickNew" data-cn="PostPage" data-ct="BottomVkontakte" href="#" title=""><span class="cnt load"></span></a>
+			<a class="tw ClickNew" data-cn="PostPage" data-ct="BottomTwitter" href="#" title=""><span class="cnt load"></span></a>
+			<a class="ok ClickNew" data-cn="PostPage" data-ct="BottomOdnoklassniki" href="#" title=""><span class="cnt load"></span></a>
+		</div>										</div>
+									</div>
+									
+									<div id="comments" class="hidden_comments">
+										<script src='/netcat/modules/comments/comments.js' type='text/javascript' language='JavaScript'></script>
+<script language='JavaScript' type='text/javascript' src='/netcat/admin/js/bbcode.js'></script>
+<script type='text/javascript'>
+nc_commentsObj127_18323 = new nc_Comments({
+        'message_cc':'127',
+        'message_id':'18323',
+        'template_id':'2',
+        'add_block':escape("<div class=\"commentWrite\">	<div class=\"yourComment\">Ваш комментарий</div>	<div class=\"defaultAva\"><a href=\"http://rusplt.ru/profile/\" title=\"Личный кабинет: \"></a></div>	<textarea id=\"%TEXTAREA_ID\" name=\"%TEXTAREA_ID\" placeholder=\"Введите текст комментария...\">%TEXTAREA_VALUE</textarea>	<div class=\"buttons\">		<button id=\"%SUBMIT_BUTTON_ID\" name=\"%SUBMIT_BUTTON_ID\">Отправить</button>		<button onclick=\"%CANCEL_BUTTON_ACTION\" id=\"%CANCEL_BUTTON_ID\" name=\"%CANCEL_BUTTON_ID\">Отмена</button>	</div></div>"),
+        'edit_block':escape("<div class=\"commentWrite commentEdit\">	<textarea id=\"%TEXTAREA_ID\" name=\"%TEXTAREA_ID\">%TEXTAREA_VALUE</textarea>	<div class=\"buttons\">		<button id=\"%SUBMIT_BUTTON_ID\" name=\"%SUBMIT_BUTTON_ID\">Обновить</button>		<button onclick=\"%CANCEL_BUTTON_ACTION\" id=\"%CANCEL_BUTTON_ID\" name=\"%CANCEL_BUTTON_ID\">Отмена</button>	</div></div>"),
+        'delete_block':escape("<div class=\"commentWrite\">	<p><b>- Ваш комментарий будет удален!</b></p><br/>	<div class=\"clear\"></div>	<div class=\"buttons\">		<button id=\"%SUBMIT_BUTTON_ID\" name=\"%SUBMIT_BUTTON_ID\">Удалить</button>		<button onclick=\"%CANCEL_BUTTON_ACTION\" id=\"%CANCEL_BUTTON_ID\" name=\"%CANCEL_BUTTON_ID\">Отмена</button>	</div></div>"),
+        'last_updated':'1487835765',
+        'MODULE_PATH':'/netcat/modules/comments/',
+        'LOADING':'Подождите, идёт загрузка...',
+        'SUBSCRIBE_TO_ALL':'подписаться на все комментарии',
+        'UNSUBSCRIBE_FROM_ALL':'отписаться от всех комментариев',
+        'edit_access':'enable',
+        'delete_access':'enable',
+        'all_comments_id':[245102, 245136, 245210, 245243, 245270, 245368, 245387, 246096, 246098, 246099, 246318, 246464, 246467, 246475],
+        'show_addform':'1',
+        'show_name':'1',
+        'show_email':'0',
+        'premoderation':'0',
+        'sorting':'0',
+        'premodtext':escape(""),
+        'new_comments_id':[245102, 245136, 245210, 245243, 245270, 245368, 245387, 246096, 246098, 246099, 246318, 246464, 246467, 246475]
+      });
+</script>
+<div id="nc_commentID127_18323_0" class="nc_comments">
+	<h3 class="block-name">Комментарии</h3> <div id='nc_commentID127_18323_245102' class='loadRating comment'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_63252.html' title='Профиль пользователя Варвара'>
+
+				<img src='/netcat_files/u/ZJ__8glbh4k.jpg' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+
+				<a href="http://rusplt.ru/users/user_63252.html" title="Профиль пользователя Варвара">Варвара</a>
+
+
+                
+			</div>
+
+			<div class='commentDate'>12 августа 2015, 19:31</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'><span id='nc_commentText127_18323_245102'>Американцы не стесняются поставлять в бывшие республики СССР тысячи тонн &quot;дипломатической почты&quot; и стараются развернуть интересы этих республик подальше от России. Это ясно и видно всем &quot;невооружённым глазом&quot;. Надеюсь Таджикское правительство, как и правительства остальных постсоветских республик, это хорошо понимают и судьба Украины их не прельщает.</span></div>
+		<div class='actions'>   </div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlock'>
+
+		<div id='nc_commentID127_18323_246099' class='loadRating comment reply level-1'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_386.html' title='Профиль пользователя Виктор Ботинок'>
+
+				<img src='/netcat_files/u/d51431c2e79ad61cfe6a0ae262f642ef_normal.jpeg' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+				<a href='http://rusplt.ru/users/user_386.html' title='Профиль пользователя Виктор Ботинок'>
+
+					Виктор Ботинок
+
+				</a>
+                
+
+			</div>
+
+			<div class='commentDate'>18 августа 2015, 10:32</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'><span id='nc_commentText127_18323_246099'>Там другой интерес. Наркотики. Думаете, зря США столько лет Афганистан окучивали? Прибрали к рукам все потоки, теперь вот в странах-транзитерах договариваются. На фото с Обамой и Мишелью лицо Рахмона о многом говорит</span></div>
+
+		<div class='actions'>   </div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlockLevel'>
+
+		
+
+	</div>
+
+</div>
+
+	</div>
+
+</div> <div id='nc_commentID127_18323_245136' class='loadRating comment'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_1149.html' title='Профиль пользователя Джоли Головач'>
+
+				<img src='/netcat_files/u/0_a0710_3028176d_XL_0.jpg' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+
+				<a href="http://rusplt.ru/users/user_1149.html" title="Профиль пользователя Джоли Головач">Джоли Головач</a>
+
+
+                
+			</div>
+
+			<div class='commentDate'>13 августа 2015, 00:14</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'><span id='nc_commentText127_18323_245136'>Таджикистан уже давно под Китаем ходит и Россия с Америкой могут только на крошки со стола расчитывать, ну нам еще дешевая рабочая сила в лице таджиков перепала, а в  оастальном все сливки китайцы затянут</span></div>
+		<div class='actions'>   </div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlock'>
+
+		
+
+	</div>
+
+</div> <div id='nc_commentID127_18323_245210' class='loadRating comment'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_63796.html' title='Профиль пользователя Глухарь Якунина'>
+
+				<img src='/netcat_files/u/71a7c17fe6df832d073813da821f8685d0a61c10.jpg' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+
+				<a href="http://rusplt.ru/users/user_63796.html" title="Профиль пользователя Глухарь Якунина">Глухарь Якунина</a>
+
+
+                
+			</div>
+
+			<div class='commentDate'>13 августа 2015, 10:09</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'><span id='nc_commentText127_18323_245210'>&quot;Мы, как и раньше, будем нести хаос и разруху&quot; было бы точнее сказать американцам.</span></div>
+		<div class='actions'>   </div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlock'>
+
+		<div id='nc_commentID127_18323_245387' class='loadRating comment reply level-1'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_2928.html' title='Профиль пользователя Чернореченский Трамал'>
+
+				<img src='/netcat_files/u/Putin_v_zelenom.jpg' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+				<a href='http://rusplt.ru/users/user_2928.html' title='Профиль пользователя Чернореченский Трамал'>
+
+					Чернореченский Трамал
+
+				</a>
+                
+
+			</div>
+
+			<div class='commentDate'>13 августа 2015, 22:19</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'><span id='nc_commentText127_18323_245387'>они сейчас во внешнеполитической сфере только таким образом и работают</span></div>
+
+		<div class='actions'>   </div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlockLevel'>
+
+		<div id='nc_commentID127_18323_246098' class='loadRating comment reply level-2'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_386.html' title='Профиль пользователя Виктор Ботинок'>
+
+				<img src='/netcat_files/u/d51431c2e79ad61cfe6a0ae262f642ef_normal.jpeg' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+				<a href='http://rusplt.ru/users/user_386.html' title='Профиль пользователя Виктор Ботинок'>
+
+					Виктор Ботинок
+
+				</a>
+                
+
+			</div>
+
+			<div class='commentDate'>18 августа 2015, 10:30</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'><span id='nc_commentText127_18323_246098'>Если во всем мире наступит мир и стабильность, кто тогда захочет иметь дело с заносчивой и склочной Америкой? </span></div>
+
+		<div class='actions'>   </div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlockLevel'>
+
+		
+
+	</div>
+
+</div>
+
+	</div>
+
+</div>
+
+	</div>
+
+</div> <div id='nc_commentID127_18323_245243' class='loadRating comment'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_308.html' title='Профиль пользователя keeponmoving'>
+
+				<img src='/netcat_files/u/131967305942820d38522e4.gif' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+
+				<a href="http://rusplt.ru/users/user_308.html" title="Профиль пользователя keeponmoving">keeponmoving</a>
+
+
+                
+			</div>
+
+			<div class='commentDate'>13 августа 2015, 12:58</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'><span id='nc_commentText127_18323_245243'>Таджики - они ведь как дети малые, и США этим активно пользуются. Нет ни чего проще, чем обмануть ребёнка. </span></div>
+		<div class='actions'>   </div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlock'>
+
+		<div id='nc_commentID127_18323_245270' class='loadRating comment reply level-1'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_44865.html' title='Профиль пользователя Антон Свобода'>
+
+				<img src='/netcat_files/u/veterok.jpg' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+				<a href='http://rusplt.ru/users/user_44865.html' title='Профиль пользователя Антон Свобода'>
+
+					Антон Свобода
+
+				</a>
+                
+
+			</div>
+
+			<div class='commentDate'>13 августа 2015, 14:13</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'><span id='nc_commentText127_18323_245270'>если бы только эти самые таджики хоть что-то там у себя решали, так нет все им подсказывают и навязывают, но последние слово все равно за Рахмоном</span></div>
+
+		<div class='actions'>   </div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlockLevel'>
+
+		<div id='nc_commentID127_18323_245368' class='loadRating comment reply level-2'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_3474.html' title='Профиль пользователя Igor Fomin'>
+
+				<img src='/netcat_files/u/_785picture_type_large' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+				<a href='http://rusplt.ru/users/user_3474.html' title='Профиль пользователя Igor Fomin'>
+
+					Igor Fomin
+
+				</a>
+                
+
+			</div>
+
+			<div class='commentDate'>13 августа 2015, 20:53</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'>Текст был удален модератором, так как нарушает <a class='nc_bbcode_url_2' target='_blank' href='http://rusplt.ru/info/comments/'>правила комментирования</a></div>
+
+		<div class='actions'></div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlockLevel'>
+
+		
+
+	</div>
+
+</div>
+
+	</div>
+
+</div>
+
+	</div>
+
+</div> <div id='nc_commentID127_18323_246096' class='loadRating comment'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_386.html' title='Профиль пользователя Виктор Ботинок'>
+
+				<img src='/netcat_files/u/d51431c2e79ad61cfe6a0ae262f642ef_normal.jpeg' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+
+				<a href="http://rusplt.ru/users/user_386.html" title="Профиль пользователя Виктор Ботинок">Виктор Ботинок</a>
+
+
+                
+			</div>
+
+			<div class='commentDate'>18 августа 2015, 10:29</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'><span id='nc_commentText127_18323_246096'>США питает особую слабость к странам, через которые идет основной поток наркотрафика в Россию. Вот и таджиков начали оприходовать. И машины подарили наркополицейским. Зачем, интересно? Что бы оперативно догонять и обезвреживать караваны с героином? Или для чего-то еще? А то, что с трафика наркотиков в Таджикистане прикуривают все, это факт известный.</span></div>
+		<div class='actions'>   </div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlock'>
+
+		<div id='nc_commentID127_18323_246318' class='loadRating comment reply level-1'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_66576.html' title='Профиль пользователя Сергей Астафьев'>
+
+				<img src='/netcat_files/u/10407199_798055743600327_8911200739108176789_n.jpg_oh_d0f0b4dd8c6407b4f69223bb9c6c7c89_oe_56451808' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+				<a href='http://rusplt.ru/users/user_66576.html' title='Профиль пользователя Сергей Астафьев'>
+
+					Сергей Астафьев
+
+				</a>
+                
+
+			</div>
+
+			<div class='commentDate'>19 августа 2015, 12:49</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'><span id='nc_commentText127_18323_246318'>Эти машины для наркополицейскихкурьеров пишу слитно так как это не делимо, под этой крышей легко перевозить наркотики через всю страну и переправлять далее,</span></div>
+
+		<div class='actions'>   </div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlockLevel'>
+
+		
+
+	</div>
+
+</div>
+
+	</div>
+
+</div> <div id='nc_commentID127_18323_246464' class='loadRating comment'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_56718.html' title='Профиль пользователя Нурула рахматулин'>
+
+				<img src='/netcat_files/u/3a6d3725f076d7746f87c32e063cada1aa36b0c4.jpg' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+
+				<a href="http://rusplt.ru/users/user_56718.html" title="Профиль пользователя Нурула рахматулин">Нурула рахматулин</a>
+
+
+                
+			</div>
+
+			<div class='commentDate'>19 августа 2015, 20:38</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'>Текст был удален модератором, так как нарушает <a class='nc_bbcode_url_2' target='_blank' href='http://rusplt.ru/info/comments/'>правила комментирования</a></div>
+		<div class='actions'></div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlock'>
+
+		
+
+	</div>
+
+</div> <div id='nc_commentID127_18323_246467' class='loadRating comment'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_56718.html' title='Профиль пользователя Нурула рахматулин'>
+
+				<img src='/netcat_files/u/3a6d3725f076d7746f87c32e063cada1aa36b0c4.jpg' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+
+				<a href="http://rusplt.ru/users/user_56718.html" title="Профиль пользователя Нурула рахматулин">Нурула рахматулин</a>
+
+
+                
+			</div>
+
+			<div class='commentDate'>19 августа 2015, 20:48</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'>Текст был удален модератором, так как нарушает <a class='nc_bbcode_url_2' target='_blank' href='http://rusplt.ru/info/comments/'>правила комментирования</a></div>
+		<div class='actions'></div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlock'>
+
+		
+
+	</div>
+
+</div> <div id='nc_commentID127_18323_246475' class='loadRating comment'>
+
+	<div class='commentHead'>
+
+		<div class='authorAvatar'>
+
+			<a href='http://rusplt.ru/users/user_44403.html' title='Профиль пользователя Егор'>
+
+				<img src='/netcat_files/u/122.jpg' width='50' height='50' />
+
+			</a>
+		</div>
+
+		<div class='authorInfo'>
+
+			<div class='authorName'>
+
+
+				<a href="http://rusplt.ru/users/user_44403.html" title="Профиль пользователя Егор">Егор</a>
+
+
+                
+			</div>
+
+			<div class='commentDate'>19 августа 2015, 21:00</div>
+
+		</div>
+
+	</div>
+
+
+
+	<div class='commentBlock'>
+
+		<div class='commentLike'></div>
+
+		<div class='commentText'><span id='nc_commentText127_18323_246475'>Развитие демократии и поддержание свобод граждан уже  звучит как преднамеренное преступление против государства и его населения.</span></div>
+		<div class='actions'>   </div>
+
+	</div>
+
+	<div class='clear'></div>
+
+	<div class='replyBlock'>
+
+		
+
+	</div>
+
+</div></div>										<div class="authComment"><a href="#" class="input" titile="Авторизация">Авторизуйтесь</a> чтобы оставлять комментарии.</div>									</div>
+								
+														
+								
+																	<div class="bannerPlace4">																				
+										<ins><!-- Yandex.RTB R-A-190485-7 -->
+<div id="yandex_rtb_R-A-190485-7"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-190485-7",
+                renderTo: "yandex_rtb_R-A-190485-7",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+</ins>
+									</div>
+									
+									<div class="readelse ClickNew" data-cn="PostPage" data-ct="Читайте также (сумма событий)">
+										
+											
+											<style>
+												.relap__logo{display: none !important;}
+												.relap__items-container
+												{
+													width: 640px !important;
+												}
+												.relap__items-container .relap__item
+												{
+													width: 200px !important;
+												}
+											</style>
+											<script async type="text/javascript" src="https://relap.io/api/v5/similar_pages.js?theme=rusplt&clickableItem=1&with_footer=0&view=plates&no_image=0&with_block_title=1&with_title=1&with_description=0&useFixedWidth=1&cols=3&rows=2&title=%D0%A7%D0%B8%D1%82%D0%B0%D1%82%D1%8C+%D1%82%D0%B0%D0%BA%D0%B6%D0%B5&widgetType=end&illustrationType=ultraWide&illustrationSize=6&headLinesCount=3&descLinesCount=0&underHeaderLine=0&font=relap__font-open-sans&with_brand=0&show_only_first_row=0"></script>
+
+																						
+										
+										<div class="clear"></div>
+									</div>
+									
+									<div class="bannerPlace5">																				
+										<ins><!-- Yandex.RTB R-A-190485-8 -->
+<div id="yandex_rtb_R-A-190485-8"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-190485-8",
+                renderTo: "yandex_rtb_R-A-190485-8",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+</ins>
+									</div>																		
+									
+									<div class="bannerPlace6">
+										<div class="bannerPlace__grid">											
+											<div class="blockHeader">Интересное в интернете</div>
+											<script type="text/javascript" class="ognyvo__insert" data-src="https://secure.ognyvo.ru/iframe/outside/106/3x2?limit=9" data-width="640" data-height="650">
+												!function(){for(var e,t="https://secure.ognyvo.ru/ext/ognyvo_support.js?v=1.6",a=document,r=a.getElementsByTagName("script"),n=r.length;n--;)(r[n].src==t||r[n].src.indexOf(t)>-1)&&(e=r[n]);if(!e){var s=a.head||a.getElementsByTagName("head")[0];e=a.createElement("script"),e.type="text/javascript",e.src=t,s.appendChild(e)}}();
+											</script>
+										</div>
+									</div>									
+									
+								
+							</div>							
+							
+                            
+							<div class="clear"></div>
+						</div>
+
+						
+					</div>
+
+					
+					<div class="clear">
+
+				
+
+				
+
+
+				
+								
+				
+				</section>
+								
+				<div class="mob_aside">
+					<div class="mobile-aside1"></div>					<div class="mobile-aside3"></div>					<div class="tablet-aside3"></div>					<div class="tablet-aside1"></div>					<div class="clear"></div>
+				</div>
+				
+				<div class="mob_aside">
+					<div class="mobile-aside2"></div>					<div class="tablet-aside2"></div>					<div class="clear"></div>
+				</div>
+				
+
+
+				</div><div class="grid--2 grid-tablet--6">
+				<aside id="sidebar" class="inner_page">
+											<div class="bannerPlace21">
+							<ins><!-- Yandex.RTB R-A-190485-2 -->
+<div id="yandex_rtb_R-A-190485-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-190485-2",
+                renderTo: "yandex_rtb_R-A-190485-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+</ins>
+						</div>
+										
+                        						<div class="desktop-aside1">
+							<div class="sidebar aside1 device-move" data-mobileMoveTo="mobile-aside1" data-tabletMoveTo="tablet-aside1" data-desktopMoveTo="desktop-aside1">
+								<div class="popular views">
+	<div class="block-name">		
+		<div class="ourPeopleSlogan">
+			<div class="ourPeopleSlogan__back"></div>
+			<a href="http://rusplt.ru/our-people/" class="js-wordsRotator" data-words="Наши люди~Узнай сокровенное~От наших людей~Здесь, сегодня, сейчас">Наши люди</a>
+		</div>
+	</div>
+    
+        <div class="js-adaptiveFotorama" data-autoplay="5000">
+		
+<div class="item">
+							<a class="article" href="http://rusplt.ru/our-people/our-people-1_219.html" title="Семь чудес Федора Конюхова">
+								<img src="/netcat_files/u/60x80/konu_03.jpg" width="60" height="80" alt="Федор Конюхов">
+								<div class="title">Семь чудес Федора Конюхова</div><br/>
+								<div class="text">
+                                    Федор Конюхов                                    <span class="date">07 января 2017, 17:55</span>
+                                </div>
+								</a>                            <div class="clear"></div>
+						</div>
+
+<div class="item">
+							<a class="article" href="http://rusplt.ru/our-people/our-people-1_218.html" title="Скорбь и благородная ярость России!">
+								<img src="/netcat_files/u/60x80/makarov_7.jpg" width="60" height="80" alt="Вадим Макаров">
+								<div class="title">Скорбь и благородная ярость России!</div><br/>
+								<div class="text">
+                                    Вадим Макаров                                    <span class="date">27 декабря 2016, 20:23</span>
+                                </div>
+								</a>                            <div class="clear"></div>
+						</div>
+
+<div class="item">
+							<a class="article" href="http://rusplt.ru/our-people/our-people-1_217.html" title="Трансформация учебников как фактор войны с образованием">
+								<img src="/netcat_files/u/60x80/hramova_03.jpg" width="60" height="80" alt="Надежда Храмова">
+								<div class="title">Трансформация учебников как фактор войны с образованием</div><br/>
+								<div class="text">
+                                    Надежда Храмова                                    <span class="date">25 ноября 2016, 15:56</span>
+                                </div>
+								</a>                            <div class="clear"></div>
+						</div>
+
+<div class="item">
+							<a class="article" href="http://rusplt.ru/our-people/our-people-1_216.html" title="Я не боюсь смерти">
+								<img src="/netcat_files/u/60x80/konu_03.jpg" width="60" height="80" alt="Федор Конюхов">
+								<div class="title">Я не боюсь смерти</div><br/>
+								<div class="text">
+                                    Федор Конюхов                                    <span class="date">22 ноября 2016, 14:49</span>
+                                </div>
+								</a>                            <div class="clear"></div>
+						</div>
+
+<div class="item">
+							<a class="article" href="http://rusplt.ru/our-people/our-people-1_215.html" title="Гордиев узел в Алеппо можно только разрубить">
+								<img src="/netcat_files/u/60x80/makarov_7.jpg" width="60" height="80" alt="Вадим Макаров">
+								<div class="title">Гордиев узел в Алеппо можно только разрубить</div><br/>
+								<div class="text">
+                                    Вадим Макаров                                    <span class="date">25 октября 2016, 11:26</span>
+                                </div>
+								</a>                            <div class="clear"></div>
+						</div>
+        </div>
+</div>																<div class="bannerPlace23">
+									<ins><!-- Yandex.RTB R-A-190485-3 -->
+<div id="yandex_rtb_R-A-190485-3"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-190485-3",
+                renderTo: "yandex_rtb_R-A-190485-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+</ins>
+								</div>
+																<div class="popular views">
+	<div class="block-name">
+					<a href="http://rusplt.ru/nowiknow/">Теперь я знаю</a>
+			</div>
+
+        <div class="js-adaptiveFotorama" data-autoplay="5000">
+<div class="item">
+							<a class="article" href="http://rusplt.ru/nowiknow/nowiknow-1_45.html" title="Балконы, деньги, мастера">
+								<img src="/netcat_files/1591/2208/60x80/Na_oblozhku.png" width="60" height="80" alt="Балконы, деньги, мастера">
+								<div class="title">Сергей Большаков, 34 года:
+Увеличить жилплощадь без ипотеки? Легко!</div><br/>
+															</a>
+							                            <div class="clear"></div>
+						</div>
+<div class="item">
+							<a class="article" href="http://rusplt.ru/nowiknow/nowiknow-1_43.html" title="Эстетика русского ремонта">
+								<img src="/netcat_files/1591/2208/60x80/tyaz2010_1_0.jpg" width="60" height="80" alt="Эстетика русского ремонта">
+								<div class="title">Михаил Кузнецов, 27 лет
+Ремонт недорого и без перегара? Это реально!</div><br/>
+															</a>
+							                            <div class="clear"></div>
+						</div>
+<div class="item">
+							<a class="article" href="http://rusplt.ru/nowiknow/nowiknow-1_41.html" title="Турник, бег, подвал и душ в тесной раздевалке">
+								<img src="/netcat_files/1591/2208/60x80/tyaz13.10.16.1.jpg" width="60" height="80" alt="Турник, бег, подвал и душ в тесной раздевалке">
+								<div class="title">Олег Куликов, 47 лет
+Строим идеальное тело - без понтов и с результатом!</div><br/>
+															</a>
+							                            <div class="clear"></div>
+						</div>
+        </div>
+</div>							</div>
+						</div>
+						<div class="desktop-aside2">
+							<div class="sidebar aside2 device-move" data-mobileMoveTo="mobile-aside2" data-tabletMoveTo="tablet-aside2" data-desktopMoveTo="desktop-aside2">
+								<div class="rightBlockSlider js-adaptiveFotorama" data-autoplay="5000"><div class="rightBlockSlider__item">
+    <a href="http://rusplt.ru/wins/">        <div class="rightBlockSlider__rubric">Русские Победы</div>        <div class="rightBlockSlider__image">
+            <img src="/netcat_files/531/964/preview_db75b4a2fae25723613ac0f24d6a7ee5">
+        </div>
+        <div class="rightBlockSlider__header">С древних времен по наши дни</div>        
+    </a></div>
+</div>								<div class="rightBlockSlider js-adaptiveFotorama" data-autoplay="5000"><div class="rightBlockSlider__item">
+    <a href="http://rusplt.ru/russian-games/novyiy-god-novyiy-28985.html">        <div class="rightBlockSlider__rubric">Русские игры</div>        <div class="rightBlockSlider__image">
+            <img src="/netcat_files/561/1013/preview_ff24f27530d185787f0f997d434d0cfd">
+        </div>
+        <div class="rightBlockSlider__header">Новый год! Новый год! Интуиция идет!</div>        
+    </a></div>
+<div class="rightBlockSlider__item">
+    <a href="http://rusplt.ru/russian-games/betatest-alfaigryi-28364.html">        <div class="rightBlockSlider__rubric">Русские игры</div>        <div class="rightBlockSlider__image">
+            <img src="/netcat_files/561/1013/preview_e02fd9d063960b7f9f07b1ea7819be6d">
+        </div>
+        <div class="rightBlockSlider__header">Бета-тест альфа-игры</div>        
+    </a></div>
+</div>								
+								<div>
+									
+
+					<div class="sidebar-article counters">
+                        <a class="sub" href="http://rusplt.ru/society/" title="Общество">Общество</a>						<a class="reachGoal" data-goal="Sidebar" href="http://rusplt.ru/society/vyiboryi-prezidenta-rossiya-mogut-sostoyatsya-ranshe--v-2017-godu-28250.html" title="Президент-2018. Или 2017?">
+															<img src="/netcat_files/52/104/90x68/2608_vuboru_2018_620.jpg" width="90" height="68" alt="Президент-2018. Или 2017?">
+														<span class="title">Президент-2018. Или 2017?</span>
+						</a>											</div>
+
+									
+
+					<div class="sidebar-article counters">
+                        <a class="sub" href="http://rusplt.ru" title=""></a>						<a class="reachGoal" data-goal="Sidebar" href="http://rusplt.ru/health/komu-vyigodna-grubaya-loj-o-sotsializme-i-sssr-28246.html" title="История устами младенца">
+															<img src="/netcat_files/383/764/90x68/2608_istoriya_ustami_mladentsa_620.jpg" width="90" height="68" alt="История устами младенца">
+														<span class="title">История устами младенца</span>
+						</a>											</div>
+
+
+								<div class="clear"></div>
+							</div>
+						</div>
+
+						<div class="desktop-aside3">
+							<div class="sidebar aside3 device-move" data-mobileMoveTo="mobile-aside3" data-tabletMoveTo="tablet-aside3" data-desktopMoveTo="desktop-aside3">
+								
+								<div class="popular">
+									<div class="block-name">Cамое читаемое</div>
+									                                                
+                        <div class="item first">
+							<a class="article reachGoal" data-goal="Sidebar_MostRead" href="http://rusplt.ru/umnaya-rossiya/novosti/rossiyskie-uchenyie-nashli-29219.html" title="Российские ученые нашли способ создания сверхмощной взрывчатки">
+																	<img src="/netcat_files/1681/2222/90x68/5953342.jpg" width="90" height="68" alt="Российские ученые нашли способ создания сверхмощной взрывчатки">																<span class="title">Российские ученые нашли способ создания сверхмощной взрывчатки</span><br/>
+								<span class="text">Химики и физики России разработали сверхмощное взрывное устройство, в состав которого будет входить азот, гафний и хром.</span>
+							</a>														<div class="clear"></div>
+						</div>
+                                                
+                        <div class="item">
+							<a class="article reachGoal" data-goal="Sidebar_MostRead" href="http://rusplt.ru/church/sretenie-gospodne-vstrecha-29223.html" title="Сретение Господне – встреча двух Заветов">
+																	<img src="/netcat_files/529/963/90x68/Sretenie_Gospodne_Santorini.jpg" width="90" height="68" alt="Сретение Господне – встреча двух Заветов">																<span class="title">Сретение Господне – встреча двух Заветов</span><br/>
+								<span class="text">Сегодня православные празднуют Сретение Господне</span>
+							</a>														<div class="clear"></div>
+						</div>
+                                                
+                        <div class="item">
+							<a class="article reachGoal" data-goal="Sidebar_MostRead" href="http://rusplt.ru/umnaya-rossiya/novosti/rossiyskie-uchenyie-dokazali-29225.html" title="Российские ученые доказали реальную возможность продления жизни">
+																	<img src="/netcat_files/1681/2222/90x68/wallpaper_surfing_result_search_wallpapers_abstract.jpg" width="90" height="68" alt="Российские ученые доказали реальную возможность продления жизни">																<span class="title">Российские ученые доказали реальную возможность продления жизни</span><br/>
+								<span class="text">Российские специалисты из биотехнологической компании Gero заявили о революционном открытии, которое должно сыграть значительную роль в деле продления жизни.</span>
+							</a>														<div class="clear"></div>
+						</div>
+                                                
+                        <div class="item">
+							<a class="article reachGoal" data-goal="Sidebar_MostRead" href="http://rusplt.ru/umnaya-rossiya/novosti/rossiyskie-uchenyie-razrabatyivayut-29216.html" title="Российские ученые разрабатывают первый в мире летающий внедорожник">
+																	<img src="/netcat_files/1681/2222/90x68/17743.jpg" width="90" height="68" alt="Российские ученые разрабатывают первый в мире летающий внедорожник">																<span class="title">Российские ученые разрабатывают первый в мире летающий внедорожник</span><br/>
+								<span class="text">В начале марта Фонд перспективных исследований завершит прием заявок на конкурс по произведению первого в России летающего автомобиля.</span>
+							</a>														<div class="clear"></div>
+						</div>
+                                                
+                        <div class="item">
+							<a class="article reachGoal" data-goal="Sidebar_MostRead" href="http://rusplt.ru/society/svinskiy-priem-29212.html" title="Свинский прием">
+																	<img src="/netcat_files/52/104/90x68/RIAN_03027253.HR.ru.jpg" width="90" height="68" alt="Свинский прием">																<span class="title">Свинский прием</span><br/>
+								<span class="text">Спорт стал местом выражения своих политических антипатий</span>
+							</a>														<div class="clear"></div>
+						</div>
+								</div>
+							</div>
+						</div>
+
+						
+
+						
+                        
+										<!--
+						<div class="twitter_w js-twAdaptive socialAdaptive">
+							<a class="twitter-timeline" href="https://twitter.com/sozvedie_nauki" data-widget-id="628130121279533056" height="345">Твиты от @sozvedie_nauki</a>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+						</div>
+
+						<div class="twitter_w js-twAdaptive socialAdaptive">
+							<div id="fb-root"></div>
+							<div class="fb-page" data-href="https://www.facebook.com/rusplt" data-width="260" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/rusplt"><a href="https://www.facebook.com/rusplt">Русская планета</a></blockquote></div></div>
+						</div>
+
+						<div class="vk_block js-fbAdaptive socialAdaptive" style="height: 360px;">
+							<script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script>
+							<div id="vk_groups" style="margin: 0 auto"></div>
+							<script type="text/javascript">
+								VK.Widgets.Group("vk_groups", {mode: 0, width: "260", height: "360", color1: "FFFFFF", color2: "2B587A", color3: "5B7FA6"}, 35383545);
+							</script>
+						</div>
+
+						<div class="twitter_w i1 js-fbAdaptive socialAdaptive">
+							<div class="fb-page" data-href="https://www.facebook.com/regiony.rusplt/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/regiony.rusplt/"><a href="https://www.facebook.com/regiony.rusplt/">Русская планета. Большая страна</a></blockquote></div></div>						
+						</div>
+						-->
+						<div class="bannerPlace22">
+							<ins><!-- Yandex.RTB R-A-190485-4 -->
+<div id="yandex_rtb_R-A-190485-4"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-190485-4",
+                renderTo: "yandex_rtb_R-A-190485-4",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+</ins>
+						</div>
+					
+
+                    
+
+                    
+
+					<div class="clear"></div>
+				</aside>
+
+				<div class="clear"></div>
+
+
+
+				
+				<div class="clear"></div>				
+
+				                				
+				
+			</div>			</div>			
+			
+			
+							<div class="adv_footer">
+																				<div class="clear"></div>
+				</div>
+						
+			
+			
+			</section>
+
+		
+			
+			<div class="clear"></div>
+
+			<div id="footer_protector"></div>
+
+			<footer id="footer">
+				<div class="inner">
+
+					<div class="block">
+						<nav class="info-menu">
+							<ul>
+								
+<li><a class="reachGoal" data-goal="Header" href="/info/about-copy/" title="О проекте"><span>О проекте</span></a></li> 
+<li><a class="reachGoal" data-goal="Header" href="/info/team/" title="Редакция"><span>Редакция</span></a></li> 
+<li><a class="reachGoal" data-goal="Header" href="/info/contacts/" title="Контакты"><span>Контакты</span></a></li> 
+<li><a class="reachGoal" data-goal="Header" href="/info/comments/" title="Правила комментирования"><span>Правила комментирования</span></a></li> 
+<li><a class="reachGoal" data-goal="Header" href="/info/copyright/" title="Использование материалов"><span>Использование материалов</span></a></li> 
+															</ul>
+						</nav>
+
+
+						<div class="clear"></div>
+					</div>
+
+					<div class="block i2">
+						<nav class="social-block">
+							<ul class="social">
+								
+								<li><a href="http://fb.com/rusplt" target="_blank" 		 class="ClickNew fb" data-cn="Footer" data-ct="clickSocialFooter_fb" title="Фейсбук">Фейсбук</a></li>
+								<li><a href="http://vk.com/rusplt" target="_blank" 		 class="ClickNew vk" data-cn="Footer" data-ct="clickSocialFooter_vk" title="Вконтакте">Вконтакте</a></li>
+								<li><a href="https://twitter.com/rusplt" target="_blank" class="ClickNew tw" data-cn="Footer" data-ct="clickSocialFooter_tw" title="Твиттер">Твиттер</a></li>
+								<li><a href="http://ok.ru/rusplt" target="_blank" 		 class="ClickNew ok" data-cn="Footer" data-ct="clickSocialFooter_ok" title="Одноклассники">Одноклассники</a></li>
+								<li><a href="http://rusplt.ru/index/new.rss" target="_blank" onClick="ga('send', 'event', 'ClickNew','Footer','RSS');" class="rss" title="RSS Feed">RSS</a></li>
+								
+															</ul>
+						</nav>
+
+						
+						<div class="clear"></div>
+					</div>
+
+
+					<div class="y18"></div>
+
+					<div class="text">Свидетельство о регистрации СМИ ЭЛ № ФС 77 – 65733<br />выдано Роскомнадзором 20.05.2016.</div>
+
+					<div class="copy">&copy; 2009&ndash;2017 Русская Планета</div>
+										
+					<div class="orphus">
+						<span class="inner-text">
+							<a href="http://orphus.ru" id="orphus" target="_blank" title="Система Orphus"><img src="/netcat/modules/banner/emp.gif" alt="Система Orphus"></a>
+							Ошибка в тексте?
+							<span>Ctrl + Enter</span>
+						</span>
+					</div>
+				</div>
+			</footer>
+			
+			<a class="mobile_goTop"></a>
+
+
+		</div><!-- / Wrapper -->
+
+		
+				<script type="text/javascript" src="/js/orphus.js"></script>
+
+				<div class="hidden"></div>
+
+		
+		<div id="subscribe">
+			<a class="actionSubscriptionClose sprite_before" href="#"></a>
+
+			<div class="first-box">
+				<div class="image i1"></div>
+				<div class="image i2"></div>
+				<div class="image i3"></div>
+			</div>
+
+			<div class="second-box">
+				<div class="header">Дискуссии без купюр.</div>
+				<div class="snippet">Читайте «Русскую планету» в социальных сетях и участвуйте в обсуждениях</div>
+				<div class="social">
+					<a id="fb" class="sprite_before" href="http://fb.com/rusplt" onclick="ga('send', 'event', 'Conversion', 'Banner: Дискуссии без купюр.', 'Facebook');" target="_blank" title="Facebook"><span class="cnt load"></span></a>
+					<a id="vk" class="sprite_before" href="http://vk.com/rusplt" onclick="ga('send', 'event', 'Conversion', 'Banner: Дискуссии без купюр.', 'Вконтакте');" target="_blank" title="Вконтакте"><span class="cnt load"></span></a>
+					<a id="tw" class="sprite_before" href="https://twitter.com/rusplt" onclick="ga('send', 'event', 'Conversion', 'Banner: Дискуссии без купюр.', 'Twitter');" target="_blank" title="Twitter"><span class="cnt">16,9k</span></a>
+					<a id="ok" class="sprite_before" href="http://ok.ru/rusplt" onclick="ga('send', 'event', 'Conversion', 'Banner: Дискуссии без купюр.', 'Одноклассники');" target="_blank" title="Одноклассники"><span class="cnt">50k</span></a>
+				</div>
+			</div>
+
+			<div class="third-box">
+				<div class="smalltext">Каждую пятницу мы будем присылать вам сборник самых важных<br />и интересных материалов за неделю. <span>Это того стоит.</span></div>
+				<form class="subscribe" data-ct="Banner: Дискуссии без купюр." method="post" action="/netcat/add.php">
+					<input type="hidden" name="admin_mode" value=""/>
+					<input type="hidden" name="catalogue" value="1"/>
+					<input type="hidden" name="cc" value="11"/>
+					<input type="hidden" name="sub" value="9"/>
+					<input type="hidden" name="posting" value="1"/>
+					<input type="hidden" name="BackLink" value="/world/ssha-pokupayut-voynu-v-tadjikistane-18323.html"/>
+					<input type="hidden" name="nc_agreed" value="1" />
+					<input type="hidden" name="loginsave" value="1" />
+					<input type="hidden" name="f_Login" id="f_Login" />
+					<input type="hidden" name="Password1" id="Password1" />
+					<input type="hidden" name="Password2" id="Password2" />
+					<input type="hidden" name="f_Mailing" value="0" />
+					<input type="hidden" name="f_Form" value="3" />
+					<input type="hidden" name="f_popup" value="1" />
+					<label class="error">Неправильная электронная почта</label>
+					<input type="email" name="f_Email" id="f_Email" maxlength="64" placeholder="Оставьте нам свой e-mail" />
+					<input class="actionSubscriptionButton" type="submit" value="Подписаться" />
+					<label class="checkbox-rusplt">
+						<input name="leavemealone" value="1" type="checkbox" />
+						Больше не показывать это сообщение
+					</label>
+				</form>
+			</div>
+
+			<div class="confirm">
+				<a class="actionSubscriptionClose" href="#">Закрыть окно</a>
+				Вы успешно подписались на еженедельную рассылку лучших статей. <span>Спасибо!</span>
+			</div>
+		</div>
+
+
+		
+
+		<!-- Lentainform NewsRanker tag -->
+		<script>
+			if (window.self === window.top) {
+				(new Image()).src = '//autocounter.lentainform.com/autocreative/counter.php?pid=' + 37199 + '&referer=' + window.document.referrer.replace(/&/g, '%26');
+			}
+		</script>
+		<!-- End Lentainform NewsRanker tag -->
+
+		
+		<div class="hidden"><!-- Код тега ремаркетинга Google -->
+<!--
+С помощью тега ремаркетинга запрещается собирать информацию, по
+которой можно идентифицировать личность пользователя. Также
+запрещается размещать тег на страницах с контентом деликатного
+характера. Подробнее об этих требованиях и о настройке тега читайте на
+странице http://google.com/ads/remarketingsetup.
+-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 965003363;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript"
+src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt=""
+src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/965003363/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript></div>
+		
+<div class="post__widgetPopup post__widgetPopup__bigBlock bigPopup">
+	<div class="hideButton"></div>
+	<div class="post__widgetPopup__container">
+		<div class="post__widgetPopup__header">
+			<div class="post__widgetPopup__header__item addBold">
+				Станьте нашим читателем,<br />сделайте жизнь интереснее!
+                                <div>
+                                    <div class="post__widgetPopup__description">
+                                            Помимо актуальной повестки дня, мы также публикуем:<br/>аналитику, обзоры, интервью, исторические исследования.
+                                    </div>
+                                    <div class="post__widgetPopup__lk__btn">
+                                        <a class="unregistered" href="#">личный кабинет</a>
+                                    </div>
+                                    <div style="clear: both;"></div>
+                                </div>
+                                
+			</div>
+		</div>
+		<div class="post__widgetPopup__tabs clearfix">
+			<div class="post__widgetPopup__tab vk" data-ct="clickSocialTab_vk" data-cn="SocialBanner"></div>
+			<div class="post__widgetPopup__tab fb" data-ct="clickSocialTab_fb" data-cn="SocialBanner"></div>
+			<div class="post__widgetPopup__tab tw" data-ct="clickSocialTab_tw" data-cn="SocialBanner"></div>
+			<div class="post__widgetPopup__tab ok" data-ct="clickSocialTab_ok" data-cn="SocialBanner"></div>
+		</div>
+		<div class="post__widgetPopup__logo">
+			<img src="/images/rusplt2/popup-logo.png" width="286" height="79" alt="" />
+		</div>
+		<div class="post__widgetPopup__socialBlock">
+			<div class="post__widgetPopup__socialBlock__item hidden">
+				<iframe name="fXD4c2d3" src="http://vk.com/widget_community.php?app=0&amp;width=520px&amp;_ver=1&amp;gid=35383545&amp;mode=0&amp;color1=FFFFFF&amp;color2=2B587A&amp;color3=5B7FA6&amp;height=220&amp;&amp;149ad626e9e" width="520" height="220" scrolling="no" id="vkwidget3" style="overflow: hidden; height: 220px; border: 0;"></iframe>
+			</div>
+			<div class="post__widgetPopup__socialBlock__item hidden">
+				<div class="post__widgetPopup__socialBlock__fb">
+					<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Frusplt&amp;width=520&amp;height=220&amp;colorscheme=light&amp;show_faces=true&amp;border_color=white&amp;stream=false&amp;force_wall=true&amp;header=false" scrolling="no" style="border: 0;"></iframe>
+				</div>
+			</div>
+			<div class="post__widgetPopup__socialBlock__item hidden">
+				<div class="post__widgetPopup__socialBlock__tw">
+					<iframe id="twitter-widget-9" scrolling="no" src="https://platform.twitter.com/widgets/follow_button.ae36744a06482b14f4c1ab8ab6ea765e.ru.html#_=1438960845314&amp;dnt=true&amp;id=twitter-widget-9&amp;lang=ru&amp;preview=true&amp;screen_name=rusplt&amp;show_count=false&amp;show_screen_name=true&amp;size=l" class="twitter-follow-button twitter-follow-button" title="Twitter Follow Button" data-twttr-rendered="true" style="position: static; visibility: visible; width: 135px; height: 28px; border: 0;"></iframe>
+				</div>
+			</div>
+			<div class="post__widgetPopup__socialBlock__item hidden">
+				<div class="post__widgetPopup__socialBlock__ok">
+					<iframe id="__okGroup0" scrolling="no" src="https://connect.ok.ru/dk?st.cmd=WidgetGroup&amp;st.groupId=52128940752962&amp;st.fid=__okGroup0&amp;st.hoster=http%3A%2F%2Frusplt.local%2F&amp;st.settings=%7Bwidth%3A520%2Cheight%3A220%7D" style="border: 0px; width: 520px; height: 220px;"></iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="post__widgetPopup__bottom">
+		<a class="thanksISubscribed" href="#">Спасибо, я уже читаю «Русскую Планету»</a>
+	</div>
+</div>		
+		
+		<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18792804" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=18792804&cv=2.0&cj=1" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+
+		<!-- tns-counter.ru -->
+<script type="text/javascript">
+	(function(win, doc, cb){
+		(win[cb] = win[cb] || []).push(function() {
+			try {
+				tnsCounterRusplt_ru = new TNS.TnsCounter({
+				'account':'rusplt_ru',
+				'tmsec': 'rusplt_total'
+				});
+			} catch(e){}
+		});
+
+		var tnsscript = doc.createElement('script');
+		tnsscript.type = 'text/javascript';
+		tnsscript.async = true;
+		tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') + 
+			'//www.tns-counter.ru/tcounter.js';
+		var s = doc.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(tnsscript, s);
+	})(window, this.document,'tnscounter_callback');
+</script>
+<noscript>
+	<img src="//www.tns-counter.ru/V13a****rusplt_ru/ru/UTF-8/tmsec=rusplt_total/" width="0" height="0" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+
+
+		<div id="shadow"></div>
+		<div id="cursor"></div>
+
+		<div id="regions">
+			<a href="#" class="close" title="Закрыть"></a>
+
+			<div class="federal">
+				<ul>
+					<li><a href="http://rusplt.ru" title="Большая страна" class="coatOfArms r1">Большая страна</a></li>
+									</ul>
+			</div>
+
+			<div class="inner_container">
+				<div class="inner">
+					<div class="container"><div class="d_cols"><div class="d_list"><div class="head">Центральный ФО</div><ul><li><a href="http://belgorod.rusplt.ru" title="Белгород" class="coatOfArms r30">Белгород</a></li><li><a href="http://bryansk.rusplt.ru" title="Брянск" class="coatOfArms r52">Брянск</a></li><li><a href="http://vladimir.rusplt.ru" title="Владимир" class="coatOfArms r76">Владимир</a></li><li><a href="http://voronezh.rusplt.ru" title="Воронеж" class="coatOfArms r3">Воронеж</a></li><li><a href="http://ivanovo.rusplt.ru" title="Иваново" class="coatOfArms r53">Иваново</a></li><li><a href="http://kaluga.rusplt.ru" title="Калуга" class="coatOfArms r54">Калуга</a></li><li><a href="http://kostroma.rusplt.ru" title="Кострома" class="coatOfArms r37">Кострома</a></li><li><a href="http://kursk.rusplt.ru" title="Курск" class="coatOfArms r71">Курск</a></li><li><a href="http://lipetsk.rusplt.ru" title="Липецк" class="coatOfArms r72">Липецк</a></li><li><a href="http://orel.rusplt.ru" title="Орёл" class="coatOfArms r51">Орёл</a></li><li><a href="http://mosoblast.rusplt.ru" title="Подмосковье" class="coatOfArms r84">Подмосковье</a></li><li><a href="http://ryazan.rusplt.ru" title="Рязань" class="coatOfArms r70">Рязань</a></li><li><a href="http://smolensk.rusplt.ru" title="Смоленск" class="coatOfArms r50">Смоленск</a></li><li><a href="http://tambov.rusplt.ru" title="Тамбов" class="coatOfArms r75">Тамбов</a></li><li><a href="http://tver.rusplt.ru" title="Тверь" class="coatOfArms r17">Тверь</a></li><li><a href="http://yaroslavl.rusplt.ru" title="Ярославль" class="coatOfArms r14">Ярославль</a></li></ul><div class="clear"></div></div><div class="d_list"><div class="head">Южный ФО</div><ul><li><a href="http://astrakhan.rusplt.ru" title="Астрахань" class="coatOfArms r2">Астрахань</a></li><li><a href="http://volgograd.rusplt.ru" title="Волгоград" class="coatOfArms r15">Волгоград</a></li><li><a href="http://krasnodar.rusplt.ru" title="Краснодар" class="coatOfArms r5">Краснодар</a></li><li><a href="http://crimea.rusplt.ru" title="Крым" class="coatOfArms r81">Крым</a></li><li><a href="http://novorossiysk.rusplt.ru" title="Новороссийск" class="coatOfArms r77">Новороссийск</a></li><li><a href="http://rostov.rusplt.ru" title="Ростов-на-Дону" class="coatOfArms r4">Ростов-на-Дону</a></li><li><a href="http://sevastopol.rusplt.ru" title="Севастополь" class="coatOfArms r82">Севастополь</a></li><li><a href="http://sochi.rusplt.ru" title="Сочи" class="coatOfArms r16">Сочи</a></li><li><a href="http://taganrog.rusplt.ru" title="Таганрог" class="coatOfArms r26">Таганрог</a></li></ul><div class="clear"></div></div><div class="d_list"><div class="head">Северо-Западный ФО</div><ul><li><a href="http://arkhangelsk.rusplt.ru" title="Архангельск" class="coatOfArms r57">Архангельск</a></li><li><a href="http://vologda.rusplt.ru" title="Вологда" class="coatOfArms r58">Вологда</a></li><li><a href="http://kaliningrad.rusplt.ru" title="Калининград" class="coatOfArms r55">Калининград</a></li><li><a href="http://murmansk.rusplt.ru" title="Мурманск" class="coatOfArms r56">Мурманск</a></li><li><a href="http://petrozavodsk.rusplt.ru" title="Петрозаводск" class="coatOfArms r59">Петрозаводск</a></li></ul><div class="clear"></div></div></div><div class="d_cols"><div class="d_list"><div class="head">Дальневосточный ФО</div><ul><li><a href="http://blagoveshchensk.rusplt.ru" title="Благовещенск" class="coatOfArms r49">Благовещенск</a></li><li><a href="http://vladivostok.rusplt.ru" title="Владивосток" class="coatOfArms r42">Владивосток</a></li><li><a href="http://komsomolsk.rusplt.ru" title="Комсомольск-на-Амуре" class="coatOfArms r48">Комсомольск-на-Амуре</a></li><li><a href="http://khabarovsk.rusplt.ru" title="Хабаровск" class="coatOfArms r43">Хабаровск</a></li><li><a href="http://usakhalinsk.rusplt.ru" title="Южно-Сахалинск" class="coatOfArms r47">Южно-Сахалинск</a></li><li><a href="http://yakutsk.rusplt.ru" title="Якутск" class="coatOfArms r68">Якутск</a></li></ul><div class="clear"></div></div><div class="d_list"><div class="head">Сибирский ФО</div><ul><li><a href="http://barnaul.rusplt.ru" title="Барнаул" class="coatOfArms r69">Барнаул</a></li><li><a href="http://bratsk.rusplt.ru" title="Братск" class="coatOfArms r45">Братск</a></li><li><a href="http://irkutsk.rusplt.ru" title="Иркутск" class="coatOfArms r32">Иркутск</a></li><li><a href="http://kemerovo.rusplt.ru" title="Кемерово" class="coatOfArms r29">Кемерово</a></li><li><a href="http://krasnoyarsk.rusplt.ru" title="Красноярск" class="coatOfArms r8">Красноярск</a></li><li><a href="http://novokuznetsk.rusplt.ru" title="Новокузнецк" class="coatOfArms r67">Новокузнецк</a></li><li><a href="http://novosibirsk.rusplt.ru" title="Новосибирск" class="coatOfArms r41">Новосибирск</a></li><li><a href="http://norilsk.rusplt.ru" title="Норильск" class="coatOfArms r66">Норильск</a></li><li><a href="http://omsk.rusplt.ru" title="Омск" class="coatOfArms r31">Омск</a></li><li><a href="http://tomsk.rusplt.ru" title="Томск" class="coatOfArms r61">Томск</a></li><li><a href="http://chita.rusplt.ru" title="Чита" class="coatOfArms r44">Чита</a></li></ul><div class="clear"></div></div><div class="d_list"><div class="head">Уральский ФО</div><ul><li><a href="http://ekaterinburg.rusplt.ru" title="Екатеринбург" class="coatOfArms r33">Екатеринбург</a></li><li><a href="http://kurgan.rusplt.ru" title="Курган" class="coatOfArms r60">Курган</a></li><li><a href="http://magnitogorsk.rusplt.ru" title="Магнитогорск" class="coatOfArms r12">Магнитогорск</a></li><li><a href="http://ntagil.rusplt.ru" title="Нижний Тагил" class="coatOfArms r19">Нижний Тагил</a></li><li><a href="http://newurengoy.rusplt.ru" title="Новый Уренгой" class="coatOfArms r64">Новый Уренгой</a></li><li><a href="http://tyumen.rusplt.ru" title="Тюмень" class="coatOfArms r22">Тюмень</a></li><li><a href="http://chelyabinsk.rusplt.ru" title="Челябинск" class="coatOfArms r10">Челябинск</a></li></ul><div class="clear"></div></div></div><div class="d_cols"><div class="d_list"><div class="head">Приволжский ФО</div><ul><li><a href="http://izhevsk.rusplt.ru" title="Ижевск" class="coatOfArms r21">Ижевск</a></li><li><a href="http://kazan.rusplt.ru" title="Казань" class="coatOfArms r6">Казань</a></li><li><a href="http://kirov.rusplt.ru" title="Киров" class="coatOfArms r73">Киров</a></li><li><a href="http://nnovgorod.rusplt.ru" title="Нижний Новгород" class="coatOfArms r40">Нижний Новгород</a></li><li><a href="http://orenburg.rusplt.ru" title="Оренбург" class="coatOfArms r11">Оренбург</a></li><li><a href="http://penza.rusplt.ru" title="Пенза" class="coatOfArms r38">Пенза</a></li><li><a href="http://perm.rusplt.ru" title="Пермь" class="coatOfArms r9">Пермь</a></li><li><a href="http://samara.rusplt.ru" title="Самара" class="coatOfArms r7">Самара</a></li><li><a href="http://saratov.rusplt.ru" title="Саратов" class="coatOfArms r20">Саратов</a></li><li><a href="http://togliatti.rusplt.ru" title="Тольятти" class="coatOfArms r27">Тольятти</a></li><li><a href="http://ulyanovsk.rusplt.ru" title="Ульяновск" class="coatOfArms r39">Ульяновск</a></li><li><a href="http://ufa.rusplt.ru" title="Уфа" class="coatOfArms r23">Уфа</a></li></ul><div class="clear"></div></div><div class="d_list"><div class="head">Северо-Кавказский ФО</div><ul><li><a href="http://dagestan.rusplt.ru" title="Дагестан" class="coatOfArms r18">Дагестан</a></li><li><a href="http://ingushetia.rusplt.ru" title="Ингушетия" class="coatOfArms r35">Ингушетия</a></li><li><a href="http://kbr.rusplt.ru" title="КБР" class="coatOfArms r28">КБР</a></li><li><a href="http://alania.rusplt.ru" title="РСО-Алания" class="coatOfArms r24">РСО-Алания</a></li><li><a href="http://stavropol.rusplt.ru" title="Ставрополь" class="coatOfArms r13">Ставрополь</a></li><li><a href="http://chechnya.rusplt.ru" title="Чечня" class="coatOfArms r25">Чечня</a></li></ul><div class="clear"></div></div></div></div>
+					<div class="scroller__bar-wrapper"><div class="scroller__bar"></div></div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="transparent" ></div>
+		
+		<div class="desktop-our_people_popup"></div>
+		
+		<div class="rubrics__window">
+			<div class="inner_container">
+				<div class="inner">
+					<div class="container">
+						<div class="col">
+							<ul>
+								<li><a href="http://rusplt.ru/sub/defense/">Оборона</a></li>
+								<li><a href="http://rusplt.ru/sub/history/">История</a></li>
+								<li><a href="http://rusplt.ru/sub/science/">Наука и технологии</a></li>
+								<li><a href="http://rusplt.ru/sub/court/">Суд</a></li>
+								<li><a href="http://rusplt.ru/sub/authority/">Власть</a></li>
+								<li><a href="http://rusplt.ru/sub/books/">Книги</a></li>
+								<li><a href="http://rusplt.ru/sub/pro/">Происшествия</a></li>
+								<li><a href="http://rusplt.ru/sub/law/">Закон</a></li>
+								<li class="multiLine"><a href="http://rusplt.ru/sub/year-literature/">Классики о современной России</a></li>
+																<li><a href="http://rusplt.ru/sub/research/">Исследования</a></li>
+															</ul>
+						</div>
+						<div class="col">
+							<ul>
+								<li><a href="http://rusplt.ru/sub/economy/">Экономика</a></li>
+								<li><a href="http://rusplt.ru/sub/report/">Репортаж</a></li>
+								<li><a href="http://rusplt.ru/sub/culture/">Культура</a></li>
+								<li><a href="http://rusplt.ru/sub/interview/">Интервью</a></li>
+								<li><a href="http://rusplt.ru/sub/religion/">Религия</a></li>
+																<li><a href="http://rusplt.ru/sub/education/">Образование</a></li>
+								<li><a href="http://rusplt.ru/sub/terrorism/">Терроризм</a></li>
+																																<li><a href="http://rusplt.ru/sub/nekrolog/">Некролог</a></li>
+																							
+								<li><a href="http://rusplt.ru/sub/arhiv-populyarnogo/">Архив популярного</a></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+				
+		<script async src="https://cdn.onthe.io/io.js/nXncwNsQa0nW"></script>		
+	</body>
+</html>

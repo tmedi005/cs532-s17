@@ -1,0 +1,1875 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>Healthy Superbowl Recipes That Will Wow Your Friends - Health and fitness</title>
+<meta name="lang" content="en_US"/>
+<meta http-equiv="keywords" content="Healthy Superbowl Recipes That Will Wow Your Friends - Health and fitness"/>
+<meta http-equiv="description" content="Healthy Superbowl Recipes That Will Wow Your Friends - Health and fitness"/>
+<meta name="Revisit" content="1 days"/>
+<link rel="SHORTCUT ICON" href="/favicon.ico"/>
+<link rel="canonical" href="http://healthfitnesstrends.net/healthy-food/healthy-superbowl-recipes-that-will-wow-your-friends/>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://mobile.healthfitnesstrends.net/healthy-food/healthy-superbowl-recipes-that-will-wow-your-friends" />
+<link rel='amphtml' href="http://healthfitnesstrends.net/amp/healthy-food/healthy-superbowl-recipes-that-will-wow-your-friends" />
+      
+  <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<link rel="stylesheet" href="/css/csslinuz.css" type="text/css"/>
+<link rel="stylesheet" href="/css/nuevocss.css" type="text/css"/>
+<link href='http://fonts.googleapis.com/css?family=Englebert' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Original+Surfer' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Romanesco' rel='stylesheet' type='text/css'/>
+<meta name="image_thumbnail" content="http://ob8qxdtnu3-flywheel.netdna-ssl.com/wp-content/uploads/2017/01/Sweet-Potato-Rounds-3-of-9.jpg" />
+<meta name="robots" content="all"/>
+<meta name="date" content="1970-01-01" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Healthy Superbowl Recipes That Will Wow Your Friends - Health and fitness" />
+<meta property="og:description" content="With the Super Bowl a few weeks away, we start thinking of healthy-ish gameday recipes. From savory to sweet, here are our top 10 recipes for the big day that are centered on real food and wholesome ingredients. Each recipe has been friend-tested and approved; all are vegetarian, some vegan and gluten-free. We&#8217;d love to know your ideas! Let us know in the comments below.
+
+1. Loaded Sweet Potato Rounds
+Our number 1 favorite game day recipe are these loaded sweet potato rounds. Friends beg u" />
+<meta property="og:image" content="http://ob8qxdtnu3-flywheel.netdna-ssl.com/wp-content/uploads/2017/01/Sweet-Potato-Rounds-3-of-9.jpg"/>
+<meta property="og:url" content="http://healthfitnesstrends.net/healthy-food/healthy-superbowl-recipes-that-will-wow-your-friends"/>
+<meta property="og:locale" content="es_ES"/>
+<meta property="article:section" content="eventos" />
+<meta property="og:site_name" content="http://healthfitnesstrends.net" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:url" content="http://healthfitnesstrends.net/healthy-food/healthy-superbowl-recipes-that-will-wow-your-friends"/>
+<meta name="twitter:title" content="Healthy Superbowl Recipes That Will Wow Your Friends - Health and fitness"/>
+<meta name="twitter:image:src" content="http://ob8qxdtnu3-flywheel.netdna-ssl.com/wp-content/uploads/2017/01/Sweet-Potato-Rounds-3-of-9.jpg">
+<meta name="twitter:domain" content="http://healthfitnesstrends.net">
+<meta name="twitter:description" content="With the Super Bowl a few weeks away, we start thinking of healthy-ish gameday recipes. From savory to sweet, here are our top 10 recipes for the big day that are centered on real food and wholesome ingredients. Each recipe has been friend-tested and approved; all are vegetarian, some vegan and gluten-free. We&#8217;d love to know your ideas! Let us know in the comments below.
+
+1. Loaded Sweet Potato Rounds
+Our number 1 favorite game day recipe are these loaded sweet potato rounds. Friends beg u"/>
+<meta name="twitter:app:name:iphone" content="Vine">
+<meta name="twitter:app:name:ipad" content="Vine">
+<meta name="twitter:app:name:googleplay" content="Vine">
+<meta name="twitter:app:url:iphone" content="vine://v/93582sxlkjf">
+<meta name="twitter:app:url:ipad" content="vine://v/93582sxlkjf">
+<meta name="twitter:app:url:googleplay" content="http://vine.co/v/93582sxlkjf">
+<meta name="twitter:app:id:iphone" content="id592447445">
+<meta name="twitter:app:id:ipad" content="id432984038404">
+<meta name="twitter:app:id:googleplay" content="co.vine.android">
+
+<script type="text/javascript">
+			var time = new Date();
+			randnum= (time.getTime());
+</script>
+<script type="text/javascript">
+			function Item(){
+				this.length = Item.arguments.length;
+				for (var i = 0; i < this.length; i++) {
+					this[i] = Item.arguments[i];
+				}					
+			}
+
+			function Fecha() {
+				var ndia = new Item('Domingo','Lunes','Martes','Miércoles','Jueves','Viernes','Sábado');
+				var nmes = new Item('enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre');
+				var ahora;
+				var ano2;
+				var fecha = new Date();
+				var ano = fecha.getYear();
+				var mes = fecha.getMonth();
+				var dia = fecha.getDay();
+				var aux = "" + fecha;
+
+				if (ano<10) {
+					ano2 = "200" + eval(ano);
+				}
+				else if (ano<80) {// ano tiene 2 dígitos 19xx (más de 80)
+					ano2 = "20" + ano;
+				} 
+				else if (ano<=99) {// ano tiene 2 dígitos 20xx (menor de 80)
+					ano2 = "19" + ano;
+				}
+				else if (ano<1000) {// ano tiene 3 dígitos (100 es 2000)
+					ano2 = eval(ano) + eval(1900);
+				}
+				else {// ano tiene 4 dígitos
+					ano2 = ano;
+				}
+				ahora = ndia[dia] + ", " + eval(aux.substring(7, 10)) + " de " + nmes[mes] + " de " + ano2;
+				return ahora;
+			}
+</script>
+<script src="//load.sumome.com/" data-sumo-site-id="5569a3955e7e2d916206b8a584f12d95e9ad8e60147e3f17b5b1d88a3f3e807f" async="async"></script>
+		
+	</head>
+
+	<body  TEXT=#000000 TOPMARGIN=0 LEFTMARGIN=0 RIGHTMARGIN=2 link="#006600" marginwidth="0" marginheight="0" text-align:center">
+		
+			<style type="text/css">
+	.cookieBar {text-align: center; width: 100%; min-height: 35px; z-index: 100000000; margin: 0 auto; max-width: 1032px; height: auto; display:none; }
+	.cookieContainer { background-color: rgba(255,255,255,0.8); border: 1px solid #fc611e; text-align: center; z-index: 9999; width: 100%; z-index: 9998; margin: 0 auto; max-width: 1032px; padding: 5px; }
+	.cookieContent { width: 100%; margin: 0 auto; z-index: 9999; }
+	.cookieText { float: left; width: 100%; max-width: 950px; color: #666666; font-size: 10px; margin: 0 auto; padding: 0 5px; }
+	.cookieText a { text-decoration: underline; color: #666666; font-weight: bold; }
+	.cookieButton { float: none; width: auto; text-align: center; height: auto; margin: 3px 0; }  
+	.cookieButton a:link {color: #ffffff; }
+	.buttonCookie { background-color: #fc611e; border-radius: 0;  font-size: 10px; font-weight: bold; padding: 5px 12px;}
+</style>
+
+<div id="cookieBar" class="cookieBar">
+    <div class="cookieContainer">
+        <div class="cookieContent clearfix">
+            <div class="cookieText">
+                Usamos cookies propias y de terceros para mejorar la navegaci&oacute;n y mostrar publicidad personalizada seg&uacute;n su navegaci&oacute;n.
+                Si continua navegando consideramos que acepta nuestra
+                <a href="/cookie-policy.html" target="_blank" onclick="var w=window.open(this.href,'popupWindow','width=660,height=620,scrollbars=1');w.focus();return false;">pol&iacute;tica de cookies</a>.
+            </div>
+            <div class="cookieButton">
+                <a class="buttonCookie" href="javascript:void(0)" onclick="agreeCookies();">Aceptar</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function getCookie(c_name) {
+        var c_value = document.cookie;
+        var c_start = c_value.indexOf(" " + c_name + "=");
+        if (c_start == -1) {
+            c_start = c_value.indexOf(c_name + "=");
+        }
+        if (c_start == -1) {
+            c_value = null;
+        } else {
+            c_start = c_value.indexOf("=", c_start) + 1;
+            var c_end = c_value.indexOf(";", c_start);
+            if (c_end == -1) {
+                c_end = c_value.length;
+            }
+            c_value = unescape(c_value.substring(c_start, c_end));
+        }
+        return c_value;
+    }
+
+    function setCookie(c_name, value, exdays) {
+        var exdate = new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
+        document.cookie = c_name + "=" + c_value;
+    }
+
+    function agreeCookies() {
+        setCookie('agreeCookies', '1', 365);
+        document.getElementById("cookieBar").style.display = "none";
+    }
+
+    if (getCookie('agreeCookies') != "1") {
+        document.getElementById("cookieBar").style.display = "block";
+    }
+</script>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="229" align="center" valign="top"><table width="95%" border="0">
+        <tbody>
+          <tr>
+            <td width="184"><a href="/registro.php" rel="nofollow" class="textoART2">Register your Blog</a></td>
+            
+          </tr>
+        </tbody>
+      </table><table width="95%" border="0">
+        <tbody>
+          <tr>
+            <td width="184"><a href="/whatis.php" class="texto">( What is this? )</a></td>
+            
+          </tr>
+        </tbody>
+      </table></td>
+      <td width="761" align="center"><a href="/"><img src="/images/logoweb2.jpg" width="616" height="68" alt=""/></a><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-40424726-13']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+				
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40424726-45', 'auto');
+  ga('send', 'pageview');
+
+</script></td>
+      <td width="230" align="center" valign="top"><table border="0">
+        <tbody>
+          <tr>
+            
+            <td width="35"><a href="_URLRSS"><img src="/images/pinrss.gif" width="35" height="34" alt=""/></a></td>
+            <td width="35"><a href="_URLPINTEREST" target="_blank"><img src="/images/pinpinterest.gif" width="36" height="34" alt=""/></a></td>
+            <td width="35"><a href="" target="_blank"><img src="/images/pinfacebook.gif" width="36" height="34" alt=""/></a></td>
+            <td width="35"><a href="" target="_blank"><img src="/images/pintwitter.gif" width="36" height="34" alt=""/></a></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center"></td>
+    </tr>
+    <tr>
+      <td height="1" colspan="3" BGCOLOR=#aca9a9></td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">I <a href="/" class="textoARTpeq">Home</a> I <a href="/masvistos.php" class="textoARTpeq">More views Today</a> I xxx I xxx I xxx I xxx I xxx I <a href="/registro.php" rel="nofollow" class="textoARTredpeq">Register your Blog</a> I</td>
+    </tr>
+    <tr>
+      <td height="1" colspan="3" BGCOLOR=#aca9a9></td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- architect-adaptable -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8818833347061898"
+     data-ad-slot="1463492703"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+    </tr>
+  </tbody>
+</table>
+			<table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="100%" >
+						<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="texto">
+							<tr>
+								<td bgcolor="#FFFFFF"></td>
+								<td class="texto">&nbsp;</td>
+							</tr>
+							<tr>
+								<td width="66%" bgcolor="#FFFFFF">
+									<div align="left" style='display:inline-block'><h1>Healthy Superbowl Recipes That Will Wow Your Friends</h1></div> - <div align="left" style='display:inline-block'>Health and fitness News</div>
+								</td>
+								<td width="34%" class="texto">
+									<div align="right"><script type="text/javascript">document.write(Fecha());</script></div>
+								</td>
+							</tr><tr>
+								<td bgcolor="#FFFFFF"></td>
+								<td class="texto">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+	<table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td valign="top">
+						<div style="border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;-ms-border-radius:4px; border:1px solid #CCCCCC; padding:7px; ">
+							<table width="99%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td colspan="2" valign="top">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td width="10%"><a data-flip-widget="flipit" href="https://flipboard.com">Add to Flipboard Magazine.</a><script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script></td>
+												<td width="11%" class="textoc"><g:plusone></g:plusone></td>
+												<td width="79%" align="right" class="textoART">Fuente: a couple cooks -
+													<a href="/fuente/a-couple-cooks" class="textoART">View all news from this site</a></td>
+											</tr>
+											<tr>
+												<td height="5" colspan="6"></td>
+											</tr>
+											<tr>
+											  <td colspan="3"><table width="70%" border="0" align="center">
+										  <tbody>
+										    <tr>
+										      <td align="center"><a href="http://www.facebook.com/sharer.php?u=http://healthfitnesstrends.net/healthy-food/healthy-superbowl-recipes-that-will-wow-your-friends"><img src="/images/share-facebook.gif" alt="Healthy Superbowl Recipes That Will Wow Your Friends"/></a></td>
+										      <td align="center"><a href="&lt;a href="http:="http:"//www.twitter.com/share?url=http://healthfitnesstrends.net/healthy-food/healthy-superbowl-recipes-that-will-wow-your-friends&quot;><img src="/images/share-twitter.gif" alt="Healthy Superbowl Recipes That Will Wow Your Friends"/></a></td>
+									        </tr>
+									      </tbody>
+									  </table></td>
+										  </tr>
+											<tr>
+												<td colspan="3"><h2>Healthy Superbowl Recipes That Will Wow Your Friends</h2></td>
+											</tr>
+										</table>
+										
+									</td>
+								</tr>
+								<tr>
+									<td colspan="2" align="center" class="texto">
+																				<img src="http://ob8qxdtnu3-flywheel.netdna-ssl.com/wp-content/uploads/2017/01/Sweet-Potato-Rounds-3-of-9.jpg" width="600" />
+										<br />
+										<br />
+																			</td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left" class="texto">
+                                    <div id="HOTWordsTxt" name="HOTWordsTxt">																				
+										With the Super Bowl a few weeks away, we start thinking of healthy-ish gameday recipes. From savory to sweet, here are our top 10 recipes for the big day that are centered on real food and wholesome ingredients. Each recipe has been friend-tested and approved; all are vegetarian, some vegan and gluten-free. We&#8217;d love to know your ideas! Let us know in the comments below. 1. Loaded Sweet Potato Rounds Our number 1 favorite game day recipe are these loaded sweet potato rounds. Friends beg us to make them, and they&#8217;re gone in a flash. (Vegetarian, Gluten-Free) 2. Hot Wings Hummus Jars Our new hummus flavor is made delicious with a simple addition: hot sauce. It&#8217;s creamy and tangy, and you can adjust the hot sauce to taste. (Vegetarian, Gluten-Free, Vegan) 3. Roasted Delicata Squash Fries with Buffalo Sauce Have you tried delicata squash&quot; If not, please get on it now. This unique squash roasts quickly and doesn&#8217;t need to be peeled, which makes for easy prep. (Vegetarian, Gluten-Free) 4. Buffalo Cauliflower with Blue Cheese Dip One of our favorite recipes: roasted cauliflower covered in buffalo sauce. Pair it with a creamy, cooling blue cheese dip. (Vegetarian, Gluten-Free) 5. Mexican Loaded Sweet Potato Fries What&#8217;s not [&#8230;]<div id="scgp_in-text" style="margin: auto; width: 90%; height: 0px; position: relative;" data-idvideo="1" data-idpublisher="10701" data-url="http://widget.smartycenter.com/webservice/intextData" data-simple-url-ad="http://frontal.idsp.smartycenter.com/es/@x31?AffiliateID=10701&source=intxt&kws=mujer"><script src="http://widget.smartycenter.com/player/intext/intext.min.js"></script></div>
+A Couple Cooks - Recipes for Healthy &amp; Whole Living<br />
+<br />
+With the Super Bowl a few weeks away, we start thinking of healthy-ish gameday recipes. From savory to sweet, here are our top 10 recipes for the big day that are centered on real food and wholesome ingredients. Each recipe has been friend-tested and approved; all are vegetarian, some vegan and gluten-free. We&#8217;d love to know your ideas! Let us know in the comments below.<br /><br />1. Loaded Sweet Potato Rounds<br />
+Our number 1 favorite game day recipe are these loaded sweet potato rounds. Friends beg us to make them, and they&#8217;re gone in a flash. (Vegetarian, Gluten-Free)<br />
+<br />
+2. Hot Wings Hummus Jars<br />
+Our new hummus flavor is made delicious with a simple addi...                                        <br />
+                                        
+                                    </div>
+									</td>
+								</tr>
+								<tr>
+									<td height="5" colspan="2"></td>
+								</tr>
+								<tr>
+									<td width="326" align="left">
+										<table width="99%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td>
+													<div class="borde_gris">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td width="85%" bgcolor="#c1e5f3" style="padding: 5px;">
+																	<div>
+																		<strong class="textoc">
+																			<a href="http://feedproxy.google.com/~r/ACoupleCooks/~3/hsnMasc5rSk/" rel="nofollow" target="_blank" class="textoART">See the full story in the original source</a>
+																		</strong>
+																	</div>
+																</td>
+															</tr>
+														</table>
+													</div>
+												</td>
+											</tr>
+										</table>
+									</td>
+									<td width="317" rowspan="2" align="center" valign="top"><strong>
+									  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-8818833347061898";
+/* 336x280turismo */
+google_ad_slot = "5566088708";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+									</strong>
+										
+									</td>
+								</tr>
+								<tr> 
+									<td align="left" class="texto">
+										
+									  <table width="100%" border="0" cellspacing="0" cellpadding="0" class="texto">
+										  <tr>
+										   
+										    <td><g:plusone></g:plusone></td>
+									      </tr>
+										 
+										  <tr>
+										    <td>facebook: <a href="" target="_blank"></a></td>
+									      </tr>
+										  <tr>
+										    <td> twitter: <a href="" target="_blank"></a></td>
+									      </tr>
+									  </table>
+									  <p>Fuente de la noticia: <strong><a href="/fuente/a-couple-cooks" class="texto">a couple cooks</a></strong><br />
+										Fecha de publicación: 25-01-2017 21:42							        <br />
+						          visto: 18                                      
+									  <table width="99%" border="0">
+									    <tbody>
+									      <tr>
+									        <td><a href="http://twitter.com/share?url=http://healthfitnesstrends.net/healthy-food/healthy-superbowl-recipes-that-will-wow-your-friends/&text=Healthy Superbowl Recipes That Will Wow Your Friends" target="_blank"><img src="/images/sharetwitter.gif" width="326" height="56" alt="shared twitter"/></a></td>
+								          </tr>
+									      <tr>
+									        <td><a href="http://www.facebook.com/sharer.php?u=http://healthfitnesstrends.net/healthy-food/healthy-superbowl-recipes-that-will-wow-your-friends" target="_blank"><img src="/images/sharefacebook.gif" width="326" height="56" alt="shared facebook"/></a></td>
+								          </tr>
+								        </tbody>
+							      </table></td>
+								</tr>
+								<tr>
+									<td height="5" colspan="2" class="texto"></td>
+								</tr>
+							</table>
+						  <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FHealth-Fitness-Trends-1802900093292130%2F&tabs&width=500&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1659149277650126" width="500" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>							<table width="99%" border="0" cellspacing="0" cellpadding="0">
+							  <tr>
+<td></td>
+						      </tr>
+						  </table>
+                        </div>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td><div class="widget">
+            <div class="widget-wrap">
+              <h3 class="widgettitle"><span>Si te gusto esta noticia puede que te interesen estas..</h3>
+              <div class="textwidget">
+              
+              <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- contenidorelacionadodecorationandstyle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:650px;height:300px"
+     data-ad-client="ca-pub-8818833347061898"
+     data-ad-slot="5205926705"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>              <div data-spklw-widget="widget-56d0522fe15d7"></div>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>              <div data-src="healthfitnesstrends.net/healthy-food/healthy-superbowl-recipes-that-will-wow-your-friends" class="OUTBRAIN" ></div>
+<script type="text/javascript">(function(){window.OB_platformType=8;window.OB_langJS="http://widgets.outbrain.com/lang_en.js";window.OBITm="1417899731987";window.OB_recMode="brn_strip";var ob=document.createElement("script");ob.type="text/javascript";ob.async=true;ob.src="http"+("https:"===document.location.protocol?"s":"")+"://widgets.outbrain.com/outbrainLT.js";var h=document.getElementsByTagName("script")[0];h.parentNode.insertBefore(ob,h);})();</script>
+<div data-src="www.healthfitnesstrends.net/healthy-food/healthy-superbowl-recipes-that-will-wow-your-friends" class="OUTBRAIN" ></div>
+<script type="text/javascript">(function(){window.OB_platformType=8;window.OB_langJS="http://widgets.outbrain.com/lang_en.js";window.OBITm="1417899731987";window.OB_recMode="brn_strip";var ob=document.createElement("script");ob.type="text/javascript";ob.async=true;ob.src="http"+("https:"===document.location.protocol?"s":"")+"://widgets.outbrain.com/outbrainLT.js";var h=document.getElementsByTagName("script")[0];h.parentNode.insertBefore(ob,h);})();</script></div></div></td>
+							</tr>
+						</table>
+                        
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+							  <td align="center">------------------------------------------------------------------------------------------------------------</td>
+	    </tr>
+							<tr>
+								<td align="center" class="texto">Recommended Video section of our Health and fitness videos - <a href="/tv/" title="Health and fitness videos">Watch More Videos in Health and fitness videos</a></td></tr>
+							<tr>
+							  <td align="center"><h2></h2></td>
+						  </tr>
+							
+                                <tr><td align="center">
+                                <div >
+    <iframe id="_873911210
+" width="100%" height="438" src="http://widget.smartycenter.com/webservice/directYoutube/10701//600/338/100?ap=0&erv=0&rrss=1" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+								</div> 
+                              </td>
+							</tr>
+						</table><table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td align="center" class="textograndeazul"><a href="/tv/" title="Health and fitness videos" >Go TO TV Health and fitness videos</a></td>
+    </tr>
+  </tbody>
+</table>
+
+						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					  <tr>
+					    <td valign="top" bgcolor="#FFFFFF"><div class="widget">
+            <div class="widget-wrap">
+              <h3 class="widgettitle"><span>Si te gusto esta noticia puede que te interesen estas..</h3>
+              <div class="textwidget">
+              <table border="0" cellspacing="0" cellpadding="0">
+           <tr>
+                             <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/7-High-Protein-Meatless-One-Pan-Meals-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/7-high-protein-meatless-one-pan-meals" class="texto" style="font-weight:bold;">7 High-Protein Meatless One-Pan Meals</a><br>
+               <br>
+               High-protein and meat-free" Nope, those aren?t oxymorons. Vegetarian dishes can be hearty, wholesome and just as high in protein as those that contain ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               22-02-2017 22:02               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/2017-is-Testing-Our-Sanity-Heres-How-to-Cope-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/2017-testing-your-sanity-quot-here-are-5-ways-to-cope" class="texto" style="font-weight:bold;">2017 Testing Your Sanity&quot; Here Are 5 Ways to Cope</a><br>
+               <br>
+               Understatement of 2017: There?s a lot happening in the world right now.
+Have you already fallen off your New Year?s resolution plans" Found yourself g ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               22-02-2017 22:02               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/Sweatbox-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/we-tried-it-for-you-sweatbox" class="texto" style="font-weight:bold;">We Tried It for You: SweatBox</a><br>
+               <br>
+               It was only a matter of time before wearables entered the group fitness world. While you won?t find tons of classes using fitness trackers yet, one st ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               22-02-2017 22:02               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/Stressing-Your-Resolution--1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/stressing-your-resolution-quot-here-8217s-why-you-8217re-on-the-right-track" class="texto" style="font-weight:bold;">Stressing Your Resolution&quot; Here&#8217;s Why You&#8217;r</a><br>
+               <br>
+               Let?s be upfront: Hardly anyone follows through on their New Year?s resolutions. (So says the data.)
+While nearly half the population sets one, less t ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               22-02-2017 22:02               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="/images/defect2.gif" width="119" height="68"><br>
+               <a href="/fitness/celebrity-trainer-secrets-supermodel-jourdan-dunn-8217s-workout-plus-tips-from-her-pt-brother-antoine" class="texto" style="font-weight:bold;">Celebrity trainer secrets: Supermodel Jourdan Dunn&#8217;s w</a><br>
+               <br>
+               We finished London Fashion Week yesterday with a bang, joining supermodel Jourdan Dunn for new KOBOX class taught by her brother Antoine Dunn. He talk ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               22-02-2017 21:50               </div>
+               </td>
+             </tr><tr>             <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="/images/defect3.gif" width="119" height="68"><br>
+               <a href="/fitness/15-minute-lunch-recipe-cauliflower-tikka-masala" class="texto" style="font-weight:bold;">15 Minute Lunch recipe: Cauliflower Tikka Masala</a><br>
+               <br>
+               You\'ve probably heard of Chicken Tikka; but have you heard of Cauliflower Tikka " Healthista?s lunch queen Ony Anukem is back with a 15 minute Caulif ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               22-02-2017 21:50               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://ob8qxdtnu3-flywheel.netdna-ssl.com/wp-content/uploads/2017/02/Hangry-Eggs-001.jpg" width="119" height="68"><br>
+               <a href="/healthy-food/4-vegetarian-dinner-recipes-for-when-you-dont-know-what-to-make" class="texto" style="font-weight:bold;">4 Vegetarian Dinner Recipes for When You Don?t Know What to </a><br>
+               <br>
+               This post was created in partnership with ALDI. All opinions are our own. We hear it all the time: ?I just don?t know what to make for dinner.? Or, ?I ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               22-02-2017 21:43               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/5-Real-Benefits-of-Gym-Selfies-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/5-real-benefits-of-workout-selfies" class="texto" style="font-weight:bold;">5 Real Benefits of Workout Selfies</a><br>
+               <br>
+               In late 2015, Karla Pankow was an occasional gym-goer who struggled to ditch soda, junky snack food and way too much sitting. Then she got on Instagra ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               21-02-2017 21:56               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/Smoky-Chicken-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/recipe-smoky-tomato-herb-baked-chicken" class="texto" style="font-weight:bold;">Recipe: Smoky Tomato Herb Baked Chicken</a><br>
+               <br>
+               This saucy and flavorful dish from Clean Eating is an easy weeknight dinner. Smoky, herbed chicken thighs are smothered in an aromatic tomato sauce. T ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               21-02-2017 21:56               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/Transformation-Tuesday-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/10-great-transformationtuesday-successes-on-instagram" class="texto" style="font-weight:bold;">10 Great #TransformationTuesday Successes on Instagram</a><br>
+               <br>
+               
+Ask anyone who has lost weight: There?s nothing more empowering than seeing how far you?ve come compared with where you started. That?s what makes th ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               21-02-2017 21:56               </div>
+               </td>
+             </tr><tr>             <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="/images/defect1.gif" width="119" height="68"><br>
+               <a href="/fitness/is-unitasking-the-key-to-success-at-work-quot-this-mindfulness-expert-says-yes" class="texto" style="font-weight:bold;">Is ?unitasking? the key to success at work&quot; This mindfu</a><br>
+               <br>
+               Mindfulness Expert Dana Zelicha from the Organizational Well Being Agency says multitasking is a work fail waiting to happen. Instead, she says smart, ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               21-02-2017 21:44               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="/images/defect2.gif" width="119" height="68"><br>
+               <a href="/fitness/the-rise-of-healthy-partying" class="texto" style="font-weight:bold;">The rise of healthy partying</a><br>
+               <br>
+               Fitness leisure, combining your health goals with socialising, is on the rise as we become a more health conscious nation. Healthista picks the best f ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               21-02-2017 21:44               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://www.anutritionisteats.com/wp-content/uploads/5-Healthy-Breakfasts-for-Kids-200x300.jpg" width="119" height="68"><br>
+               <a href="/Nutrition/5-healthy-breakfasts-for-kids" class="texto" style="font-weight:bold;">5 healthy breakfasts for kids</a><br>
+               <br>
+               Making breakfasts for little ones can get soooooo repetitive, so quickly. I can only imagine how that will feel in a few years! Full disclosure: while ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               21-02-2017 21:40               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://i1.wp.com/www.greenkitchenstories.com/wp-content/uploads/2017/02/Quick_snack_attack.jpg?resize=800%2C561" width="119" height="68"><br>
+               <a href="/healthy-food/3-favorite-quick-treats" class="texto" style="font-weight:bold;">3 Favorite Quick Treats</a><br>
+               <br>
+               
+Our daughterâ€™s school teacher sent along a pale blue little text book for her to draw and write in during our recent trip to Cape Town. Considering ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               21-02-2017 21:40               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="/images/defect1.gif" width="119" height="68"><br>
+               <a href="/healthy-food/head-talks-8211-mindful-eating-with-melissa" class="texto" style="font-weight:bold;">Head Talks &#8211; Mindful Eating with Melissa</a><br>
+               <br>
+               
+I had the pleasure of sitting down with Head Talks (a brilliant site that informs, inspires and engages in the mind and mental wellbeing) to chat abo ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               21-02-2017 21:40               </div>
+               </td>
+             </tr><tr>             <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://www.hemsleyandhemsley.com/assets/2017/02/NickHopper_HemsleyHemsley_AfternoonTea-7235.jpg" width="119" height="68"><br>
+               <a href="/healthy-food/afternoon-tea-at-our-hemsley-cafe" class="texto" style="font-weight:bold;">Afternoon Tea at our Hemsley Café</a><br>
+               <br>
+               
+We love a spot of afternoon tea, whether itâ€™s to celebrate a birthday, special occasion, or just because! Now you can enjoy this classic British tr ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               21-02-2017 21:40               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://www.foodpolitics.com/wp-content/uploads/Evangers-300x157.png" width="119" height="68"><br>
+               <a href="/Nutrition/yikes-pentobarbital-a-euthanasia-drug-in-evangers-pet-food" class="texto" style="font-weight:bold;">Yikes!  Pentobarbital (a euthanasia drug) in Evanger?s pet f</a><br>
+               <br>
+               Last week the FDA warned pet owners not to feed  specific lot numbers of Evanger?s canned Hunk of Beef or Against the Grain Grain Free Pulled Beef wit ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               21-02-2017 21:40               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="https://www.girlsgonestrong.com/wp-content/uploads/2017/02/kelliedavis-waisthightrophy-250x375.png" width="119" height="68"><br>
+               <a href="/fitness/my-journey-from-figure-to-powerlifting" class="texto" style="font-weight:bold;">My Journey from Figure to Powerlifting</a><br>
+               <br>
+               ?If I don?t win my pro card, this is a sign. This is it for me. I?m done.?
+That?s what I told my then coach Alan Aragon, during a pre-show pep talk as ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               21-02-2017 21:40               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/Ingredient-of-the-Week-Farro-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/ingredient-of-the-week-7-farro-recipes-bursting-with-flavor" class="texto" style="font-weight:bold;">Ingredient of the Week: 7 Farro Recipes Bursting with Flavor</a><br>
+               <br>
+               
+Farro is an ancient wheat experiencing a modern resurgence. It has gained so much popularity that Merriam-Webster has added it to the dictionary. Hea ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               20-02-2017 21:56               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/This-Is-Your-Heart-on-and-off-Exercise-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/this-is-your-heart-on-and-off-exercise" class="texto" style="font-weight:bold;">This Is Your Heart on (and off) Exercise</a><br>
+               <br>
+               Stay active, boost your heart health. It?s a simple enough directive, but contrary to what you might think, the connection comes down to way more than ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               20-02-2017 21:56               </div>
+               </td>
+             </tr><tr>             <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2016/03/The-5-Worst-Things-to-Say-to-Someone-Who-Is-Losing-Weight-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/the-5-worst-things-to-say-to-someone-who-is-losing-weight" class="texto" style="font-weight:bold;">The 5 Worst Things to Say to Someone Who Is Losing Weight</a><br>
+               <br>
+               When someone in your life is in the process of losing weight, what should you do" Should you draw attention to the weight loss and applaud the person, ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               20-02-2017 21:56               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="/images/defect2.gif" width="119" height="68"><br>
+               <a href="/fitness/3-healthy-chocolate-recipes-that-could-help-your-skin" class="texto" style="font-weight:bold;">3 healthy chocolate recipes that could help your SKIN</a><br>
+               <br>
+               Delicious skin-friendly desserts from YouTube superstar Caroline Artiss\' new book Beauty Foods  
+The post 3 healthy chocolate recipes that could help ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               20-02-2017 21:44               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="/images/defect1.gif" width="119" height="68"><br>
+               <a href="/fitness/reviewed-chinup-the-natural-treatment-that-claims-to-lift-a-double-chin" class="texto" style="font-weight:bold;">REVIEWED: ChinUp, the natural treatment that claims to lift </a><br>
+               <br>
+               Fed up of the excess fat under your chin but not looking to take to the knife" We may have found a solution. Our tester, Sophie reviews ChinUp, a natu ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               20-02-2017 21:44               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="/images/defect3.gif" width="119" height="68"><br>
+               <a href="/fitness/win-sond-skincare-set-for-sensitive-skins" class="texto" style="font-weight:bold;">WIN! Sond skincare set for sensitive skins</a><br>
+               <br>
+               Sond skincare is offering one lucky Healthista reader the chance to WIN a Sönd gift set worth £120  
+The post WIN! Sond skincare set for sensitive ski ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               20-02-2017 21:44               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="/images/defect3.gif" width="119" height="68"><br>
+               <a href="/fitness/asmr-8211-the-youtube-trend-that-could-help-your-insomnia" class="texto" style="font-weight:bold;">ASMR &#8211; the YouTube trend that could help your insomnia</a><br>
+               <br>
+               Heard of ASMR" The so-called ?whisper therapy? taking the world by storm could help your insomnia, stress and anxiety. Healthista writer Amanda Lundgr ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               20-02-2017 21:44               </div>
+               </td>
+             </tr><tr>             <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="/images/defect1.gif" width="119" height="68"><br>
+               <a href="/fitness/meat-free-monday-recipe-fruity-kale-salad-from-new-book-made-in-the-office" class="texto" style="font-weight:bold;">Meat free Monday recipe: fruity kale salad from new book Mad</a><br>
+               <br>
+               Looking to reduce your meat intake but still eat delicious food" Or maybe you?re a full-time vegetarian and you?re on the hunt for new foods. Healthis ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               20-02-2017 21:44               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://ob8qxdtnu3-flywheel.netdna-ssl.com/wp-content/uploads/2017/02/Eggplant-Skillet-003.jpg" width="119" height="68"><br>
+               <a href="/healthy-food/skillet-eggplant-marinara" class="texto" style="font-weight:bold;">Skillet Eggplant Marinara</a><br>
+               <br>
+                  This post was created in partnership with Newman?s Own. All opinions are our own. ?We?ve had two generations of college bred people now who have re ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               20-02-2017 21:40               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://www.foodpolitics.com/wp-content/uploads/IMG_6302-225x300.jpg" width="119" height="68"><br>
+               <a href="/Nutrition/nyc-breakfast-program-good-but-oddly-advertised" class="texto" style="font-weight:bold;">NYC breakfast program: good, but oddly advertised</a><br>
+               <br>
+               Charles Platkin of Hunter&#8217;s Food Policy Center sent me this photo taken on the subway a week or so ago. A croissant to advertise the school syst ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               20-02-2017 21:40               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/A-20-Minute-Glider-Workout-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/a-20-minute-glider-workout-thatll-tone-your-upper-body" class="texto" style="font-weight:bold;">A 20-Minute Glider Workout That?ll Tone Your Upper Body</a><br>
+               <br>
+               Youâ€™ve probably seen those purple gliding discs at your gym or even used them in class for moves like lunges and mountain climbers. If you have, you ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               19-02-2017 22:00               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://jillfit.com/wp-content/uploads/2017/02/IMG_7980.jpg" width="119" height="68"><br>
+               <a href="/fitness/how-to-manage-your-expectations-for-others" class="texto" style="font-weight:bold;">How to Manage Your Expectations for Others</a><br>
+               <br>
+               You probably know that I am a huge fan of Byron Katie?s â€˜The Work.â€™ She says that whenever we argue with reality, we lose.
+Think about it: the spa ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               19-02-2017 22:00               </div>
+               </td>
+             </tr><tr>             <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="/images/defect2.gif" width="119" height="68"><br>
+               <a href="/fitness/spa-of-the-week-anantara-peace-haven-sri-lanka" class="texto" style="font-weight:bold;">Spa of the Week:  Anantara Peace Haven, Sri Lanka</a><br>
+               <br>
+               Queen of Retreats founder and wellness travel journalist Caroline Sylger Jones reviews Anantara Peace Haven in Sri Lanka - the first in our Spa Sunday ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               19-02-2017 21:48               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/cauliflower_bake-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/recipe-cheesy-low-carb-cauliflower-bake" class="texto" style="font-weight:bold;">Recipe: Cheesy Low-Carb Cauliflower Bake</a><br>
+               <br>
+               Cheesy, creamy and full of flavor, this loaded cauliflower mash is a low-carb alternative to mashed potatoes. Cauliflower is an excellent source of vi ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               18-02-2017 21:55               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/Fit-for-Your-Age-Take-This-Test-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/this-week-in-health-038-fitness-fit-for-your-age-quot-take-this-test" class="texto" style="font-weight:bold;">This Week in Health &#038; Fitness: Fit for Your Age&quot; T</a><br>
+               <br>
+               You?re back for more, and so are we. We?re pleased to present another edition of ?This Week in Health & Fitness,? the Under Armour Connected Fitness b ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               18-02-2017 21:55               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2016/04/MangoChickenStillmedium-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/recipe-20-minute-mango-chicken-bowls-video" class="texto" style="font-weight:bold;">Recipe: 20-Minute Mango Chicken Bowls [Video]</a><br>
+               <br>
+               
+Enjoy the refreshing flavors of summer with Clean Eating?s 20-minute mango chicken. Paired with the bright flavors of mango, bell pepper, mint and li ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               18-02-2017 21:55               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2016/09/GreekWrapsStillmedium-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/recipe-quick-greek-chicken-wraps-video" class="texto" style="font-weight:bold;">Recipe: Quick Greek Chicken Wraps [Video]</a><br>
+               <br>
+               
+Make a delicious, nutritious lunch in no time flat with Greek style chicken wraps by Cooking Light. Combine grocery store rotisserie chicken, tomatoe ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               18-02-2017 21:55               </div>
+               </td>
+             </tr><tr>             <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="https://2.bp.blogspot.com/-zcdgsT8nCbE/WKfEKrCMBCI/AAAAAAAANLM/7drxUzwPcloC1lt78_4GFvG4H94DDiu3ACLcB/s640/it%2Bpro.jpg" width="119" height="68"><br>
+               <a href="/health/how-it-professionals-with-hair-loss-suffer-from-hypertension" class="texto" style="font-weight:bold;">How IT Professionals with Hair Loss suffer from Hypertension</a><br>
+               <br>
+               Hair loss is a growing concern among men and women today and people living in the IT hub ?Pune are also not spared from the worry. There are several r ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               18-02-2017 21:46               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/Copy-of-MFP_quick_easy_guide_losing_weight_featured-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/your-quick-038-easy-guide-to-losing-weight-in-2017" class="texto" style="font-weight:bold;">Your Quick &#038; Easy Guide to Losing Weight in 2017</a><br>
+               <br>
+               It?s not exactly the new year anymore, but we all occasionally need a little extra time to think things over before we dive in ? and do some recon on  ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               17-02-2017 21:55               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/12-Healthy-Eating-Restaurant-Hacks-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/12-healthy-eating-restaurant-hacks" class="texto" style="font-weight:bold;">12 Healthy Eating Restaurant Hacks</a><br>
+               <br>
+               Whether a fun social occasion or an everyday reality, dining out poses a challenge for those of us trying to eat better, especially if we want to cons ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               17-02-2017 21:55               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2015/10/V7_JR_Hearty-Chicken-Corn-Chowder-709x1024.jpg" width="119" height="68"><br>
+               <a href="/fitness/recipe-hearty-chicken-038-corn-chowder" class="texto" style="font-weight:bold;">Recipe: Hearty Chicken &#038; Corn Chowder</a><br>
+               <br>
+               For a hearty chowder that?s not thickened with flour, simply puree a portion of the soup in a blender. Blending also gives the soup a creamier texture ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               17-02-2017 21:55               </div>
+               </td>
+                          <td width="110" height="250" align="left" valign="top"  ><div class="texto" style="padding:5px; background-color:#EBEBEB; height:236px; margin:3px 3px 0 3px; display:inline-block; width:120px; color:#666;"><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/3-Delicious-Heart-Healthy-Recipes-1024x643.jpg" width="119" height="68"><br>
+               <a href="/fitness/3-delicious-heart-healthy-recipes" class="texto" style="font-weight:bold;">3 Delicious, Heart-Healthy Recipes</a><br>
+               <br>
+               With heart disease coming in as the Number 1 cause of death in the U.S., heart health has become a hot topic in the medical and wellness community. Lu ...</div>
+               <div class="texto" style="padding:5px; background-color:#EBEBEB;margin:0 3px 3px 3px; display:inline-block; width:120px; color:#666;">
+               17-02-2017 21:55               </div>
+               </td>
+             </tr><tr>           </tr>
+         </table>
+              </div>
+            </div>
+          </div>
+				        </td>
+				      </tr>
+				    </table>						<p>&nbsp;</p>
+					</td>
+					<td width="15" valign="top">&nbsp;
+						
+					</td>
+					<td width="300" valign="top">
+						 
+<table width="300" border="0" cellspacing="0" cellpadding="0" align="center">
+   <tr>
+    <td><script type="text/javascript"><!--
+google_ad_client = "ca-pub-8818833347061898";
+/* cosmetiks300x600 */
+google_ad_slot = "1813637107";
+google_ad_width = 300;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					                     <tr>
+                                         <td width="53" valign="top" class="texto" bgcolor="#efecec"><div><strong class="texto"><img src="/images/aa4.png" width="35" height="34" border="0" /></strong></div></td>
+					                       <td width="247"  class="textoART2" bgcolor="#efecec"><div><strong class="texto"><a href="/masvistos.php" class="textoART2">News most viewed this week</a></strong></div></td>
+				                         </tr>
+				                       </table>
+                                      <br />
+<table width="300" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td><form action="buscador.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-8818833347061898:2737773907" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="25" />
+    <input type="submit" name="sa" value="Buscar" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+
+</td>
+  </tr>
+</table>
+<table width="300" border="0" cellspacing="0" cellpadding="0" align="center">
+					    <tr>
+					      <td><div class="widget">
+					        <div class="widget-wrap">
+					          <h3 class="widgettitle"><div align="left">Would you like your blog and posts leave here?</div></h3>
+					          <div class="textwidget">
+				                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+					              
+					               <tr>
+					                 <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+					                     <tr>
+					                       <td width="300" valign="top" class="textoARTred" bgcolor="#efecec"><div><strong class="texto"><a href="/registro.php" rel="nofollow" class="textoARTred">Register your Blog</a></strong></div></td>
+				                         </tr>
+				                       </table>
+                                      <br />
+
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                         <tr>
+                                           <td width="12%"><a href="/feed/"><img src="/images/pinrss.gif" width="35" height="34" border="0" /></a></td>
+                                           <td width="12%"><a href="" rel="nofollow"><img src="/images/pinfacebook.gif" width="36" height="34" border="0" /></a></td>
+                                           <td width="12%"><a href="" rel="nofollow"><img src="/images/pintwitter.gif" width="36" height="34" border="0" /></a></td>
+                                           <td width="12%"><a href="_URLPINTEREST" rel="nofollow"><img src="/images/pinpinterest.gif" width="36" height="34" border="0" /></a></td>
+                                           <td width="31%"><!-- Inserta esta etiqueta donde quieras que aparezca BotÃ³n +1. -->
+                                             <div class="g-plusone" data-size="medium" data-width="300"></div>
+                                             <!-- Inserta esta etiqueta despuÃ©s de la Ãºltima etiqueta de BotÃ³n +1. -->
+                                             <script type="text/javascript">
+  window.___gcfg = {lang: 'es'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+                                         </script></td>
+                                           <td width="21%">&nbsp;</td>
+                                         </tr>
+                                         <tr>
+                                           <td>&nbsp;</td>
+                                           <td>&nbsp;</td>
+                                           <td style="font-size:12px" align="center">&nbsp; </td>
+                                           <td>&nbsp;</td>
+                                           <td>&nbsp;</td>
+                                         </tr>
+                                         
+                                     </table></td>
+				                  </tr>
+				                </table>
+					          </div>
+				            </div>
+					        </div>
+					        <table width="300" border="0" cellspacing="0" cellpadding="0">
+					          <tr>
+					            <td height="2"></td>
+				              </tr>
+				            </table></td>
+				        </tr>
+</table>
+<table width="300" border="0" cellspacing="0" cellpadding="0" align="center">
+		    <tr>
+		      <td><div class="widget">
+		        <div class="widget-wrap">
+		          <h3 class="widgettitle"><div align="left">Categories</div></h3>
+		          <div class="textwidget">
+		            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+		              <tr>
+		                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+					              
+					               <tr>
+					                  					                 <td width="50%"><strong class="titulonuevo"><a href="/categoria/health"></a><a href="/categoria/health">Health</a></strong></td>
+					                 					                 <td width="50%"><strong class="titulonuevo"><a href="/categoria/fitness"></a><a href="/categoria/fitness">Fitness</a></strong></td>
+					                 </tr><tr>					                 <td width="50%"><strong class="titulonuevo"><a href="/categoria/Nutrition"></a><a href="/categoria/Nutrition">Nutrition</a></strong></td>
+					                 					                 <td width="50%"><strong class="titulonuevo"><a href="/categoria/healthy-food"></a><a href="/categoria/healthy-food">Healthy food</a></strong></td>
+					                 </tr><tr>				                  </tr>
+		                  </table></td>
+	                  </tr>
+	                </table>
+	              </div>
+	            </div>
+		        </div>
+		        <table width="300" border="0" cellspacing="0" cellpadding="0">
+		          <tr>
+		            <td height="2"></td>
+	              </tr>
+	            </table></td>
+	        </tr>
+	      </table>
+          <table width="300" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td><div class="widget">
+                          <div class="widget-wrap">
+                            <h3 class="widgettitle"><div align="left">Blogs most viewed last 7 days</div></h3>
+                            <div class="textwidget">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/foodpolitics">foodpolitics</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/myfitnesspal">myfitnesspal</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/a-couple-cooks">a couple cooks</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/anutritionisteats">anutritionisteats</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/newspropro">newspropro</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/girls-gone-strong">girls gone strong</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/greenkitchenstories">greenkitchenstories</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/ohsheglows">ohsheglows</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/myfitnesspal">myfitnesspal</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/sound-health-doctor">Sound Health Doctor</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/niashanks">niashanks</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/jillfit">jillfit</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/negharfonooni">negharfonooni</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/hemsleyandhemsley">hemsleyandhemsley</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+													<tr>	
+								<td align="left"><strong class="titulonuevo"><a href="/fuente/deliciouslyella">deliciouslyella</a></strong></td>
+								<td ><strong class="texto"></strong></td>
+                                
+							</tr>
+											
+					<tr>
+						<td  colspan="2" align="center">
+							<a href="/masvistosfuentes.php" class="titulonuevo"><br />
+							More Blogs</a>
+						</td>
+					</tr>
+				</table></div>
+				            </div>
+					        </div></td>
+					                
+				                  </tr>
+				                </table>
+                                                                <table width="300" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td><div class="textwidget">
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+                            <tr>
+                              <td valign="top" bgcolor="#FFFFFF"><div class="widget">
+                                <div class="widget-wrap">
+                                  <h3 class="widgettitle"><div align="left">News most viewed Today</div></h3>
+                                  <div class="textwidget">
+                                                                        <table width="100%" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="100%" valign="top"><div>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                            <tr>
+                                              
+                                              <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                  <td width="300" valign="top"><a href="/Nutrition/yikes-pentobarbital-a-euthanasia-drug-in-evangers-pet-food" ><img src="http://www.foodpolitics.com/wp-content/uploads/Evangers-300x157.png" alt="Yikes!  Pentobarbital (a euthanasia drug) in Evanger?s pet food" width="300" height="150" border="0" /></a></td>
+                                                </tr>
+                                                <tr>
+                                                  <td><h3> <a href="/Nutrition/yikes-pentobarbital-a-euthanasia-drug-in-evangers-pet-food" class="titulonuevo">
+                                                    Yikes!  Pentobarbital (a euthanasia drug) in ...                                                  </a></h3></td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="left"><div class="texto"> Last week the FDA warned pet owners not to feed  specific lot numbers of Evanger?s canned Hunk of Beef or Against the Grain Grain Free Pulled Beef with Gravy canned dog food  because they might contain enough pentobarbital to sicken or kill their... - </div></td>
+                                                </tr>
+                                              </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                          </table>
+                                        </div></td>
+                                      </tr>
+                                                                          <table width="100%" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="100%" valign="top"><div>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                            <tr>
+                                              
+                                              <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                  <td width="300" valign="top"><a href="/healthy-food/4-vegetarian-dinner-recipes-for-when-you-dont-know-what-to-make" ><img src="http://ob8qxdtnu3-flywheel.netdna-ssl.com/wp-content/uploads/2017/02/Hangry-Eggs-001.jpg" alt="4 Vegetarian Dinner Recipes for When You Don?t Know What to Make" width="300" height="150" border="0" /></a></td>
+                                                </tr>
+                                                <tr>
+                                                  <td><h3> <a href="/healthy-food/4-vegetarian-dinner-recipes-for-when-you-dont-know-what-to-make" class="titulonuevo">
+                                                    4 Vegetarian Dinner Recipes for When You Don?...                                                  </a></h3></td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="left"><div class="texto"> This post was created in partnership with ALDI. All opinions are our own. We hear it all the time: ?I just don?t know what to make for dinner.? Or, ?It?s too hard to eat healthy on a weeknight, so I end up with takeout.? Don?t we know it. Believe it... - </div></td>
+                                                </tr>
+                                              </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                          </table>
+                                        </div></td>
+                                      </tr>
+                                                                          <table width="100%" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="100%" valign="top"><div>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                            <tr>
+                                              
+                                              <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                  <td width="300" valign="top"><a href="/Nutrition/5-healthy-breakfasts-for-kids" ><img src="http://www.anutritionisteats.com/wp-content/uploads/5-Healthy-Breakfasts-for-Kids-200x300.jpg" alt="5 healthy breakfasts for kids" width="300" height="150" border="0" /></a></td>
+                                                </tr>
+                                                <tr>
+                                                  <td><h3> <a href="/Nutrition/5-healthy-breakfasts-for-kids" class="titulonuevo">
+                                                    5 healthy breakfasts for kids                                                  </a></h3></td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="left"><div class="texto"> Making breakfasts for little ones can get soooooo repetitive, so quickly. I can only imagine how that will feel in a few years! Full disclosure: while I certainly put thought into the meal planning portion of breakfasts, the execution is all Richie... - </div></td>
+                                                </tr>
+                                              </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                          </table>
+                                        </div></td>
+                                      </tr>
+                                                                          <table width="100%" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="100%" valign="top"><div>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                            <tr>
+                                              
+                                              <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                  <td width="300" valign="top"><a href="/healthy-food/3-favorite-quick-treats" ><img src="http://i1.wp.com/www.greenkitchenstories.com/wp-content/uploads/2017/02/Quick_snack_attack.jpg?resize=800%2C561" alt="3 Favorite Quick Treats" width="300" height="150" border="0" /></a></td>
+                                                </tr>
+                                                <tr>
+                                                  <td><h3> <a href="/healthy-food/3-favorite-quick-treats" class="titulonuevo">
+                                                    3 Favorite Quick Treats                                                  </a></h3></td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="left"><div class="texto"> 
+Our daughterâ€™s school teacher sent along a pale blue little text book for her to draw and write in during our recent trip to Cape Town. Considering that Elsaâ€™s previous writing experiences mostly consisted of scribbling random letters from the... - </div></td>
+                                                </tr>
+                                              </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                          </table>
+                                        </div></td>
+                                      </tr>
+                                                                          <table width="100%" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="100%" valign="top"><div>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                            <tr>
+                                              
+                                              <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                  <td width="300" valign="top"><a href="/fitness/7-high-protein-meatless-one-pan-meals" ><img src="http://blog.myfitnesspal.com/wp-content/uploads/2017/02/7-High-Protein-Meatless-One-Pan-Meals-1024x643.jpg" alt="7 High-Protein Meatless One-Pan Meals" width="300" height="150" border="0" /></a></td>
+                                                </tr>
+                                                <tr>
+                                                  <td><h3> <a href="/fitness/7-high-protein-meatless-one-pan-meals" class="titulonuevo">
+                                                    7 High-Protein Meatless One-Pan Meals                                                  </a></h3></td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="left"><div class="texto"> High-protein and meat-free" Nope, those aren?t oxymorons. Vegetarian dishes can be hearty, wholesome and just as high in protein as those that contain meat. These balanced meals with nutrient-dense foods like whole grains, legumes and veggies will... - </div></td>
+                                                </tr>
+                                              </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                          </table>
+                                        </div></td>
+                                      </tr>
+                                                                          <table width="100%" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="100%" valign="top"><div>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                            <tr>
+                                              
+                                              <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                  <td width="300" valign="top"><a href="/fitness/how-to-manage-your-expectations-for-others" ><img src="http://jillfit.com/wp-content/uploads/2017/02/IMG_7980.jpg" alt="How to Manage Your Expectations for Others" width="300" height="150" border="0" /></a></td>
+                                                </tr>
+                                                <tr>
+                                                  <td><h3> <a href="/fitness/how-to-manage-your-expectations-for-others" class="titulonuevo">
+                                                    How to Manage Your Expectations for Others                                                  </a></h3></td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="left"><div class="texto"> You probably know that I am a huge fan of Byron Katie?s â€˜The Work.â€™ She says that whenever we argue with reality, we lose.
+Think about it: the space between what?s actually happening and what we want to be happening is discord, anxiety, stress,... - </div></td>
+                                                </tr>
+                                              </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                          </table>
+                                        </div></td>
+                                      </tr>
+                                                                          <table width="100%" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="100%" valign="top"><div>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                            <tr>
+                                              
+                                              <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                  <td width="300" valign="top"><a href="/health/10-best-exercises-to-lose-arm-fat-at-home-best-arm-toning-workouts" ><img src="http://www.thefitindian.com/wp-content/uploads/2013/10/Weight-Lifting.jpg" alt="10 Best Exercises To Lose Arm Fat At Home ? Best Arm Toning Workouts" width="300" height="150" border="0" /></a></td>
+                                                </tr>
+                                                <tr>
+                                                  <td><h3> <a href="/health/10-best-exercises-to-lose-arm-fat-at-home-best-arm-toning-workouts" class="titulonuevo">
+                                                    10 Best Exercises To Lose Arm Fat At Home ? B...                                                  </a></h3></td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="left"><div class="texto"> Flabby or big arms can really put you down and ruin your image! They are hard to carry in a slim fit dress and going sleeveless is a huge embarrassment. Both girls and guys have the same problems with their arms. Girls want toned and slim arms,... - </div></td>
+                                                </tr>
+                                              </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                          </table>
+                                        </div></td>
+                                      </tr>
+                                                                          <table width="100%" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="100%" valign="top"><div>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                            <tr>
+                                              
+                                              <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                  <td width="300" valign="top"><a href="/health/how-it-professionals-with-hair-loss-suffer-from-hypertension" ><img src="https://2.bp.blogspot.com/-zcdgsT8nCbE/WKfEKrCMBCI/AAAAAAAANLM/7drxUzwPcloC1lt78_4GFvG4H94DDiu3ACLcB/s640/it%2Bpro.jpg" alt="How IT Professionals with Hair Loss suffer from Hypertension" width="300" height="150" border="0" /></a></td>
+                                                </tr>
+                                                <tr>
+                                                  <td><h3> <a href="/health/how-it-professionals-with-hair-loss-suffer-from-hypertension" class="titulonuevo">
+                                                    How IT Professionals with Hair Loss suffer fr...                                                  </a></h3></td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="left"><div class="texto"> Hair loss is a growing concern among men and women today and people living in the IT hub ?Pune are also not spared from the worry. There are several reasons that can cause hair loss. Sometimes hair loss can be a temporary response to an operation... - </div></td>
+                                                </tr>
+                                              </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                          </table>
+                                        </div></td>
+                                      </tr>
+                                                                          <table width="100%" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="100%" valign="top"><div>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                            <tr>
+                                              
+                                              <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                  <td width="300" valign="top"><a href="/Nutrition/big-ag-forces-firing-of-long-time-farm-news-cartoonist" ><img src="http://www.foodpolitics.com/wp-content/uploads/Capture7-1-300x88.jpg" alt="Big Ag forces firing of long-time Farm News cartoonist" width="300" height="150" border="0" /></a></td>
+                                                </tr>
+                                                <tr>
+                                                  <td><h3> <a href="/Nutrition/big-ag-forces-firing-of-long-time-farm-news-cartoonist" class="titulonuevo">
+                                                    Big Ag forces firing of long-time Farm News c...                                                  </a></h3></td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="left"><div class="texto"> I love cartoons (witness Eat, Drink, Vote: An Illustrated Guide to Food Politics) and was appalled when I read this tweet: Here&#8217;s the offending cartoon: In a Facebook post the cartoonist, Rick Friday, explained: I am no longer the Editorial... - </div></td>
+                                                </tr>
+                                              </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                          </table>
+                                        </div></td>
+                                      </tr>
+                                                                          <table width="100%" align="center" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td width="100%" valign="top"><div>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                            <tr>
+                                              
+                                              <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                  <td width="300" valign="top"><a href="/Nutrition/shakshuka" ><img src="http://www.anutritionisteats.com/wp-content/uploads/shakshuka8-300x186.jpg" alt="shakshuka" width="300" height="150" border="0" /></a></td>
+                                                </tr>
+                                                <tr>
+                                                  <td><h3> <a href="/Nutrition/shakshuka" class="titulonuevo">
+                                                    shakshuka                                                  </a></h3></td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="left"><div class="texto"> This recipe sums up life perfectly. One minute Iâ€™m making pasta sauce from scratch (spaghetti & no-cook tomato sauce) and the next Iâ€™m relying on jarred marinara for a quick and tasty meal thatâ€™s on the table 30 minutes. I like making my own... - </div></td>
+                                                </tr>
+                                              </table></td>
+                                            </tr>
+                                            <tr>
+                                              <td height="5" colspan="4"></td>
+                                            </tr>
+                                          </table>
+                                        </div></td>
+                                      </tr>
+                                                                            <tr>
+                                        <td  colspan="2" align="center"><a href="/masvistos.php" class="titulonuevo"><br />
+                                          More Blogs</a></td>
+                                      </tr>
+                                    </table>
+                                  </div>
+                                </div>
+                              </div></td>
+                            </tr>
+                          </table>
+    </div></td>
+</tr>
+</table>
+<table width="300" border="0" cellspacing="0" cellpadding="0" align="center">
+					<tr>
+						<td>
+							<div class="widget">
+								<div class="widget-wrap">
+									<h3 class="widgettitle"><div align="left">Archives</div></h3>
+									<div class="textwidget">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											
+                                            												<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2017/02">Febrero 2017</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2017/01">Enero 2017</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2016/12">Diciembre 2016</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2016/11">Noviembre 2016</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2016/10">Octubre 2016</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2016/09">Septiembre 2016</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2016/07">Julio 2016</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2016/06">Junio 2016</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2016/05">Mayo 2016</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2016/04">Abril 2016</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2016/03">Marzo 2016</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2016/02">Febrero 2016</a></strong></td></tr>
+																							<tr align="left"><td align="left"><strong class="titulonuevo"><a href="/2016/01">Enero 2016</a></strong></td></tr>
+												
+										</table>
+									</div>
+								</div>
+							</div>
+						</td>
+					</tr>
+				</table>
+</td>
+  </tr>
+</table>
+					</td>
+				</tr>
+			</table>
+			<table width="980" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td colspan="3" align="left" class="texto">Social</td>
+  </tr>
+  <tr>
+		<td align="center"><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FHealth-Fitness-Trends-1802900093292130%2F&tabs&width=500&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1659149277650126" width="500" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></td>
+        
+        
+	</tr>
+    </table>
+<table width="980" border="0" cellspacing="0" cellpadding="0"align="center">
+  <tr>
+    <td width="1" height="1" bgcolor="#CCCCCC"></td>
+  </tr>
+</table>
+<table width="980" border="0" cellspacing="0" cellpadding="0"align="center">
+  <tr>
+    <td width="1" height="1" bgcolor="#CCCCCC"></td>
+  </tr>
+</table>
+<table width="980" border="0" cellspacing="0" cellpadding="0"align="center">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<table width="99%" border="0" cellspacing="0" cellpadding="0" align="center">
+ 
+  <tr>
+		<td>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td colspan="5" bgcolor="#CCCCCC">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td align="right" bgcolor="#d4d5d7">
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td width="246" valign="top"><table width="100%" border="0">
+											  <tbody>
+											    <tr>
+											      <td colspan="3"><span class="textoART2"> - English ------------------------------</span></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Interior Design &amp; Decoration</span></td>
+											      <td align="center">&nbsp;</td>
+											      <td align="center">&nbsp;</td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2" width="77%"><a href="http://en.decoclub.net" rel="nofollow">decoclub.net</a></td>
+											      <td width="11%" align="center"><a href="https://www.facebook.com/decoblogs/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td width="12%" align="center"><a href="https://twitter.com/BestIntDesingn" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://decorationandstyle.com" rel="nofollow">decorationandstyle.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/decoblogs/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/DecoratinIdeas" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://en.decobuzz.net" rel="nofollow">decobuzz.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/decoblogs/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/ClubDecoration" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Food &amp; Recipes</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://en.elclubderecetas.com" rel="nofollow">elclubderecetas.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/blogsecretrecipes/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/Recipe_Health" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://yoursecretrecipes.com" rel="nofollow">yoursecretrecipes.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/blogsecretrecipes/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/recipesblogs" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://thermomixclub.org" rel="nofollow">thermomixclub.org</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Thermomix-Recipes-594457637422799/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/thermomix_mag" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://thevegetarianrecipesclub.com" rel="nofollow">thevegetarianrecipesclub</a></td>
+											      <td align="center"><a href="https://www.facebook.com/The-Vegan-Magazine-1210665389062295/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/vegetarian_club" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Motor</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://en.motorwebs.net" rel="nofollow">motorwebs.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Motor-Webs-166747913810556/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/fullmotorss" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://motorchannel.net" rel="nofollow">motorchannel.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Motor-Webs-166747913810556/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/NewwwCarss" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Luxury</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://en.luxuryblogs.info" rel="nofollow">Luxuryblogs.info</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Luxury-Life-689550191180654/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/LuxuryStyylee" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+										      </tbody>
+											  </table>
+											  <p style="margin-left: 10px;"><span class="texto"><br />
+											    </span>
+											  </p>
+								          </td>
+											<td width="241" valign="top"><table width="100%" border="0">
+											  <tbody>
+											    <tr>
+											      <td colspan="3"><span class="textoART2">---------------------------------------</span></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">beauty &amp; Cosmetics</span></td>
+											      <td align="center">&nbsp;</td>
+											      <td align="center">&nbsp;</td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2" width="77%"><a href="http://en.cosmetiks.net" rel="nofollow">cosmetiks.net</a></td>
+											      <td width="11%" align="center"><a href="https://www.facebook.com/Beauty-and-cosmetics-223323724760185/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td width="12%" align="center"><a href="https://twitter.com/beautytips_2" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://thebeautytrends.net" rel="nofollow">thebeautytrends.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Beauty-and-cosmetics-223323724760185/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/beauty_tips_2" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://thebeautytv.com" rel="nofollow">thebeautytv.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Beauty-and-cosmetics-223323724760185/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/Cosmetics4she" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://beautyandcosmetics.net" rel="nofollow">beautyandcosmetics.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Beauty-and-cosmetics-223323724760185/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/beauty_blogs2" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Healt&amp;Fitness</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://healthfitnesstrends.net" rel="nofollow">healthfitnesstrends.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Health-Fitness-Trends-1802900093292130/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/thehealthinsigh" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Weddings</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://weddingsclub.org" rel="nofollow">weddingsclub.org</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Weddings-magazine-338921613147152/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/WishedWedding" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Moms & Babies</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://themomsmeeting.com" rel="nofollow">themomsmeeting.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/The-moms-meeting-1698829447074892/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/MomsMagazzine" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://buzznewbaby.com" rel="nofollow">buzznewbaby.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/The-moms-meeting-1698829447074892/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/momsandbabiesss" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Iphone &amp; Android</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://en.hablandodemac.net" rel="nofollow">hablandodemac.net</a></td>
+											      <td align="center"></td>
+											      <td align="center"><a href="https://twitter.com/NewsIphone_" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+										      </tbody>
+										    </table></td>
+											<td width="256" valign="top"><table width="100%" border="0">
+											  <tbody>
+											    <tr>
+											      <td colspan="3"><span class="textoART2">-----------------------------------------</span></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Fashion & Style</span></td>
+											      <td align="center">&nbsp;</td>
+											      <td align="center">&nbsp;</td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2" width="77%"><a href="http://fashionblogsclub.com" rel="nofollow">fashionblogsclub.com</a></td>
+											      <td width="11%" align="center"><a href="https://www.facebook.com/Fashion-Blogs-Club-1754570078195595" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td width="12%" align="center"><a href="https://twitter.com/fashionbloguers" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Travel</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://yoursecrettravel.com" rel="nofollow">yoursecrettravel.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Your-Secret-Travel-831305260288884/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/ysecrettravel_" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://secretsofjapan.net" rel="nofollow">secretsofjapan.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/secretsofjapan/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/secretsjapan" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Fragrance</span></td>
+											      <td align="center"><a href="https://www.facebook.com/The-Fragrance-679158892255135/" rel="nofollow"> </a></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://thefragrance.info" rel="nofollow">thefragrance.info</a></td>
+											      <td align="center"><a href="https://www.facebook.com/The-Fragrance-679158892255135/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/the_fragrance_" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Architecture</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://thearchitectureclub.com" rel="nofollow">thearchitectureclub.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/architecturedreams/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/architectureee_" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://thearchitectureinsight.com/" rel="nofollow">thearchitectureinsight.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/architecturedreams/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/ModernnArch" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+										      </tbody>
+										    </table></td>
+											<td width="283" valign="top" ><table width="100%" border="0">
+											  <tbody>
+											    <tr>
+											      <td colspan="3"><span class="textoART2">--- EspaÃ±ol ---------------------------------</span></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Fashion & Blogs</span></td>
+											      <td align="center">&nbsp;</td>
+											      <td align="center">&nbsp;</td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2" width="77%"><a href="http://blogueras.net" rel="nofollow">Blogueras.net</a></td>
+											      <td width="11%" align="center"><a href="https://www.facebook.com/blogueras.net/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td width="12%" align="center"><a href="https://twitter.com/ClubBlogueras" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Recetas</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://elclubderecetas.com/" rel="nofollow">elclubderecetas.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/blogsderecetas.net/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/blogsderecetas" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://es.thermomixclub.org/" rel="nofollow">thermomixclub.org</a></td>
+											      <td align="center"><a href="https://www.facebook.com/thermomixclub/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/Thermomixblogs" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://es.thevegetarianrecipesclub.com" rel="nofollow">thevegetarianrecipesclub.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Recetas-Veganas-1075358345919542/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center">&nbsp;</td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Decoracion</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://decoclub.net" rel="nofollow">decoclub.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/decoblogs/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/decoblogueras" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://decobuzz.net" rel="nofollow">decobuzz.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/decoblogs/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/canaldecoracion" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td>Bodas</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://hablandodebodas.com" rel="nofollow">hablandodebodas.com</a></td>
+											      <td align="center"></td>
+											      <td align="center"><a href="https://twitter.com/BodasRomanticas" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td>Belleza</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://cosmetiks.net" rel="nofollow">cosmetiks.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/cosmetiks.net/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/cosmetiksblogs" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://es.thefragrance.info" rel="nofollow">elperfume.info</a></td>
+											      <td align="center"><a href="https://www.facebook.com/blogelperfume/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/elperfumeinfo" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td>&nbsp;</td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+										      </tbody>
+									      </table>											  <p>&nbsp;</p></td>
+											<td width="240" valign="top"><table width="100%" border="0">
+											  <tbody>
+											    <tr>
+											      <td colspan="3"><span class="textoART2">--------------------------------------</span></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Motor</span></td>
+											      <td align="center">&nbsp;</td>
+											      <td align="center">&nbsp;</td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2" width="77%"><a href="http://motorwebs.net" rel="nofollow">motorwebs.net</a></td>
+											      <td width="11%" align="center"><a href="https://www.facebook.com/Coches-y-Motor-971855876280645/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td width="12%" align="center"><a href="https://twitter.com/blogsdemotor" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://videosdemotor.net" rel="nofollow">videosdemotor.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Coches-y-Motor-971855876280645/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/blogsdemotor" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Salud</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://hablandodesalud.net/" rel="nofollow">hablandodesalud.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/hablandodesalud.net" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/sobre_salud_" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://info-salud.net/" rel="nofollow">info-salud.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Consejos-de-salud-1749419825376765" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/_consejossalud" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Viajes</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://hablandodeviajes.com" rel="nofollow">hablandodeviajes.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Hablandodeviajes-513257865397537/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/turismorama" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://es.secretsofjapan.net" rel="nofollow">secretsofjapan.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/secretsofjapan/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/blogsturismoram" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">TV-cine</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://adictoalatv.com/" rel="nofollow">adictoalatv.com</a></td>
+											      <td align="center"></td>
+											      <td align="center"><a href="https://twitter.com/adictosaseries" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://videosdecine.info/" rel="nofollow">videosdecine.info</a></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Corazon</span></td>
+											      <td align="center"></td>
+											      <td align="center"></td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://famoseo.org" rel="nofollow">famoseo.org</a></td>
+											      <td align="center"></td>
+											      <td align="center"><a href="https://twitter.com/AfterPubertyES" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+										      </tbody>
+										    </table></td>
+											<td width="229" valign="top"><table width="100%" border="0">
+											  <tbody>
+											    <tr>
+											      <td colspan="3"><span class="textoART2">----------------------------------</span></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Libros</span></td>
+											      <td width="11%" align="center">&nbsp;</td>
+											      <td width="12%" align="center">&nbsp;</td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://librorama.net/" rel="nofollow">librorama.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/secretsofjapan/" rel="nofollow"> </a></td>
+											      <td align="center"><a href="https://twitter.com/libroramafeed" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Madres</span></td>
+											      <td align="center">&nbsp;</td>
+											      <td align="center">&nbsp;</td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://elclubdelasmadres.com/" rel="nofollow">elclubdelasmadres.com</a></td>
+											      <td align="center"><a href="https://www.facebook.com/elclubdelasmadres" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/madresclub" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Mac Android</span></td>
+											      <td align="center">&nbsp;</td>
+											      <td align="center">&nbsp;</td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://hablandodemac.net" rel="nofollow">hablandodemac.net</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Hablando-de-Mac-Iphone-y-Android-1849113245377206/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center"><a href="https://twitter.com/hablandodeapple" rel="nofollow"><img src="/images/icontwittericon.png" width="18" height="18" alt="twitter"/></a></td>
+										        </tr>
+											    <tr>
+											      <td><span class="textoART2">Lujo</span></td>
+											      <td align="center">&nbsp;</td>
+											      <td align="center">&nbsp;</td>
+										        </tr>
+											    <tr>
+											      <td class="textoART2"><a href="http://luxuryblogs.info" rel="nofollow">Luxuryblogs.info</a></td>
+											      <td align="center"><a href="https://www.facebook.com/Mundo-de-Lujo-919381841470443/" rel="nofollow"><img src="/images/iconfacebookicon.png" width="18" height="18" alt="facebook"/></a></td>
+											      <td align="center">&nbsp;</td>
+										        </tr>
+										      </tbody>
+										    </table></td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											<td width="6" height="6" bgcolor="#666666"></td>
+										</tr>
+									</table>									
+								</td>
+							</tr>
+						</table>						
+					</td>
+				</tr>
+				<tr>
+					<td height="4" colspan="6"></td>
+				</tr>
+				<tr>
+					<td width="15%"><script id="_wauwrd">var _wau = _wau || []; _wau.push(["small", "uwbxs5vw8tr0", "wrd"]);
+(function() {var s=document.createElement("script"); s.async=true;
+s.src="http://widgets.amung.us/small.js";
+document.getElementsByTagName("head")[0].appendChild(s);
+})();</script></td>
+					<td width="27%"></td>
+					<td width="24%" class="texto"><div align="right"><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="80e3ecf5e2e2ecefe7f5e5f2e1f3c0e7ede1e9ecaee3efed">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> </div></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>		<!-- Contador de visitas -->
+<img src="/contador/contador.php?blog=1&tipo=visita&articulo=10823839" width="1" height="1" />
+	
+    </body>
+</html>

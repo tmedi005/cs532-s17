@@ -1,0 +1,70 @@
+   [1]On
+   Change
+   (*) 93.7 FM Boston
+   ( ) 105.5 FM Springfield
+   ( ) 1440 AM Worcester
+   ( ) 103.7 FM Providence
+   [2][LINK]-[3][USEMAP:weeimobile_logo.png]
+   [4][att-logo3.png]
+
+   ____________________
+   Search
+
+     * [5]Audio on Demand
+     * [6]Program Schedule
+     * [7]WEEI Pro Football Pick'em
+     * [8]WEEI Newsletters
+     * [9]Mobile Alerts
+     * [10]WEEI Affiliates
+     * [11]Contact
+     * [12]Red Sox
+     * [13]Patriots
+     * [14]Celtics
+     * [15]Bruins
+     * [16]Advertise with us
+
+   [17]Home » Page not found
+
+Page not found
+
+   Sorry, this page is not available. Please visit the [18]WEEI homepage
+   or use the search box in the upper right.
+   Quantcast
+
+   IFRAME: [19]//s.thebrighttag.com/iframe?c=dcKDAzq
+
+   [20]Privacy Policy | [21]Contact Us | [22]Contest Rules | [23]Press
+   Room | [24]Advertise with us
+
+   Copyright © 2017 Entercom Boston, LLC All Rights Reserved.
+
+References
+
+   1. file:///
+   2. http://m.weei.com/
+   3. LYNXIMGMAP:file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw602.txt#mobileimgmap
+   4. http://att.com/
+   5. http://audio.weei.com/device/mobile/
+   6. file:///weei/shows-schedules/program-schedule
+   7. http://www.weei.com/picks
+   8. http://m.weei.com/newsletter
+   9. file:///weei/mobile-alerts
+  10. file:///weei/shows-schedules/network-stations
+  11. file:///weei/support
+  12. file:///teams/red-sox/home
+  13. file:///teams/patriots/home
+  14. file:///teams/celtics/home
+  15. file:///teams/bruins/home
+  16. http://www.weei.com/advertise
+  17. file:///
+  18. file:///
+  19. file://s.thebrighttag.com/iframe?c=dcKDAzq
+  20. http://www.entercom.com/privacy-policy
+  21. file:///weei/support
+  22. file:///weei/extras/weei-sports-radio-network-general-contest-rules
+  23. file:///weei/extras/press-releases
+  24. file:///advertise
+
+[USEMAP]
+file://localhost/home/tmedina/cs432/assignment3/part1/uri_raw602.txt#mobileimgmap
+   1. http://www.att.com/
