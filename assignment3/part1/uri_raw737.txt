@@ -1,0 +1,1043 @@
+  
+
+
+
+<!DOCTYPE html>
+<html class="no-js">
+
+<head>
+  <meta charset="utf-8">
+  <title>Align Your Business with the Big Game | Super Bowl LII</title>
+  <meta name="description" content="Business Connect is a great way for your Minnesota business to get involved with Super Bowl LII.">
+  <meta name="keywords" content="Business Connect, BusinessConnect, Business Connect minority, Business Connect women, Business Connect disabled, Business Connect veterans,  Business Connect LGBT-owned, local business, small business">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta http-equiv="cleartype" content="on">
+  <link rel="shortcut icon" href="/media/image/1/favicon.png">
+
+  <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+  <!--[if IE]><meta http-equiv="cleartype" content="on"><![endif]-->
+
+  <!-- twitter plugin styling -->
+  <meta name="twitter:widgets:theme" content="light">
+  <meta name="twitter:widgets:link-color" content="#55acee">
+  <meta name="twitter:widgets:border-color" content="#55acee">
+
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400|Khula:400,600,300" rel="stylesheet" type="text/css">
+
+  <!-- FontAwesome Icons-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+  <!-- Bootstrap-->
+
+  
+  <link rel="stylesheet" type="text/css" href="/style/100900.css" />
+  <link rel="stylesheet" type="text/css" href="/style/200903.css" />
+  <link rel="stylesheet" type="text/css" href="/style/200900.css" />
+  <link rel="stylesheet" type="text/css" href="/style/200901.css" />
+
+
+  
+    
+    <link rel="stylesheet" type="text/css" href="/style/300900.css" />
+
+
+ 
+  
+
+  
+  
+   
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.5.3/modernizr.min.js"></script>
+
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  
+  
+  <script type="text/javascript" src="//nexus.ensighten.com/startribune/AdvantageServices/Bootstrap.js" ></script>
+
+  <!-- Typekit Import for font-family 'futura'-->
+  <script src="https://use.typekit.net/aya3sgs.js"></script>
+  <script>
+    try{Typekit.load({ async: true });}catch(e){}
+  </script>
+
+</head>
+
+
+<body class="p2305220">
+
+
+  
+   
+
+
+<div id="emailTophat" class="emailTophat">
+    <footer> <!-- use tag footer for styling purposes -->
+        <form action="http://mnsuperbowl.us11.list-manage.com/subscribe/post?u=88ffe26e9770c1d9991108669&amp;id=d458245904" method="post" id="subscribeFormWelcomeTopHat" class="validate" target="_blank" novalidate="">
+        
+        
+          <input type="hidden" name="redirect" value="2605213"/>
+          <p style="">Sign up for the <a href="/email-signup">Host Committee Email</a></p>
+            <input type="text" name="MERGE0" id="MERGE0" placeholder="Email Address">
+            <input type="text" name="MERGE1" id="MERGE1" placeholder="Zip Code">
+            <button name="submit" type="submit" class="topHatWelcome"><span> Get the fan email</span></button>
+      </form>
+    </footer>   
+    <i class="fa fa-times-circle-o fa-2x" aria-hidden="true"></i>
+</div>
+
+
+<div class="bWrapper">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MSFFKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSFFKV');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Javascript SDDK -->
+<div id="fb-root"></div>
+<script type="text/javascript">
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- End Javascript SDDK -->
+
+  
+  
+     
+
+
+
+
+  
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <header>
+      <div class="header-image-container">
+    <div class="header-img-d">
+      <a style="background-image:url(/media/image/1/sblogo.png)" href="/home"></a>
+      <img src="/media/image/1/desktopnav.png" class="header-img-d">      
+    </div>
+    <div class="header-img-m">
+       <a style="background-image:url(/media/image/1/sblogo.png)" href="/home"></a>
+       <img src="/media/image/1/mobilenav.png" class="header-img-m">
+    </div>   
+  </div>
+  
+
+
+
+  <!-- Start Navigation -->
+  <div class="navbar-container">
+
+    <!-- toggle bottom for mobile -->
+
+    <div class="nav-toggle-container">
+      <div class="nav-toggle">
+        <input type="checkbox" id="navicon">
+          <label for="navicon">
+              <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+              <i class="fa fa-times fa-2x" aria-hidden="true"></i>
+                <!-- <span class="nav-mobile-bars">
+                  <span></span> 
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </span> -->
+              </label>
+      </div>
+    </div>
+    <!-- End toggle bottom for mobile -->
+
+
+    <nav class="navbar">
+      <ul>
+        <li class="navHead">
+          <a href="/about">About</a>
+          <ul>
+            <li>
+              <a href="/about/legacy-fund">Legacy Fund</a>
+            </li>
+            <li>
+              <a href="/about/our-team">Our Team</a>
+            </li>
+            <li>
+              <a href="/about/advisory-committee">Advisory Board</a>
+            </li>
+            <li>
+              <a href="/about/FAQs">FAQs</a>
+            </li>
+          </ul>
+        </li>
+        <li class="navHead">
+          <a href="/get-involved">Get Involved</a>
+          <ul>
+            <li>
+              <a href="/get-involved/business-connect">Business Connect</a>
+            </li>
+            <li>
+              <a href="/get-involved/volunteer">Volunteer</a>
+            </li>
+            <li>
+              <a href="/get-involved/partnerships">Partnerships</a>
+            </li>
+            <li>
+              <a href="/get-involved/job-opportunities">Job Opportunities</a>
+            </li>
+          </ul>
+        </li>
+        <li class="navHead">
+          <a href="/events">Events</a>
+        </li>
+        <li class="navHead">
+          <a href="/newsroom">Newsroom</a>
+        </li>
+        <li class="navHead">
+          <a href="/official-partners">partners</a>
+        </li>
+        <li class="navHead">
+          <a href="/plan-your-visit">plan your visit</a>
+        </li>
+      </ul>
+    </nav>
+
+  </div>
+  <!-- End Navigation -->
+</header>
+
+
+  
+  
+
+  
+
+  
+     
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+<!-- mobile image collection -->
+
+<!-- Dsk image collection -->
+
+
+  
+  
+
+  
+      
+
+     
+      
+          
+      
+
+      
+      
+  
+      
+
+     
+      
+
+      
+      
+          
+      
+  
+      
+
+     
+      
+          
+      
+
+      
+      
+  
+      
+
+     
+      
+
+      
+      
+          
+      
+  
+      
+
+     
+      
+
+      
+      
+          
+      
+  
+      
+
+     
+      
+          
+      
+
+      
+      
+  
+
+
+
+
+
+
+<section class="home-jumbotron">
+
+  <!-- Swiper Mobile -->
+  
+  <!-- Swiper Tablet/Desktop -->
+  <div class="swiper-container hideOnMobile">
+    <div class="swiper-wrapper">
+
+        
+
+        
+          
+            <!-- Begin Slide -->
+            
+            	
+            	<script>console.log('27201637');</script>
+              
+              
+              
+              
+              
+							<div class="swiper-slide" style="background-image: url('/sizer/27201637_W1600');">
+								
+								
+	            
+                
+                
+                
+
+                
+              </div>
+            
+                <!-- End Slide -->
+            
+            <!-- Begin Slide -->
+            
+            	
+            	<script>console.log('27201642');</script>
+              
+              
+              
+              
+              
+							<div class="swiper-slide" style="background-image: url('/sizer/27201642_W1600');">
+								
+								
+	            
+                
+                
+                
+
+                
+              </div>
+            
+                <!-- End Slide -->
+            
+            <!-- Begin Slide -->
+            
+            	
+            	<script>console.log('25501612');</script>
+              
+              
+              
+              
+              
+							<div class="swiper-slide" style="background-image: url('/sizer/25501612_W1600');">
+								
+								
+	            
+                
+                
+                
+
+                
+              </div>
+            
+                <!-- End Slide -->
+            
+        
+    </div>
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+
+  </div>
+
+  <!-- Add Arrows -->
+    <div class="swiper-button-prev swiper-button-prevDsk hideOnMobile"></div>
+    <div class="swiper-button-next swiper-button-nextDsk hideOnMobile"></div>
+
+
+  <!-- End Swiper Tablet/Desktop -->
+
+  <!-- Swiper Tablet/Desktop -->
+  <div class="swiper-container hideOnDesktop">
+    <div class="swiper-wrapper">
+
+      
+
+      
+        
+          <!-- Begin Slide -->
+          
+            
+            
+            
+            
+            <div class="swiper-slide" style="background-image: url(http://www.mnsuperbowl.com/media/image/1/bceventmob.png);">
+              
+              
+              
+
+              
+            </div>
+          
+          <!-- End Slide -->
+        
+          <!-- Begin Slide -->
+          
+            
+            
+            
+            
+            <div class="swiper-slide" style="background-image: url(http://www.mnsuperbowl.com/media/image/1/bceventtittlemob.png);">
+              
+              
+              
+
+              
+            </div>
+          
+          <!-- End Slide -->
+        
+          <!-- Begin Slide -->
+          
+            
+            
+            
+            
+            <div class="swiper-slide" style="background-image: url(http://www.mnsuperbowl.com/media/image/1/biz_connect_mob.png);">
+              
+              
+              
+
+              
+            </div>
+          
+          <!-- End Slide -->
+        
+      
+    </div>
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+    <!-- Add Arrows -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+
+  </div>
+
+  <!-- End Swiper Tablet/Desktop -->
+  <!-- End Swiper Mobile -->
+
+
+</section>
+
+
+<div class="faqwrapper">
+  <section class="stories bizconnect">
+    <div class="pageHeader">
+            <!-- <div class="h5">
+                <span>business</span>
+            </div> -->
+            <div class="h2">
+                <span>Business Connect</span>
+            </div>
+
+        </div>
+
+        <!-- get involved headlines -->
+        <div class="g5-3">
+            <div class="square-content">
+                <div class="row firstrow">
+                    <div class="col">
+
+                        <!-- bring content from the page itself -->
+                        
+                        <p><img src="/media/image/1/businessconnect.png" id="img_1" class="embedded" alt="business-connect" height="286" width="1397" /> </p>
+<h3>About Super Bowl LII Business Connect </h3>
+<p>The NFL Business Connect program is the National Football League&rsquo;s Super Bowl and special event supplier diversity initiative.  This fall the<br/> Minnesota Super Bowl LII Host Committee, in partnership with the NFL, will launch the Super Bowl LII Business Connect program.  The program will serve as a conduit for qualified, diverse and underutilized businesses in Minnesota to compete for contracting opportunities that will be generated by Super Bowl LII in 2018. Additionally, the program will offer networking, educational and other business development opportunities for local, event services businesses in the 13 counties surrounding the Twin Cities. </p>
+<p>The Super Bowl LII&rsquo;s Business Connect Program is focused on creating contract and business development opportunities for certified minority-, woman-, veteran-, lesbian, gay, bisexual and/or transgender-owned qualified, diverse businesses. </p>
+<p>Experienced, event-ready, local businesses in the region must register by April 30, 2017 to participate in the program&rsquo;s contracting opportunities through Business Connect and the program&rsquo;s educational workshop series, which will be presented quarterly in 2017. </p>
+<h3>Advantages of Business Connect </h3>
+<p>To join the Super Bowl LII Business Connect program applicants must complete the online registration.   The MN Host Committee will review all applications and if approved, will communicate your successful partnership into the program. </p>
+<p>The Host Committee will post the business information and company profiles provided by each participating business in the Super Bowl LII Business Connect Resource Guide (BCRG). The BCRG is the online database of approved, registered businesses that helps Super Bowl contractors and event producers, including the NFL, identify and select local businesses to partner with to complete their Super Bowl LII events. </p>
+<p>Super Bowl LII Business Connect offers events, workshops and resources to help prepare businesses to participate it the Super Bowl procurement process, including but not limited to networking with representatives of the NFL and its key contractors. The networking opportunities are key in that they will provide businesses access to the NFL and their preferred contractors along with Host Committee  corporate sponsors and local small business service providers. </p>
+<p>Please note that participation in the Super Bowl LII Business Connect program does not guarantee Super Bowl LII-related contracts or business. Opportunities will have limited availability due to high interest in the program. The NFL and Host Committee are committed to maximizing local diverse small business participation. Registration with Super Bowl LII Business Connect facilitates the opportunity for Minnesota businesses to compete for the chance to provide goods and services to Super Bowl LII. </p>
+<h3>Eligibility </h3>
+<p>To be eligible for Super Bowl LII Business Connect, each business must: </p>
+<ul><li>Be Headquartered in the state of Minnesota (with offices within the 13 County Twin Cities area) </li><li>Be 51% owned by a minority, woman, veteran,or LGBT-owned business individual and certified as one of the following: <ul><li>Minority Business Enterprise (MBE) </li><li>Woman Business Enterprise (WBE) </li><li>Veteran Owned Small Business (VOSB) </li><li>Lesbian, Gay, Bisexual and Transgender Business Enterprise    (NGLCC) </li></ul>
+</li><li>Have been in operation for three (3) or more years (i.e. registered with the state) </li><li>Provide goods or services requested by this program (see SBLII BC&rsquo;s 56+ scopes of work) </li><li>Must be in good standing and eligible to do business in the state of Minnesota </li></ul>
+<h3>Certify/Verify </h3>
+<p>To certify/verify with the Business Connect program, businesses must provide proof with one and/or more of the certification bodies below. Please click on the link to initiate application for certification/verification: </p>
+<ul><li><a href="http://www.mmd.admin.state.mn.us/pdf/TGWebApp.pdf" target="ext">TG/ED</a> &ndash; MN State Targeted Group Business Program (MN Dept. of Administration) </li><li><a href="https://cert.smwbe.com/FrontEnd/StartCertification.asp?TN=cert&amp;XID=692" target="ext">CERT Central Certification Program</a> (City of St. Paul, Minneapolis &amp; Hennepin County) </li><li><a href="http://mnucp.org/Apply-for-Certification.aspx" target="ext">DBE</a> &ndash; Disadvantaged Business Enterprise Program (Federal- through the Minnesota Unified Certification Program) </li><li><a href="http://nglcc.org/get-certified" target="ext">National Gay &amp; Lesbian Chamber of Commerce</a> (nglcc.org) </li><li><a href="http://www.va.gov/osdbu/vip/step1.asp" target="ext">VOSB</a> - Veteran Owned Small Business (federal verification program) </li><li><a href="http://www.northcentralmsdc.net/MbeCertification/HowToGetCertified" target="ext">NCMSDC</a> - North Central Minority Supplier Development Council </li><li><a href="http://www.wbenc.org/certification-process/" target="ext">WBENC</a> - Women&rsquo;s Business Enterprise National Council </li><li><a href="https://nglcc.org/" target="ext">NGLCC</a> &ndash; National Gay and Lesbian Chamber of Commerce certification program </li></ul>
+
+
+                        
+                          <a href="https://prmp.trans411.com/registration/mnsuperbowldisclaimer.jsf" target="_blank">
+                            <button>Vendor Registration</button>
+                          </a>
+                        
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="g5-2">
+            <div class="square-content">
+                <div class="row firstrow">
+                    <div class="col">
+                        <span>
+            
+              <h3 class="resources">resources</h3>
+            
+              
+              <h3>Contact</h3>
+              <ul class="contactlist">
+                <li>Alex Tittle</li>
+                <li><a href="mailto:bizconnect@mnsuperbowl.com">bizconnect@mnsuperbowl.com</a></li>
+                <li></li>
+              </ul>
+              <div class="shareEvent">
+                <ul>
+                     
+
+                     
+
+                </ul>
+
+              </div>
+              
+              
+              
+              
+               
+
+                    
+
+                    
+                        <div class="docform">
+                            <a href="https://prmp.trans411.com/registration/mnsuperbowldisclaimer.jsf" target="_blank">
+                                <img src="/media/image/1/iconweb.png" alt="web">
+                                <h3>Vendor Registration</h3>
+                            </a>
+                        </div>
+                    
+
+
+                    <!-- this section is only for business connect -->
+                    
+                        <!--business connect pageID -->
+                      
+
+                        
+                        
+                    
+
+                      
+
+                        <!-- bring in the featured events. -->
+                        
+
+
+                        <!-- bring in the featured events. -->
+                        
+
+                    
+
+                    <!-- END this section is only for business connect -->
+
+                    </span>
+                </div>
+            </div>
+        </div>
+</div>
+
+<span class="clearfix"></span>
+</section>
+
+<!-- End Stories -->
+
+    <!-- slider is only for business connect and volunteer -->
+    
+        
+         
+
+
+
+
+<section class="aboutFAQ legacy">
+   <div class="h5">
+    <span>frequently asked</span>
+  </div>
+  <div class="h2">
+    <span>questions</span>
+  </div>
+
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+
+      <!-- slide 1 begin -->
+      
+        <div class="swiper-slide">          
+          <div class="h3">
+            <span>How can local businesses get involved in the Super Bowl?</span>
+          </div>
+          <div class="faqAnswer">                      
+                
+              
+              
+                <p>There are a number of ways local businesses can get involved in the Super Bowl, the primary of which is Business Connect, the NFL's supplier diversity program. The program will identify 300-400 small businesses, suppliers, and service providers from our area to participate in the program. Accepted businesses will be profiled in the resource guide, allowing those in need of their services to quickly identify qualified providers of goods and services. </p>
+<p>Participants of Business Connect w
+                  
+                    
+                      <a href="/about/FAQs/#BusinessConnect">...continue reading</a>   
+                      
+                   
+                
+          </div>
+        </div>
+        <!-- end slider -->
+      
+
+      <!-- Slide 2 begin -->
+      
+        <div class="swiper-slide">        
+          <div class="h3">
+            <span>What does it take to be a volunteer?</span>
+          </div>
+          <div class="faqAnswer">                     
+                
+              
+              
+                <p>Volunteers will undergo screening and training prior to being deployed during the Super Bowl festivities. More information will be available in late 2016; please sign up <a href="http://www.mnsuperbowl.com/email-signup" target="ext">here</a> to receive updates. </p>
+
+                 
+                      
+                             
+          </div>
+        </div>
+        <!-- End Slider -->
+      
+
+      <!-- Slide 3 begin -->
+      
+        <div class="swiper-slide">        
+          <div class="h3">
+            <span>Where can I buy tickets to Super Bowl LII?</span>
+          </div>
+          <div class="faqAnswer">                     
+                
+              
+              
+                <p>The Host Committee does not sell tickets. Ticket information will be made available by the NFL in 2017. </p>
+<p>If you are interested in Super Bowl LII Suites or Hospitality, please email info@mnsuperbowl.com. </p>
+
+                  
+                      
+                            
+          </div>
+        </div>
+        <!-- End Slider -->
+      
+
+      <!-- Slide 4 begin -->
+      
+        <div class="swiper-slide">        
+          <div class="h3">
+            <span>How can I get involved?</span>
+          </div>
+          <div class="faqAnswer">                     
+                
+              
+              
+                <p>While the Super Bowl will be seen by millions from around the world, this is still a Minnesota event, through and through. If you'd like to help, there's a way for all Minnesotans to volunteer for the Super Bowl. There are also paid positions, corporate partnerships, and, for local businesses, Business Connect. Click <a href="http://www.mnsuperbowl.com/get-involved" target="ext">here</a> to learn more about getting involved. </p>
+
+                  
+                      
+                              
+          </div>
+        </div>
+        <!-- End Slider -->
+      
+
+      <!-- Slide 5 begin -->
+      
+    </div>
+  </div>
+
+    <!-- Add Arrows -->
+    <div class="swiper-button-next swiper-button-next2"></div>
+    <div class="swiper-button-prev swiper-button-prev2"></div>
+  <button> <a href="/about/FAQs">see all faqs</a> </button>
+
+</section>
+
+
+
+</div>
+<!-- end wrapper -->
+  
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- CountDown-->
+<section class="countDown">
+  <div class="h5">
+    <span>CountDown to Game day</span>
+  </div>
+  <div class="h2">
+    <span>Super bowl lii</span>
+  </div>
+
+  <div class="h5">
+    <span class="dateTime">february 04, 2018</span>
+  </div>
+
+  <div id="countDownTimer">
+
+    <hr size="1">
+    <div class="timer">
+
+      <div>
+        <div class="smalltext">DAYS</div>
+        <span class="days"></span>
+      </div>
+      <div>
+        <div class="smalltext">hrs</div>
+        <span class="hours"></span>
+      </div>
+      <div>
+        <div class="smalltext">min</div>
+        <span class="minutes"></span>
+      </div>
+      <div>
+        <div class="smalltext">sec</div>
+        <span class="seconds"></span>
+      </div>
+      <span class="clearfix"></span>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <h3>Breaking News. Bold Experiences. Big Opportunities.</h3>
+
+  <p class="footer-description">
+    <span>Don’t miss a moment. Stay in-the-know with the Host Committee Email.</span>
+  </p>
+
+  
+  
+    <input type="hidden" name="redirect" value="2605213"/>
+
+  <form action="http://mnsuperbowl.us11.list-manage.com/subscribe/post?u=88ffe26e9770c1d9991108669&amp;id=d458245904" method="post" id="subscribeFormWelcome" class="validate" target="_blank" novalidate>
+    <input type="text" name="MERGE0" id="MERGE0"placeholder="Email Address">
+    <input type="text" name="MERGE1" id="MERGE1" placeholder="Zip Code">
+    <button type="submit"> <span> Get the fan email</span></button>
+  </form>
+
+
+  <div class="footer-grp-bkg">
+    <!-- only for the shared background image -->
+
+    <!-- Footer logo  -->
+    <div class="footer-logo-container">
+      <a href="/home"><img src="/media/image/1/footerlogo.png" alt="MN Superbowl Host Committee"></a>
+    </div>
+    <!-- End Footer logo  -->
+
+    <!-- Footer social media -->
+    <div class="footer-social-media">
+      <p>Follow us</p>
+      <ul class="footer-social-1">
+        <a href="https://www.facebook.com/minnesotasuperbowl" target="_blank">
+          <li class="social-circles"><i class="fa fa-facebook fa-2x"></i></li>
+        </a>
+        <a href="https://twitter.com/mnsuperbowl2018" target="_blank">
+          <li class="social-circles"><i class="fa fa-twitter fa-2x"></i></li>
+        </a>
+      </ul>
+
+      <ul class="footer-social-1">
+        <a href="https://www.youtube.com/channel/UCxhDywDxAYwU1AShhNxmdGA" target="_blank">
+          <li class="social-circles"><i class="fa fa-youtube fa-2x"></i></li>
+        </a>
+        <a href="https://www.linkedin.com/company/6578728" target="_blank">
+          <li class="social-circles"><i class="fa fa-linkedin fa-2x"></i></li>
+        </a>
+        <!--<a href="https://www.instagram.com/mnsuperbowl2018" target="_blank">
+          <li class="social-circles"><i class="fa fa-instagram fa-2x"></i></li>
+        </a>-->
+        <!--<a href="https://www.pinterest.com" target="_blank">
+          <li class="social-circles"><i class="fa fa-pinterest-p fa-lg"></i></li>
+        </a>-->
+      </ul>
+    </div>
+    <!-- End Footer social media-->
+
+    <!-- Footer Nav-->
+    <nav class="footer-nav navbar">
+      <ul>
+        <li class="navHead">
+          <a class="footerHome" href="/home">Home</a>
+          <a href="/about">About</a>
+          <ul>
+            <li>
+              <a href="/about/legacy-fund">Legacy Fund</a>
+            </li>
+            <li>
+              <a href="/about/our-team">Our Team</a>
+            </li>
+            <li>
+              <a href="/about/advisory-committee">Advisory Board</a>
+            </li>
+            <li>
+              <a href="/about/FAQs">FAQs</a>
+            </li>
+          </ul>
+        </li>
+        <li class="navHead">
+          <a href="/get-involved">Get Involved</a>
+          <ul>
+            <li>
+              <a href="/get-involved/business-connect">Business Connect</a>
+            </li>
+            <li>
+              <a href="/get-involved/volunteer">Volunteer</a>
+            </li>
+            <li>
+              <a href="/get-involved/partnerships">Partnerships</a>
+            </li>
+            <li>
+              <a href="/get-involved/job-opportunities">Job Opportunities</a>
+            </li>
+          </ul>
+        </li>
+        <li class="navHead">
+          <a href="/events">Events</a>
+        </li>
+        <li class="navHead">
+          <a href="/newsroom">Newsroom</a>
+        </li>
+        <li class="navHead">
+          <a href="/official-partners">partners</a>
+        </li>
+        <li class="navHead">
+          <a href="/plan-your-visit">plan your visit</a>
+        </li>
+       <!--<li class="navHead">
+            <a href="#">&nbsp;</a>
+          </li>-->
+      </ul>
+    </nav>
+    <!-- End Footer Nav-->
+  </div>
+
+  <div class="footer-copyright">
+    <p>&copy; Minnesota Super Bowl Host Committee</p>
+  </div>
+
+</footer>
+  
+
+  
+   
+    
+    
+    <script type="text/javascript" src="/script/401900.jsp"></script>
+   
+    
+    
+    <script type="text/javascript" src="/script/501901.jsp"></script>
+   
+    
+    
+    <script type="text/javascript" src="/script/601901.jsp"></script>
+  
+
+
+
+  
+    
+    <script src="/script/501900.jsp"></script>
+
+
+ 
+   
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>
+	
+</div>
+</body>
+</html>

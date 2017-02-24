@@ -1,0 +1,1791 @@
+
+
+<!DOCTYPE html>
+
+
+<!--[if IE 9 ]>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+    xmlns:fb="http://www.facebook.com/2008/fbml"
+    xmlns:og="http://ogp.me/ns#"
+    class="no-js ie9 baa">
+<![endif]-->
+
+<!--[if ! lt IE 9]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+    xmlns:fb="http://www.facebook.com/2008/fbml"
+    xmlns:og="http://ogp.me/ns#"
+    class="no-js baa"><!--<![endif]-->
+
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">   
+        <title>Broadway Tickets | Broadway Shows | Theater Tickets | Theatre.com</title>
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+        <meta name="description" content="
+The most comprehensive source for Broadway Shows, Broadway Tickets, Off-Broadway, London theater information, Tickets, Gift Certificates, Videos, News &amp; Features, Reviews, Photos, New York Hotel &amp; Theater Packages.
+"/>
+        <meta name="google-site-verification" content="2lFUs8R3dghStEalfOisrZuclfxXzEhyxGiiHfr02V4" />
+        <meta name="msvalidate.01" content="10C3133083513657F42058B6E919699D"/>
+        <meta name="y_key" content="b4c96cd61f1e98c1"/>
+        
+
+        
+            <link rel="shortcut icon" type="image/x-icon" href="http://d1069swflop3lk.cloudfront.net/img/responsive/favicons/favicon.ea3606da0677.ico" />
+            <link rel="apple-touch-icon" sizes="180x180" href="http://d1069swflop3lk.cloudfront.net/img/responsive/favicons/apple-touch-icon.84d3fb06b376.png">
+            <link rel="icon" type="image/png" href="http://d1069swflop3lk.cloudfront.net/img/responsive/favicons/favicon-32x32.82fbade10f9d.png" sizes="32x32">
+            <link rel="icon" type="image/png" href="http://d1069swflop3lk.cloudfront.net/img/responsive/favicons/favicon-16x16.b541b9898818.png" sizes="16x16">
+            <link rel="manifest" href="http://d1069swflop3lk.cloudfront.net/img/responsive/favicons/manifest.f1efbe812d1c.json">
+            <link rel="mask-icon" href="http://d1069swflop3lk.cloudfront.net/img/responsive/favicons/safari-pinned-tab.c9dba8b69e63.svg" color="#a91f16">
+            <meta name="theme-color" content="#ffffff">
+        
+
+        
+    
+
+
+
+        
+
+
+        <script>
+            // Set the cookie so affiliate sticks across domains
+            if (document.cookie.indexOf('affdid') == -1){
+                document.cookie = "affdid=2;path=/;domain=broadway.com";
+            }
+        </script>
+
+        
+        <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+
+        <script>
+            (function() {                                                                                   
+                var d = document.documentElement;
+                d.setAttribute('data-useragent', navigator.userAgent);
+            })();
+        </script>
+        <script>
+            (function() {
+                
+                var d = document.documentElement;
+                if ( 'ontouchstart' in window ){
+                    d.className += ' touch';
+                }
+                else {
+                    d.className += ' no-touch';
+                }
+            })();
+        </script>
+
+        
+        
+    
+    
+            <link rel="stylesheet" href="http://d1069swflop3lk.cloudfront.net/css/global.d4063330a044.css">
+            <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+            <!--[if lte IE 9 ]>
+                <link rel="stylesheet" href="http://d1069swflop3lk.cloudfront.net/css/ie_imports.f3cfa8a62866.css">
+            <![endif]-->
+        
+    <link rel="stylesheet" href="http://d1069swflop3lk.cloudfront.net/css/baa.1694510c155c.css">
+
+    <link rel="stylesheet" href="http://d1069swflop3lk.cloudfront.net/css/base-extended.7ad0322a1a5d.css" />
+    <link rel="stylesheet" href="http://d1069swflop3lk.cloudfront.net/css/home.32e9c0f902e6.css" />
+
+
+        
+        <script type="text/javascript">
+            var WebFontConfig = {};
+            
+                WebFontConfig.google = {
+                    families: [ 'Yanone+Kaffeesatz', 'PT+Sans+Narrow:400,700' ]
+                };
+            
+            
+                WebFontConfig.timeout = 2000;
+            (function() {
+                var wf = document.createElement('script');
+                wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+                      '://ajax.googleapis.com/ajax/libs/webfont/1.5.6/webfont.js';
+                wf.type = 'text/javascript';
+                wf.async = 'true';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(wf, s);
+            })();
+
+        </script>
+
+
+        
+            <script type="text/javascript">
+                var googletag = googletag || {};
+                googletag.cmd = googletag.cmd || [];
+                (function() {
+                    var gads = document.createElement("script");
+                    gads.async = true;
+                    gads.type = "text/javascript";
+                    var useSSL = "https:" == document.location.protocol;
+                    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+                    var node =document.getElementsByTagName("script")[0];
+                    node.parentNode.insertBefore(gads, node);
+                })();
+            </script>
+
+            <script>
+                
+                (function() {
+
+                    
+                        var networkCode = 73255505;
+                        
+                            var domain = 'www.theatre.com';
+                            var subdomain = domain.split('.')[0];
+                        
+
+                        var topLevelAdUnit = subdomain;
+
+                        var s_values = [];
+
+                        
+                            var s1 = '';
+                            s_values.push(s1);
+                        
+
+                        var s_values_str = s_values.join('/');
+
+                        var adUnit = topLevelAdUnit;
+                        if ( s_values_str.length ) {
+                            adUnit += '/' + s_values_str;
+                        }
+
+                        var slotName = '/' + networkCode;
+                        if ( adUnit.length ) {
+                            slotName += '/' + adUnit;
+                        }
+
+                        function getQueryVariables(variable){
+                            var temp, i;
+                            var queryString = window.location.search.substring(1);
+                            var queries = queryString.split("&");
+                            var len = queries.length;
+
+                            for ( i = 0;  i < len; i++ ){
+                                temp = queries[i].split("=");
+                                if (temp[0] === variable){
+                                    return temp[1]
+                                }
+                            }
+                        }
+
+                        var type= '';
+                        var breakpoint= '';
+                        var dfp_test = getQueryVariables("dfp_test") || '';
+
+                    
+
+
+                        googletag.cmd.push(function() {
+
+                            
+
+    
+
+    
+    
+    googletag.defineSlot(slotName, [160,60], 'dfp-header-left')
+        .addService(googletag.pubads())
+        .setTargeting('pos', 'header-left');
+
+
+    
+    googletag.defineSlot(slotName, [160,60], 'dfp-header-right')
+        .addService(googletag.pubads())
+        .setTargeting('pos', 'header-right');
+
+
+
+
+    
+    googletag.defineSlot(slotName, [200,48], 'dfp-city-dropdown-left')
+        .addService(googletag.pubads())
+        .setTargeting('pos', 'city-dropdown-left');
+
+
+    
+    googletag.defineSlot(slotName, [200,48], 'dfp-city-dropdown-center')
+        .addService(googletag.pubads())
+        .setTargeting('pos', 'city-dropdown-center');
+
+
+    
+    googletag.defineSlot(slotName, [200,48], 'dfp-city-dropdown-right')
+        .addService(googletag.pubads())
+        .setTargeting('pos', 'city-dropdown-right');
+
+
+
+
+    
+        
+        
+    googletag.defineSlot(slotName, [300,70], 'dfp-sticky')
+        .addService(googletag.pubads())
+        .setTargeting('pos', 'sticky');
+
+
+    
+
+
+
+                            
+    
+                                
+                            
+    
+    googletag.defineSlot(slotName, [960,28], 'dfp-hp-carousel-strip-baa')
+        .addService(googletag.pubads())
+        .setTargeting('pos', 'hp-carousel-strip-baa');
+
+
+    
+    googletag.defineSlot(slotName, [300,100], 'dfp-hp-carousel-highlights-left-baa')
+        .addService(googletag.pubads())
+        .setTargeting('pos', 'hp-carousel-highlights-left-baa');
+
+
+    
+    googletag.defineSlot(slotName, [300,100], 'dfp-hp-carousel-highlights-center-baa')
+        .addService(googletag.pubads())
+        .setTargeting('pos', 'hp-carousel-highlights-center-baa');
+
+
+    
+    googletag.defineSlot(slotName, [300,100], 'dfp-hp-carousel-highlights-right-baa')
+        .addService(googletag.pubads())
+        .setTargeting('pos', 'hp-carousel-highlights-right-baa');
+
+
+    
+    googletag.defineSlot(slotName, [300,250], 'dfp-hp-latest-buzz-baa')
+        .addService(googletag.pubads())
+        .setTargeting('pos', 'hp-latest-buzz-baa');
+
+
+
+
+
+
+                            
+                            s_values.forEach(function(s_value, index){
+                                s_key = 's' + (index + 1);
+                                googletag.pubads().setTargeting(s_key,s_value);
+                            });
+
+                            googletag.pubads().setTargeting('type',type);
+                            googletag.pubads().setTargeting('breakpoint',breakpoint);
+                            googletag.pubads().setTargeting('dfp_test',dfp_test);
+                            googletag.pubads().collapseEmptyDivs();
+                            googletag.pubads().enableSingleRequest();
+                            googletag.enableServices();
+                        });
+
+
+                })();
+            </script>
+
+
+
+        
+
+        
+
+        
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="/feeds/buzz/latest" />
+        
+
+        
+            <link rel="alternate" media="only screen and (max-width: 640px)" href="http://www.theatre.com/?mobile=on"/>
+        
+
+
+        
+            <!-- Head Tag id 296 -->
+            <style>
+.baa #home #content #main-content .plybtn.med {display: none}
+</style>
+            <!-- END Head Tag id 296 -->
+        
+            <!-- Head Tag id 18 -->
+            <!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-225223-1', 'auto');
+ga('create','UA-225223-6', 'auto', { name: 'capacity' });
+ga('send', 'pageview');
+ga('capacity.send','pageview');
+
+</script>
+<!-- End Google Analytics -->
+            <!-- END Head Tag id 18 -->
+        
+            <!-- Head Tag id 400 -->
+            <style>
+.twitter-share-button {
+    margin-left: 10px;
+    margin-top: 0;
+}
+  .buzz .twitter-share-button {
+      margin-top: -2px; 
+  }
+  .ie8 .twitter-share-button {
+      display: none;
+  }
+</style>
+            <!-- END Head Tag id 400 -->
+        
+    </head>
+
+    
+    
+    <body id="home" class=" home">
+    
+        <script>
+            dataLayer = [];
+        </script>
+    
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-HRPQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-HRPQ');</script>
+<!-- End Google Tag Manager -->
+
+    
+
+        
+            <!-- Body Tag id 30 -->
+            <style>
+.highlights
+{
+display: none;
+}
+</style>
+
+            <!-- END Body Tag id 30 -->
+        
+        
+    <a class="skiplink visuallyhidden focusable" href="#skiplink-target">Skip top navigation</a>
+
+
+
+
+    
+
+    
+
+        <div class="cities-header">
+            <div id="global-nav" class="nav-global navbar-global-js" data-homepage-area-tagging="Global Top Nav">
+                <div class="nav-wrap navbar-wrap-js">
+
+                    
+                     <a href="http://www.broadway.com">
+                        <img src="http://d1069swflop3lk.cloudfront.net/img/logos/broadway-com-logo-blk.fafaeb7fd6fc.jpg" alt="Broadway.com" width="100" height="30" class="flt-l prl pvm" />
+                    </a>
+                    
+
+                    <ul id="global-nav-list" class="navbar-list-js nav-js">
+
+                        
+                        
+                             
+
+<li class="find-a-show no-flyout">
+    <a class="trigger" href="/shows/tickets/"><span>Shows</span></a>
+</li>
+
+
+<li class="buzz no-flyout">
+    <a class="trigger" href="/buzz/"><span>Buzz</span></a>
+</li>
+
+<li>
+    <form id="search-form-round" method="get" action="/search/" class="mlm">
+        <fieldset>
+            <input type="text" name="q" id="search-input" placeholder="Quick Search" class="text quick-search">
+            
+        </fieldset>
+    </form>
+</li>
+
+<style>
+.cities-header .centered img
+{
+    padding: 20px 0 20px 0;
+}
+</style>
+                        
+                        
+
+                        
+                        <li class="city-nav-li flt-r navli">
+
+                            <div class="nav-pill trigger-js"><a>London<span></span></a></div>
+
+                            <div class="flyout gain-layout five-columns">
+                                <div class="carrot-top"></div>
+                                <div class="inner clearfix">
+                                    
+                                        <div class="main">
+                                            <ul>
+                                                
+                                                    <li><strong>United States</strong></li>
+                                                
+
+                                                
+                                                    
+                                                        <li><a href="http://atlanta.broadway.com/">Atlanta</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://austin.broadway.com/">Austin</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://baltimore.broadway.com/">Baltimore</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://boston.broadway.com/">Boston</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://cincinnati.broadway.com/">Cincinnati</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://dallas.broadway.com/">Dallas</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://columbus.broadway.com/">Columbus</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://fortlauderdale.broadway.com/">Fort Lauderdale</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://foxcities.broadway.com/">Fox Cities</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://houston.broadway.com/">Houston</a></li>
+                                                    
+                                                    
+                                                            </ul>
+                                                        </div> 
+                                                        <div class="main">
+                                                            <ul>
+                                                                <li><span>&nbsp;</span></li>
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://indianapolis.broadway.com/">Indianapolis</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://jacksonville.broadway.com/">Jacksonville</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://kansascity.broadway.com/">Kansas City</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://louisville.broadway.com/">Louisville</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://madison.broadway.com/">Madison</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://miami.broadway.com/">Miami</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://milwaukee.broadway.com/">Milwaukee</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://minneapolis.broadway.com/">Minneapolis</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://neworleans.broadway.com/">New Orleans</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://www.broadway.com/">New York</a></li>
+                                                    
+                                                    
+                                                            </ul>
+                                                        </div> 
+                                                        <div class="main">
+                                                            <ul>
+                                                                <li><span>&nbsp;</span></li>
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://omaha.broadway.com/">Omaha</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://orangecounty.broadway.com/">Orange County</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://orlando.broadway.com/">Orlando</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://pittsburgh.broadway.com/">Pittsburgh</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://portland.broadway.com/">Portland</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://saltlakecity.broadway.com/">Salt Lake City</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://sanantonio.broadway.com/">San Antonio</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://seattle.broadway.com/">Seattle</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://tempe.broadway.com/">Tempe</a></li>
+                                                    
+                                                    
+                                                
+                                            </ul>
+                                        </div> 
+                                    
+                                        <div class="main">
+                                            <ul>
+                                                
+                                                    <li><strong>Canada</strong></li>
+                                                
+
+                                                
+                                                    
+                                                        <li><a href="http://calgary.broadway.com/">Calgary</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://edmonton.broadway.com/">Edmonton</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://kitchener.broadway.com/">Kitchener</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://montreal.broadway.com/">Montreal</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://ottawa.broadway.com/">Ottawa</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://quebec.broadway.com/">Quebec City</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://regina.broadway.com/">Regina</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://saskatoon.broadway.com/">Saskatoon</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://vancouver.broadway.com/">Vancouver</a></li>
+                                                    
+                                                    
+                                                
+                                                    
+                                                        <li><a href="http://winnipeg.broadway.com/">Winnipeg</a></li>
+                                                    
+                                                    
+                                                
+                                            </ul>
+                                        </div> 
+                                    
+                                        <div class="main">
+                                            <ul>
+                                                
+                                                    <li><strong>United Kingdom</strong></li>
+                                                
+
+                                                
+                                                    
+                                                        <li class="current"><span>London</span></li>
+                                                    
+                                                    
+                                                
+                                            </ul>
+                                        </div> 
+                                    
+                                    <div class="clear clear-both ptl">
+                                        <span class="mrs OTR-title"><strong>On the Road</strong></span>
+
+                                        <div class="mrs ad-iframe-js" style="display:inline-block">
+<div id="dfp-city-dropdown-left">
+    <script>
+        googletag.cmd.push(function() { googletag.display('dfp-city-dropdown-left'); });
+    </script>
+</div>
+</div>
+                                        <div class="mrs ad-iframe-js" style="display:inline-block">
+<div id="dfp-city-dropdown-center">
+    <script>
+        googletag.cmd.push(function() { googletag.display('dfp-city-dropdown-center'); });
+    </script>
+</div>
+</div>
+                                        <div class="mrs ad-iframe-js" style="display:inline-block">
+<div id="dfp-city-dropdown-right">
+    <script>
+        googletag.cmd.push(function() { googletag.display('dfp-city-dropdown-right'); });
+    </script>
+</div>
+</div>
+                                    </div>
+                                </div> 
+                             </div> 
+                        </li> 
+                        
+
+                    </ul> 
+                </div>
+            </div>
+        </div>
+        
+            <div class="solid-rule mvn"></div>
+
+            <div class="centered">
+                
+                    <a href="/"><img src="http://d2npu017ljjude.cloudfront.net/images/custom/w960/h125/ffffff/7771-0.jpg" alt="" class="pvn" /></a>
+                
+            </div>
+        
+        <div class="red-rule"></div>
+    
+
+
+<ul class="hide">
+
+    <li><a href="/">Home</a>&raquo;</li>
+
+</ul>
+
+<a id="skiplink-target" class="visuallyhidden" href="#">&nbsp;</a>
+
+
+
+<div id="wrapper">
+    
+    <div id="home-header" class=" multiple-carousel">
+        
+
+    
+
+        <h1>Upcoming Shows</h1>
+
+        <div id="black-box" class="auto">
+
+            <div id="tab-contents-1" class="carousel-wrapper selected">
+                    <div id="home-carousel-1" class="home-carousel five-show">
+                        <ul id="home-carousel-ul-1"  class="home-carousel-ul" data-tab-number="1">
+                        
+
+
+
+<li class="carousel-item" data-hero-number="1">
+    
+        
+        <a class="image-link" href="/shows/rent-london/">
+            
+            
+                <img alt="Rent Tickets" src="http://d2npu017ljjude.cloudfront.net/images/poster-178275/w178/000000/87184-3.jpg">
+            
+        </a>
+        
+
+    <div class="opts">
+        <p class="dates">
+            <span style="display: none">2016-12-08</span>Dec 8, 2016&ndash;Jan 28, 2017
+        </p>
+
+        <p class="venue">The Other Palace</p>
+
+        <div class="carousel-button">
+            
+                
+                <a data-showname="Rent" href="/tickets/show/8752" class="button small">Buy Tickets</a>
+            
+        </div>
+
+    </div>
+    
+
+</li>
+
+<li class="carousel-item" data-hero-number="2">
+    
+        
+        <a class="image-link" href="/shows/rosencrantz-guildenstern-are-dead/">
+            
+            
+                <img alt="Rosencrantz and Guildenstern Are Dead Tickets" src="http://d2npu017ljjude.cloudfront.net/images/poster-178275/w178/000000/85562-3.jpg">
+            
+        </a>
+        
+
+    <div class="opts">
+        <p class="dates">
+            <span style="display: none">2017-02-25</span>Starts: Feb 25, 2017
+        </p>
+
+        <p class="venue">Old Vic Theatre</p>
+
+        <div class="carousel-button">
+            
+                
+                <a data-showname="Rosencrantz and Guildenstern Are Dead" href="/tickets/show/8771" class="button small">Buy Tickets</a>
+            
+        </div>
+
+    </div>
+    
+
+</li>
+
+<li class="carousel-item" data-hero-number="3">
+    
+        
+        <a class="image-link" href="/shows/matilda-london/">
+            
+            
+                <img alt="Matilda Tickets" src="http://d2npu017ljjude.cloudfront.net/images/poster-178275/w178/000000/4507-2.jpg">
+            
+        </a>
+        
+
+    <div class="opts">
+        <p class="dates">
+            <span style="display: none">2011-10-18</span>Started: Oct 18, 2011
+        </p>
+
+        <p class="venue">Cambridge Theatre</p>
+
+        <div class="carousel-button">
+            
+                
+                <a data-showname="Matilda" href="/tickets/show/351" class="button small">Buy Tickets</a>
+            
+        </div>
+
+    </div>
+    
+
+</li>
+
+<li class="carousel-item" data-hero-number="4">
+    
+        
+        <a class="image-link" href="/shows/girls/">
+            
+            
+                <img alt="The Girls Tickets" src="http://d2npu017ljjude.cloudfront.net/images/poster-178275/w178/000000/86756-5.jpg">
+            
+        </a>
+        
+
+    <div class="opts">
+        <p class="dates">
+            <span style="display: none">2017-01-28</span>Started: Jan 28, 2017
+        </p>
+
+        <p class="venue">Phoenix Theatre</p>
+
+        <div class="carousel-button">
+            
+                
+                <a data-showname="The Girls" href="/tickets/show/8800" class="button small">Buy Tickets</a>
+            
+        </div>
+
+    </div>
+    
+
+</li>
+
+<li class="carousel-item" data-hero-number="5">
+    
+        
+        <a class="image-link" href="/shows/inspector-calls/">
+            
+            
+                <img alt="An Inspector Calls Tickets" src="http://d2npu017ljjude.cloudfront.net/images/poster-178275/w178/000000/86836-3.jpg">
+            
+        </a>
+        
+
+    <div class="opts">
+        <p class="dates">
+            <span style="display: none">2016-11-04</span>Nov 4, 2016&ndash;Mar 25, 2017
+        </p>
+
+        <p class="venue">Playhouse Theatre </p>
+
+        <div class="carousel-button">
+            
+                
+                <a data-showname="An Inspector Calls" href="/tickets/show/8809" class="button small">Buy Tickets</a>
+            
+        </div>
+
+    </div>
+    
+
+</li>
+
+<li class="carousel-item" data-hero-number="6">
+    
+        
+        <a class="image-link" href="/shows/thriller-live-london/">
+            
+            
+                <img alt="Thriller - Live Tickets" src="http://d2npu017ljjude.cloudfront.net/images/poster-178275/w178/000000/5109-2.jpg">
+            
+        </a>
+        
+
+    <div class="opts">
+        <p class="dates">
+            <span style="display: none">2009-01-02</span>Started: Jan 2, 2009
+        </p>
+
+        <p class="venue">Lyric Theatre</p>
+
+        <div class="carousel-button">
+            
+                
+                <a data-showname="Thriller - Live" href="/tickets/show/114" class="button small">Buy Tickets</a>
+            
+        </div>
+
+    </div>
+    
+
+</li>
+
+<li class="carousel-item" data-hero-number="7">
+    
+        
+        <a class="image-link" href="/shows/bodyguard/">
+            
+            
+                <img alt="The Bodyguard Tickets" src="http://d2npu017ljjude.cloudfront.net/images/poster-178275/w178/000000/3693-2.jpg">
+            
+        </a>
+        
+
+    <div class="opts">
+        <p class="dates">
+            <span style="display: none">2016-07-15</span>Started: Jul 15, 2016
+        </p>
+
+        <p class="venue">Dominion Theatre</p>
+
+        <div class="carousel-button">
+            
+                
+                <a data-showname="The Bodyguard" href="/tickets/show/6516" class="button small">Buy Tickets</a>
+            
+        </div>
+
+    </div>
+    
+
+</li>
+
+<li class="carousel-item" data-hero-number="8">
+    
+        
+        <a class="image-link" href="/shows/phantom-opera-london/">
+            
+            
+                <img alt="The Phantom of the Opera Tickets" src="http://d2npu017ljjude.cloudfront.net/images/poster-178275/w178/000000/86046-3.jpeg">
+            
+        </a>
+        
+
+    <div class="opts">
+        <p class="dates">
+            <span style="display: none">1986-10-09</span>Started: Oct 9, 1986
+        </p>
+
+        <p class="venue">Her Majesty&#39;s Theatre</p>
+
+        <div class="carousel-button">
+            
+                
+                <a data-showname="The Phantom of the Opera" href="/tickets/show/127" class="button small">Buy Tickets</a>
+            
+        </div>
+
+    </div>
+    
+
+</li>
+
+<li class="carousel-item" data-hero-number="9">
+    
+        
+        <a class="image-link" href="/shows/mousetrap-london/">
+            
+            
+                <img alt="The Mousetrap Tickets" src="http://d2npu017ljjude.cloudfront.net/images/poster-178275/w178/000000/5089-2.jpg">
+            
+        </a>
+        
+
+    <div class="opts">
+        <p class="dates">
+            <span style="display: none">1952-11-25</span>Started: Nov 25, 1952
+        </p>
+
+        <p class="venue">St. Martin&#39;s Theatre</p>
+
+        <div class="carousel-button">
+            
+                
+                <a data-showname="The Mousetrap" href="/tickets/show/133" class="button small">Buy Tickets</a>
+            
+        </div>
+
+    </div>
+    
+
+</li>
+
+<li class="carousel-item" data-hero-number="10">
+    
+        
+        <a class="image-link" href="/shows/woman-black-london/">
+            
+            
+                <img alt="The Woman in Black Tickets" src="http://d2npu017ljjude.cloudfront.net/images/poster-178275/w178/000000/5085-2.jpg">
+            
+        </a>
+        
+
+    <div class="opts">
+        <p class="dates">
+            <span style="display: none">1989-06-07</span>Started: Jun 7, 1989
+        </p>
+
+        <p class="venue">Fortune Theatre</p>
+
+        <div class="carousel-button">
+            
+                
+                <a data-showname="The Woman in Black" href="/tickets/show/137" class="button small">Buy Tickets</a>
+            
+        </div>
+
+    </div>
+    
+
+</li>
+
+
+
+
+
+                        </ul>
+                    </div>
+
+                    <ul class="carousel-controls">
+                        <li class="prev">
+                            <img src="http://d1069swflop3lk.cloudfront.net/img/icons/arr-previous-bg.4ed0eee4e0da.png" id="carousel-previous-1" class="carousel-previous" href="#" alt="Previous"/>
+                        </li>
+                        <li class="next">
+                            <img src="http://d1069swflop3lk.cloudfront.net/img/icons/arr-next-bg.3056f74544e3.png" id="carousel-next-1" class="carousel-previous" href="#" alt="Next"/>
+                        </li>
+                    </ul>
+            </div>
+
+            <div id="custom-nav-bar-bottom">
+                
+<div id="dfp-hp-carousel-strip-baa">
+    <script>
+        googletag.cmd.push(function() { googletag.display('dfp-hp-carousel-strip-baa'); });
+    </script>
+</div>
+ 
+            </div>
+
+        </div>
+
+        
+            <a class="arrow-link mtm mrl" href="/shows/tickets/">View all Shows<span></span></a>
+        
+
+    
+
+
+
+    </div>
+    
+
+    <div id="homepage-background"></div>
+
+    <div class="highlights">
+
+        <div class="highlights-col" id="center-left">
+            <div class="highlights-content">
+                
+<div id="dfp-hp-carousel-highlights-left-baa">
+    <script>
+        googletag.cmd.push(function() { googletag.display('dfp-hp-carousel-highlights-left-baa'); });
+    </script>
+</div>
+ 
+            </div>
+        </div>
+
+
+        <div class="highlights-col" id="center-middle">
+            <div class="highlights-content">
+                
+<div id="dfp-hp-carousel-highlights-center-baa">
+    <script>
+        googletag.cmd.push(function() { googletag.display('dfp-hp-carousel-highlights-center-baa'); });
+    </script>
+</div>
+ 
+            </div>
+        </div>
+
+        <div class="highlights-col ad">
+            <div class="swf-ad-300x100">
+                
+<div id="dfp-hp-carousel-highlights-right-baa">
+    <script>
+        googletag.cmd.push(function() { googletag.display('dfp-hp-carousel-highlights-right-baa'); });
+    </script>
+</div>
+ 
+            </div>
+        </div>
+
+    </div><!-- end highlights -->
+
+
+            <div id="content">
+                <div id="main-content">
+
+                    <h3 class="mbm">
+                        
+                            <span>Latest</span> Buzz
+                        
+                    </h3>
+
+                    <ul class="news-items">
+                        
+
+                            
+
+                            <li class="ptm pbl">
+                                <div class="article-meta"><span class="categorylabel">News</span></div>
+                                <h4 class="font-16 mvm"><a href="/buzz/187667/oliver-coopersmith-jay-taylor-will-star-in-bill-rosenfields-46-beacon-in-the-west-end/">Oliver Coopersmith & Jay Taylor Will Star in Bill Rosenfield's <I>46 Beacon</I> in the West End  </a></h4>
+
+                                
+                                <a class="flt-l mrm thumbnail-wrapper" href="/buzz/187667/oliver-coopersmith-jay-taylor-will-star-in-bill-rosenfields-46-beacon-in-the-west-end/">
+
+                                        
+                                            <img alt="" src="http://d2npu017ljjude.cloudfront.net/images/custom/w606/87696-13.jpg" />
+                                        
+
+                                        
+                                    </a>
+                                
+
+                                <div><p>Oliver Coopersmith and Jay Taylor are set to star in the <a href="http://www.broadway.com/buzz/187533/bill-rosenfields-46-beacon-poised-for-west-end-debut/">West End debut</a> of Bill Rosenfield&#39;s <em>46 Beacon</em>. The production, a 1970s-set play about coming of age and coming ...</p></div>
+                                <a class="arrow-link mtm" href="/buzz/187667/oliver-coopersmith-jay-taylor-will-star-in-bill-rosenfields-46-beacon-in-the-west-end/">
+                                    
+                                        Read more
+                                    
+                                <span></span></a>
+                            </li>
+                            
+
+                            <li class="ptm pbl">
+                                <div class="article-meta"><span class="categorylabel">News</span></div>
+                                <h4 class="font-16 mvm"><a href="/buzz/187664/christopher-hamptons-the-philanthropist-set-for-the-west-end-lily-cole-simon-bird-more-tapped/">Christopher Hampton's <I>The Philanthropist</I> Set for the West End; Lily Cole, Simon Bird & More Tapped</a></h4>
+
+                                
+                                <a class="flt-l mrm thumbnail-wrapper" href="/buzz/187664/christopher-hamptons-the-philanthropist-set-for-the-west-end-lily-cole-simon-bird-more-tapped/">
+
+                                        
+                                            <img alt="" src="http://d2npu017ljjude.cloudfront.net/images/regular-43/w350/h263/88088-16.jpg" />
+                                        
+
+                                        
+                                    </a>
+                                
+
+                                <div><p>Oscar and Tony winner Christopher Hampton&#39;s <em>The Philanthropist</em> is set to play a limited engagement at London&#39;s Trafalgar Studios. British star Simon Callow will direct a cast that includes Lily ...</p></div>
+                                <a class="arrow-link mtm" href="/buzz/187664/christopher-hamptons-the-philanthropist-set-for-the-west-end-lily-cole-simon-bird-more-tapped/">
+                                    
+                                        Read more
+                                    
+                                <span></span></a>
+                            </li>
+                            
+
+                            <li class="ptm pbl">
+                                <div class="article-meta"><span class="categorylabel">Odds and Ends</span></div>
+                                <h4 class="font-16 mvm"><a href="/buzz/187638/london-odds-ends-hair-returns-to-the-uk-a-new-la-strada-more/">London Odds & Ends: <i>Hair</i> Returns to the U.K., a New <I>La Strada</i> & More</a></h4>
+
+                                
+                                <a class="flt-l mrm thumbnail-wrapper" href="/buzz/187638/london-odds-ends-hair-returns-to-the-uk-a-new-la-strada-more/">
+
+                                        
+                                            <img alt="" src="http://d2npu017ljjude.cloudfront.net/images/regular-43/w350/h263/88027-9.jpg" />
+                                        
+
+                                        
+                                    </a>
+                                
+
+                                <div><p><strong><i>Here&#39;s a quick roundup of stories you may have missed today from the U.K.</i> </strong><br />
+<br />
+<b style="font-family: Arial, Helvetica, Geneva, sans-serif; font-size: 15px;">Fall Will Be the Age of Aquarius in London</b><br />
+Hope Mill Theatre&rsquo;s production of <i>Hair ...</i></p></div>
+                                <a class="arrow-link mtm" href="/buzz/187638/london-odds-ends-hair-returns-to-the-uk-a-new-la-strada-more/">
+                                    
+                                        Read more
+                                    
+                                <span></span></a>
+                            </li>
+                            
+
+
+                        
+
+                    </ul>
+
+                    <a class="arrow-link mtm" href="/buzz/">View All  Buzz<span></span></a>
+
+                </div>
+
+                <div id="sidebar">
+                    <div class="ad">
+                        
+<div id="dfp-hp-latest-buzz-baa">
+    <script>
+        googletag.cmd.push(function() { googletag.display('dfp-hp-latest-buzz-baa'); });
+    </script>
+</div>
+ 
+                    </div>
+
+                    
+                </div>
+            </div>
+</div>
+
+
+
+        
+
+</div>
+
+
+
+    
+
+         
+        <div id="footer" class="custom container-960">
+            <div class="subfooter" class="clearfix">
+                <div class="flt-l">
+                    <span><b>+44 (0) 207 492 1606</b></span>
+                    | <span><a href="/privacy-policy/" title="Privacy Policy">Privacy Policy</a></span>
+                    | <span><a href="/terms/" title="Terms &amp; Conditions">Terms &amp; Conditions</a></span>
+                    | <span><a href="/contact-us/" title="Contact Us">Contact Us</a></span>
+                </div>
+                <span class="copyright"><b>&copy; 2017 The John Gore Organization, Inc.</b></span>
+            </div>
+        </div>
+
+
+    
+
+
+
+
+
+
+
+    
+    
+        <script>
+        var BWY = BWY || {};
+        BWY.userAgent = {};
+        BWY.userAgent.full = navigator.userAgent;
+        BWY.userAgent.isIPhone = BWY.userAgent.full.match(/iPhone/i);
+        BWY.userAgent.isIPod = BWY.userAgent.full.match(/iPod/i);
+        BWY.userAgent.isIPad = BWY.userAgent.full.match(/iPad/i);
+        BWY.userAgent.isAndroid = BWY.userAgent.full.match(/Android/i);
+        BWY.userAgent.isIOS = BWY.userAgent.isIPhone || BWY.userAgent.isIPad || BWY.userAgent.isIPod;
+        BWY.userAgent.isTouchDevice = ("ontouchstart" in window);
+        </script>
+        
+            
+
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+            <script>window.jQuery || document.write("<script src='http://d1069swflop3lk.cloudfront.net/js/libs/jquery-1.11.1.min.8101d596b2b8.js'>\x3C/script>")</script>
+            <script src="http://d1069swflop3lk.cloudfront.net/js/libs/jquery.placeholder.min.73235db14364.js"></script>
+            <script src="http://d1069swflop3lk.cloudfront.net/js/libs/jquery-plugins/jquery.validate.min.15d67ada60f2.js"></script>
+            <script src="http://d1069swflop3lk.cloudfront.net/js/onyx/libs/bootstrap.min.2616d3564578.js"></script>
+            <script src="http://d1069swflop3lk.cloudfront.net/js/onyx/libs/bootstrap/plugins/fuelux/selectlist.cc935d89d0c8.js"></script>
+
+            <script>
+                jQuery.noConflict();
+            </script>
+
+            <script src="http://d1069swflop3lk.cloudfront.net/js/base.8f0873fee83a.js"></script>
+
+            
+            
+            <script>
+            jQuery(document).ready(function($){
+
+                var $select = $('.selectlist-js');
+
+                
+                
+                var full = window.location.host;
+                var parts = full.split('.');
+                var sub = parts[0];
+
+                
+                
+                var languageOptions = [];
+                $select.each(function(){
+                    languageOptions[$(this).val()] = true;
+                });
+                sub = languageOptions[sub] || 'en';
+                $select.selectlist('selectByValue', sub);
+
+
+                $select.on('changed.fu.selectlist', function(evt, data){
+                    var language;
+                    var currentUrl;
+                    var currentJoin;
+                    var dropDownList = document.querySelectorAll(".selectlist-js li");
+                    var vals = [];
+                    var check;
+                    var currentUrlParts;
+
+                    language = data.value;
+                    if (language === 'en') {
+                        language = '';
+                    } else {
+                        language += '.';
+                    }
+                    currentUrl = window.location.href;
+                    for (var i = 0; i< dropDownList.length; i++) {
+                        vals.push(dropDownList[i].getAttribute('data-value'));
+                    }
+
+                        
+
+                        var check = function(){
+
+                            if (sub == 'www' || '1' == '2'){
+                                
+                                var currentUrlParts = currentUrl.split('.');
+                                currentUrlParts.splice(0,1);
+                                currentJoin = currentUrlParts.join(".");
+                                return currentJoin;
+                            } else {
+
+                                for (i=0;i<vals.length;i++){
+                                     if (sub == vals[i]){
+                                     
+                                          var currentUrlParts = currentUrl.split('.');
+                                          currentUrlParts.splice(0,1);
+                                          currentJoin = currentUrlParts.join(".");
+                                          return currentJoin;
+                                     }
+
+                                 }
+                            
+                            
+                            currentJoin = currentUrl.replace(/.*?:\/\//g, "");
+                            return currentJoin;
+                        }
+                    };
+
+                    window.location = "http://" + language + check();
+                });
+
+              });
+            </script>
+
+            
+<script>
+    jQuery(document).ready(function($){
+        // Accessible nav tabbing
+        $('.navbar-wrap-js').on('keyup','.trigger, .trigger-js', function(e){
+            $('ul.navbar-list-js li.hover').removeClass('hover');
+            $(this).parent('li').addClass('hover');
+            $('.ad-iframe-js iframe').prop('tabindex', '-1');
+            $('.nav-pill').prop('tabindex', '0');
+        });
+        $('.navbar-wrap-js').find('a').last().on("blur", function(e){
+            $('ul.navbar-list-js li.hover').removeClass('hover');
+        })
+    })
+</script>
+
+
+            <script>
+            jQuery(document).ready(function($){
+
+                
+
+                // NAV Clicking JS for Desktop/Touch
+                if (BWY.userAgent.isTouchDevice){
+                    var this_tab,
+                        this_clicked = null;
+
+                    $('.navbar-global-js').on('touchstart', '.navbar-wrap-js ul li .trigger ', function(e){
+
+                        // first click should activate drop-down, 2nd should go to href or deactivate hover if no href
+                        var $this = $(this).parent('li');
+                        var no_flyout = $this.hasClass('no-flyout');
+                        this_tab = $this.text();
+
+                        if (this_clicked === this_tab || no_flyout ) {
+                            // has clicked on this tab before or has no flyout
+                            this_clicked = null; // in case tab doesn't have href
+                            $this.removeClass('hover');
+                            return true;
+                        } else {
+                            // clicked on a different tab previously
+                            // OR clicked on a tab with no href
+                            e.preventDefault();
+                            this_clicked = this_tab;
+                            $this.parent('.navbar-list-js').children('li').andSelf().removeClass('hover');
+                            $this.parent('.navbar-list-js').siblings().children('li').removeClass('hover');
+                            $this.addClass('hover');
+                        }
+                    });
+                    $('body').on('touchstart', function(e) {
+                        // Legacy support to be removed after onyx integration
+
+                        if ( !$(e.target).is( '.trigger, .navbar-flyout-menu li *, .trigger span, .navbar-list-js .flyout * ') ) {
+                            $('.navbar-list__item-js, .navbar-list-js li').removeClass('hover');
+                            this_clicked = null;
+                        }
+                    })
+                } else {
+                    $('.contains-flyout').mouseenter(function(){
+                        var $that = $(this);
+                        $(this).addClass('hover');
+                        window.navTimeout = window.setTimeout(function(){
+                            var category = 'Other Actions';
+                            var action = category + ': Global Nav Hover';
+                            var section_name = $that.find('.trigger').text();
+
+                            var label = action + ' - ' + section_name;
+
+                            ga('send','event',{
+                                'eventCategory' : category,
+                                'eventAction'   : action,
+                                'eventLabel'    : label
+                            });
+                        }, 500 );
+                    });
+                    $('.contains-flyout').mouseleave(function(){
+                        $(this).removeClass('hover');
+                        if (window.navTimeout){
+                            window.clearTimeout(navTimeout);
+                        }
+                    });
+                }
+            });
+            </script>
+
+        
+
+        
+
+
+        
+    <script>
+    
+        (function($){
+            $('.stickyfooter').bwyStickyFooter({
+                stickyfooter_content:   '.social-stickys',
+                stickyfooter_bg:        '.stickyfooter-bg',
+                stickyfooter_ad:        '.bottom-footer-ad',
+                stickyfooter_expand:    '.expand-stickyfooter',
+                stickyfooter_close:     '.close-stickyfooter'
+            })
+        }(jQuery));
+    </script>
+    
+    <script>
+        jQuery(document).ready(function($){
+            $('.social-stickys').on('click', 'a.sticky-icon', function(e) {
+                var category = 'Sticky footer Share';
+                var action = category + ': ';
+                action += this.className;
+                // label is not used for this event tracking
+
+                ga('send','event',{
+                    'eventCategory' : category,
+                    'eventAction'   : action
+                });
+                return true;
+            });
+        });
+    </script>
+
+
+        
+        
+            
+            <script>
+                jQuery(document).ready(function($){
+                    $('.sticky-icon-list-js').on('click', '.icon-list__item-js', function(e) {
+                        var category = 'Sticky footer Share';
+                        var action = category + ': ';
+                        action += this.className;
+                        // label is not used for this event tracking
+                        ga('send','event',{
+                            'eventCategory' : category,
+                            'eventAction'   : action
+                        });
+                        return true;
+                    });
+                });
+            </script>
+        
+
+        
+        
+        
+
+<script type="text/javascript">
+jQuery(document).ready(function($){
+
+    var $selector =        $('.city-nav-li');
+    var $selector_hitbox = $('.city-nav-li .nav-pill');
+
+    if ($selector_hitbox) {
+        
+        $selector_hitbox.click(function(e){
+            e.preventDefault();
+            e.stopImmediatePropagation();
+            $selector.toggleClass('hover');
+        });
+
+        
+        $('body').click(function(e){
+            if (!$(e.target).is('.city-nav-li, .city-nav-li *')) {
+                $selector.removeClass('hover');
+            }
+        });
+
+        
+        $selector.click(function(e){
+            var category = 'Global City Select';
+            var action   = category + ': ';
+            var label = action + 'using version: default';
+
+            if ($(e.target).is('a[href*="broadway.com"]')) {
+                ga('send','event',{
+                    'eventCategory' : category,
+                    'eventAction'   : action,
+                    'eventLabel'    : label
+                });
+                return true;
+            } else {
+                e.stopImmediatePropagation();
+            }
+        });
+    }
+});
+</script>
+
+
+        
+
+    
+
+    <script src="http://d1069swflop3lk.cloudfront.net/js/libs/jquery-plugins/jquery.bxSlider.min.eaae873c82c4.js"></script>
+
+    <script>
+        jQuery(document).ready(function($){
+            if ($('#newsletter-signup, #eclub-signup').length) {
+                
+                var newsletter = $('#newsletter-signup, #eclub-signup');
+                newsletter.validate({
+                    debug: true,
+                    rules: {
+                        email: {
+                            required: true,
+                            email: true
+                        }
+                    },
+                    messages: {
+                        email: {
+                            required: "Please enter an email address.",
+                            email: "Please enter a valid email address."
+                        }
+                    },
+                    submitHandler: function(form) {
+                        var $form = $(form),
+                            data = $form.serialize();
+                            $.ajax({
+                                url: $form.attr('action'),
+                                type: 'POST',
+                                data: data
+                            })
+                            .done(function() {
+                                if(!$('input.success').length) {
+                                    $form
+                                        .html("<label for='newsletter-signup' generated='generated' class='success'>Thanks! You've been added to our newsletter.</label>");
+                                    try {
+                                        ga('send','pageview','/newsletters/success');
+                                    } catch(err){}
+                                }
+                        });
+                    }
+                });
+            }
+
+            homepageCarousels();
+
+            $('.col .content').equalize();
+            $('.col').equalize();
+
+            homepageTabs('Theatre.com');
+
+            gaHashTracking('#home-header', '.arrow-link', function(){ return '#loc=viewall'; });
+        });
+    </script>
+
+
+        
+            <!-- Foot Tag id 7 -->
+            <!-- Google Code for Remarketing List Remarketing List -->
+<script type="text/javascript">
+<!--
+var google_conversion_id = 1067883675;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "AMp1CPv9twEQm7ma_QM";
+var google_conversion_value = 0;
+//-->
+</script>
+<div class="visually-hidden">
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+</div>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1067883675/?label=AMp1CPv9twEQm7ma_QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+            <!-- END Foot Tag id 7 -->
+        
+            <!-- Foot Tag id 475 -->
+            <script>
+/* ***************************
+
+    setupExpandingAd: Example usage.
+
+    This only changes the height of a dfp ad's container for ads that expand. Can handle delay on hover event before triggering expansion
+
+
+    Example javascript to implement:
+
+    jQuery(document).ready(function($){
+            var pushdown_options = {
+                'dfp_id' : 'dfp-hp-pushdown',   // required
+                'open_height' : 415,            // required
+                'default_height' : 90,          // required
+                'delay' : 400,                  // optional, if you don't put any value it will expand immediately on hover
+            };
+            BWY.setupExpandingAd(pushdown_options);
+    });
+
+
+*****************************/
+
+(function($){
+
+    BWY.setupExpandingAd = function ( options ) {
+    
+        var options = options || {};
+    
+        var open_height    = options.open_height    || 415;
+        var default_height = options.default_height || 90;
+        var delay          = options.delay          || 0;
+        var $container = $('#'+options.dfp_id);
+    
+        var timeouts = [];
+    
+        var notTouch = document.documentElement.className.indexOf('no-touch') > -1;
+    
+        /* We have to change the heights on both the iframe and its containing div otherwise there's overflow clipping */
+    
+        function expandElement( $el, key ) {
+            /* since multiple elements need to be expanded we create different keys for their respective timeouts so we can
+                clear those timeouts if necessary */
+    
+            timeouts[key] = setTimeout(function(){
+                $el.height(open_height);
+            }, delay)
+        }
+    
+        function collapseElement( el, key ) {
+            clearTimeout(timeouts[key]);
+            $(el).height(default_height);
+        }
+    
+        if ( notTouch ){
+            $container.on('mouseover', 'iframe', function(){
+                var $el = $(this);
+                /* this has to be in the on handler instead of outside because the iframe is added asynchronously */
+                var w = $el.width();
+                if ( w <=300 || w >= 940  ){
+                    expandElement($el, 'iframe');                        
+                }
+            });
+            $container.on('mouseout', 'iframe', function(){
+                /* there's no check on the width in case user resizes the page (and therefore iframe) down */
+                collapseElement(this, 'iframe');                   
+            });
+        }
+    
+    }
+
+})(jQuery);
+
+
+jQuery(document).ready(function($){
+    window.BWY = window.BWY || {};
+    if ( $('#dfp-sticky').length ){
+        var sticky_options = {
+            'dfp_id' : 'dfp-sticky',
+            'open_height' : 250,
+            'default_height' : 70,
+        };
+        BWY.setupExpandingAd(sticky_options);
+    }
+});
+</script>
+            <!-- END Foot Tag id 475 -->
+        
+
+    
+        <script type='text/javascript'>
+        
+        var ebRand = Math.random()+'';
+        ebRand = ebRand * 1000000;
+        //<![CDATA[
+        document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=503675&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
+        //]]>
+        </script>
+        <noscript>
+        <img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=503675&amp;ns=1"/>
+        </noscript>
+    
+
+    
+    
+    
+
+
+    <!--googleoff: all-->
+    
+    <!--googleon: all-->
+
+    
+        <a href="/firepit"><img src="http://d1069swflop3lk.cloudfront.net/img/global/pixel.bb05c8a58947.gif" border="0" width="1" height="1" /></a>
+    
+
+    </body>
+</html>

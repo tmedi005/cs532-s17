@@ -1,0 +1,1111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Fox Ads -->
+<meta name="dc.source" content="FOX News Insider" />
+<meta name="dc.publisher" content=" FOX News Insider" />
+<meta name="dc.date" content="2017-02-22" /> <!-- date today/published -->
+<meta name="dc.format" scheme="dcterms.IMT" content="text/html" />
+<meta name="dc.subject" content="Fox News, Fox News Channel, Fox News Insider, Official Blog, News, Headlines, Politics" /> 
+<!-- usually can be the same as the keywords meta --> 
+
+<meta name="description" content="On &quot;Tucker Carlson Tonight,&quot; Ann Coulter gave President Trump an overall &quot;A+&quot; grade for his governance after his first month in office." />
+
+<!-- OG Tags -->
+<meta property="og:site_name" content="Fox News Insider" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" />
+<meta property="og:title" content="Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office" />
+<meta property="og:description" content="On &quot;Tucker Carlson Tonight,&quot; Ann Coulter gave President Trump an overall &quot;A+&quot; grade for his governance after his first month in office." />
+<meta property="og:image" content="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/coulter_1.jpg?itok=M59Z76G2" />
+
+<!-- created and modified can be the same -->
+<meta name="dcterms.created" scheme="dcterms.ISO8601" content="2017-02-22T21:52:51-05:00" /> 
+<meta name="dcterms.modified" scheme="dcterms.ISO8601" content="2017-02-22T23:01:25-05:00" />
+
+
+<meta name="prism.channel" content="fnc" />
+<meta name="prism.section" content="insider" />
+<meta name="prism.subsection1" content="" />
+<meta name="prism.subsection2" content="" />
+<meta name="prism.subsection3" content="" />
+<meta name="prism.subsection4" content="" />
+
+
+<meta name="prism.aggregationType" content="blog" />
+<meta name="dc.type" scheme="dcterms.DCMIType" content="Text.Article" />
+<meta name="prism.genre" content="" />
+<meta name="dc.creator" content="" /> <!-- ** the creator -->
+<meta name="dc.contributor" content="" /> <!-- ** the secondary author -->
+
+<meta property="fb:app_id" content="349898035111803"/>
+
+<!-- Google Authorship and Publisher Markup -->
+<link rel="author" href="https://plus.google.com/+FoxnewsinsiderPlus/posts"/>
+<link rel="publisher" href="https://plus.google.com/+FoxnewsinsiderPlus"/>
+<!-- Bing Verification -->
+<!-- <meta name="msvalidate.01" content="38385524B123983AC856A0704AFA749E" /> --><meta name="msvalidate.01" content="8BB0E8331D9B26C16C12B4BB1ED99302" />
+<!-- twitter card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@foxnewsinsider">
+<meta name="twitter:creator" content="@foxnewsinsider">
+<meta name="google-site-verification" content="EYeIKKciyrqySY-yLHUcPP38bOtbfLXIX3zkmCgBmb4" /><!-- new site -->
+<meta name="y_key" content="9ba66ba07c6abaa2" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="amphtml" href="http://insider.foxnews.com/amp/article/54488" />
+<link rel="shortcut icon" href="http://insider.foxnews.com/sites/insider.foxnews.com/themes/insider_boot/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" />
+
+  <title>Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office | Fox News Insider</title>
+  <link type="text/css" rel="stylesheet" href="http://insider.foxnews.com/sites/insider.foxnews.com/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://insider.foxnews.com/sites/insider.foxnews.com/files/css/css_u9Cn6xFPfn6NvRqMGUV6k10stVTR4AGT7eontS75hX4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://insider.foxnews.com/sites/insider.foxnews.com/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://insider.foxnews.com/sites/insider.foxnews.com/files/css/css_jKCqEcfUY4NRRVGgggnD8J4b1nHQPbHwTX6xUdnPnII.css" media="all" />
+
+  <link rel="apple-touch-icon" sizes="120x120" href="http://insider.foxnews.com/sites/insider.foxnews.com/themes/insider_boot/img/touch-icon-iphone-retina.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="http://insider.foxnews.com/sites/insider.foxnews.com/themes/insider_boot/img/touch-icon-ipad-retina.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="http://insider.foxnews.com/sites/insider.foxnews.com/themes/insider_boot/img/apple-touch-icon.png">
+
+  <!--[if lt IE 9]>
+    <script type="text/javascript" src="http://insider.foxnews.com/sites/insider.foxnews.com/themes/insider_boot/js/html5shiv.js"></script>
+    <script type="text/javascript" src="http://insider.foxnews.com/sites/insider.foxnews.com/themes/insider_boot/js/respond.min.js"></script>
+  <![endif]-->
+
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic,900|Roboto+Condensed:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+  
+  <script src="http://insider.foxnews.com/sites/insider.foxnews.com/files/js/js_sIEhOevNKIUkIYpk8eSqKctpRyhxbZQ5sCnz_oCyBYQ.js"></script>
+<script src="http://insider.foxnews.com/sites/insider.foxnews.com/files/js/js_S_OENco44EKo_gRlct50ESvh75VrmmFcASJ3CaFK7Lw.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"insider_boot","theme_token":"yVZ4Q6eUjS4-TU8qQ_DsiZHxXzUqNtM_ipMtSBdqlo4","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/insider.foxnews.com\/themes\/insider_boot\/js\/jquery-1.7.1.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/insider.foxnews.com\/themes\/insider_boot\/js\/bootstrap.min.js":1,"sites\/insider.foxnews.com\/themes\/insider_boot\/js\/plugins.js":1,"sites\/insider.foxnews.com\/themes\/insider_boot\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/insider.foxnews.com\/themes\/insider_boot\/css\/bootstrap.min.css":1,"sites\/insider.foxnews.com\/themes\/insider_boot\/css\/style.css":1}},"fbnode":{"link":"http:\/\/insider.foxnews.com\/2017\/02\/22\/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics","picture":"http:\/\/insider.foxnews.com\/sites\/insider.foxnews.com\/files\/coulter_1.jpg","desc":"On \u0026quot;Tucker Carlson Tonight,\u0026quot; Ann Coulter gave President Trump an overall \u0026quot;A+\u0026quot; grade for his governance after his first month in office.\n","name":"Here\u0027s Why Ann Coulter Gives Trump an \u0027A+\u0027 for His First Month in Office"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":0,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+
+        
+			      			<script type="text/javascript" src="//global.fncstatic.com/static/isa/core.js"></script>
+      
+            <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-16613902-1', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('send', 'pageview');
+      var trackOutboundLink = function(url) {
+      ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+      function () {
+      document.location = url;
+      }
+      });
+      }
+      </script>
+      	
+			
+</head>
+
+<!--[if lt IE 9]>   <body class="ie8 html not-front not-logged-in no-sidebars page-node page-node- page-node-54488 node-type-article" "><![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--><body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-54488 node-type-article" ><!--<![endif]-->
+
+<!-- Google Tag Manager -->
+    <script>dataLayer = [{'pageTitle': "here&#039;s why ann coulter gives trump an &#039;a+&#039; for his first month in office"}];</script>
+    
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PRKFKB"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PRKFKB');</script>
+<!-- End Google Tag Manager -->
+ 
+  <!--[if lte IE 9]>   
+  <div class="modal fade ie8" id="browserModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="gtm-signup-close" aria-hidden="true">&times;</span></button>
+          <h2 class="modal-title">Your Browser is Unsupported</h2>
+        </div>
+        <div class="modal-body">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-xs-12">
+                <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a class="alert-link" href="http://browsehappy.com/">click here</a> to update your browser.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <![endif]-->
+    
+  <div class="fox-network-header">
+    <nav id="network">
+      <div class="container">
+        <ul>
+          <li class="fn"><a href="//foxnews.com"><span><span>Fox News</span></span></a></li>
+          <li class="fb"><a href="//foxbusiness.com"><span><span>Fox Business</span></span></a></li>
+          <li class="fn-go"><a href="//watch.foxnews.com"><span><span>Fox News Go</span></span></a></li>
+          <li class="fnr"><a href="//radio.foxnews.com"><span><span>Fox News Radio</span></span></a></li>
+          <li class="nat"><a href="//nation.foxnews.com"><span><span>Fox Nation</span></span></a></li>
+          <li class="fni"><a href="//foxnewsinsider.com/"><span><span>Fox News Insider</span></span></a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+  <div id="site-wrapper">
+
+    
+    <header id="navbar-main" role="navigation" class="navbar navbar-static">
+  <ul class="navlinks container">
+    <div id="search-bkgd"></div>
+    <div class="toggle-nav btn-group"><button type="button" class="icon-button menu-btn btn"><span class="icon-bar icon1"></span><span class="icon-bar icon2"></span><span class="icon-bar icon3"></span><span class="icon-bar icon4"></span></button></div>
+    <li class="logo"><a class="fnc-logo" href="http://insider.foxnews.com"><span class="logo"></span></a></li><li class="section has-stories"><a class="nav-block-title" href="/latest">Latest</a><span class="icon caret-icon"></span><div class="nav-dropdown"><ul class="navblocks-stories container">      <li class="nav-column">		<div class="photo">
+		<a href="/2017/02/22/sean-hannity-speech-cpac-president-trump-agenda-where-us-headed"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/ENC3_131322931346663287.jpg?itok=Nq92BCms" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="Hannity" title="Hannity" /></a>								</div> 
+		<div class="headline">
+		<h2>
+							<a href="http://insider.foxnews.com/2017/02/22/sean-hannity-speech-cpac-president-trump-agenda-where-us-headed">Hannity at CPAC: For Trump to Be Successful, He Needs Your Help</a>					</h2>
+	</div>
+
+
+</li>
+  <li class="nav-column">		<div class="photo">
+		<a href="/2017/02/22/tucker-carlson-tonight-civil-rights-activist-illegal-immigration-hurts-black-men-most"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/022217_activist.jpg?itok=Gd0drAfw" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" title="Civil Rights Activist: Illegal Immigration Hurts Black Men the Most" /></a>								</div> 
+		<div class="headline">
+		<h2>
+							<a href="http://insider.foxnews.com/2017/02/22/tucker-carlson-tonight-civil-rights-activist-illegal-immigration-hurts-black-men-most">Civil Rights Activist: Illegal Immigration Hurts Job Prospects for Black Men</a>					</h2>
+	</div>
+
+
+</li>
+  <li class="nav-column">		<div class="photo">
+		<a href="/2017/02/22/former-cia-agent-tucker-intelligence-community-withholding-information-trump"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/tuckercia.jpg?itok=C3ssTUJa" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="CIA" title="CIA" /></a>								</div> 
+		<div class="headline">
+		<h2>
+							<a href="http://insider.foxnews.com/2017/02/22/former-cia-agent-tucker-intelligence-community-withholding-information-trump">Former CIA Agent: Some Spies Playing 'Very Dangerous Game' to Hurt Trump</a>					</h2>
+	</div>
+
+
+</li>
+  <li class="nav-column">		<div class="photo">
+		<a href="/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" class="active"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/coulter_1.jpg?itok=M59Z76G2" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="Coulter" title="Coulter" /></a>								</div> 
+		<div class="headline">
+		<h2>
+							<a href="http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics">Here's Why Ann Coulter Gives Trump an 'A+' for His First Month in Office</a>					</h2>
+	</div>
+
+
+</li>
+  <li class="nav-column">		<div class="photo">
+		<a href="/2017/02/22/oreilly-mexican-american-journalists-border-wall-illegal-immigration-trump-sanctuary"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/fernandez_0.jpg?itok=awxsAazm" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="Fernandez" title="Fernandez" /></a>								</div> 
+		<div class="headline">
+		<h2>
+							<a href="http://insider.foxnews.com/2017/02/22/oreilly-mexican-american-journalists-border-wall-illegal-immigration-trump-sanctuary">O'Reilly Clashes With Journalists Over Trump's Deportations, Border Wall</a>					</h2>
+	</div>
+
+
+</li>
+</ul></div></li>
+<li class="section has-stories"><a class="nav-block-title" href="/trending">Trending</a><span class="icon caret-icon"></span><div class="nav-dropdown"><ul class="navblocks-stories container"><div class="OUTBRAIN" data-widget-type="hp" data-fbk="foxInsiderTrending" data-src="http://insider.foxnews.com/" data-widget-id="HOP_2" data-ob-template="FoxNewsInsider"></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script></ul></div></li>
+<li class="section has-stories"><a class="nav-block-title" href="/tag/first-100-days">Trump's First 100 Days</a><span class="icon caret-icon"></span><div class="nav-dropdown"><ul class="navblocks-stories container"><li class="nav-column">
+<div class="photo"><a class="link" href="http://insider.foxnews.com/2017/02/22/sean-hannity-speech-cpac-president-trump-agenda-where-us-headed"><img class="img-responsive lazy-load" data-loaded="false" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/ENC3_131322931346663287.jpg?itok=Nq92BCms"></a>
+</div>
+<div class="headline">
+	<h2><a href="http://insider.foxnews.com/2017/02/22/sean-hannity-speech-cpac-president-trump-agenda-where-us-headed">Hannity at CPAC: For Trump to Be Successful, He Needs Your Help</a></h2>
+</div>
+</li><li class="nav-column">
+<div class="photo"><a class="link" href="http://insider.foxnews.com/2017/02/22/tucker-carlson-tonight-civil-rights-activist-illegal-immigration-hurts-black-men-most"><img class="img-responsive lazy-load" data-loaded="false" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/022217_activist.jpg?itok=Gd0drAfw"></a>
+</div>
+<div class="headline">
+	<h2><a href="http://insider.foxnews.com/2017/02/22/tucker-carlson-tonight-civil-rights-activist-illegal-immigration-hurts-black-men-most">Civil Rights Activist: Illegal Immigration Hurts Job Prospects for Black Men</a></h2>
+</div>
+</li><li class="nav-column">
+<div class="photo"><a class="link" href="http://insider.foxnews.com/2017/02/22/former-cia-agent-tucker-intelligence-community-withholding-information-trump"><img class="img-responsive lazy-load" data-loaded="false" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/tuckercia.jpg?itok=C3ssTUJa"></a>
+</div>
+<div class="headline">
+	<h2><a href="http://insider.foxnews.com/2017/02/22/former-cia-agent-tucker-intelligence-community-withholding-information-trump">Former CIA Agent: Some Spies Playing 'Very Dangerous Game' to Hurt Trump</a></h2>
+</div>
+</li><li class="nav-column">
+<div class="photo"><a class="link" href="http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics"><img class="img-responsive lazy-load" data-loaded="false" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/coulter_1.jpg?itok=M59Z76G2"></a>
+</div>
+<div class="headline">
+	<h2><a href="http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics">Here's Why Ann Coulter Gives Trump an 'A+' for His First Month in Office</a></h2>
+</div>
+</li><li class="nav-column">
+<div class="photo"><a class="link" href="http://insider.foxnews.com/2017/02/22/oreilly-mexican-american-journalists-border-wall-illegal-immigration-trump-sanctuary"><img class="img-responsive lazy-load" data-loaded="false" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/fernandez_0.jpg?itok=awxsAazm"></a>
+</div>
+<div class="headline">
+	<h2><a href="http://insider.foxnews.com/2017/02/22/oreilly-mexican-american-journalists-border-wall-illegal-immigration-trump-sanctuary">O'Reilly Clashes With Journalists Over Trump's Deportations, Border Wall</a></h2>
+</div>
+</li></ul></div></li>
+<li class="section">
+		<a class="" href="/people">People</a>
+	</li><li class="section">
+		<a class="" href="/shows">shows</a>
+	</li><li class="more-sections has-stories"><a class="no-link">More</a><span class="icon caret-icon"></span><div class="more-dropdown more-sections"><ul class="container"></ul></div></li><li class="section follow-buttons"><div class="follow-mobile">Follow<span class="icon follow-mobile-icon"></span></div><div class="icon follow-icon"></div><div class="follow-dropdown"><div class="follow-buttons-content container"><span class="follow-text">Follow:</span><span class="fb-follow follow"><span class="follow-js"><div class="fb-like" data-href="https://www.facebook.com/FoxNewsInsider" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></span></span>
+    <span class="tw-follow follow"><span class="follow-js"><div class="tw-button"><a class="twitter-follow-button" href="https://twitter.com/foxnewsinsider" data-show-screen-name="false" data-show-count="false">Follow</a></div></span></span>
+    <span class="yt-follow follow"><span class="follow-js"><div class="g-ytsubscribe" data-channel="FoxNewsInsider" data-count="hidden"></div></span></span></div></li><li id="search-box"><div class="icon expand-search-btn"></div><div class="gcse-searchbox-only" data-autoSearchOnLoad="false" data-queryParameterName="search" data-resultsUrl="/search" data-gaQueryParameter="search"></div></li>
+  </ul>
+</header>
+        
+    
+    
+    <div id="page-container" class="container">
+    <div  class="row">
+
+    <div class="main-right col-xs-12 col-md-8">
+                        
+                                                                        
+                        
+                        
+
+<header id="navbar-share" role="navigation" class="navbar navbar-inverse navbar-fixed-top">  
+  <ul class="list-inline nav-groups container">
+        <!-- <li class="toggle-nav btn-group"> <button type="button" class="menu-btn btn"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button></li> -->
+    <li class="logo">
+      <a class="fnc-logo pull-left" href="http://insider.foxnews.com"><span class="logo"></span></a>
+    </li>
+    <li class="share-headline"><span>Here's Why Ann Coulter Gives Trump an 'A+' for His First Month in Office</span>
+    </li>
+    <li class="social-share pull-right">
+      <div class="social-node-2">
+        <ul class="list-inline">
+          <a id="fb-shr-1" href="https://www.facebook.com/sharer/sharer.php?u=http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+            <li class="fb"><span class="icon fb-icon"></span><span class="text">share this</span></li>
+          </a
+          ><a id="tw-shr-1" href="https://twitter.com/share?url=http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics&text=Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><li class="tw"><span class="icon tw-icon"></span></li></a
+          ><a id="eml-shr-1" href="mailto:?subject=Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office&amp;body=Check out this article from Fox News Insider: %0A%0Ahttp://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics"><li class="mail"><span class="icon mail-icon"></span></li></a
+          ><a href="#" id="open-cmnts-top" class="collapsed" data-toggle="collapse" data-target="#comments"><li class="comments-open"><span class="icon comment-icon"></span></li></a>
+        </ul>
+      </div>
+    </li>
+  </ul>  
+  <progress value="0">
+    <div class="progress-container">
+      <span class="progress-bar"></span>
+    </div>
+  </progress> 
+</header>
+
+
+
+
+
+<article about="/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" typeof="sioc:Item foaf:Document" itemscope itemtype ="http://schema.org/NewsArticle">
+  <meta itemprop="mainEntityOfPage" content="http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics"></meta>
+  <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+      <meta itemprop="url" content="http://insider.foxnews.com/sites/insider.foxnews.com/themes/insider_boot/img/Fox-News-Insider-Amp-Logo.png"></meta>
+      <meta itemprop="width" content="600"></meta>
+      <meta itemprop="height" content="60"></meta>
+    </div>
+    <meta itemprop="name" content="Fox News Insider"></meta>
+  </div>
+
+    
+    <h1 itemprop="headline" class="title" id="page-title">
+            Here's Why Ann Coulter Gives Trump an 'A+' for His First Month in Office    </h1>
+
+  
+
+  
+  <div id="node-share-top" class="row" >
+    <div class="col-xs-6">
+      <a id="fb-shr-2" href="https://www.facebook.com/sharer/sharer.php?u=http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" class="fbkg btn btn-primary" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"  >
+        <span class="icon fb-icon"></span>
+        <span class="text">share this</span>
+      </a>
+    </div>
+    <div class="col-xs-6">
+      <a id="eml-shr-2" href="mailto:?subject=Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office&amp;body=Check out this article from Fox News Insider: %0A%0Ahttp://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" class="email btn btn-primary">
+        <span class="icon mail-icon"></span>
+        <span class="text">email</span>
+      </a>
+    </div>
+  </div>
+
+
+  <ul id="social-hover-list">
+    <a id="fb-shr-hover">
+      <li class="fb"><span class="icon fb-icon"></span></li>
+    </a>
+    <a id="tw-shr-hover" href="https://twitter.com/share?url=http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics&text=Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><li class="tw"><span class="icon tw-icon"></li></a>
+    <a id="gp-shr-hover" href="https://plus.google.com/share?url=http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><li class="gp"><span class="icon gp-icon"></span></li></a>
+    <a id="pin-shr-hover" href="//www.pinterest.com/pin/create/button/?url=http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics&media=http://insider.foxnews.com/sites/insider.foxnews.com/files/coulter_1.jpg&description=Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><li class="pin"><span class="icon pin-icon"></span></li></a>
+    <a id="eml-shr-hover" href="mailto:?subject=Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office&amp;body=Check out this article from Fox News Insider: %0A%0Ahttp://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics"><li class="mail"><span class="icon mail-icon"></span></li></a>
+  </ul>
+
+  
+
+        <div itemprop="video" itemscope itemtype="http://schema.org/VideoObject" class="video-holder featured fox-video-fni" data-video-id="5333444869001">             
+      <div id="floatingCirclesG">
+        <div class="f_circleG" id="frotateG_01">
+        </div>
+        <div class="f_circleG" id="frotateG_02">
+        </div>
+        <div class="f_circleG" id="frotateG_03">
+        </div>
+        <div class="f_circleG" id="frotateG_04">
+        </div>
+        <div class="f_circleG" id="frotateG_05">
+        </div>
+        <div class="f_circleG" id="frotateG_06">
+        </div>
+        <div class="f_circleG" id="frotateG_07">
+        </div>
+        <div class="f_circleG" id="frotateG_08">
+        </div>
+      </div>
+      
+      <div class="vid-overlay"></div>
+      <meta itemprop="thumbnailUrl" content="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/coulter_1.jpg?itok=M59Z76G2"></meta>
+      <meta itemprop="uploadDate" content="2017-02-22T21:52:51.000000-05:00"></meta>
+      <meta itemprop="embedUrl" content="http://video.insider.foxnews.com/v/video-embed.html?video_id=5333444869001&autoplay=true&share_url=http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics&share_title=Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office&share=true"></meta>
+      <meta itemprop="name" content="Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office"></meta>
+      <meta itemprop="description" content="On &quot;Tucker Carlson Tonight,&quot; Ann Coulter gave President Trump an overall &quot;A+&quot; grade for his governance after his first month in office."></meta>
+    </div>
+    <div class="video-container"></div>
+    
+    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+          
+      <meta itemprop="url" content="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/coulter_1.jpg?itok=M59Z76G2"></meta>
+      <meta itemprop="width" content="780"></meta>
+      <meta itemprop="height" content="439"></meta>
+        </div>
+
+              
+  
+
+  <button type="button" class="pull-left btn btn-default meta-container" data-toggle="collapse" data-target="#meta">
+    <span id="date" itemprop="datePublished" datetime="2017-02-22T21:52">Feb 22, 2017 // 9:52pm </span>
+    <span type="button" class="icon arrow-down-icon"></span>
+        <time itemprop="dateModified" datetime="2017-02-22T23:01:25.000000-05:00"></time>
+      </button>
+  
+              
+    <div class="meta-line-two">
+      <div id="as-seen-on">As seen on <a href="http://insider.foxnews.com/show/tucker-carlson-tonight" class="roll"><span data-title="Tucker Carlson Tonight">Tucker Carlson Tonight </span></a></div> 
+    </div>
+  
+  <div class="clearfix"></div>
+
+  <div id="meta" class="collapse">
+    <div class="meta">
+      <div class="meta-line-one">
+        
+            <span id="author" itemprop="author" itemscope itemtype="http://schema.org/Organization">by <a href="http://insider.foxnews.com/about" itemprop="url" class="roll" rel="publisher"><span itemprop="name" data-title="Fox News Insider">Fox News Insider</span></a> </span>
+          
+                </div>
+      
+      <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix">
+
+    <div class="field-label">Posted in:&nbsp;</div>
+ <ul class="field-items tags list-inline" >
+  
+            <li>// <a href="/tag/ann-coulter" class="roll"><span data-title="Ann Coulter">Ann Coulter</span></a></li>             <li>// <a href="/tag/donald-trump" class="roll"><span data-title="Donald Trump">Donald Trump</span></a></li>             <li>// <a href="/tag/first-100-days" class="roll"><span data-title="First 100 Days">First 100 Days</span></a></li>             <li>// <a href="/tag/immigration" class="roll"><span data-title="Immigration">Immigration</span></a></li>             <li>// <a href="/tag/fake-news" class="roll"><span data-title="Fake News">Fake News</span></a></li>       
+  </ul>
+</div>    </div>
+  </div>
+
+  
+  <div class="articleBody" itemprop="articleBody">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>On "Tucker Carlson Tonight," Ann Coulter gave President Trump an overall "A+" grade for his governance after his first month in office.</p>
+<p>She said Trump earned a solid "A" right off the bat because of the fact he replaced former President Barack Obama, and that he's been even more impressive considering the opposition he's faced.</p>
+<p></p><div class="read-full"><a class="read-full-inner"><span class="icon plus-sign"></span><span class="read-full-text">Read Full Article</span></a></div>
+<p>"We've never had a president who's being opposed on all fronts like this," Coulter said.</p>
+<p>"Considering all that he has to do, he's Gary Cooper out there in 'High Noon,'" she added, referencing the 1952 Western. "He is standing there alone, and he has done so much in the first month considering that."</p>
+<hr><p><a href="/2017/02/22/maxine-waters-scumbags-donald-trump-cabinet-administration"><strong>Maxine Waters on Trump's Cabinet: They're a 'Bunch of Scumbags'</strong></a></p>
+<p><a href="/2017/02/21/tucker-carlson-takes-refuse-fascism-organizer-who-likens-trump-hitler"><strong>'More Dangerous Than Hitler'?! Tucker Battles Anti-Trump Protester</strong></a></p>
+<p><a href="/2017/02/19/rush-limbaugh-fox-news-sunday-chris-wallace-donald-trump-media"><strong>Limbaugh: 'Media Did Not Make Donald Trump and They Can't Destroy Him'</strong></a></p>
+<hr><p>Coulter said she particularly likes Trump's confrontational approach to the press and "fake news" stories, and she sees promise in some of his cabinet picks.</p>
+<p>"One of the reasons Trump is getting an A+ is Jeff Sessions at Department of Justice," she said, adding that she is confident Sessions will halt the alleged habit of the federal government hiding immigrant crime statistics.</p>
+<p>"The government hides this information," she said, alleging that the contention that immigrants commit crimes at a lesser rate than natural-born citizens is a trope based on a false equivalency.</p>
+<p>Coulter said she would advise Trump to take a closer look at legal immigrants as much as he has done to illegal immigrants, noting the Boston bombers and San Bernardino terrorists came to America legally.</p>
+<p>She said she only has one complaint about Trump one month in: "He should tweet more."</p>
+<p>Watch more from Coulter above, and see Mike Huckabee explain why he thinks opposition to Trump's immigration policies is <a href="/2017/02/22/mike-huckabee-president-trump-illegal-immigration-crackdown-policies">"manufactured outrage."</a></p>
+<hr><p><a href="/2017/02/21/donald-trump-anti-semitism-jewish-community-african-american-museum"><strong>Trump Condemns 'Horrible' Anti-Semitic Threats Targeting Jewish Community</strong></a></p>
+<p><a href="/2017/02/21/nbc-tweet-donald-trump-32-days-william-henry-harrison"><strong>Breaking News?! NBC Reports Trump Presidency Will Not Be Shortest Ever</strong></a></p>
+<p><a href="/2017/02/19/charles-krauthammer-donald-trump-praise-michael-flynn-resignation"><strong>Krauthammer: Praise from Pres. Trump 'Will Not Change My Opinion of Him'</strong></a></p>
+</div></div></div>      </div>
+  <div class="clearfix"></div>
+
+</article>
+
+
+
+
+  <div id="node-share" class="social-node-2">
+    <ul class="list-inline">
+      <a id="fb-shr-3" href="https://www.facebook.com/sharer/sharer.php?u=http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+      <li class="fb"><span class="icon fb-icon"></span><span class="text">share this</span></li></a
+      ><a id="tw-shr-3" href="https://twitter.com/share?url=http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics&text=Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><li class="tw"><span class="icon tw-icon"></span><span class="text">tweet this</span></li></a
+      ><a id="gp-shr-3" href="https://plus.google.com/share?url=http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><li class="gp"><span class="icon gp-icon"></span><span class="text">share</span></li></a
+      ><a id="pin-shr-3" href="//www.pinterest.com/pin/create/button/?url=http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics&media=http://insider.foxnews.com/sites/insider.foxnews.com/files/coulter_1.jpg&description=Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office" target="_blank" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><li class="pin"><span class="icon pin-icon"></span><span class="text">pin it</span></li></a
+      ><a id="eml-shr-3" href="mailto:?subject=Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office&amp;body=Check out this article from Fox News Insider: %0A%0Ahttp://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics"><li class="mail"><span class="icon mail-icon"></span><span class="text">email</span></li></a
+      ><a href="#" id="open-cmnts" class="collapsed" data-toggle="collapse" data-target="#comments"><li class="comments-open"><span class="icon comment-icon"></span><span class="text">comment</span></li></a>
+    </ul>
+  </div>
+  
+  <div id="load-comments" class="fb-hide">
+    <div class="load-fb-comments" data-href="http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" data-numposts="20" data-colorscheme="light"></div>
+  </div>
+      
+  <div class="newsletter-form under-article">
+    <h2 class="connect">Subscribe</h2>
+    <div class="col-xs-12 col-sm-6">
+      <p>Stay connected with the most-trusted name in cable news through exclusive videos, show highlights and behind-the-scenes details.</p>
+      <form id="newsletter-article" class="form-inline" action="http://email.foxnews.com/bin/listctrl" method="POST" role="form">
+        <input class="form-control" type=hidden name="slid" value="D98A625593049BD2CBFB283F5508AF71" />
+        <input class="form-control" type=hidden name="cmd" value="subscribe" />
+        <input class="form-control" type=hidden name="goto" value="http://insider.foxnews.com/thank-you" />
+        <input class="form-control" type="email" name="email" placeholder="Your Email Here" id="email" class="input-text"  required/>
+        <label class="send-me-updates"></label>
+        <input type="submit" class="btn btn-primary signUp" name="signUp" value="Sign Up" />
+      </form>
+    </div>
+    <div class="newsletter-gif col-xs-12 col-sm-6">
+      <img src-cond="/sites/insider.foxnews.com/themes/insider_boot/img/newsletter-gif.gif" class="img-responsive" />
+    </div>
+  </div>
+   
+  <span class="clearfix"></span>
+    <div class="outbrain-widget">  
+    <div id="outbrain">
+      <div class="fox-outbrain" data-src="http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" data-ob-template="FoxNewsInsider" ></div>
+      <div class="fox-outbrain-flyout"  data-src="http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" data-ob-template="FoxNewsInsider" ></div>
+    </div>
+    <script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+    <script>
+      (function($) {  //outbrain tracking;
+        $(document).ready(function() {
+           OBR.extern.researchWidget();
+        })
+      });
+    </script>
+  </div>
+  
+  <section id="block-views-latest-latest-block" class="block block-views clearfix">
+
+      
+  <div class="view view-latest view-id-latest view-display-id-latest_block infinite-content view-dom-id-efd1d82391a9e2200c00310e1a86b556">
+            <div class="view-header">
+      <h2 class="latest-news section-title">Latest <small>from</small> Fox News Channel</h2>
+    </div>
+  
+  
+  
+      <div class="view-content overlay row">
+        <div class="story col-xs-12 col-sm-6" class="views-row views-row-1 views-row-odd views-row-first">
+    	
+<div class="story-contents">
+			<div class="photo">
+			<div class="field-content"><a href="/2017/02/22/sean-hannity-speech-cpac-president-trump-agenda-where-us-headed"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/ENC3_131322931346663287.jpg?itok=Nq92BCms" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="Hannity" title="Hannity" /></a></div>												</div> 
+		<div class="headline">
+			<h2>
+				<span class="title">
+											<a href="http://insider.foxnews.com/2017/02/22/sean-hannity-speech-cpac-president-trump-agenda-where-us-headed">Hannity at CPAC: For Trump to Be Successful, He Needs Your Help</a>									</span>
+			</h2>
+		</div>
+	</div>
+
+<span id="date"><span class="field-content">Feb 22, 2017 10:20pm</span></span>
+  
+
+  </div>
+  <div class="story col-xs-12 col-sm-6" class="views-row views-row-2 views-row-even">
+    	
+<div class="story-contents">
+			<div class="photo">
+			<div class="field-content"><a href="/2017/02/22/tucker-carlson-tonight-civil-rights-activist-illegal-immigration-hurts-black-men-most"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/022217_activist.jpg?itok=Gd0drAfw" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" title="Civil Rights Activist: Illegal Immigration Hurts Black Men the Most" /></a></div>												</div> 
+		<div class="headline">
+			<h2>
+				<span class="title">
+											<a href="http://insider.foxnews.com/2017/02/22/tucker-carlson-tonight-civil-rights-activist-illegal-immigration-hurts-black-men-most">Civil Rights Activist: Illegal Immigration Hurts Job Prospects for Black Men</a>									</span>
+			</h2>
+		</div>
+	</div>
+
+<span id="date"><span class="field-content">Feb 22, 2017 10:15pm</span></span>
+  
+
+  </div>
+  <div class="story col-xs-12 col-sm-6" class="views-row views-row-3 views-row-odd">
+    	
+<div class="story-contents">
+			<div class="photo">
+			<div class="field-content"><a href="/2017/02/22/former-cia-agent-tucker-intelligence-community-withholding-information-trump"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/tuckercia.jpg?itok=C3ssTUJa" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="CIA" title="CIA" /></a></div>												</div> 
+		<div class="headline">
+			<h2>
+				<span class="title">
+											<a href="http://insider.foxnews.com/2017/02/22/former-cia-agent-tucker-intelligence-community-withholding-information-trump">Former CIA Agent: Some Spies Playing 'Very Dangerous Game' to Hurt Trump</a>									</span>
+			</h2>
+		</div>
+	</div>
+
+<span id="date"><span class="field-content">Feb 22, 2017 10:01pm</span></span>
+  
+
+  </div>
+  <div class="story col-xs-12 col-sm-6" class="views-row views-row-4 views-row-even views-row-last">
+    	
+<div class="story-contents">
+			<div class="photo">
+			<div class="field-content"><a href="/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" class="active"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/coulter_1.jpg?itok=M59Z76G2" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="Coulter" title="Coulter" /></a></div>												</div> 
+		<div class="headline">
+			<h2>
+				<span class="title">
+											<a href="http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics">Here's Why Ann Coulter Gives Trump an 'A+' for His First Month in Office</a>									</span>
+			</h2>
+		</div>
+	</div>
+
+<span id="date"><span class="field-content">Feb 22, 2017 9:52pm</span></span>
+  
+
+  </div>
+    </div>
+  
+      <div class="col-xs-12">
+      <div class="text-center"><ul class="pagination"><li class="active first"><a href="#">1</a></li>
+<li><a title="Go to page 2" href="/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics?page=1">2</a></li>
+<li><a title="Go to page 3" href="/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics?page=2">3</a></li>
+<li class="pager-ellipsis disabled"><span>…</span></li>
+<li class="next last"><a title="Go to next page" href="/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics?page=1">next ›</a></li>
+</ul></div>      <a class="visible-xs visible-sm btn btn-primary more-btn load-more" href="#">Load More</a>
+    </div>
+  
+  
+
+  
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+
+
+
+
+
+
+
+
+
+
+                        
+                    
+    </div>
+
+    <div class="right-side col-xs-12 col-md-4" role="complementary">
+        <section id="block-views-promos-slot-promos-slot-1" class="block block-views clearfix">
+
+      
+          			<a href="http://insider.foxnews.com/fox-news-channel-most-watched-most-trusted"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/trusted2.jpg?itok=KwIj7hrV" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" title="Most Watched, Trusted" /></a>
+					
+
+
+</section> <!-- /.block -->
+
+<section id="block-views-fnc-console-console-block" class="console-block clearfix">
+
+        <h2 id="whatson" class="block-title">What's on</h2>
+    
+  <div class="view view-fnc-console view-id-fnc_console view-display-id-console_block view-dom-id-7926eca98338a28579adb859a05d373f">
+        
+  
+  
+      <div class="view-content">
+      <ul class="list-inline">
+     
+
+
+<li>
+     <div class="row">
+                         <div class="col-xs-3 col-sm-2 col-md-3">
+                         <table colspan="2" class="time pull-right">
+                    <tbody>
+                         <tr>
+                              <td class="hour"><div class="field-content">7</div></td>
+                              <td><table>
+                                   <tbody>
+                                        <tr>
+                                             <td class="minutes"></td>
+                                        </tr>
+                                        <tr>
+                                             <td class="am-pm"><div class="field-content">P</div></td>
+                                        </tr>
+                                   </tbody>
+                              </table></td>
+                         </tr>
+                    </tbody>
+               </table>
+          </div>
+                         <div class="col-xs-9 col-sm-10 col-md-9">
+                         <span><div class="field-content"><p><a href="/show/first-100-days"><strong>The First 100 Days</strong></a> has live CPAC coverage! As conservatives gather for Vice President Mike Pence’s critical speech, <strong>Martha</strong> has instant reaction and analysis.</p>
+</div></span>
+          </div>
+          <div class="clearfix"></div>
+     </div>
+</li>
+
+
+<li>
+     <div class="row">
+                         <div class="col-xs-3 col-sm-2 col-md-3">
+                         <table colspan="2" class="time pull-right">
+                    <tbody>
+                         <tr>
+                              <td class="hour"><div class="field-content">9</div></td>
+                              <td><table>
+                                   <tbody>
+                                        <tr>
+                                             <td class="minutes"></td>
+                                        </tr>
+                                        <tr>
+                                             <td class="am-pm"><div class="field-content">P</div></td>
+                                        </tr>
+                                   </tbody>
+                              </table></td>
+                         </tr>
+                    </tbody>
+               </table>
+          </div>
+                         <div class="col-xs-9 col-sm-10 col-md-9">
+                         <span><div class="field-content"><p>The media claims Russia is pulling Trump's strings. See why a former Bush staffer says it’s all smoke and mirrors on <a href="/show/tucker-carlson-tonight"><strong>Tucker Carlson Tonight</strong></a>. Then at <strong>10:00p ET</strong>, it's a powerful <a href="/show/hannity"><strong>Hannity</strong></a>.</p>
+</div></span>
+          </div>
+          <div class="clearfix"></div>
+     </div>
+</li>
+
+
+
+ 
+</ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+<div id="ad-content" class="sidebar-ad"><div class="ad gpt" id="desktop-300x250"></div></div>
+<div id="outbrain"><div class="fox-outbrain-sidebar" data-src="http://insider.foxnews.com/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" data-ob-template="FoxNewsInsider" ></div></div>
+<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+<script>
+(function($) {  //outbrain tracking;
+    $(document).ready(function() {
+        OBR.extern.researchWidget();
+    });
+});
+</script>
+<section id="block-views-article-blocks-block-5" class="block block-views clearfix">
+
+        <h2 class="block-title">The First 100 Days</h2>
+    
+  <div class="view view-article-blocks view-id-article_blocks view-display-id-block_5 view-dom-id-5edb441e5c3f2eba307e43479b877498">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span class="title">
+											<a href="/2017/02/22/mike-huckabee-president-trump-illegal-immigration-crackdown-policies">Huckabee: Opposition to Trump&#039;s Immigration Policies Is &#039;Manufactured Outrage&#039;</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 22, 2017 7:32pm</span></span>
+			<span class="visible-sm"><p class="field-content">On "The First 100 Days" tonight, Mike Huckabee praised President Trump for keeping his campaign promise and cracking down on illegal immigration.
+</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/22/mike-huckabee-president-trump-illegal-immigration-crackdown-policies"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/022217_huckabee.jpg?itok=dosAL_0m" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" title="On &quot;The First 100 Days&quot; tonight, Mike Huckabee praised President Trump for keeping his campaign promise and cracking down on illegal immigration." /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span class="title">
+											<a href="/2017/02/21/first-100-days-town-hall-immigration-angel-mom-sanctuary-cities">&#039;Angel Mom&#039;: &#039;Nobody Gets Sanctuary From the Law&#039;</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 21, 2017 7:53pm</span></span>
+			<span class="visible-sm"><p class="field-content">At a "First 100 Days" town hall event tonight, an "Angel Mom" explained why she's a strong supporter of President Donald Trump's policies aimed at cracking down on illegal immigration.
+</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/21/first-100-days-town-hall-immigration-angel-mom-sanctuary-cities"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/022017_angelmom.jpg?itok=EIx19xbX" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" title="At a &quot;First 100 Days&quot; town hall event tonight, an &quot;Angel Mom&quot; explained why she&#039;s a strong supporter of President Donald Trump&#039;s policies aimed at cracking down on illegal immigration." /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span>
+		
+	<a href="/fiery" class="spiff-roll"><span data-title="Fiery">Fiery</span></a> </span>
+								<span class="title">
+											<a href="/2017/02/21/trump-immigration-town-hall-mexican-wall-berlin-wall-illegal-aliens-america">WATCH: Sparks Fly Over Trump Wall Plans at &#039;First 100 Days&#039; Town Hall</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 21, 2017 7:38pm</span></span>
+			<span class="visible-sm"><p class="field-content">In a special "First 100 Days" town hall, two attendees disagreed over President Trump's plan to build a wall on the U.S.-Mexico border.
+</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/21/trump-immigration-town-hall-mexican-wall-berlin-wall-illegal-aliens-america"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/iaconangelo.jpg?itok=tCkatcwx" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="Town hall" title="Town hall" /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+
+<a class="pull-right btn btn-primary more-btn" href="/show/first-100-days">See all</a>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+<section id="block-views-article-blocks-block-4" class="block block-views clearfix">
+
+        <h2 class="block-title">The O'Reilly Factor</h2>
+    
+  <div class="view view-article-blocks view-id-article_blocks view-display-id-block_4 view-dom-id-dac58074f3902482479bff9c6114b961">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span class="title">
+											<a href="/2017/02/22/oreilly-mexican-american-journalists-border-wall-illegal-immigration-trump-sanctuary">O&#039;Reilly Clashes With Journalists Over Trump&#039;s Deportations, Border Wall</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 22, 2017 8:47pm</span></span>
+			<span class="visible-sm"><p class="field-content">Tonight on "The O'Reilly Factor," Bill O'Reilly debated two Mexican-American journalists on President Trump's illegal immigration policies.
+</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/22/oreilly-mexican-american-journalists-border-wall-illegal-immigration-trump-sanctuary"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/fernandez_0.jpg?itok=awxsAazm" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="Fernandez" title="Fernandez" /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span class="title">
+											<a href="/2017/02/22/bill-oreilly-talking-points-memo-illegal-immigration-sanctuary-cities-denver-new-poll">O&#039;Reilly: Sanctuary City Mayor, Police Chief &#039;Have Blood on Their Hands&#039;</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 22, 2017 8:15pm</span></span>
+			<span class="visible-sm"><p class="field-content">Bill O'Reilly reacted tonight to a shocking new poll that found Americans overwhelmingly oppose sanctuary cities, and he reported on two incidents in Denver, Colorado, that spotlight why that might...</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/22/bill-oreilly-talking-points-memo-illegal-immigration-sanctuary-cities-denver-new-poll"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/022217_tpm.jpg?itok=0FT02H3c" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" title="In his Talking Points Memo tonight, Bill O&#039;Reilly reacted to a shocking new poll that found Americans overwhelmingly oppose sanctuary cities." /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span class="title">
+											<a href="/2017/02/21/karl-rove-homeland-security-illegal-immigration-deportations-trump-wall-order-kelly">Rove: DHS &#039;Makes It Clear&#039; They Will Prioritize Deportations Based on Crime</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 21, 2017 8:31pm</span></span>
+			<span class="visible-sm"><p class="field-content">Karl Rove told Bill O'Reilly tonight that President Trump will not engage in mass deportations of illegal immigrants, noting recent comments from Homeland Security Secretary John Kelly.
+</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/21/karl-rove-homeland-security-illegal-immigration-deportations-trump-wall-order-kelly"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/rovenew.jpg?itok=z0JKZhou" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" title="Karl Rove Homeland Security Illegal Immigration Deportations Trump Wall Order Kelly" /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+
+<a class="pull-right btn btn-primary more-btn" href="/show/the-oreilly-factor">See all</a>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+<section id="block-views-article-blocks-block-3" class="block block-views clearfix">
+
+        <h2 class="block-title">Tucker Carlson Tonight</h2>
+    
+  <div class="view view-article-blocks view-id-article_blocks view-display-id-block_3 view-dom-id-a7f9a62aa1fbb53aba46cdc7fbc196f5">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span class="title">
+											<a href="/2017/02/22/tucker-carlson-tonight-civil-rights-activist-illegal-immigration-hurts-black-men-most">Civil Rights Activist: Illegal Immigration Hurts Job Prospects for Black Men</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 22, 2017 10:15pm</span></span>
+			<span class="visible-sm"><p class="field-content">Tucker Carlson was joined tonight by a civil rights leader who says that black males are disproportionately hurt by illegal immigration.
+</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/22/tucker-carlson-tonight-civil-rights-activist-illegal-immigration-hurts-black-men-most"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/022217_activist.jpg?itok=Gd0drAfw" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" title="Civil Rights Activist: Illegal Immigration Hurts Black Men the Most" /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span class="title">
+											<a href="/2017/02/22/former-cia-agent-tucker-intelligence-community-withholding-information-trump">Former CIA Agent: Some Spies Playing &#039;Very Dangerous Game&#039; to Hurt Trump</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 22, 2017 10:01pm</span></span>
+			<span class="visible-sm"><p class="field-content">Former CIA officer Bryan Dean Wright said Wednesday on "Tucker Carlson Tonight" that some of the rumors swirling about intelligence operatives withholding information and trying to discredit...</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/22/former-cia-agent-tucker-intelligence-community-withholding-information-trump"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/tuckercia.jpg?itok=C3ssTUJa" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="CIA" title="CIA" /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span class="title">
+											<a href="/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics">Here&#039;s Why Ann Coulter Gives Trump an &#039;A+&#039; for His First Month in Office</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 22, 2017 9:52pm</span></span>
+			<span class="visible-sm"><p class="field-content">On "Tucker Carlson Tonight," Ann Coulter gave President Trump an overall "A+" grade for his governance after his first month in office.
+</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/22/ann-coulter-tucker-donald-trump-fake-news-immigration-sessions-crime-statistics" class="active"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/coulter_1.jpg?itok=M59Z76G2" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="Coulter" title="Coulter" /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+
+<a class="pull-right btn btn-primary more-btn" href="/show/tucker-carlson-tonight">See all</a>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+<section id="block-views-article-blocks-block-6" class="block block-views clearfix">
+
+        <h2 class="block-title">Hannity</h2>
+    
+  <div class="view view-article-blocks view-id-article_blocks view-display-id-block_6 view-dom-id-43bcb4f2bb893894bf0be14c0e944a21">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span class="title">
+											<a href="/2017/02/22/sean-hannity-speech-cpac-president-trump-agenda-where-us-headed">Hannity at CPAC: For Trump to Be Successful, He Needs Your Help</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 22, 2017 10:20pm</span></span>
+			<span class="visible-sm"><p class="field-content">The Conservative Political Action Conference is underway at the Gaylord National Resort &amp; Convention Center in National Harbor, Maryland, and Sean Hannity is on hand for the annual gathering.
+</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/22/sean-hannity-speech-cpac-president-trump-agenda-where-us-headed"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/ENC3_131322931346663287.jpg?itok=Nq92BCms" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="Hannity" title="Hannity" /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span class="title">
+											<a href="/2017/02/21/laura-ingraham-trump-fulfilling-his-promise-crack-down-illegal-immigration">Ingraham: Trump Is Fulfilling His Promise to Crack Down on Illegal Immigration</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 21, 2017 10:36pm</span></span>
+			<span class="visible-sm"><p class="field-content">Laura Ingraham joined Sean Hannity tonight and praised President Trump for following through on his campaign promise to crack down on illegal immigration.
+</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/21/laura-ingraham-trump-fulfilling-his-promise-crack-down-illegal-immigration"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/022117_ingraham.jpg?itok=nCucAHsA" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="ingraham" title="ingraham" /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    	
+		
+			 
+		<div class="col-xs-8">
+			<h2>
+								<span class="title">
+											<a href="/2017/02/20/michelle-malkin-mainstream-media-president-trump-election-indigestion-hollywood">Malkin: Mainstream Press &#039;Still Suffering from Post-Election Indigestion&#039;</a>									</span>
+			</h2>
+			<span id="date" class="visible-sm"><span class="field-content">Feb 20, 2017 10:43pm</span></span>
+			<span class="visible-sm"><p class="field-content">On "Hannity" tonight, Michelle Malkin said the mainstream media's sustained criticism of President Trump proves they are still suffering from "post-election indigestion."
+</p></span>
+		</div>
+		<div class="col-xs-4">
+			<div class="field-content"><a href="/2017/02/20/michelle-malkin-mainstream-media-president-trump-election-indigestion-hollywood"><img typeof="foaf:Image" class="img-responsive lazy-load" data-loaded="false" data-src="http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/malkin_2.jpg?itok=fGtp_-5T" src="/sites/insider.foxnews.com/themes/insider_boot/img/0.gif" width="780" height="439" alt="malkin" title="malkin" /></a></div>		</div>
+		<div class="clearfix"></div>
+			
+
+
+  </div>
+
+<a class="pull-right btn btn-primary more-btn" href="/show/Hannity">See all</a>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+<h3 class="all-shows"><a class="btn btn-primary view-all" href="/shows">View All Shows</a></h3>
+<div id="foxnewsgo">
+<h2 class="block-title">Watch <span class="black fn-title">Fox News</span> Anywhere</h2>
+<p>Now you can watch FOX News Channel and FOX Business Network 24/7 live from your desktop, tablet and smart phone.</p> 
+	<div class="text-right">
+		<a class="text-right" href="http://www.foxnewsgo.com/" target="_blank">
+			<button type="button" class="btn btn-primary btn-lg">Watch Now <span class="icon play-icon"></span></button>
+		</a>
+	</div>
+</div>
+<footer class="footer">
+    <div id="menu-footer">
+        <ul>
+            <li>
+                <a href="/">Home</a>
+            </li>
+            <li>
+                <a href="/latest">Latest</a>
+            </li>
+            <li>
+                <a href="/people">People</a>
+            </li>
+            <li>
+                <a href="/shows">Shows</a>
+            </li>
+            <li>
+                <a target="_blank" href="http://www.foxnews.com/schedule">Schedule</a>
+            </li>
+        </ul>
+    </div>
+    <div id="follow-us-footer"> 
+        <h2 class="connect">Connect <span>with Fox News</span></h2>
+        <h4 class="follow-copy">Don't want to keep checking back here for the latest from Fox News? That's cool. We'll come to you ...</h4>
+        <div class="social-node-2">
+            <ul class="list-inline">
+            <a href="http://facebook.com/foxnews" target="_blank"><li class="fb"><span class="icon fb-icon"></span></li></a>
+            <a href="http://twitter.com/foxnewsinsider" target="_blank"><li class="tw"><span class="icon tw-icon"></span></li></a>
+            <a href="http://plus.google.com/106258642361337191734/" target="_blank"><li class="gp"><span class="icon gp-icon"></span></li></a>
+                        <a href="https://www.youtube.com/user/FoxNewsInsider" target="_blank"><li class="yt"><span class="icon yt-icon"></span></li></a> 
+            </ul>
+        </div>
+        <div class="clearfix newsletter-form">
+            <h2 class="connect">Subscribe</h2>
+            <p>Stay connected with the most-trusted name in cable news through exclusive videos, show highlights and behind-the-scenes details.</p>
+            <form id="newsletter-follow-sidebar" class="form-inline" action="http://email.foxnews.com/bin/listctrl" method="POST" role="form">
+                <input class="form-control" type=hidden name="slid" value="D98A625593049BD2CBFB283F5508AF71" />
+                <input class="form-control" type=hidden name="cmd" value="subscribe" />
+                <input class="form-control" type=hidden name="goto" value="http://insider.foxnews.com/thank-you" />
+                <input class="form-control" type="email" name="email" placeholder="Your Email Here" id="email" class="input-text"  required/>
+                <label class="send-me-updates"></label>
+                <input type="submit" class="btn btn-primary signUp" name="signUp" value="Sign Up" />
+            </form>
+        </div>
+    </div>
+    <nav class="navbar navbar-default" role="navigation"><ul class="nav nav-justified"><li class="first leaf"><a href="/about" title="">About</a></li>
+<li class="leaf"><a href="/contact-us" title="">Contact Us</a></li>
+<li class="leaf"><a href="/privacy-policy" title="">NEW Privacy Policy</a></li>
+<li class="leaf"><a href="/terms-of-use" title="">NEW TERMS OF USE</a></li>
+<li class="leaf"><a href="/terms-new" title="">What&#039;s New With Terms of Use</a></li>
+<li class="leaf"><a href="http://insider.foxnews.com/privacy-policy/#ad-choice" title="Ad Choices">Ad Choices</a></li>
+<li class="last leaf"><a href="/feed" title="">RSS</a></li>
+</ul></nav>    <p class="text-center copyright">
+    <small>
+    This material may not be published, broadcast, rewritten, or redistributed. ©2017 FOX News Network, LLC. All rights reserved.
+    </small>
+    </p> 
+</footer>    </div>
+    </div><!-- row -->
+
+
+    </div><!-- container -->
+  <script src="http://insider.foxnews.com/sites/insider.foxnews.com/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+      <script type="text/javascript">
+     (function($){$.ad.pre();$(window).load(function(){$.ad.init();});}(jQuery));
+     // Using jQuery Event API v1.3
+</script>
+    </div>
+</body>
+</html>

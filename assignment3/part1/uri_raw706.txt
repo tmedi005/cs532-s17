@@ -1,0 +1,769 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html dir="ltr" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"  >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Buy and sell everything | Pay it Forward Auction</title>
+<meta content="Buy and sell everything | Pay it Forward Auction" property="og:title" />
+<meta content="Welcome to our new site.  Please register or sign-in today." property="og:description" />
+<meta content="http://www.payitforwardauction.com/" property="og:url" />
+<meta content="website" property="og:type" />
+<meta content="Pay it Forward Auction" property="og:site_name" />
+<meta content="http://www.payitforwardauction.com/images/default/v4/logo.png" property="og:image" />
+<meta content="Welcome to our new site.  Please register or sign-in today." name="description" />
+<meta content="auction, reverse, marketplace, jobs, post a job, easy, providers, buy now, e-commerce" name="keywords" />
+<meta content="NOODP" name="robots" />
+<base href="http://www.payitforwardauction.com/" />
+<script type="text/javascript" src="/cache/javascript/phrases_316ea022469cf02374a692970f7f978f.js" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8"><!--
+var ILSESSION = "37mrbllb0jm3sgnbforjphc4p2";var ILADMIN = "0";var ILBASE = "http://www.payitforwardauction.com/";var JSBASE = "/functions/javascript/";var SWFBASE = "/functions/swf/";var MP3BASE = "/functions/sounds/";var IMAGEBASE = "/images/default/";var THUMBWIDTH = "108";var THUMBHEIGHT = "108";var THUMBGWIDTH = "208";var THUMBGHEIGHT = "208";var ILNAME = "ilance_";var ILTOKEN = "c88a2ea63a10821f04ac06ac7a039ed0";var PAGEURL = "http://www.payitforwardauction.com/";var AJAXURL = "http://www.payitforwardauction.com/ajax.php";var CDNURL = "/";var ESCROW = "0";var DISTANCE = "0";var UID = "0";var MINIFY = "0";var SSL = "0";var SITEID = "001";var PRODUCT = "1";var SERVICE = "0";var LTR = "1";
+//--></script>
+<script type="text/javascript" src="/javascript.php?dojs=functions,ajax,inline,jquery,jquery_carousel,jquery_easing" charset="utf-8"></script>
+<link type="text/css" rel="stylesheet" href="/cache/css/css_style_1_client.css"  media="screen" id="html" />
+
+</head>
+<body>
+<!-- START content -->
+<noscript><div id="infobar" style="font-size:11px"><a href="http://www.mozilla.com" rel="nofollow"><strong>Warning!</strong> The web browser you&#039;re using does not have Javascript enabled.  You must have Javascript support in your web browser in order to use this site.</a></div></noscript>
+
+
+
+
+
+<!--[if lte IE 6]><div id="infobar" style="width:100%"><a href="http://www.mozilla.com" target="_blank"><strong>Warning!</strong> &nbsp;&nbsp;The browser you are using is old and no longer a supported web browser here.  Upgrade to Internet Explorer 8 (IE8) or Switch to Firefox.</a></div><![endif]-->
+
+<!-- start top-bar -->
+<div class="top-bar">
+	
+	<!-- start box -->
+	<div class="box">
+    	<p class="top-bar-info"><span class="left"></span>Welcome! <span class="blue"><a href="http://www.payitforwardauction.com/registration.php">Register</a></span> or <span class="blue"><a href="http://www.payitforwardauction.com/login.php?redirect=%2F">Sign In</a></span></p>
+    </div>
+    <!-- end box -->
+</div>
+<!-- end top-bar -->
+<!-- start header -->
+<div class="header">
+	<!-- start box -->
+	<div class="box">
+    	<!-- start header-top -->
+    	<div class="header-top">
+            <!-- start logo -->
+            <div class="logo">
+                <a href="http://www.payitforwardauction.com/" title="Pay it Forward Auction"><img src="/images/default/v4/logo.png" alt="Pay it Forward Auction" /></a>
+            </div>
+            <!-- end logo -->
+            <!-- start top-link -->
+            <div class="top-link">
+            	<ul>
+                	
+                    
+                    <li style="background: #0c1378;
+padding: 6px;
+margin-top: -8px;
+color: #d1d1d1;;
+font-size: 13px;border-radius:4px"><a href="http://www.payitforwardauction.com/search?mode=product&sort=124" style="color: #fff;">Auctions</a>
+                    	
+                    </li>
+                    
+                    <li style="background: #0c1378;
+padding: 6px;
+margin-top: -8px;
+color: #d1d1d1;;
+font-size: 13px;border-radius:4px"><a href="http://www.payitforwardauction.com/register" style="color: #fff;">Register to Bid</a>
+                    	
+                    </li>
+                    
+                    <li style="background: #0c1378;
+padding: 6px;
+margin-top: -8px;
+color: #d1d1d1;;
+font-size: 13px;border-radius:4px"><a href="http://www.payitforwardauction.com/main-consign" style="color: #fff;">Consign</a>
+                    	
+                    </li>
+                    
+                    <li style="background: #0c1378;
+padding: 6px;
+margin-top: -8px;
+color: #d1d1d1;;
+font-size: 13px;border-radius:4px"><a href="http://www.payitforwardauction.com/main-contact" style="color: #fff;">Contact</a>
+                    	
+                    </li>
+                    
+                    <li class="sell-hover"><a href="http://www.payitforwardauction.com/sell" class="sell"><span>Sell</span></a>
+                    	<!-- start top-dropdown -->
+                        <div class="top-dropdown">
+                        	<div class="user-login">
+                                <a class="login-link" href="http://www.payitforwardauction.com/signin">Sign In</a>
+                                <span class="new-user">Don&#039;t have an account? <a href="http://www.payitforwardauction.com/register">Register ›</a></span>
+                            </div>
+                            
+                            
+                        </div>
+                        <!-- end top-dropdown -->
+                    </li>
+                    
+                	<li class="login-hover"><a href="http://www.payitforwardauction.com/signin" class="login"><span>Sign In</span></a>
+                    	<!-- start top-dropdown -->
+                        <div class="top-dropdown">
+                            <div class="user-login">
+                                <a class="login-link" href="http://www.payitforwardauction.com/signin">Sign In</a>
+                                <span class="new-user">Don&#039;t have an account? <a href="http://www.payitforwardauction.com/register">Register ›</a></span>
+                            </div>
+                            
+                            
+                            
+                        </div><!-- end top-dropdown -->
+                    </li>
+                    
+                    
+                    
+                    <li class="favorite-hover"><a href="javascript:;" class="favorite"><span>Favourite</span></a>
+                    	<!-- start top-dropdown -->
+                        <div class="top-dropdown2">
+                        	<div class="user-login" style="border-bottom:none">
+                            	<h3>Favourites</h3>
+                                <p style="margin:10px 15px 0 0;font-size:12px;line-height:17px" class="gray">Your favourites hold items, sellers and keywords you&#039;re searching for in the marketplace.</p>
+                            </div>
+                        	<div class="tab-cont">
+                            		<h4><span style="float:right;margin-top:1px;margin-right:10px;display:block" class="smaller gray"><a href="javascript:;" onclick="location.href='http://www.payitforwardauction.com/watchlist.php?cmd=management&amp;tab=0'">Manage</a></span><a href="javascript:;" class="link">Products</a></h4>
+                                	<div class="txtb">
+                                    <p>You must be logged in to access this section.</p>
+                                    <a class="login-link" href="http://www.payitforwardauction.com/signin">Sign In</a>
+                                    <div style="clear:both"></div><span class="new-user">Don&#039;t have an account? <a href="http://www.payitforwardauction.com/register">Register ›</a></span>
+                                    </div>
+                            </div>
+                            <div class="tab-cont">
+                            		<h4><span style="float:right;margin-top:1px;margin-right:10px;display:block" class="smaller gray"><a href="javascript:;" onclick="location.href='http://www.payitforwardauction.com/watchlist.php?cmd=management&amp;tab=1'">Manage</a></span><a href="javascript:;" class="link">Sellers</a></h4>
+                                	<div class="txtb">
+                                    <p>You must be logged in to access this section.</p>
+                                    <a class="login-link" href="http://www.payitforwardauction.com/signin">Sign In</a>
+                                    <div style="clear:both"></div><span class="new-user">Don&#039;t have an account? <a href="http://www.payitforwardauction.com/register">Register ›</a></span>
+                                    </div>
+                            </div>
+                            <div class="tab-cont">
+                            		<h4><span style="float:right;margin-top:1px;margin-right:10px;display:block" class="smaller gray"><a href="javascript:;" onclick="location.href='http://www.payitforwardauction.com/preferences.php?cmd=favorites'">Manage</a></span><a href="javascript:;" class="link">Searches</a></h4>
+                                	<div class="txtb">
+                                    <p>You must be logged in to access this section.</p>
+                                    <a class="login-link" href="http://www.payitforwardauction.com/signin">Sign In</a>
+                                    <div style="clear:both"></div><span class="new-user">Don&#039;t have an account? <a href="http://www.payitforwardauction.com/register">Register ›</a></span>
+                                    </div>
+                            </div>
+                        </div>
+                        <!-- end top-dropdown -->
+                    </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+            <!-- end top-link -->
+        </div>
+        <!-- end header-top -->
+        <!-- start header-bot -->
+        <div class="header-bot">
+        	<!-- start navigation -->
+        	<div class="navigation">
+            	<ul>
+                	<li class="active"><a href="http://www.payitforwardauction.com/categories/items"><span>Shop by category</span></a>
+                    	<ul>
+                        	<li aria-haspopup="true"><a href="http://www.payitforwardauction.com/categories/items" title="All categories" role="menuitem" class="nav-menu-link"><strong>All categories</strong></a><div class="dropdown"><div class="col"><ul><li><a href="merch.php?cid=91" title="Baseball">Baseball</a></li><li><a href="merch.php?cid=90" title="New England Patriots">New England Patriots</a></li><li><a href="merch.php?cid=77" title="Muhammad Ali">Muhammad Ali</a></li><li><a href="merch.php?cid=79" title="Football">Football</a></li><li><a href="merch.php?cid=80" title="Basketball">Basketball</a></li><li><a href="merch.php?cid=85" title="Hockey">Hockey</a></li><li><a href="merch.php?cid=86" title="Entertainment">Entertainment</a></li><li><a href="merch.php?cid=84" title="Art">Art</a></li><li><a href="merch.php?cid=89" title="Misc">Misc</a></li></ul></div><div class="clear"></div><div class="row-link"><a href="merch.php?cmd=listings" title="All categories">All categories</a></div></div></li>
+                            <li aria-haspopup="true"><a href="merch.php?cmd=listings&cid=91" title="Baseball" role="menuitem" class="nav-menu-link">Baseball</a><div class="dropdown"><div class="col"><ul><li><a href="merch.php?cid=63" title="Yankees">Yankees</a></li><li><a href="merch.php?cid=94" title="Red Sox">Red Sox</a></li><li><a href="merch.php?cid=95" title="Mets">Mets</a></li><li><a href="merch.php?cid=96" title="Dodgers">Dodgers</a></li></ul></div><div class="clear"></div><div class="row-link"><a href="merch.php?cid=91" title="All categories in Baseball">All categories in Baseball</a></div></div></li><li aria-haspopup="true"><a href="merch.php?cmd=listings&cid=90" title="New England Patriots" role="menuitem" class="nav-menu-link">New England Patriots</a></li><li aria-haspopup="true"><a href="merch.php?cmd=listings&cid=77" title="Muhammad Ali" role="menuitem" class="nav-menu-link">Muhammad Ali</a></li><li aria-haspopup="true"><a href="merch.php?cmd=listings&cid=79" title="Football" role="menuitem" class="nav-menu-link">Football</a></li><li aria-haspopup="true"><a href="merch.php?cmd=listings&cid=80" title="Basketball" role="menuitem" class="nav-menu-link">Basketball</a></li><li aria-haspopup="true"><a href="merch.php?cmd=listings&cid=85" title="Hockey" role="menuitem" class="nav-menu-link">Hockey</a></li><li aria-haspopup="true"><a href="merch.php?cmd=listings&cid=86" title="Entertainment" role="menuitem" class="nav-menu-link">Entertainment</a></li><li aria-haspopup="true"><a href="merch.php?cmd=listings&cid=84" title="Art" role="menuitem" class="nav-menu-link">Art</a><div class="dropdown"><div class="col"><ul><li><a href="merch.php?cid=88" title="Sports Art">Sports Art</a></li></ul></div><div class="clear"></div><div class="row-link"><a href="merch.php?cid=84" title="All categories in Art">All categories in Art</a></div></div></li><li aria-haspopup="true"><a href="merch.php?cmd=listings&cid=89" title="Misc" role="menuitem" class="nav-menu-link">Misc</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <!-- end navigation -->
+            <!-- start search -->
+            <div class="search">
+            	<form name="global" id="globalsearch" action="http://www.payitforwardauction.com/search" method="get" dir="ltr" accept-charset="UTF-8">
+                	<input type="hidden" name="mode" id="searchmode" value="product" />
+                	<label>Search</label>
+                    <!-- start search-box -->
+                    <div class="search-box">
+                        <input type="submit" value="" class="button" />
+                        <!-- start setting-box -->
+                        <div class="setting-box">
+                        	<a href="javascript:;" class="setting"><span>Settings</span></a>
+                            <div class="setting-panel">
+                            	<div class="title">
+                                	<span><a href="http://www.payitforwardauction.com/search" title="Advanced search">Advanced search</a></span>
+                                	<h3>Search options</h3>
+                                </div>
+                                <div class="setting-form">
+                                	<div class="row">
+                                        <label for="cid">Category</label>
+                                        <select name="cid" id="cidfield" class="select"><option value="">All Categories</option><option value="">-----------------------</option><option value="91">Baseball</option><option value="90">New England Patriots</option><option value="77">Muhammad Ali</option><option value="79">Football</option><option value="80">Basketball</option><option value="85">Hockey</option><option value="86">Entertainment</option><option value="84">Art</option><option value="89">Misc</option></select>
+                                        <ul class="checkbox-list">
+                                        	<li><label for="titlesonly"><input name="titlesonly" id="titlesonly" type="checkbox" value="1" class="checkbox" /> Search titles only</label></li>
+                                        	<li><label for="imagesonly"><input name="images" id="imagesonly" type="checkbox" value="1" class="checkbox" /> Show only with pictures</label></li>
+                                            <li><label for="freeshipping"><input name="freeshipping" id="freeshipping" type="checkbox" value="1" class="checkbox" /> Show only free shipping</label></li>
+                                        </ul>
+                                    </div>
+                                    <!--<div class="row">
+                                        <label for="keywords">Keywords</label>
+                                        <input name="q" type="text" id="keywords" value="" class="input" />
+                                        
+                                    </div>-->
+                                    
+                                    <div class="row">
+                                        <label for="itemnumber">Item number</label>
+                                        <input name="itemid" type="text" id="itemnumber" placeholder="(e.g. 937592710)" class="input" />
+                                    </div>
+                                    <div class="row last">
+                                        <input type="submit" value="Search" id="bigsearchbutton" class="button2" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end setting-box -->
+                    	<div class="search-menu">
+                        	<a href="javascript:;" title="All categories" class="menu-link"><span id="search-menu-selected">All categories</span></a>
+                        </div>
+                        <div class="input-field"><input name="q" id="search_keywords_id" type="text" value="" autocomplete="off" spellcheck="false" class="input" /></div>
+                        <div id="search_autocomplete" class="autocompletev4"></div>
+                    	<div class="search-menu-list" id="search-menu">
+                            <ul>
+                                <li><a class="first-select" href="merch.php?cmd=listings" data-catid="">All categories</a></li><li><a href="#" data-catid="90" title="New England Patriots">New England Patriots</a></li><li><a href="#" data-catid="91" title="Baseball">Baseball</a></li><li><a href="#" data-catid="77" title="Muhammad Ali">Muhammad Ali</a></li><li><a href="#" data-catid="79" title="Football">Football</a></li><li><a href="#" data-catid="80" title="Basketball">Basketball</a></li><li><a href="#" data-catid="85" title="Hockey">Hockey</a></li><li><a href="#" data-catid="86" title="Entertainment">Entertainment</a></li><li><a href="#" data-catid="84" title="Art">Art</a></li><li><a href="#" data-catid="89" title="Misc">Misc</a></li>
+                            </ul>
+                            <!--<span class="user-link"><a href="">Find work or talent</a></span>-->
+                        </div>
+                        
+                    </div>
+                    <!-- end search-box -->
+                <input type="hidden" name="sort" id="searchsort" value="124" />
+                </form>
+            </div>
+            <!-- end search -->
+    		<div class="arrow-bot">
+                <a href="javascript:;" class="arrow-link" title="Recently viewed items">arrow-bot</a>
+                <!-- start product-list -->
+                <div class="product-list">
+                    <a href="javascript:;" class="arrow-bot2 arrow-link">arrow-bot</a>
+                    <!-- row -->
+                    <div class="row">
+                        <strong><a href="javascript:;" title="Close" class="close">Close</a> Recently viewed items</strong>
+                    </div>
+                    <!-- row -->
+                    <div id="recentviewedtoploader">
+                    <div class="row2">
+                        <ul>
+                            <li class="active" style="padding: 0 17px 0 0" title="Loading"><img src="/images/default/working.gif" width="13" height="13" alt="Loading" /></li>
+                        </ul>
+                    </div>
+                    </div>
+                </div>
+                <!-- end product-list -->
+        	</div>
+        </div>
+        <!-- end header-bot -->
+    </div>
+    <!-- end box -->
+</div>
+<!-- end header -->
+
+
+<div class="box"></div>
+<!-- START template content --><div class="box"><!-- start box -->
+<div class="box">
+	<!-- start container -->
+    <div class="container">
+    	<!-- start showcase -->
+        <div class="showcase">
+        	<div class="slider">
+            	<div class="slides_container">
+                	
+                    <img usemap="#hero_6" src="/images/default/heros/pifbanner.jpg" width="770" height="265" alt="" id="hero_6" />
+                   	
+                    <img usemap="#hero_15" src="/images/default/heros/brady header w border.jpg" width="770" height="265" alt="" id="hero_15" />
+                   	
+                    <img usemap="#hero_13" src="/images/default/heros/giveaway 1.jpg" width="770" height="265" alt="" id="hero_13" />
+                   	
+                    <img usemap="#hero_12" src="/images/default/heros/giveaway 2.jpg" width="770" height="265" alt="" id="hero_12" />
+                   	
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <map id="hero_6" name="hero_6"></map><map id="hero_15" name="hero_15"></map><map id="hero_13" name="hero_13"></map><map id="hero_12" name="hero_12"></map>
+        <!-- end showcase -->
+        <!-- start feature -->
+        <div class="feature">
+        	<!-- start feature-box -->
+        	<div class="feature-box">
+            	<!-- start column1 -->
+            	<div class="column1">
+                
+                	<h3>Welcome</h3>
+                    <p>Even if you&#039;re new or already experienced, we have everything you need to enjoy shopping on Pay it Forward Auction.</p>
+                    
+                    
+                </div>
+                <!-- end column1 -->
+                <!-- start column2 -->
+            	<div class="column2">
+                	<div id="recentviewedmidloader">
+                    	<h3>Sign In</h3>
+                            <p>Sign-in to your account in order to buy, sell or manage your preferences.</p>
+                            <a href="http://www.payitforwardauction.com/signin" class="button">Sign In</a>
+                            <span>Don&#039;t have an account? <a href="http://www.payitforwardauction.com/register">Register &rsaquo;</a></span>
+                        
+                    </div>
+                </div>
+                <!-- end column2 -->
+                <!-- start column3 -->
+            	<div class="column3">
+                	
+                	<h3>Shop with confidence</h3>
+                    <ul class="link2">
+                        <li class="guaranteed-shipping">
+                        	<span class="black"><strong>Completely safe</strong></span>
+                        	<p>Bid on or buy items you&#039;re watching or searching for</p>
+                        </li>			
+                        <li class="premium-user">
+                        	<span class="black"><strong>Premium sellers</strong></span>
+                        	<p>Great service and the best delivery when you buy from premium sellers.</p>
+                        </li>
+                        <li class="rating-system">
+                        	<span class="black"><strong>Feedback rating system</strong></span>
+                        	<p>View seller history and feedback of users before you bid or buy.</p>
+                        </li>
+                    </ul>
+                </div>
+                <!-- end column3 -->
+            </div>
+            <!-- end feature-box -->
+        	<!-- start banner -->
+        	<div class="column4" id="hpa">
+            	<a href="#"><img src="/images/default/v4/img_banner_deals.jpg" width="300" height="258" alt="" /></a>
+            </div>
+            <!-- end banner -->
+            <div class="clear"></div>
+        </div>
+        <!-- end feature -->
+        
+        <div class="apihook"></div>
+        <div class="apihook"></div>
+        
+        <!-- end feature -->
+        <!-- start featured product -->
+        <div class="product">
+        	<h3>Featured</h3>
+        	<a href="javascript:;" class="prev disabled" id="c1l">prev</a>
+            <a href="javascript:;" class="next" id="c1r">next</a>
+            <div class="carousel_home_featured_product">
+                <ul>
+                    <li>
+                        <a href="merch.php?id=66405249" title="Autographed Tom Brady Michigan Wolverines Authentic Proline On-Field Game Helmet Signed in Silver  "><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=86383b0df8f2f0dd9a7d1ac751f1989a" alt="Autographed Tom Brady Michigan Wolverines Authentic Proline On-Field Game Helmet Signed in Silver  " /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=66405249" title="Autographed Tom Brady Michigan Wolverines Authentic Proline On-Field Game Helmet Signed in Silver  ">Autographed Tom Brady Michigan Wolverines Authentic Proline On-Field Game Helmet Signed in Silver  </a></span> 
+                        <strong>US$500.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=25962649" title="Muhammad Ali &amp; Pele Dual Signed 16x20&quot; Photo The greatest in their respective sports OA Certified "><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=37f5c529127deb342ec49dbc86116f7e" alt="Muhammad Ali &amp; Pele Dual Signed 16x20&quot; Photo The greatest in their respective sports OA Certified " /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=25962649" title="Muhammad Ali &amp; Pele Dual Signed 16x20&quot; Photo The greatest in their respective sports OA Certified ">Muhammad Ali &amp; Pele Dual Signed 16x20&quot; Photo The greatest in their respective sports OA Certified </a></span> 
+                        <strong>US$950.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=23975225" title="Triple Crown Winner American Pharoah' on a Fine Art Giclee on Canvas by Bill Lopa  AROC #1/50 "><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=a9b4d180fa3b56dffc154de15b078252" alt="Triple Crown Winner American Pharoah' on a Fine Art Giclee on Canvas by Bill Lopa  AROC #1/50 " /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=23975225" title="Triple Crown Winner American Pharoah' on a Fine Art Giclee on Canvas by Bill Lopa  AROC #1/50 ">Triple Crown Winner American Pharoah' on a Fine Art Giclee on Canvas by Bill Lopa  AROC #1/50 </a></span> 
+                        <strong>US$275.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=58232445" title="The Only 3 Triple Crown Winning/Living Jockeys Signed AROC Embellished Giclee' by Bill Lopa LE 23/25"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=a52050b3cb321cd093e3d93b4571c740" alt="The Only 3 Triple Crown Winning/Living Jockeys Signed AROC Embellished Giclee' by Bill Lopa LE 23/25" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=58232445" title="The Only 3 Triple Crown Winning/Living Jockeys Signed AROC Embellished Giclee' by Bill Lopa LE 23/25">The Only 3 Triple Crown Winning/Living Jockeys Signed AROC Embellished Giclee' by Bill Lopa LE 23/25</a></span> 
+                        <strong>US$500.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=16297120" title="Autographed Tom Brady New England Patriots Super Bowl (39) &quot; Spotlight &quot; 16x20 Photo ~ Tristar COA"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=dc48464384a1b42f88dbf1a27f742f5a" alt="Autographed Tom Brady New England Patriots Super Bowl (39) &quot; Spotlight &quot; 16x20 Photo ~ Tristar COA" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=16297120" title="Autographed Tom Brady New England Patriots Super Bowl (39) &quot; Spotlight &quot; 16x20 Photo ~ Tristar COA">Autographed Tom Brady New England Patriots Super Bowl (39) &quot; Spotlight &quot; 16x20 Photo ~ Tristar COA</a></span> 
+                        <strong>US$275.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=56497218" title="NY Yankees PG Battery Mates 6 Signed 16x20&quot;  Photo w/ PG Date Inscrips  Final Game at Yankee Stadium"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=bfb53c0c550bfd9ef3bb67a7d1b17292" alt="NY Yankees PG Battery Mates 6 Signed 16x20&quot;  Photo w/ PG Date Inscrips  Final Game at Yankee Stadium" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=56497218" title="NY Yankees PG Battery Mates 6 Signed 16x20&quot;  Photo w/ PG Date Inscrips  Final Game at Yankee Stadium">NY Yankees PG Battery Mates 6 Signed 16x20&quot;  Photo w/ PG Date Inscrips  Final Game at Yankee Stadium</a></span> 
+                        <strong>US$400.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=36325141" title="Autographed Tom Brady New England Patriots Authentic Nike Elite On-Field Away Jersey ~ Tristar/COA "><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=f2fb29e16707bc45c9246e74eeefc9e4" alt="Autographed Tom Brady New England Patriots Authentic Nike Elite On-Field Away Jersey ~ Tristar/COA " /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=36325141" title="Autographed Tom Brady New England Patriots Authentic Nike Elite On-Field Away Jersey ~ Tristar/COA ">Autographed Tom Brady New England Patriots Authentic Nike Elite On-Field Away Jersey ~ Tristar/COA </a></span> 
+                        <strong>US$800.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=96422968" title="RARE 1st Pitch of the 2004 World Series Boston Red Sox 16x20 Photo signed by the Starting 9 MLB COA"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=2830da3069267ac50e4c4d2c1741e5c7" alt="RARE 1st Pitch of the 2004 World Series Boston Red Sox 16x20 Photo signed by the Starting 9 MLB COA" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=96422968" title="RARE 1st Pitch of the 2004 World Series Boston Red Sox 16x20 Photo signed by the Starting 9 MLB COA">RARE 1st Pitch of the 2004 World Series Boston Red Sox 16x20 Photo signed by the Starting 9 MLB COA</a></span> 
+                        <strong>US$110.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=56677086" title="Mariano Rivera &quot;Enter Sandman&quot; Captured By Artist Bill Lopa on a Fine Art Giclee on Canvas LE AP /42"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=438158f2a7b4cc71b83c3265482f0686" alt="Mariano Rivera &quot;Enter Sandman&quot; Captured By Artist Bill Lopa on a Fine Art Giclee on Canvas LE AP /42" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=56677086" title="Mariano Rivera &quot;Enter Sandman&quot; Captured By Artist Bill Lopa on a Fine Art Giclee on Canvas LE AP /42">Mariano Rivera &quot;Enter Sandman&quot; Captured By Artist Bill Lopa on a Fine Art Giclee on Canvas LE AP /42</a></span> 
+                        <strong>US$325.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=26249997" title="Quadruple Signed Bird, Cousy, Havlicek &amp; Heinsohn Boston Celtics &quot;The Boardroom&quot; 16 x 20 Photo ~ JSA"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=b217fe7242365e4e9c69e2ade644982a" alt="Quadruple Signed Bird, Cousy, Havlicek &amp; Heinsohn Boston Celtics &quot;The Boardroom&quot; 16 x 20 Photo ~ JSA" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=26249997" title="Quadruple Signed Bird, Cousy, Havlicek &amp; Heinsohn Boston Celtics &quot;The Boardroom&quot; 16 x 20 Photo ~ JSA">Quadruple Signed Bird, Cousy, Havlicek &amp; Heinsohn Boston Celtics &quot;The Boardroom&quot; 16 x 20 Photo ~ JSA</a></span> 
+                        <strong>US$150.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=36578486" title="New England Patriots Tom Brady by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=0a4dc71d6abc3bdd0d3e5394c6b9675f" alt="New England Patriots Tom Brady by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=36578486" title="New England Patriots Tom Brady by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50">New England Patriots Tom Brady by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50</a></span> 
+                        <strong>US$425.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=86436431" title="Autographed Kobe Bryant Authentic LA Lakers NBA Swingman Yellow Jersey ~ Panini/COA &amp; Hologram "><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=4ad79a9bbd91accf92d4fba78b99a92d" alt="Autographed Kobe Bryant Authentic LA Lakers NBA Swingman Yellow Jersey ~ Panini/COA &amp; Hologram " /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=86436431" title="Autographed Kobe Bryant Authentic LA Lakers NBA Swingman Yellow Jersey ~ Panini/COA &amp; Hologram ">Autographed Kobe Bryant Authentic LA Lakers NBA Swingman Yellow Jersey ~ Panini/COA &amp; Hologram </a></span> 
+                        <strong>US$375.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=16243927" title="Autographed Tom Brady New England Patriots Super Bowl (49) 16 x 20 Photo ~ Tristar/COA &amp; Hologram"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=8aebdd4951cd3ebd4d9622cfe535be32" alt="Autographed Tom Brady New England Patriots Super Bowl (49) 16 x 20 Photo ~ Tristar/COA &amp; Hologram" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=16243927" title="Autographed Tom Brady New England Patriots Super Bowl (49) 16 x 20 Photo ~ Tristar/COA &amp; Hologram">Autographed Tom Brady New England Patriots Super Bowl (49) 16 x 20 Photo ~ Tristar/COA &amp; Hologram</a></span> 
+                        <strong>US$275.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=16417967" title="RARE Autographed Derek Jeter NY Yankees &quot; Legendary Moments &quot; 16x20 Photo ~ Steiner/COA &amp; MLB #"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=684b5bf0c0549a88231a2fb86bfc6443" alt="RARE Autographed Derek Jeter NY Yankees &quot; Legendary Moments &quot; 16x20 Photo ~ Steiner/COA &amp; MLB #" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=16417967" title="RARE Autographed Derek Jeter NY Yankees &quot; Legendary Moments &quot; 16x20 Photo ~ Steiner/COA &amp; MLB #">RARE Autographed Derek Jeter NY Yankees &quot; Legendary Moments &quot; 16x20 Photo ~ Steiner/COA &amp; MLB #</a></span> 
+                        <strong>US$300.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=66253461" title="RARE Autographed Derek Jeter NY Yankees Limited Edition 16x20 Photo #2/22 Standing in Batters Box"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=d35f4dcd81e5858956bdbb09055f354a" alt="RARE Autographed Derek Jeter NY Yankees Limited Edition 16x20 Photo #2/22 Standing in Batters Box" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=66253461" title="RARE Autographed Derek Jeter NY Yankees Limited Edition 16x20 Photo #2/22 Standing in Batters Box">RARE Autographed Derek Jeter NY Yankees Limited Edition 16x20 Photo #2/22 Standing in Batters Box</a></span> 
+                        <strong>US$400.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=46065874" title="Miami Dolphins DAN MARINO Signed Framed Fine Art Giclee' AP LE #13 / 13! "><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=b804ec2096c1981f7163993fde1f8893" alt="Miami Dolphins DAN MARINO Signed Framed Fine Art Giclee' AP LE #13 / 13! " /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=46065874" title="Miami Dolphins DAN MARINO Signed Framed Fine Art Giclee' AP LE #13 / 13! ">Miami Dolphins DAN MARINO Signed Framed Fine Art Giclee' AP LE #13 / 13! </a></span> 
+                        <strong>US$200.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=76242440" title="Autographed Tom Brady New England Patriots Super Bowl (49) 20 x 24 Metallic &quot; Scream &quot; Photo Tristar"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=ca635f5db6bb04e7b4753f36194850cf" alt="Autographed Tom Brady New England Patriots Super Bowl (49) 20 x 24 Metallic &quot; Scream &quot; Photo Tristar" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=76242440" title="Autographed Tom Brady New England Patriots Super Bowl (49) 20 x 24 Metallic &quot; Scream &quot; Photo Tristar">Autographed Tom Brady New England Patriots Super Bowl (49) 20 x 24 Metallic &quot; Scream &quot; Photo Tristar</a></span> 
+                        <strong>US$800.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=76279546" title="Derek Jeter w/Mariano Rivera Dual Signed Vertical 16x20 Photo Steiner/COA &amp; MLB Serial #d Hologram"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=d5e19a368ad65015423d413241d2a0b9" alt="Derek Jeter w/Mariano Rivera Dual Signed Vertical 16x20 Photo Steiner/COA &amp; MLB Serial #d Hologram" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=76279546" title="Derek Jeter w/Mariano Rivera Dual Signed Vertical 16x20 Photo Steiner/COA &amp; MLB Serial #d Hologram">Derek Jeter w/Mariano Rivera Dual Signed Vertical 16x20 Photo Steiner/COA &amp; MLB Serial #d Hologram</a></span> 
+                        <strong>US$400.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=17183069" title="Chicago Bulls Michael Jordan by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50 "><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=6c4e8611eae18fdd66b408332e287dc0" alt="Chicago Bulls Michael Jordan by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50 " /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=17183069" title="Chicago Bulls Michael Jordan by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50 ">Chicago Bulls Michael Jordan by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50 </a></span> 
+                        <strong>US$400.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=46278418" title="Autographed Lebron James Cleveland Cavaliers vs Kevin Durant Limited Edition #123 16x20 Photo UD COA"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=83331a2be4bc126dd7f725cedf50cc3d" alt="Autographed Lebron James Cleveland Cavaliers vs Kevin Durant Limited Edition #123 16x20 Photo UD COA" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=46278418" title="Autographed Lebron James Cleveland Cavaliers vs Kevin Durant Limited Edition #123 16x20 Photo UD COA">Autographed Lebron James Cleveland Cavaliers vs Kevin Durant Limited Edition #123 16x20 Photo UD COA</a></span> 
+                        <strong>US$300.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=66301137" title="Autographed Kobe Bryant LA Lakers Limited Edition #/24 &quot; DUNK &quot; Metallic 16 x 20 Photo ~ Panini/COA "><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=9467b5aa705562097bcb3615bbb59a69" alt="Autographed Kobe Bryant LA Lakers Limited Edition #/24 &quot; DUNK &quot; Metallic 16 x 20 Photo ~ Panini/COA " /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=66301137" title="Autographed Kobe Bryant LA Lakers Limited Edition #/24 &quot; DUNK &quot; Metallic 16 x 20 Photo ~ Panini/COA ">Autographed Kobe Bryant LA Lakers Limited Edition #/24 &quot; DUNK &quot; Metallic 16 x 20 Photo ~ Panini/COA </a></span> 
+                        <strong>US$300.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <!-- end featured product --><div class="clear"></div>
+        
+        <div class="apihook"></div>
+        
+        
+        
+        <!-- start latest product -->
+        <div class="product">
+        	<h3>New items for sale</h3>
+        	<a href="javascript:;" class="prev disabled" id="c3l">prev</a>
+            <a href="javascript:;" class="next" id="c3r">next</a>
+            <div class="carousel_home_latest_product">
+                <ul>
+                    <li>
+                        <a href="merch.php?id=77250582" title="Florida Marlins Orig Players from It's Inaugural Season Signed by: Sheffield Weiss Destrade Barberie"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=67154cdf6087268889e9f2e8a4a9249e" alt="Florida Marlins Orig Players from It's Inaugural Season Signed by: Sheffield Weiss Destrade Barberie" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=77250582" title="Florida Marlins Orig Players from It's Inaugural Season Signed by: Sheffield Weiss Destrade Barberie">Florida Marlins Orig Players from It's Inaugural Season Signed by: Sheffield Weiss Destrade Barberie</a></span> 
+                        <strong>US$20.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=87250048" title="TAMPA BAY DEVIL RAYS INAUGURAL SEASON HEAVY HITTER BAT"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=69e3d6ebdfe6fb11545521dcdeba7446" alt="TAMPA BAY DEVIL RAYS INAUGURAL SEASON HEAVY HITTER BAT" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=87250048" title="TAMPA BAY DEVIL RAYS INAUGURAL SEASON HEAVY HITTER BAT">TAMPA BAY DEVIL RAYS INAUGURAL SEASON HEAVY HITTER BAT</a></span> 
+                        <strong>US$50.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=67249610" title="NY Yankees Roy White Signed 8x10 Photo "><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=e2af0d932aa42774771790bfb2f1e199" alt="NY Yankees Roy White Signed 8x10 Photo " /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=67249610" title="NY Yankees Roy White Signed 8x10 Photo ">NY Yankees Roy White Signed 8x10 Photo </a></span> 
+                        <strong>US$10.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=37248763" title="NY Yankees David Cone Signed Fine Art Lithograph &quot;PERFECTION&quot; by Bill Lopa w/Inscrip PG 7-18-99"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=3dbd3d3e1d53c2cea6b4bb8a2fdacbf2" alt="NY Yankees David Cone Signed Fine Art Lithograph &quot;PERFECTION&quot; by Bill Lopa w/Inscrip PG 7-18-99" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=37248763" title="NY Yankees David Cone Signed Fine Art Lithograph &quot;PERFECTION&quot; by Bill Lopa w/Inscrip PG 7-18-99">NY Yankees David Cone Signed Fine Art Lithograph &quot;PERFECTION&quot; by Bill Lopa w/Inscrip PG 7-18-99</a></span> 
+                        <strong>US$50.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=17248018" title="NY Yankees Roger Clemens Fine Art Giclee by Renowned Artist Bill Lopa"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=0f7096f6b7ec64ffe1487030f1278f7f" alt="NY Yankees Roger Clemens Fine Art Giclee by Renowned Artist Bill Lopa" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=17248018" title="NY Yankees Roger Clemens Fine Art Giclee by Renowned Artist Bill Lopa">NY Yankees Roger Clemens Fine Art Giclee by Renowned Artist Bill Lopa</a></span> 
+                        <strong>US$50.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=55455963" title="WWE Wrestler Rena Mero &quot; Better known as Sable&quot; Signed 8x10 Photo #2"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=b8ac303be80a91ea87b69e5a4514b0bc" alt="WWE Wrestler Rena Mero &quot; Better known as Sable&quot; Signed 8x10 Photo #2" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=55455963" title="WWE Wrestler Rena Mero &quot; Better known as Sable&quot; Signed 8x10 Photo #2">WWE Wrestler Rena Mero &quot; Better known as Sable&quot; Signed 8x10 Photo #2</a></span> 
+                        <strong>US$10.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=84268913" title="Actress Rene Russo Signed 8x10 Photo"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=8f6614b946244d84e5471f6fcdbde93d" alt="Actress Rene Russo Signed 8x10 Photo" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=84268913" title="Actress Rene Russo Signed 8x10 Photo">Actress Rene Russo Signed 8x10 Photo</a></span> 
+                        <strong>US$10.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=41984098" title="Renowned Artist Bill Lopa &quot;Gambling Scene&quot; 28x24&quot; Fine Art Giclee' on Canvas ~ No Reserve"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=4510d0d89a21422db788258e4984bc36" alt="Renowned Artist Bill Lopa &quot;Gambling Scene&quot; 28x24&quot; Fine Art Giclee' on Canvas ~ No Reserve" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=41984098" title="Renowned Artist Bill Lopa &quot;Gambling Scene&quot; 28x24&quot; Fine Art Giclee' on Canvas ~ No Reserve">Renowned Artist Bill Lopa &quot;Gambling Scene&quot; 28x24&quot; Fine Art Giclee' on Canvas ~ No Reserve</a></span> 
+                        <strong>US$50.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=8721634" title="Actress / Model Elizabeth Hurley Signed 8x10 Photo ~  Pic #2"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=63b5ec68869613e133f82f691714f0e2" alt="Actress / Model Elizabeth Hurley Signed 8x10 Photo ~  Pic #2" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=8721634" title="Actress / Model Elizabeth Hurley Signed 8x10 Photo ~  Pic #2">Actress / Model Elizabeth Hurley Signed 8x10 Photo ~  Pic #2</a></span> 
+                        <strong>US$10.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=27198356" title="Lot of (2) Gary Carter Signed Hall of Fame Envelope w/Carter Hologram + a Gary Carter Signed Check"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=443c238f83d7d3fb8a1a9763415ec17d" alt="Lot of (2) Gary Carter Signed Hall of Fame Envelope w/Carter Hologram + a Gary Carter Signed Check" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=27198356" title="Lot of (2) Gary Carter Signed Hall of Fame Envelope w/Carter Hologram + a Gary Carter Signed Check">Lot of (2) Gary Carter Signed Hall of Fame Envelope w/Carter Hologram + a Gary Carter Signed Check</a></span> 
+                        <strong>US$15.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=57196982" title="500 Home Run Club 36x37 Lithograph w/Images of Ted Williams, H. Aaron, Reggie Jackson, Willie Mays"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=1dd28788bec4190c9ea067d46cafbb98" alt="500 Home Run Club 36x37 Lithograph w/Images of Ted Williams, H. Aaron, Reggie Jackson, Willie Mays" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=57196982" title="500 Home Run Club 36x37 Lithograph w/Images of Ted Williams, H. Aaron, Reggie Jackson, Willie Mays">500 Home Run Club 36x37 Lithograph w/Images of Ted Williams, H. Aaron, Reggie Jackson, Willie Mays</a></span> 
+                        <strong>US$40.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=67195754" title="1972 MIAMI DOLPHINS 17-0 RON LEWIS LITHOGRAPH The Perfect Season #/1972"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=5de9e0723213bb64d6ca308dea540156" alt="1972 MIAMI DOLPHINS 17-0 RON LEWIS LITHOGRAPH The Perfect Season #/1972" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=67195754" title="1972 MIAMI DOLPHINS 17-0 RON LEWIS LITHOGRAPH The Perfect Season #/1972">1972 MIAMI DOLPHINS 17-0 RON LEWIS LITHOGRAPH The Perfect Season #/1972</a></span> 
+                        <strong>US$30.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=61053001" title="San Francisco 49ers Legendary QB Joe Montana signed lithograph w/inscription HOF 2000 ~ NO RESERVE"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=805b103e4b24d7a91623e80587d91dbc" alt="San Francisco 49ers Legendary QB Joe Montana signed lithograph w/inscription HOF 2000 ~ NO RESERVE" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=61053001" title="San Francisco 49ers Legendary QB Joe Montana signed lithograph w/inscription HOF 2000 ~ NO RESERVE">San Francisco 49ers Legendary QB Joe Montana signed lithograph w/inscription HOF 2000 ~ NO RESERVE</a></span> 
+                        <strong>US$75.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=65899545" title="Al Pacino Signed Album Cover to The Soundtrack from &quot;Serpico&quot;  ~ Cover Only ~ NR"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=72b8a65ec780694a19d00997df09e8a2" alt="Al Pacino Signed Album Cover to The Soundtrack from &quot;Serpico&quot;  ~ Cover Only ~ NR" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=65899545" title="Al Pacino Signed Album Cover to The Soundtrack from &quot;Serpico&quot;  ~ Cover Only ~ NR">Al Pacino Signed Album Cover to The Soundtrack from &quot;Serpico&quot;  ~ Cover Only ~ NR</a></span> 
+                        <strong>US$50.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=47194299" title="Don Larsen Signed 11x14 Photo of him hugging Yogi Berra after the last pitch of Don's WSPG in 1956"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=f7ac64d2bb582a121a5cbb69743fff65" alt="Don Larsen Signed 11x14 Photo of him hugging Yogi Berra after the last pitch of Don's WSPG in 1956" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=47194299" title="Don Larsen Signed 11x14 Photo of him hugging Yogi Berra after the last pitch of Don's WSPG in 1956">Don Larsen Signed 11x14 Photo of him hugging Yogi Berra after the last pitch of Don's WSPG in 1956</a></span> 
+                        <strong>US$35.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=77193467" title="NY Yankees Don Zimmer Signed 8x10 Photo of him wearing his famous military helmet in the dugout"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=464359e9c0b33193a3e58c00a11451d5" alt="NY Yankees Don Zimmer Signed 8x10 Photo of him wearing his famous military helmet in the dugout" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=77193467" title="NY Yankees Don Zimmer Signed 8x10 Photo of him wearing his famous military helmet in the dugout">NY Yankees Don Zimmer Signed 8x10 Photo of him wearing his famous military helmet in the dugout</a></span> 
+                        <strong>US$10.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=77186644" title="NY Yankees Robinson Cano Signed 8x10 Photo"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=d8a5a1625edfe068aa9b098526a0557b" alt="NY Yankees Robinson Cano Signed 8x10 Photo" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=77186644" title="NY Yankees Robinson Cano Signed 8x10 Photo">NY Yankees Robinson Cano Signed 8x10 Photo</a></span> 
+                        <strong>US$10.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=97185604" title="NY Giants Super Bowl XVll vs The Patriots &quot;Helmet Catch&quot; 9x11 Giclee on Canvas by Doo S. OH"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=5a26be09c384c1a2410d200153df9029" alt="NY Giants Super Bowl XVll vs The Patriots &quot;Helmet Catch&quot; 9x11 Giclee on Canvas by Doo S. OH" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=97185604" title="NY Giants Super Bowl XVll vs The Patriots &quot;Helmet Catch&quot; 9x11 Giclee on Canvas by Doo S. OH">NY Giants Super Bowl XVll vs The Patriots &quot;Helmet Catch&quot; 9x11 Giclee on Canvas by Doo S. OH</a></span> 
+                        <strong>US$20.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=37185169" title="NY Yankees Gary Sheffield Signed 8x10 Photo ~ WYWHP Certified ~ No Reserve"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=1d26a12d02652e009798f3344d92c8c7" alt="NY Yankees Gary Sheffield Signed 8x10 Photo ~ WYWHP Certified ~ No Reserve" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=37185169" title="NY Yankees Gary Sheffield Signed 8x10 Photo ~ WYWHP Certified ~ No Reserve">NY Yankees Gary Sheffield Signed 8x10 Photo ~ WYWHP Certified ~ No Reserve</a></span> 
+                        <strong>US$10.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=37184787" title="Florida Marlins Gary Sheffield + Benito Santiago Dual Signed 8x10 Photo"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=b1627a926683b19c78109921d794383e" alt="Florida Marlins Gary Sheffield + Benito Santiago Dual Signed 8x10 Photo" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=37184787" title="Florida Marlins Gary Sheffield + Benito Santiago Dual Signed 8x10 Photo">Florida Marlins Gary Sheffield + Benito Santiago Dual Signed 8x10 Photo</a></span> 
+                        <strong>US$10.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=37184190" title="NY Yankees Lou Piniella Signed &quot;Catching a Ball Over the Wall&quot; 8x10&quot; Photo WYWHP Certified ~ NR"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=eb6bd64f7204439e75cba36294b3c9da" alt="NY Yankees Lou Piniella Signed &quot;Catching a Ball Over the Wall&quot; 8x10&quot; Photo WYWHP Certified ~ NR" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=37184190" title="NY Yankees Lou Piniella Signed &quot;Catching a Ball Over the Wall&quot; 8x10&quot; Photo WYWHP Certified ~ NR">NY Yankees Lou Piniella Signed &quot;Catching a Ball Over the Wall&quot; 8x10&quot; Photo WYWHP Certified ~ NR</a></span> 
+                        <strong>US$10.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=97183756" title="NY Yankees Lou Piniella Signed &quot;Hitting&quot; 8x10&quot; Photo WYWHP Certified ~ NR"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=0f3af02f66943c9b0a5d45345c7fd382" alt="NY Yankees Lou Piniella Signed &quot;Hitting&quot; 8x10&quot; Photo WYWHP Certified ~ NR" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=97183756" title="NY Yankees Lou Piniella Signed &quot;Hitting&quot; 8x10&quot; Photo WYWHP Certified ~ NR">NY Yankees Lou Piniella Signed &quot;Hitting&quot; 8x10&quot; Photo WYWHP Certified ~ NR</a></span> 
+                        <strong>US$10.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=17183069" title="Chicago Bulls Michael Jordan by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50 "><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=6c4e8611eae18fdd66b408332e287dc0" alt="Chicago Bulls Michael Jordan by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50 " /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=17183069" title="Chicago Bulls Michael Jordan by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50 ">Chicago Bulls Michael Jordan by Renowned Artist Bill Lopa Fine Art AROC Giclee on Canvas LE #/50 </a></span> 
+                        <strong>US$400.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li><li>
+                        <a href="merch.php?id=77182310" title="NY Yankees Don Larsen Signed 11x14 Photo W/ Toots Shor, Jackie Gleason and agent Frank Scott WYWHP"><span class="imgb photoresults"><img src="http://www.payitforwardauction.com/attachment.php?cmd=thumb&amp;subcmd=results&amp;id=91427eb21d0634595caa42340c8d6db4" alt="NY Yankees Don Larsen Signed 11x14 Photo W/ Toots Shor, Jackie Gleason and agent Frank Scott WYWHP" /></span></a>
+                        <i></i>
+                        <span><a href="http://www.payitforwardauction.com/merch.php?id=77182310" title="NY Yankees Don Larsen Signed 11x14 Photo W/ Toots Shor, Jackie Gleason and agent Frank Scott WYWHP">NY Yankees Don Larsen Signed 11x14 Photo W/ Toots Shor, Jackie Gleason and agent Frank Scott WYWHP</a></span> 
+                        <strong>US$30.00</strong>
+                    	<span class="timeleft">3d, 18h</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <!-- end latest product --><div class="clear"></div>
+        
+        
+        
+        <div class="apihook" style="display:none"></div>
+		
+        
+    </div>
+    <!-- end container -->
+</div>
+<!-- end box --></div><!-- END template content -->
+<!-- start box -->
+<div class="box">
+    <!-- start footer -->
+    <div class="footer">
+    	
+    
+    	
+        
+    	<!-- start footer-link or footer-link-slim -->
+    	<div class="footer-link">
+        	<!-- start column -->
+        	<div class="column">
+            	<h4>Pay it Forward Auction</h4>
+                <ul>
+                	
+                    
+                </ul>
+            </div>
+            <!-- end column -->
+            <!-- start column -->
+        	<div class="column">
+            	<h4>Buy</h4>
+                <ul>
+                	
+                    <li><a href="http://www.payitforwardauction.com/categories/items">Categories</a></li>
+                    <li><a href="http://www.payitforwardauction.com/search">Search</a></li>
+                    <li><a href="/main-converter">Currency Converter</a></li>
+                    
+                </ul>
+            </div>
+            <!-- end column -->
+            <!-- start column -->
+        	<div class="column">
+            	<h4>Sell</h4>
+                <ul>
+                	
+                    <li><a href="http://www.payitforwardauction.com/sell">Sell New Item</a></li>
+                    <li><a href="http://www.payitforwardauction.com/bulk/sell">Sell Bulk Items</a></li>
+                    
+                    
+                </ul>
+            </div>
+            <!-- end column -->
+            <!-- start column -->
+        	<div class="column">
+            	<h4>Support</h4>
+                <ul>
+                	
+                    <li><a href="http://www.payitforwardauction.com/main-contact">Contact</a></li>
+                    <li><a href="http://www.payitforwardauction.com/main-terms">Terms</a></li>
+                    <li><a href="http://www.payitforwardauction.com/main-privacy">Privacy</a></li>
+                    <li><a href="http://www.payitforwardauction.com/main-rss">RSS</a></li>
+                    
+                </ul>
+            </div>
+            <!-- end column -->
+            <!-- start column -->
+        	<div class="column">
+            	<h4>Other</h4>
+                <ul>
+                	
+                    
+                    <li><a href="/main-about">About</a></li>
+                    <li><a href="http://www.payitforwardauction.com/main-news">News</a></li>
+                    <li><a href="/main-resources">Feeds</a></li>
+                    
+                </ul>
+            </div>
+            <!-- end column -->
+            <!-- start column -->
+        	<div class="column">
+            	<h4>Stay connected</h4>
+                <ul>
+                	
+                    <li class="facebook"><a target="_blank" title="Facebook" href="https://www.facebook.com/Pay-it-Forward-Auction-257192921337957/">Facebook</a></li>
+                    <li class="twitter"><a target="_blank" title="Twitter" href="https://twitter.com/payitforwardsm">Twitter</a></li>
+                    <li class="google"><a target="_blank" title="Google Plus" href="https://plus.google.com/+KenThimmel/posts">Google+</a></li>
+                	
+                </ul>
+            </div>
+            <!-- end column -->
+            <div class="clear"></div>
+        </div>
+        
+        
+        <!-- end footer-link -->
+        
+        <div class="locale-tools"><form action="/main.php" method="get" accept-charset="UTF-8"></form></div>
+        <div class="copyright">Copyright &copy;2017, Pay It Forward Auction</div>
+        <div class="powered-by">Powered by: Pay it Forward Auction<!-- 4.0.0--></div>
+    </div>
+    <!-- end footer -->
+</div>
+<!-- end box -->
+
+
+<script type="text/javascript" charset="utf-8">
+<!--
+
+//-->
+</script>
+<!-- start automation --><noscript><img src="/cron.php?type=image" width="1" height="1" alt="" border="0" id="noscriptcron" /></noscript>
+<script type="text/javascript" src="/javascript.php?dojs=v4,autocomplete,tooltip,jquery_slides,homepage,cron" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+<!--
+iL_Tasks('/cron.php?type=ajax', 1379197268);
+//-->
+</script>
+</body>
+</html>
