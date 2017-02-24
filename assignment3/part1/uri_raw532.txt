@@ -1,0 +1,205 @@
+
+<!DOCTYPE html>
+
+<html lang="en" xml:lang="en">
+<head>
+<title>George Washington Quotes - Quotations and Famous Quotes by George Washington - Proverbia</title>
+<meta name="keywords" content="George Washington Quotes,quotations George Washington,quotes George Washington,famous quotes George Washington, sayings,love quotes,love quotations,proverbs,famous,famous quotes, famous quotations,quotes,prhases,feelings,aphorism,thoughts,love,life,sentences,sayings,virtues,George Washington" /> 
+<meta name="description" content="Compilation of quotations and famous quotes by George Washington. First President of the USA."/> 
+<meta charset="utf-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="/global.css" rel="stylesheet" type="text/css" />
+
+
+<!-- Google Analytics -->
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-59682-3', 'auto');
+    ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+</head>
+
+<body>
+
+<!-- google_ad_section_start(weight=ignore) -->
+
+<header id="header">
+<a title="Famous Quotes, Quotations and Proverbs in Proverbia.net" href="/default.asp">
+<img alt="Famous Quotes, Quotations and Proverbs in Proverbia.net" src="/images/pavan.jpg" width="960" height="76" border="0" />
+</a>
+<nav id="menu">
+<ul class="menu" id="menul">
+<li><a href="default.asp" title="Go to Home">Home</a></li><li><a href="citasautores.asp" title="Famous Quotes by author">Authors</a></li><li><a href="citastemas.asp" title="Famous Quotes by topic">Topics</a></li><li><a href="proverbs.asp" title="Proverbs">Proverbs</a></li><li><a href="searchquotations.asp" title="Search Famous Quotes">Search</a></li></ul>
+     <a href="javascript:" id="pull">Menú</a>  
+ </nav>
+	<nav id="submenuheader">
+	<a href="http://www.proverbia.net/default.asp" title="frases en español">versión española</a>
+	</nav></header>
+<!-- google_ad_section_end -->
+<script  type="text/javascript">
+    
+    var pull = document.getElementById('pull');
+    pull.addEventListener('click', function (e) {
+        var menu = document.getElementById('menul');
+        //alert(menu.style.display);
+        switch (menu.style.display) {
+            case 'block':
+                menu.style.display = 'none';
+                this.innerHTML = 'Menú';
+                break;
+            case 'none':
+                menu.style.display = 'block';
+                this.innerHTML='Cerrar';
+                break;
+            default:
+                menu.style.display = 'block';
+                this.innerHTML='Cerrar';
+
+        }
+    }, false);
+        
+    
+</script>
+  <div id="container">
+      <div id="content"> <a href="default.asp">Home</a> &gt; <a href="citasautores.asp">Authors</a> 
+        &gt; <a href="citasautores.asp?Letra=W">W</a> &gt; 
+<!-- google_ad_section_start -->
+        <h1> 
+          George Washington
+        </h1>      
+          <p>1732-1799. <span id="bio">First President of the USA.</span></p>
+		<p class="enlacesAutor"><a target="_blank" title="Books by George Washington" href="http://www.amazon.com/exec/obidos/redirect?link_code=ur2&tag=vicentjordaco-20&camp=1789&creative=9325&path=search-handle-url%2Findex%3Dbooks%26field-author-exact%3DGeorge Washington%26rank%3D-relevance%252C%252Bavailability%252C-daterank">Books by George Washington</a><img src="http://www.assoc-amazon.com/e/ir?t=vicentjordaco-20&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+	
+<!-- google_ad_section_end -->
+
+<div class="ql" id="ql">
+	<div class="q">
+		<blockquote>If the freedom of speech is taken away then dumb and silent we may be led, like sheep to the slaughter. </blockquote>
+	<p class="s"><span>More quotes on </span> <a title="Freedom of Speech Quotes" href="/citastema.asp?tematica=493">Freedom of Speech</a>	</p>
+	<ul class="o">
+	</ul>
+</div>	<div class="q">
+		<blockquote>My mother was the most beautiful woman I ever saw. All I am I owe to my mother. I attribute all my success in life to the moral, intellectual and physical education I received from her. </blockquote>
+	<p class="s"><span>More quotes on </span> <a title="Mothers Quotes" href="/citastema.asp?tematica=787">Mothers</a>	</p>
+	<ul class="o">
+	</ul>
+</div>	<div class="q">
+		<blockquote>I hope I shall possess firmness and virtue enough to maintain what I consider the most enviable of all titles, the character of an honest man. </blockquote>
+	<p class="s"><span>More quotes on </span> <a title="Honesty Quotes" href="/citastema.asp?tematica=566">Honesty</a>	</p>
+	<ul class="o">
+	</ul>
+</div>	<div class="q">
+		<blockquote>We should not look back unless it is to derive useful lessons from past errors, and for the purpose of profiting by dearly bought experience. </blockquote>
+	<p class="s"><span>More quotes on </span> <a title="History Quotes" href="/citastema.asp?tematica=561">History</a>	</p>
+	<ul class="o">
+	</ul>
+</div>	<div class="q">
+		<blockquote>I know of no pursuit in which more real and important services can be rendered to any country than by improving its agriculture, its breed of useful animals, and other branches of a husbandman's cares. </blockquote>
+	<p class="s"><span>More quotes on </span> <a title="Farmers Quotes" href="/citastema.asp?tematica=454">Farmers</a>	</p>
+	<ul class="o">
+	</ul>
+</div>	<div class="q">
+		<blockquote>Government is not reason and it is not eloquence. It is force! Like fire it is a dangerous servant and a fearful master. Never for a moment should it be left to irresponsible action. </blockquote>
+	<p class="s"><span>More quotes on </span> <a title="Government Quotes" href="/citastema.asp?tematica=530">Government</a>	</p>
+	<ul class="o">
+	</ul>
+</div>	<div class="q">
+		<blockquote>Let us with caution indulge the supposition that morality can be maintained without religion. Reason and experience both forbid us to expect that national morality can prevail in exclusion of religious principle. </blockquote>
+	<p class="s"><span>More quotes on </span> <a title="Morality Quotes" href="/citastema.asp?tematica=785">Morality</a>	</p>
+	<ul class="o">
+	</ul>
+</div>	<div class="q">
+		<blockquote>Observe good faith and justice toward all nations. Cultivate peace and harmony with all. </blockquote>
+	<p class="s"><span>More quotes on </span> <a title="Peace Quotes" href="/citastema.asp?tematica=877">Peace</a>	</p>
+	<ul class="o">
+	</ul>
+</div>	<div class="q">
+		<blockquote>The time is near at hand which must determine whether Americans are to be free men or slaves. </blockquote>
+	<p class="s"><span>More quotes on </span> <a title="Freedom Quotes" href="/citastema.asp?tematica=492">Freedom</a>	</p>
+	<ul class="o">
+	</ul>
+</div>	<div class="q">
+		<blockquote>It is the child of avarice, the brother of iniquity, and the father of mischief. </blockquote>
+	<p class="s"><span>More quotes on </span> <a title="Gambling Quotes" href="/citastema.asp?tematica=504">Gambling</a>	</p>
+	<ul class="o">
+	</ul>
+</div><div class="pub">
+         <p class="ads">Advertisment</p>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3410145742764658";
+/* REC 336x280 EN */
+google_ad_slot = "3115507950";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div><div id="paginas"><strong>1</strong> <a title="George Washington Quotes - Quotations and Famous Quotes by George Washington - Page 2" href="/citasautor.asp?autor=17545&amp;page=2">2</a> <a title="George Washington Quotes - Quotations and Famous Quotes by George Washington - Page 3" href="/citasautor.asp?autor=17545&amp;page=3">3</a> <a title="George Washington Quotes - Quotations and Famous Quotes by George Washington - Page 4" href="/citasautor.asp?autor=17545&amp;page=4">4</a> <a title="George Washington Quotes - Quotations and Famous Quotes by George Washington - Page 2" href="/citasautor.asp?autor=17545&amp;page=2">Next &gt;</a></div><div class="navAutores"><p style="text-align:center"><strong>Other authors</strong></p><ul class="navAutores" style="padding-bottom: 10px;"><li class="l"><span id="ant"><a title="Andy Warhol Quotes" href="citasautor.asp?autor=17531">&lt; Andy Warhol</a></span></li><li class="r"><span id="sig"><a title="Simone Weil Quotes" href="citasautor.asp?autor=17588">Simone Weil &gt;</a></span></li></ul><p style="clear: both; text-align: left"><a href="/citasautores.asp">Go to author list</a></p></div></div>
+
+</div>
+
+<div id="relmenu">
+		
+		<div class="opt" >
+			<h2>More quotations</h2>
+            <ul>
+				<li><a title="Short famous quotes" href="shortfamousquotes.asp">Short famous quotes</a></li>
+				<li><a title="Short love quotes" href="shortlovequotes.asp">Short love quotes</a></li>
+				<li><a target="_blank" title="Search &amp; Quotes" href="/google">Search &amp; Quotes</a></li>
+				</ul>
+            </div>
+       
+
+		<div class="opt" id="pub">
+        <p class="ads">Advertisment</p>
+			
+        <style type="text/css">
+.sidebar_desktop { display:inline-block; width: 160px; height: 600px; }
+@media (max-width: 760px) { .sidebar_desktop { display: none; } }
+@media (min-width:761px) { .sidebar_desktop { width: 160px; height: 600px; } }
+</style>
+<ins class="adsbygoogle sidebar_desktop"
+   data-ad-client="ca-pub-3410145742764658"
+   data-ad-slot="9118148617"></ins>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>    (adsbygoogle = window.adsbygoogle || []).push({});</script>			
+		
+		    
+		</div>
+
+</div>
+
+<!-- google_ad_section_start(weight=ignore) -->
+
+<footer id="footer">
+
+		<nav><a href="default.asp"  title="Go to Home">Home</a> · <a href="citasautores.asp"  title="Famous Quotes by author">Authors</a> · <a href="citastemas.asp"  title="Famous Quotes by topic">Topics</a> · <a href="proverbs.asp"  title="Proverbs">Proverbs</a> · <a href="searchquotations.asp"  title="Search Famous Quotes">Search</a>
+        </nav>
+      
+  <div id="submenuFooter"><span id="copyright">&copy; 2015 <a title="Noves Idees per a la Xarxa, S.L." href="http://www.novixar.com">Novixar</a></span> | <a href="/acercade.asp">Acerca de</a> | <a href="/avisolegal.asp">Aviso legal</a> | <a href="/publicidad.asp">Publicidad</a> | <a href="/contactar.asp">Contactar</a> | <a href="/preguntasmasfrecuentes.asp">Ayuda</a> | <a href="/mapadelsitio.asp">Mapa del sitio</a> | 
+<!-- Añade esta etiqueta donde quieras colocar el botón +1 -->
+<a href="http://www.facebook.com/Proverbia"><img alt="Facebook" src="/images/ic_facebook.png" /></a>  &nbsp;<g:plusone size="small" count="false" href="http://www.proverbia.net"></g:plusone> <a href="http://twitter.com/Proverbia_net"><img alt="Twitter" src="/images/ic_twitter.png" /></a> <a href="http://validator.w3.org/check?uri=referer" target="_blank">HTML5</a></div>				
+<p>
+    
+  </p>
+</footer>
+
+
+<!-- google_ad_section_end -->
+
+</div>
+</body>
+</html>

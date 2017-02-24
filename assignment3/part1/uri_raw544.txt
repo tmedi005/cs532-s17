@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="1;url=http://dlvr.it/NS5j2V" />
+
+        <title>Redirecting to http://dlvr.it/NS5j2V</title>
+    </head>
+    <body>
+        Redirecting to <a href="http://dlvr.it/NS5j2V">http://dlvr.it/NS5j2V</a>.
+    </body>
+</html>

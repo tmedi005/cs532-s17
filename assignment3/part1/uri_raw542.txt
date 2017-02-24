@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" type="text/css" href="http://www.pornhub.com/insights/wp-content/thesis/skins/classic-r/css.css" media="screen, projection" />
+<title>Pornhub Traffic During Super Bowl 51 &#8211; Pornhub Insights</title>
+<meta name="description" content="The 51st Super Bowl took place on Sunday February 5th and saw AFC champions the New England Patriots play NFC champions the Atlanta Falcons. In the year&#8217;s" />
+<meta name="robots" content="noodp, noydir" />
+<meta name="google-site-verification" content="RXzbqpLPYNdiSQHwe2p1OduIWhnPEA4Rm093kAL6V40" />
+<link rel="alternate" type="application/rss+xml" title="Pornhub Insights feed" href="http://www.pornhub.com/insights/feed" />
+<link rel="pingback" href="http://www.pornhub.com/insights/xmlrpc.php" />
+<meta property="og:image" content="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-cover-275x148.jpg"/>
+<!-- This site is optimized with the Yoast SEO plugin v4.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.pornhub.com/insights/pornhub-traffic-super-bowl-51" />
+<link rel="publisher" href="https://plus.google.com/106654976348919347395"/>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Pornhub Insights &raquo; Pornhub Traffic During Super Bowl 51 Comments Feed" href="http://www.pornhub.com/insights/pornhub-traffic-super-bowl-51/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.pornhub.com\/insights\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='hupso_css-css'  href='http://www.pornhub.com/insights/wp-content/plugins/hupso-share-buttons-for-twitter-facebook-google/style.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-standard-css-css'  href='//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.pornhub.com/insights/wp-content/plugins/wp-pagenavi/navi.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://www.pornhub.com/insights/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.pornhub.com/insights/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.pornhub.com/insights/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pornhub.com%2Finsights%2Fpornhub-traffic-super-bowl-51" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.pornhub.com/insights/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pornhub.com%2Finsights%2Fpornhub-traffic-super-bowl-51&#038;format=xml" />
+<script type="text/javascript">
+jQuery(document).ready(function($) { 
+var d = new Date();
+var n = d.getFullYear();
+jQuery('.copyrightTxt').html('© ' + n + ' Pornhub');
+jQuery('#s').attr('placeholder', 'Search');
+
+jQuery( ".popular-posts li" ).mouseover(function() {
+  jQuery(this).append("<div class='fisheyelogo' style='opacity:1;'></div>");
+});
+
+jQuery( ".popular-posts li" ).mouseout(function() {
+  jQuery(".fisheyelogo").remove();
+});
+
+jQuery( ".featureImageWrapper a").mouseover(function() {
+  jQuery(this).find(".fishHover").css("display", "block");
+});
+
+jQuery( ".featureImageWrapper a").mouseout(function() {
+  jQuery(this).find('.fishHover').css("display", "none");
+});
+
+
+jQuery(".menu_control").click(function() {
+  if (jQuery(".mobile_menu").css('display') == 'none'){ 
+            jQuery(".mobile_menu").show();
+            jQuery(".menu_control").css("background-color","#3c3c3c");
+        } else {
+            jQuery(".mobile_menu").hide();
+            jQuery(".menu_control").css("background-color","transparent");            
+        }       
+});
+
+
+jQuery(".search_mobile").click(function() {
+  if (jQuery(".search_mobile_main").css('display') == 'none'){ 
+            jQuery(".search_mobile_main").show();
+            jQuery(this).css("background-color", "#3c3c3c");
+        } else {
+            jQuery(".search_mobile_main").hide();
+            jQuery(this).css("background-color", "transparent");        
+        }       
+});
+});
+</script>
+<style type="text/css">
+.ui-widget {
+font-family: inherit;
+font-size: inherit;
+}
+</style>
+				<!-- WordPress Popular Posts v3.3.4 -->
+				<script type="text/javascript">
+
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						/* Create XMLHttpRequest object and set variables */
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'http://www.pornhub.com/insights/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=33e175a8ad&wpp_id=10239';
+						/* Set request method and target URL */
+						xhr.open( "POST", url, true );
+						/* Set request header */
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						/* Hook into onreadystatechange */
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						/* Send request */
+						xhr.send( params );
+
+					}
+
+				</script>
+				<!-- End WordPress Popular Posts v3.3.4 -->
+				<link rel="shortcut icon" href="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2013/09/favicon1.ico" />
+</head>
+<body class="statisticBlog template-single">
+<div class="container">
+	<div class="paddingHeader">
+		<div id="header" class="header">
+			<ul id="menu-main_menu" class="menu"><li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-7"><a title="Stats" href="http://www.pornhub.com/insights/category/stats">Stats</a></li>
+<li id="menu-item-5989" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5989"><a href="http://www.pornhub.com/press">Press</a></li>
+</ul>
+<a href="http://www.pornhub.com/insights"><img id="thesis_header_image" src="http://pornhub.com/insights/wp-content/uploads/2013/09/phublogo.png" alt="Pornhub Insights header image" width="284" height="49" title="click to return home" /></a>
+		</div>
+	</div>
+	<div class="search_mobile">
+	</div>
+	<div class="search_mobile_main">
+<div class="widget widget_search_mobile">
+	<form method="get" class="search_form" action="http://www.pornhub.com/insights/">
+		<p>
+			<input class="text_input" type="text" value="" name="s" id="s" onfocus="if (this.value == '') {this.value = '';}" onblur="if (this.value == '') {this.value = '';}" />
+			<input type="submit" id="searchsubmit" value="Search" />
+		</p>
+	</form>
+</div>
+	</div>
+	<div class="menu_control">
+		<p>≡</p>
+	</div>
+	<div class="mobile_position mobile_menu">
+		<ul id="mobile" class="mobile_menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-7"><a title="Stats" href="http://www.pornhub.com/insights/category/stats">Stats</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5989"><a href="http://www.pornhub.com/press">Press</a></li>
+</ul>
+	</div>
+	<div class="columns">
+		<div class="content">
+			<div id="post-10239" class="post_box grt top" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="name"><a href="http://www.pornhub.com/insights/pornhub-traffic-super-bowl-51" rel="bookmark">Pornhub Traffic During Super Bowl 51</a></h1>
+					<div class="byline small">
+						<meta itemprop="interactionCount" content="UserComments:0" />
+						<span class="bracket">{</span> <a class="num_comments_link" href="http://www.pornhub.com/insights/pornhub-traffic-super-bowl-51#commentform" rel="nofollow"><span class="num_comments">0</span> comments</a> <span class="bracket">}</span>
+						<div class="clockLogo">
+						</div>
+						<meta itemprop="datePublished" content="2017-02-06" />
+						<meta itemprop="dateModified" content="2017-02-06" />
+						<span class="post_date" title="2017-02-06">February 6, 2017</span>
+						<div class="chatLogo">
+						</div>
+						<div>
+		<div class="socialnetworkingButtons">
+		<!-- Sharing Button BEGIN -->
+		<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.pornhub.com/insights/pornhub-traffic-super-bowl-51" data-text="Pornhub Traffic During Super Bowl 51" data-via="Pornhub" data-related="" data-hashtags="">Tweet</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+	
+		<!-- Place this tag where you want the +1 button to render. https://twitter.com/about/resources/buttons#tweet-->
+		<div class="g-plusone" data-size="medium" data-href="http://www.pornhub.com/insights/pornhub-traffic-super-bowl-51" style="width:110px!important;"></div>
+
+		<!-- Place this tag after the last +1 button tag. https://developers.google.com/+/web/+1button/ -->
+		<script type="text/javascript">
+		  (function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })();
+		</script>
+		<!-- Sharing Button END -->
+		</div>
+						</div>
+					</div>
+				</div>
+				<div class="resetDiv">
+				</div>
+				<img width="650" height="350" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-cover.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-cover.jpg 650w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-cover-275x148.jpg 275w" sizes="(max-width: 650px) 100vw, 650px" />				<div class="post_content content_core" itemprop="articleBody">
+<p>The 51st Super Bowl took place on Sunday February 5th and saw AFC champions the New England Patriots play NFC champions the Atlanta Falcons. In the year&#8217;s largest televised sports event, millions watched as the Patriots overcame the largest deficit in Superbowl history to beat the Falcons 34 to 28 in overtime. Many live sports events cause a major drop in Pornhub&#8217;s traffic, but few are as drastic as the Super Bowl, when even non-football followers tuned in to see Lady Gaga&#8217;s halftime show, and the myriad of big budget commercials. Our friends at <a href="https://www.cnet.com/news/new-england-patriots-super-bowl-2017-comeback-pornhub/">Cnet</a> checked in to see how this year&#8217;s game stacked up.</p>
+<p><span id="more-10239"></span></p>
+<p>Shortly after the game kicked off at 6:30pm, traffic across the United States dropped by -27%, and remained well under normal Sunday levels right up to the game&#8217;s end at 10:30. Pornhub visits immediately surged after the game ended, not just returning to normal levels, but reaching 9% above average at 11pm. Now there&#8217;s some real overtime ball play!</p>
+<p><img class="alignnone size-full wp-image-10241" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-united-states-traffic.png" alt="pornhub-insights-super-bowl-2017-united-states-traffic" width="620" height="623" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-united-states-traffic.png 620w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-united-states-traffic-150x150.png 150w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-united-states-traffic-275x276.png 275w" sizes="(max-width: 620px) 100vw, 620px" /></p>
+<p>Everyone likes to root for their home teams, so we found some of the largest traffic fluctuations in the states of Massachusetts and Georgia. In both, traffic dropped sharply at the beginning of the game, with Georgia reaching a low of -37% below average at around 9pm. Even as defeat seemed certain, Massachusetts traffic still remained lower at -40%. Then something amazing happened &#8212; the Patriots began one of the largest turnarounds in football history. As word quickly got around to Bay Staters, traffic plummeted to -53% below average at 10pm, about the same time as it began to increase in Georgia.</p>
+<p><img class="alignnone size-full wp-image-10247" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-mass-georgia-traffic.png" alt="pornhub-insights-super-bowl-2017-mass-georgia-traffic" width="620" height="623" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-mass-georgia-traffic.png 620w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-mass-georgia-traffic-150x150.png 150w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-mass-georgia-traffic-275x276.png 275w" sizes="(max-width: 620px) 100vw, 620px" /></p>
+<p>At the end of the game, fans for both teams headed back to Pornhub to either celebrate their win or feel better about their team&#8217;s loss. At midnight traffic in Georgia was up +18% above average, but an amazing +30% increase in Massachusetts as fans did their own version over-cumming.</p>
+<p>Visitors to Pornhub clearly had the Super Bowl on their mind as they visited the site on game day. Searches for &#8220;Super Bowl&#8221; and &#8220;Superbowl&#8221; were up 2451% on February 5th, along with a 407% increase for &#8220;NFL&#8221; and a 394% increase for &#8220;Football&#8221;. Once again &#8220;Patriots&#8221; won with a 1608% increase for their team name versus 386% for &#8220;Falcons&#8221;. For many viewers it was &#8220;Lady Gaga&#8221; that stole the show with a 598% increase in searches for her name, and 2432% for &#8220;halftime&#8221;.</p>
+<p><img class="alignnone size-full wp-image-10255" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-search-term-increases-1.png" alt="pornhub-insights-super-bowl-2017-search-term-increases" width="620" height="627" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-search-term-increases-1.png 620w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-search-term-increases-1-275x278.png 275w" sizes="(max-width: 620px) 100vw, 620px" /></p>
+<p>While traffic was down 24% across the entire U.S. from 6pm to 11pm, not all the states were united in their love of football. Rhode Island, Massachusetts and New Hampshire all dropped more than 40%, while some Southern states like Louisiana, Arkansas and Mississippi only dropped by 17% to 18% during the game. See how your state stacked up the full list below.</p>
+<p><img class="alignnone size-full wp-image-10259" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-game-time-traffic-change.png" alt="pornhub-insights-super-bowl-2017-game-time-traffic-change" width="620" height="1475" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-game-time-traffic-change.png 620w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-game-time-traffic-change-275x654.png 275w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-super-bowl-2017-game-time-traffic-change-430x1024.png 430w" sizes="(max-width: 620px) 100vw, 620px" /></p>
+<p>We hope you enjoyed this edition of Pornhub Insights. Compare these results to our coverage of last year&#8217;s <a href="http://www.pornhub.com/insights/pornhub-traffic-super-bowl-50">Super Bowl 50</a>, and other historical games like the <a href="http://www.pornhub.com/insights/mlb-world-series-final-traffic">MLB World Series</a> between the Chicago Cubs and Cleveland Indians.</p>
+				</div>
+
+<div id="disqus_thread">
+    </div>
+
+<script type="text/javascript">
+var disqus_url = 'http://www.pornhub.com/insights/pornhub-traffic-super-bowl-51';
+var disqus_identifier = '10239 http://www.pornhub.com/insights/?p=10239';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'pornhubinsights';
+var disqus_title = "Pornhub Traffic During Super Bowl 51";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    
+    
+    this.language = '';
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+
+			</div>
+			<div class="prev_next">
+			</div>
+<div class="borderPageNation">
+<div class='wp-pagenavi'>
+<span class='pages'>Page 1 of 1</span><span class='current'>1</span>
+</div><br />
+</div>
+		</div>
+		<div class="sidebar">
+			<div class="socialNetWrapper">
+	<ul class="socialNetContainer">
+		<li class="circle"><a href="http://www.twitter.com/pornhub" target="_blank"><i id="twitlogo" class="slogo"></i></a></li>
+		<li class="circle"><a href="http://instagram.com/pornhub" target="_blank"><i id="instlogo" class="slogo"></i></a></li>
+		<li class="circle"><a href="http://pornhub.tumblr.com" target="_blank"><i id="tumblrlogo" class="slogo"></i></a></li>
+		<li class="circle"><a href="http://youtube.com/pornhubofficial" target="_blank"><i id="youtubelogo" class="slogo"></i></a></li>
+	</ul>
+			</div>
+<div class="widget widget_search" id="search-5"><form role="search" method="get" id="searchform" class="searchform" action="http://www.pornhub.com/insights/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></div><div class="widget widget_text" id="text-2">			<div class="textwidget">Pornhub Insights is research and analysis directly from the Pornhub team. We've compiled data from billions of hits, all to explore the intricacies of online porn viewership. <a href="http://www.pornhub.com" target="_blank">Pornhub.com</a> is the world's biggest porn site. Follow Insights for stats, events, and Pornhub related announcements.</div>
+		</div><div class="widget widget_text" id="text-3"><p class="widget_title">Links (NSFW)</p>			<div class="textwidget"><a href="http://www.pornhub.com/">Pornhub.com</a><br/>
+<a href="http://www.pornhub.com/blog/">Pornhub Blog</a><br/>
+<a href="http://www.pornhub.com/social/">Social</a><br/>
+<a href="http://www.pornhub.com/cares/">Pornhub Cares</a><br/>
+<a href="http://www.pornhub.com/win/">Pornhub Contests</a><br/>
+<a href="http://feedback.pornhub.com/">Leave Feedback</a><br/>
+<a href="http://www.pornhub.com/support/">Contact Support</a><br/>
+<a href="https://plus.google.com/106654976348919347395" rel="publisher">Google+</a></div>
+		</div><div class="widget widget_text" id="text-4"><p class="widget_title">Insights in your Inbox</p>			<div class="textwidget"><script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=BwrQt&webforms_id=7190502"></script></div>
+		</div><div><p class="widget_title">Featured Insights</p><div class="featureInWrapper"><div class="featureImageWrapper">                            <a title="Valentine's Day for Porn Lovers" href="http://www.pornhub.com/insights/valentines-day"><span class="fishHover"></span><img width="650" height="350" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-valentines-day-cover.jpg" class="attachment-full size-full" alt="" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-valentines-day-cover.jpg 650w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2017/02/pornhub-insights-valentines-day-cover-275x148.jpg 275w" sizes="(max-width: 650px) 100vw, 650px" /></a>   
+
+                        </div><div style="margin-top:20px;"></div><div><div>								<a class="featuredTitle" title="Valentine's Day for Porn Lovers" rel="bookmark" href="http://www.pornhub.com/insights/valentines-day">Valentine's Day for Porn Lovers</a>
+							</div><div>February 13, 2017 | 0 comments</div></div><div style="clear:both;margin-top:20px"></div></div><div class="featureInWrapper"><div class="featureImageWrapper">                            <a title="Pornhub's 2016 Year in Review" href="http://www.pornhub.com/insights/2016-year-in-review"><span class="fishHover"></span><img width="650" height="350" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/12/pornhub-insights-2016-year-review-cover.jpg" class="attachment-full size-full" alt="" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/12/pornhub-insights-2016-year-review-cover.jpg 650w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/12/pornhub-insights-2016-year-review-cover-275x148.jpg 275w" sizes="(max-width: 650px) 100vw, 650px" /></a>   
+
+                        </div><div style="margin-top:20px;"></div><div><div>								<a class="featuredTitle" title="Pornhub's 2016 Year in Review" rel="bookmark" href="http://www.pornhub.com/insights/2016-year-in-review">Pornhub's 2016 Year in Review</a>
+							</div><div>January 4, 2017 | 418 comments</div></div><div style="clear:both;margin-top:20px"></div></div><div class="featureInWrapper"><div class="featureImageWrapper">                            <a title="Women Searching for Women" href="http://www.pornhub.com/insights/women-searching-for-women"><span class="fishHover"></span><img width="650" height="350" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/10/pornhub-insights-women-lesbian-cover.jpg" class="attachment-full size-full" alt="" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/10/pornhub-insights-women-lesbian-cover.jpg 650w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/10/pornhub-insights-women-lesbian-cover-275x148.jpg 275w" sizes="(max-width: 650px) 100vw, 650px" /></a>   
+
+                        </div><div style="margin-top:20px;"></div><div><div>								<a class="featuredTitle" title="Women Searching for Women" rel="bookmark" href="http://www.pornhub.com/insights/women-searching-for-women">Women Searching for Women</a>
+							</div><div>November 17, 2016 | 11 comments</div></div><div style="clear:both;margin-top:20px"></div></div><div class="featureInWrapper"><div class="featureImageWrapper">                            <a title="Election Day Insights" href="http://www.pornhub.com/insights/election-day"><span class="fishHover"></span><img width="650" height="350" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/11/pornhub-insights-presidential-election-cover.png" class="attachment-full size-full" alt="" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/11/pornhub-insights-presidential-election-cover.png 650w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/11/pornhub-insights-presidential-election-cover-275x148.png 275w" sizes="(max-width: 650px) 100vw, 650px" /></a>   
+
+                        </div><div style="margin-top:20px;"></div><div><div>								<a class="featuredTitle" title="Election Day Insights" rel="bookmark" href="http://www.pornhub.com/insights/election-day">Election Day Insights</a>
+							</div><div>November 9, 2016 | 7 comments</div></div><div style="clear:both;margin-top:20px"></div></div><div class="featureInWrapper"><div class="featureImageWrapper">                            <a title="Pornhub Pizza Delivery: Always Hot and Fresh" href="http://www.pornhub.com/insights/pizza-porn"><span class="fishHover"></span><img width="650" height="350" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/09/pornhub-insights-pizza-porn-cover.jpg" class="attachment-full size-full" alt="" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/09/pornhub-insights-pizza-porn-cover.jpg 650w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/09/pornhub-insights-pizza-porn-cover-275x148.jpg 275w" sizes="(max-width: 650px) 100vw, 650px" /></a>   
+
+                        </div><div style="margin-top:20px;"></div><div><div>								<a class="featuredTitle" title="Pornhub Pizza Delivery: Always Hot and Fresh" rel="bookmark" href="http://www.pornhub.com/insights/pizza-porn">Pornhub Pizza Delivery: Always Hot and Fresh</a>
+							</div><div>October 25, 2016 | 38 comments</div></div><div style="clear:both;margin-top:20px"></div></div><div class="featureInWrapper"><div class="featureImageWrapper">                            <a title="Clowning Around" href="http://www.pornhub.com/insights/clowning-around"><span class="fishHover"></span><img width="650" height="350" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/10/pornhub-insights-clown-cover.jpg" class="attachment-full size-full" alt="" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/10/pornhub-insights-clown-cover.jpg 650w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/10/pornhub-insights-clown-cover-275x148.jpg 275w" sizes="(max-width: 650px) 100vw, 650px" /></a>   
+
+                        </div><div style="margin-top:20px;"></div><div><div>								<a class="featuredTitle" title="Clowning Around" rel="bookmark" href="http://www.pornhub.com/insights/clowning-around">Clowning Around</a>
+							</div><div>October 14, 2016 | 58 comments</div></div><div style="clear:both;margin-top:20px"></div></div><div class="featureInWrapper"><div class="featureImageWrapper">                            <a title="Super Hero Parody Searches" href="http://www.pornhub.com/insights/super-hero-searches"><span class="fishHover"></span><img width="650" height="350" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/08/SH-Insights-5.jpg" class="attachment-full size-full" alt="" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/08/SH-Insights-5.jpg 650w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/08/SH-Insights-5-275x148.jpg 275w" sizes="(max-width: 650px) 100vw, 650px" /></a>   
+
+                        </div><div style="margin-top:20px;"></div><div><div>								<a class="featuredTitle" title="Super Hero Parody Searches" rel="bookmark" href="http://www.pornhub.com/insights/super-hero-searches">Super Hero Parody Searches</a>
+							</div><div>August 8, 2016 | 15 comments</div></div><div style="clear:both;margin-top:20px"></div></div><div class="featureInWrapper"><div class="featureImageWrapper">                            <a title="Porn on the Go: Mobile Traffic Takeover" href="http://www.pornhub.com/insights/mobile-traffic"><span class="fishHover"></span><img width="650" height="350" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/07/pornhub-insights-mobile-traffic-growth-cover.jpg" class="attachment-full size-full" alt="" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/07/pornhub-insights-mobile-traffic-growth-cover.jpg 650w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/07/pornhub-insights-mobile-traffic-growth-cover-275x148.jpg 275w" sizes="(max-width: 650px) 100vw, 650px" /></a>   
+
+                        </div><div style="margin-top:20px;"></div><div><div>								<a class="featuredTitle" title="Porn on the Go: Mobile Traffic Takeover" rel="bookmark" href="http://www.pornhub.com/insights/mobile-traffic">Porn on the Go: Mobile Traffic Takeover</a>
+							</div><div>July 19, 2016 | 6 comments</div></div><div style="clear:both;margin-top:20px"></div></div><div class="featureInWrapper"><div class="featureImageWrapper">                            <a title="Pornhub Emoji: Express Yourself" href="http://www.pornhub.com/insights/pornhub-emoji"><span class="fishHover"></span><img width="650" height="350" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/07/pornhub-insights-emoji-cover.jpg" class="attachment-full size-full" alt="" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/07/pornhub-insights-emoji-cover.jpg 650w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/07/pornhub-insights-emoji-cover-275x148.jpg 275w" sizes="(max-width: 650px) 100vw, 650px" /></a>   
+
+                        </div><div style="margin-top:20px;"></div><div><div>								<a class="featuredTitle" title="Pornhub Emoji: Express Yourself" rel="bookmark" href="http://www.pornhub.com/insights/pornhub-emoji">Pornhub Emoji: Express Yourself</a>
+							</div><div>July 14, 2016 | 0 comments</div></div><div style="clear:both;margin-top:20px"></div></div><div class="featureInWrapper"><div class="featureImageWrapper">                            <a title="Pokemon Porn Searches" href="http://www.pornhub.com/insights/pokemon-searches"><span class="fishHover"></span><img width="650" height="350" src="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/07/pornhub-insights-pokemon-porn-cover.jpg" class="attachment-full size-full" alt="" srcset="http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/07/pornhub-insights-pokemon-porn-cover.jpg 650w, http://cdn1b.static.pornhub.phncdn.com/insights-static//wp-content/uploads/2016/07/pornhub-insights-pokemon-porn-cover-275x148.jpg 275w" sizes="(max-width: 650px) 100vw, 650px" /></a>   
+
+                        </div><div style="margin-top:20px;"></div><div><div>								<a class="featuredTitle" title="Pokemon Porn Searches" rel="bookmark" href="http://www.pornhub.com/insights/pokemon-searches">Pokemon Porn Searches</a>
+							</div><div>July 12, 2016 | 92 comments</div></div><div style="clear:both;margin-top:20px"></div></div></div class="widget widget_text">		</div>
+	</div>
+	<div id="footer" class="footer">
+		<div class="mobile_container">
+	<ul class="socialNetContainer">
+		<li class="circle"><a href="http://www.twitter.com/pornhub" target="_blank"><i id="twitlogo" class="slogo"></i></a></li>
+		<li class="circle"><a href="http://instagram.com/pornhub" target="_blank"><i id="instlogo" class="slogo"></i></a></li>
+		<li class="circle"><a href="http://pornhub.tumblr.com" target="_blank"><i id="tumblrlogo" class="slogo"></i></a></li>
+		<li class="circle"><a href="http://youtube.com/pornhubofficial" target="_blank"><i id="youtubelogo" class="slogo"></i></a></li>
+	</ul>
+		</div>
+		<div class="footerWrapper">
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-2623535-9', 'pornhub.com');
+	  ga('send', 'pageview');
+
+	  jQuery(document).ready(function($) { 
+	    var url = window.location.href;
+	    // passes on every "a" tag 
+	    jQuery("#menu-main_menu a").each(function() {
+	        // checks if its the same on the address bar
+	        if(url == (this.href)) { 
+	            jQuery(this).closest("li").addClass("active").append("<div class='headerDownArrow'><p>▼</p></div>");
+	            jQuery(this).parent().siblings().find("a").css( "color", "grey" );
+	        }
+	    });
+	  });
+
+	</script>
+	<p class="copyrightTxt"></p>
+	<ul id="menu-blog_footer_menu" class="menu"><li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a title="contact" href="http://www.pornhub.com/support">Contact</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://www.pornhub.com/information#advertising">Advertise</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.pornhub.com/information#privacy">Privacy</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="http://www.pornhub.com/information#terms">Terms</a></li>
+<li id="menu-item-5998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5998"><a href="http://pornhub.com/insights/feed/">RSS</a></li>
+</ul>		</div>
+	</div>
+</div>
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'pornhubinsights';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1 && nodes[i].parentNode.tagName == 'A') {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/comment-reply.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/wp-a11y.min.js?ver=4.7.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/selectable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-bounce.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-clip.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-explode.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-pulsate.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-size.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-scale.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/jquery/ui/effect-transfer.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-content/plugins/wp-gallery-custom-links/wp-gallery-custom-links.js?ver=1.1'></script>
+<script type='text/javascript' src='http://www.pornhub.com/insights/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 3986/4009 objects using memcached
+Page Caching using memcached
+Database Caching 31/36 queries in 0.024 seconds using memcached
+
+ Served from: www.pornhub.com @ 2017-02-23 02:21:03 by W3 Total Cache -->
