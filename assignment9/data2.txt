@@ -1,0 +1,112 @@
+90 manual classifications
+
+Title                                                       Prediction  Actual    
+______________________________________________________________________________
+Game of Thrones                                             None        action    
+Sully                                                       action      drama     
+Star Trek Beyond                                            action      action    
+Ghostbusters                                                drama       comedy    
+Jason Bourne                                                action      action    
+The Magnificent Seven                                       action      action    
+Free State of Jones                                         action      drama     
+Money Monster                                               drama       drama     
+Hell or High Water                                          action      drama     
+The Legend of Tarzan                                        action      action    
+The Accountant                                              action      action    
+Deepwater Horizon                                           comedy      drama     
+Hacksaw Ridge                                               action      drama     
+Central Intelligence                                        action      comedy    
+X-Men: Apocalypse                                           drama       action    
+Independence Day: Resurgence                                action      action    
+Manchester by the Sea                                       action      drama     
+Suicide Squad                                               action      action    
+The Jungle Book (2016)                                      action      family    
+Bad Moms                                                    action      comedy    
+Now You See Me 2                                            action      action    
+Captain America: Civil War                                  drama       action    
+Homeland                                                    drama       drama     
+The Nice Guys                                               action      comedy    
+The Infiltrator                                             action      drama     
+Inferno                                                     drama       action    
+The Secret Life of Pets                                     action      family    
+The Girl on the Train                                       comedy      drama     
+Me Before You                                               drama       drama     
+Outlander                                                   action      drama     
+Florence Foster Jenkins                                     action      drama     
+Mechanic: Resurrection                                      drama       action    
+The Huntsman: Winters War                                   drama       drama     
+The Shallows                                                drama       horror    
+War Dogs                                                    drama       drama     
+Finding Dory                                                action      family    
+A Hologram for the King                                     action      drama     
+Miss Peregrines Home for Peculiar Children                  drama       family    
+Blood Father                                                family      action    
+Neighbors 2: Sorority Rising                                action      comedy    
+Whiskey Tango Foxtrot                                       drama       comedy    
+Batman v Superman: Dawn of Justice                          action      action    
+Eye in the Sky                                              action      drama     
+The Man Who Knew Infinity                                   action      drama     
+The Boss                                                    action      comedy    
+Passengers                                                  drama       drama     
+Dont Breathe                                                action      horror    
+Sausage Party                                               drama       comedy    
+Jack Reacher: Never Go Back                                 action      action    
+Warcraft                                                    family      action    
+Mothers Day                                                 comedy      comedy    
+The BFG                                                     family      family    
+Ben-Hur                                                     action      action    
+Captain Fantastic                                           family      comedy    
+Snowden                                                     drama       drama     
+The Duel                                                    action      drama     
+Criminal                                                    drama       action    
+The Meddler                                                 action      comedy    
+Joy                                                         action      drama     
+Moonlight                                                   drama       drama     
+Arrival                                                     drama       drama     
+Petes Dragon                                                family      family    
+The Finest Hours                                            drama       action    
+11/22/63                                                    action      drama     
+Wild Oats                                                   drama       comedy    
+Café Society                                                comedy      comedy    
+Hello, My Name Is Doris                                     family      comedy    
+Mike and Dave Need Wedding Dates                            comedy      comedy    
+Miracles from Heaven                                        family      drama     
+The Revenant                                                action      drama     
+13 Hours: The Secret Soldiers of Benghazi                   action      action    
+Bridge of Spies                                             drama       drama     
+Race                                                        drama       drama     
+The Conjuring 2                                             comedy      horror    
+Hunt for the Wilderpeople                                   family      family    
+My Big Fat Greek Wedding 2                                  comedy      comedy   
+Bridget Joness Baby                                         action      comedy    
+The Divergent Series: Allegiant                             drama       action    
+10 Cloverfield Lane                                         action      drama     
+London Has Fallen                                           action      action    
+Alice Through the Looking Glass                             drama       family    
+Genius                                                      action      drama     
+The Night Manager                                           drama       drama     
+House of Cards                                              action      drama     
+I Am Wrath                                                  drama       action    
+Teenage Mutant Ninja Turtles: Out of the Shadows            action      action    
+Kubo and the Two Strings                                    family      family    
+Love & Friendship                                           comedy      comedy    
+Our Kind of Traitor                                         drama       drama     
+The Purge: Election Year                                    action      action    
+______________________________________________________________________________
+
+
+10 automatic classifications
+
+Title                                                       Prediction  Actual    
+______________________________________________________________________________
+The Hateful Eight                                           drama       drama     
+Deadpool                                                    action      action    
+Storks                                                      comedy      family    
+Concussion                                                  drama       drama     
+Ice Age: Collision Course                                   action      family    
+Nerve                                                       drama       drama     
+Brooklyn                                                    action      drama     
+Dark Horse                                                  action      drama     
+Keeping Up with the Joneses                                 drama       comedy    
+The Intern                                                  family      comedy    
+______________________________________________________________________________
